@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_options">
+        <item>ရာခိုင်နှုန်းအား အမြဲပြပါ</item>
+        <item>အားသွင်းနေစဥ် ရာခိုင်နှုန်းအား ပြပါ (မူလ)</item>
+        <item>ဤအိုင်ကွန်အား မပြပါနှင့်</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Show hours, minutes, and seconds</item>
+        <item>Show hours and minutes (default)</item>
+        <item>ဤအိုင်ကွန်အား မပြပါနှင့်</item>
+    </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Off</item>
+        <item>Half hour</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>8 Hours</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>ကလစ်ဘုတ်</item>
+        <item>ကီးကုဒ်</item>
+        <item>ကီးဘုတ် ပြောင်းခြင်း</item>
+        <item>မရှိပါ</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>ပုံမှန်</item>
+        <item>Compact</item>
+        <item>Left-leaning</item>
+        <item>Right-leaning</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>နေသာသော</item>
+        <item>တိမ်ထူသော</item>
+        <item>တိမ်ထူထပ်</item>
+        <item>မြူဆိုင်းသော</item>
+        <item>မုန်တိုင်းကြီး</item>
+        <item>မိုးသည်းထန်စွာရွာသွန်း</item>
+        <item>မိုးလေမုန်တိုင်း</item>
+        <item>မိုးကြိုးမုန်တိုင်း</item>
+        <item>မိုးဖွဲဖွဲရွာသွန်း</item>
+        <item>မိုးသည်းထန်စွာရွာသွန်း</item>
+        <item>မိုးအသင့်အတင့်ရွာသွန်း</item>
+        <item>မိုးအနည်းငယ်ရွာသွန်း</item>
+        <item>ဆီးနှင်းရွာသွန်း</item>
+        <item>နှင်းမုန်တိုင်း</item>
+        <item>နှင်းကျ</item>
+        <item>နှင်းသည်းထန်စွာကျ</item>
+        <item>နှင်းအသင့်အတင့်</item>
+        <item>နှင့်အနည်းငယ်ကျ</item>
+        <item>အားပြင်းသော သဲမုန်တိုင်း</item>
+        <item>သဲမုန်တိုင်း</item>
+        <item>သဲ</item>
+        <item>လေထန်</item>
+        <item>မိုးသီးကြွေခြင်း</item>
+        <item>ဖုန်ထူ</item>
+        <item>မြူ</item>
+        <item>ရေခဲမိုး</item>
+        <item></item>
+    </string-array>
+</resources>
