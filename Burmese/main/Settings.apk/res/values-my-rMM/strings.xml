@@ -1749,7 +1749,6 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
-    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_enable_notification">အသိပေးချက်များအား ပြပါ</string>
