@@ -568,7 +568,6 @@
     <string name="kg_reordering_delete_drop_target_text">ဖယ်ရှားရန်</string>
     <string name="kg_sim_pin_instructions">ဆင်းမ်ကဒ် ပင် နံပါတ် ရိုက်ထည့်ပါ</string>
     <string name="kg_sim_unlock_progress_dialog_message">ဆင်းမ်ကဒ် ကို သော့ဖွင့်နေပါသည်</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">%1$d စက္ကန့်အကြာတွင် ပြန်ကြိုးစားပါ</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"သင်သည် စကားဝှက်ကို  %1$d ကြိမ် မှားရိုက်ပြီးပါပြီ။ 
 
