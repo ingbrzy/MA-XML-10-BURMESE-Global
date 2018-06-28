@@ -92,6 +92,7 @@
     <string name="default_folder_title_microsoft">မိုက်ခရိုဆော့ဖ်</string>
     <string name="default_folder_title_recommend">နောက်ထပ် အက်ပ်များ</string>
     <string name="default_folder_title_security">စက်စနစ်</string>
+    <string name="default_folder_title_services">ဝန်ဆောင်မှုများ</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">တူးလ်များ</string>
     <string name="default_screen_preview_title">ပုံသေမျက်နှာပြင် သတ်မှတ်ရန် ထိနှိပ်ပါ</string>
@@ -235,6 +236,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">ဖျက်သိမ်း</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ပိတ်မည်</string>
     <string name="open_personal_assistant_dialog_desc">အက်ပ် မီးခံသေတ္တာကိုအသုံးပြုခြင်းနှင့် အသစ်မွမ်းမံမှုများ ရရှိနိုင်လိမ့်မည်မဟုတ်ပါ။ ယခု ပိတ်မလား?</string>
+    <string name="open_personal_assistant_dialog_desc_international">ဤအင်္ဂါရပ်အား ပိတ်လိုက်ပါက အက်ပ် မီးခံသေတ္တာကဒ် (စတော့ခ်စျေး၊ ရှော့ကဒ်များစသည်တို့) အသုံးပြုခြင်းနှင့် အသစ်မွမ်းမံမှုများ ရရှိနိုင်လိမ့်မည်မဟုတ်ပါ။</string>
     <string name="open_personal_assistant_dialog_title">အက်ပ် မီးခံသေတ္တာကို ပိတ်မည်</string>
     <string name="open_personal_assistant_title">အက်ပ် မီးခံသေတ္တာ</string>
     <string name="out_of_space">ဤပင်မမျက်နှာပြင်ပေါ်၌ နေရာလွတ် မရှိတော့ပါ</string>
@@ -342,6 +344,4 @@
     <string name="widget_gadget_player">တေးဂီတ</string>
     <string name="widget_global_search">ရှာပါ</string>
     <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်များ</string>
-    <string name="default_folder_title_services">ဝန်ဆောင်မှုများ</string>
-    <string name="open_personal_assistant_dialog_desc_international">ဤအင်္ဂါရပ်အား ပိတ်လိုက်ပါက အက်ပ် မီးခံသေတ္တာကဒ် (စတော့ခ်စျေး၊ ရှော့ကဒ်များစသည်တို့) အသုံးပြုခြင်းနှင့် အသစ်မွမ်းမံမှုများ ရရှိနိုင်လိမ့်မည်မဟုတ်ပါ။</string>
 </resources>

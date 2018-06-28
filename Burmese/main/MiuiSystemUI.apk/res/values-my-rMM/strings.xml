@@ -15,8 +15,8 @@
     <string name="accessibility_battery_level">ဘက်ထရီ %d ရာခိုင်နှုန်း</string>
     <string name="accessibility_battery_level_charging">ဘက်ထရီ အားသွင်းနေသည်၊%d ရာခိုင်နှုန်း။</string>
     <string name="accessibility_battery_one_bar">ဘက်ထရီ အားတစ်တုံး။</string>
-    <string name="accessibility_battery_three_bars">Battery three bars.</string>
-    <string name="accessibility_battery_two_bars">Battery two bars.</string>
+    <string name="accessibility_battery_three_bars">ဘက်ထရီ အားသုံးတုံး။</string>
+    <string name="accessibility_battery_two_bars">ဘက်ထရီ အားနှစ်တုံး။</string>
     <string name="accessibility_bluetooth_connected">ဘလူးတုသ်ချိတ်ဆက်ထားသော</string>
     <string name="accessibility_bluetooth_disconnected">ဘလူးတုသ် ချိတ်ဆက်မှု ဖြုတ်လိုက်သော</string>
     <string name="accessibility_bluetooth_name">%s သို့ ချိတ်ဆက်ပြီးပါပြီ။</string>
@@ -29,7 +29,7 @@
     <string name="accessibility_cell_data_off">မိုဘိုင်းဒေတာ ပိတ်ထားသည်</string>
     <string name="accessibility_cell_data_on">မိုဘိုင်းဒေတာ ဖွင့်ထားသည်</string>
     <string name="accessibility_clear_all">အသိပေးချက်များအား ရှင်းလင်းပါ</string>
-    <string name="accessibility_compatibility_zoom_button">Compatibility zoom button.</string>
+    <string name="accessibility_compatibility_zoom_button">လိုက်ဖက်မှုရှိသော ချုံ့ချဲ့ခလုတ်။</string>
     <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
     <string name="accessibility_data_connection_1x">1 X</string>
     <string name="accessibility_data_connection_edge">အစွန်</string>
@@ -131,7 +131,7 @@
     <string name="accessibility_quick_settings_less_time">အချိန် လျော့ပါ။</string>
     <string name="accessibility_quick_settings_location_changed_off">တည်နေရာ သတင်းပို့ခြင်းအား ပိတ်လိုက်သည်။</string>
     <string name="accessibility_quick_settings_location_changed_on">တည်နေရာ သတင်းပို့ခြင်းအား ဖွင့်လိုက်သည်။</string>
-    <string name="accessibility_quick_settings_location_off">Location reporting off.</string>
+    <string name="accessibility_quick_settings_location_off">တည်နေရာ သတင်းပို့ခြင်းအား ပိတ်ထားသည်။</string>
     <string name="accessibility_quick_settings_location_on">တည်နေရာ သတင်းပို့ခြင်း ဖွင့်ထားသည်။</string>
     <string name="accessibility_quick_settings_mobile">မိုဘိုင်းဒေတာ %1$s၊ %2$s၊ %3$s။</string>
     <string name="accessibility_quick_settings_more_time">အချိန် တိုးပါ။</string>
@@ -199,7 +199,7 @@
     <string name="activate_usb_title">USB သက်ဝင်ခလုတ်ဖွင့်ပါ</string>
     <string name="activity_launch_on_secondary_display_failed_text">"App doesn't support launch on secondary displays."</string>
     <string name="activity_not_found">အက်ပလီကေးရှင်းအား သင့်စက်တွင် မထည့်သွင်းထားပါ</string>
-    <string name="add_tile">Add tile</string>
+    <string name="add_tile">ဘလောက် ပေါင်းထည့်ပါ</string>
     <string name="adjust_button_width">Adjust button width</string>
     <string name="alarm_template">%1$sတွင်</string>
     <string name="alarm_template_far">%1$sတွင်</string>
@@ -226,7 +226,7 @@
     <string name="battery_saver_confirmation_ok">ဖွင့်မည်</string>
     <string name="battery_saver_confirmation_title">ဘက်ထရီချွေတာသူအား ဖွင့်မလား?</string>
     <string name="battery_saver_notification_action_text">ဘက်ထရီချွေတာသူအား ပိတ်ပါ</string>
-    <string name="battery_saver_notification_text">Reduces performance and background data</string>
+    <string name="battery_saver_notification_text">စွမ်းဆောင်ရည်နှင့် နောက်ခံမှ အချက်အလက်ကို လျော့ချမည်</string>
     <string name="battery_saver_notification_title">ဒေတာချွေတာသူ ဖွင့်ထားသည်</string>
     <string name="battery_saver_start_action">ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
     <string name="block">အသိပေးချက်အားလုံးကို ဘလော့လုပ်မည်</string>
@@ -238,7 +238,7 @@
     <string name="bluetooth_tethered">ဘလူးတုသ် ဒေတာချိတ်ဆက်ထားသော</string>
     <string name="branded_monitoring_description_app_personal">သင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကိုယ်ပိုင်ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="branded_vpn_footer">ကွန်ရက်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
-    <string name="broadcast_tile">Broadcast tile</string>
+    <string name="broadcast_tile">အသံလွှင့်ဘလောက်</string>
     <string name="bt_is_off">ဘလူးတုသ် ပိတ်ထားသည်</string>
     <string name="call_status_dialing">ဖုန်းခေါ်နေဆဲ</string>
     <string name="call_status_holding">ကိုင်ထားသည်</string>
@@ -265,7 +265,7 @@
     <string name="compat_mode_off">Stretch to fill screen</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
     <string name="confirm">နားလည်ပါပြီ</string>
-    <string name="data_connection_no_internet">အင်တာနက် မရှိပါ</string>
+    <string name="data_connection_no_internet">အင်တာနက်သို့ မချိတ်ဆက်ထားပါ</string>
     <string name="data_saver">ဒေတာချွေတာသူ</string>
     <string name="data_usage_disabled_dialog">"သင်သတ်မှတ်ထားသော ဒေတာအကန့်အသတ်သို့ ရောက်ရှိပြီ။ မိုဘိုင်းဒေတာအား ပိတ်လိုက်ပါပြီ။
 
@@ -302,12 +302,9 @@
     <string name="dock_forced_resizable">မျက်နှာပြင်ခွဲထားပါက အက်ပ်သည် ပုံမှန်အလုပ်လုပ်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">သော့ခတ်ထားသော မျက်နှာပြင်သည် မျက်နှာပြင်ခွဲခြင်းကို မထောက်ပံ့ပါ။</string>
     <string name="dock_non_resizeble_failed_to_dock_text">အက်ပ်သည် မျက်နှာပြင်ခွဲခြင်းကို မပံ့ပိုးပါ။</string>
-    <string name="drag_to_add_tiles">Drag to add tiles</string>
-    <string name="drag_to_remove_tiles">Drag here to remove</string>
+    <string name="drag_to_add_tiles">သလောက်များကို ပေါင်းထည့်ရန် ဆွဲချပါ</string>
+    <string name="drag_to_remove_tiles">ဖယ်ရှားရန် ဤနေရာသို့ ဆွဲချပါ</string>
     <string name="drive_mode_tip">ကားမုဒ်အား ဖွင့်ထားသည်</string>
-    <string name="drive_mode_tip_idle">ကားမုဒ်မှ ထွက်ရန် ထိနှိပ်ပါ</string>
-    <string name="drive_mode_tip_idle_notch">ကားမုဒ်မှ ထွက်မည်</string>
-    <string name="drive_mode_tip_notch">ကားမုဒ်အား ဖွင့်ထားသည်</string>
     <string name="empty_shade_text">အသိပေးချက်များ မရှိပါ</string>
     <string name="enable_bluetooth_message">To connect keyboard to your tablet, turn on Bluetooth first.</string>
     <string name="enable_bluetooth_title">ဘလူးတုသ် ဖွင့်မလား?</string>
@@ -369,7 +366,7 @@
     <string name="guest_wipe_session_wipe">ပြန်စပါ</string>
     <string name="headset">နားကြပ်</string>
     <string name="hidden_notifications_setup">သတ်မှတ်မည်</string>
-    <string name="hidden_notifications_text">See them before you unlock</string>
+    <string name="hidden_notifications_text">သော့မဖြည်မီ ကြည့်မည်</string>
     <string name="hidden_notifications_title">အသိပေးချက်များကို အမြန်ရယူမည်</string>
     <string name="high_temp_dialog_message">"Your phone will automatically try to cool down. You can still use your phone, but it may run slower.
 
@@ -382,7 +379,7 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="how_to_use_drawer_summary">မျက်နှာပြင်၏အပေါ်ပိုင်းတွင် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
     <string name="how_to_use_fsg">အောက်ပါလုပ်ဆောင်ချက်များကို လက်ဟန်များဖြင့် လုပ်ဆောင်နိုင်သည်-</string>
     <string name="important_desc">အရေးကြီးသောအသိပေးချက်အားလုံး အသိပေးချက်ရှိတ်တွင် တိုက်ရိုက်ပေါ်လာလိမ့်မည်။</string>
-    <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
+    <string name="installer_cd_button_title">Mac အတွက် Android ဖိုင်လွှဲပြောင်းမှုအက်ပ် ထည့်သွင်းမည်</string>
     <string name="instant_apps">Instant apps</string>
     <string name="instant_apps_message">"Instant apps don't require installation."</string>
     <string name="interruption_level_none">လုံးဝ အသံတိတ်</string>
@@ -428,7 +425,7 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="keyguard_indication_charging_time">အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_charging_time_fast">အမြန် အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_charging_time_slowly">နှေးကွေးစွာ အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
-    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
+    <string name="keyguard_indication_trust_disabled">သင်ကိုယ်တိုင် သော့မဖြည်သ၍ စက်ကို လော့ခ်ချထားမည်</string>
     <string name="keyguard_unlock">သော့ဖွင့်ရန် အပေါ်သို့ပွတ်ဆွဲပါ</string>
     <string name="label_view">ကြည့်ပါ</string>
     <string name="left_icon">ဘယ်အိုင်ကွန်</string>
@@ -538,12 +535,13 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="notification_all_categories">အမျိုးအစားအားလုံး</string>
     <string name="notification_app_settings">စိတ်ကြိုက်စီစဉ်မည်- %1$s</string>
     <string name="notification_channel_alerts">အသိပေးချက်များ</string>
+    <string name="notification_channel_battery">ဘက်ထရီ</string>
     <string name="notification_channel_controls_closed_accessibility">%1$s၏ အသိပေးချက်ထိန်းချုပ်မှုကို ပိတ်ထားသည်</string>
     <string name="notification_channel_controls_opened_accessibility">%1$s၏ အသိပေးချက်ထိန်းချုပ်မှုကို ဖွင့်ထားသည်</string>
     <string name="notification_channel_disabled">"You won't get these notifications anymore."</string>
-    <string name="notification_channel_general">General Messages</string>
+    <string name="notification_channel_general">General messages</string>
     <string name="notification_channel_location">တည်နေရာ</string>
-    <string name="notification_channel_screenbutton">ScreenButton</string>
+    <string name="notification_channel_screenbutton">ခလုတ်များ</string>
     <string name="notification_channel_screenshot">မျက်နှာပြင်ရိုက်ချက်များ</string>
     <string name="notification_channel_storage">သိုလှောင်ခန်း</string>
     <string name="notification_channel_switch_accessibility">ဤချန်နယ်မှလအသိပေးချက်များကို ခွင့်ပြုမည်</string>
@@ -552,7 +550,7 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_header_default_channel">အသိပေးချက်များ</string>
     <string name="notification_header_title">အကြောင်းကြားစာများ</string>
-    <string name="notification_hidden_by_policy_text">Contents hidden by policy</string>
+    <string name="notification_hidden_by_policy_text">အကြောင်းအရာအား ဝှက်ထားသည်</string>
     <string name="notification_hidden_text">မက်ဆေ့ချ်အသစ်တစ်စောင် ရှိသည်</string>
     <string name="notification_info_channel_disabled_text">%1$s မှ အသိပေးချက် %2$sခု ရရှိမည် မဟုတ်ပါ။</string>
     <string name="notification_info_channel_enabled_text">%1$s မှ အသိပေးချက် %2$sခု လက်ခံရရှိလိမ့်မည်။</string>
@@ -701,12 +699,13 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="quick_settings_nfc_off">NFC ပိတ်ထားသည်</string>
     <string name="quick_settings_nfc_on">NFC ဖွင့်ထားသည်</string>
     <string name="quick_settings_night_display_label">ညမီး</string>
+    <string name="quick_settings_night_secondary_label_on_at">%s တွင်</string>
     <string name="quick_settings_notifications_label">အသိပေးချက်များ</string>
     <string name="quick_settings_papermode_label">ဖတ်ရှုမုဒ်</string>
     <string name="quick_settings_powermode_label">လုပ်ဆောင်ရည်မုဒ်</string>
     <string name="quick_settings_quietmode_label">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="quick_settings_reset_confirmation_button">ကွယ်ဝှက်မည်</string>
-    <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in the Settings.</string>
+    <string name="quick_settings_reset_confirmation_message">ဆက်တင်တွင် ပြန်ဖွင့်သောအခါ ပြန်ပေါ်လာလိမ့်မည်။</string>
     <string name="quick_settings_reset_confirmation_title">%1$sအား ကွယ်ဝှက်မလား?</string>
     <string name="quick_settings_rotation_locked_label">မျက်နှာပြင်လှည့်ခြင်းကို လော့ခ်ချထားသည်</string>
     <string name="quick_settings_rotation_locked_landscape_label">အလျားလိုက်</string>
@@ -715,6 +714,7 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="quick_settings_screenbutton_label">ခလုတ်များ</string>
     <string name="quick_settings_screenlock_label">သော့ခတ်မျက်နှာပြင်</string>
     <string name="quick_settings_screenshot_label">မျက်နှာပြင်ရိုက်ချက်</string>
+    <string name="quick_settings_secondary_label_until">%s တိုင်</string>
     <string name="quick_settings_settings_label">ဆက်တင်</string>
     <string name="quick_settings_sync_label">ဆင့်ခ်လုပ်မည်</string>
     <string name="quick_settings_tethering_label">ဒေတာချိတ်ဆက်ခြင်း</string>
@@ -782,8 +782,8 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="screenshot_dlg_delete_button">ဖျက်ပါ</string>
     <string name="screenshot_edit">တည်းဖြတ်</string>
     <string name="screenshot_failed_title">မျက်နှာပြင်ပုံ ရိုက်၍မရပါ။</string>
-    <string name="screenshot_failed_to_capture_text">"Taking screenshots isn't allowed by the app or your organization"</string>
-    <string name="screenshot_failed_to_save_text">"Can't save screenshot due to limited storage space."</string>
+    <string name="screenshot_failed_to_capture_text">မျက်နှာပြင်ရိုက်ချက်အား ခွင့်ပြုမထားပါ</string>
+    <string name="screenshot_failed_to_save_text">သိုလှောင်ခန်းနေရာလွတ် အကန့်အသတ်ကြောင့် မျက်နှာပြင်ရိုက်ချက်အား သိမ်းဆည်း၍မရပါ။</string>
     <string name="screenshot_failed_to_save_unknown_text">မျက်နှာပြင်ရိုက်ချက်အား သိမ်းနေစဥ် အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။</string>
     <string name="screenshot_feedback_txt">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="screenshot_insert_failed">မျက်နှာပြင်ရိုက်ချက်အား ရယူ၍ မရပါ။ ပုံအသစ် ပြန်ရိုက်ပါ သို့မဟုတ် ပြခန်းတွင် ပုံအား စစ်ကြည့်ပါ။</string>
@@ -899,8 +899,8 @@ Your phone may get too hot if you:
     <string name="usb_debugging_always">ဤကွန်ပျူတာကို အမြဲတမ်း ခွင့်ပြုပါ</string>
     <string name="usb_debugging_message">"ကွန်ပြူတာ၏ RSA အဓိက လက်ဗွေမှာ-
 %1$s"</string>
-    <string name="usb_debugging_secondary_user_message">"The user currently signed in to this device can't turn on USB debugging. To use this feature, switch to an Admin user."</string>
-    <string name="usb_debugging_secondary_user_title">USB debugging not allowed</string>
+    <string name="usb_debugging_secondary_user_message">လက်ရှိ သုံးစွဲသူသည် ဤစက်တွင် USB ဒီဘာဂင်အား ဖွင့်၍မရပါ။ ဤအင်္ဂါရပ်ကို သုံးလိုပါက အုပ်ချုပ်သူအကောင့်သို့ ပြောင်းဝင်ပါ။</string>
+    <string name="usb_debugging_secondary_user_title">USB ဒီဘာဂင် ခွင့်မပြုပါ</string>
     <string name="usb_debugging_title">USB ဒီဘာဂင်ကို ခွင့်ပြုမလား?</string>
     <string name="usb_device_confirm_prompt">ဤUSB ချိတ်ဆက်မိစဉ်တွင် %1$s အားဖွင့်မည်လား?</string>
     <string name="usb_device_permission_prompt">အက်ပ် %1$s အား USB သို့ဝင်ရန် ခွင့်ပြုမလား?</string>
@@ -915,7 +915,7 @@ Your phone may get too hot if you:
     <string name="usb_notification_mtp_ticker_text">မီဒီယာကိရိယာ (ဖိုင်များ) တစ်ခုအဖြစ် ချိတ်ဆက်ထားသည်</string>
     <string name="usb_notification_ptp_info">ဒီကိရိယာပေါ်၌ သိမ်းထားသော ဓာတ်ပုံများကို ဝင်ကြည့်ခြင်း</string>
     <string name="usb_notification_ptp_ticker_text">မီဒီယာကိရိယာ (ဓာတ်ပုံများ) တစ်ခုအဖြစ် ချိတ်ဆက်ထားသည်</string>
-    <string name="usb_preference_title">USB file transfer options</string>
+    <string name="usb_preference_title">USB ဖိုင်လွှဲပြောင်းခြင်း ရွေးချယ်မှုများ</string>
     <string name="usb_ptp_text">ဓာတ်ပုံများ</string>
     <string name="usb_share_net_info">ကွန်ပြူတာ၏ အင်တာနက်ချိုတ်ဆက်မှုကို သုံးပါ</string>
     <string name="usb_storage_error_message">သင့်ကိရိယာကို USB ဒေတာအများအပြား သိုလှောင်ခန်းအဖြစ် ကြည့်ရန် ကြိုးစားနေစဉ်မှာ၊ အမှား ဖြစ်ခဲ့သည်။</string>
@@ -927,8 +927,8 @@ Your phone may get too hot if you:
     <string name="usb_storage_stop_notification_title">USB သိုလှောင်ခန်းကို ပိတ်ပါ</string>
     <string name="usb_storage_stop_title">USB သိုလှောင်ခန်းကို အသုံးပြုနေသည်</string>
     <string name="usb_storage_title">USB ချိတ်ဆက်နေသည်</string>
-    <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
-    <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
+    <string name="use_mtp_button_title">မီဒီယာပေလယာအဖြစ် ထည့်သွင်းမည် (MTP)</string>
+    <string name="use_ptp_button_title">ကင်မရာအဖြစ် ထည့်သွင်းမည် (PTP)</string>
     <string name="user_add_user">သုံးစွဲသူ ပေါင်းထည့်မည်</string>
     <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
 
@@ -964,13 +964,12 @@ Any user can update apps for all other users."</string>
     <string name="vpn_title_long">%s ကို သုံး၍ VPN သို့ ချိတ်ဆက်ခြင်း</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_is_off">Wi-Fi ပိတ်ထားသည်</string>
-    <string name="zen_alarm_warning">"You won't hear your next alarm %1$s"</string>
-    <string name="zen_alarm_warning_indef">"You won't hear your next alarm %1$s unless you turn this off before then"</string>
+    <string name="zen_alarm_warning">လာမည့် %1$s နှိုးစက်ကို ကြားရမည် မဟုတ်ပါ</string>
+    <string name="zen_alarm_warning_indef">ထိုမတိုင်ခင် ဤမုဒ်အား မပိတ်ပါက လာမည့် %1$s နှိုးစက်ကို ကြားရမည် မဟုတ်ပါ</string>
     <string name="zen_alarms_introduction">"You won’t be disturbed by sounds and vibrations, except from alarms. You'll still hear anything you choose to play including music, videos, and games."</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_priority_customize_button">စိတ်ကြိုက်စီစဉ်မည်</string>
     <string name="zen_priority_introduction">"You won’t be disturbed by sounds and vibrations, except from alarms, reminders, events, and callers you specify. You'll still hear anything you choose to play including music, videos, and games."</string>
     <string name="zen_silence_introduction">နှိုးစက်၊ သီချင်း၊ ဂိမ်းစသည်များမှ အသံနှင့် တုန်ခါမှုအားလုံးကို ဘလော့လုပ်မည်။</string>
     <string name="zen_silence_introduction_voice">နှိုးစက်၊ သီချင်း၊ ဂိမ်းစသည်များမှ အသံနှင့် တုန်ခါမှုအားလုံးကို ဘလော့လုပ်မည်။ ဖုန်းခေါ်ဆိုမှုများ ပြုလုပ်နိုင်ပါသည်။</string>
-    <string name="notification_num_channels">%d notification categories</string>
 </resources>

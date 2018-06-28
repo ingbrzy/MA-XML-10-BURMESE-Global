@@ -21,6 +21,9 @@
     <plurals name="notification_group_overflow_description">
         <item quantity="other">အထဲတွင် နောက်ထပ်အသိပေးချက် %sခု ရှိသည်။</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d notification categories</item>
+    </plurals>
     <plurals name="notification_num_channels_desc">
         <item quantity="other">1 out of %d notification categories from this app</item>
     </plurals>

@@ -11,11 +11,11 @@
         <item>ဤအိုင်ကွန်အား မပြပါနှင့်</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
-        <item>Off</item>
-        <item>Half hour</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>8 Hours</item>
+        <item>ပိတ်ရန်</item>
+        <item>မိနစ် ၃၀</item>
+        <item>၁ နာရီ</item>
+        <item>၂ နာရီ</item>
+        <item>၈ နာရီ</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>ကလစ်ဘုတ်</item>
