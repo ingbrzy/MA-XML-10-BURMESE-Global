@@ -814,18 +814,8 @@
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gsm_to_wifi_connect_type_title">GSM မှ Wi-Fi သို့</string>
     <string name="gxzw_add_fingerprint_continue">ဆက်လက်မည်</string>
-    <string name="gxzw_add_fingerprint_edge_message">အာရုံခံကိရိယာမှ သင့်လက်ဗွေရာ၏အနားများကို မှတ်တမ်းတင်နိုင်ရန် လက်ချောင်းကို ရွှေ့ပါ။</string>
-    <string name="gxzw_add_fingerprint_edge_title">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
-    <string name="gxzw_add_fingerprint_finish">ပြီးပါပြီ</string>
-    <string name="gxzw_add_fingerprint_indicate">ဤနေရာကို အားနှင့်ဖိထားပါ</string>
     <string name="gxzw_add_fingerprint_know">နားလည်ပါပြီ</string>
-    <string name="gxzw_add_fingerprint_message">လက်ချောင်းနှင့် စခရင်မျက်နှာပြင်အား သန့်ရှင်းအောင်ထားပါ</string>
     <string name="gxzw_add_fingerprint_move_indicate">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
-    <string name="gxzw_add_fingerprint_move_message">လက်ဗွေနေရာအချို့အား မှတ်တမ်းတင်၍ မရပါ။ သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
-    <string name="gxzw_add_fingerprint_move_title">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">အားနှင့်ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ။ ထပ်ခါလုပ်ပါ။</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">အားနှင့်ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ</string>
-    <string name="gxzw_add_fingerprint_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
     <string name="handy_mode">လက်တစ်ဖက်နည်းပုံစံ</string>
     <string name="handy_mode_enable">လက်တစ်ဖက်သုံးမုဒ်</string>
     <string name="handy_mode_size">မျက်နှာပြင်အရွယ်အစား</string>
@@ -1545,6 +1535,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -1645,7 +1636,6 @@
     <string name="screen_paper_mode_off_apps_title">စာဖတ်ခြင်းမုဒ်အား မသုံးပါနှင့်</string>
     <string name="screen_paper_mode_range_title">ဆက်တင်များ</string>
     <string name="screen_paper_mode_set_apps_title">ဖတ်ခြင်းပုံစံအက်ပ်စ်များ</string>
-    <string name="screen_paper_mode_summary">ဖန်သားပြင်၏ အပြာရောင်ထုတ်လွှတ်မှုကို လျှော့ချပါ</string>
     <string name="screen_paper_mode_time_summary">စာဖတ်မုဒ်ကို အဖွင့်အပိတ်လုပ်ရန် အချိန်သတ်မှတ်ပါ</string>
     <string name="screen_paper_mode_time_title">အချိန်ဇယား</string>
     <string name="screen_paper_mode_title">ဖတ်ရှုမုဒ်</string>
@@ -1999,6 +1989,7 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_enable_notification">အသိပေးချက်များအား ပြပါ</string>

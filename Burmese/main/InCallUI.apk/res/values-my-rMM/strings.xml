@@ -163,7 +163,7 @@
     <string name="onscreen_close_preview_camera">ပိတ်</string>
     <string name="upgrade_vt_prompt">ဗီဒီယိုခေါ်ဆိုမှုသို့ ပြောင်းလဲမည်လား?</string>
     <string name="incoming_answer_voice_text">အသံဖြင့်ဖြေဆို</string>
-    <string name="picking_participant">အကောင့်အချက်လက်ရယူနေ…</string>
+    <string name="picking_participant">အဆက်အသွယ်အချက်အလက် ရယူနေသည်…</string>
     <string name="conference_caller_info_name">%1$s၏ကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
     <string name="video_conference_caller_info_name">%1$s၏ဗီဒီယိုကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
     <string name="conference_callers_exceeded">နောက်ထပ်လူပုဂ္ဂိုလ်ပေါင်းထည့်၍ မရနိုင်ပါ</string>
