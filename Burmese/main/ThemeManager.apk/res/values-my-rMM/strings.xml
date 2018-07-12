@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">ရပြီ</string>
     <string name="incompatible_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေ…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
     <string name="item_resource_audio_optional_color_ring">Ringback အသံ</string>
     <string name="item_resource_audio_optional_notification_ring">အသိပေးချက်များ</string>
@@ -294,7 +293,6 @@
     <string name="resource_pack_price_info">မူရင်းစျေးနှုန်း: %1$s</string>
     <string name="resource_pack_warning">ဤသင်းမ်ထဲက %1$d အစိတ်အပိုင်းများကို သင်ဝယ်ယူထားပြီးဖြစ်သည်။ အကယ်၍ ကျန်နေသော အစိတ်အပိုင်းများကို တစ်ချချင်း သင် ဝယ်ယူပါက၊ ပို၍ စျေးချိုပါသည်။</string>
     <string name="resource_present">လက်ဆောင်</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">အခမဲ့</string>
     <string name="resource_price_unit"> Mi ငွေဝယ်ကဒ်များ</string>
     <string name="resource_purchase_common_error">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>

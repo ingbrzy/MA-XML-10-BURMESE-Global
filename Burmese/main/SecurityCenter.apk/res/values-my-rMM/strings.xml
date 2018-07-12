@@ -1366,9 +1366,7 @@ Rolled over extra data"</string>
     <string name="menu_text_antispam">ပိတ်ဆို့စာရင်း</string>
     <string name="menu_text_license_manager">ခွင့်ပြုချက်များ</string>
     <string name="menu_text_garbage_cleanup">သန့်ရှင်းစက်</string>
-    <string name="menu_text_garbage_cleanup_danger">%s ကျော်</string>
     <string name="menu_text_power_manager">ဘက်ထရီအသုံးပြုမှု</string>
-    <string name="menu_text_power_percent_title">ဘက်ထရီ%s</string>
     <string name="menu_text_power_percent_title_default">ဘက်ထရီ</string>
     <string name="last_check_canceled">ပြီးခဲ့သော စကန်ကို ပယ်ဖျက်ခဲ့သည်</string>
     <string name="examination_score_100">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေသည်!</string>
