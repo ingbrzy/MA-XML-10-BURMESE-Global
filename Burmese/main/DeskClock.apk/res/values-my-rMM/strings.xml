@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">နှိုးစက်ထည့်ရန်</string>
+    <string name="add_clock">နာရီ ပေါင်းထည့်ပါ</string>
     <string name="add_timezone_title">ဒေသစံတော်ချိန် ပေါင်းထည့်မည်</string>
     <string name="alarm_alert_alert_silenced">%d မိနစ်ပြီးနောက် နှိုးစက်ရပ်သွားလိမ့်မည်</string>
     <string name="alarm_alert_snooze_set">%d မိနစ်နောက်ဆုတ်လိုက်သည်</string>
@@ -36,6 +37,7 @@
     <string name="close_alarm">ပိတ်</string>
     <string name="common_settings">ဆက်တင်များ</string>
     <string name="confirm_abort">ဖယ်ပစ်ပါ</string>
+    <string name="content_desc_keep_screen">\"စခရင် ဖွင့်ထားပါ\" ခလုတ်</string>
     <string name="control_set_alarm">နှိုးစက်သတ်မှတ်</string>
     <string name="control_set_alarm_with_existing">နှိုးစက်သတ်မှတ်လိုက်သော−%s</string>
     <string name="day">၁ ရက်</string>
@@ -54,6 +56,7 @@
     <string name="dialog_message_agree">သဘောတူပါသည်</string>
     <string name="dialog_message_for_contact_permission">မွေးနေ့အသိပေးချက်များရရှိနိုင်ရန် နာရီသည် သင့်အဆက်အသွယ်သို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ သဘောတူပါသလား?</string>
     <string name="dialog_message_negative">သဘောမတူပါ</string>
+    <string name="dialog_message_not_remind">ထပ်မပြပါနှင့်</string>
     <string name="done">ပြီးပြီ</string>
     <string name="dynamic_alarm_speech">စမတ်နှိုးစက်</string>
     <string name="edit_alarm">နှိုးစက် ပြုပြင်မည်</string>
@@ -109,14 +112,14 @@
     <string name="menu_item_sort_by_name">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="minute">၁ မိနစ်</string>
     <string name="minutes">%d မိနစ်</string>
-    <string name="module_download_cancel">ယခု မလုပ်သေးပါ</string>
-    <string name="module_download_data_msg">စမတ်နိုးစက်၊ သဘာဝအသံနှင့် မွေးနေ့အသိပေးချက်များရရှိနိုင်ရန် နာရီသည် အင်တာနက်သို့ချိတ်ဆက်ပြီး သင့်အဆက်အသွယ်သို့ဝင်ရောက်ရန် လိုအပ်ပါသည်။ နောက်ထပ်အသံများလည်း ဒေါင်းလုဒ်လုပ်ရပါမည်။ မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်မလား?</string>
-    <string name="module_download_data_msg_golbal">စမတ်နိုးစက်နှင့် သဘာဝအသံများရရှိနိုင်ရန် နာရီသည် နောက်ထပ်အသံများအား ဒေါင်းလုဒ်လုပ်ရပါမည်။ မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_cancel">မလိုအပ်ပါ</string>
+    <string name="module_download_data_msg">နာရီမှ ပတ်ဝန်းကျင်ဆူညံသံနှင့် စမတ်နှိုးစက် အော်ဒီယိုဖိုင်များ(20MB)အား ဒေါင်းလုဒ်လုပ်ရန် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ယခု မိုဘိုင်းဒေတာကို အသုံးပြုနေသည်။ ခွင့်ပြုမလား?</string>
+    <string name="module_download_data_msg_golbal">နာရီမှ ပတ်ဝန်းကျင်ဆူညံသံနှင့် စမတ်နှိုးစက် အော်ဒီယိုဖိုင်များ(20MB)အား ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခု မိုဘိုင်းဒေတာကို အသုံးပြုနေသည်။ ခွင့်ပြုမလား?</string>
     <string name="module_download_fail">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
-    <string name="module_download_msg">စမတ်နိုးစက်၊ သဘာဝအသံနှင့် မွေးနေ့အသိပေးချက်များရရှိနိုင်ရန် နာရီသည် အင်တာနက်သို့ချိတ်ဆက်ပြီး သင့်အဆက်အသွယ်သို့ဝင်ရောက်ရန် လိုအပ်ပါသည်။ နောက်ထပ်အသံများလည်း ဒေါင်းလုဒ်လုပ်ရပါမည်။ သဘောတူပါသလား?</string>
-    <string name="module_download_msg_golbal">စမတ်နိုးစက်နှင့် သဘာဝအသံများရရှိနိုင်ရန် နာရီသည် နောက်ထပ်အသံများအား ဒေါင်းလုဒ်လုပ်ရပါမည်။ သဘောတူပါသလား?</string>
+    <string name="module_download_msg">နာရီမှ ပတ်ဝန်းကျင်ဆူညံသံနှင့် စမတ်နှိုးစက် အော်ဒီယိုဖိုင်များအား ဒေါင်းလုဒ်လုပ်ရန် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ခွင့်ပြုမလား?</string>
+    <string name="module_download_msg_golbal">နာရီမှ ပတ်ဝန်းကျင်ဆူညံသံနှင့် စမတ်နှိုးစက် အော်ဒီယိုဖိုင်များအား ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ခွင့်ပြုမလား?</string>
     <string name="module_download_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="module_download_ok">သဘောတူပါသည် &amp; ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="module_download_ok">ခွင့်ပြုမည်</string>
     <string name="module_download_success">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="module_download_title">အပိုအသံဖိုင် လိုအပ်သည်</string>
     <string name="module_downloading">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
@@ -145,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">ပါဝါပိတ်ပြီးနောက် နှိုးစက်နိုးလာလိမ့်မည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -153,6 +157,7 @@
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">%1$s°</string>
@@ -183,10 +188,8 @@
     <string name="timer_item_picker_second">S</string>
     <string name="timer_new_item">စံချိန်စက် ပေါင်းထည့်ပါ</string>
     <string name="timer_notify_text">တစ်မှေးအိပ် သို့မဟုတ် တိုင်မာအားပိတ်ပါ</string>
-    <string name="timer_pause_hint">ခေတ္တရပ်ဆိုင်းပါ</string>
     <string name="timer_pause_timer">တိုင်မာ ရပ်တန့်ပါ</string>
     <string name="timer_running">တိုင်မာ အလုပ်လုပ်နေသည်</string>
-    <string name="timer_running_hint">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="timer_start_alarm">အချိန်စေ့ပြီ!</string>
     <string name="timer_start_timer">တိုင်မာ စတင်ပါ</string>
     <string name="timer_title">တိုင်မာ</string>
@@ -211,4 +214,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">နာရီ</string>
     <string name="worldcolock_timezone_local">ဒေသစံတော်ချိန်နှင့် တူညီသည်</string>
+    <string name="timer_pause_hint">ခေတ္တရပ်ဆိုင်းပါ</string>
+    <string name="timer_running_hint">ဆက်လက်လုပ်ဆောင်မည်</string>
 </resources>

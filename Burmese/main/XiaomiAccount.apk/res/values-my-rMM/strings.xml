@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။ ဤစာမျက်နှာကို %s ၌ သင် ကြည့်နိုင်ပါသည်။.</string>
     <string name="passport_login_failed">အကောင့်ထဲသို့ ဝင်မရပါ</string>
     <string name="passport_reg_failed">အကောင့် ပြုလုပ်လို့ မရပါ</string>
-    <string name="passport_verification_failed">မှန်ကြောင်း အတည်ပြုရာတွင် မအောင်မြင်ပါ</string>
+    <string name="passport_verification_failed">အကောင့်အား အတည်ပြု၍ မရပါ</string>
     <string name="passport_reset_fail_title">ပြန်မသတ်မှတ်နိုင်ခဲ့</string>
     <string name="passport_identification_expired">အတည်ပြုကုဒ် သက်တမ်းကုန်သွားသည်၊ တဖန်ပြန်လုပ်ပါ</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>

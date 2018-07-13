@@ -59,6 +59,7 @@
     <string name="accessibility_display_daltonizer_preference_title">အရောင် အမှားပြင်ချက်</string>
     <string name="accessibility_divider">မျက်နှာပြင် ပိုင်းခြားလိုင်း</string>
     <string name="accessibility_drag_hint_message">အိုင်တမ်များကို မျက်နှာပြင်ထိပ်ပိုင်းသို့ ဆွဲသွားပါ</string>
+    <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="accessibility_ethernet_connected">အီသာနက် ချိတ်ဆက်ထားသည်။</string>
     <string name="accessibility_ethernet_disconnected">အီသာနက် မချိတ်ဆက်ထားပါ။</string>
     <string name="accessibility_gps_acquiring">GPS ရယူနေသည်။</string>
@@ -215,6 +216,7 @@
     <string name="adb_warning_title">USB ဒီဘာဂင်ကို ခွင့်ပြုမလား?</string>
     <string name="add_tile">ဘလောက် ပေါင်းထည့်ပါ</string>
     <string name="adjust_button_width">Adjust button width</string>
+    <string name="airplane_mode">Airplane mode</string>
     <string name="alarm_template">%1$sတွင်</string>
     <string name="alarm_template_far">%1$sတွင်</string>
     <string name="allow_mock_location">တုပထားသောတည်နေရာအား ခွင့်ပြုပါ</string>
@@ -225,6 +227,7 @@
     <string name="apn_settings_not_available">ဤသုံးစွဲသူအတွက် ဝင်ရောက်ပွိုင့်အမည်ဆက်တင်များ မရနိုင်ပါ</string>
     <string name="app_info">အက်ပ် အချက်အလက်</string>
     <string name="app_label">စနစ်UI</string>
+    <string name="app_name">Keyguard</string>
     <string name="app_process_limit_title">နောက်ခံလုပ်ငန်းစဉ်ကို ကန့်သတ်မည်</string>
     <string name="as_important">အရေးကြီးသော</string>
     <string name="as_unimportant">အရေးမကြီးသော</string>
@@ -380,6 +383,7 @@
     <string name="convert_to_file_encryption">ဖိုင်များကို လျှို့ဝှက်ကုဒ်ခံထားသောအနေထားသို့ ပြောင်းပါ</string>
     <string name="convert_to_file_encryption_done">ဖိုင်များကို လျှို့ဝှက်ကုဒ်ခံထားသည်</string>
     <string name="convert_to_file_encryption_enabled">ကူးပြောင်းမည်…</string>
+    <string name="custom_lock_wallpaper_enter">အန်တား</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (အနီ-အစိမ်း မသဲကွဲသူ)</string>
     <string name="daltonizer_mode_disabled">ပိတ်ထားသည်</string>
     <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -444,8 +448,8 @@
     <string name="dlg_error_title">USB အော်ပရေးရှင်းလုပ်ရာတွင် မအောင်မြင်ပါ</string>
     <string name="dlg_ok">အိုကေ</string>
     <string name="dnd_is_off">မနှောင့်ယှက်ရအား ပိတ်ထားသည်</string>
-    <string name="do_disclosure_generic">ဤစက်အား သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်</string>
-    <string name="do_disclosure_with_name">ဤစက်အား %sမှ စီမံခန့်ခွဲသည်</string>
+    <string name="do_disclosure_generic">This device is managed by your organization</string>
+    <string name="do_disclosure_with_name">This device is managed by %s</string>
     <string name="do_not_silence">"Don't silence"</string>
     <string name="do_not_silence_block">"Don't silence or block"</string>
     <string name="dock_forced_resizable">မျက်နှာပြင်ခွဲထားပါက အက်ပ်သည် ပုံမှန်အလုပ်လုပ်လိမ့်မည် မဟုတ်ပါ။</string>
@@ -493,7 +497,9 @@
     <string name="ext_media_unmountable_notification_message">USB သိုလှောင်ခန်း ပျက်စီးနေသည်။ ၎င်းကို သင် ဖောမတ်ပြန်လုပ်ရမည့်ဟန် ရှိသည်။</string>
     <string name="ext_media_unmountable_notification_title">ပျက်စီးနေသော USB သိုလှောင်ခန်း</string>
     <string name="external_source_untrusted">ခွင့်မပြုပါ</string>
+    <string name="face_unlock_reenter_content">မျက်နှာဖြင့် သော့ဖွင့်ပုံစံတွက်နည်း အပ်ဒိတ်လုပ်ထားသည်။ သင်၏မျက်နှာဒေတာအား မှတ်တမ်းပြန်တင်ရန် ထိနှိပ်ပါ။</string>
     <string name="failed_to_open_app_settings_toast">%1$s အတွက် ဆက်တင်ကို ဖွင့်၍မရပါ</string>
+    <string name="fingerprint_not_recognized">Not recognized</string>
     <string name="float_incall_ignore">လစ်လျူရှု</string>
     <string name="float_incall_message">မက်ဆေ့ချ်</string>
     <string name="force_allow_on_external">အက်ပ်များကို အပြင်ပိုင်းသိုလှောင်ခန်းတွင် ရေးသားခွင့် အတင်းပြုမည်</string>
@@ -607,11 +613,98 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="keyboard_shortcut_group_system_recents">လတ်တလောအရာများ</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">ကီးဘုတ် ရှော့ကဒ်များ</string>
     <string name="keyboard_shortcut_group_system_switch_input">စာရိုက်သောနည်းလမ်း ပြောင်းမည်</string>
+    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="keyguard_accessibility_pin_area">PIN area</string>
+    <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
+    <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
+    <string name="keyguard_carrier_default">No service.</string>
+    <string name="keyguard_charged">Charged</string>
     <string name="keyguard_indication_charging_time">အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_charging_time_fast">အမြန် အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_charging_time_slowly">နှေးကွေးစွာ အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_trust_disabled">သင်ကိုယ်တိုင် သော့မဖြည်သ၍ စက်ကို လော့ခ်ချထားမည်</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
+    <string name="keyguard_left_view_lock_wallpaper">နောက်ခံပုံ လှည့်ပြခြင်း</string>
+    <string name="keyguard_low_battery">Connect your charger.</string>
+    <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
+    <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
+    <string name="keyguard_missing_sim_message">No SIM card in phone.</string>
+    <string name="keyguard_missing_sim_message_short">No SIM card</string>
+    <string name="keyguard_network_locked_message">Network locked</string>
+    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
+    <string name="keyguard_password_enter_pin_code">Type PIN code</string>
+    <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
+    <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
+    <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
+    <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
+ Contact your wireless service provider for another SIM card."</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+    <string name="keyguard_plugged_in">Charging</string>
+    <string name="keyguard_plugged_in_charging_fast">Charging rapidly</string>
+    <string name="keyguard_plugged_in_charging_slowly">Charging slowly</string>
+    <string name="keyguard_sim_locked_message">SIM card is locked.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
     <string name="keyguard_unlock">သော့ဖွင့်ရန် အပေါ်သို့ပွတ်ဆွဲပါ</string>
+    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_almost_at_login">"You have incorrectly drawn your unlock pattern %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+
+ Try again in %3$d seconds."</string>
+    <string name="kg_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this phone will be reset, which will delete all its data.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the phone %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the phone %d times. This user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. This phone will be reset, which will delete all its data.</string>
+    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
+    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
+    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
+    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
+    <string name="kg_password_instructions">Enter Password</string>
+    <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
+    <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
+    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
+    <string name="kg_pattern_instructions">Draw your pattern</string>
+    <string name="kg_pin_accepted">Code Accepted!</string>
+    <string name="kg_pin_instructions">Enter PIN</string>
+    <string name="kg_prompt_reason_device_admin">Device locked by admin</string>
+    <string name="kg_prompt_reason_restart_password">Enter password to unlock</string>
+    <string name="kg_prompt_reason_restart_pattern">Draw your pattern to unlock</string>
+    <string name="kg_prompt_reason_restart_pin">Enter PIN to unlock</string>
+    <string name="kg_prompt_reason_switch_profiles_password">Password required when you switch profiles</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">Pattern required when you switch profiles</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">PIN required when you switch profiles</string>
+    <string name="kg_prompt_reason_timeout_password">Password required for additional security</string>
+    <string name="kg_prompt_reason_timeout_pattern">Pattern required for additional security</string>
+    <string name="kg_prompt_reason_timeout_pin">PIN required for additional security</string>
+    <string name="kg_prompt_reason_user_request">Device was locked manually</string>
+    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
+    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
+    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
+    <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"You have incorrectly typed your password %1$d times. 
+
+Try again in %2$d seconds."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"You have incorrectly drawn your unlock pattern %1$d times. 
+
+Try again in %2$d seconds."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"You have incorrectly typed your PIN %1$d times. 
+
+Try again in %2$d seconds."</string>
+    <string name="kg_wrong_password">Wrong Password</string>
+    <string name="kg_wrong_pattern">Wrong Pattern</string>
+    <string name="kg_wrong_pin">Wrong PIN</string>
     <string name="label_view">ကြည့်ပါ</string>
     <string name="launch_defaults_none">မည်သည့် မူလပုံစံမှ မရှိပါ</string>
     <string name="launch_defaults_some">တစ်ချို့မူလပုံစံသတ်မှတ်ချက်</string>
@@ -624,6 +717,8 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="local_backup_password_toast_confirmation_mismatch">စကားဝှက် မ’ကိုက်ညီပါ</string>
     <string name="local_backup_password_toast_success">အရန်စကားဝှက်အသစ် သတ်မှတ်ပြီးပြီ</string>
     <string name="local_backup_password_toast_validation_failure">အရန်စကားဝှက် သတ်မှတ်၍မရပါ</string>
+    <string name="lock_wallpaper_enter">အန်တား</string>
+    <string name="lock_wallpaper_learn_more">နောက်ထပ်</string>
     <string name="lockscreen_carrier_default">ဝန်ဆောင်မှု မရှိပါ</string>
     <string name="lockscreen_none">None</string>
     <string name="lockscreen_shortcut_left">ဘယ် ရှော့ကဒ်</string>
@@ -653,6 +748,7 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="memory_clear_result_giga">%1$sGB ရှင်းပစ်လိုက်သည်</string>
     <string name="memory_clear_result_mega">%1$sMB ရှင်းပစ်လိုက်သည်</string>
     <string name="menu_ime">ကီးဘုတ် ပြောင်းခြင်း</string>
+    <string name="miui_guide_dialog_button_negative_text">ဆက်တင်</string>
     <string name="miui_ringer_count_down">အချိန်သတ်မှတ်မည်</string>
     <string name="miui_ringer_count_down_time">အချိန်သတ်မှတ်မည်- %s</string>
     <string name="miui_ringer_standard">အသံတိတ်</string>
@@ -845,6 +941,7 @@ Once your phone has cooled down, it will run normally."</string>
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့် ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သေးသည်</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ပရိုဖိုင်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="prompt_danger">အန္တရာယ်</string>
     <string name="prompt_detecting">ရှာဖွေနေသည်</string>
@@ -1259,6 +1356,7 @@ Any user can update apps for all other users."</string>
     <string name="vpn_title_long">%s ကို သုံး၍ VPN သို့ ချိတ်ဆက်ခြင်း</string>
     <string name="wait_for_debugger">ဒီဘာဂ်စက်ကို စောင့်ပါ</string>
     <string name="wait_for_debugger_summary">ဒီဘာဂ်အက်ပ်သည် အလုပ်မလုပ်မီ ဒီဘာဂ်စက်နှင့် တွဲချိတ်ရန် စောင့်နေမည်</string>
+    <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_aggressive_handover">Wi‑Fi မှ မိုဘိုင်းသို့ အဆင်မပြေသော ပြောင်းလဲမှု</string>
     <string name="wifi_aggressive_handover_summary">ဖွင့်ထားပါက Wi‑Fi လိုင်းအားနည်းသောအခါ ချိတ်ဆက်မှုသည် မိုဘိုင်းဒေတာသို့ ပြောင်းလိမ့်မည်။</string>

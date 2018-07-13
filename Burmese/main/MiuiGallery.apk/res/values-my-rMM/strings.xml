@@ -54,6 +54,7 @@
     <string name="album_name_people">လူ</string>
     <string name="album_name_recent_discovery">မကြာသေးမီက</string>
     <string name="album_name_tags">တက်ဂ်များ</string>
+    <string name="album_notes">Notes</string>
     <string name="album_others_share_baby_info_format">%sမှ ကလေးအယ်လ်ဘမ်</string>
     <string name="album_others_share_info_format">%s မှ</string>
     <string name="album_owner_share">မျှဝေထားသည်</string>
@@ -373,8 +374,7 @@
     <string name="enable_cloud_for_sharing">ဤမျှဝေထားသော ဓါတ်ပုံများအား ကြည့်ရှုရန် Mi ကလောက်အယ်လ်ဘမ်အား ဖွင့်ပါ။</string>
     <string name="enable_face_album_summary">ပုံထဲတွင်ပါဝင်နေသောလူများအလိုက် ပုံများအားစီစဉ်ပါ</string>
     <string name="enable_face_album_title">လူအလိုက်စီပါ</string>
-    <string name="enabling_face_feature">ခဏစောင့်ပါ…</string>
-    <string name="enter_choice_mode">Entered Share dialog</string>
+    <string name="enter_choice_mode">ရှယ်ယာဒိုင်ယာလော့သို့ ဝင်မည်</string>
     <string name="enter_email_hint">အီးမေးလ်လိပ်စာထည့်ပါ</string>
     <string name="error_album_not_exist">အယ်လ်ဘမ် မရှိပါ</string>
     <string name="error_build_thumbnail_action">မူရင်းဖိုင်ကို ဒေါင်းလုဒ်လုပ်မည်။</string>
@@ -438,7 +438,7 @@
     <string name="error_unknown_msg">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်။ ကျွန်ုပ်တို့ထံ တုံ့ပြန်အကြံပြုချက်ပေးပို့မည်။</string>
     <string name="error_unknown_tip">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်။</string>
     <string name="exit">ထွက်ရန်</string>
-    <string name="exit_choice_mode">Left Share dialog</string>
+    <string name="exit_choice_mode">ရှယ်ယာဒိုင်ယာလော့မှ ထွက်မည်</string>
     <string name="exit_share">အယ်လ်ဘမ်မှ ထွက်ပါ</string>
     <string name="exit_share_failed">%1$s မှ ထွက်၍ မရပါ</string>
     <string name="exit_share_in_process">အယ်လ်ဘမ် \"%s\"… မှထွက်ခွာနေသည်။</string>
@@ -446,7 +446,6 @@
     <string name="exit_video_play">ထွက်</string>
     <string name="expand_desc">နောက်ထပ်</string>
     <string name="expand_people">လူပို၍ပြသပါ</string>
-    <string name="face_album_detecting_tip">ခဏစောင့်ပါ…</string>
     <string name="face_album_empty">"လူပုဂ္ဂိုလ်အား အလိုအလျောက်ခွဲခြားသိရှိနိုင်ရန် ဓါတ်ပုံမလုံလောက်ပါ။
  သင့်သူငယ်ချင်းများ၏ ဓါတ်ပုံအား များများ ရိုက်ထည့်ပေးပါ!"</string>
     <string name="face_album_empty_syncing">ဒေတာ ဆင့်ခ်လုပ်နေ၊ ခဏနေပြန်လာပါမည်</string>
@@ -454,7 +453,6 @@
     <string name="face_album_long_tap_tip">လူများစွာကို ရွေးချယ်ရန် (သို့) အုပ်စုဆက်တင်များကို ပြောင်းရန် ပရိုဖိုင်းပုံကို နှိပ်ပြီး ကိုင်ထားပါ</string>
     <string name="face_album_new_name_hint">အမည်သစ်</string>
     <string name="face_album_not_named">အမည်မပေးပါ</string>
-    <string name="face_album_pending_enable_tip">စက်ကို Wi-Fi နှင့်ချိတ်ဆက်လိုက်သည့်အခါ ဓါတ်ပုံများကို စီပါလိမ့်မည်</string>
     <string name="face_album_rename_hint">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="face_album_title">%s၏ ဓာတ်ပုံများ</string>
     <string name="face_album_use_tip">ပုံထဲတွင်ပါဝင်နေသောလူများအလိုက် ပုံအားစီစဉ်ပါ</string>
@@ -465,6 +463,7 @@
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_to_pick_email">ဘောင်မဝင်သော အီးမေးလ် လိပ်စာ</string>
     <string name="fail_to_sync_album">အယ်လ်ဘမ်ကို ဆင့်ခ်လုပ်လို့မရနိုင်ပါ။ သင့်ရဲ့ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
@@ -472,7 +471,10 @@
     <string name="fancy_color_desc">အရောင်များ</string>
     <string name="fast_share_auto_render">အလှဆင်မှု</string>
     <string name="fast_share_auto_render_finish">အလှဆင်ခဲ့သည်</string>
-    <string name="feature_guidance_photo_effects">ဓာတ်ပုံ ဖန်တီးချက်</string>
+    <string name="feature_guidance_photo_effects">"New photo effects
+are available"</string>
+    <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">အမှတ်တရ</string>
     <string name="filter_bi_mono">မိုနို</string>
     <string name="filter_bi_pink">ပန်းရောင်</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">အိမ်မွေးတိရိစ္ဆာန်　ဓါတ်ပုံများ</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">ဓာတ်ပုံများ</string>
@@ -810,7 +814,13 @@
     <string name="photo_print_package_installing">လုပ်ဆောင်နေသည်…</string>
     <string name="photo_save_to_msg">%s သို့သိမ်းပါ</string>
     <string name="photomovie_audio_custom">အတွင်းပိုင်း</string>
+    <string name="photomovie_audio_default">Memory</string>
+    <string name="photomovie_audio_kawaii">Romantic</string>
+    <string name="photomovie_audio_light">Ballad</string>
+    <string name="photomovie_audio_linear">Rock</string>
     <string name="photomovie_audio_none">မရှိပါ</string>
+    <string name="photomovie_audio_soft">Ukulele</string>
+    <string name="photomovie_audio_sport">Techno</string>
     <string name="photomovie_cancel_download">ဖျက်သိမ်းမည်</string>
     <string name="photomovie_delete_disable">ဓာတ်ပုံရုပ်ရှင်ဖန်တီးရန် အနည်းဆုံးဓာတ်ပုံ ၃ ပုံ လိုအပ်ပါသည်။</string>
     <string name="photomovie_download">ဒေါင်းလုဒ်လုပ်မည်</string>
@@ -832,6 +842,11 @@
     <string name="photomovie_tab_music">သီချင်း</string>
     <string name="photomovie_tab_template">ပုံစံ</string>
     <string name="photomovie_template_default">နှေးကွေးသော</string>
+    <string name="photomovie_template_kawaii">Charms</string>
+    <string name="photomovie_template_light">Breeze</string>
+    <string name="photomovie_template_linear">Roadtrip</string>
+    <string name="photomovie_template_soft">Youth</string>
+    <string name="photomovie_template_sport">Vigor</string>
     <string name="pick_from_contact">အဆက်အသွယ်များမှ ရွေးပါ</string>
     <string name="pick_too_many_recipients">လက်ခံသူအရမ်းများသည်</string>
     <string name="picker_cancel_download">ဒေါင်းလုဒ်လုပ်ခြင်းကို ပယ်ဖျက်မည်</string>
@@ -844,6 +859,7 @@
     <string name="picker_image_will_download">ရွေးထားသောပုံများ၏ %d ပုံမှာ စက်ပေါ်တွင် မရှိပါ။ ၄င်းတို့အား ဒေါင်းလုဒ်လုပ်လိုက်ပါလိမ့်မည်။</string>
     <string name="picker_no_network_message">ဒေါင်းလုဒ်လုပ်ရန် ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
     <string name="picker_origin_need_download">ရွေးထားသော ပုံများ၏ %1$d ပုံ(%2$dMB) မှာ စက်ပေါ်တွင် ရှိမနေပါ။ မိုဘိုင်းဒေတာအား အသုံးပြုပြီး ဒေါင်းလုဒ်လုပ်မည် လား?</string>
+    <string name="picker_origin_request_progress_message">Preparing original files (%1$d/%2$d)…</string>
     <string name="picker_title_format">ဓာတ်ပုံ %1$d မှ %2$d ပုံရွေးပါ</string>
     <string name="picker_title_selection_format">ရွေးထားသော ဓါတ်ပုံများ−%d</string>
     <string name="picker_title_selection_format_multiple">ဓာတ်ပုံ %1$d မှ %2$d ပုံအထိ ရွေးပါ (%3$d)</string>
@@ -957,12 +973,12 @@
     <string name="search_net_error">ကွန်ရက်အမှားတစ်ခုဖြစ်ပေါ်နေသည်။ အခြားကွန်ရက်တစ်ခုသို့ ချိတ်ဆက်ပြီး ထပ်မံကြိုးစားကြည့်ပါ။</string>
     <string name="search_request_applied">အသုံးချထားသည်</string>
     <string name="search_request_open">စမ်းသပ်မှုအဖွဲ့သို့ ဝင်ရောက်မည်။</string>
+    <string name="search_request_requesting">Applied. Wait a while before you start.</string>
     <string name="search_result_empty">တစ်ခုမှရှာမတွေ့ပါ</string>
     <string name="search_retry">ထပ်ကြိုးစား</string>
     <string name="search_select_network">ကွန်ရက် ရွေးချယ်သတ်မှတ်ပါ။</string>
     <string name="search_set_network_connection">ကွန်ရက်ဆက်တင်များ</string>
     <string name="search_setting_sub_title">သင်၏ဓာတ်ပုံများတွင် လူ၊ နေရာနှင့် အရာဝတ္ထုများကို ရှာ​ဖွေမည်။</string>
-    <string name="search_setting_sub_title_open">လျှောက်ထားပါပြီ။ ကျေးဇူးပြု၍ခဏစောင့်ပါ။</string>
     <string name="search_setting_title">ပြခန်းမှ ဓာတ်ပုံများ ရှာပါ</string>
     <string name="search_syncing">ဒေတာဆင့်ခ်လုပ်နေသည်၊ ခဏနေပြန်လာပါ။</string>
     <string name="search_title_album">အယ်လ်ဘမ်</string>
@@ -975,6 +991,9 @@
     <string name="search_title_recommend">အကြံပြုထားသော</string>
     <string name="search_title_suggestion">အကြံပြုချက်များ</string>
     <string name="search_title_tag">အရာပစ္စည်းများ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">ပရိုဂျက်တာကို ရှာနေသည်…</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
@@ -992,6 +1011,7 @@
     <string name="secret_reason_too_large">ဖိုင် အရမ်းကြီးနေသည်</string>
     <string name="secret_reason_type_not_support">ဒီဖိုင်အမျိုးအစားကို ပံ့ပိုးမပေးထားပါ</string>
     <string name="secret_reason_unknow_reasons">အမည်မသိ အမှား</string>
+    <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
     <string name="see_ignore_faces">သင်လစ်လျူရှု့ခဲ့သော သူများ</string>
     <string name="select_item_face">%s ဤဟာလား?</string>
     <string name="select_origin_tip">မူရင်းဖိုင်(%s)</string>
@@ -1205,7 +1225,7 @@
     <string name="video_editor_smart_effect_fastslow">ရွေ့လျားနှုန်း</string>
     <string name="video_editor_smart_effect_freesze">ရပ်တန့်</string>
     <string name="video_editor_smart_effect_halo">ရောင်ခြည်စက်ဝန်း</string>
-    <string name="video_editor_smart_effect_high_iframes_text">ဖရိန်နှုန်းမြင့်သော ဗီဒီယိုကို အကျိုးပိုမိုသက်ရောက်နိုင်သည်။</string>
+    <string name="video_editor_smart_effect_high_iframes_text">This effect works best for 120 fps videos.</string>
     <string name="video_editor_smart_effect_movie">ရုပ်ရှင်</string>
     <string name="video_editor_smart_effect_none">မရှိပါ</string>
     <string name="video_editor_smart_effect_radical">မြူးမြူးကြွကြွ</string>
@@ -1233,6 +1253,7 @@
     <string name="video_editor_unsupport_audio_file">မထောက်ပံ့ထားသော အော်ဒီယိုဖိုင်</string>
     <string name="video_editor_unzip_file_fail">ဗီဒီယို အထုပ်ဖြည်၍ မရပါ။</string>
     <string name="video_editor_video_is_short">ဤဗီဒီယိုအား တည်းဖြတ်၍မရပါ။</string>
+    <string name="video_editor_video_loading">Preparing video,Wait a second or two and try again.</string>
     <string name="video_editor_watermark">ဓာတ်ပုံ အမှတ်အသား</string>
     <string name="video_err">ဗီဒီယို ဖွင့်လို့ မရပါ</string>
     <string name="video_not_exist">ဗီဒီယို ရှိမနေပါ</string>
@@ -1241,8 +1262,8 @@
     <string name="view_by_gallery_tip">MIUI ပြခန်း</string>
     <string name="view_face_album">အယ်လ်ဘမ်ကို ကြည့်ပါ</string>
     <string name="view_more_face_desc">နောက်ထပ်လူများ ပြပါ</string>
-    <string name="view_queuing_status">ခြေအနေအား စစ်ဆေး</string>
     <string name="voice_assistant">အသံလက်ထောက်</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Mi ကလောက် မှ ကြိုဆိုပါ၏</string>
     <string name="where_is_barcode">QR ကုဒ်ဘယ်မှာလဲ?</string>
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>

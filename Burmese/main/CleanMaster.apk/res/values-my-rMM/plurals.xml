@@ -70,7 +70,7 @@
         <item quantity="other">အက်ပ် &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> ခု အချိန်ကြာမြင့်စွာ အသုံးမပြုဖြစ်နေသည်၊ သွားကြည့်ကြည့်ပါ။;&lt;/Data></item>
     </plurals>
     <plurals name="clean_long_msg_p1">
-        <item quantity="other">"Cleaning %1$d files (%2$d%%)
+        <item quantity="other">"ဖိုင် %1$d ခုကို ရှင်းလင်းနေသည် (%2$d%%)
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
@@ -90,5 +90,8 @@
     </plurals>
     <plurals name="wechat_video_time_p2">
         <item quantity="other">%1$s</item>
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">Delete %1$d files?</item>
     </plurals>
 </resources>

@@ -86,7 +86,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">အသံခေါ်ဆိုမှု ပြုလုပ်နေစဉ် ဗီဒီယိုခေါ်ဆိုမှု ပြုလုပ်၍မရပါ</string>
     <string name="voice_dial_out">ရိုးရိုးအသံဖြင့်ခေါ်ဆို</string>
     <string name="notification_AllMissedCallTitle">လွတ်သွားသော ခေါ်ဆိုမှုအားလုံး</string>
-    <string name="close">ပိတ်မည်</string>
+    <string name="close">ပိတ်ပါ</string>
     <string name="callFailed_simError">ဆင်းမ်ကဒ် အမှား</string>
     <string name="incall_error_supp_service_unknown">ဤဝန်ဆောင်မှုကို မပံ့ပိုးထားပါ။</string>
     <string name="incall_error_power_off">ဖုန်းခေါ်ရန် လေယာဉ်ပျံမုဒ်ကို ပိတ်ပါ</string>

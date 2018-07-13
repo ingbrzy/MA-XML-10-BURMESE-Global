@@ -45,6 +45,7 @@
     <string name="add_back_fingerprint_instruction_msg">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ</string>
     <string name="add_facerecoginition_text">မျက်နှာဒေတာကို ပေါင်းထည့်မည်</string>
     <string name="add_fingerprint_cancel_button_text">နောက်သို့</string>
+    <string name="add_fingerprint_dirty_fingerprint">စခရင် မျက်နှာပြင် သန့်ရှင်းမှု ရှိမရှိ စစ်ဆေးပါ။ ထို့နောက် သင်၏လက်ဗွေအား ပြန်ထည့်သွင်းကြည့်ပါ။</string>
     <string name="add_fingerprint_done_msg">ယခု ဤစက်အား သင်၏လက်ဗွေဖြင့် သော့ဖြည်နိုင်ပါပြီ။</string>
     <string name="add_fingerprint_done_title">စတင်ရန် အသင့်ဖြစ်နေပြီ!</string>
     <string name="add_fingerprint_edge_instruction_msg">အာရုံခံကိရိယာမှ သင့်လက်ဗွေရာ၏အနားများကို မှတ်တမ်းတင်နိုင်ရန် လက်ချောင်းကို ရွှေ့ပါ။</string>
@@ -328,10 +329,14 @@
     <string name="bootloader_locked_check_status">အကောင့်နှင့် စက်ပေါင်းထည့်ပါ</string>
     <string name="bootloader_locked_question_1">စက်အား အဘယ်ကြောင့် လော့ခ်ချသင့်သနည်း?</string>
     <string name="bootloader_locked_question_2">အန္တာရာယ်ကို နားလည်ပါသည်၊ သို့သော် စက်အား သော့ဖြည်လိုပါသည်။</string>
+    <string name="bootloader_status">Mi သော့ဖြည် အခြေအနေ</string>
+    <string name="bootloader_status_locked">လော့ခ်ချထားသည်</string>
     <string name="bootloader_status_privacy_dialog_no">ပယ်ဖျက်မည်</string>
     <string name="bootloader_status_privacy_dialog_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="bootloader_status_privacy_dialog_url_text">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="bootloader_status_privacy_dialog_yes">သဘောတူပါသည်</string>
+    <string name="bootloader_status_summary">စက်အား သော့ခတ်ထားခြင်း ရှိမရှိ သေချာစစ်ဆေးပါ</string>
+    <string name="bootloader_status_unlocked">လော့ခ်မချထားပါ</string>
     <string name="bootloader_status_unlocked_info">ဤစက်ကို သော့ဖြည်ထားသည်</string>
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
@@ -342,6 +347,8 @@
     <string name="brightness_auto_adjust_on">မျက်နှာပြင်တောက်ပမှုအား ပတ်ဝန်းကျင်အလင်းနှင့်အညီ ဆီလျော်အောင် ပြုလုပ်ပေးလိမ့်မည်။</string>
     <string name="bt_hci_snoop_log">ဘလူးတု့ခ် HCI စနုလော့ခ်</string>
     <string name="bt_hci_snoop_log_summary">ဘလူးတုသ် HCI ပက်ကက်များကို ဖိုင်တစ်ခုတွင် ရိုက်ထားပါ</string>
+    <string name="bt_ldac_remember_choice">ကျွန်ုပ်၏ ရွေးချယ်မှုကို မှတ်ထားပါ</string>
+    <string name="bt_ldac_settings">ဆက်တင်</string>
     <string name="bt_rarely_used_device_title">အသုံးနည်းသော စက်များ (%d)</string>
     <string name="bt_trace_log">ဘလူးတုသ် ခြေရာခံ လော့ခ်</string>
     <string name="bt_trace_log_summary">ဘလူးတုသ် ခြေရာခံ လော့ခ်</string>
@@ -736,6 +743,7 @@
     <string name="firewall_temp_rule_reason">%2$s မှ %1$s ၏ အင်တာနက်ချိတ်ဆက်မှုကို ကန့်သတ်ထားသည်</string>
     <string name="firewall_wifi_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် Wi-Fi ကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="firmware_version">အန်းဒရွိုက်ဗားရှင်း</string>
+    <string name="flash_drive_backup_restore_summary">USB ဖြင့်ချိတ်ဆက်ပါ</string>
     <string name="floating_window_switch_label">ဖလုတ်ဖြစ်နေသော ဝင်းဒိုးများကို ဖွင့်မည်</string>
     <string name="floating_window_switch_label_disable">ဖလုတ်ဖြစ်နေသော ဝင်းဒိုးများကို ပိတ်မည်</string>
     <string name="fluency_mode">စနစ် အန်နီမေးရှင်းများ</string>
@@ -814,6 +822,7 @@
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gsm_to_wifi_connect_type_title">GSM မှ Wi-Fi သို့</string>
     <string name="gxzw_add_fingerprint_continue">ဆက်လက်မည်</string>
+    <string name="gxzw_add_fingerprint_finish">ပြီးပါပြီ။</string>
     <string name="gxzw_add_fingerprint_know">နားလည်ပါပြီ</string>
     <string name="gxzw_add_fingerprint_move_indicate">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
     <string name="handy_mode">လက်တစ်ဖက်နည်းပုံစံ</string>
@@ -1535,6 +1544,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -1852,6 +1862,9 @@
     <string name="second_space">ဒုတိယနေရာ</string>
     <string name="secondspace_category">ဒုတိယနေရာ</string>
     <string name="secondspace_delete_space_title">ဒုတိယနေရာအား ဖျက်မည်</string>
+    <string name="secspace_fod_finger_tips">အတည်ပြု၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="secspace_fod_finger_title">သင်၏လက်ဗွေအား အတည်ပြုပါ</string>
+    <string name="secspace_fod_use_password">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="secure_keyguard_business_title">မျက်နှာပြင်လော့ခ်တစ်ခု သတ်မှတ်မည်</string>
     <string name="security_encryption_alert_dialog_info_first">ဤလုပ်ဆောင်ချက်အား ဖွင့်ရန် သော့ခတ်မျက်နှာပြင် စကားဝှက်သတ်မှတ်ရန် လိုအပ်ပါသည်။ စက်အား ပုံမှန်အသုံးပြုရန်နှင့် ကုဒ်ဖြည်ရန် အတွက် စက်ပြန်လည်စတင်ပြီးတိုင်း သော့ခတ်မျက်နှာပြင်စကားဝှက်အား ရိုက်ထည့်သွင်းရန် လိုအပ်ပါသည်။</string>
     <string name="security_encryption_alert_dialog_title_first">မျက်နှာပြင်လော့ခ်တစ်ခုသတ်မှတ်မည်</string>
@@ -1946,6 +1959,7 @@
     <string name="sim_lock_settings_category">ဆင်းမ်လော့ခ် ကို သတ်မှတ်မည်</string>
     <string name="sim_lock_settings_title">ဆင်းမ်လော့ခ်ချမည်</string>
     <string name="sim_management_title">ဆင်းမ်ကဒ် &amp; မိုဘိုင်းကွန်ရက်များ</string>
+    <string name="sim_management_title_singlesim">ဆင်းမ်ကဒ် &amp; မိုဘိုင်းကွန်ရက်များ</string>
     <string name="sim_radio_off">ပိတ်ရန်</string>
     <string name="sim_status_title">ဆင်းမ်အနေအထား</string>
     <string name="simulate_color_space">အရောင်ကို တူအောင်ဖန်တီးသည်</string>
@@ -1988,6 +2002,7 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_enable_notification">အသိပေးချက်များအား ပြပါ</string>
@@ -2004,10 +2019,11 @@
     <string name="status_bar_settings_show_carrier_summary">ဖုန်းလိုင်းကုမ္ပဏီအမည်အား ဤလုပ်ဆောင်ချက်ပိတ်လိုက်စဉ် သော့ခတ်မျက်နှာပြင်နှင့် အသိပေးအချက်ပြအရိပ်တွင် ပြသနေဆဲဖြစ်ပါသည်။</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">စက်အား လော့ခ်ချထားစဥ် ဖုန်းလိုင်းကုမ္ပဏီအမည် ပြပါ</string>
     <string name="status_bar_settings_show_floating_notification">လွင့်မျောနေသော အသိပေးချက်များ</string>
-    <string name="status_bar_settings_show_floating_notification_summary">မျက်နှာပြင်မျက်နှာပြင်ထိပ်ပိုင်းတွင်ပေါ်လာပြီးနောက် ပေါလောပေါ် အသိပေးအချက်အလက်များသည် အလိုအလျောက် ပျောက်သွားလိမ့်မည်</string>
+    <string name="status_bar_settings_show_floating_notification_summary">အရေးကြီးသော အသိပေးချက်များကို မျက်နှာပြင်ထိပ်ပိုင်းတွင် ပြခွင့်ပြုပါ</string>
     <string name="status_bar_settings_show_flow_info">ဒေတာသုံးစွဲမှုအား ပြသပါ</string>
     <string name="status_bar_settings_show_home_message">အက်ပ်အိုင်ကွန်တံဆိပ်</string>
     <string name="status_bar_settings_show_keyguard_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">အရေးကြီးသော အသိပေးချက်များကို သော့ခတ်မျက်နှာပြင်ထိပ်ပိုင်းတွင် ပြခွင့်ပြုပါ</string>
     <string name="status_bar_settings_show_network_speed">ချိုတ်ဆက်မှုမြန်နှုန်း ပြပါ</string>
     <string name="status_bar_settings_show_notification_icon">အကြောင်းကြားစာအိုင်ကွန် ပြပါ</string>
     <string name="status_bar_settings_show_wifi_name">Wi-Fi ပြပါ</string>

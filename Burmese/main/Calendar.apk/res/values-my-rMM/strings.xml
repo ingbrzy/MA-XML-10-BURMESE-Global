@@ -30,7 +30,9 @@
     <string name="alert_reminder_expired">သက်တမ်းကုန်နေသည်</string>
     <string name="alert_title">ပြက္ခဒိန်အသိပေးချက်များ</string>
     <string name="anniversary_event_title">နှစ်ပတ်လည်နေ့−%1$s</string>
+    <string name="anniversary_secondary_tag">နှစ်ပတ်လည်နေ့</string>
     <string name="app_label">ပြက္ခဒိန်</string>
+    <string name="birthday_born">မွေးရက်</string>
     <string name="birthday_calendar_display_name">မွေးနေ့ နှိုးဆော်စာများ</string>
     <string name="birthday_event_description_a_week_ago">လွန်ခဲ့သော တစ်ပတ်က</string>
     <string name="birthday_event_description_a_week_later">မတိုင်ခင် တစ်ပတ်အထိ</string>
@@ -70,6 +72,7 @@
     <string name="countdown_event_title">နောက်ပြန်ရေ−%1$s</string>
     <string name="countdown_notify_before_3_day_title">နောက်ပြန်ရေ− ၃ရက်အတွင်း %1$s</string>
     <string name="countdown_notify_title">နောက်ပြန်ရေ−%1$s</string>
+    <string name="countdown_secondary_tag">အချိန် နောက်ပြန်ရေတွက်ခြင်း</string>
     <string name="countdown_today">ယနေ့</string>
     <string name="create_an_account_desc">"ပြက္ခဒိန်သည် Mi အကောင့်ဖြင့် အလုပ်ပိုသွင်သည်။
 
@@ -116,6 +119,7 @@
     <string name="edit_event_birthday_import_from_contact">အဆက်အသွယ်များမှ မွေးနေ့အား တင်သွင်းပါ</string>
     <string name="edit_event_birthday_name_empty_hint">အမည်တစ်ခု ရိုက်ထည့်ပါ</string>
     <string name="edit_event_birthday_name_hint">အမည်</string>
+    <string name="edit_event_birthday_reminder_3_days_before">၃ ရက်ကြို၍ အသိပေးပါ</string>
     <string name="edit_event_birthday_reminder_time">အသိပေးသူအချိန်</string>
     <string name="edit_event_calendar_label">ပြက္ခဒိန်</string>
     <string name="edit_event_choose_date">နေ့ရက် ရွေးပါ</string>
@@ -176,6 +180,10 @@
     <string name="global_football_final">နောက်ဆုံး</string>
     <string name="global_football_no_match">ယနေ့ ဘောလုံးပွဲမရှိပါ။</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_import">ထည့်သွင်းမည်</string>
+    <string name="guide_card_primary_text">သူငယ်ချင်းများ၏မွေးနေ့ကို ထည့်သွင်းမည်</string>
+    <string name="guide_card_second_text">အရေးကြီးသောရက်များကို လွဲချော်မည် မဟုတ်တော့ပါ</string>
+    <string name="guide_card_title">မွေးနေ့များကို တင်သွင်းမည်</string>
     <string name="hint_attendees">ဧည့်သည်</string>
     <string name="hint_description">ဖော်ပြချက်</string>
     <string name="hint_what">လုပ်ငန်းစဉ်အမည်</string>
@@ -413,12 +421,4 @@
     <string name="xiaomi_calendar_display_name">Mi အကောင့် ပြက္ခဒိန်</string>
     <string name="yearly">နှစ်စဉ် (%s တိုင်း)</string>
     <string name="yearly_plain">နှစ်စဉ်</string>
-    <string name="anniversary_secondary_tag">နှစ်ပတ်လည်နေ့</string>
-    <string name="birthday_born">မွေးရက်</string>
-    <string name="countdown_secondary_tag">အချိန် နောက်ပြန်ရေတွက်ခြင်း</string>
-    <string name="edit_event_birthday_reminder_3_days_before">၃ ရက်ကြို၍ အသိပေးပါ</string>
-    <string name="guide_card_import">ထည့်သွင်းမည်</string>
-    <string name="guide_card_primary_text">သူငယ်ချင်းများ၏မွေးနေ့ကို ထည့်သွင်းမည်</string>
-    <string name="guide_card_second_text">အရေးကြီးသောရက်များကို လွဲချော်မည် မဟုတ်တော့ပါ</string>
-    <string name="guide_card_title">မွေးနေ့များကို တင်သွင်းမည်</string>
 </resources>

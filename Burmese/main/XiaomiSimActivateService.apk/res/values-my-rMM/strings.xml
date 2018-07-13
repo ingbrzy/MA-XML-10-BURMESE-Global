@@ -93,7 +93,7 @@
     <string name="activate_popup_confirm_error_device_id">ထပ်ကြိုးစား</string>
     <string name="activate_feature_mx">Mi မက်ဆေ့ချ်</string>
     <string name="activate_feature_mx_and_voip">Mi မက်ဆေ့ချ်နှင့် အသံ</string>
-    <string name="activate_feature_voip">Mi Message Voice</string>
+    <string name="activate_feature_voip">Mi မက်ဆေ့ချ် အသံ</string>
     <string name="activate_feature_mms_sync">မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="activate_feature_call_log_sync">ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="activate_feature_find_device">စက်ကို ရှာပါ</string>
@@ -122,6 +122,6 @@
     <string name="checking_client">checking client env</string>
     <string name="error_sim_not_in_service">sim not in service</string>
     <string name="error_checking_client">client env error</string>
-    <string name="error_network_io">network error</string>
+    <string name="error_network_io">ကွန်ရက်အမှား</string>
     <string name="error_no_send_sms_permission">no send sms permission</string>
 </resources>

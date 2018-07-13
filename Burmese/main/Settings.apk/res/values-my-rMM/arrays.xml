@@ -591,6 +591,10 @@
         <item>ကွန်ရက်သည် လိုင်းအားနည်းနေသောကြောင့် နှေးနေသည်</item>
         <item>ရွေ့နေသည်…</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>ဂရပ်ဖစ်ဆိုင်ရာ</item>
+        <item>ရာခိုင်နှုန်း</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
