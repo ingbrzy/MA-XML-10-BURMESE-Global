@@ -377,6 +377,7 @@
     <string name="pref_camera_delay_capture_entry_5s">၅ စက္ကန့်</string>
     <string name="pref_camera_delay_capture_entry_10s">၁၀ စက္ကန့်</string>
     <string name="pref_ai_detect">AI ရှာဖွေခြင်း</string>
+    <string name="pref_google_lens">Google lens</string>
     <string name="pref_camera_beauty">အလှဆင်မှု</string>
     <string name="pref_camera_beauty_deep">ပရို အလှဆင်မှု</string>
     <string name="pref_camera_asd_night_title">အလင်းအားနည်းသော ပုံများကို အလိုအလျောက် အရည်အသွေးမြှင့်ပါ</string>
@@ -426,10 +427,11 @@
     <string name="pref_camera_portrait_mode_entry_on">လူပုံမုဒ်ကို ဖွင့်ထားသည်</string>
     <string name="portrait_mode_lowlight_hint">ယခု အလွန်မှောင်နေသည်</string>
     <string name="portrait_mode_too_close_hint">အရာဝတ္ထု၏ အဝေးသို့ရွှေ့ပေးပါ</string>
-    <string name="portrait_mode_too_far_hint">ရိုက်ကူးမည့်အရာအား ၂.၅ မီတာအတွင်း ထားပါ</string>
+    <string name="portrait_mode_too_far_hint">ရိုက်ကူးမည့်အရာအား ၂ မီတာအတွင်း ထားပါ</string>
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံရိုက်ကူးခြင်းသည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
     <string name="simple_mode_button_text_square">စတုရန်းပုံအား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -444,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -536,14 +539,14 @@
     <string name="pref_camera_picturesize_entry_fullscreen">မျက်နှာပြင်အပြည့် ၁၆:၉</string>
     <string name="lens_dirty_detected_title_back">နောက်ကျော ကင်မရာမှန်ဘီလူး ညစ်ပတ်နေသည်</string>
     <string name="lens_dirty_detected_title_front">အရှေ့ ကင်မရာမှန်ဘီလူး ညစ်ပတ်နေသည်</string>
-    <string name="lens_dirty_detected_content">"Looks like your camera's lens is dirty.
-Clean the lens for better effect."</string>
-    <string name="lighting_hint_title">Studio lighting</string>
-    <string name="lighting_hint_usage">"You can use studio lighting effects
-in Portrait mode"</string>
-    <string name="lighting_hint_needed">Place your object in the spotlight</string>
-    <string name="lighting_hint_too_far">Bring the camera closer</string>
-    <string name="lighting_hint_too_close">Move the camera further away</string>
+    <string name="lens_dirty_detected_content">"သင့်ကင်မရာမှန်ဘီလူး ညစ်ပတ်နေသည်။
+ ပိုကောင်းစေရန် မှန်ဘီလူးအား ရှင်းလင်းပါ။"</string>
+    <string name="lighting_hint_title">စတူဒီယို အလင်း</string>
+    <string name="lighting_hint_usage">"လူပုံမုဒ်တွင် 
+စတူဒီယို အလင်း အထူးဖန်တီးချက်အား သုံးနိုင်ပါပြီ"</string>
+    <string name="lighting_hint_needed">လူပုံကို အလင်းရောင်အောက်တွင် ထားပါ</string>
+    <string name="lighting_hint_too_far">ကင်မရာအား အနားတိုးပါ</string>
+    <string name="lighting_hint_too_close">ကင်မရာအား အဝေးတွင်ထားပါ</string>
     <string name="lighting_pattern_nature">သဘာဝ</string>
     <string name="lighting_pattern_stage">စတိတ်</string>
     <string name="lighting_pattern_movie">ရုပ်ရှင်</string>

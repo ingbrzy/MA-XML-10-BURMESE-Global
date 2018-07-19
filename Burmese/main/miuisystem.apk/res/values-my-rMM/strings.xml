@@ -176,7 +176,7 @@
     <string name="cta_permission_delimiter">၊</string>
     <string name="cta_permission_and">နှင့်</string>
     <string name="cta_title">အသုံးပြုမှုဆိုင်ရာစည်းကမ်းချက်များ</string>
-    <string name="cta_message_license">ဤထုတ်ကုန်အား အသုံးပြုခြင်းအားဖြင့်၊ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာစည်းမျဉ်းများနှင့် ကို်ပိုင်ရေးရာ ပေါ်လစီများအား သဘောတူပြီး ဖြစ်ပါသည်။</string>
+    <string name="cta_message_license">ဤထုတ်ကုန်အား အသုံးပြုခြင်းအားဖြင့်၊ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာစည်းမျဉ်းများနှင့် ကိုယ်ရေးပေါ်လစီများအား သဘောတူပြီး ဖြစ်ပါသည်။</string>
     <string name="cta_message_permission">ဤအက်ပ်ပုံမှန်အလုပ်လုပ်ရန် %2$s လုပ်ရန် လိုအပ်ပါသည်</string>
     <string name="cta_check_reminder">နောက်ထပ်မပြပါနှင့်</string>
     <string name="cta_button_quit">ထွက်</string>

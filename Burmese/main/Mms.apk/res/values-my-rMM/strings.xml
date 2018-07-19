@@ -191,6 +191,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -395,7 +396,7 @@
     <string name="pref_show_blocked_messages_summary">စကားပြောဆိုထားမှု စာရင်းထဲတွင် ဘလော့လုပ်ထားသော SMS ကိုပြပါ</string>
     <string name="pref_show_list_avatar_summary">ပရိုဖိုင်ပုံနှင့် အဆက်အသွယ်ပုံများကို အစဉ်လိုက်မြင်ကွင်းဖြင့် ပြပါ</string>
     <string name="pref_show_photo_word_summary">ပုံတူမရှိသော အဆက်အသွယ်များအတွက် ပုံတစ်ပုံအလိုအလျောက်ထည့်သွင်းမည်။</string>
-    <string name="pref_show_sms_template_entry_summary">Detect one-time passwords and show quick menus</string>
+    <string name="pref_show_sms_template_entry_summary">တစ်ခါသုံး စကားဝှက်အား ဖျက်၍ အမြန်မီနူး ပြပါ</string>
     <string name="pref_show_sms_template_in_summary">SMS မက်ဆေ့ချ်များထဲရှိ တစ်ကြိမ်သုံး စကားဝှက်များအား အလိုအလျောက် ထောက်လှမ်းပါ</string>
     <string name="pref_show_sms_template_summary">ကုဒ်များ ကူးယူခြင်း၊ လက်ကျန်ငွေစစ်ဆေးခြင်း စသော Mi မက်ဆေ့ချ်၏ စမတ်လုပ်ဆောင်ချက်များအား အသုံးပြုရန် ဖွင့်ပါ</string>
     <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်များ</string>
@@ -542,6 +543,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -624,7 +626,7 @@
     <string name="title_show_blocked_messages">ဘလော့လုပ်ထားသော SMS ကိုပြပါ</string>
     <string name="title_show_list_avatar">ပရိုဖိုင်ဓါတ်ပုံများကို ပြသပါ</string>
     <string name="title_show_photo_word">အဆက်အသွယ်ဓာတ်ပုံ ထည့်သွင်းမည်။</string>
-    <string name="title_show_sms_template">Smart Messaging</string>
+    <string name="title_show_sms_template">စမတ် မက်ဆေ့ချ်</string>
     <string name="title_show_sms_template_in">OTP အတွက် SMS အားစစ်ဆေးပါ</string>
     <string name="title_timed_message_dialog">အချိန်မက်ဆေ့ချ်ကို သတ်မှတ်ပါ</string>
     <string name="title_use_gsm_alphabet">GSM အက္ခရာစဥ်ကို အသုံးပြုပါ</string>

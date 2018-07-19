@@ -61,8 +61,6 @@
     <string name="asset_sync_power_alert_message">သီချင်းများအား အရန်သိမ်းရန် အားသွင်းချာဂျာဖြင့် ချိတ်ဆက်ပါ</string>
     <string name="asset_sync_power_alert_title">ဘက်ထရီနည်းနေသည်</string>
     <string name="audio_picker_title">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
-    <string name="auto_payment">အလိုအလျောက် အသစ်ပြန်ဖြစ်ခြင်း</string>
-    <string name="auto_payment_date">နောက်ထပ်ပေးချေမှု−%s</string>
     <string name="available_playlist_name_format">ဖွင့်ရန်စာရင်းသစ်%d</string>
     <string name="avoid_to_use_traffic_summary">သီချင်းနားထောင်ရန် မိုဘိုင်းလ်ကွန်ရက်ကို မသုံးပါနှင့်</string>
     <string name="avoid_to_use_traffic_title">သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာသုံးထားပါက အသိပေးပါ</string>
@@ -71,8 +69,6 @@
     <string name="backup_empty_button">ရွေးထားသော သီချင်းမရှိ</string>
     <string name="backup_immediate">အရန်သိမ်းပါ</string>
     <string name="backup_song_title">အရန်သိမ်းရန် သီချင်းများ ရွေးပါ</string>
-    <string name="being_disable_auto_payment">ပိတ်နေသည်…</string>
-    <string name="being_enable_auto_payment">ဖွင့်နေသည်…</string>
     <string name="bluetooth_device">ဘလူးတုသ်အသံစက်</string>
     <string name="buffering">ဘက်ဖာရင်း…</string>
     <string name="button_cancel_download">ဖျက်သိမ်းပါ</string>
@@ -112,6 +108,7 @@
     <string name="continue_backup">ဆက်လက်မည်</string>
     <string name="cp_info_first">"အွန်လိုင်း သီချင်းထုတ်လွှင့်ခြင်း ဝန်ဆောင်မှုအား
  Ultimate Inc မှလုပ်ဆောင်နေခြင်းဖြစ်ပါသည်"</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">အော်ဒါမဖန်တီးနိုင်ခဲ့ပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="create_playlist">ဖွင့်ရန်စာရင်း ဖန်တီးမည်</string>
     <string name="create_playlist_failure">သီချင်းစာရင်းအား မဖန်တီးနိုင်ခဲ့ပါ</string>
@@ -166,10 +163,6 @@
     <string name="dialog_title_not_available">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="dialog_title_queued_body">ဖိုင်ယခု မရနိုင်သေးပါ</string>
     <string name="dialog_title_remove_tracks">ဖယ်ရှားပါ</string>
-    <string name="disable_auto_payment_fail">မပိတ်နိုင်ခဲ့ပါ</string>
-    <string name="disable_auto_payment_fail_message">အလိုအလျောက်အသစ်ပြန်ဖြစ်ခြင်းအား မပိတ်နိုင်ခဲ့ပါ</string>
-    <string name="disable_auto_payment_success">ပိတ်</string>
-    <string name="disable_auto_payment_success_message">အလိုအလျောက်အသစ်မွမ်းမံခြင်းအား ပိတ်ပါ။ ပုံမှန်ကြေးပေးခြေမှု သက်တမ်းကုန်ပြီးနောက်၊ သီချင်းများအား ဒေါင်းလုဒ်လုပ်ရန် ထပ်မံပေးချေမှု လုပ်ရပါလိမ့်မည်။</string>
     <string name="disallow_add_to_fm">FM ရေဒီယိုထဲသို့ သီချင်းများပေါင်းထည့်၍မရပါ</string>
     <string name="disallow_add_to_personal_radio">ကိုယ်ပိုင်ရေဒီယိုထဲသို့ သီချင်းများအား ပေါင်းထည့်မရပါ</string>
     <string name="do_not_remind_this_version">ဤဗားရှင်းအကြောင်း သတိမပေးပါနှင့်</string>
@@ -209,6 +202,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
@@ -247,10 +241,6 @@
     <string name="edit_playlist_info">သီချင်းစာရင်းအချက်အလက်အား တည်းဖြတ်မည်</string>
     <string name="empty_page_no_album">အယ်လ်ဘမ်မရှိ။</string>
     <string name="empty_page_no_artist">အနုပညာရှင်မရှိ</string>
-    <string name="enable_auto_payment_fail">မဖွင့်နိုင်ခဲ့ပါ</string>
-    <string name="enable_auto_payment_fail_message">အလိုအလျောက်အသစ်ပြန်ဖြစ်ခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
-    <string name="enable_auto_payment_success">အလိုအလျောက် သက်တမ်းတိုးပါ</string>
-    <string name="enable_auto_payment_success_message">အလိုအလျောက် သက်တမ်းတိုးခြင်းအား ဖွင့်ပါ။ နောက်ထပ်ပေးချေမှုသည် %s တွင် သက်တမ်းကုန်ပါမည်။</string>
     <string name="enabled">ဖွင့်ထား</string>
     <string name="enter_garbage_clean">အတွင်းသိုလှောင်မှုအား ရှင်းလင်းပါ</string>
     <string name="eq_auto">ကိုယ်တိုင်လုပ်ပါ</string>
@@ -436,8 +426,9 @@
     <string name="modify_song_info_success">သီချင်းအချက်အလက်ကို အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="more">နောက်ထပ်</string>
     <string name="more_add_song_list">သီချင်းများကို တန်းစီထားမည်</string>
+    <string name="more_milink">Mi လင့်ခ်</string>
     <string name="more_settings">အဆင့်မြင့်ဆက်တင်များ</string>
-    <string name="more_settings_summary">ဒေါင်းလုဒ်ဆက်တင်များ၊ အိပ်စက်မှုတိုင်မာ၊ မိုဘိုင်းဒေတာစီမံခန့်ခွဲမှုနှင့် ဖိုင်များအတွက် စစ်ထုတ်မှု စသည်များ</string>
+    <string name="more_settings_summary">အိပ်ချိန် တိုင်မာ၊ ဖိုင် စစ်ထုတ်ကိရိယာ စသည်</string>
     <string name="more_share">မျှဝေခြင်း</string>
     <string name="music_browser_label">တေးဂီတ</string>
     <string name="music_filter">အော်ဒီယိုဖိုင်များကို စစ်ပါ</string>
@@ -545,6 +536,7 @@
     <string name="priority_storage">ပြင်ပ SD ကဒ်အသုံးပြု</string>
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
     <string name="pulluprefreshrecyclerview_loading_error">လုဒ်မတင်နိုင်ခဲ့ပါ</string>
@@ -708,6 +700,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>

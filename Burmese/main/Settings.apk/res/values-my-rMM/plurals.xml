@@ -28,10 +28,10 @@
         <item quantity="other">PIN သည် ဂဏန်း %d ခု ဖြစ်ရမည်</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">You can enter up to %d digits</item>
+        <item quantity="other">အများဆုံး ဂဏန်း %d လုံးအထိသာ ရိုက်ထည့်နိုင်သည်</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">Enter at least %d digits</item>
+        <item quantity="other">အနည်းဆုံး ဂဏန်း %d လုံး ရိုက်ထည့်ပါ</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">အနည်းဆုံး အစက် %d စက်ကို ဆက်ပါ။ ပြန်ကြိုးစားကြည့်ပါ။</item>
@@ -55,7 +55,7 @@
         <item quantity="other">ဘတ်ကိုအစီရင်ခံခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>
     </plurals>
     <plurals name="show_reset_countdown">
-        <item quantity="other">Complete %1$d steps to perform a factory reset</item>
+        <item quantity="other">စက်ရုံထုတ်အနေအထားသို့ ရောက်ရှိရန် %1$d ဆင့်သာ လိုသည်</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">အက်ပ် %d ခုမှအသိပေးချက်များ မဖော်ပြနိုင်ပါ။</item>

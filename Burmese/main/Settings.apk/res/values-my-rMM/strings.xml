@@ -54,6 +54,7 @@
     <string name="add_fingerprint_finished_button_text">ပြီးပါပြီ</string>
     <string name="add_fingerprint_instruction_msg">လက်ဗွေအာရုံခံကိရိယာသည် သင့်စက်၏ဟုမ်းခလုတ်တွင် ရှိသည်။</string>
     <string name="add_fingerprint_instruction_title">သင်၏လက်ဗွေ ပေါင်းထည့်ပါ</string>
+    <string name="add_fingerprint_move_fast">လက်ချောင်းအား မျက်နှာပြင်ပေါ်တွင် အနည်းငယ်ကြာအောင် ထားပါ</string>
     <string name="add_fingerprint_name_suggest_text">လက်ဗွေအမည်</string>
     <string name="add_fingerprint_put_finger_edge_msg">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ၊ လက်ဗွေရာ၏အစိတ်အပိုင်းအားလုံးကို ပေါင်းထည့်ရန် အာရုံခံကိရိယာပေါ်တွင် လက်ချောင်းကို ပြန်တင်ပါ။</string>
     <string name="add_fingerprint_put_finger_msg">တုန်ခါမှုရှိသည်အထိ သင်၏လက်ချောင်းအား အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ။</string>
@@ -325,17 +326,24 @@
     <string name="bootloader_device_bind_no_sim">ဆင်းမ်ကဒ်ထည့်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="bootloader_device_bind_server_code">ပေါင်းထည့်၍ မရခဲ့ပါ။ အမှားကုဒ်-</string>
     <string name="bootloader_device_bind_sim_invalid">ဆင်းမ်ကဒ် မမှန်ကန်ပါ။ အခြားဆင်းမ်ကဒ် အစားထိုးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="bootloader_locked_answer_1">စက်များအား လုံခြုံစေရန်နှင့် ကိုယ်ရေးအချက်အလက်များအား အခြား တတိယပါတီများသို့ ပိတ်ထားရန် စက်သော့ခတ်ခြင်းကို သုံ:ပါသည်။ Fastboot မုတ်သို့မဟုတ် သင့်စက်ကို ဖလက်ရှ်လိုသည့်အခါ သော့ဖြည်နိုင်ပါသည်။</string>
     <string name="bootloader_locked_answer_1_warning">သတိပြုပါ−ဖုန်းအား သော့ဖြည်ပြီးနောက် \"စက်ရှာဖွေခြင်း\" ကိုအသုံးပြု၍ရနိုင်လိမ့်မည် မဟုတ်ပါ။</string>
+    <string name="bootloader_locked_answer_2">"၁။ စက်ထဲတွင် ဆင်းမ်ကဒ် ရှိမရှိ စစ်ကြည့်ပါ။
+၂။ Mi အကောင့်အား ဤစက်နှင့် တွဲရန် အောက်ရှိ \"အကောင့် ပေါင်းထည့်ပါ\"အား ထိနှိပ်ပါ။
+၃။ သော့ဖြည်ကိရိယာအား ကျွန်ုပ်တို့၏ဝက်ဘ်ဆိုက်မှ ဒေါင်းလုဒ်လုပ်ပါ။ ကွန်ပျူတာမှ စက်အား သော့ဖြည်ရန် သတိပြုပါ။ ဒေါင်းလုဒ်လုပ်ရန်-"</string>
     <string name="bootloader_locked_check_status">အကောင့်နှင့် စက်ပေါင်းထည့်ပါ</string>
     <string name="bootloader_locked_question_1">စက်အား အဘယ်ကြောင့် လော့ခ်ချသင့်သနည်း?</string>
     <string name="bootloader_locked_question_2">အန္တာရာယ်ကို နားလည်ပါသည်၊ သို့သော် စက်အား သော့ဖြည်လိုပါသည်။</string>
     <string name="bootloader_status">Mi သော့ဖြည် အခြေအနေ</string>
     <string name="bootloader_status_locked">လော့ခ်ချထားသည်</string>
+    <string name="bootloader_status_locked_info">ဤစက်ကို လော့ခ်ချထားသည်</string>
+    <string name="bootloader_status_locked_summary">ဖုန်းသည် လုံခြုံပါပြီ</string>
+    <string name="bootloader_status_privacy_dialog_message">Mi သော့ဖြည်မှုသည် ပုံမှန်အလုပ်လုပ်ရန် သင်၏ Mi အကောင့်၊ CPU ID၊ IMEI၊ IMSI တို့ကို လိုအပ်သည်။ ထိုဒေတာများအား ကျွန်ုပ်တို့၏ %s အရ စုဆောင်း၊ အသုံးပြုပါမည်။ သဘောတူပါသလား?</string>
     <string name="bootloader_status_privacy_dialog_no">ပယ်ဖျက်မည်</string>
     <string name="bootloader_status_privacy_dialog_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="bootloader_status_privacy_dialog_url_text">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="bootloader_status_privacy_dialog_yes">သဘောတူပါသည်</string>
-    <string name="bootloader_status_summary">စက်အား သော့ခတ်ထားခြင်း ရှိမရှိ သေချာစစ်ဆေးပါ</string>
+    <string name="bootloader_status_summary">စက်အား လော့ခ်ချထားခြင်း ရှိမရှိ သေချာစစ်ဆေးပါ</string>
     <string name="bootloader_status_unlocked">လော့ခ်မချထားပါ</string>
     <string name="bootloader_status_unlocked_info">ဤစက်ကို သော့ဖြည်ထားသည်</string>
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
@@ -347,6 +355,14 @@
     <string name="brightness_auto_adjust_on">မျက်နှာပြင်တောက်ပမှုအား ပတ်ဝန်းကျင်အလင်းနှင့်အညီ ဆီလျော်အောင် ပြုလုပ်ပေးလိမ့်မည်။</string>
     <string name="bt_hci_snoop_log">ဘလူးတု့ခ် HCI စနုလော့ခ်</string>
     <string name="bt_hci_snoop_log_summary">ဘလူးတုသ် HCI ပက်ကက်များကို ဖိုင်တစ်ခုတွင် ရိုက်ထားပါ</string>
+    <string name="bt_ldac_declaration">ဘလူးတုသ်စက်မှာ LDAC အား ပံ့ပိုးထားလျှင် မူလချိတ်ဆက်မှုအဖြစ် သတ်မှတ်မည်။ LDAC သည် အရည်အသွေးမြင့်အော်ဒီယိုကို ပေးနိုင်မှာဖြစ်ပြီး ပါဝါသုံးစွဲမှုလည်း မြန်စေနိုင်သည်။ ဘလူးတုသ် ဟာ့ဒ်ဝဲအကန့်အသတ်ကြောင့် ဖွင့်ရာတွင် ထစ်နိုင်သည်။</string>
+    <string name="bt_ldac_dialog_summary">"LDAC သည် အရည်အသွေးမြင့်အော်ဒီယိုကို ပေးနိုင်မှာဖြစ်ပြီး ပါဝါသုံးစွဲမှုလည်း မြန်စေနိုင်သည်။
+ဤအင်္ဂါရပ်ကို [Settings]တွင် ပိတ်နိုင်ပါသည်။"</string>
+    <string name="bt_ldac_dialog_title">လက်ရှိစက်မှာ LDAC အား ပံ့ပိုးထားသည်၊ မူလချိတ်ဆက်မှုအဖြစ် သတ်မှတ်မည်-</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC သည် အရည်အသွေးမြင့်အော်ဒီယိုကို ပေးနိုင်မှာဖြစ်ပြီး ပါဝါသုံးစွဲမှုလည်း မြန်စေနိုင်သည်။ ဘလူးတုသ် ဟာ့ဒ်ဝဲအကန့်အသတ်ကြောင့် ဖွင့်ရာတွင် ထစ်နိုင်သည်။</string>
+    <string name="bt_ldac_open_dialog_title">LDAC အား ဖွင့်မလား?</string>
+    <string name="bt_ldac_pre_summary">အရည်အသွေးမြင့်အော်ဒီယိုကို ပံ့ပိုးနိုင်သည်</string>
+    <string name="bt_ldac_property">အရည်အသွေး</string>
     <string name="bt_ldac_remember_choice">ကျွန်ုပ်၏ ရွေးချယ်မှုကို မှတ်ထားပါ</string>
     <string name="bt_ldac_settings">ဆက်တင်</string>
     <string name="bt_rarely_used_device_title">အသုံးနည်းသော စက်များ (%d)</string>
@@ -618,7 +634,7 @@
     <string name="double_click_power_key">ပါဝါခလုတ်ကို နှစ်ကြိမ် ထိနှိပ်ပါ</string>
     <string name="download_current_rom">MIUI နောက်ဆုံးဗားရှင်းကိုရယူပါ</string>
     <string name="downloading_description">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
-    <string name="dtmf_tone_enable_title">နံပါတ်နှိပ်ခွက် အသံများ</string>
+    <string name="dtmf_tone_enable_title">ဖုန်းဒိုင်ခွက် အသံများ</string>
     <string name="dual_setting_simcard1">ဆင်းမ် ၁</string>
     <string name="dual_setting_simcard2">ဆင်းမ် ၂</string>
     <string name="edge_mode_back">နောက်ပြန်သွား</string>
@@ -743,6 +759,7 @@
     <string name="firewall_temp_rule_reason">%2$s မှ %1$s ၏ အင်တာနက်ချိတ်ဆက်မှုကို ကန့်သတ်ထားသည်</string>
     <string name="firewall_wifi_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် Wi-Fi ကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="firmware_version">အန်းဒရွိုက်ဗားရှင်း</string>
+    <string name="flash_drive_backup_restore">USB ဖြင့် အရန်သိမ်းမည် သို့မဟုတ် ပြန်လည်ရယူမည်</string>
     <string name="flash_drive_backup_restore_summary">USB ဖြင့်ချိတ်ဆက်ပါ</string>
     <string name="floating_window_switch_label">ဖလုတ်ဖြစ်နေသော ဝင်းဒိုးများကို ဖွင့်မည်</string>
     <string name="floating_window_switch_label_disable">ဖလုတ်ဖြစ်နေသော ဝင်းဒိုးများကို ပိတ်မည်</string>
@@ -822,9 +839,18 @@
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gsm_to_wifi_connect_type_title">GSM မှ Wi-Fi သို့</string>
     <string name="gxzw_add_fingerprint_continue">ဆက်လက်မည်</string>
+    <string name="gxzw_add_fingerprint_edge_message">လက်ဗွေရာ၏အနားများကို မှတ်တမ်းတင်နိုင်ရန် သင့်လက်ချောင်းကို ရွှေ့ပါ</string>
+    <string name="gxzw_add_fingerprint_edge_title">လက်ချောင်းကို ချိန်ညှိပါ</string>
     <string name="gxzw_add_fingerprint_finish">ပြီးပါပြီ။</string>
+    <string name="gxzw_add_fingerprint_indicate">ဤနေရာအား ညင်သာစွာ ဖိပါ</string>
     <string name="gxzw_add_fingerprint_know">နားလည်ပါပြီ</string>
+    <string name="gxzw_add_fingerprint_message">သင်၏လက်ချောင်းနှင့် မျက်နှာပြင် နှစ်ခုစလုံးအား သန့်ရှင်းစေပါ</string>
     <string name="gxzw_add_fingerprint_move_indicate">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
+    <string name="gxzw_add_fingerprint_move_message">လက်ဗွေရာကို မှတ်တမ်းတင်နိုင်ရန် သင့်လက်ချောင်းကို ရွှေ့ပါ</string>
+    <string name="gxzw_add_fingerprint_move_title">သင့်လက်ချောင်းအား အနည်းငယ် ရွှေ့ပါ</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">မျက်နှာပြင်ကို ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ။ ထပ်ခါလုပ်ပါ။</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ</string>
+    <string name="gxzw_add_fingerprint_title">လက်ဗွေ ပေါင်းထည့်ပါ</string>
     <string name="handy_mode">လက်တစ်ဖက်နည်းပုံစံ</string>
     <string name="handy_mode_enable">လက်တစ်ဖက်သုံးမုဒ်</string>
     <string name="handy_mode_size">မျက်နှာပြင်အရွယ်အစား</string>
@@ -874,7 +900,7 @@
     <string name="install_preinstall_app">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="install_whole_rom">ROM ကို ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="instruction_privacy_password">ဤစကားဝှက်သည် အောက်ပါအိုင်တမ်များကို အကာအကွယ်ပေးသည်</string>
-    <string name="instruction_title">လမ်းညွှန်ချက်များ</string>
+    <string name="instruction_title">အရေးကြီးသော လုံခြုံရေးအချက်လက်</string>
     <string name="item_system_app">စနစ် အက်ပ်များ</string>
     <string name="keep_legacy_fingerprint">သိမ်းထားမည်</string>
     <string name="keep_screen_on">နိုးကြားနေပါစေ</string>
@@ -1005,6 +1031,7 @@
     <string name="lockpassword_choose_your_pin_header">သင့်PINအား သတ်မှတ်ပါ</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"ဒုတိယနေရာအတွက် 
  PINအား သတ်မှတ်ပါ"</string>
+    <string name="lockpassword_choose_your_pin_title">ဂဏန်း ၄-၁၆ လုံး ရိုက်ထည့်ပါ</string>
     <string name="lockpassword_confirm_for_second_user">ဒုတိယနေရာအတွက် စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_passwords_dont_match">စကားဝှက် မ’ကိုက်ညီပါ</string>
     <string name="lockpassword_confirm_pins_dont_match">PINs မကိုက်ညီပါ</string>
@@ -1128,6 +1155,7 @@
     <string name="miui_lab_gallery_search_title">ပြခန်းမှ ဓာတ်ပုံများ ရှာပါ</string>
     <string name="miui_lab_settings">MIUIလပ်</string>
     <string name="miui_lab_slogan">စူးစမ်းလေ့လာ၊ ရှာဖွေတွေ့ရှိ။</string>
+    <string name="miui_lab_super_resolution_desc">ရုပ်ပုံများကို ပိုမိုကြည်လင်စေသည်</string>
     <string name="miui_lab_super_resolution_title">စူပါ ရီဆိုလူးရှင်း</string>
     <string name="miui_master_clear_summary">ဖုန်းထဲရှိဒေတာအားလုံးကို ဖျက်ပါ</string>
     <string name="miui_touch_filtered_warning">အက်ပ်တစ်ခုမှ ခွင့်ပြုချက်များကို ဘလော့လုပ်ထားသည်၊ အိုင်တမ်အား ဖယ်ရှားပါ သို့မဟုတ် အက်ပ်အား ပိတ်လိုက်ပါ။</string>
@@ -1544,6 +1572,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -1593,6 +1622,7 @@
     <string name="restriction_wifi_config_title">Wi-Fiနှင့် မိုဘိုင်းကွန်ရက်များ</string>
     <string name="retail_demo_reset_message">အစမ်းမုဒ်တွင် စက်ရုံထုတ်အနေအထားသို့ပြန်သတ်မှတ်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="retry">ထပ်မံကြိုးစားပါ</string>
+    <string name="rgb_manage_facerecoginition_text">2D မျက်နှာဒေတာကို စီမံမည်</string>
     <string name="ringtone_slot_setting_title">ဆင်းမ်တစ်ခု ဆက်တင်များ</string>
     <string name="ringtone_uniform_setting_title">ဆင်းမ်နှစ်ခု ဆက်တင်များ</string>
     <string name="root">Root သို့ဝင်ရောက်ခြင်း</string>
@@ -1644,6 +1674,7 @@
     <string name="screen_paper_mode_off_apps_title">စာဖတ်ခြင်းမုဒ်အား မသုံးပါနှင့်</string>
     <string name="screen_paper_mode_range_title">ဆက်တင်များ</string>
     <string name="screen_paper_mode_set_apps_title">ဖတ်ခြင်းပုံစံအက်ပ်စ်များ</string>
+    <string name="screen_paper_mode_summary">စာဖတ်မုဒ်သည် သင့်မျက်စိအနားယူနိုင်ရန် အရောင်ကို ပြောင်းပေးထားသည်။</string>
     <string name="screen_paper_mode_time_summary">စာဖတ်မုဒ်ကို အဖွင့်အပိတ်လုပ်ရန် အချိန်သတ်မှတ်ပါ</string>
     <string name="screen_paper_mode_time_title">အချိန်ဇယား</string>
     <string name="screen_paper_mode_title">ဖတ်ရှုမုဒ်</string>
@@ -1976,6 +2007,8 @@
     <string name="sms_received_sound_dialog_title">စာသားလက်ခံသော အသံကို ရွေးပါ</string>
     <string name="sms_received_sound_title">မက်ဆေ့ခ်ျ ရရှိပြီးပြီ</string>
     <string name="sound_category_call_ringtone_vibrate_title">ဖုန်းမြည်သံ &amp; အသိပေးချက် အသံများ</string>
+    <string name="sound_stereo_mode_summary">စပီကာဖြင့် အသံဖွင့်သောအခါတွင်သာ ရရှိနိုင်သည်</string>
+    <string name="sound_stereo_mode_title">စတီရီယိုအသံ</string>
     <string name="sound_vibrate_settings">အသံများနှင့် &amp; တုန်ခါမှုများ</string>
     <string name="spellchecker_switch_title">စာလုံးပေါင်းစစ်ဆေးခြင်းကို ဖွင့်မည်</string>
     <string name="split_screen">မျက်နှာပြင်ခွဲအား ဖွင့်ပါ</string>
@@ -2001,6 +2034,7 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_enable_notification">အသိပေးချက်များအား ပြပါ</string>
@@ -2052,11 +2086,16 @@
     <string name="strict_mode">တင်းကျပ်မုဒ်ကို ဖွင့်ထားသည်</string>
     <string name="strict_mode_summary">အက်ပ်သည် အဓိကThreadတွင် အချိန်ကြာမြင့်စွာအလုပ်လုပ်နေလျှင် မျက်နှာပြင်အား ဖလက်ရှ်လုပ်ပါ</string>
     <string name="structure_add_facerecoginition_text">3D မျက်နှာဒေတာကို ပေါင်းထည့်မည်</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">ဘက်ထရီ အားနည်းနေသည့်အတွက် ဤအင်္ဂါရပ်အား အသုံးပြု၍မရ နိုင်ပါ</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">မှတ်တမ်းတင်ရန် ဘက်ထရီအားသည် အနည်းဆုံး ၅% ရှိရမည်။</string>
+    <string name="structure_manage_facerecoginition_text">3D မျက်နှာဒေတာကို စီမံမည်</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">ဤအက်ပ်များသည် မျက်နှာပြင်အပြည့်မုဒ်အောက်တွင် အကောင်းဆုံးအလုပ်လုပ်နိုင်သည်</string>
     <string name="suggestion_for_phone_recycled">အခြားဖုန်းနံပါတ်တစ်ခု ပေါင်းထည့်ပါ</string>
     <string name="super_resolution_access_title">ဝင်ရောက်အသုံးပြုနိုင်သော အက်ပ်များ</string>
+    <string name="super_resolution_desc">AI အယ်လဂိုရီသမ်ဖြင့် ရုပ်ပုံများကို ပိုကြည်လင်အောင်လုပ်နိုင်သည်</string>
     <string name="super_resolution_maintain">စူပါ ရီဆိုလူးရှင်း မရနိုင်သေးပါ။</string>
     <string name="super_resolution_no_app_tips">WeChat နှင့် Toutiao အား ဦးစွာ ဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="super_resolution_reboot_tips">ဤအင်္ဂါရပ်သည် WeChat နှင့် Toutiao တွင် မှုန်ဝါးနေသော ပုံများကို ကြည်လင်စေသည်။ ဤအင်္ဂါရပ်အား ဖွင့်ပြီးလျှင် အက်ပ်များကို ပိတ်၍ပြန်ဖွင့်ပါ။</string>
     <string name="super_resolution_title">စူပါ ရီဆိုလူးရှင်း</string>
     <string name="supl_not_set">&lt;မသတ်မှတ်ထား></string>
     <string name="sure_sync_now">အိုင်တမ်များကို ယခုဆင့်ခ်လုပ်မည်လား?</string>
@@ -2117,6 +2156,7 @@
     <string name="toast_lockscreen_glogin_empty_password">စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="toast_need_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="total">မနှောင့်ယှက်ပါနှင့်</string>
+    <string name="total_info">နှိုးစက်မှတပါး အခြား အသံများ%1$sကို ပိတ်ပါ</string>
     <string name="total_info_sub">တုန်ခါမှုအား ပိတ်ပါ</string>
     <string name="total_size">%s စုစုပေါင်း</string>
     <string name="touch_assistant">အလွယ်စက်လုံး</string>
@@ -2338,8 +2378,11 @@
     <string name="wapi_no">မဟုတ်ပါ</string>
     <string name="wapi_no_vaild_cert">အသိအမှတ်ပြုလက်မှတ် မရှိပါ၊ ယခု ထည့်သွင်းမလား?</string>
     <string name="wapi_password_empty">ကျေးဇူးပြု၍ စကားဝှက် ရိုက်ထည့်ပါ</string>
+    <string name="wapi_password_hex_format_invalid">ဆယ့်ခြောက်လီစနစ် စကားဝှက်၏ ဖောမတ် မမှန်ပါ</string>
+    <string name="wapi_password_hex_length_invalid">ဆယ့်ခြောက်လီစနစ် စကားဝှက်၏ ဂဏန်းအရေအတွက်သည် စုံဂဏန်း ဖြစ်ရမည်</string>
     <string name="wapi_password_length_invalid">စကားဝှက်သည် အက္ခရာ ၈-၆၄လုံးကြား ရှိရမည်</string>
     <string name="wapi_psk_type">စကားဝှက်အမျိုးအစား</string>
+    <string name="wapi_psk_type_hex">ဆယ့်ခြောက်လီစနစ်</string>
     <string name="wapi_yes">ဟုတ်ပါတယ်</string>
     <string name="warm_color">နွေးထွေးသော</string>
     <string name="welcome">ကြိုဆိုပါသည်</string>

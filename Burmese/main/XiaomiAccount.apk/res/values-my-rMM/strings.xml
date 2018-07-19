@@ -77,7 +77,7 @@
     <string name="passport_btn_change_account">အကောင့် ပြောင်းပါ</string>
     <string name="passport_register_account_verified_confirm">အကောင့် အတည်ပြုခဲ့သည်</string>
     <string name="passport_register_account_goto_email">အဝင်ဘောက်စ်သို့သွားပါ</string>
-    <string name="passport_error_dup_email">သင်ရိုက်သွင်းလိုက်သော အီးမေးလ်မှာ အ ခြားအကောင့်တစ်ခုနှင့် ချိတ်ဆက်ပြီးဖြစ်ပါသည်။</string>
+    <string name="passport_error_dup_email">ဤအီးမေးလ်သည် အခြားအကောင့်တစ်ခုနှင့် တွဲသုံးထားပြီးဖြစ်သည်။</string>
     <string name="passport_get_back_pwd">အကောင့်စကားဝှက်ကို ပြန်လည်ရယူပါ</string>
     <string name="passport_login_instead_reg">ဒီနံပါတ်ကို သုံးပါ</string>
     <string name="passport_login_instead_reg_with_email">ဒီအီးမေးလ်ကို သုံးပါ</string>

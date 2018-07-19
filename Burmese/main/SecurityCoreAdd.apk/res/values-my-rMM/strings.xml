@@ -298,7 +298,7 @@
     <string name="xspace_default_setting_label">ပုံသေအက်ပ်</string>
     <string name="xspace_default_app_title">ပုံသေအက်ပ်</string>
     <string name="xspace_default_app_summary">ပေးချေမှု၊ မျှဝေမှု၊ အကြိုက်ဆုံးများနှင့် အခြားအရာများအတွက် မူလအက်ပ်တစ်ခု သတ်မှတ်မည်။</string>
-    <string name="xspace_default_setting_dialog_title">ပုံသေ</string>
+    <string name="xspace_default_setting_dialog_title"> မူရင်း</string>
     <string name="xspace_default_guide_notification_content">ပြောင်းလဲရန် ထိနှိပ်ပါ</string>
     <string name="xspace_default_guide_notification_main_title">မူလအက်ပ်ကို သုံးမည်</string>
     <string name="xspace_default_guide_notification_xspace_title">နှစ်ခုတွဲအက်ပ်ကို သုံးမည်</string>

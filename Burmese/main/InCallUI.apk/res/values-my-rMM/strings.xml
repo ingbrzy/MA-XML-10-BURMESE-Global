@@ -109,7 +109,7 @@
     <string name="description_image_button_message_enter">မက်ဆေ့ချ်ပြန်</string>
     <string name="description_image_button_message_exit">ဖွက်ထားသော　မက်ဆေ့ချ်များ</string>
     <string name="description_image_button_hangup">အဆုံးသတ်ပါ</string>
-    <string name="description_image_button_dialpad">ဖုန်းခေါ်ဆိုသည့်နေရာ</string>
+    <string name="description_image_button_dialpad">ဖုန်းဒိုင်ခွက်</string>
     <string name="description_image_button_tools">ရွေးစရာများ</string>
     <string name="description_target_answer">အဖြေ</string>
     <string name="ok">အိုကေ</string>

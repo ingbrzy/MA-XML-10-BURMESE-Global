@@ -74,7 +74,7 @@
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d items per second | Remaining time: %2$s</item>
+        <item quantity="other">%1$d အိုင်တမ်/စက္ကန့် | လက်ကျန်အချိန်- %2$s</item>
     </plurals>
     <plurals name="hour">
         <item quantity="other">%1$d နာရီ</item>
@@ -92,6 +92,6 @@
         <item quantity="other">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Delete %1$d files?</item>
+        <item quantity="other">အိုင်တမ် %1$d ခုအား ဖျက်မလား?</item>
     </plurals>
 </resources>

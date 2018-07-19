@@ -16,61 +16,61 @@
         <item quantity="other">အရေးမကြီးသောအသိပေးချက် %d ခု</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Incorrect PIN code, %d attempts remaining</item>
+        <item quantity="other">PIN ကုဒ် မမှန်ကန်ပါ၊ ကြိုးစားခွင့် %d ကြိမ် ကျန်သေးသည်</item>
     </plurals>
     <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Incorrect PUK code, %d attempts remaining</item>
+        <item quantity="other">PUK ကုဒ် မမှန်ကန်ပါ၊ ကြိုးစားခွင့် %d ကြိမ် ကျန်သေးသည်</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">About %d hours until full</item>
+        <item quantity="other">"အားပြည့်ရန် %d  နာရီ လိုသည်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">About %d minutes until full​</item>
+        <item quantity="other">"အားပြည့်ရန် %d  မိနစ်သာ လိုသည်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">About %1$d h %2$d m until full</item>
+        <item quantity="other">"အားပြည့်ရန် %1$d  နာရီ %2$d  မိနစ် လိုသည်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">About %d hours left</item>
+        <item quantity="other">"%d  နာရီခန့် သုံးနိုင်သည်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">About %d minutes left</item>
+        <item quantity="other">"%d  မိနစ်ခန့် သုံးနိုင်သည်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">About %1$d h %2$d m left</item>
+        <item quantity="other">"%1$d  နာရီ %2$d  မိနစ်ခန့် သုံးနိုင်သည်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d hours</item>
+        <item quantity="other">"%d  နာရီ"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d minutes</item>
+        <item quantity="other">"%d  မိနစ်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d h %2$d m</item>
+        <item quantity="other">"%1$d  နာရီ %2$d  မိနစ်"</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Enter SIM PIN, you have %d remaining attempts.</item>
+        <item quantity="other">ဆင်းမ် PIN ရိုက်ထည့်ရန် သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
+        <item quantity="other">ယခု ဆင်းမ်ကဒ်အား သုံး၍မရပါ။ ဆက်လက်လုပ်ဆောင်ရန် PUK ကုဒ် ရိုက်ထည့်ပါ။ သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။ အသေးစိတ်သိရှိရန် ဖုန်းလိုင်းကုမ္ပဏီသို့ ဆက်သွယ်ပါ။</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
+        <item quantity="other">ဆင်းမ် PIN ကုဒ် မမှန်ကန်ပါ၊ သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
+        <item quantity="other">ဆင်းမ် PUK ကုဒ် မမှန်ကန်ပါ၊ ဆင်းမ်ကဒ် အပြီးတိုင် သုံးမရမီ သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm password."</item>
+        <item quantity="other">စက်သည် %d နာရီအကြာ လော့ခ်ချထားသည်။ စကားဝှက်အား အတည်ပြုပါ။</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
+        <item quantity="other">စက်သည် %d နာရီအကြာ လော့ခ်ချထားသည်။ သော့ဖွင့်ပုံစံအား အတည်ပြုပါ။</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
+        <item quantity="other">စက်သည် %d နာရီအကြာ လော့ခ်ချထားသည်။ PIN အား အတည်ပြုပါ။</item>
     </plurals>
     <plurals name="new_notifications_msg">
-        <item quantity="other">%d new notifications</item>
+        <item quantity="other">အသိပေးချက် အသစ် %dခု</item>
     </plurals>
     <plurals name="notification_channels_list_desc_2_and_others">
         <item quantity="other">%1$s၊ %2$sနှင့် အခြား %3$dခု</item>
@@ -79,22 +79,22 @@
         <item quantity="other">အထဲတွင် နောက်ထပ်အသိပေးချက် %sခု ရှိသည်။</item>
     </plurals>
     <plurals name="notification_num_channels">
-        <item quantity="other">%d notification categories</item>
+        <item quantity="other">အသိပေးချက်အမျိုးအစား %dခု</item>
     </plurals>
     <plurals name="notification_num_channels_desc">
-        <item quantity="other">1 out of %d notification categories from this app</item>
+        <item quantity="other">ဤအက်ပ်မှ အသိပေးချက်အမျိုးအစား ၁ ခု (စုစုပေါင်း %d ခု)</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">Try again in %d minutes</item>
+        <item quantity="other">%d မိနစ်အကြာတွင် ပြန်ကြိုးစားကြည့်ပါ</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">Try again in %d seconds</item>
+        <item quantity="other">%d စက္ကန့်အကြာတွင် ပြန်ကြိုးစားကြည့်ပါ</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">ဤဘားအထက်မှ အထိန်းခလုတ် %1$d ခု အလုပ်လုပ်ပါသည်</item>
     </plurals>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d screens in Overview</item>
+        <item quantity="other">မျက်နှာပြင် %d ခု</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">နေသာသော</item>
