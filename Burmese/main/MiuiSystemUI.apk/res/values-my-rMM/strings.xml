@@ -35,7 +35,6 @@
     <string name="accessibility_camera_button">ကင်မရာ</string>
     <string name="accessibility_carrier_network_change_mode">ဖုန်းလိုင်းကုမ္ပဏီ ကွန်ရက်အား ပြောင်းနေသည်။</string>
     <string name="accessibility_cast_name">%s သို့ ချိတ်ဆက်ပြီးပါပြီ။</string>
-    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">မျက်နှာပြင်ကာစ်တင်အား ရပ်လိုက်သည်။</string>
     <string name="accessibility_cell_data">မိုဘိုင်းဒေတာ</string>
     <string name="accessibility_cell_data_off">မိုဘိုင်းဒေတာ ပိတ်ထားသည်</string>
@@ -777,10 +776,6 @@
     <string name="keyguard_charged">အားသွင်းပြီးပြီ</string>
     <string name="keyguard_charging_info_battery_used_time_text">သုံးစွဲချိန်</string>
     <string name="keyguard_charging_info_click_to_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
-    <string name="keyguard_charging_info_data_c">%s℃</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">အားကုန်သွားခဲ့သော</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
@@ -804,7 +799,6 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ် ပျောက်နေသည် သို့မဟုတ် ဖတ်၍မရပါ။ ဆင်းမ်ကဒ် တစ်ခု ထည့်သွင်းပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ယက် လော့ခ်ကျနေသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">PIN ကုဒ် ရိုက်ထည့်ပါ</string>
@@ -888,7 +882,6 @@
     <string name="left_keycode">ဘယ်ကီးကုဒ်</string>
     <string name="left_nav_bar_button_type">Extra left button type</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက်ကို ပြောင်းလဲရန် သို့မဟုတ် ဖယ်ရှားရန် ထိနှိပ်ပါ</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မ’သတ်မှတ်ရသေးပါ</string>
     <string name="local_backup_password_title">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်းစကားဝှက်</string>
@@ -951,7 +944,6 @@
     <string name="miui_guide_dialog_message">မီဒီယာအသံများ(သီချင်း၊ ဗီဒီယိုစသည်တို့)အား အသံတိတ်မုဒ်တွင် ဖွင့်နိုင်သည်။ ဆက်တင်သို့သွား၍ ပြောင်းနိုင်ပါသည်။</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ဘလူးတုသ်စက်ဖြင့် လော့ခ်ဖြည်လိုက်သည်</string>
     <string name="miui_ringer_count_down">အချိန်သတ်မှတ်မည်</string>
-    <string name="miui_ringer_count_down_time">အချိန်သတ်မှတ်မည်- %s</string>
     <string name="miui_ringer_standard">အသံတိတ်</string>
     <string name="miui_ringer_standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
     <string name="miui_ringer_total">မနှောင့်ယှက်ပါနှင့်</string>
@@ -978,14 +970,12 @@
 
 အသေးစိတ် သိလိုပါက စီမံအုပ်ချုပ်သူထံ ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်ရသော အထောက်အထားများကို ဖွင့်ပါ</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာအား ဤစက်ပေါ်တွင် တပ်ဆင်ထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_do_body">အုပ်ချုပ်သူသည် ဆက်တင်၊ သက်ဆိုင်သော ဝင်ရောက်မှု၊ အက်ပ်များ၊ သင်၏စက်နှင့်အတူတွဲထားသော ဒေတာ၊ သင့်စက်၏တည်နေရာအချက်လက် စသည်တို့ကို စောင့်ကြည့်ပြီး စီမံခန့်ခွဲနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">သင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_do_header_generic">သင်၏စက်အား %1$sမှ စီမံခန့်ခွဲသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$sသည် %2$sဖြင့် သင်၏စက်ကို စီမံသည်။</string>
     <string name="monitoring_description_do_learn_more">နောက်ထပ် လေ့လာရန်</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏အဖွဲ့အစည်းမှ သင့်အလုပ် ပရိုဖိုင်တွင် အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာကို ထည့်သွင်းထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ် ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ကို သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်။
@@ -1017,7 +1007,6 @@
 
 သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော VPN တစ်ခုနှင့်လည်း ချိတ်ဆက်ထားသည်။"</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်ကို ဖွင့်ပါ</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက် မှတ်တမ်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1032,7 +1021,6 @@
     <string name="nav_guide_message">ဆော့ဖ်ခလုတ်များအား ဝှက်/ဖော်ရန် လက်ဟန်များအား အသုံးပြုပါ။</string>
     <string name="nav_guide_ok">သတ်မှတ်</string>
     <string name="nav_guide_title">ဆော့ဖ်ခလုတ်များ ကွယ်ဝှက်ပါ</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိပါ</string>
     <string name="no_multi_window_app">မျက်နှာပြင်ခွဲခြင်းလုပ်နိုင်သည့် အက်ပ်မရှိသေးပါ။</string>
     <string name="no_notification_tips">အသိပေးချက်များ မရှိပါ</string>
@@ -1169,7 +1157,6 @@
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့် ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သေးသည်</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ပရိုဖိုင်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="prompt_danger">အန္တရာယ်</string>
     <string name="prompt_detecting">ရှာဖွေနေသည်</string>
@@ -1695,7 +1682,6 @@ d MMMM"</string>
     <string name="wait_for_debugger">ဒီဘာဂ်စက်ကို စောင့်ပါ</string>
     <string name="wait_for_debugger_summary">ဒီဘာဂ်အက်ပ်သည် အလုပ်မလုပ်မီ ဒီဘာဂ်စက်နှင့် တွဲချိတ်ရန် စောင့်နေမည်</string>
     <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_aggressive_handover">Wi‑Fi မှ မိုဘိုင်းသို့ အဆင်မပြေသော ပြောင်းလဲမှု</string>
     <string name="wifi_aggressive_handover_summary">ဖွင့်ထားပါက Wi‑Fi လိုင်းအားနည်းသောအခါ ချိတ်ဆက်မှုသည် မိုဘိုင်းဒေတာသို့ ပြောင်းလိမ့်မည်။</string>
@@ -1720,11 +1706,9 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

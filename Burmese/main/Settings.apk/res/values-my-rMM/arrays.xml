@@ -466,31 +466,6 @@
         <item>ပါရာမာရီဘို</item>
         <item>ကွီတို</item>
     </string-array>
-    <array name="click_bottom">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom08</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-    </array>
     <string-array name="color_mode_descriptions">
         <item>တိုးမြှင့်ထားသော အရောင်</item>
         <item>မျက်စိဖြင့် မြင်ရသော သဘာဝအရောင်</item>
@@ -570,15 +545,6 @@
         <item>DRM အကြောင်းအရာကိုသာ စစ်ဆေးပါ</item>
         <item>အမြဲတမ်းစစ်ဆေးပါ</item>
     </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
-    </string-array>
     <string-array name="led_color_entries">
         <item>အပြာ</item>
         <item>အနီ</item>
@@ -606,43 +572,6 @@
         <item>၅ မိနစ်နောက်</item>
         <item>ဘယ်တော့မှ</item>
     </string-array>
-    <array name="long_press">
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom02</item>
-        <item>@drawable/longpressbottom03</item>
-        <item>@drawable/longpressbottom04</item>
-        <item>@drawable/longpressbottom05</item>
-        <item>@drawable/longpressbottom06</item>
-        <item>@drawable/longpressbottom07</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom09</item>
-        <item>@drawable/longpressbottom10</item>
-        <item>@drawable/longpressbottom11</item>
-        <item>@drawable/longpressbottom04</item>
-        <item>@drawable/longpressbottom03</item>
-        <item>@drawable/longpressbottom02</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-    </array>
     <string-array name="long_press_volume_down_action">
         <item>မရှိ</item>
         <item>အမြန်ရိုက်ချက်မုဒ် (ဓာတ်ပုံ)</item>
@@ -705,14 +634,6 @@
         <item>ချိတ်ဆက်ထားသော စက်- mtpfs /media/mtp သို့ ဖိုင်မန်နေဂျာဖြင့် ဝင်ရောက်မည်၊ အတွင်းပိုင်းလမ်းညွှန်နှင့် အတူတူပင်ဖြစ်သည်။</item>
         <item>"စက်ကို ဖြုတ်မည်- fusermount -u /media/mtp
 သတိ- Ubuntu 8.04 အတွက်သာ!"</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>@string/msd_install_retry_reinstall_mac</item>
-        <item>@string/msd_install_retry_connect</item>
-        <item>@string/msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -798,62 +719,6 @@
         <item>မိုက်-ဆားကစ်တစ်ခုတည်း ဆူညံသံထိန်းချုပ်ခြင်း</item>
         <item>မိုက်-ဆားကစ်နှစ်ခု ဆူညံသံထိန်းချုပ်ခြင်း</item>
     </string-array>
-    <array name="power_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>စွမ်းဆောင်ရည်</item>
         <item>ဟန်ချက်ညီညီ</item>
@@ -912,11 +777,6 @@
         <item>ဖြူမဲတိုးလျှော့ကို မြှင့်တင်ထားသည်</item>
         <item>ပုံမှန်</item>
     </string-array>
-    <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
-    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080P</item>
@@ -974,10 +834,6 @@
         <item>စတုဂံမဟုတ်သောပိုင်းဖြတ်ဒေသကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
         <item>စမ်းသပ်ပုံဆွဲရန် အမိန့်ကို အစိမ်းရောင်ဖြင့် ဟိုက်လိုက်လုပ်ပါ</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>အမြဲတမ်း</item>
         <item>၃၀ မိနစ်</item>
@@ -1000,31 +856,6 @@
         <item>ခွင့်ပြုသည်</item>
         <item>ငြင်းပယ်သည်</item>
     </string-array>
-    <array name="three_drop">
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop02</item>
-        <item>@drawable/threedrop03</item>
-        <item>@drawable/threedrop04</item>
-        <item>@drawable/threedrop05</item>
-        <item>@drawable/threedrop06</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-    </array>
     <string-array name="track_frame_time_entries">
         <item>ပိတ်မည်</item>
         <item>မျက်နှာပြင်ပေါ်တွင် ဘားဂရပ်အဖြစ်</item>
