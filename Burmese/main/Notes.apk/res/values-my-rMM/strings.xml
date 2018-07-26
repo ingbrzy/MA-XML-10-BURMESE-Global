@@ -4,8 +4,8 @@
     <string name="action_mode_switcher_grid_description">ဇယားကွက် မြင်ကွင်း</string>
     <string name="action_mode_switcher_list_description">စီတန်းမြင်ကွင်း</string>
     <string name="action_settings_description">ဆက်တင်များကို ဖွင့်ပါ</string>
-    <string name="actionbar_close_description">Close</string>
-    <string name="actionbar_home_description">Back</string>
+    <string name="actionbar_close_description">ပိတ်ပါ</string>
+    <string name="actionbar_home_description">နောက်သို့</string>
     <string name="add_account_desc">သင်၏ Mi Account ဖြင့် မှတ်ချက်များကို ဆင့်ခ်လုပ်မလား။</string>
     <string name="alarm_bar_title">နှိုးဆော်စာ</string>
     <string name="alert_action_edit_anyway">ဆက်လက်တည်းဖြတ်ပါ</string>
@@ -31,6 +31,10 @@
     <string name="cloud_service_state_open_reminder">မှတ်စုများကို ဆင့်ခ်လုပ်ရန် Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ။</string>
     <string name="cloud_trash_bin_title">Mi ကလောက်မှ မှတ်စုများအား ဖျက်ပါ</string>
     <string name="cta_reminder">ဤအက်ပ်သည် မှတ်စုများကို Mi Cloud တွင် အရန်သိမ်းဆည်းရန်အတွက် အင်တာနက်ချိတ်ဆက်ရမည်၊ ထို့အပြင် ဖုန်းပြောနေစဉ် မှတ်ထားသော မှတ်စုများအား အညွှန်းသတ်မှတ်ရန်အတွက်မူ သင်၏အဆက်အသွယ်များကို ဖတ်ခွင့်ရရှိရန် လိုအပ်ပါသည်။</string>
+    <string name="date_time_picker_alarm_reminder">နှိုးစက်</string>
+    <string name="date_time_picker_dialog_title">အချိန်နှင့် ရက်စွဲ သတ်မှတ်ပါ</string>
+    <string name="date_time_picker_has_not_set_alarm">နှိုးစက် မသတ်မှတ်ရသေးပါ</string>
+    <string name="date_time_picker_has_set_alarm">နှိုးစက် သတ်မှတ်ပြီးပါပြီ</string>
     <string name="db_downgrade_clear_button">အက်ပ်ဒေတာ ရှင်းပစ်မည်</string>
     <string name="db_downgrade_clear_date_reminder">MIUI ဗားရှင်းအသစ် မသုံးခင် မှတ်စုဒေတာများ ရှင်းလင်းရန် လိုအပ်သည်။ ဒေတာများ မရှင်းလင်းမီ သင်၏မှတ်စုများကို Mi Cloudသို့ အရန်သိမ်းထားခြင်းရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="default_folder_name">အမည်ပေးမထားသော ဖိုလ်ဒါ</string>
@@ -96,7 +100,7 @@
     <string name="menu_delete_forever">အပြီးတိုင် ဖျက်ပစ်ပါ</string>
     <string name="menu_folders">ဖိုလ်ဒါများ</string>
     <string name="menu_hide">ဝှက်ထားပါ</string>
-    <string name="menu_more_description">More</string>
+    <string name="menu_more_description">နောက်ထပ်</string>
     <string name="menu_move_parent_folder">ပင်မဖိုလ်ဒါ</string>
     <string name="menu_move_to">ရွှေ့ရန်</string>
     <string name="menu_new_folder">ဖိုလ်ဒါအသစ်</string>
@@ -110,6 +114,7 @@
     <string name="menu_title_select_folder">ဖိုလ်ဒါ ရွေးပါ</string>
     <string name="menu_unhide">ဖော်ပါ</string>
     <string name="menu_unstick">ဆွဲဖြုတ်ပါ</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">အခု မဟုတ်ပါ</string>
     <string name="note_description_content">မှတ်စုအက်ပ်သည် သင့်စိတ်ကူးများကို မှတ်တမ်းတင်ထားရန်အတွက် အကောင်းဆုံးဖြစ်သည်။ ၎င်းတွင် မူလကတည်းက ထည့်သွင်းထားသော သတိပေးချက်ဝန်ဆောင်မှု ပါရှိပြီး သင်မှတ်ထားသော အရာများကို Mi Cloud ထဲတွင် ဆင့်ခ်လုပ်သည့်အတွက် ယင်းတို့ကို အချိန်မရွေး နေရာမရွေး ဝင်ရောက် အသုံးပြုနိုင်ပါသည်။ အက်ပ်ကို မဖျက်မီ သင်သည် ၎င်းဝန်ဆောင်မှုများ မရှိသည်ကို လက်ခံနိုင်ကြောင်း သေချာပါစေ။</string>
     <string name="note_description_title">မှတ်စုအကြောင်း</string>
@@ -202,7 +207,7 @@
     <string name="toast_reach_text_limit_checkbox">မှတ်ချက်သည် ရှည်လွန်းသောကြောင့် ၎င်းကို checkbox အဖြစ် ပေါင်းထည့်၍မရပါ</string>
     <string name="toast_reach_text_limit_truncate">ဤမှတ်စုမှာ ရှည်လွန်းနေသည်။ အဆုံးတွင် စာသားတစ်ချို့အား ဖြတ်ပစ်လိုက်သည်။</string>
     <string name="toast_refuse_to_record_when_in_call">ဖုန်းပြောနေစဥ် ဤအင်္ဂါရပ်အား အသုံးချ၍ မရပါ</string>
-    <string name="toast_refuse_to_record_when_in_multi_window">"Can't use this feature with Split screen"</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">မျက်နှာပြင်ခွဲတွင် ဤအင်္ဂါရပ်အား မသုံးနိုင်ပါ</string>
     <string name="toolbar_check_description">ချက်ဘောက်စ်ပေါင်းထည့်</string>
     <string name="toolbar_delete_description">ဤမှတ်စုကို ဖျက်ပါ</string>
     <string name="toolbar_gallery_description">ရုပ်ပုံပေါင်းထည့်</string>
@@ -216,10 +221,9 @@
     <string name="trash_folder_reminder">သင်ဖျက်လိုက်သော မှတ်စုများအား ရက် ၃၀ နောက် အပြီးအပိုင်ဖျက်ပစ်လိုက်လိမ့်မည်။</string>
     <string name="undo">ပြန်မလုပ်</string>
     <string name="unknown_source">အမည်မသိရင်းမြစ်</string>
+    <string name="widget_content_loading">ခဏစောင့်ပါ…</string>
+    <string name="widget_havenot_content">မှတ်စုတစ်ခုဖန်တီးရန် ထိနှိပ်ပါ။ အရွယ်အစားပြောင်းရန် ဝစ်ဂျက်အား ထိနှိပ်ထားပါ။</string>
     <string name="welcome_note_for_cm">"ထပ်ပြီး ပိုမိုကောင်းမွန်သော လုပ်ဆောင်ချက်များ!
  − Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ
  − သတိပေးသူများ သတ်မှတ်ပါ"</string>
-    <string name="widget_content_loading">ခဏစောင့်ပါ…</string>
-    <string name="widget_havenot_content">မှတ်စုတစ်ခုဖန်တီးရန် ထိနှိပ်ပါ။ အရွယ်အစားပြောင်းရန် ဝစ်ဂျက်အား ထိနှိပ်ထားပါ။</string>
-    <string name="note_alert_expired">သက်တမ်းကုန်နေသည်</string>
 </resources>

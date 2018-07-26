@@ -17,6 +17,38 @@
         <item>လုပ်ငန်းစဉ် အများဆုံး ၃ ခု</item>
         <item>လုပ်ငန်းစဉ် အများဆုံး ၄ ခု</item>
     </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>၀%</item>
+        <item>၅၀%</item>
+        <item>၁၀၀%</item>
+    </string-array>
     <string-array name="battery_options">
         <item>ရာခိုင်နှုန်းအား အမြဲပြပါ</item>
         <item>အားသွင်းနေစဥ် ရာခိုင်နှုန်းအား ပြပါ (မူလ)</item>
@@ -90,6 +122,28 @@
         <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
         <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (မူလ)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="carrier_name">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>SmarToneVodafone</item>
+    </string-array>
+    <string-array name="carrier_simple_name">
+        <item>CM</item>
+        <item>CU</item>
+        <item>CT</item>
+        <item>SMC HK</item>
+    </string-array>
     <string-array name="clock_options">
         <item>နာရီ၊ မိနစ်နှင့် စက္ကန့်ပြပါ</item>
         <item>နာရီနှင့် မိနစ်ပြပါ (မူလသတ်မှတ်ချက်)</item>
@@ -145,9 +199,9 @@
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>ပုံမှန်</item>
-        <item>Compact</item>
-        <item>Left-leaning</item>
-        <item>Right-leaning</item>
+        <item>သိပ်သည်းသော</item>
+        <item>ဘယ်သို့</item>
+        <item>ညာသို့</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>မရှိပါ</item>
@@ -163,6 +217,7 @@
         <item>4K (အရည်အသွေးကောင်းမွန်သော၊ လုံခြုံသော)</item>
         <item>720p, 1080p (နှစ်ခုပြိုင် မျက်နှာပြင်)</item>
     </string-array>
+    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>ပိတ်မည်</item>
         <item>64K</item>
@@ -226,6 +281,17 @@
         <item>မြန်ဆန်သော</item>
         <item>အလွန်မြန်ဆန်သော</item>
         <item>အမြန်ဆုံး</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>အားသွင်းနေသည်</item>

@@ -2,6 +2,7 @@
 <resources>
     <string name="about_ad_service_instructions">ကြော်ငြာဝန်ဆောင်မှုနှင့် ကိုယ်ပိုင်ရေးရာအကြောင်း</string>
     <string name="about_phone_enter_xiaomi_net">ပိုမိုလေ့လာမည်</string>
+    <string name="about_settings">ဖုန်းအကြောင်း</string>
     <string name="ac_enable_summary">အက်ပ်တစ်ခုချင်းစီအတွက် စကားဝှက်တစ်ခုစီ သတ်မှတ်ပါ</string>
     <string name="ac_enable_title">အက်ပ်လော့ခ်</string>
     <string name="ac_privacy_mode_sum">ဧည့် သုံးနည်းပုံစံကို ပိတ်ရန် စကားဝှက်တစ်ခု လိုအပ်သည်</string>
@@ -96,6 +97,7 @@
     <string name="aod_mode_turn_off">ပိတ်မည်</string>
     <string name="aod_mode_turn_on">ဖွင့်မည်</string>
     <string name="apn_general">အထွေထွေ</string>
+    <string name="apn_mms">MMS</string>
     <string name="apn_new">ဝင်ရောက်ခြင်းပွိုင့်အသစ်</string>
     <string name="apn_ppp_number">APN PPP ဖုန်းနံပါတ်</string>
     <string name="apn_save">ပြောင်းလဲခြင်းများကိုသိမ်းမည်လော?</string>
@@ -114,6 +116,7 @@
     <string name="app_process_limit_title">နောက်ခံလုပ်ငန်းစဉ်ကို ကန့်သတ်မည်</string>
     <string name="app_switch_key">လတ်တလောအရာများ</string>
     <string name="app_version">ဗားရှင်း</string>
+    <string name="app_wifi">Wi-Fi</string>
     <string name="application_forbid_auto_startup">%s ကို နောက်ခံတွင်စတင်ခြင်းကို ရပ်ပါ</string>
     <string name="application_item_already_permission">ခွင့်ပြုပြီး</string>
     <string name="application_item_disable">ငြင်းပယ်ပါ</string>
@@ -169,9 +172,12 @@
     <string name="battery_info_health_unspecified_failure">အမည်မသိ အမှား</string>
     <string name="battery_info_label">ဘက်ထရီအချက်အလက်</string>
     <string name="battery_info_level_label">ဘက်ထရီလေဘယ်−</string>
+    <string name="battery_info_power_ac">AC</string>
+    <string name="battery_info_power_ac_usb">AC+USB</string>
     <string name="battery_info_power_label">ပါဝါ ပလက်ဂ်−</string>
     <string name="battery_info_power_unknown">အမည်မသိ</string>
     <string name="battery_info_power_unplugged">ပလက်ဖြုတ်လိုက်သည်</string>
+    <string name="battery_info_power_usb">USB</string>
     <string name="battery_info_power_wireless">ကြိုးမဲ့</string>
     <string name="battery_info_scale_label">ဘက်ထရီစကေး−</string>
     <string name="battery_info_screen_on">မျက်နှာပြင် ပွင့်နေသည့်အချိန်−</string>
@@ -181,17 +187,22 @@
     <string name="battery_info_status_charging_usb">USB ဖြင့်အားသွင်းနေ</string>
     <string name="battery_info_status_charging_wireless">ကြိုးမဲ့အားသွင်းနေ</string>
     <string name="battery_info_status_discharging">အားသွင်းမှုမရှိ</string>
+    <string name="battery_info_status_full">အပြည့်</string>
     <string name="battery_info_status_label">ဘက်ထရီအခြေနေ−</string>
     <string name="battery_info_status_not_charging">အားသွင်းမှုမရှိ</string>
     <string name="battery_info_status_unknown">အမည်မသိ</string>
     <string name="battery_info_technology_label">ဘက်ထရီနည်းပညာ−</string>
     <string name="battery_info_temperature_label">ဘက်ထရီအပူချိန်−</string>
+    <string name="battery_info_temperature_units">° C</string>
     <string name="battery_info_uptime">စတင်ချိန်မှစ၍ အချိန်−</string>
     <string name="battery_info_voltage_label">ဘက်ထရီဗို့အား−</string>
+    <string name="battery_info_voltage_units">mV</string>
     <string name="battery_light_summary">စက်အားသွင်းနေစဉ် အသိပေးချက် အလင်းအားဖွင့်ပါ</string>
     <string name="battery_light_title">အားသွင်းနေစဉ် အလင်းလင်းပါ</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_settings">ဘက်ထရီ</string>
     <string name="battery_settings_title">ဘက်ထရီ</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_sugg_wifi">ယင်းကိုမသုံးပါက သို့မဟုတ်မရနိုင်ပါက Wi-Fiကို ပိတ်ပါ</string>
     <string name="bind_xiaomi_account_confirm">ပေါင်းထည့်မည်</string>
     <string name="bind_xiaomi_account_dialog_summery">သင်သည် Mi အကောင့် %s အား ပေါင်းထည့်တော့မည်။ စကားဝှက်မေ့သွားပါက ပြန်သတ်မှန်ရန် ဤအကောင့်ကို အသုံးပြုနိုင်ပါသည်။</string>
@@ -288,6 +299,7 @@
     <string name="bluetooth_select_a2dp_codec_type">ဘလူးတုသ် အသံကုဒ်ပြောင်းစက်</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">ဘလူးတုသ် အသံကုဒ်ပြောင်းစက်အား ရွေးပါ</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">ဘလူးတုသ် AVRCP ဗားရှင်း ရွေးပါ</string>
+    <string name="bluetooth_select_avrcp_version_string">ဘလူးတုသ် AVRCP ဗားရှင်း</string>
     <string name="bluetooth_unlock_add_device">ကိရိယာထည့်မည်</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">ကိရိယာဟောင်းသည် လက်ရှိကိရိယာဖြင့်အစားထိုးခံရပါလိမ့်မည်။</string>
     <string name="bluetooth_unlock_change_matched_device">အခြားကိရိယာရွေးပါ</string>
@@ -347,6 +359,7 @@
     <string name="bootloader_status_unlocked">လော့ခ်မချထားပါ</string>
     <string name="bootloader_status_unlocked_info">ဤစက်ကို သော့ဖြည်ထားသည်</string>
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးခြင်းအသစ်ရချိန်တွင် အလင်းရောင်</string>
     <string name="breathing_light_freq_summary">အသိပေးခြင်းအသစ်ရှိချိန်တွင် ပိုသိသာစေသည်</string>
@@ -362,6 +375,7 @@
     <string name="bt_ldac_open_dialog_summary">LDAC သည် အရည်အသွေးမြင့်အော်ဒီယိုကို ပေးနိုင်မှာဖြစ်ပြီး ပါဝါသုံးစွဲမှုလည်း မြန်စေနိုင်သည်။ ဘလူးတုသ် ဟာ့ဒ်ဝဲအကန့်အသတ်ကြောင့် ဖွင့်ရာတွင် ထစ်နိုင်သည်။</string>
     <string name="bt_ldac_open_dialog_title">LDAC အား ဖွင့်မလား?</string>
     <string name="bt_ldac_pre_summary">အရည်အသွေးမြင့်အော်ဒီယိုကို ပံ့ပိုးနိုင်သည်</string>
+    <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">အရည်အသွေး</string>
     <string name="bt_ldac_remember_choice">ကျွန်ုပ်၏ ရွေးချယ်မှုကို မှတ်ထားပါ</string>
     <string name="bt_ldac_settings">ဆက်တင်</string>
@@ -385,6 +399,7 @@
     <string name="button_text_ok_timer">အိုကေ (%d)</string>
     <string name="button_text_reboot_now">ပိတ်၍ပြန်စ</string>
     <string name="button_text_reject">ပယ်ချ</string>
+    <string name="byteShort">B</string>
     <string name="calendar_sound_dialog_title">ပြက္ခဒိန်အသံရွေးပါ</string>
     <string name="calendar_sound_title">ပြက္ခဒိန်အသံ</string>
     <string name="call_settings_primary_user_only">ပထမနေရာရှိ ခေါ်ဆိုမှု ဆက်တင်များအား ပြောင်းလဲပါ</string>
@@ -403,9 +418,9 @@
     <string name="cancel_action">ပယ်ဖျက်ပါ</string>
     <string name="cancel_alert">သင့်ပြောင်းလဲခြင်းများကို လွှင့်ပစ်မည်လော?</string>
     <string name="cancel_button">ပယ်ဖျက်မည်</string>
-    <string name="cancel_description">ပယ်ဖျက်မည်</string>
     <string name="cancel_download_buton_text">ပယ်ဖျက်ပါ</string>
     <string name="category_personal">ကိုယ်ရေးကိုယ်တာ</string>
+    <string name="category_work">အလုပ်</string>
     <string name="change_password">မျက်နှာပြင်သော့ခတ်အားပြောင်းလဲပါ</string>
     <string name="change_security_lock">သော့ဖွင့်ရန်အခြားနည်းများကိုကြိုးစားမည်</string>
     <string name="charge_length_format">%1$s အကြာက</string>
@@ -432,12 +447,12 @@
     <string name="cloud_restore_section_title">Mi Cloud မှပြန်လည်ဖော်ထုတ်မည်။</string>
     <string name="cmcc_hardware_version">ဟာ့ဒ်ဝဲလ်ဗားရှင်း</string>
     <string name="color_calibration_none">မွေးမြေ</string>
+    <string name="color_calibration_srgb">sRGB</string>
     <string name="common_settings">အမြန်အပြင်အဆင်များ</string>
     <string name="complete_parameters">အချက်အလက်အားလုံး</string>
     <string name="complete_settings">အထွေထွေ ဆက်တင်များ</string>
     <string name="confirm_action">အိုကေ</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">ပေါင်းထည့်မည်</string>
-    <string name="confirm_description">အတည်ပြုမည်</string>
     <string name="confirm_download_cancelation_dialog_message">ဒေါင်းလုဒ်လုပ်ခြင်းကို ပယ်ဖျက်မည်လော?</string>
     <string name="confirm_enable_oem_unlock_text">သတိပေးချက်- ဤဆက်တင်ကို ဖွင့်ထားပါက စက်ကာကွယ်ရေးအင်္ဂါရပ်များ ဤစက်တွင် အလုပ်မလုပ်တော့ပါ။</string>
     <string name="confirm_enable_oem_unlock_title">OEM ကိုသော့ဖွင့်ရန် ခွင့်ပြုမလား?</string>
@@ -453,8 +468,10 @@
     <string name="connect_to_internet">ကွန်ရက်သို့ဆက်သွယ်</string>
     <string name="connected_via_network_scorer">%1$s မှတစ်ဆင့် အလိုအလျောက် ချိတ်ဆက်ခဲ့သည်</string>
     <string name="connected_via_network_scorer_default">ကွန်ရက်အဆင့်ပေးခြင်း ထောက်ပံ့သူမှတစ်ဆင့် အလိုအလျောက် ချိတ်ဆက်ခဲ့သည်</string>
+    <string name="connected_via_passpoint">%1$s မှတစ်ဆင့် ချိတ်ဆက်ထားသည်</string>
     <string name="connected_wifi">ချိတ်ဆက်ပြီး</string>
     <string name="connecting_to_vpn">VPN သို့ချိတ်ဆက်နေ</string>
+    <string name="content_description_menu_button">မီနူး</string>
     <string name="convenience_key_category_title">စနစ်ထိန်းချုပ်မှု</string>
     <string name="convert_to_fbe_warning">"ဒေတာပိုင်ခြားခြင်းမှ လျှို့ဝှက်ကုဒ်ခံဖိုင်သို့ ပြောင်းမည်။
  သတိပေးချက်-ဤလုပ်ဆောင်ချက်သည် သင်၏ဒေတာအားလုံးကို ဖျက်ပစ်လိမ့်မည်။
@@ -483,6 +500,8 @@
     <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (အနီ-အစိမ်း မသဲကွဲသူ)</string>
     <string name="daltonizer_mode_disabled">ပိတ်ထားသည်</string>
     <string name="daltonizer_mode_monochromacy">Monochromacy</string>
+    <string name="daltonizer_mode_protanomaly">Protanomaly (အနီ-အစိမ်း)</string>
+    <string name="daltonizer_mode_tritanomaly">Tritanomaly (အပြာ-အဝါ)</string>
     <string name="daltonizer_type_overridden">%1$s မှ ဖုံးအုပ်ပြီး</string>
     <string name="data_usage_disable_wifi_limit">Wi-Fiဒေတာကန့်သတ်ချကိကို သတ်မှတ်မည်</string>
     <string name="data_usage_menu_show_wifi">Wi-Fiအသုံးပြုခြင်းကိုပြသပါ</string>
@@ -491,6 +510,7 @@
     <string name="data_usage_metered_wifi_disabled">ဟော့စ်ပေါ့ကိုရွေးရန် Wi-Fiကိုဖွင့်ပါ။</string>
     <string name="data_usage_restrict_background">နောက်ခံမိုဘိုင်းလ်ဒေတာကို တားမြစ်ထားပါက အချို့အက်ပ်စ်နှင့် ဝန်ဆောင်မှုများသည် Wi-Fiကွန်ရက်သို့ ဆက်သွယ်မထားလျှင် အလုပ်လုပ်မည်မဟုတ်ပါ</string>
     <string name="data_usage_restrict_background_multiuser">အကယ်၍ သင်သည် နောက်ခံမိုဘိုင်းဒေတာကို ကန့်သတ်ထားပါက အချို့အက်ပ်နှင့် ဝန်ဆောင်မှုများသည် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်မထားလျှင် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။</string>
+    <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_uninstalled_apps">ဖျက်လိုက်သော အက်ပ်များ</string>
     <string name="data_usage_uninstalled_apps_users">ဖျက်လိုက်သော အက်ပ်နှင့် သုံးစွဲသူများ</string>
     <string name="date_time_settings">ရက်စွဲ &amp;နှင့် အချိန်</string>
@@ -498,6 +518,7 @@
     <string name="debug_app">ဒီဘာဂ်အက်ပ်ကို ရွေးပါ</string>
     <string name="debug_app_not_set">ဒီဘာဂ်အက်ပ် မသတ်မှတ်ရသေးပါ</string>
     <string name="debug_app_set">ဒီဘာဂင် အက်ပလီကေးရှင်း- %1$s</string>
+    <string name="debug_applications_category">အက်ပ်များ</string>
     <string name="debug_debugging_category">ဒီဘာဂင်</string>
     <string name="debug_drawing_category">ပုံဆွဲ</string>
     <string name="debug_hw_drawing_category">ဟာ့ဒ်ဝဲလ် အရှိန်မြင့်စွာပြန်ဆိုနေသည်</string>
@@ -534,17 +555,21 @@
     <string name="development_settings_not_available">ဤသုံးစွဲသူသည် ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများကို အသုံးပြု၍မရပါ</string>
     <string name="development_settings_summary">အက်ပ်ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများ သတ်မှတ်ပါ</string>
     <string name="development_settings_title">ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများ</string>
+    <string name="device_actionbar_title">Mi 5</string>
     <string name="device_available_memory">လွတ်နေသော သိုလှောင်ခန်း</string>
     <string name="device_battery">ဘက်ထရီ</string>
     <string name="device_build_id">ဗားရှင်းနံပါတ်</string>
     <string name="device_complete_parameters">အချက်အလက်အားလုံး</string>
+    <string name="device_cpu">CPU</string>
     <string name="device_cpu10_info">Hexa-core</string>
     <string name="device_cpu2_info">Dual-core စနစ်</string>
     <string name="device_cpu4_info">Quad-core စနစ်</string>
+    <string name="device_cpu6_info">Hexa-core</string>
     <string name="device_cpu8_info">Octa-core စနစ်</string>
     <string name="device_display_layout_title">Mi 5 သွင်ပြင်များ</string>
     <string name="device_edit_title">ဖုန်း ကို အမည်ပြန်ပေးမည်</string>
     <string name="device_internal_memory">အတွင်းသိုလှောင်ခန်း</string>
+    <string name="device_memory">RAM</string>
     <string name="device_miui_more">နောက်ထပ် ကြည့်ပါ</string>
     <string name="device_miui_version">MIUI ဗားရှင်း</string>
     <string name="device_miui_version_for_POCO">MIUI ဗားရှင်း (POCO အတွက်)</string>
@@ -600,6 +625,7 @@
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -616,10 +642,13 @@
     <string name="dndm_special_call_setting_group">ခြွင်းချက်များ</string>
     <string name="dndm_summary">မနှောက်ယှက်ရအား ဖွင့်ထားစဉ် ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအား ပိတ်ထားလိုက်လိမ့်မည်</string>
     <string name="dndm_summary_for_pad">မနှောက်ယှက်ရ ကို ဖွင့်ထားပါက အသိပေးချက်များ၏အသံအား ပိတ်ထားမည်။</string>
+    <string name="dndm_twelve_hour_time_format">h:mm a</string>
+    <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
     <string name="dndm_vip_call_button_title">ခြွင်းချက်များမှ ခေါ်ဖုန်းများကို ခွင့်ပြုပါ</string>
     <string name="dndm_vip_call_setting_detal">ချွတ်ယွင်းချက်ထားထားသော နံပါတ်များမှခေါ်ဆိုမှုအားလုံအား လက္ခံပါ</string>
     <string name="dndm_vip_call_setting_title">ခြွင်းချက်များ</string>
     <string name="dndm_vip_call_summary_contact">အားလုံး</string>
+    <string name="dndm_vip_call_summary_custom">%d</string>
     <string name="dndm_vip_call_summary_none">သီးသန့်စီစဥ်ရန် တို့ထိပါ</string>
     <string name="dndm_vip_list_all">အားလုံး</string>
     <string name="dndm_vip_list_contact">အဆက်အသွယ်အားလုံး</string>
@@ -703,6 +732,7 @@
     <string name="erase_sd_data_description">ဖောမတ်ချခြင်းသည် SD ကဒ်ပေါ်ရှိ ဒေတာအားလုံး ပျက်သွားလိမ့်မည်</string>
     <string name="erase_sure">မဖြစ်မနေ</string>
     <string name="every_day">နေ့တိုင်း</string>
+    <string name="external_source_trusted">ခွင့်ပြုထားသည်</string>
     <string name="external_source_untrusted">ခွင့်မပြုပါ</string>
     <string name="face_unlock_disable">မျက်နှာဖြင့်သော့ဖွင့်မှုအား ပိတ်ထားသည်</string>
     <string name="face_unlock_enable">မျက်နှာဖြင့်သော့ဖွင့်မှုအား ဖွင့်ထားသည်</string>
@@ -757,6 +787,7 @@
     <string name="firewall_set_bg_firewall_default_dialog_summary">နောက်ခံချိတ်ဆက်မှုကို ကန့်သတ်ထားပါက အက်ပ်အသစ်များသည် နောက်ခံတွင် အင်တာနက်သို့ ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။ ထို့ကြောင့် ယင်းအက်ပ်များသည် မက်ဆေ့ချ်လက်ခံခြင်း သို့မဟုတ် အကြောင်းအရာဒေါင်းလုဒ်လုပ်ခြင်းတို့ကို လုပ်ဆောင်၍ မရတော့ပါ။ ကန့်သတ်မလား?</string>
     <string name="firewall_set_bg_firewall_default_dialog_title">အက်ပ်အသစ်များ၏ နောက်ခံချိတ်ဆက်မှုကို ကန့်သတ်မည်</string>
     <string name="firewall_temp_rule_reason">%2$s မှ %1$s ၏ အင်တာနက်ချိတ်ဆက်မှုကို ကန့်သတ်ထားသည်</string>
+    <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် Wi-Fi ကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="firmware_version">အန်းဒရွိုက်ဗားရှင်း</string>
     <string name="flash_drive_backup_restore">USB ဖြင့် အရန်သိမ်းမည် သို့မဟုတ် ပြန်လည်ရယူမည်</string>
@@ -770,6 +801,7 @@
     <string name="font_size_large">ပိုကြီးသော</string>
     <string name="font_size_medium">အကြီး</string>
     <string name="font_size_normal">အသေး</string>
+    <string name="font_size_preview">MIUI</string>
     <string name="font_size_small">ပိုငယ်သော</string>
     <string name="font_size_summary">"အိမ်မျက်နှာပြင်၊ အသိပေးအချက်ပြချက်ဘား၊ နံပါတ်နှိပ်ဒိုင်ခွက် နှင့် စနစ်မီနှုးများရှိ စာသားအရွယ်အစားကို ပြောင်းလဲပါ။
 
@@ -823,6 +855,7 @@
     <string name="free_wifi_user_agreement">WiWide ကိုသင်အသုံးပြုပြီးကွန်ရက်တစ်ခုကိုဆက်သွယ်ပါက သင့်ဖုန်းနံပါတ်ကို သင့်ရပ်တည်ချက်အဖြစ်အသုံးပြုခံရပါမည််။</string>
     <string name="free_wifi_user_agreement_allow">ခွင့်ပြုပါ</string>
     <string name="free_wifi_user_agreement_title">ပုဂ္ဂိုလ်ရေးရာသတိပေးချက်</string>
+    <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">%1$s သို့ဆက်သွယ်ရန်ထိနှိပ်ပါ</string>
     <string name="frequently_fragment_delete">ဖယ်ရှားပါ</string>
     <string name="frequently_fragment_tempty">အသုံးများသော အမယ်များကို ဤနေရာတွင်စာရင်းလုပ်ထားမည်</string>
@@ -830,12 +863,16 @@
     <string name="fsg_mistake_touch_title">လက်ဟန်များအတွက် ကလစ်နှစ်ချက်ခေါက်ပါ</string>
     <string name="full_transparent_smarrcover_title">ထိုးဖောက်မြင်နိုင်သောအရှေ့ကာဗာ</string>
     <string name="gadget_toggle_wifi">Wi-Fi ဆက်တင်များအား အသစ်မွမ်းမံနေသည်</string>
+    <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">သီးသန့် ဓာတ်ပုံများအား ဤနေရာတွင် သိမ်းထားပါမည်။</string>
     <string name="game_mode_settings">ဂိမ်းမုဒ်</string>
     <string name="gesture_wakeup_title">နှိုးရန် နှစ်ကြိမ်ခေါက်ပါ</string>
+    <string name="giga_hertz">GHz</string>
+    <string name="gigabyteShort">GB</string>
     <string name="go_to_sleep">မျက်နှာပြင်ကို ပိတ်မည်</string>
     <string name="google_backup_enable">အရန်သိမ်းများအား ဖွင့်</string>
     <string name="google_backup_section_title">ဂူကဲလ်အရန်သိမ်း &amp; ပြန်သတ်မှတ်မည်</string>
+    <string name="google_title">Google</string>
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gsm_to_wifi_connect_type_title">GSM မှ Wi-Fi သို့</string>
     <string name="gxzw_add_fingerprint_continue">ဆက်လက်မည်</string>
@@ -863,10 +900,13 @@
     <string name="hdmi_3d_display_enable_summary">3D ဂိမ်းများကို ထောက်ပံ့မည်</string>
     <string name="hdmi_3d_display_enable_title">3D ပြသခြင်း</string>
     <string name="hdmi_3d_help_title">3D စတူဒီယိုထောက်ပံ့ခြင်း HDMI အကြောင်း</string>
+    <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3dplay_control_disable_subtext">3D အပြင် 3D ပြသခြင်းသို့ စတူဒိယိုအထွက်ကို ပိတ်မည်</string>
     <string name="hdmi_3dplay_control_enable_subtext">3D အပြင် 3D ပြသခြင်းသို့ စတူဒိယိုအထွက်ကို ဖွင့်မည်</string>
     <string name="hdmi_3dplay_control_text">3D အထွက်</string>
+    <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_color_calibration_none">မွေးမြေ</string>
+    <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="header_category_accounts">အကောင့်များ</string>
     <string name="header_category_wireless_networks">ကွန်ရက်</string>
     <string name="help_feedback_label">အကူအညီ &amp; တုံ့ပြန်အကြံပြုချက်</string>
@@ -940,6 +980,8 @@
     <string name="keywords_torch">ဓါတ်မီး၊လက်ကိုင်ဓါတ်မီး</string>
     <string name="keywords_vibrate">တုန်ခါ၊တုန်ခါမှု</string>
     <string name="keywords_wifi">wifi;wi-fi၊Wi-Fi၊WiFi၊wlan၊WLAN</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="kilobyte_per_second">K/s</string>
     <string name="label_mi_stats">Mi ခွဲခြမ်းစိတ်ဖြာမှု</string>
     <string name="lattice_smartcover_title">လက်တစ်အရှေ့အဖုန်း</string>
     <string name="launch_camera">ကင်မရာကို ဖွင့်မည်</string>
@@ -952,10 +994,17 @@
     <string name="launching_cit">CIT ကိုလွှတ်တင်နေပါသည်။</string>
     <string name="launching_pho">ဖုန်းအချက်အလက်ကို ရယူနေသည်…</string>
     <string name="launching_rep">အစီရင်ခံနေပါသည်…</string>
+    <string name="layout_size_exhuge">XXL</string>
+    <string name="layout_size_exhuge_text">XXL</string>
+    <string name="layout_size_huge">XL</string>
     <string name="layout_size_huge_text">အလွန်ကြီးသော</string>
+    <string name="layout_size_large">L</string>
     <string name="layout_size_large_text">ကြီးသော</string>
+    <string name="layout_size_medium">M</string>
     <string name="layout_size_medium_text">အလယ်အလတ်</string>
+    <string name="layout_size_normal">S</string>
     <string name="layout_size_normal_text">အသေး</string>
+    <string name="layout_size_small">XS</string>
     <string name="layout_size_small_text">အလွန်ငယ်သော</string>
     <string name="led_colors_summary">အသိပေးချက်များ</string>
     <string name="led_frequence_summary">ခုန်နှုန်းကြားကလအား သတ်မှတ်ပါ</string>
@@ -1108,6 +1157,7 @@
     <string name="manage_xiaomi_router">Mi ရောက်တာ အပြင်အဆင်များ</string>
     <string name="managed_profile_location_category">အလုပ် ပရိုဖိုင်</string>
     <string name="managed_profile_location_switch_lockdown">ကုမ္ပဏီအုပ်ချုပ်သူမှ ပိတ်လိုက်သည်။</string>
+    <string name="managed_profile_location_switch_title">အလုပ်ပရိုဖိုင်အတွက် တည်နေရာ</string>
     <string name="managed_user_title">အလုပ်အက်ပ် အားလုံး</string>
     <string name="manually_add_network">ကွန်ရက်ထည့်မည်</string>
     <string name="master_clear_all">သင့်ဖုန်းတွင်းအတွင်းမှတ်ဉာဏ်ပါအားလုံးကိုဖျက်ပစ်မည်လော? ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်မရနိုင်ပါ!</string>
@@ -1120,9 +1170,16 @@
     <string name="master_clear_personal_data_sdcard">သင့်ပုဂ္ဂိုလ်ရေးရာနှင့်ပါဝင်မှုများကိုဖျက်ပစ်မည်လော? ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်မရနိုင်ပါ!</string>
     <string name="max_aspect_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="max_cpu10_info">"Hexa-core Max "</string>
+    <string name="max_cpu2_info">Dual-core Max</string>
+    <string name="max_cpu4_info">"Quad-core Max "</string>
+    <string name="max_cpu6_info">"Hexa-core Max "</string>
+    <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">လက်ဗွေ ၅ ခုထက် ပိုပေါင်းထည့်၍ မရပါ။ လက်ဗွေအသစ်တစ်ခု ပေါင်းထည့်လိုပါက ရှိပြီးသားလက်ဗွေတစ်ခုကို ဦးစွာဖျက်ပစ်ပါ။</string>
     <string name="media_button">မီဒီယာခလုတ်</string>
+    <string name="media_category">မီဒီယာ</string>
     <string name="media_feedback_enable_title">ရိုက်ချက်ဖွင့် တုန်ခါမည်</string>
+    <string name="megabyteShort">MB</string>
+    <string name="megabyte_per_second">M/s</string>
     <string name="memory_rightvalue">စုစုပေါင်း- %s</string>
     <string name="memory_system_rom">စနစ်သိုလှောင်ခန်း</string>
     <string name="memory_system_space">စနစ်သိုလှောင်ခန်း</string>
@@ -1213,12 +1270,15 @@
     <string name="music_audio_effect_settings">အထူးပြုလုပ်ချက် ဆက်တင်များ</string>
     <string name="music_dirac_control">အသံ အရည်အသွေးကို မြှင့်တင်မည်</string>
     <string name="music_dirac_mode_cancelling">Mi ဆူညံသံလျှော့ချခြင်း (3.5mm)</string>
+    <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi နားကြပ်ပေါက်</string>
     <string name="music_dirac_mode_general">အထွေထွေ</string>
     <string name="music_dirac_mode_general_earbuds">အထွေထွေ</string>
     <string name="music_dirac_mode_general_inear">နားတွင်းအထွေထွေ</string>
     <string name="music_dirac_mode_headset">Mi နားကြပ်များ</string>
+    <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
     <string name="music_dirac_mode_in_ear">Mi In-Ear နားကြပ်</string>
+    <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro နားကြပ်</string>
     <string name="music_dirac_mode_off">ဒီရက် ပိတ်မည်</string>
     <string name="music_dirac_mode_piston_1">Mi ပစ်စတန်-1</string>
@@ -1306,6 +1366,7 @@
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">ပေါင်းထည့်မည်</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">လက်ဗွေ ပေါင်းထည့်မည်</string>
     <string name="next_button_label">နောက်ထပ်</string>
+    <string name="nfc_category_title">NFC</string>
     <string name="nfc_payment_favor_default">ပုံသေအက်ပ်အား အမြဲသုံးမည်</string>
     <string name="nfc_payment_favor_open">အခြားပေးချေမှုအက်ပ်အား ဖွင့်ထားပါက ပုံသေအက်ပ်နေရာတွင် အစားထိုးပါ</string>
     <string name="nfc_quick_toggle_summary">ဖုန်းသည် အခြားကိရိယာကို ထိချိန်တွင် ဒေတာလဲလှယ်ခြင်းကို ခွင့်ပြုမည်</string>
@@ -1356,6 +1417,7 @@
     <string name="oldman_uninstalled_btn">ထည့်သွင်းမည်</string>
     <string name="oldman_uninstalled_des">Lite မုဒ်သည် အမြင်အာရုံရှုပ်ထွေးမှုကို ရှင်းစေပြီး ပင်မမျက်နှာပြင်အား ရိုးရှင်းလွယ်ကူစေပါသည်။</string>
     <string name="onehour">၃၀ မိနစ်</string>
+    <string name="onekey_migrate">Mi Mover</string>
     <string name="open_demo_mode">ဖွင့်ပါ</string>
     <string name="open_demo_mode_warning_message">အစမ်းမုဒ်ဖွင့်ထားပါက အခြေအနေပြဘားတန်းရှိ နာရီသည် ရပ်တန့်ပြီး၊ ဘက်ထရီနှင့် လိုင်းအားအပြည့် ပြသလိမ့်မည်။ အစမ်းမုဒ်မှ ထွက်ရန် ခလုတ်အား ပိတ်ပါ သို့မဟုတ် စက်အား ပိတ်၍ပြန်ဖွင့်ပါ။</string>
     <string name="open_miui_optimization_title">MIUI အကောင်းဆုံးဖြစ်အောင်လုပ်ဆောင်မှု ဖွင့်</string>
@@ -1384,8 +1446,16 @@
     <string name="page_layout_22">ကျွန်ုပ်၏ပရိုဖိုင်</string>
     <string name="page_layout_23">ကျွန်ုပ်၏အုပ်စုများ</string>
     <string name="page_layout_24">စိတ်ကြိုက်များ</string>
+    <string name="page_layout_25">Hugo Barra</string>
+    <string name="page_layout_26">Manvendra Gupta</string>
+    <string name="page_layout_27">Manu Jain</string>
+    <string name="page_layout_28">Clinton Jeff</string>
+    <string name="page_layout_29">Santi Kuan</string>
     <string name="page_layout_3">ပြခန်း</string>
+    <string name="page_layout_30">Jai Mani</string>
+    <string name="page_layout_31">Jack Tang</string>
     <string name="page_layout_32">Play စတိုး</string>
+    <string name="page_layout_33">Google</string>
     <string name="page_layout_4">သီချင်း</string>
     <string name="page_layout_5">ဗီဒီယို</string>
     <string name="page_layout_6">အက်ပ်များ</string>
@@ -1394,6 +1464,13 @@
     <string name="page_layout_9">သင်းမ်များ</string>
     <string name="page_layout_confirm_message">ထိုပြောင်းလဲမှုများအား အသုံးချရန် သင့်စက်အား ပြန်ပိတ်ပြီးဖွင့်ရန် လိုအပ်ပါသည်။ ဤအရာသည် တစ်မိနစ်ခန့်ကြာနိုင်ပါသည်။</string>
     <string name="page_layout_confirm_title">ပြသဆက်တင်များများကိုပြောင်းမည်</string>
+    <string name="page_layout_godzilla_title">XXL</string>
+    <string name="page_layout_huge_title">XL</string>
+    <string name="page_layout_large_title">L</string>
+    <string name="page_layout_medium_title">M</string>
+    <string name="page_layout_normal_title">S</string>
+    <string name="page_layout_page2_godzilla_summary">XXL</string>
+    <string name="page_layout_page2_godzilla_title">XXL</string>
     <string name="page_layout_page2_huge_summary">အလွန်ကြီးသော</string>
     <string name="page_layout_page2_huge_title">အလွန်ကြီးသော</string>
     <string name="page_layout_page2_large_summary">ကြီးသော</string>
@@ -1405,6 +1482,7 @@
     <string name="page_layout_page2_small_summary">အလွန်ငယ်သော</string>
     <string name="page_layout_page2_small_title">အလွန်ငယ်သော</string>
     <string name="page_layout_page2_title">အစမ်းကြည့်</string>
+    <string name="page_layout_small_title">XS</string>
     <string name="paper_mode_auto_twilight_summary">နေဝင်ပြီးနောက် စာဖတ်မုတ်သို့ အော်တိုပြောင်းပါ</string>
     <string name="paper_mode_auto_twilight_title">ဂွတ်နိုက်စာဖတ်ခြင်း</string>
     <string name="paper_mode_customize_time_summary">စာဖတ်မုတ်ကို စိတ်ကြိုက်အချိန်သတ်မှတ်ပါ</string>
@@ -1460,6 +1538,7 @@
     <string name="power_settings_title">စနစ် လုပ်ဆောင်ချက်</string>
     <string name="power_usage_history">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
     <string name="power_usage_summary_title">ဘက်ထရီ &amp; နှင့် လုပ်ဆောင်နိုင်စွမ်း</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">ကြိုတင်ထည့်သွင်းထားသော အက်ပ်များ</string>
     <string name="pref_bg_network_title">နောက်ခံချိတ်ဆက်မှု</string>
     <string name="pref_button_light">ခလုတ်မီးများ</string>
@@ -1558,6 +1637,7 @@
     <string name="privacy_password_settings_titles_second_space">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်သည် သင်၏မက်ဆေ့ချ်များ၊ ဓာတ်ပုံများနှင့် မှတ်စုများအား ကာကွယ်ပေးပါမည်။</string>
     <string name="privacy_password_title">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်</string>
     <string name="privacy_password_toggle_summary">ကိုယ်ပိုင်အိုင်တမ်များသို့ ဝင်ရောက်နေသည့်အခါတိုင်း စကားဝှက်ရိုက်ထည့်ရန်လိုအပ်သည်။</string>
+    <string name="privacy_password_transparent_tiltle" />
     <string name="privacy_password_use_finger_dialog_mess">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်အတွက်လည်း သင့်လက်ဗွေကို အသုံးပြုနိုင်ပါသည်။</string>
     <string name="privacy_password_use_finger_dialog_open">ဆက်တင်</string>
     <string name="privacy_password_use_finger_dialog_title">လက်ဗွေဖြင့် သော့ဖွင့်ခြင်း</string>
@@ -1572,6 +1652,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -1586,6 +1667,7 @@
     <string name="quiet_no_interruptions_mode">နှောင့်ယှက်မှုအားလုံးကို အသံပိတ်ပါ</string>
     <string name="quiet_off_mode">နှောင့်ယှက်မှုများကို အမြဲခွင့်ပြုပါ</string>
     <string name="radio_controls_summary">Wi-Fi၊ ဘလူးတုသ်၊ လေယာဉ်ပုံစံ၊ မိုဘိုင်းလ်ကွန်ရက်များ &amp; VPNs</string>
+    <string name="radio_controls_title">နောက်ထပ်</string>
     <string name="radio_info_asdiv_switch_label">ASDiv အခြေအနေ-</string>
     <string name="rank_title">အဆင့်သတ်မှတ်ခြင်း</string>
     <string name="reading_data">အချက်အလက်ရယူနေသည်…</string>
@@ -1609,6 +1691,7 @@
     <string name="reset_network_bluetooth">ဘလူးတုသ်</string>
     <string name="reset_network_category">ကွန်ရက်ဆက်တင်အားလုံးကို ပြန်လည်သတ်မှတ်လိမ့်မည်၊ ပါဝင်သောအရာမှာ-</string>
     <string name="reset_network_data">မိုဘိုင်းဒေတာ</string>
+    <string name="reset_network_wifi">Wi‑Fi</string>
     <string name="reset_second_space_passwd">ဒုတိယနေရာစကားဝှက် ပြန်သတ်မှတ်</string>
     <string name="reset_second_space_passwd_cancel">ဖျက်သိမ်း</string>
     <string name="reset_second_space_passwd_confirm">ဆက်လက်မည်</string>
@@ -1620,6 +1703,8 @@
     <string name="restriction_wifi_config_summary">Wi-Fiနှင့် မိုဘိုင်းဆက်တင်များကို ပြင်ခွင့်ပြုမည်</string>
     <string name="restriction_wifi_config_title">Wi-Fiနှင့် မိုဘိုင်းကွန်ရက်များ</string>
     <string name="retail_demo_reset_message">အစမ်းမုဒ်တွင် စက်ရုံထုတ်အနေအထားသို့ပြန်သတ်မှတ်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
+    <string name="retail_demo_reset_next">ရှေ့သို့</string>
+    <string name="retail_demo_reset_title">စကားဝှက် လိုအပ်သည်</string>
     <string name="retry">ထပ်မံကြိုးစားပါ</string>
     <string name="rgb_manage_facerecoginition_text">2D မျက်နှာဒေတာကို စီမံမည်</string>
     <string name="ringtone_slot_setting_title">ဆင်းမ်တစ်ခု ဆက်တင်များ</string>
@@ -1697,6 +1782,7 @@
     <string name="screen_timeout_title">အိပ်စက် သုံးနည်းပုံစံ</string>
     <string name="screen_zoom_summary_custom">စိတ်ကြိုက်(%d)</string>
     <string name="screen_zoom_summary_default">မူလ</string>
+    <string name="screen_zoom_summary_extremely_large">အကြီးဆုံး</string>
     <string name="screen_zoom_summary_large">အကြီး</string>
     <string name="screen_zoom_summary_small">အသေး</string>
     <string name="screen_zoom_summary_very_large">ပိုကြီးသော</string>
@@ -1770,6 +1856,7 @@
     <string name="search_hint">ဆက်တင်များအား ရှာဖွေပါ</string>
     <string name="search_home_key">ဟုမ်း၊ ဟုမ်းခလုတ်၊ဟုမ်းကီး</string>
     <string name="search_input_hint">ရှာ​ဖွေမှု ဆက်တင်များ</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_key_settings_title">ခလုတ်များ၊ ကီးများ</string>
     <string name="search_lab_functions_title">Beta အင်္ဂါရပ်များ၊ Lab လုပ်ဆောင်ရည်</string>
     <string name="search_label">ဆက်တင်များ</string>
@@ -1792,6 +1879,7 @@
     <string name="search_music_headset_settings">နားကြပ်&amp; အော်ဒီယိုလုပ်ဆောင်ချက်များ၊ နားကြပ်နှင့် အော်ဒီယိုလုပ်ဆောင်ချက်များ၊ နားကြပ်များ၊နားကြပ်များ၊ အော်ဒီယိုလုပ်ဆောင်ချက်များ</string>
     <string name="search_music_mi_effect_title">Mi အသံ ပိုကောင်းစေခြင်း၊ အသံ ပိုကောင်းစေခြင်း</string>
     <string name="search_networks_title">မိုဘိုင်းကွန်ရက်များ၊ဖုန်းလိုင်းကုမ္ပဏီ၊မိုဘိုင်းဖုန်းလိုင်းကုမ္ပဏီ</string>
+    <string name="search_nfc_quick_toggle_title">NFC</string>
     <string name="search_nfc_se_route_title">လုံခြုံရေးယူနစ်နေရာ</string>
     <string name="search_notification_sound_title">ပုံသေအသိပေးချက်အသံ၊ အသိပေးချက်အသံ၊ အသိပေးချက်အသံများ</string>
     <string name="search_ntts_settings_title">TTS၊ TTS ဆက်တင်များ</string>
@@ -1902,6 +1990,7 @@
     <string name="security_encryption_attention_3">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ် သတ်မှတ်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="security_encryption_attention_4">သင့်သော့ခတ်မျက်နှာပြင်စကားဝှက်အား မမေ့ပါနှင့်၊ သို့မဟုတ်ပါက စက်အား အစအဆုံးပြန်သတ်မှတ်ရန် လိုအပ်ပြီး ဒေတာအားလုံး ဆုံးရှုံးနိုင်ပါသည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">သော့ခတ်မျက်နှာပြင်စကားဝှက်ဖြင့် စက်အားကုဒ်မဖွဲ့ရန် ရွေးချယ်ခြင်းသည် Google ဝန်ဆောင်မှုများအား အသုံးပြု၍မရနိုင်ဘဲ ဖြစ်နိုင်ပါသည်။</string>
     <string name="security_encryption_close_dialog_title">မူလစကားဝှက်ကာကွယ်မှု သို့ပြန်သွားပါ</string>
@@ -1927,6 +2016,7 @@
     <string name="select_usb_configuration_dialog_title">USB ဖွဲ့စည်းပုံအား ရွေးချယ်ပါ</string>
     <string name="select_usb_configuration_title">USB ဖွဲ့စည်းပုံအား ရွေးချယ်ပါ</string>
     <string name="select_webview_provider_dialog_title">WebView အကောင်အထည်ဖော်မှု သတ်မှတ်မည်</string>
+    <string name="select_webview_provider_title">WebView အကောင်အထည်ဖော်မှု</string>
     <string name="select_webview_provider_toast_text">ဤရွေးချယ်မှုသည် တရားမဝင်တော့ပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="service_manage">ဖွဲ့စည်းပုံ</string>
     <string name="service_stop_description">အက်ပ်စ်သည် လုပ်ဆောင်ခြင်းဝန်ဆောင်မှုကို စတင်ပြီးပါပြီ။ ရပ်လိုက်ပါက အမှားယွင်းများဖြစ်လာနိုင်ပါသည်။</string>
@@ -1940,6 +2030,7 @@
     <string name="setup_choose_unlock_fingerprint_msg">သင်၏လက်ဗွေကို မပေါင်းထည့်မီ မျက်နှာပြင်လော့ခ်တစ်ခု သတ်မှတ်ပါ။</string>
     <string name="setup_choose_unlock_mixed_password">စကားဝှက်</string>
     <string name="setup_choose_unlock_mixpassword_title">စကားဝှက် သတ်မှတ်ပါ</string>
+    <string name="setup_choose_unlock_password">PIN</string>
     <string name="setup_choose_unlock_password_msg">နံပါတ် ၄ လုံး ရိုက်ထည့်ပါ</string>
     <string name="setup_choose_unlock_password_title">PIN သတ်မှတ်ပါ</string>
     <string name="setup_choose_unlock_pattern">သော့ဖွင့်ပုံစံ</string>
@@ -1994,6 +2085,13 @@
     <string name="simulate_color_space">အရောင်ကို တူအောင်ဖန်တီးသည်</string>
     <string name="single_key_use">ခလုတ်တစ်ခု</string>
     <string name="single_key_use_summary">ထိုလုပ်ဆောင်မှုများအတွက် အခြားခလုတ် ၂ ခုအစား ဟုမ်းခလုတ်ကို အသုံးပြုပါ</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
     <string name="slot_status_title">IMEI အချက်လက်</string>
@@ -2006,6 +2104,7 @@
     <string name="sms_received_sound_dialog_title">စာသားလက်ခံသော အသံကို ရွေးပါ</string>
     <string name="sms_received_sound_title">မက်ဆေ့ခ်ျ ရရှိပြီးပြီ</string>
     <string name="sound_category_call_ringtone_vibrate_title">ဖုန်းမြည်သံ &amp; အသိပေးချက် အသံများ</string>
+    <string name="sound_settings">အသံ</string>
     <string name="sound_stereo_mode_summary">စပီကာဖြင့် အသံဖွင့်သောအခါတွင်သာ ရရှိနိုင်သည်</string>
     <string name="sound_stereo_mode_title">စတီရီယိုအသံ</string>
     <string name="sound_vibrate_settings">အသံများနှင့် &amp; တုန်ခါမှုများ</string>
@@ -2016,6 +2115,7 @@
     <string name="standard_info">ခေါ်ဆိုမှုနှင့် အသိပေးချက်များကို အသံတိတ်မည်</string>
     <string name="start_silent_mode">အသံတိတ်မုဒ် ဖွင့်မည်</string>
     <string name="status_bar_and_notification_bar">အကြောင်းကြားစာရှိုတ်နှင့် အခြေအနေပြဘား</string>
+    <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_app_disable_notification">အသိပေးအချက်ပြချက်များအား　ကွယ်ဝှက်ထား</string>
     <string name="status_bar_app_enable_floating">လွင့်မျောနေသော အသိပေးချက်များ</string>
     <string name="status_bar_app_enable_keyguard">သော့ခတ် မျက်နှာပြင်</string>
@@ -2033,6 +2133,7 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_enable_notification">အသိပေးချက်များအား ပြပါ</string>
@@ -2043,6 +2144,7 @@
     <string name="status_bar_settings_notification_led">အကြောင်းကြားစာမီးပွင့်</string>
     <string name="status_bar_settings_notification_priority">ဦးစားပေး</string>
     <string name="status_bar_settings_notification_priority_summary">အသိပေးအချက်ပြချက်အား စာရင်း၏ထိပ်တွင်ပြသပါ</string>
+    <string name="status_bar_settings_notification_shade_shortcut">အသိပေးချက်ရှိတ် ရှော့ကဒ်</string>
     <string name="status_bar_settings_notification_sound">အသံ</string>
     <string name="status_bar_settings_notification_vibrate">တုန်ခါမှု</string>
     <string name="status_bar_settings_show_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား ပြသပါ</string>
@@ -2103,6 +2205,7 @@
     <string name="sync_enable">ဆင့်ခ်</string>
     <string name="sync_now">ဆင့်ခ်</string>
     <string name="sync_settings">ဆင့်ခ်</string>
+    <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Wi-Fiသက်သက်</string>
     <string name="system">စနစ်</string>
     <string name="system_and_device_section_title">စနစ်&amp;စက်</string>
@@ -2111,6 +2214,7 @@
     <string name="system_backup_section_title">အရန်သိမ်းခြင်း</string>
     <string name="system_shortcut_wake">ရှော့ကဒ်ခလုတ်ဖြင့် နှိုးပါ</string>
     <string name="system_storage">စနစ်သိုလှောင်မှု</string>
+    <string name="taplus_title">Taplus</string>
     <string name="telephony_monitor_switch">တယ်လီဖုန်းမော်နီတာ</string>
     <string name="telephony_monitor_switch_summary">တယ်လီဖုန်းမော်နီတာသည် တယ်လီဖုန်း/မိုဒမ်တွင် ပြဿနာများထောက်လှမ်းတွေ့ရှိပါက မှတ်တမ်းများကို စုဆောင်းပြီး အသုံးပြုသူအား အမှားအစီရင်ခံရန် သတိပေးလိမ့်မည်။</string>
     <string name="tether_and_hotspot_title">ဒေတာချိတ်ဆက်ခြင်း &amp; ခရီးဆောင် ဟော့စ်ပေါ့</string>
@@ -2155,7 +2259,6 @@
     <string name="toast_need_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="total">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="total_info">နှိုးစက်မှတပါး အခြား အသံများ%1$sကို ပိတ်ပါ</string>
-    <string name="total_info_sub">တုန်ခါမှုအား ပိတ်ပါ</string>
     <string name="total_size">%s စုစုပေါင်း</string>
     <string name="touch_assistant">အလွယ်စက်လုံး</string>
     <string name="touch_sensitive_summary">မျက်နှာပြင်ကို လေထုဖိအားဆီသို့ အထူး အလိုက်သင့်တုံ့ပြန်အောင် ပြုလုပ်ပါ</string>
@@ -2170,10 +2273,14 @@
     <string name="trackball_wake_title">ထရပ်ဘောလ် နိုးထခြင်း</string>
     <string name="traffic_none">မရှိပါ</string>
     <string name="transition_animation_scale_title">ပြောင်းလဲမှု အန်နီမေးရှင်းစကေး</string>
+    <string name="translation_contributors_summary" />
     <string name="translation_contributors_title">ပေးဆပ်သူများ</string>
     <string name="tts_default_lang_summary">စာသားမှ စကားပြောသံအတွက် သုံးမည့်ဘာသာစကားကို သတ်မှတ်ပါ</string>
+    <string name="tts_default_lang_title">ဘာသာစကား</string>
     <string name="tts_default_pitch_summary">အသံပေါင်းစပ်မှု၏အသံနေအသံထားကို ထိခိုက်စေသည်</string>
+    <string name="tts_default_pitch_title">အသံအနိမ့်အမြင့်</string>
     <string name="tts_default_rate_summary">စာသားမှပြောင်းလဲသော စကားပြောနှုန်း</string>
+    <string name="tts_default_rate_title">စကားပြောနှုန်း</string>
     <string name="tts_default_sample_string">ဤအရာသည် အသံပေါင်းစပ်မှု နမူနာတစ်ခု ဖြစ်ပါသည်</string>
     <string name="tts_engine_network_required">ဤဘာသာစကား၏ စာသား-မှ-စကားအတွက် ကွန်ရက်သို့ ချိတ်ဆက်ထားရမည်။</string>
     <string name="tts_engine_preference_section_title">ပိုလိုလားသော အင်ဂျင်</string>
@@ -2237,10 +2344,12 @@
     <string name="unlock_set_unlock_biometric_weak_title">မျက်နှာဖြင့် သော့ဖြည်ခြင်း</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">ပုံစံ၊PIN၊ သို့မဟုတ် စကားဝှက်ပြောင်းလဲ သို့မဟုတ် ပိတ်လိုက်ပါ</string>
     <string name="unlock_set_unlock_launch_picker_title">သော့ခတ်မျက်နှာပြင်</string>
+    <string name="unlock_set_unlock_mode_password">စကားဝှက်</string>
     <string name="unlock_set_unlock_mode_pin">ပင်</string>
     <string name="unlock_set_unlock_none_title">လုံးဝမလုပ်</string>
     <string name="unlock_set_unlock_password_none">မရှိပါ</string>
     <string name="unlock_set_unlock_password_summary">ဖုန်းအား သော့ဖြည်ရန် စာလုံး၊နံပါတ် ၄ လုံး သို့မဟုတ် ၄ လုံးနှင့်အထက် ရိုက်ထည့်ပါ</string>
+    <string name="unlock_set_unlock_password_title">စကားဝှက်</string>
     <string name="unlock_set_unlock_pattern_summary">ဖုန်းအား သော့ဖြည်ရန် ရိုးရှင်းသော သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ</string>
     <string name="unlock_set_unlock_pin_summary">ဖုန်းအား သော့ဖြည်ရန် နံပါတ် ၄ လုံး ရိုက်ထည့်ပါ</string>
     <string name="unlock_set_unlock_pin_title">ပင်</string>
@@ -2270,6 +2379,7 @@
     <string name="usb_install_app">USBမှ တစ်ဆင့် တပ်ဆင်ပါ</string>
     <string name="usb_install_app_desc">USB မှတစ်ဆင့်တပ်ဆင်ခြင်းအား ခွင့်ပြုပါ</string>
     <string name="usb_mount">USB သိုလှောင်မှု တပ်ဆင်</string>
+    <string name="usb_mount_summary" />
     <string name="usb_msd_driver_installer_summary">Windows နှင့် OSX အတွက် ဒရိုင်ဘာများရယူမည်</string>
     <string name="usb_msd_driver_installer_title">ဒရိုင်ဘာထည့်သွင်းခြင်းဒစ်စ် (MSD)</string>
     <string name="usb_msd_summary">Windows သို့မဟုတ် OSX ကို သုံးပြီးဖိုင်များကို လွှဲပြောင်းမည်</string>
@@ -2289,6 +2399,7 @@
     <string name="user_experience_program">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="user_experience_program_summary">သင်၏သုံးစွဲမှုအခြေအနေအား ပေးပို့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ထုတ်ကုန်နှင့် ဝန်ဆောင်မှုများကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးပါ</string>
     <string name="user_experience_program_title">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
+    <string name="user_guest">ဧည့်သည်</string>
     <string name="user_settings_forbidden">လက်ရှိနေရာတွင် အုပ်ချုပ်သူဆက်တင်များကို ပြောင်းလဲ၍မရပါ။ ပထမနေရာသို့ ပြန်သွားပါ။</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT မှတစ်ဆင့် ထည့်သွင်းတပ်ဆင်ထားသောအက်ပ်များ အန္တရာယ်ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="verify_apps_over_usb_title">USB မှတစ်ဆင့် အက်ပ်များကို အတည်ပြုပါ</string>
@@ -2334,6 +2445,7 @@
     <string name="virus_scanner_select_trust_lib">ဗိုင်းရပ်စ်သတ်မှတ်ချက်များကို ရွေးပါ</string>
     <string name="virus_scanner_title">ဗိုင်းရပ်စ်စကန်ဖတ်သူ</string>
     <string name="virus_scanner_update_lib">သတ်မှတ်ချက်များကို အသစ်မွမ်းမံပါ</string>
+    <string name="voice_assist">Mi AI</string>
     <string name="voice_category">စကား</string>
     <string name="voice_helper_title">အသံလက်ထောက်</string>
     <string name="volume_alarm_description">နှိုးစက်</string>
@@ -2350,6 +2462,7 @@
     <string name="vpn_create">VPN ထည့်</string>
     <string name="vpn_dns_servers">DNS ဆာဗာများ</string>
     <string name="vpn_dns_servers_hint">ဥပမာ။ ။ 8.8.8.8</string>
+    <string name="vpn_enable">VPN</string>
     <string name="vpn_no_selected">VPN ရွေးပါ</string>
     <string name="vpn_off">ပိတ်</string>
     <string name="vpn_on">ဖွင့်ပါ</string>
@@ -2380,6 +2493,7 @@
     <string name="wapi_password_hex_length_invalid">ဆယ့်ခြောက်လီစနစ် စကားဝှက်၏ ဂဏန်းအရေအတွက်သည် စုံဂဏန်း ဖြစ်ရမည်</string>
     <string name="wapi_password_length_invalid">စကားဝှက်သည် အက္ခရာ ၈-၆၄လုံးကြား ရှိရမည်</string>
     <string name="wapi_psk_type">စကားဝှက်အမျိုးအစား</string>
+    <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">ဆယ့်ခြောက်လီစနစ်</string>
     <string name="wapi_yes">ဟုတ်ပါတယ်</string>
     <string name="warm_color">နွေးထွေးသော</string>
@@ -2405,6 +2519,7 @@
     <string name="whetstone_level_title">မှတ်ဉာဏ်ပိုကောင်းအောင်လုပ်ခြင်း</string>
     <string name="wifi_access_points">Wi-Fiကွန်ရက်</string>
     <string name="wifi_add_network">ကွန်ရက်ထည့်မည်</string>
+    <string name="wifi_advanced_titlebar">အဆင့်မြင့် Wi-Fi</string>
     <string name="wifi_aggressive_handover">Wi‑Fi မှ မိုဘိုင်းသို့ အဆင်မပြေသော ပြောင်းလဲမှု</string>
     <string name="wifi_aggressive_handover_summary">ဖွင့်ထားပါက Wi‑Fi လိုင်းအားနည်းသောအခါ ချိတ်ဆက်မှုသည် မိုဘိုင်းဒေတာသို့ ပြောင်းလိမ့်မည်။</string>
     <string name="wifi_allow_scan_with_traffic">Wi‑Fiကို ရိုးမ်စကန်ဖတ်ရန် အမြဲခွင့်ပြုမည်</string>
@@ -2467,6 +2582,7 @@
     <string name="wifi_empty_list_user_restricted">ဤကွန်ရက်အား ပြောင်းလဲရန် သင့်တွင်ခွင့်ပြုချက်မရှိပါ</string>
     <string name="wifi_empty_list_wifi_off">ရနိုင်သောကွန်ရက်များကိုကြည့်ရန် Wi-Fiကိုဖွင့်ပါ</string>
     <string name="wifi_empty_list_wifi_on">Wi-Fiကွန်ရက်များကို ရှာနေပါသည်</string>
+    <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">မကောင်းသောချိတ်ဆက်ခြင်းများကိုရှောင်မည်</string>
     <string name="wifi_fail_to_scan">ကွန်ရက်များကို စကန်ဖတ်၍ မရပါ</string>
     <string name="wifi_gateway">ဂိတ်ပေါက်</string>
@@ -2501,18 +2617,40 @@
     <string name="wifi_priority_type_title">ဝင်သုံးခြင်းပွိုင့်တစ်ခုချင်းစီအတွက် AP ဉီးစားပေးကို ကိုယ်တိုင် သတ်မှတ်မည်</string>
     <string name="wifi_property">Wi-Fi စွမ်းရည်</string>
     <string name="wifi_quick_toggle_summary">Wi-Fiကိုဖွင့်မည်</string>
+    <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">သိမ်းပြီးပြီ</string>
     <string name="wifi_remembered_disabled_auto_connect">သိမ်းဆည်းပြီးပြီ။ အော်တို ချိတ်ဆက်မှုအား ပိတ်ထားသည်။</string>
     <string name="wifi_required_info_text">သတ်မှတ်ခြင်းကိုပြီးအောင် သင့်ကိရိယာသည် Wi-Fiသုံးခွင့်ရှိရန်လိုပါသည်။ သတ်မှတ်ပြီးပါက မိုဘိုင်းလ်ဒေတာ နှင့် Wi-Fiကြားရွေ့နိုင်ပါသည်။</string>
     <string name="wifi_scan_always_available">စကန်ဖတ်ခြင်း အမြဲရရှိနိုင်သော</string>
     <string name="wifi_scan_always_available_summary">Wi-Fi မရှိသည့်အချိန်တွင်လည်း Google တည်နေရာဝန်ဆောင်မှုနှင့် အခြားအက်ပ်များအား ကွန်ရက်အား စကန်ဖတ်စေပါ။</string>
+    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
+    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
+    <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
+    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_setting_category">ရနိုင်သောကွန်ရက်များ</string>
     <string name="wifi_setting_frequency_band_error">ကြိမ်နှုန်းဇုန် ချိန်ညှိနေစဥ် မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်။</string>
     <string name="wifi_setting_frequency_band_summary">လုပ်ငန်းစဉ်၏ကြိမ်နှုန်းအတိုင်းအတာကို သတ်မှတ်မည်</string>
     <string name="wifi_setting_frequency_band_title">Wi-Fi ကြမ်နှုန်းလှိုင်း</string>
     <string name="wifi_setting_sleep_policy_title">အိပ်နေချိန်တွင် Wi-Fiကိုဖွင့်ထားမည်</string>
+    <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Wi-Fi ဆက်တင်များ</string>
+    <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_setup_description_connected">သတ်မှတ်ချက်အားဆက်လုပ်ရန်<b>နောက်ထပ်</b>"အား ထိနှိပ်ပါ။ 
 
 အခြားWi-Fi ကွန်ရက်သို့ ဆက်သွယ်ရန်"<b> နောက်သို့</b>အား ထိနှိပ်ပါ။</string>
@@ -2611,9 +2749,11 @@
     <string name="work_space_delete">အလုပ်နေရာအား ဖျက်ပစ်ပါ</string>
     <string name="work_space_delete_confirm">ယခု ဖျက်ပါ</string>
     <string name="work_space_delete_description">သင်ဖျက်လိုက်ပြီးနောက် အလုပ်နေရာသို့ ဝင်ရောက်၍ ရနိုင်လိမ့်မည်မဟုတ်ပါ။ ဒေတာအားလုံးအား ရွေ့လိုက်လိမ့်မည် သို့မဟုတ် ဖျက်ပစ်လိမ့်မည်။</string>
+    <string name="wps_category">WPS</string>
     <string name="wps_connect_summary">ရောက်တာသုံး၍ရနိုင်ပြီး WPS ကိုဖွင့်ထားကြောင်းသေချာပါစေ</string>
     <string name="wps_connect_title">WPS သို့ ချိတ်ဆက်</string>
     <string name="xiaomi_account">Mi အကောင့်</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_description">Mi Cloud သည် အဆက်အသွယ်များ၊ ဓါတ်ပုံများနှင့် အခြားအိုင်တမ်များကို ဆင့်ခ်လုပ်ပေးနိုင်ပါသည်။ \"စက်ကို ရှာပါ\"သည်လည်း Mi Cloud လိုအပ်သည်။</string>
     <string name="xiaomi_cloud_service_disabled">ပိတ်ပါ</string>
     <string name="xiaomi_cloud_service_unknown">အမည်မသိ</string>
@@ -2645,6 +2785,7 @@
     <string name="audio_profile_bes_surround_summary">အသံ ပတ်ဝန်းကျင်</string>
     <string name="audio_profile_bes_surround_title">BesSurround</string>
     <string name="bg_power_saving_title">အဆင်သင့် အသိဉာဏ်ရှိသော ပါဝါချွေတာမှု</string>
+    <string name="cancel_description">ပယ်ဖျက်မည်</string>
     <string name="card_emulation_settings_category_title">ရနိုင်သောလုံခြုံရေး အာမခံပစ္စည်း</string>
     <string name="card_emulation_settings_no_element_found">လုံခြုံရေးအာမခံပစ္စည်း မရနိုင်ပါ</string>
     <string name="card_emulation_settings_off_text">ရနိုင်သောလုံခြုံရေး အာမခံပစ္စည်းများ ကြည့်ရန် ကဒ်နှင့်တူအောင် တုပခြင်းကိုဖွင့်ပါ။</string>
@@ -2655,6 +2796,7 @@
     <string name="card_emulation_turning_on_text">ကဒ်နှင့်တူအောင် တုပခြင်းကို ဖွင့်နေသည်…</string>
     <string name="card_emulation_two_sim_not_supported_message">SIM1 နှင့် SIM2 သည် NFC ကဒ်အဖြစ် တုပဆောင်ရွက်မှုကို မထောက်ပံ့ပါ။</string>
     <string name="clear_motion_summary">ဗီဒီယို အရည်အသွေး ပိုမိုကောင်းမွန်ရန် မြှင့်တင်ပေးသည့်အရာ</string>
+    <string name="confirm_description">အတည်ပြုမည်</string>
     <string name="custom_build_version">အသုံးပြုသူစိတ်ကြိုက်တည်ဆောင်မှု မူကွဲ</string>
     <string name="data_saving_title">ဒေတာသိမ်းခြင်း</string>
     <string name="data_usage_menu_cellular_data_control">ဆယ်လူလာ ဒေတာထိန်းချုပ်မှု</string>
@@ -2733,6 +2875,7 @@ GPS ကပေးသော အချိန်ကို အသုံးပြု�
     <string name="status_imei_slot2">IMEI(အပေါက်2)</string>
     <string name="tethering_apn_settings_summary">ကွန်ရက်ချိတ်ဆက်ခြင်း အတွက် APN ကို စီစဉ်ထားရှိပါ</string>
     <string name="tethering_apn_settings_title">APN အဆင်အပြင်များ</string>
+    <string name="total_info_sub">တုန်ခါမှုအား ပိတ်ပါ</string>
     <string name="two_cdma_dialog_msg">ဆလော့တ် ၁ နှင့် ဆလော့တ် ၂ သည် CDMA ကို တစ်ပြိုင်နက်တည်း မပံ့ပိုးနိုင်ပါ။</string>
     <string name="usb_bicr_summary">အသုံးဝင်သော ဆော့(ဖ်)ဝဲအချို့ ပါဝင်သည့် CD-ROM ယောင်တစ်ခုကို ပြပါ</string>
     <string name="usb_ums_summary">XP က ထောက်ခံခဲ့သည်။ သင့်ကွန်ပျူတာနှင့် အန်းဒွိုက်၏ USB သိမ်းဆည်းနေရာအကြား ဖိုင်များကို လွှဲပြောင်းခွင့်ပေးသည်။</string>

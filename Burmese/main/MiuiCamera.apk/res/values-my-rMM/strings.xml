@@ -12,9 +12,9 @@
     <string name="video_camera_label">တီဗွီကင်မရာ</string>
     <string name="wait">ခဏစောင့်ပါ…</string>
     <string name="no_storage">ကင်မရာ မသုံးမီ SD ကဒ်ကို ထည့်သွင်းပါ</string>
-    <string name="not_enough_space">အတွင်းသိုလှောင်ခန်း၌ နေရာပြည့်နေပြီ</string>
-    <string name="preparing_sd">အတွင်းသိုလှောင်ခန်းကို စစ်ဆေးနေသည်…</string>
-    <string name="access_sd_fail">USB သိုလှောင်ခန်းသို့ ဝင်၍ မရပါ။</string>
+    <string name="not_enough_space">SD ကဒ် ပြည့်နေပြီ</string>
+    <string name="preparing_sd">SD ကဒ်ကို စစ်ဆေးနေသည်…</string>
+    <string name="access_sd_fail">SD ကဒ်သို့ ဝင်၍ မရပါ။</string>
     <string name="confirm_restore_title">မူလသတ်မှတ်မှုပုံစံ အဖြစ်သို့ပြန်ထားပါ</string>
     <string name="confirm_restore_message">ကင်မရာ၏ မူလသတ်မှတ်မှုပုံစံသို့ ပြန်ထားမလား?</string>
     <string name="confirm_location_title">ဓာတ်ပုံတည်နေရာများကို မှတ်ထားမလား။</string>
@@ -431,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံရိုက်ကူးခြင်းသည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
     <string name="simple_mode_button_text_square">စတုရန်းပုံအား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>

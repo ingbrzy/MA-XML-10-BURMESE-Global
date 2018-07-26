@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">မူလနေရာကို သွားရန်</string>
-    <string name="abc_action_bar_home_description_format">%1$s၊ %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s ၊ %2$s ၊ %3$s</string>
     <string name="abc_action_bar_up_description">အပေါ်သို့သွားရန်</string>
     <string name="abc_action_menu_overflow_description">ပိုမိုရွေးချယ်စရာများ</string>
     <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
@@ -17,7 +15,7 @@
     <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
     <string name="abc_searchview_description_voice">အသံဖြင့် ရှာဖွေခြင်း</string>
     <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
     <string name="accessibility_accessibility_button">အများသုံးစွဲနိုင်မှု</string>
     <string name="accessibility_action_divider_bottom_full">အောက်ခြေ မျက်နှာပြင်အပြည့်</string>
@@ -56,10 +54,18 @@
     <string name="accessibility_compatibility_zoom_button">အံဝင်ခွင်ကျ ဇူးမ်ခလုတ်</string>
     <string name="accessibility_compatibility_zoom_example">ဖန်သားပြင်ပေါ်တွင် အသေးမှအကြီးသို့ ဇူးမ်ဆွဲခြင်း</string>
     <string name="accessibility_data_connection_1x">၁ အိတ်ဇ်</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_4g_plus">4G+</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_edge">EDGE</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_hspa">မြန်နှုန်းမြင့်အချက်အလက်ပို့လွှတ်ချက် (HSPA)</string>
     <string name="accessibility_data_connection_lte">မြန်နှုန်းမြင့်လိုင်း</string>
+    <string name="accessibility_data_connection_lte_plus">LTE+</string>
     <string name="accessibility_data_connection_roaming">ကွန်ယက်ပြင်ပဒေတာအသုံးပြုခြင်း</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_data_one_bar">ဒေတာတစ်ဘား။</string>
     <string name="accessibility_data_saver_off">ဒေတာချွေတာမှု ပိတ်ထားသည်</string>
     <string name="accessibility_data_saver_on">ဒေတာချွေတာမှု ဖွင့်ထားသည်</string>
@@ -435,6 +441,7 @@
     <string name="do_not_silence_block">အသံ မတိတ်ပါနှင့် သို့မဟုတ် မပိတ်ဆို့ပါနှင့်</string>
     <string name="dock_forced_resizable">မျက်နှာပြင် ခွဲခြမ်းပြသမှုဖြင့် အက်ပ်သည် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
     <string name="dock_non_resizeble_failed_to_dock_text">အက်ပ်သည် မျက်နှာပြင်ခွဲပြရန် ပံ့ပိုးထားခြင်းမရှိပါ။</string>
+    <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="drag_to_add_tiles">အချပ်များကိုထည့်ရန် ဖိဆွဲပါ</string>
     <string name="drag_to_remove_tiles">ဖယ်ရှားရန် ဤနေရာသို့ဖိဆွဲပါ</string>
     <string name="empty_shade_text">အကြောင်းကြားချက်များ မရှိ</string>
@@ -548,6 +555,7 @@
     <string name="keyboard_key_media_stop">ရပ်ပါ</string>
     <string name="keyboard_key_move_end">ပြီးပါပြီ</string>
     <string name="keyboard_key_move_home">ပင်မ</string>
+    <string name="keyboard_key_num_lock">Num Lock</string>
     <string name="keyboard_key_numpad_template">ဂဏန်းကွက်%1$s</string>
     <string name="keyboard_key_page_down">အောက်စာမျက်နှာသို့သွားပါ</string>
     <string name="keyboard_key_page_up">အပေါ်စာမျက်နှာသို့သွားပါ</string>
@@ -556,9 +564,12 @@
     <string name="keyboard_shortcut_group_applications">အက်ပ်များ</string>
     <string name="keyboard_shortcut_group_applications_assist">အထောက်အကူ</string>
     <string name="keyboard_shortcut_group_applications_browser">ဘရောင်ဇာ</string>
+    <string name="keyboard_shortcut_group_applications_calendar">Calendar</string>
     <string name="keyboard_shortcut_group_applications_contacts">အဆက်အသွယ်များ</string>
     <string name="keyboard_shortcut_group_applications_email">အီးမေးလ်</string>
+    <string name="keyboard_shortcut_group_applications_music">Music</string>
     <string name="keyboard_shortcut_group_applications_sms">SMS စာတိုစနစ်</string>
+    <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
     <string name="keyboard_shortcut_group_system">စနစ်</string>
     <string name="keyboard_shortcut_group_system_back">နောက်သို့</string>
     <string name="keyboard_shortcut_group_system_home">ပင်မ</string>
@@ -584,6 +595,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ်မရှိပါ သို့မဟုတ် အသုံးပြု၍မရပါ။ ဆင်းမ်ကဒ်တစ်ခု ထည့်ပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက်ကို လော့ခ်ချထားသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖွင့်ရန် စကားဝှက်ကို ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">ပင်နံပါတ်ထည့်ပါ</string>
@@ -663,6 +675,7 @@
     <string name="left_icon">လက်ဝဲသင်္ကေတ</string>
     <string name="left_keycode">လက်ဝဲကီးကုဒ်</string>
     <string name="left_nav_bar_button_type">လက်ဝဲခလုတ် အမျိုးအစားအပို</string>
+    <string name="legacy_vpn_name">VPN</string>
     <string name="local_backup_password_summary_change">စားပွဲတင်ကွန်ပျူတာကို အပြည့်အဝအရံကူးထားရန်အတွက် စကားဝှက်ကို ပြောင်းရန် သို့မဟုတ် ဖယ်ရှားရန် တို့ပါ။</string>
     <string name="local_backup_password_summary_none">အလုပ်ခုံတွင် အရန်သိမ်းဆည်းခြင်းများကို လောလောဆယ် မကာကွယ်နိုင်ပါ။</string>
     <string name="local_backup_password_title">Desktop အရန်စကားဝှက်</string>
@@ -697,12 +710,14 @@
 
 နောက်ထပ် အချက်အလက်များအတွက် သင်၏ စီမံခန့်ခွဲသူကို ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်စိတ်ချရသော အထောက်အထားများကို ဖွင့်ရန်</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ဤစက်ပစ္စည်းတွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body">စီမံသူသည် ဆက်တင်၊ ကော်ပိုရိတ်သုံးခွင့်၊ အက်ပ်၊ စက်ပစ္စည်းနှင့်ဆိုင်သောဒေတာနှင့် ၎င်း၏တည်နေရာအချက်အလက်ကိုစောင့်ကြည့်စီမံနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ သင်သည် ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_do_header_generic">သင့်စက်ပစ္စည်းကို %1$s က စီမံခန့်ခွဲထားပါသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$s သည် သင့်စက်ပစ္စည်းကို စီမံခန့်ခွဲရန် %2$s ကို အသုံးပြုပါသည်။</string>
     <string name="monitoring_description_do_learn_more">ပိုမိုလေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏ အဖွဲ့အစည်းသည် သင်၏ အလုပ်ပရိုဖိုင်တွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ်ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ပစ္စည်းကို သင်၏အဖွဲ့အစည်းက စီမံခန့်ခွဲထားပါသည်။
@@ -734,8 +749,10 @@
 
 သင်သည် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် VPN သို့လည်း ချိတ်ဆက်ထားပါသေးသည်။"</string>
     <string name="monitoring_description_vpn_settings">Open VPN ဆက်တင်များ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိအမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက်မှတ်တမ်းတင်ခြင်း</string>
+    <string name="monitoring_subtitle_vpn">VPN</string>
     <string name="monitoring_title">ကွန်ရက်ကို စောင့်ကြပ်ခြင်း</string>
     <string name="monitoring_title_device_owned">စက်ပစ္စည်း စီမံခန့်ခွဲမှု</string>
     <string name="monitoring_title_profile_owned">ပရိုဖိုင် စောင့်ကြပ်မှု</string>
@@ -759,6 +776,7 @@
     <string name="notification_done">ပြီးပါပြီ</string>
     <string name="notification_group_overflow_indicator">+ %s</string>
     <string name="notification_header_default_channel">အကြောင်းကြားချက်များ</string>
+    <string name="notification_menu_accessibility">%1$s %2$s</string>
     <string name="notification_menu_gear_description">အကြောင်းကြားချက် ထိန်းချုပ်မှုများ</string>
     <string name="notification_menu_snooze_description">အကြောင်းကြားချက်များကို ဆိုင်းငံ့ရန် ရွေးချယ်စရာများ</string>
     <string name="notification_more_settings">နောက်ထပ် ဆက်တင်များ</string>
@@ -820,6 +838,7 @@
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s လိုပါသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့်လိုပါသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သည်</string>
+    <string name="process_kernel_label">Android စနစ်</string>
     <string name="profile_owned_footer">ပရိုဖိုင်ကို စောင့်ကြပ်နိုင်သည်</string>
     <string name="qs_dnd_keep">သိမ်းထားရန်</string>
     <string name="qs_dnd_prompt_app">\"မနှောင့်ယှက်ရ\" ကို အက်ပ် (%s) က ဖွင့်ခဲ့သည်။</string>
@@ -840,6 +859,7 @@
     <string name="quick_settings_cast_detail_empty_text">ကိရိယာများ မရှိ</string>
     <string name="quick_settings_cast_device_default_description">ကာစ်တ် လုပ်ရန် အသင့် ရှိနေပြီ</string>
     <string name="quick_settings_cast_device_default_name">အမည်မတပ် ကိရိယာ</string>
+    <string name="quick_settings_cast_title">Cast</string>
     <string name="quick_settings_casting">ကာစ်တင်</string>
     <string name="quick_settings_cellular_detail_data_limit">%s ကန့်သတ်ချက်</string>
     <string name="quick_settings_cellular_detail_data_usage">ဒေတာ သုံးစွဲမှု</string>
@@ -879,6 +899,7 @@
     <string name="quick_settings_location_off_label">တည်နေရာပြမှု မရှိ</string>
     <string name="quick_settings_media_device_label">မီဒီယာ စက်ပစ္စည်း</string>
     <string name="quick_settings_more_settings">နောက်ထပ် ဆက်တင်များ</string>
+    <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_nfc_off">NFC ကို ပိတ်ထားသည်</string>
     <string name="quick_settings_nfc_on">NFC ကို ဖွင့်ထားသည်</string>
     <string name="quick_settings_night_display_label">ညအလင်းရောင်</string>
@@ -891,6 +912,7 @@
     <string name="quick_settings_rotation_locked_portrait_label">ထောင်လိုက်</string>
     <string name="quick_settings_rotation_unlocked_label">အော်တို-လည်</string>
     <string name="quick_settings_rssi_emergency_only">အရေးပေါ်ခေါ်ဆိုမှုများသာ</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_settings_label">ဆက်တင်များ</string>
     <string name="quick_settings_tethering_label">တွဲချီပေးခြင်း</string>
     <string name="quick_settings_time_label">အချိန်</string>
@@ -898,6 +920,7 @@
     <string name="quick_settings_user_new_user">အသုံးပြုသူ အသစ်</string>
     <string name="quick_settings_user_title">အသုံးပြုသူ</string>
     <string name="quick_settings_wifi_detail_empty_text">Wi-Fi ကွန်ရက် မရှိပါ</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_no_network">ကွန်ရက်မရှိပါ</string>
     <string name="quick_settings_wifi_not_connected">ချိတ်ဆက်မထားပါ</string>
     <string name="quick_settings_wifi_off_label">ဝိုင်ဖိုင်ပိတ်ရန်</string>
@@ -1007,16 +1030,18 @@
     <string name="status_bar_no_notifications_title">အကြောင်းကြားချက်များ မရှိ</string>
     <string name="status_bar_no_recent_apps">သင်၏ မကြာမီက မျက်နှာပြင်များ ဒီမှာ ပေါ်လာကြမည်</string>
     <string name="status_bar_notification_app_settings_title">%s ဆက်တင်များ</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="status_bar_notification_inspect_item_title">အကြောင်းကြားချက် ဆက်တင်များ</string>
     <string name="status_bar_ongoing_events_title">လက်ရှိအသုံးပြုမှု</string>
     <string name="status_bar_recent_inspect_item_title">အက်ပ်အချက်အလက်များ</string>
     <string name="status_bar_recent_remove_item_title">စာရင်းမှ ဖယ်မည်</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">မျက်နှာပြင်အလိုအလျောက်လှည့်ရန်</string>
+    <string name="status_bar_settings_mute_label">MUTE</string>
     <string name="status_bar_settings_notifications">သတိပေးချက်များ</string>
     <string name="status_bar_settings_settings_button">အပြင်အဆင်များ</string>
     <string name="status_bar_settings_signal_meter_disconnected">အင်တာနက်မရှိ</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">ကြိုးမဲ့ဆက်သွယ်မှု</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_use_physical_keyboard">ခလုတ်ပါဝင်သော ကီးဘုတ်</string>
     <string name="status_bar_work">အလုပ် ပရိုဖိုင်</string>
     <string name="stream_accessibility">အများသုံးစွဲနိုင်မှု</string>

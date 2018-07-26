@@ -28,9 +28,10 @@
     <string name="bt_enable_line1">ဘလူးတုသ်ဆားဗစ်ကိုအသုံးပြုရန် ပထမဦးစွာ ဘလူးတုသ်ကိုဖွင့်ပါ</string>
     <string name="bt_enable_line2">ယခုပင် ဘလူးတုသ်ကိုဖွင့်မည်လား?</string>
     <string name="bt_enable_ok">ဖွင့်မည်</string>
+    <string name="bt_enable_title" />
     <string name="bt_error_btn_ok">အိုကေ</string>
     <string name="bt_share_picker_label">ဘလူးတုသ်</string>
-    <string name="bt_sm_2_1">\"%1$s\"မှဖိုင်ကိုသိမ်းဆည်းရန်အတွက် USBသိုလှောင်မှုတွင် လုံလောက်သောနေရာမရှိပါ</string>
+    <string name="bt_sm_2_1">\"%1$s\"မှဖိုင်ကိုသိမ်းဆည်းရန်အတွက် SDကဒ်ထဲတွင် လုံလောက်သောနေရာမရှိပါ</string>
     <string name="bt_sm_2_2">လိုအပ်သော နေရာပမာဏ - %1$s</string>
     <string name="bt_toast_1">ဖိုင်ကို လက်ခံပါမည် အကြောင်းကြားချက် အကန့်ထဲတွင် တိုးတက်မှုကိုကြည့်ပါ</string>
     <string name="bt_toast_2">ဤဖိုင်ကိုလက်ခံမရပါ</string>
@@ -51,6 +52,7 @@
     <string name="download_line1">မှ - \"%1$s\"</string>
     <string name="download_line2">ဖိုင် - %1$s</string>
     <string name="download_line3">ဖိုင်အရွယ်အစား - %1$s</string>
+    <string name="download_line4" />
     <string name="download_line5">ဖိုင် လက်ခံနေပြီ</string>
     <string name="download_ok">ဖျောက်ထားမည်</string>
     <string name="download_succ_line5">လက်ခံရပြီးဖိုင်</string>
@@ -90,7 +92,9 @@
     <string name="opp_notification_group">ဘလူးတုသ် မျှဝေမှု</string>
     <string name="outbound_history_title">ပြန်လည်ထွက်မည့် လွှဲမှုများ</string>
     <string name="outbound_noti_title">ဘလူးတုသ် ဝေမျှမှု - ဖိုင်ပို့ပြီး</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">%1$sနှင့် ဆက်သွယ်မှုကိုလက်ခံရန် အချိန်ကုန်သွားပါသည်</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">%1$sနှင့် ဆက်ရှင်ကီးကို ရိုက်သွင်းရန်အချိန် ကုန်သွားပါသည်</string>
     <string name="pbap_notification_group">ဘလူးတုသ်ဖြင့် အဆက်အသွယ်မျှဝေခြင်း</string>
     <string name="pbap_session_key_dialog_header">ဘလူးတုသ် ဆက်ရှင်ကီး လိုအပ်ပါသည်</string>
@@ -104,7 +108,7 @@
     <string name="status_connection_error">ချိတ်ဆက်ခြင်း မအောင်မြင်ပါ</string>
     <string name="status_file_error">သိုလှောင်မှု အချက်</string>
     <string name="status_forbidden">ဦးတည်ရာစက်မှ လွှဲပြောင်းခြင်းကို တားမြစ်ခြင်း</string>
-    <string name="status_no_sd_card">USBသိုလှောင်ရာမရှိပါ</string>
+    <string name="status_no_sd_card">SDကဒ်မရှိပါ၊ လွှဲပြောင်းထားသော ဖိုင်များကို သိမ်းဆည်းရန် SDကဒ်ထည့်ပါ</string>
     <string name="status_not_accept">အကြောင်းအရာသည် အထောက်အပံ့မဖြစ်ပါ</string>
     <string name="status_pending">ဖိုင်လွှဲပြောင်းခြင်း မစရသေးပါ</string>
     <string name="status_protocol_error">တောင်းခံခြင်းကို မှန်ကန်စွာကိုင်တွယ်မရပါ</string>

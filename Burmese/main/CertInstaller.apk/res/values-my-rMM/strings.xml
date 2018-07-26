@@ -26,8 +26,8 @@
     <string name="cert_too_large_error">အသိအမှတ်ပြုလက်မှတ်ဖိုင် အရွယ် ကြီးသောကြောင့် ထည့်သွင်းခြင်း မပြုနိုင်ပါ</string>
     <string name="cert_missing_error">အသိအမှတ်ပြုလက်မှတ် မတွေ့သောကြောင့် ထည့်သွင်းခြင်း မပြုနိုင်ပါ</string>
     <string name="cert_read_error">အသိအမှတ်ပြုလက်မှတ်ဖိုင်အား ဖတ်မရသောကြောင့် ထည့်သွင်းခြင်း မပြုနိုင်ပါ</string>
-    <string name="no_cert_file_found">USBသိုလှောင်ရာထဲတွင် မည်သည့်အသိအမှတ်ပြုလက်မှတ်ဖိုင်မှမရှိပါ</string>
-    <string name="sdcard_not_present">USBသိုလှောင်ရာမရှိပါ</string>
+    <string name="no_cert_file_found">SDကဒ်ထဲတွင်မည်သည့်အသိအမှတ်ပြုလက်မှတ်ဖိုင်ကိုမှမတွေ့ရှိပါ။</string>
+    <string name="sdcard_not_present">SD ကဒ် မရှိပါ</string>
     <string name="only_primary_user_allowed">ဤစက်ပိုင်ရှင်မှသာ အသိအမှတ်ပြုလက်မှတ် များ ထည့်သွင်းနိုင်ပါလိမ့်မည်</string>
     <string name="credential_usage_label">Credential အသုံးပြုပုံ:</string>
     <string name="wifi_title">ဝိုင်ဖိုင် ပရိုဖိုင်</string>

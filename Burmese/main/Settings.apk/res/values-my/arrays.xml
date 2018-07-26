@@ -15,6 +15,11 @@
         <item>CHAP</item>
         <item>PAP သို့မဟုတ် CHAP</item>
     </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
     <string-array name="app_install_location_entries">
         <item>စက်တွင်းသိုလှောင်ကိရိယာ</item>
         <item>ဖယ်ရှား၍ရသောSDကဒ်</item>
@@ -265,6 +270,11 @@
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (မူလ)</item>
         <item>AVRCP 1.5</item>
@@ -356,6 +366,12 @@
         <item>၅ မိနစ်</item>
         <item>၁၀ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>တစ်ခုမှမဟုတ်ပါ</item>
@@ -593,6 +609,15 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
