@@ -191,6 +191,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -359,9 +360,18 @@
     <string name="no_subject_view">(အကြောင်းအရာမပါ)</string>
     <string name="non_english_subject_limit">စာလုံး ၁၃ လုံး ကန့်သတ်ထားသည်</string>
     <string name="nosend_message">မပို့ပါ</string>
+    <string name="notification_channel_msg_description">မက်ဆေ့ချ်မှ အသိပေးချက်များ</string>
+    <string name="notification_channel_msg_name">မက်ဆေ့ချ်</string>
+    <string name="notification_channel_other_description">အခြား အသိပေးချက်များ</string>
+    <string name="notification_channel_other_name">အခြားအရာ</string>
+    <string name="notification_channel_sim1_description">ဆင်းမ် ၁ မက်ဆေ့ချ်မှ အသိပေးချက်များ</string>
+    <string name="notification_channel_sim1_name">ဆင်းမ် ၁ မက်ဆေ့ချ်</string>
+    <string name="notification_channel_sim2_description">ဆင်းမ် ၂ မက်ဆေ့ချ်မှ အသိပေးချက်များ</string>
+    <string name="notification_channel_sim2_name">ဆင်းမ် ၂ မက်ဆေ့ချ်</string>
     <string name="notification_copy">OTP အား ကော်ပီကူးပါ</string>
     <string name="notification_failed_multiple">မက်ဆေ့ချ် %s စောင်ကို ပို့လို့မရပါ</string>
     <string name="notification_failed_multiple_title">မက်ဆေ့ချ်ပို့လို့မရပါ</string>
+    <string name="notification_group_name">မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">မက်ဆေ့ချ်အသစ်များ</string>
     <string name="number_add_hint">ဖုန်းနံပါတ်ထည့်ပါ</string>
@@ -396,7 +406,7 @@
     <string name="pref_show_sms_template_entry_summary">တစ်ခါသုံး စကားဝှက်အား ဖျက်၍ အမြန်မီနူး ပြပါ</string>
     <string name="pref_show_sms_template_in_summary">SMS မက်ဆေ့ချ်များထဲရှိ တစ်ကြိမ်သုံး စကားဝှက်များအား အလိုအလျောက် ထောက်လှမ်းပါ</string>
     <string name="pref_show_sms_template_summary">ကုဒ်များ ကူးယူခြင်း၊ လက်ကျန်ငွေစစ်ဆေးခြင်း စသော Mi မက်ဆေ့ချ်၏ စမတ်လုပ်ဆောင်ချက်များအား အသုံးပြုရန် ဖွင့်ပါ</string>
-    <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်များ</string>
+    <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်</string>
     <string name="pref_sms_storage_title">သိုလှောင်ခန်း</string>
     <string name="pref_sms_theme_title">ပြသချက်</string>
     <string name="pref_summary_allow_si_sl_push">မက်ဆေ့ချ်များအား ဝက်ဘ်ပေါ်မှ အကြောင်းအရာကို ဖတ်ခွင့်ပြုမည်</string>
@@ -540,6 +550,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -651,6 +662,7 @@
     <string name="unstick">ဆွဲဖြုတ်ပါ</string>
     <string name="unstick_conversation">လက်ရှိ စကားပြောဆိုထားမှု ဆွဲဖြုတ်ပါ</string>
     <string name="unsticked_conversation">စကားပြောဆိုထားမှုကို ဆွဲဖြုတ်ထားပြီး ဖြစ်သည်</string>
+    <string name="unsubscribe">မမှာယူတော့ပါ</string>
     <string name="unsupported_media_format">ထောက်ပံ့မပေးထားသော %1$s ဖောမတ်။</string>
     <string name="url_fraud_dangerous_alert">"သင်ဝင်ရောက်ရန် ကြိုးစားနေသော ဝက်ဘ်ဆိုက်မှာ အန္တာရာယ်ရှိနိုင်ပါသည်။ သင့်စက်နှင့် ဒေတာများအား ဖျက်စီးပစ်နိုင်ပါသည်။ မည်သို့ပင်မဆို ဝင်ရောက်မည်လား?
 %s"</string>
@@ -671,6 +683,4 @@
     <string name="wild_msg_title">ဆင့်ခ်လုပ်ရန် ဖုန်းနံပါတ်ရွေးချယ်ပါ</string>
     <string name="yes">အိုကေ</string>
     <string name="yesterday">မနေ့က</string>
-    <string name="notification_channel_description">မက်ဆေ့ချ်ပို့ခြင်းမှ အသိပေးချက်များ</string>
-    <string name="notification_channel_name">မက်ဆေ့ချ်ပို့ခြင်း</string>
 </resources>

@@ -45,7 +45,7 @@
     <string name="phone_locked_account_phone">၊ဆက်စပ်ဖုန်းနံပါတ်−%s</string>
     <string name="password">စကားဝှက်</string>
     <string name="captcha">ကက်ပ်ချာ</string>
-    <string name="stop_on_empty_password">စကားဝှက်ကွက်လပ်ဖြစ်၍မရပါ</string>
+    <string name="stop_on_empty_password">စကားဝှက် လွတ်နေ၍မရပါ</string>
     <string name="stop_on_empty_captcha">ကက်ပ်ချာ ကွက်လပ်ဖြစ်၍မရပါ</string>
     <string name="verifing_account">စကားဝှက်အား စစ်ဆေးနေ…</string>
     <string name="doing_extra_login_steps">ဆိုင်းအင်ဝင်ရောက်မှုအား စစ်ဆေးနေ…</string>

@@ -13,6 +13,6 @@
         <item quantity="other">%d စက္ကန့် ကျန်သေးသည်</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">အက္ခရာ %s ခု</item>
+        <item quantity="other">အက္ခရာ %d ခု</item>
     </plurals>
 </resources>

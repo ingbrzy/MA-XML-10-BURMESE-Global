@@ -209,6 +209,9 @@
     <plurals name="found_apps_title">
         <item quantity="other">အက်ပ် %d ခုကို တွေ့ရှိခဲ့သည်</item>
     </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်မည်(%d စက္ကန့်)</item>
+    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">သော့ခတ်ထားသော အက်ပ် %d ခုရှင်းလင်းရန် စောင့်နေ</item>
     </plurals>

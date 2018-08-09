@@ -291,7 +291,7 @@
     <string name="preferences_week_start_day_dialog">ရက်သတ္တတစ်ပတ်၏ အစ</string>
     <string name="preferences_week_start_day_title">ရက်သတ္တတစ်ပတ်၏ အစ</string>
     <string name="pull_to_refresh_hint">%1$d မှ လုပ်ငန်းစဉ်ကို ကြည့်ရှုရန် ဆွဲချပါ</string>
-    <string name="refresh">ပြန်လန်းဆန်း</string>
+    <string name="refresh">ရီဖရက်ရှ်</string>
     <string name="refreshing_hint">ခဏစောင့်ပါ…</string>
     <string name="repeat_activity_label">ထပ်ခါလုပ်ပါ</string>
     <string name="repeat_custom_activity_label">ကိုယ်တိုင်စီစဉ်ပါ</string>
@@ -421,4 +421,5 @@
     <string name="xiaomi_calendar_display_name">Mi အကောင့် ပြက္ခဒိန်</string>
     <string name="yearly">နှစ်စဉ် (%s တိုင်း)</string>
     <string name="yearly_plain">နှစ်စဉ်</string>
+    <string name="discard_label">ပယ်ဖျက်မည်</string>
 </resources>

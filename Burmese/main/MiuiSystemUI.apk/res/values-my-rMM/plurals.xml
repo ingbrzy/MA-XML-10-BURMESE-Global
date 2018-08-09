@@ -21,15 +21,6 @@
     <plurals name="incorrect_pukcode_remaining_attempts">
         <item quantity="other">PUK ကုဒ် မမှန်ကန်ပါ၊ ကြိုးစားခွင့် %d ကြိမ် ကျန်သေးသည်</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">"အားပြည့်ရန် %d  နာရီ လိုသည်"</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">"အားပြည့်ရန် %d  မိနစ်သာ လိုသည်"</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">"အားပြည့်ရန် %1$d  နာရီ %2$d  မိနစ် လိုသည်"</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"%d  နာရီခန့် သုံးနိုင်သည်"</item>
     </plurals>
@@ -55,7 +46,7 @@
         <item quantity="other">ယခု ဆင်းမ်ကဒ်အား သုံး၍မရပါ။ ဆက်လက်လုပ်ဆောင်ရန် PUK ကုဒ် ရိုက်ထည့်ပါ။ သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။ အသေးစိတ်သိရှိရန် ဖုန်းလိုင်းကုမ္ပဏီသို့ ဆက်သွယ်ပါ။</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">ဆင်းမ် PIN ကုဒ် မမှန်ကန်ပါ၊ သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။</item>
+        <item quantity="other">ဆင်းမ် PIN ကုဒ် မမှန်ကန်ပါ။ သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">ဆင်းမ် PUK ကုဒ် မမှန်ကန်ပါ၊ ဆင်းမ်ကဒ် အပြီးတိုင် သုံးမရမီ သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။</item>

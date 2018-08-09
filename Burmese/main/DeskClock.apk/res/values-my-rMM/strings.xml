@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">ပါဝါပိတ်ပြီးနောက် နှိုးစက်နိုးလာလိမ့်မည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -156,6 +157,7 @@
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,10 +176,14 @@
     <string name="timer_alert_type_rain">မိုး</string>
     <string name="timer_alert_type_stove_fire">မီးဖို</string>
     <string name="timer_alert_type_summer_night">နွေည</string>
+    <string name="timer_cancel_hint">ရပ်တန့်ပါ</string>
     <string name="timer_cancel_timer">တိုင်မာ ဖျက်သိမ်းပါ</string>
     <string name="timer_clock_alert_text">အချိန်သတ်မှတ်ပါ</string>
     <string name="timer_continue">ဆက်လုပ်ရန်</string>
     <string name="timer_continue_timer">တိုင်မာအား ပြန်စပါ</string>
+    <string name="timer_end_time">%sတွင် တိုင်မာ ရပ်သွားလိမ့်မည်</string>
+    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">အိုကေ</string>
     <string name="timer_item_duration_display">%1$d မိနစ် %2$d စက္ကန့်</string>
     <string name="timer_item_label_hint">စံချိန်စက်အမည်</string>
@@ -212,6 +218,4 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">နာရီ</string>
     <string name="worldcolock_timezone_local">ဒေသစံတော်ချိန်နှင့် တူညီသည်</string>
-    <string name="timer_pause_hint">ခေတ္တရပ်ဆိုင်းပါ</string>
-    <string name="timer_running_hint">ဆက်လက်လုပ်ဆောင်မည်</string>
 </resources>

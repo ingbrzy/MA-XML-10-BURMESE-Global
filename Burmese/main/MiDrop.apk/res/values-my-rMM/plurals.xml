@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="delete_confirm_multiple_files">
+    <plurals name="a">
         <item quantity="other">ရွေးထားသော ဖိုင် %d ခုအား ဖျက်မလား?</item>
     </plurals>
-    <plurals name="notif_receive_cancel">
+    <plurals name="b">
         <item quantity="other">%1$s ထံမှ လွှဲပြောင်းမှုအား ပယ်ဖျက်လိုက်သည်</item>
     </plurals>
-    <plurals name="notif_receive_progress">
+    <plurals name="c">
         <item quantity="other">ဖိုင် %1$s ခု လက်ခံနေသည်…</item>
     </plurals>
-    <plurals name="notif_receive_success">
+    <plurals name="d">
         <item quantity="other">%1$s ထံမှ ဖိုင်ကို အောင်မြင်စွာ လက်ခံခဲ့သည်</item>
     </plurals>
-    <plurals name="receiver_file_num">
+    <plurals name="e">
         <item quantity="other">%1$s ထံမှ ဖိုင် %2$d ခု</item>
     </plurals>
-    <plurals name="selected_file_num">
+    <plurals name="f">
         <item quantity="other">ရွေးထားသော အိုင်တမ် %d ခု</item>
     </plurals>
-    <plurals name="sender_file_num">
+    <plurals name="g">
         <item quantity="other">အိုင်တမ် %1$d ခု</item>
     </plurals>
-    <plurals name="transfer_list_received_header">
+    <plurals name="h">
         <item quantity="other">ဖိုင် %1$dခု (%2$s)အား လက်ခံရရှိသည်</item>
     </plurals>
-    <plurals name="transfer_list_sent_header">
+    <plurals name="i">
         <item quantity="other">ဖိုင် %1$dခု (%2$s)အား ပေးပို့သည်</item>
     </plurals>
 </resources>

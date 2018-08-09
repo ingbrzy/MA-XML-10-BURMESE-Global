@@ -86,4 +86,7 @@
     <string name="sleepmode_privacy_link">ကိုယ်ရေးအချက်အလက်လုံခြုရေးအကြောင်း ပိုမိုသိရှိရန်</string>
     <string name="sleepmode_disclaimer_cancel">ပယ်ဖျက်မည်</string>
     <string name="sleepmode_disclaimer_agree">သဘောတူပါသည်</string>
+    <string name="appconfig_active_app_dialog_title">အသုံးများသော အက်ပ်များကို စီမံမည်</string>
+    <string name="config_classify">အက်ပ် ဆက်တင်အလိုက် စီပါ</string>
+    <string name="active_classify">လှုပ်ရှားမှု အခြေအနေအလိုက် စီပါ</string>
 </resources>

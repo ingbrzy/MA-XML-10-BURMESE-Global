@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -194,7 +195,7 @@
     <string name="deepclean_normal_title">အလိုအလျောက် ရှင်းပစ်ပါ</string>
     <string name="deepclean_normal_item_desc1">အမှိုက်ပုံးဖိုင်များ</string>
     <string name="deepclean_normal_item_desc2">သန့်ရှင်းသူလုပ်ဆောင်ချက်များသည် စနစ်လုပ်ဆောင်ချက်အပေါ်တွင် သက်ရောက်မှုရှိလိမ့်မည် မဟုတ်ပါ</string>
-    <string name="deepclean_1_k_clean">အမြန်ရှင်းလင်း</string>
+    <string name="deepclean_1_k_clean">မှတ်ဉာဏ်ကို ရှင်းပစ်ပါ</string>
     <string name="similar_image_title">ဓာတ်ပုံများ</string>
     <string name="similar_image_desc">သဏ္ဍာန်တူသော ဓါတ်ပုံများအား ဖျက်ပစ်ပါ</string>
     <string name="similar_image_scaning">စစ်ဆေးနေသည်…</string>
@@ -298,6 +299,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
@@ -326,7 +328,7 @@
     <string name="title_of_garbage_cloud_scan">ကလောက် စကန်</string>
     <string name="tips_of_garbage_cloud_scan">ကလောက်စကန်နှင့်ဖွက်ထားသော အမှိုက်များအား ရှာဖွေပါ</string>
     <string name="title_of_operators_set">ဖုန်းလိုင်းကုမ္ပဏီဆိုင်ရာ ဆက်တင်များ</string>
-    <string name="tips_of_operators_set">ဒေတာအသုံးချမှု အခြေအနေအား အလိုအလျောက်ညှိပါ</string>
+    <string name="tips_of_operators_set">ဒေတာသုံးစွဲမှု အခြေအနေအား အလိုအလျောက် ညှိပါ</string>
     <string name="set_immediately">သတ်မှတ်</string>
     <string name="title_of_network_speed_set">အခြေအနေပြဘားတွင် ကွန်ရက်အခြေအနေအား ပြသပါ</string>
     <string name="tips_of_network_speed_set">အခြေအနေပြဘားတွင် ကွန်ရက်အမြန်နှုန်းအာ ပြသပါ</string>
@@ -339,7 +341,7 @@
     <string name="total_clean_text">ရှင်းပစ်ပါ</string>
     <string name="cached_garbage">ကက်ချ်</string>
     <string name="grabage_rank_title">ယနေ့ရှင်းလင်းခဲ့သော</string>
-    <string name="flow_rank_title">ဒေတာအသုံးစွဲမှု</string>
+    <string name="flow_rank_title">ဒေတာ သုံးစွဲမှု</string>
     <string name="hot_today">ယနေ့လူကြိုက်များသော</string>
     <string name="see_more">နောက်ထပ်</string>
     <string name="sponsored">အားပေးထားသော</string>
@@ -528,7 +530,7 @@
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
-    <string name="main_total_garbage">စုစုပေါင်း အမှိုက်</string>
+    <string name="main_total_garbage">အမှိုက် အရွယ်အစား</string>
     <string name="whatsapp_group_image">ရုပ်ပုံ</string>
     <string name="whatsapp_group_video">ဗီဒီယို</string>
     <string name="whatsapp_group_voice">အသံ မက်ဆေ့ချ်</string>
@@ -554,4 +556,14 @@
     <string name="whatsapp_title">WhatsApp သန့်ရှင်းရေး</string>
     <string name="whatsapp_function_title">WhatsApp သန့်ရှင်းရေး</string>
     <string name="whatsapp_function_summery">WhatsApp ပူးတွဲဖိုင်များအား ရှင်းပစ်ပါ</string>
+    <string name="clean_summary">ဖိုင် %1$s ခုအား ရှင်းလင်းခဲ့သည်</string>
+    <string name="onekeyclean_boosting_title">အရှိန်မြှင့်နေသည်</string>
+    <string name="onekeyclean_boosted_title">ရှင်းလင်းပြီးပါပြီ</string>
+    <string name="onekeyclean_boost_cleaned">%s ရှင်းခဲ့သည်</string>
+    <string name="onekeyclean_boost_available">%s ရနိုင်သည်</string>
+    <string name="onekeyclean_card_summery">နေရာလွတ်ရရန် အမှိုက်များအား ရှင်းပစ်ပါ</string>
+    <string name="onekeyclean_card_btn">ယခု ရှင်းလင်းမည်</string>
+    <string name="memory_clean_icon_text">မှတ်ဉာဏ်အား ရှင်းပစ်ပါ</string>
+    <string name="pref_title_create_onekeyclean_shortcut">ပင်မမျက်နှာပြင် ရှော့ကဒ် ပြပါ</string>
+    <string name="memory_clean_no_trash_tip">အရာအားလုံး အဆင်ပြေပါသည်</string>
 </resources>

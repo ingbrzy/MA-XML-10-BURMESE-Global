@@ -35,6 +35,7 @@
     <string name="accessibility_camera_button">ကင်မရာ</string>
     <string name="accessibility_carrier_network_change_mode">ဖုန်းလိုင်းကုမ္ပဏီ ကွန်ရက်အား ပြောင်းနေသည်။</string>
     <string name="accessibility_cast_name">%s သို့ ချိတ်ဆက်ပြီးပါပြီ။</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">မျက်နှာပြင်ကာစ်တင်အား ရပ်လိုက်သည်။</string>
     <string name="accessibility_cell_data">မိုဘိုင်းဒေတာ</string>
     <string name="accessibility_cell_data_off">မိုဘိုင်းဒေတာ ပိတ်ထားသည်</string>
@@ -85,7 +86,7 @@
     <string name="accessibility_gps_enabled">GPS ဖွင့်ထားသည်။</string>
     <string name="accessibility_home">အိမ်</string>
     <string name="accessibility_ime_switch_button">ထည့်သွင်းနည်းလမ်းပြောင်းပါ</string>
-    <string name="accessibility_key">Custom navigation button</string>
+    <string name="accessibility_key">လမ်းညွှန်ခလုတ်များအား စိတ်ကြိုက်စီမံမည်</string>
     <string name="accessibility_left_button">ရှော့ကဒ်</string>
     <string name="accessibility_location_active">တည်နေရာရယူရန် တောင်းခံနေသည်</string>
     <string name="accessibility_managed_profile">အလုပ် ပရိုဖိုင်</string>
@@ -127,6 +128,7 @@
     <string name="accessibility_quick_settings_airplane_off">လေယာဉ်မုဒ် ပိတ်မည်။</string>
     <string name="accessibility_quick_settings_airplane_on">လေယာဉ်မုဒ် ဖွင့်မည်။</string>
     <string name="accessibility_quick_settings_alarm">%s အတွက် နှိုးစက်လုပ်ထားသည်။</string>
+    <string name="accessibility_quick_settings_alarm_on">နှိုးစက်အား ဖွင့်ပါ။</string>
     <string name="accessibility_quick_settings_alarm_set">နှိုးစက် သတ်မှတ်မည်။</string>
     <string name="accessibility_quick_settings_battery">ဘက်ထရီ %s။</string>
     <string name="accessibility_quick_settings_bluetooth">ဘလူးတုသ်။</string>
@@ -134,6 +136,7 @@
     <string name="accessibility_quick_settings_bluetooth_changed_on">ဘလူးတုသ် ဖွင့်ထားသည်။</string>
     <string name="accessibility_quick_settings_bluetooth_connected">ဘလူးတုသ် ချိတ်ဆက်ထားသည်။</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">ဘလူးတုသ် ချိတ်ဆက်နေသည်။</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">ဘလူးတုသ်စက် ဘက်ထရီ %d ရာခိုင်နှုန်း။</string>
     <string name="accessibility_quick_settings_bluetooth_off">ဘလူးတုသ် ပိတ်ပါ။</string>
     <string name="accessibility_quick_settings_bluetooth_on">ဘလူးတုသ် ဖွင့်ပါ။</string>
     <string name="accessibility_quick_settings_close">ပန်နယ် ပိတ်ပါ။</string>
@@ -245,7 +248,7 @@
     <string name="adb_warning_message">USBဒီဘာဂင်သည် ပြုစုပျိုးထောင်မှုအတွက်သာ ဖြစ်သည်။ သင့်ကွန်ပျူတာနှင့် စက်အကြား ဒေတာကော်ပီကူးခြင်း၊ သင့်စက်တွင် အက်ပ်များထည့်သွင်းတပ်ဆင်ခြင်းတို့ကို သတိပေးချက် ပေးပို့ခြင်းနှင့် မှတ်တမ်းဒေတာဖတ်ယူခြင်း မရှိဘဲ အသုံးပြုနိုင်သည်။</string>
     <string name="adb_warning_title">USB ဒီဘာဂင်ကို ခွင့်ပြုမလား?</string>
     <string name="add_tile">ဘလောက် ပေါင်းထည့်ပါ</string>
-    <string name="adjust_button_width">Adjust button width</string>
+    <string name="adjust_button_width">ခလုတ်အနံ ချိန်ညှိမည်</string>
     <string name="airplane_mode">လေယာဉ်မုဒ်</string>
     <string name="alarm_template">%1$sတွင်</string>
     <string name="alarm_template_far">%1$sတွင်</string>
@@ -257,7 +260,7 @@
     <string name="apn_settings_not_available">ဤသုံးစွဲသူအတွက် ဝင်ရောက်ပွိုင့်အမည်ဆက်တင်များ မရနိုင်ပါ</string>
     <string name="app_info">အက်ပ် အချက်အလက်</string>
     <string name="app_label">စနစ်UI</string>
-    <string name="app_name">ကီးခလုတ်ကာကွယ်သူ</string>
+    <string name="app_name">သော့ခတ် မျက်နှာပြင်</string>
     <string name="app_process_limit_title">နောက်ခံလုပ်ငန်းစဉ်ကို ကန့်သတ်မည်</string>
     <string name="as_important">အရေးကြီးသော</string>
     <string name="as_unimportant">အရေးမကြီးသော</string>
@@ -394,7 +397,7 @@
     <string name="camera_key_action_toggle_title">အထိန်းခလုတ် နှိပ်ပါ</string>
     <string name="camera_label">ကင်မရာ ဖွင့်ပါ</string>
     <string name="cancel">ပယ်ဖျက်ပါ</string>
-    <string name="car_lockscreen_disclaimer_text">Stay fully aware of driving conditions and always obey applicable laws. Directions may be inaccurate, incomplete, dangerous, not suitable, prohibited, or involve crossing administrative areas. Business information may also be inaccurate or incomplete. Data is not real-time, and location accuracy cannot be guaranteed. Do not handle your mobile device or use apps not intended for Android Auto while driving.</string>
+    <string name="car_lockscreen_disclaimer_text">မောင်းနှင်မှု အခြေအနေအား အမြဲသတိပြုပါ၊ သက်ဆိုင်ရာ ဥပဒေများကိုလည်း လိုက်နာပါ။ လမ်းညွှန်မှုသည် မတိကျခြင်း၊ မပြည့်စုံခြင်းများ ရှိနိုင်သည်။ ဖြတ်ကူးရာတွင် အန္တာရာယ်ရှိသော၊ မသင့်တော်သော သို့မဟုတ် တားမြစ်ထားသော နေရာဒေသများလည်း ပါဝင်နိုင်သည်။စီးပွားရေး အချက်အလက်များသည်လည်း မတိကျ၊ မပြည့်စုံမှု ရှိနိုင်ပါသည်။ ဒေတာသည် တစ်ချိန်တည်းနှင့် တည်နေရာ တိကျမှန်ကန်မှုကို အာမ မခံပါ။ မောင်းနှင်နေစဥ် မိုဘိုင်းဖုန်းအား မကိုင်ပါနှင့်၊ သို့မဟုတ် အန်းဒရွိုက်အော်တိုမပါသော အက်ပ်များအား မသုံးစွဲပါနှင့်။</string>
     <string name="car_lockscreen_disclaimer_title">အန္တရာယ်ကင်းစွာ မောင်းနှင်ပါ</string>
     <string name="category_personal">ကိုယ်ရေးကိုယ်တာ</string>
     <string name="category_work">အလုပ်</string>
@@ -436,7 +439,7 @@
     <string name="daltonizer_type_overridden">%1$s မှ ဖုံးအုပ်ပြီး</string>
     <string name="data_connection_no_internet">အင်တာနက်သို့ မချိတ်ဆက်ထားပါ</string>
     <string name="data_saver">ဒေတာချွေတာသူ</string>
-    <string name="data_saver_description">To help reduce data usage, Data Saver prevents some apps from sending or receiving data in the background. An app you’re currently using can access data, but may do so less frequently. This may mean, for example, that images don’t display until you tap them.</string>
+    <string name="data_saver_description">ဒေတာသုံးစွဲမှု လျော့ချစေရန် ဒေတာချွေတာရေးမှ အက်ပ်အချို့အား နောက်ခံတွင် ဒေတာပေးပို့ခြင်းနှင့် လက်ခံခြင်းကို တားမြစ်ထားသည်။ လက်ရှိ သင်သုံးနေသော အက်ပ်သည် ဒေတာသို့ ဝင်ရောက်နိုင်ပါသည်၊ သို့သော် ဝင်ရောက်သော အကြိမ်ရေ နည်းစေမည်။ ဆိုလိုသည်မှာ၊ ဥပမာ- ရုပ်ပုံများကို မထိနှိပ်ပါက ပြသမည် မဟုတ်ပါ။</string>
     <string name="data_saver_enable_button">ဖွင့်မည်</string>
     <string name="data_saver_enable_title">ဒေတာချွေတာရေးအား ဖွင့်မလား?</string>
     <string name="data_usage_disabled_dialog">"သင်သတ်မှတ်ထားသော ဒေတာအကန့်အသတ်သို့ ရောက်ရှိပြီ။ မိုဘိုင်းဒေတာအား ပိတ်လိုက်ပါပြီ။
@@ -695,6 +698,7 @@
     <string name="incorrect_pukcode">PUK ကုဒ် မမှန်ပါ</string>
     <string name="input_password_after_boot_msg">သင့်စက်အား လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် နေရာနှစ်ခုအကြား ကူးပြောင်း၍မရပါ</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">မိသားစု အကာအကွယ်အား ဖွင့်ထားပါက နေရာတစ်ခုနှင့်တစ်ခုကြား ကူးပြောင်း၍ မရပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်အားရီဘုလုပ်ပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_handle_sdcard_fs">သော့ခတ်မျက်နှာပြင်မှ ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ။ ပထမနေရာမှ ဝင်ရောက်ပါ။</string>
     <string name="input_password_hint_text">စကားဝှက် ရိုက်ထည့်ပါ</string>
@@ -772,10 +776,14 @@
     <string name="keyguard_accessibility_pin_area">PIN ဧရိယာ</string>
     <string name="keyguard_accessibility_sim_pin_area">ဆင်းမ် PIN ဧရိယာ</string>
     <string name="keyguard_accessibility_sim_puk_area">ဆင်းမ် PUK ဧရိယာ</string>
-    <string name="keyguard_carrier_default">ဝန်ဆောင်မှု မရှိပါ။</string>
+    <string name="keyguard_carrier_default">ဝန်ဆောင်မှု မရှိပါ</string>
     <string name="keyguard_charged">အားသွင်းပြီးပြီ</string>
     <string name="keyguard_charging_info_battery_used_time_text">သုံးစွဲချိန်</string>
     <string name="keyguard_charging_info_click_to_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">အားကုန်သွားခဲ့သော</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
@@ -785,7 +793,7 @@
     <string name="keyguard_charging_info_tip_text2">သင့်စက် အားသွင်းချိန် မလွန်ပါစေနှင့်။ မကြာမကြာ အားသွင်းခြင်းသည် ညလုံးပေါက်အားသွင်းခြင်းထက် ပိုကောင်းပါသည်။</string>
     <string name="keyguard_charging_info_tip_text3">ပတ်ဝန်းကျင်းအပူချိန် ၀℃ ထက်နည်းနေပါက ဖုန်းကို အားမသွင်းပါနှင့်။</string>
     <string name="keyguard_charging_info_tip_text4">အပူချိန်လွန်ကဲခြင်းကို ရှောင်ရှားရန် အားသွင်းနေစဉ် စက်ကို ခဏခဏမသုံးပါနှင့်။</string>
-    <string name="keyguard_charging_info_tip_text5">ဘက်ထရီသည်ပူလာပါက အားပြည့်ရန် ပုံမှန်ထက်ပို၍ ကြာနိုင်ပါသည်။</string>
+    <string name="keyguard_charging_info_tip_text5">ဘက်ထရီသည် ပုံမှန်ထက် ပူသောအခါ အားသွင်းရာတွင် အချိန်ပိုကြာနိုင်သည်။</string>
     <string name="keyguard_charging_info_tip_text6">စက်ကို အအေးခံရန် မျက်နှာပြင်ကို ပိတ်ပြီး စက်ကို ချထားလိုက်ပါ။</string>
     <string name="keyguard_indication_charging_time">အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_charging_time_fast">အမြန် အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
@@ -799,20 +807,21 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ် ပျောက်နေသည် သို့မဟုတ် ဖတ်၍မရပါ။ ဆင်းမ်ကဒ် တစ်ခု ထည့်သွင်းပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
-    <string name="keyguard_network_locked_message">ကွန်ယက် လော့ခ်ကျနေသည်</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="keyguard_network_locked_message">ကွန်ရက် လော့ခ်ကျနေသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
-    <string name="keyguard_password_enter_pin_code">PIN ကုဒ် ရိုက်ထည့်ပါ</string>
+    <string name="keyguard_password_enter_pin_code">PIN ကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_password_code">လော့ခ်ဖြည်ရန် PIN ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_prompt">ဆင်းမ် PIN ကုဒ်အသစ်</string>
     <string name="keyguard_password_enter_puk_code">ဆင်းမ် PUK နှင့် PIN ကုဒ်အသစ် ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_puk_prompt">ဆင်းမ် PUK ကုဒ်</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">စကားဝှက် ရိုက်ထည့်ရန် ထိနှိပ်ပါ</font></string>
-    <string name="keyguard_password_wrong_pin_code">PIN ကုဒ် မမှန်ပါ။</string>
+    <string name="keyguard_password_wrong_pin_code">PINကုဒ် မှားနေသည်။</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"သင့် ဆင်းမ်ကဒ်အား ရာသက်ပန်ပိတ်လိုက်ပါပြီ။
  ကြိုးမဲ့ဆက်သွယ်ရေးသို့ အကြောင်းကြားပြီး အခြား ဆင်းမ်ကဒ်တစ်ခု ရယူပါ။"</string>
     <string name="keyguard_permanent_disabled_sim_message_short">ဆင်းမ်ကဒ် သုံး၍ မရပါ။</string>
     <string name="keyguard_plugged_in">အားသွင်းနေသည်</string>
-    <string name="keyguard_plugged_in_charging_fast">မြန်ဆန်စွာ အားသွင်းနေသည်</string>
+    <string name="keyguard_plugged_in_charging_fast">အမြန် အားသွင်းနေသည်</string>
     <string name="keyguard_plugged_in_charging_slowly">နှေးကွေးစွာ အားသွင်းနေသည်</string>
     <string name="keyguard_quick_charging_info_click_to_detail">အမြန် အားသွင်းနေသည်။ အသေးစိတ်များကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
     <string name="keyguard_sim_locked_message">ဆင်းမ်ကဒ် လော့ခ်ကျသွားသည်။</string>
@@ -820,7 +829,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">ဆင်းမ်ကဒ်အား လော့ခ်ဖြည်နေသည်…</string>
     <string name="keyguard_torch_cover_text">ဓာတ်မီး ဆက်ဖွင့်ထားရန်၊ ပါဝါခလုတ်ကို ကိုင်ထားပါ</string>
     <string name="keyguard_unlock">သော့ဖွင့်ရန် အပေါ်သို့ပွတ်ဆွဲပါ</string>
-    <string name="kg_enter_confirm_pin_hint">လိုအပ်သော PIN ကုဒ်အား အတည်ပြုပါ</string>
+    <string name="kg_enter_confirm_pin_hint">PIN ကုဒ်အသစ်အား အတည်ပြုပါ</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">သင်သည် ဖုန်းကို သော့ဖြည်ရာတွင် စကားဝှက် %1$d ကြိမ် မှားနှိပ်သည်။ နောက်ထပ် %2$d ကြိမ် မှားပါက၊ အလုပ် ပရိုဖိုင်ကို ဖယ်ရှားပြီး ပရိုဖိုင်ဒေတာအားလုံးကို ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="kg_failed_attempts_almost_at_erase_user">သင်သည် ဖုန်းကို သော့ဖြည်ရာတွင် စကားဝှက် %1$d ကြိမ် မှားနှိပ်သည်။ နောက်ထပ် %2$d ကြိမ် မှားပါက၊ ဤသုံးစွဲသူကို ဖယ်ရှားပြီး ထိုသူ၏ဒေတာအားလုံးကို ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="kg_failed_attempts_almost_at_login">"သင်သည် သော့ဖွင့်ပုံစံအား %1$d ကြိမ် မှားဆွဲခဲ့သည်။ နောက်ထပ် %2$d ကြိမ် မှားပါက၊ အီးမေးလ်အကောင့်ဖြင့် ဖုန်းအား သော့ဖြည်ရမည်။
@@ -832,17 +841,17 @@
     <string name="kg_failed_attempts_now_wiping">သင်သည် ဖုန်းကို သော့ဖြည်ရာတွင် စကားဝှက် %d ကြိမ် မှားနှိပ်သည်။ ယခု ဖုန်းသည် ဒေတာအားလုံးဖျက်၍ စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်လိမ့်မည်။</string>
     <string name="kg_forgot_pattern_button_text">သော့ဖွင့်ပုံစံအား မေ့သွားသည်</string>
     <string name="kg_invalid_confirm_pin_hint">PIN ကုဒ် မကိုက်ညီပါ</string>
-    <string name="kg_invalid_puk">မှန်ကန်သော PUK ကုဒ်အား ပြန်ရိုက်ထည့်ပါ။ မှားသော အကြိမ်ရေ များလွန်းပါက ဆင်းမ်ကဒ်သည် ရာသက်ပန်ပိတ်သွားလိမ့်မည်။</string>
-    <string name="kg_invalid_sim_pin_hint">ဂဏန်း ၄ လုံးမှ ၈ လုံးရှိသော PIN တစ်ခု ရိုက်ထည့်ပါ။</string>
+    <string name="kg_invalid_puk">PUK ကုဒ်အမှန်အား ပြန်ရိုက်ထည့်ပါ။ မှားသော အကြိမ်ရေ များလွန်းပါက ဆင်းမ်ကဒ်သည် ရာသက်ပန်ပိတ်သွားလိမ့်မည်။</string>
+    <string name="kg_invalid_sim_pin_hint">ဂဏန်း ၄လုံးမှ ၈လုံးရှိ PIN တစ်ခုရိုက်ထည့်ပါ</string>
     <string name="kg_invalid_sim_puk_hint">PUK ကုဒ်နံပါတ်သည် နံပါတ် ၈ လုံးနှင့် အထက်ရှိရပါမည်။</string>
     <string name="kg_login_too_many_attempts">ကြိုးစားမှုအကြိမ်ရေ များလွန်းသည်</string>
     <string name="kg_password_instructions">စကားဝှက် ရိုက်ထည့်ပါ</string>
-    <string name="kg_password_pin_failed">ဆင်းမ် PIN လုပ်ဆောင်ချက် မအောင်မြင်ပါ။</string>
-    <string name="kg_password_puk_failed">SIM PUK အော်ပရေးရှင်း မအောင်မြင်ပါ။</string>
-    <string name="kg_password_wrong_pin_code_pukked">ဆင်းမ် PIN ကုဒ် မမှန်ကန်ပါ၊ ယခု သင်၏စက်အား သော့ဖြည်ရန် ဖုန်းလိုင်းကုမ္ပဏီသို့ ဆက်သွယ်ရမည်။</string>
+    <string name="kg_password_pin_failed">ဆင်းမ် PIN ဖြင့် လော့ခ်ဖြည်၍ မရပါ</string>
+    <string name="kg_password_puk_failed">ဆင်းမ် PUK ဖြင့် လော့ခ်ဖြည်၍ မရပါ</string>
+    <string name="kg_password_wrong_pin_code_pukked">ဆင်းမ် PIN ကုဒ် မမှန်ပါ။ သင့်စက်အား လော့ခ်ဖြည်ရန် ဖုန်းလိုင်းကုမ္ပဏီသို့ ဆက်သွယ်ပါ။</string>
     <string name="kg_password_wrong_puk_code_dead">ဆင်းမ်ကဒ် သုံး၍ မရပါ။ ဖုန်းလိုင်းကုမ္ပဏီသို့ ဆက်သွယ်ပါ။</string>
     <string name="kg_pattern_instructions">သော့ဖွင့်ပုံစံအား ဆွဲပါ</string>
-    <string name="kg_pin_accepted">ကုဒ်အား လက်ခံလိုက်ပြီ။</string>
+    <string name="kg_pin_accepted">ကုဒ်အား လက်ခံလိုက်ပြီ</string>
     <string name="kg_pin_instructions">PIN ရိုက်ထည့်ပါ</string>
     <string name="kg_prompt_reason_device_admin">အုပ်ချုပ်သူမှ စက်အား လော့ခ်ချလိုက်သည်</string>
     <string name="kg_prompt_reason_restart_password">လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
@@ -855,7 +864,7 @@
     <string name="kg_prompt_reason_timeout_pattern">ပိုမိုလုံခြုရန်အတွက် သော့ဖွင့်ပုံစံ လိုအပ်သည်</string>
     <string name="kg_prompt_reason_timeout_pin">ပိုမိုလုံခြုရန်အတွက် PIN လိုအပ်သည်</string>
     <string name="kg_prompt_reason_user_request">စက်အား ကိုယ်တိုင် လော့ခ်ချလိုက်သည်</string>
-    <string name="kg_puk_enter_pin_hint">လိုအပ်သော PIN ကုဒ် ရိုက်ထည့်ပါ</string>
+    <string name="kg_puk_enter_pin_hint">PIN ကုဒ်အသစ် ရိုက်ထည့်ပါ</string>
     <string name="kg_puk_enter_puk_hint">ဆင်းမ်ကဒ် သုံး၍မရတော့ပါ။ ဆက်လက်လုပ်ဆောင်ရန် PUK ကုဒ် ရိုက်ထည့်ပါ။ အသေးစိတ် သိရှိရန် ဖုန်းလိုင်းကုမ္ပဏီသို့ ဆက်သွယ်ပါ။</string>
     <string name="kg_puk_enter_puk_hint_multi">ဆင်းမ်ကဒ် %1$s သုံး၍မရတော့ပါ။ ဆက်လက်လုပ်ဆောင်ရန် PUK ကုဒ် ရိုက်ထည့်ပါ။ အသေးစိတ် သိရှိရန် ဖုန်းလိုင်းကုမ္ပဏီသို့ ဆက်သွယ်ပါ။</string>
     <string name="kg_sim_pin_instructions">ဆင်းမ် PIN ရိုက်ထည့်ပါ</string>
@@ -880,8 +889,9 @@
     <string name="launch_defaults_some">တစ်ချို့မူလပုံစံသတ်မှတ်ချက်</string>
     <string name="left_icon">ဘယ်အိုင်ကွန်</string>
     <string name="left_keycode">ဘယ်ကီးကုဒ်</string>
-    <string name="left_nav_bar_button_type">Extra left button type</string>
+    <string name="left_nav_bar_button_type">အခြား ဘယ်ခလုတ် အမျိုးအစား</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက်ကို ပြောင်းလဲရန် သို့မဟုတ် ဖယ်ရှားရန် ထိနှိပ်ပါ</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မ’သတ်မှတ်ရသေးပါ</string>
     <string name="local_backup_password_title">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်းစကားဝှက်</string>
@@ -909,8 +919,7 @@
     <string name="lockscreen_none">မရှိပါ</string>
     <string name="lockscreen_shortcut_left">ဘယ် ရှော့ကဒ်</string>
     <string name="lockscreen_shortcut_right">ညာ ရှော့ကဒ်</string>
-    <string name="lockscreen_sim_error_message_short">ကဒ် တရားမဝင်ပါ။</string>
-    <string name="lockscreen_storage_locked">လော့ခ်ဖြည်လိုက်ပါက အင်္ဂါရပ်များနှင့် ဒေတာအားလုံးကို သုံးနိုင်သည်</string>
+    <string name="lockscreen_sim_error_message_short">ဆင်းမ်ကဒ် မမှန်ကန်ပါ။</string>
     <string name="lockscreen_unlock_left">ဘယ်ဘက်ရှော့ကဒ်လည်း လော့ခ်ဖြည်နိုင်သည်</string>
     <string name="lockscreen_unlock_right">ညာဘက်ရှော့ကဒ်လည်း လော့ခ်ဖြည်နိုင်သည်</string>
     <string name="long_screenshot_not_support_msg">လက်ရှိအက်ပ်သည် စာလိပ်မျက်နှာပြင်ရိုက်ချ်များအား ခွင့်မပြုပါ</string>
@@ -944,6 +953,7 @@
     <string name="miui_guide_dialog_message">မီဒီယာအသံများ(သီချင်း၊ ဗီဒီယိုစသည်တို့)အား အသံတိတ်မုဒ်တွင် ဖွင့်နိုင်သည်။ ဆက်တင်သို့သွား၍ ပြောင်းနိုင်ပါသည်။</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ဘလူးတုသ်စက်ဖြင့် လော့ခ်ဖြည်လိုက်သည်</string>
     <string name="miui_ringer_count_down">အချိန်သတ်မှတ်မည်</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">အသံတိတ်</string>
     <string name="miui_ringer_standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
     <string name="miui_ringer_total">မနှောင့်ယှက်ပါနှင့်</string>
@@ -970,12 +980,14 @@
 
 အသေးစိတ် သိလိုပါက စီမံအုပ်ချုပ်သူထံ ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်ရသော အထောက်အထားများကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာအား ဤစက်ပေါ်တွင် တပ်ဆင်ထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_do_body">အုပ်ချုပ်သူသည် ဆက်တင်၊ သက်ဆိုင်သော ဝင်ရောက်မှု၊ အက်ပ်များ၊ သင်၏စက်နှင့်အတူတွဲထားသော ဒေတာ၊ သင့်စက်၏တည်နေရာအချက်လက် စသည်တို့ကို စောင့်ကြည့်ပြီး စီမံခန့်ခွဲနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">သင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_do_header_generic">သင်၏စက်အား %1$sမှ စီမံခန့်ခွဲသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$sသည် %2$sဖြင့် သင်၏စက်ကို စီမံသည်။</string>
     <string name="monitoring_description_do_learn_more">နောက်ထပ် လေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏အဖွဲ့အစည်းမှ သင့်အလုပ် ပရိုဖိုင်တွင် အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာကို ထည့်သွင်းထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ် ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ကို သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်။
@@ -1007,6 +1019,7 @@
 
 သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော VPN တစ်ခုနှင့်လည်း ချိတ်ဆက်ထားသည်။"</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်ကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက် မှတ်တမ်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1021,6 +1034,7 @@
     <string name="nav_guide_message">ဆော့ဖ်ခလုတ်များအား ဝှက်/ဖော်ရန် လက်ဟန်များအား အသုံးပြုပါ။</string>
     <string name="nav_guide_ok">သတ်မှတ်</string>
     <string name="nav_guide_title">ဆော့ဖ်ခလုတ်များ ကွယ်ဝှက်ပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိပါ</string>
     <string name="no_multi_window_app">မျက်နှာပြင်ခွဲခြင်းလုပ်နိုင်သည့် အက်ပ်မရှိသေးပါ။</string>
     <string name="no_notification_tips">အသိပေးချက်များ မရှိပါ</string>
@@ -1108,12 +1122,12 @@
     <string name="phone_locked_string">ဖုန်း လော့ခ်ကျသွားသည်</string>
     <string name="picture_color_mode">ပုံအရောင်မုဒ်</string>
     <string name="picture_color_mode_desc">sRGB သုံးမည်</string>
-    <string name="pip_close">PIP အား ပိတ်ပါ</string>
+    <string name="pip_close">PiP အား ပိတ်ပါ</string>
     <string name="pip_fullscreen">မျက်နှာပြင်အပြည့်</string>
     <string name="pip_menu_title">ပုံထဲပုံ မီနူး</string>
     <string name="pip_notification_message">ဤ အင်္ဂါရပ်ကို %sအား မပေးသုံးလိုပါက ဆက်တင်သို့သွားရန် ထိနှိပ်ပြီး ပိတ်လိုက်ပါ။</string>
     <string name="pip_notification_title">%s သည် ပုံထဲပုံတွင် ရှိနေသည်</string>
-    <string name="pip_notification_unknown_title">( ပရိုဂရမ် ခေါင်းစဉ် မရှိပါ)</string>
+    <string name="pip_notification_unknown_title">(ပရိုဂရမ် ခေါင်းစဉ် မရှိပါ)</string>
     <string name="pip_pause">ခေတ္တရပ်ဆိုင်းပါ</string>
     <string name="pip_phone_close">ပိတ်ပါ</string>
     <string name="pip_phone_dismiss_hint">ပယ်ချရန် အောက်သို့ဆွဲပါ</string>
@@ -1157,6 +1171,7 @@
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့် ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သေးသည်</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ပရိုဖိုင်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="prompt_danger">အန္တရာယ်</string>
     <string name="prompt_detecting">ရှာဖွေနေသည်</string>
@@ -1305,7 +1320,7 @@
     <string name="reject_call">ခေါ်ဖုန်းပယ်ချသည်</string>
     <string name="remaining_length_format">%1$s ကျန်သေးသည်</string>
     <string name="remove_from_settings">ဆက်တင်များမှ ဖယ်ရှားပါ</string>
-    <string name="remove_from_settings_prompt">စနစ် UI ဖမ်းစက်အား ဆက်တင်မှ ဖယ်ရှားပြီး ၎င်း၏အင်္ဂါရပ် အားလုံးကို မသုံးတော့ဘူးလား?</string>
+    <string name="remove_from_settings_prompt">စနစ် UI ချိန်ညှိကိရိယာအား ဆက်တင်မှ ဖယ်ရှားပြီး ၎င်း၏အင်္ဂါရပ် အားလုံးကို မသုံးတော့ဘူးလား?</string>
     <string name="reset">ပြန်လည်သတ်မှတ်မည်</string>
     <string name="retail_demo_reset_message">အစမ်းမုဒ်တွင် စက်ရုံထုတ်အနေအထားသို့ပြန်သတ်မှတ်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="retail_demo_reset_next">ရှေ့သို့</string>
@@ -1315,7 +1330,7 @@
     <string name="rgb_face_data_manage_delete_msg">2D မျက်နှာဒေတာကို ဖျက်မည်</string>
     <string name="right_icon">ညာအိုင်ကွန်</string>
     <string name="right_keycode">ညာကီးကုဒ်</string>
-    <string name="right_nav_bar_button_type">Extra right button type</string>
+    <string name="right_nav_bar_button_type">အခြား ညာခလုတ် အမျိုးအစား</string>
     <string name="running_foreground_services_msg">အသေးစိတ်သိရှိရန် ဘက်ထရီနှင့် ဒေတာသုံးစွဲမှုအား ထိနှိပ်ပါ</string>
     <string name="running_foreground_services_title">အက်ပ်သည် နောက်ခံတွင်အလုပ်လုပ်နေပါသည်</string>
     <string name="running_process_item_user_label">သုံးစွဲသူ- %1$s</string>
@@ -1455,7 +1470,7 @@ d MMMM"</string>
     <string name="stream_accessibility">ဝင်သုံးခွင့်</string>
     <string name="stream_alarm">နှိုးစက်</string>
     <string name="stream_bluetooth_sco">ဘလူးတုသ်</string>
-    <string name="stream_dtmf">Dual multitone frequency</string>
+    <string name="stream_dtmf">နှစ်ခုတွဲ မာလ်တီအသံ ကြိမ်နှုန်း</string>
     <string name="stream_music">မီဒီယာ</string>
     <string name="stream_notification">အသိပေးချက်</string>
     <string name="stream_ring">ဖုန်းမြည်သံ</string>
@@ -1516,7 +1531,7 @@ d MMMM"</string>
     <string name="structure_face_unlock_really_person">သင်၏မျက်နှာအား အရာတစ်ခုခုနှင့် အစားထိုးလိုက်ပုံရသည်။</string>
     <string name="switch_bar_off">ပိတ်ပါ</string>
     <string name="switch_bar_on">ဖွင့်ပါ</string>
-    <string name="system_ui_tuner">စနစ် UI ဖမ်းစက်</string>
+    <string name="system_ui_tuner">စနစ် UI ချိန်ညှိကိရိယာ</string>
     <string name="task_access_locked_app_msg">အက်ပ်သော့ခတ်အား ဖွင့်ခဲ့သည်</string>
     <string name="telephony_monitor_switch">တယ်လီဖုန်းမော်နီတာ</string>
     <string name="telephony_monitor_switch_summary">တယ်လီဖုန်းမော်နီတာသည် တယ်လီဖုန်း/မိုဒမ်တွင် ပြဿနာများထောက်လှမ်းတွေ့ရှိပါက မှတ်တမ်းများကို စုဆောင်းပြီး အသုံးပြုသူအား အမှားအစီရင်ခံရန် သတိပေးလိမ့်မည်။</string>
@@ -1587,8 +1602,8 @@ d MMMM"</string>
     <string name="tuner_plus">အပေါင်း</string>
     <string name="tuner_right">ညာဘက်</string>
     <string name="tuner_time">အချိန်</string>
-    <string name="tuner_toast">ဝမ်းသာပါတယ်။ စနစ် UI ဖမ်းစက်အား ဆက်တင်သို့ ပေါင်းထည့်ပြီးပြီ</string>
-    <string name="tuner_warning">System UI Tuner gives you extra ways to tweak and customize the Android user interface. These experimental features may change, break, or disappear in future releases. Proceed with caution.</string>
+    <string name="tuner_toast">ဝမ်းသာပါတယ်။ စနစ် UI ချိန်ညှိကိရိယာအား ဆက်တင်သို့ ပေါင်းထည့်ပြီးပြီ</string>
+    <string name="tuner_warning">စနစ် UI ချိန်ညှိကိရိယာဖြင့် Android သုံးစွဲသူအင်တာဖေ့စ်အား စိတ်ကြိုက်စီမံနိုင်ပါသည်။ ဤစမ်းသပ်ဆဲ အင်္ဂါရပ်များသည် အနာဂတ်တွင် ပြောင်းလဲ၊ ပျောက်ကွယ်သွားနိုင်သည်။ သုံးစွဲသောအခါ သတိပြုပါ။</string>
     <string name="tuner_warning_title">အားလုံးအတွက် မသင့်တော်ပါ</string>
     <string name="un_important_notifications">အရေးမကြီးသော အသိပေးချက်များ</string>
     <string name="unimportant_desc">အရေးမကြီးသောအသိပေးချက်အားလုံးကို သီးခြားဖိုလ်ဒါတစ်ခုတွင်ထည့်ထားမည်။</string>
@@ -1664,7 +1679,7 @@ d MMMM"</string>
     <string name="voice_hint">အသံလက်ထောက်သုံးရန် အိုင်ကွန်အား ပွတ်ဆွဲလိုက်ပါ</string>
     <string name="volume_and_do_not_disturb">မနှောင့်ယှက်ရ</string>
     <string name="volume_dialog_accessibility_dismissed_message">အသံပမာဏထိန်းချုပ်မှုအား ကွယ်ဝှက်ထားသည်</string>
-    <string name="volume_dialog_accessibility_shown_message">%s volume controls shown. Swipe up to dismiss.</string>
+    <string name="volume_dialog_accessibility_shown_message">အသံထိန်းချုပ်မှု %s ပြထားသည်။ အပေါ်သို့ ပွတ်ဆွဲ၍ ပိတ်နိုင်သည်။</string>
     <string name="volume_dnd_silent">အသံခလုတ် ရှော့ကဒ်</string>
     <string name="volume_stream_content_description_mute">%1$s။ အသံတိတ်ရန် ထိနှိပ်ပါ။ ဝင်သုံးခွင့်ဝန်ဆောင်မှုများလည်း အသံတိတ်သွားမည်။</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s။ အသံတိတ်ရန် ထိနှိပ်ပါ။</string>
@@ -1682,6 +1697,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">ဒီဘာဂ်စက်ကို စောင့်ပါ</string>
     <string name="wait_for_debugger_summary">ဒီဘာဂ်အက်ပ်သည် အလုပ်မလုပ်မီ ဒီဘာဂ်စက်နှင့် တွဲချိတ်ရန် စောင့်နေမည်</string>
     <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_aggressive_handover">Wi‑Fi မှ မိုဘိုင်းသို့ အဆင်မပြေသော ပြောင်းလဲမှု</string>
     <string name="wifi_aggressive_handover_summary">ဖွင့်ထားပါက Wi‑Fi လိုင်းအားနည်းသောအခါ ချိတ်ဆက်မှုသည် မိုဘိုင်းဒေတာသို့ ပြောင်းလိမ့်မည်။</string>
@@ -1706,9 +1722,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

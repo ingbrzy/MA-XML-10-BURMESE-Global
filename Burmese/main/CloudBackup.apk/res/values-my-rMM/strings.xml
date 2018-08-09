@@ -164,11 +164,11 @@
     <string name="done_remove">ဖယ်ရှားပြီးပါပြီ</string>
     <string name="doing_restore_home">ပင်မမျက်နှာပြင်နှင့် ဆက်တင်တို့ကို ပြန်လည်ရယူနေသည်…</string>
     <string name="title_alert_cancel_restore">ပြန်လည်သိမ်းဆည်းခြင်းကို ရပ်တန့်ပါ</string>
-    <string name="msg_alert_cancel_restore">ကလောက် အရန်သိမ်းခြင်းမှ ပြန်ရယူနေသည်၊ ရပ်တန့်မလား?</string>
+    <string name="msg_alert_cancel_restore">အိုင်တမ်များအား ပြန်လည်ရယူနေသည်။ ယခု ရပ်မလား?</string>
     <string name="btn_restore_cancel">ပယ်ဖျက်မည်</string>
     <string name="btn_restore_resume">ပြန်စမည်</string>
     <string name="title_alert_restore_error">ပြန်လည်ရယူ၍ မရပါ</string>
-    <string name="msg_alert_restore_error">ကလောက် အရန်သိမ်းခြင်းမှ ပြန်ရယူ၍ မရပါ၊ ကျေးဇူးပြုပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="btn_restore_retry">ပြန်ကြိုးစားကြည့်မည်</string>
+    <string name="msg_alert_restore_error">Mi Cloud မှ အိုင်တမ်များအား ပြန်လည်ရယူ၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="btn_restore_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="btn_restore_abort">ပယ်ဖျက်မည်</string>
 </resources>
