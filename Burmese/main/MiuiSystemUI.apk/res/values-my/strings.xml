@@ -595,6 +595,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ်မရှိပါ သို့မဟုတ် အသုံးပြု၍မရပါ။ ဆင်းမ်ကဒ်တစ်ခု ထည့်ပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက်ကို လော့ခ်ချထားသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖွင့်ရန် စကားဝှက်ကို ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">ပင်နံပါတ်ထည့်ပါ</string>
@@ -709,12 +710,14 @@
 
 နောက်ထပ် အချက်အလက်များအတွက် သင်၏ စီမံခန့်ခွဲသူကို ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်စိတ်ချရသော အထောက်အထားများကို ဖွင့်ရန်</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ဤစက်ပစ္စည်းတွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body">စီမံသူသည် ဆက်တင်၊ ကော်ပိုရိတ်သုံးခွင့်၊ အက်ပ်၊ စက်ပစ္စည်းနှင့်ဆိုင်သောဒေတာနှင့် ၎င်း၏တည်နေရာအချက်အလက်ကိုစောင့်ကြည့်စီမံနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ သင်သည် ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_do_header_generic">သင့်စက်ပစ္စည်းကို %1$s က စီမံခန့်ခွဲထားပါသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$s သည် သင့်စက်ပစ္စည်းကို စီမံခန့်ခွဲရန် %2$s ကို အသုံးပြုပါသည်။</string>
     <string name="monitoring_description_do_learn_more">ပိုမိုလေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏ အဖွဲ့အစည်းသည် သင်၏ အလုပ်ပရိုဖိုင်တွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ်ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ပစ္စည်းကို သင်၏အဖွဲ့အစည်းက စီမံခန့်ခွဲထားပါသည်။
@@ -746,6 +749,7 @@
 
 သင်သည် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် VPN သို့လည်း ချိတ်ဆက်ထားပါသေးသည်။"</string>
     <string name="monitoring_description_vpn_settings">Open VPN ဆက်တင်များ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိအမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက်မှတ်တမ်းတင်ခြင်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -834,6 +838,7 @@
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s လိုပါသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့်လိုပါသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သည်</string>
+    <string name="process_kernel_label">Android စနစ်</string>
     <string name="profile_owned_footer">ပရိုဖိုင်ကို စောင့်ကြပ်နိုင်သည်</string>
     <string name="qs_dnd_keep">သိမ်းထားရန်</string>
     <string name="qs_dnd_prompt_app">\"မနှောင့်ယှက်ရ\" ကို အက်ပ် (%s) က ဖွင့်ခဲ့သည်။</string>

@@ -20,6 +20,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
     <string name="search_menu_title">ရှာဖွေပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="account_info">ကျွန်ုပ်၏အကောင့်</string>
     <string name="account_name_not_login">အကောင့်ထဲဝင်ရန်</string>
     <string name="account_unactivated">အကောင့်အတွက် သက်ဝင်ခလုတ်မဖွင့်ရသေးပါ</string>
@@ -125,6 +126,7 @@
     <string name="incompatible_dialog_ok">ရပြီ</string>
     <string name="incompatible_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေ…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
     <string name="item_resource_audio_optional_color_ring">Ringback အသံ</string>
     <string name="item_resource_audio_optional_notification_ring">အသိပေးချက်များ</string>
@@ -166,6 +168,7 @@
     <string name="online_precust_plant">အပင်</string>
     <string name="online_precust_scenery">ရှုခင်း</string>
     <string name="online_search_hint">အွန်လိုင်းအရင်းအမြစ်များ ရှာပါ</string>
+    <string name="pref_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="present_local_themes">ကျွန်ုပ်၏သင်းမ်များ</string>
     <string name="present_local_themes_subtitle">သင်၏ဖုန်းအား စိတ်ကြိုက်စီစဉ်ပါ</string>
     <string name="present_official_themes">ကျွန်ုပ်တို့၏ရွေးချယ်မှုများ</string>
@@ -317,6 +320,7 @@
     <string name="resource_pack_price_info">မူရင်းစျေးနှုန်း: %1$s</string>
     <string name="resource_pack_warning">ဤသင်းမ်ထဲက %1$d အစိတ်အပိုင်းများကို သင်ဝယ်ယူထားပြီးဖြစ်သည်။ အကယ်၍ ကျန်နေသော အစိတ်အပိုင်းများကို တစ်ချချင်း သင် ဝယ်ယူပါက၊ ပို၍ စျေးချိုပါသည်။</string>
     <string name="resource_present">လက်ဆောင်</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">အခမဲ့</string>
     <string name="resource_price_unit"> Mi ငွေဝယ်ကဒ်များ</string>
     <string name="resource_purchase_common_error">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
@@ -463,6 +467,7 @@
     <string name="theme_is_external_priority_storage">SD ကဒ်မှာသိမ်းဆည်းပါ</string>
     <string name="theme_is_external_priority_storage_summary">သင်းမ်အက်ပ်များသည် အကျိုးသက်ရောက်မှုရှိရန် ချက်ချင်းပြန်စတင်လိမ့်မည်</string>
     <string name="theme_multiple_button_title_customize">စိတ်ကြိုက်စီစဉ်ပါ</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">မသိမ်းပါ</string>
     <string name="theme_purchased_list_empty">မည်သည့်သင်းမ်များမှ သင်မဝယ်ရသေးပါ.</string>
     <string name="theme_purchased_non_local">အွန်လိုင်း</string>

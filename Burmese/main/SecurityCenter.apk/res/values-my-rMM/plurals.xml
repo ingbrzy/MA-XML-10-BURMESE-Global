@@ -254,4 +254,16 @@
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%dရက် ဆက်တိုက် ဝင်ရောက်ခဲ့သည်</item>
     </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +နောက်ထပ် အက္ခရာ %1$dလုံး</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">အက်ပ် %d ခု ကွယ်ဝှက်နိုင်သည်</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">အက်ပ် %d ခု ကွယ်ဝှက်ထားသည်</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">ပြဿနာ %1$dခု ဖြေရှင်းရန် ရှိသည်</item>
+    </plurals>
 </resources>

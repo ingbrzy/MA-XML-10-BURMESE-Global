@@ -361,6 +361,7 @@
     <string name="bootloader_status_unlocked">လော့ခ်မချထားပါ</string>
     <string name="bootloader_status_unlocked_info">ဤစက်ကို သော့ဖြည်ထားသည်</string>
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးခြင်းအသစ်ရချိန်တွင် အလင်းရောင်</string>
     <string name="breathing_light_freq_summary">အသိပေးခြင်းအသစ်ရှိချိန်တွင် ပိုသိသာစေသည်</string>
@@ -439,7 +440,7 @@
     <string name="close_app">လက်ရှိအက်ပ်ကို ပိတ်မည်</string>
     <string name="close_demo_mode">ဖျက်သိမ်းမည်</string>
     <string name="close_gesture">လက်ဟန်များအား ပိတ်ပါ</string>
-    <string name="close_miui_optimization_title">MIUI အကောင်းဆုံးဖြစ်အောင်လုပ်ဆောင်မှု ဖွင့်</string>
+    <string name="close_miui_optimization_title">MIUI ပိုမိုကောင်းမွန်ရေးကို ပိတ်မည်</string>
     <string name="close_optimization_message">ဤအင်္ဂါရပ်ကို ပိတ်လိုက်ပါက စာသားအပြင်အဆင်၊ အကောင့်နှင့် အခြား MIUI အစိတ်အပိုင်းများကို ထိခိုက်နိုင်ပါသည်။</string>
     <string name="close_optimization_option">ပိတ်ပါ</string>
     <string name="cloud_backup_section_title">Mi Cloudအရန်သိမ်းခြင်း</string>
@@ -542,6 +543,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">ဤလက်ဗွေအား ဖျက်ပစ်မလား?</string>
     <string name="delete_rule">စည်းမျဉ်းများ ဖယ်ရှားမည်</string>
     <string name="delete_saved_network">သိမ်းထားသော ကွန်ရက်များအား ဖျက်ပါ</string>
+    <string name="delete_sound_effect">\"ဒလိ\" အသံ</string>
     <string name="deleted_apps">ဖျက်ခဲ့သော အက်ပ်များ</string>
     <string name="demo_mode">အစမ်းမုဒ်</string>
     <string name="demo_mode_summary">အခြေအနေပြဘားတန်းတွင် သတ်မှတ်ထားသော အိုင်ကွန်များ ပြပါ</string>
@@ -626,6 +628,7 @@
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -698,6 +701,7 @@
     <string name="encryption_interstitial_no">မလို</string>
     <string name="encryption_interstitial_yes">လို</string>
     <string name="encryption_progress_summary">ကုဒ်ဖွဲ့နေသည်၊ သင်၏စက်ကို ပိတ်၍ပြန်မစပါနှင့်။</string>
+    <string name="enterprise_mode">လုပ်ငန်းမုဒ်</string>
     <string name="eq_auto">ကိုယ်တိုင်စီစဉ်မည်</string>
     <string name="eq_blues">ဘလူးစ်ဂီတ</string>
     <string name="eq_cancel">ပယ်ဖျက်မည်</string>
@@ -829,12 +833,12 @@
     <string name="force_touch_enable_tips">3D ထိနှိပ်မှုအား ဖွင့်ထားစဉ် ရှော့ကဒ်မီနူးများအား ကြည့်ရန် အက်ပ်အိုင်ကွန်များအား Launcher ထဲတွင် ထိနှိပ်ပါ</string>
     <string name="foreground_traffic">အရှေ့ %s</string>
     <string name="forget_password_button_text"><u>စကားဝှက် မေ့နေသည်</u></string>
-    <string name="forget_password_dialog_button_text">Back</string>
-    <string name="forget_password_dialog_content_four"><Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.</Data></string>
-    <string name="forget_password_dialog_content_one"><Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."</Data></string>
-    <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
-    <string name="forget_password_dialog_title">Reset your password</string>
+    <string name="forget_password_dialog_button_text">နောက်သို့</string>
+    <string name="forget_password_dialog_content_four"><Data>၂။ &lt;font color=#e6e6e6>[Wipe data]&lt;/font>အား ရွေးပါ၊ ထို့နောက် စက်ပိတ်၍ ပြန်ဖွင့်သည်အထိ စောင့်ပါ။</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>သင်၏စကားဝှက်အား မေ့သွားပါက ပြန်လည်ရယူ၍ မရတော့ပါ။ သို့သော် &lt;font color=#ec2700>စက်ထဲရှိ ဒေတာအားလုံးကို ဖျက်ပြီးလျှင်&lt;/font> စကားဝှက်အား ပြန်လည်သတ်မှတ်နိုင်ပါသည် (ဓာတ်ပုံ၊ အဆက်အသွယ်စသည်တို့ အပါအဝင်)။အရေးကြီးသော ဒေတာအားလုံးကို အရန်သိမ်းပါ။</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"၁။ စက်အား ပိတ်ပါ။ &lt;font color=#e6e6e6>[Power]&lt;/font>ခလုတ်နှင့် &lt;font color=#e6e6e6>[အသံ+]&lt;/font>ခလုတ်အား တစ်ပြိုင်တည်း ဖိပြီး &lt;img src=''>အိုင်ကွန် တွေ့သည်အထိ နှိပ်ထားပါ။"</Data></string>
+    <string name="forget_password_dialog_content_two">ဒေတာဖျက်ရန် အောက်ပါအတိုင်း လုပ်ဆောင်ပါ-</string>
+    <string name="forget_password_dialog_title">စကားဝှက်အား ပြန်လည်သတ်မှတ်ပါ</string>
     <string name="forget_pattern"><u>သော့ဖွင့်ပုံစံအား မေ့သွားပါသလား</u></string>
     <string name="forget_privacy_password_setting">Mi အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="forget_privacy_password_summary">သင့်စကားဝှက်အား ပြန်သတ်မှတ်ရန် Mi အကောင့်အား အသုံးပြုပါ</string>
@@ -972,6 +976,8 @@
     <string name="keyboard_and_input_methods_category">ကီးဘုတ်</string>
     <string name="keyboard_settings_category">စာရိုက်ထည့်နည်း</string>
     <string name="keyguard_advance_setting_title">အဆင့်မြင့် ဆက်တင်များ</string>
+    <string name="keyguard_security_setting_others">အခြား</string>
+    <string name="keyguard_security_setting_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="keywords_airplane">လေယာဉ်ပျံ၊လေယာဉ်မုဒ်၊လေယာဉ်၊ လေယာဉ်မုတ်၊ဖလိုက်၊ပျံသန်းမှုမုဒ်</string>
     <string name="keywords_auto_rotate">လှည့်ခြင်း၊မျက်နှာပြင်လှည့်၊အနေအထား၊ဖုန်းမျက်နှာပြင် အနေအထား၊ဒေါင်လိုက်မုတ်၊အလျားလိုက်မုတ်၊ဒေါင်လိုက်၊အလျားလိုက်</string>
     <string name="keywords_bluetooth">ဘလူးတုသ်၊ဘလူးတုသ်၊ဘလူး တုသ်</string>
@@ -1204,7 +1210,7 @@
     <string name="miui_allow_music">မီဒီယာ</string>
     <string name="miui_allow_vibrate">တုန်ခါမှုများ</string>
     <string name="miui_data_usage_menu_metered">မိုဘိုင်း ဟော့စ်ပေါ့များ</string>
-    <string name="miui_experience_optimization">MIUI အကောင်းဆုံးဖြစ်အောင်လုပ်ဆောင်မှု ဖွင့်</string>
+    <string name="miui_experience_optimization">MIUI ပိုမိုကောင်းမွန်ရေးကို ဖွင့်မည်</string>
     <string name="miui_lab_ai_cloud_closed">AI ကြိုတင်လုပ်ဆောင်ခြင်း မရနိုင်သေးပါ။</string>
     <string name="miui_lab_ai_preload_desc">AI ကြိုတင်လုပ်ဆောင်ခြင်းသည် အက်ပ်စတင်ရာတွင် ပိုမြန်စေသည်</string>
     <string name="miui_lab_ai_preload_title">AI ကြိုတင်လုပ်ဆောင်ခြင်း</string>
@@ -1427,8 +1433,8 @@
     <string name="onekey_migrate">Mi Mover</string>
     <string name="open_demo_mode">ဖွင့်ပါ</string>
     <string name="open_demo_mode_warning_message">အစမ်းမုဒ်ဖွင့်ထားပါက အခြေအနေပြဘားတန်းရှိ နာရီသည် ရပ်တန့်ပြီး၊ ဘက်ထရီနှင့် လိုင်းအားအပြည့် ပြသလိမ့်မည်။ အစမ်းမုဒ်မှ ထွက်ရန် ခလုတ်အား ပိတ်ပါ သို့မဟုတ် စက်အား ပိတ်၍ပြန်ဖွင့်ပါ။</string>
-    <string name="open_miui_optimization_title">MIUI အကောင်းဆုံးဖြစ်အောင်လုပ်ဆောင်မှု ဖွင့်</string>
-    <string name="open_optimization_message">အရှိန်မြှင့်တင်ခြင်းကို ဖွင့်၍ ပိုမိုချောမွေ့မြန်ဆန်သော UI ကို သုံးလိုက်ပါ။</string>
+    <string name="open_miui_optimization_title">MIUI ပိုမိုကောင်းမွန်ရေးကို ဖွင့်မည်</string>
+    <string name="open_optimization_message">ပိုမိုကောင်းမွန်အောင် လုပ်ဆောင်ခြင်းအား ဖွင့်၍ ပိုမိုချောမွေ့မြန်ဆန်သော UI ကို သုံးလိုက်ပါ။</string>
     <string name="open_optimization_option">ဖွင့်ပါ</string>
     <string name="open_wifi_connect_summary">အသေးစိတ်ကိုကြည့်ရန်ခေါက်ပါ။.</string>
     <string name="open_wifi_connect_title">%1$sသို့ ချိတ်ဆက်ထားသော</string>
@@ -1529,7 +1535,7 @@
     <string name="pointer_location">မြား တည်နေရာ</string>
     <string name="pointer_location_summary">ထိ ညှိနှိုင်းခြင်းကို ပြသပါ</string>
     <string name="pointer_settings_category">မောက်စ်/ထရက်ပက်</string>
-    <string name="popup_window">လွင့်မျောနေသော အသိပေးချက်များကို ကန့်သတ်မည်</string>
+    <string name="popup_window">အရှင်ထားနိုင်သော အသိပေးချက်များကို ကန့်သတ်မည်</string>
     <string name="power_autorun_apps_empty">တစ်ခုမှမရှိပါ</string>
     <string name="power_autorun_empty">တစ်ခုမှမရှိပါ</string>
     <string name="power_center">ပါဝါ</string>
@@ -1660,6 +1666,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -1724,6 +1731,7 @@
     <string name="saved_network">%1$s မှ သိမ်းခဲ့သည်</string>
     <string name="saved_wifi">သိမ်းထားသော ကွန်ရက်များအား စီမံပါ</string>
     <string name="saved_wifi_delete">ဖျက်ပါ</string>
+    <string name="sccret_code_error">The code you entered is incorrect.</string>
     <string name="screen">မျက်နှာပြင်</string>
     <string name="screen_button">မျက်နှာပြင်ခလုတ်များ</string>
     <string name="screen_button_tips">မျက်နှာပြင်ခလုတ်များအား ကွယ်ဝှက်ရန် ဆွဲချပါ</string>
@@ -1997,6 +2005,7 @@
     <string name="security_encryption_attention_3">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ် သတ်မှတ်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="security_encryption_attention_4">သင့်သော့ခတ်မျက်နှာပြင်စကားဝှက်အား မမေ့ပါနှင့်၊ သို့မဟုတ်ပါက စက်အား အစအဆုံးပြန်သတ်မှတ်ရန် လိုအပ်ပြီး ဒေတာအားလုံး ဆုံးရှုံးနိုင်ပါသည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">သော့ခတ်မျက်နှာပြင်စကားဝှက်ဖြင့် စက်အားကုဒ်မဖွဲ့ရန် ရွေးချယ်ခြင်းသည် Google ဝန်ဆောင်မှုများအား အသုံးပြု၍မရနိုင်ဘဲ ဖြစ်နိုင်ပါသည်။</string>
     <string name="security_encryption_close_dialog_title">မူလစကားဝှက်ကာကွယ်မှု သို့ပြန်သွားပါ</string>
@@ -2098,6 +2107,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
@@ -2124,7 +2134,7 @@
     <string name="status_bar_and_notification_bar">အကြောင်းကြားစာရှိုတ်နှင့် အခြေအနေပြဘား</string>
     <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_app_disable_notification">အသိပေးအချက်ပြချက်များအား　ကွယ်ဝှက်ထား</string>
-    <string name="status_bar_app_enable_floating">လွင့်မျောနေသော အသိပေးချက်များ</string>
+    <string name="status_bar_app_enable_floating">အရှင်ထားနိုင်သော အသိပေးချက်များ</string>
     <string name="status_bar_app_enable_keyguard">သော့ခတ် မျက်နှာပြင်</string>
     <string name="status_bar_app_enable_message">တံဆိပ်များ</string>
     <string name="status_bar_carrier_settings_no_sim_card">ဆင်းမ်ကဒ် မရှိပါ</string>
@@ -2140,6 +2150,7 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_enable_notification">အသိပေးချက်များအား ပြပါ</string>
@@ -2156,7 +2167,7 @@
     <string name="status_bar_settings_show_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား ပြသပါ</string>
     <string name="status_bar_settings_show_carrier_summary">ဖုန်းလိုင်းကုမ္ပဏီအမည်အား ဤလုပ်ဆောင်ချက်ပိတ်လိုက်စဉ် သော့ခတ်မျက်နှာပြင်နှင့် အသိပေးအချက်ပြအရိပ်တွင် ပြသနေဆဲဖြစ်ပါသည်။</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">စက်အား လော့ခ်ချထားစဥ် ဖုန်းလိုင်းကုမ္ပဏီအမည် ပြပါ</string>
-    <string name="status_bar_settings_show_floating_notification">လွင့်မျောနေသော အသိပေးချက်များ</string>
+    <string name="status_bar_settings_show_floating_notification">အရှင်ထားနိုင်သော အသိပေးချက်များ</string>
     <string name="status_bar_settings_show_floating_notification_summary">အရေးကြီးသော အသိပေးချက်များကို မျက်နှာပြင်ထိပ်ပိုင်းတွင် ပြခွင့်ပြုပါ</string>
     <string name="status_bar_settings_show_flow_info">ဒေတာသုံးစွဲမှုအား ပြသပါ</string>
     <string name="status_bar_settings_show_home_message">အက်ပ်အိုင်ကွန်တံဆိပ်</string>
@@ -2179,6 +2190,9 @@
     <string name="status_summary">အသေးစိတ်ကိုကြည့်ရန်ခေါက်ပါ။.</string>
     <string name="status_wifi_mac_address">Wi-Fi MAC လိပ်စာ</string>
     <string name="statusbar_permission_desc">အောက်ပါခွင့်ပြုချက်များသည် အရေးကြီးသော အသိပေးချက်များအတွက်သာ ဖြစ်သည်။</string>
+    <string name="stop_upload_audio_log">Finish getting audio log</string>
+    <string name="stop_upload_gps_log">Finish getting GPS log</string>
+    <string name="stop_upload_modem_log">Finish getting modem log</string>
     <string name="storage_format">ဖောမတ်</string>
     <string name="storage_internal_title">စနစ်မဟုတ်သည့် သိုလှောင်မှု</string>
     <string name="storage_usb">USB သိုလှောင်မှု</string>
@@ -2364,8 +2378,11 @@
     <string name="unrestrict_max_aspect_ratio_title">မျက်နှာပြင်အပြည့်မုဒ်အတွက် ဤအက်ပ်များကို အကောင်းဆုံးပြင်ထားသည်</string>
     <string name="update_new_version">အပ်ဒိတ်ရရှိနိုင်ပါသည်</string>
     <string name="update_progress_for_updates">မွမ်းမံနေသည် (%s)</string>
+    <string name="upload_audio_log">Start getting audio log</string>
     <string name="upload_debug_log_summary">တည်နေရာရယူခြင်းနှင့် ပြဿနာဖြေရှင်းခြင်းအတွက် သုံးစွဲမှုအခြေအနေတွင် သင်၏ကိုယ်ရေးအချက်အလက်များ ပါဝင်နိုင်သည်</string>
     <string name="upload_debug_log_title">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာအား အလိုအလျောက်ပေးပို့ပါ</string>
+    <string name="upload_gps_log">Start getting GPS log</string>
+    <string name="upload_modem_log">Start getting modem log</string>
     <string name="usage_log">အက်ပ်စ်အသုံးပြုစာရင်းဇယားများ</string>
     <string name="usage_type_data_wifi_recv">Wi-Fiဒေတာ လက်ခံပြီးပြီ</string>
     <string name="usage_type_data_wifi_send">Wi-Fiဒေတာ ပို့ပြီးပြီ</string>
@@ -2523,7 +2540,7 @@
     <string name="wfd_wps_pbc">PIN ထည့်သွင်းပါ</string>
     <string name="whetstone_level_reboot">သင့်ကိရိယာကို ရီဘုစ်လုပ်ပြီးလျှင် ဤအပြင်အဆင်များသက်ရောက်ခြင်းရှိပါမည်.</string>
     <string name="whetstone_level_reboot_OK">ပိတ်ပြီးတဖန်ပြန်စပါ</string>
-    <string name="whetstone_level_title">မှတ်ဉာဏ်ပိုကောင်းအောင်လုပ်ခြင်း</string>
+    <string name="whetstone_level_title">မှတ်ဉာဏ် ပိုမိုကောင်းမွန်ရေး</string>
     <string name="wifi_access_points">Wi-Fiကွန်ရက်</string>
     <string name="wifi_add_network">ကွန်ရက်ထည့်မည်</string>
     <string name="wifi_advanced_titlebar">အဆင့်မြင့် Wi-Fi</string>
@@ -2635,9 +2652,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2699,8 +2718,8 @@
     <string name="wifi_starting">Wi-Fiကိုဖွင့်မည်…</string>
     <string name="wifi_stopping">Wi-Fiကိုပိတ်မည်…</string>
     <string name="wifi_subnet_mask">ကွန်ရက်ခွဲမျက်နှာဖုံး</string>
-    <string name="wifi_suspend_optimizations">Wi-Fiပိုကောင်းအောင်လုပ်ခြင်း</string>
-    <string name="wifi_suspend_optimizations_summary">Wi-Fiဖွင့်ပြီးဘက်ထရီအားကိုလျော့သုံးခြင်း</string>
+    <string name="wifi_suspend_optimizations">Wi-Fi ပိုမိုကောင်းမွန်ရေး</string>
+    <string name="wifi_suspend_optimizations_summary">Wi-Fi ဖွင့်ထားပါက ဘက်ထရီသုံးစွဲမှုကို အတတ်နိုင်ဆုံး လျော့ချမည်</string>
     <string name="wifi_switch_to_gsm_message">Wi-Fi နှင့်အချိတ်ဆက်ပြက်သွားသည်။ ထိုအစား မိုဘိုင်းဒေတာ ကော်နက်ရှင်အားသုံးမည်လား?</string>
     <string name="wifi_switch_to_gsm_title">GSM သုံးမည်လား?</string>
     <string name="wifi_tether_checkbox_text">သယ်သွားနိုင်သော ဟော့စ်ပေါ့</string>

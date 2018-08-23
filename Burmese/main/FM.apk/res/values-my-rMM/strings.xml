@@ -12,6 +12,7 @@
     <string name="menu_save_station_presets">ကြိုတင်သတ်မှတ်ချက်များသို့ ပေါင်းထည့်ပါ</string>
     <string name="menu_speaker">စပီကာသို့ ကူးပြောင်းပါ</string>
     <string name="menu_headset">မိုက်ခွက်ပါနားကြပ်သို့ ကူးပြောင်းပါ</string>
+    <string name="menu_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="menu_exit">ထွက်ပါ</string>
     <string name="dialog_sleep_title">အိပ်ပျော်ချိန် စံချိန်စက်ကို သတ်မှတ်ပါ</string>
     <string name="search_dialog_title">အသံလွှင့်ဌာနများကို စကင်ဖတ်ပါ</string>

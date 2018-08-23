@@ -279,6 +279,7 @@
     <string name="title_schema_title">အမည်ကို ဟိုက်လိုက်လုပ်မည်</string>
     <string name="toast_function_add_not_allowed">အများဆုံး ရှော့ကဒ် ၈ ခု ပေါင်းထည့်နိုင်သည်</string>
     <string name="toast_function_remove_not_allowed">အနည်းဆုံး ရှော့ကဒ် ၁ ခု ပေါင်းထည့်ပါ</string>
+    <string name="today_apps">အကြံပြုထားသော</string>
     <string name="today_apps_bref">အက်ပ်အသစ်များ တွေ့ရှိသည်</string>
     <string name="today_apps_detail">ယခု ပေါ်ပြူလာဖြစ်နေသော အက်ပ်များကို ဤနေရာတွင် တွေ့ရှိနိုင်သည်။</string>
     <string name="today_apps_loading">ခဏစောင့်ပါ…</string>

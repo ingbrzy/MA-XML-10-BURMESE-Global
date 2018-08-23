@@ -12,6 +12,10 @@
         <item>အသုံးများသော အက်ပ်များ</item>
         <item>အသုံးနည်းသော အက်ပ်များ</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>စနစ် အက်ပ်များ</item>
+        <item>အခြားအက်ပ်များ</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>ပုံသေ အပူထိန်းမုဒ်</item>
         <item>လုပ်ဆောင်ရည်မုဒ်</item>

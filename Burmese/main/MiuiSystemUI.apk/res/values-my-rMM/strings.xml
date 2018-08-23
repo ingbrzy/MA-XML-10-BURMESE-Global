@@ -35,6 +35,7 @@
     <string name="accessibility_camera_button">ကင်မရာ</string>
     <string name="accessibility_carrier_network_change_mode">ဖုန်းလိုင်းကုမ္ပဏီ ကွန်ရက်အား ပြောင်းနေသည်။</string>
     <string name="accessibility_cast_name">%s သို့ ချိတ်ဆက်ပြီးပါပြီ။</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">မျက်နှာပြင်ကာစ်တင်အား ရပ်လိုက်သည်။</string>
     <string name="accessibility_cell_data">မိုဘိုင်းဒေတာ</string>
     <string name="accessibility_cell_data_off">မိုဘိုင်းဒေတာ ပိတ်ထားသည်</string>
@@ -81,6 +82,9 @@
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="accessibility_ethernet_connected">အီသာနက် ချိတ်ဆက်ထားသည်။</string>
     <string name="accessibility_ethernet_disconnected">အီသာနက် မချိတ်ဆက်ထားပါ။</string>
+    <string name="accessibility_fingerprint_dialog_app_icon">အက်ပလီကေးရှင်း အိုင်ကွန်</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">လက်ဗွေ အိုင်ကွန်</string>
+    <string name="accessibility_fingerprint_dialog_help_area">အကူအညီမက်ဆေ့ခ်ျ ဧရိယာ</string>
     <string name="accessibility_gps_acquiring">GPS ရယူနေသည်။</string>
     <string name="accessibility_gps_enabled">GPS ဖွင့်ထားသည်။</string>
     <string name="accessibility_home">အိမ်</string>
@@ -271,6 +275,7 @@
     <string name="available_via_passpoint">%1$s မှ တစ်ဆင့်ရရှိနိုင်သည်</string>
     <string name="back">နောက်သို့</string>
     <string name="battery">ဘက်ထရီ</string>
+    <string name="battery_can_use_time">ခန့်မှန်းခြေအားဖြင့် %s ကျန်သေးသည်</string>
     <string name="battery_detail_charging_summary">အားသွင်းနေစဥ် ဘက်ထရီချွေတာသူအား သုံး၍မရပါ</string>
     <string name="battery_detail_switch_summary">စွမ်းဆောင်ရည်နှင့် နောက်ခံမှ အချက်အလက်ကို လျော့ချမည်</string>
     <string name="battery_detail_switch_title">ဘက်ထရီချွေတာသူ</string>
@@ -498,10 +503,17 @@
     <string name="divider_menu_close">ပိတ်</string>
     <string name="divider_menu_select_apps">ရွေးပါ</string>
     <string name="divider_menu_swap_task">ဖုန်းပြောင်း</string>
+    <string name="dlg_cancel">ပယ်ဖျက်မည်</string>
+    <string name="dlg_confirm">ဖွင့်မည်</string>
     <string name="dlg_confirm_kill_storage_users_text">အကယ်၍ USB သိုလှောင်ခန်းကို သင် ဖွင့်ပါက၊ သင်သုံးနေသော အပလီကေးရှင်းအချို့သည် ရပ်ဆိုင်းသွားမည်ဖြစ်ပြီး၊ USB သိုလှောင်ခန်းကို သင် မပိတ်သ၍ သုံးနိုင်မည်မဟုတ်ပါ။</string>
     <string name="dlg_confirm_kill_storage_users_title">USB သိုလှောင်ခန်းကို ဖွင့်ပါ</string>
     <string name="dlg_error_title">USB အော်ပရေးရှင်းလုပ်ရာတွင် မအောင်မြင်ပါ</string>
     <string name="dlg_ok">အိုကေ</string>
+    <string name="dlg_summary_close_app">နောက်ခံ လှုပ်ရှားမှုနှင့် အသိပေးချက်များအား ကန့်သတ်မည်</string>
+    <string name="dlg_summary_close_theme">လှုပ်ရှားသော သင်းမ်အား ကန့်သတ်ထားသည်</string>
+    <string name="dlg_summary_close_wifi">Wi-Fi၊ ဘလူးတုသ်နှင့် ခရီးဆောင် ဟော့စ်ပေါ့အား ပိတ်ပါ</string>
+    <string name="dlg_summary_nfc">NFC အား ပိတ်ပါ</string>
+    <string name="dlg_summary_title">အကြီးမားဆုံး ဘက်ထရီချွေတာသူသည် အက်ပ်မှ ထွက်ပြီး ပင်မမျက်နှာပြင်သို့ ပြန်သွားသောအခါ နောက်ခံ လှုပ်ရှားမှုအားလုံးကို ရပ်တန့်ထားမည်။ အက်ပ်တစ်ခုခုကို နောက်ခံတွင် အလုပ်လုပ်စေလိုပါက ၎င်းအား နောက်ခံ ခြွင်းချက်စာရင်းသို့ ပေါင်းထည့်ပါ။</string>
     <string name="dnd_is_off">မနှောင့်ယှက်ရအား ပိတ်ထားသည်</string>
     <string name="do_disclosure_generic">ဤစက်အား သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်</string>
     <string name="do_disclosure_with_name">ဤစက်အား %sမှ စီမံခန့်ခွဲသည်</string>
@@ -524,6 +536,7 @@
     <string name="enable_bluetooth_message">ကီးဘုတ်အား တက်ဘလက်နှင့် ချိတ်ဆက်ရန် ဘလူးတုသ်ကို ဦးစွာဖွင့်ပါ။</string>
     <string name="enable_bluetooth_title">ဘလူးတုသ် ဖွင့်မလား?</string>
     <string name="enable_demo_mode">အစမ်းသုံးမုဒ်အား ဖွင့်ပါ</string>
+    <string name="enable_extreme_power_save_mode">အကြီးမားဆုံး ဘက်ထရီချွေတာသူ</string>
     <string name="enable_freeform_support">လွတ်လပ်စွာ ချိန်ညှိနိုင်သော ဝင်းဒိုးကို သုံးမည်</string>
     <string name="enable_freeform_support_summary">လွတ်လပ်စွာချိန်ညှိနိုင်သော စမ်းသပ်ဆဲဝင်းဒိုးကို ဖွင့်မည်။</string>
     <string name="enable_opengl_traces_title">OpenGL ဖြင့် ခြေရာခံမည်</string>
@@ -610,6 +623,7 @@
     <string name="fingerprint_add_text">လက်ဗွေအင်တာဖေ့စ်အား အပ်ဒိတ်လုပ်ထားသည်။သင်၏ လက်ဗွေကို ပြန်ပေါင်းထည့်ပါ။</string>
     <string name="fingerprint_add_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
     <string name="fingerprint_again_identified_msg">သင့်လက်ဗွေအား အသက်သွင်းပြီးပါပြီ။ လော့ခ်ဖြည်ရန် လက်ဗွေကို သုံးပါ သို့မဟုတ် စကားဝှက် ရိုက်ထည့်ပါ။</string>
+    <string name="fingerprint_dialog_touch_sensor">လက်ဗွေအာရုံခံကိရိယာအား ထိနှိပ်ပါ</string>
     <string name="fingerprint_enter_second_psw_msg">လက်ဗွေအသိအမှတ်ပြုခြင်းအား အသုံးပြုနိုင်ရန် စက်အားပြန်လည်စတင်ပြီးနောက် ဒုတိယနေရာစကားဝှက်ကို ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Lite မုဒ်သုံးနေစဥ် ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ</string>
     <string name="fingerprint_enter_second_psw_title">ဒုတိယနေရာ စကားဝှက် ရိုက်ထည့်ပါ</string>
@@ -779,6 +793,10 @@
     <string name="keyguard_charged">အားသွင်းပြီးပြီ</string>
     <string name="keyguard_charging_info_battery_used_time_text">သုံးစွဲချိန်</string>
     <string name="keyguard_charging_info_click_to_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">အားကုန်သွားခဲ့သော</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
@@ -802,6 +820,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ် ပျောက်နေသည် သို့မဟုတ် ဖတ်၍မရပါ။ ဆင်းမ်ကဒ် တစ်ခု ထည့်သွင်းပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက် လော့ခ်ကျနေသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">PIN ကုဒ် ရိုက်ထည့်ပါ</string>
@@ -885,6 +904,7 @@
     <string name="left_keycode">ဘယ်ကီးကုဒ်</string>
     <string name="left_nav_bar_button_type">အခြား ဘယ်ခလုတ် အမျိုးအစား</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက်ကို ပြောင်းလဲရန် သို့မဟုတ် ဖယ်ရှားရန် ထိနှိပ်ပါ</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မ’သတ်မှတ်ရသေးပါ</string>
     <string name="local_backup_password_title">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်းစကားဝှက်</string>
@@ -946,6 +966,7 @@
     <string name="miui_guide_dialog_message">မီဒီယာအသံများ(သီချင်း၊ ဗီဒီယိုစသည်တို့)အား အသံတိတ်မုဒ်တွင် ဖွင့်နိုင်သည်။ ဆက်တင်သို့သွား၍ ပြောင်းနိုင်ပါသည်။</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ဘလူးတုသ်စက်ဖြင့် လော့ခ်ဖြည်လိုက်သည်</string>
     <string name="miui_ringer_count_down">အချိန်သတ်မှတ်မည်</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">အသံတိတ်</string>
     <string name="miui_ringer_standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
     <string name="miui_ringer_total">မနှောင့်ယှက်ပါနှင့်</string>
@@ -972,12 +993,14 @@
 
 အသေးစိတ် သိလိုပါက စီမံအုပ်ချုပ်သူထံ ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်ရသော အထောက်အထားများကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာအား ဤစက်ပေါ်တွင် တပ်ဆင်ထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_do_body">အုပ်ချုပ်သူသည် ဆက်တင်၊ သက်ဆိုင်သော ဝင်ရောက်မှု၊ အက်ပ်များ၊ သင်၏စက်နှင့်အတူတွဲထားသော ဒေတာ၊ သင့်စက်၏တည်နေရာအချက်လက် စသည်တို့ကို စောင့်ကြည့်ပြီး စီမံခန့်ခွဲနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">သင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_do_header_generic">သင်၏စက်အား %1$sမှ စီမံခန့်ခွဲသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$sသည် %2$sဖြင့် သင်၏စက်ကို စီမံသည်။</string>
     <string name="monitoring_description_do_learn_more">နောက်ထပ် လေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏အဖွဲ့အစည်းမှ သင့်အလုပ် ပရိုဖိုင်တွင် အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာကို ထည့်သွင်းထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ် ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ကို သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်။
@@ -1009,6 +1032,7 @@
 
 သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော VPN တစ်ခုနှင့်လည်း ချိတ်ဆက်ထားသည်။"</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်ကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက် မှတ်တမ်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1023,6 +1047,7 @@
     <string name="nav_guide_message">ဆော့ဖ်ခလုတ်များအား ဝှက်/ဖော်ရန် လက်ဟန်များအား အသုံးပြုပါ။</string>
     <string name="nav_guide_ok">သတ်မှတ်</string>
     <string name="nav_guide_title">ဆော့ဖ်ခလုတ်များ ကွယ်ဝှက်ပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိပါ</string>
     <string name="no_multi_window_app">မျက်နှာပြင်ခွဲခြင်းလုပ်နိုင်သည့် အက်ပ်မရှိသေးပါ။</string>
     <string name="no_notification_tips">အသိပေးချက်များ မရှိပါ</string>
@@ -1092,6 +1117,7 @@
     <string name="oldman_airplane_mode_text">လေယာဉ်မုဒ်</string>
     <string name="oldman_incall_text">ခေါ်ဆိုမှုသို့ ပြန်သွားပါ</string>
     <string name="open_camera_hint_text">ကင်မရာဖွင့်ရန် ဘယ်ဘက်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="open_extreme_power_save_mode_title">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
     <string name="open_remote_center_hint_text">Mi Remote ဖွင့်ရန် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
     <string name="other">အခြား</string>
     <string name="overlay_display_devices_title">ဒုတိယပြသခြင်းများကို တူအောင်ဖန်တီးသည်</string>
@@ -1159,6 +1185,7 @@
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့် ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သေးသည်</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ပရိုဖိုင်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="prompt_danger">အန္တရာယ်</string>
     <string name="prompt_detecting">ရှာဖွေနေသည်</string>
@@ -1221,7 +1248,8 @@
     <string name="quick_settings_done">ပြီးပြီ</string>
     <string name="quick_settings_drivemode_label">ကားမုဒ်</string>
     <string name="quick_settings_dual_location_label">နှစ်ခုတွဲ GPS</string>
-    <string name="quick_settings_edit_label">တည်းဖြတ်မည်</string>
+    <string name="quick_settings_edit_label">နောက်ထပ်</string>
+    <string name="quick_settings_extreme_batterysaver_label">အကြီးမားဆုံး ဘက်ထရီချွေတာသူ</string>
     <string name="quick_settings_flashlight_label">ဓာတ်မီး</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_hotspot_label">ဟော့စ်ပေါ့</string>
@@ -1684,6 +1712,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">ဒီဘာဂ်စက်ကို စောင့်ပါ</string>
     <string name="wait_for_debugger_summary">ဒီဘာဂ်အက်ပ်သည် အလုပ်မလုပ်မီ ဒီဘာဂ်စက်နှင့် တွဲချိတ်ရန် စောင့်နေမည်</string>
     <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_aggressive_handover">Wi‑Fi မှ မိုဘိုင်းသို့ အဆင်မပြေသော ပြောင်းလဲမှု</string>
     <string name="wifi_aggressive_handover_summary">ဖွင့်ထားပါက Wi‑Fi လိုင်းအားနည်းသောအခါ ချိတ်ဆက်မှုသည် မိုဘိုင်းဒေတာသို့ ပြောင်းလိမ့်မည်။</string>
@@ -1708,9 +1737,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

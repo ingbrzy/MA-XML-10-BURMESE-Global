@@ -27,6 +27,9 @@
     <plurals name="device_import_done_toast">
         <item quantity="other">အဆက်အသွယ် %1$dခု တင်သွင်းခဲ့သည်။</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">အဆက်အသွယ် %1$d ခုကို သွင်းပြီးပါပြီ</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">ဖုန်းနံပါတ် %1$d ခုကို ပိတ်ဆို့မည်လား?</item>
     </plurals>

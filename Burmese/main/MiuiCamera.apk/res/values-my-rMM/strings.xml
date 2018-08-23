@@ -200,6 +200,7 @@
     <string name="tap_to_exposure">အလင်းဖွင့်ချိန်ကို ကိုယ်တိုင်ချိန်ညှိရန် ထိနှိပ်ပါ</string>
     <string name="accessibility_shutter_button">ရှတ္တာခလုတ်</string>
     <string name="accessibility_intent_done_apply">ပြီးပါပြီ</string>
+    <string name="accessibility_intent_done_retry">ပြန်ရိုက်မည်</string>
     <string name="accessibility_review_thumbnail">များမကြာမီက ဓာတ်ပုံ</string>
     <string name="accessibility_camera_picker">ရှေ့နောက်ကင်မရာ ကူးပြောင်းခလုတ်</string>
     <string name="accessibility_stereo_button">ဆုံချက် ချိန်ညှိမှု</string>
@@ -431,6 +432,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံရိုက်ကူးခြင်းသည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
     <string name="simple_mode_button_text_square">စတုရန်းပုံအား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -445,6 +447,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -557,4 +560,5 @@
     <string name="lighting_pattern_leaf">သစ်ရွက်</string>
     <string name="lighting_pattern_dot">အစက်အပြောက်</string>
     <string name="lighting_pattern_shutter">လိုက်ကာ</string>
+    <string name="view_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကြည့်ရှုရန်</string>
 </resources>

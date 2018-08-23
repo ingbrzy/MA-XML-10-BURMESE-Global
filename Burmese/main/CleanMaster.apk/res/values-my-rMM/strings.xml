@@ -61,6 +61,7 @@
     <string name="pref_category_title_garbage_cleanup_check">အကြောင်းကြားစာများ</string>
     <string name="pref_summary_garbage_cleanup_check_time">ပုံမှန် သန့်ရှင်းရေးအတွက် အချိန်သတ်မှတ်ပါ</string>
     <string name="pref_title_garbage_cleanup_check_time">အစီအစဉ်</string>
+    <string name="pref_about_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="pref_summary_garbage_cleanup_check_size">အမှိုက်အရွယ်အစား အတန်ငယ် အရွယ်အစားဖြစ်လာပါက၊ အလိုလို ရှင်းပစ်ပါ</string>
     <string name="pref_title_garbage_cleanup_check_size">အမှိုက်အရွယ်အစား ကန့်သတ်ချက်</string>
     <string name="pref_title_garbage_cleanup_size">အမှိုက်အရွယ်အစား ကန့်သတ်ချက်</string>
@@ -91,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -298,6 +300,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
@@ -511,7 +514,7 @@
     <string name="auto_clean_notification_title">ရှင်းလင်းပြီးလျှင် သတိပေးပါ</string>
     <string name="auto_clean_notification_content">အမှိုက် %sအား ရှင်းလင်းပြီးပါပြီ</string>
     <string name="guide_secure_dialog_title">စွမ်းဆောင်ရည် မြှင့်တင်မည်</string>
-    <string name="guide_secure_dialog_message">အရှိန်မြှင့်တင်ခြင်းရမှတ်မှာ ၈၀ ထက်နည်းနေသည်။ ပိုကောင်းအောင်လုပ်မလား?</string>
+    <string name="guide_secure_dialog_message">ပိုမိုကောင်းမွန်အောင် လုပ်ဆောင်ခြင်း ရမှတ်မှာ ၈၀ ထက်နည်းနေသည်။ ပိုကောင်းအောင်လုပ်မလား?</string>
     <string name="guide_secure_dialog_positive">အဆင့်မြှင့်တင်မည်</string>
     <string name="guide_secure_dialog_negative">ပယ်ဖျက်မည်</string>
     <string name="guide_virus_dialog_title">အန်တီဗိုင်းရပ်စ် စကန်</string>

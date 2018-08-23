@@ -61,4 +61,6 @@
     <string name="open_perm_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="allow">ခွင့်ပြုမည်</string>
+    <string name="preference_other">အခြား</string>
+    <string name="preference_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
 </resources>
