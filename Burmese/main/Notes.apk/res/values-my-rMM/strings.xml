@@ -114,6 +114,7 @@
     <string name="menu_title_select_folder">ဖိုလ်ဒါ ရွေးပါ</string>
     <string name="menu_unhide">ဖော်ပါ</string>
     <string name="menu_unstick">ဆွဲဖြုတ်ပါ</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">အခု မဟုတ်ပါ</string>
     <string name="note_description_content">မှတ်စုအက်ပ်သည် သင့်စိတ်ကူးများကို မှတ်တမ်းတင်ထားရန်အတွက် အကောင်းဆုံးဖြစ်သည်။ ၎င်းတွင် မူလကတည်းက ထည့်သွင်းထားသော သတိပေးချက်ဝန်ဆောင်မှု ပါရှိပြီး သင်မှတ်ထားသော အရာများကို Mi Cloud ထဲတွင် ဆင့်ခ်လုပ်သည့်အတွက် ယင်းတို့ကို အချိန်မရွေး နေရာမရွေး ဝင်ရောက် အသုံးပြုနိုင်ပါသည်။ အက်ပ်ကို မဖျက်မီ သင်သည် ၎င်းဝန်ဆောင်မှုများ မရှိသည်ကို လက်ခံနိုင်ကြောင်း သေချာပါစေ။</string>
     <string name="note_description_title">မှတ်စုအကြောင်း</string>
@@ -125,6 +126,7 @@
     <string name="note_sort_way">သင့်မှတ်စုများအား မည်သို့ စီစဉ်လိုသည်ကို ရွေးချယ်ပါ</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">မှတ်ချက် နှိုးဆော်စာ</string>
     <string name="permdesc_accessNote">အမျိုးအမည်မသိအက်ပ်များမှ ဤအရာကိုသုံးပြီး သင့်ကိုယ်ရေးဒေတာများအား ရယူနိုင်သည်။</string>
     <string name="permlab_accessNote">မှတ်ချက်များ ဝင်ကြည့်ပါ</string>
@@ -200,6 +202,8 @@
     <string name="toast_message_add_image_fail">ရုပ်ပုံ ပေါင်းထည့်လို့ မရပါ</string>
     <string name="toast_notes_delete_success">ဖျက်ပြီးပါပြီ</string>
     <string name="toast_notes_hidden_count">%1$sအား ကွယ်ဝှက်ပြီးပါပြီ</string>
+    <string name="toast_notes_hidden_edit">This note was hidden successfully. Pull down to see hidden notes.</string>
+    <string name="toast_notes_hidden_home">This note was hidden successfully. Pull down to see hidden notes.</string>
     <string name="toast_notes_unhidden">ဖော်ထုတ်ပြီးပါပြီ</string>
     <string name="toast_notes_unhidden_count">%1$sအား ဖော်ထုတ်ပြီးပါပြီ</string>
     <string name="toast_reach_text_limit_attachment">မှတ်ချက်က ရှည်လွန်းသောကြောင့်၊ ၎င်းကို ပူးတွဲဖိုင်သစ်များအဖြစ် ပေါင်းထည့်လို့မရပါ</string>
@@ -222,5 +226,4 @@
     <string name="unknown_source">အမည်မသိရင်းမြစ်</string>
     <string name="widget_content_loading">ခဏစောင့်ပါ…</string>
     <string name="widget_havenot_content">မှတ်စုတစ်ခုဖန်တီးရန် ထိနှိပ်ပါ။ အရွယ်အစားပြောင်းရန် ဝစ်ဂျက်အား ထိနှိပ်ထားပါ။</string>
-    <string name="toast_notes_hidden">ကွယ်ဝှက်ပြီးပါပြီ</string>
 </resources>

@@ -38,7 +38,9 @@
     <string name="aqi_quality_ambient_air_quality">အနီးနားရှိ လေအရည်အသွေး</string>
     <string name="aqi_quality_co_desc">ကာဗွန်မိုနောက်ဆိုက်</string>
     <string name="aqi_quality_detail_15_days">၁၅ ရက်အတွက် ခန့်မှန်းချက်</string>
+    <string name="aqi_quality_detail_24_hours">၂၄ နာရီအတွက် ခန့်မှန်းချက်</string>
     <string name="aqi_quality_detail_48_hours">နောက် ၄၈နာရီအတွက် ခန့်မှန်းချက်</string>
+    <string name="aqi_quality_detail_5_days">၅ ရက်အတွက် ခန့်မှန်းချက်</string>
     <string name="aqi_quality_major_pollutants">အဓိကညစ်ညမ်းစေသူများ</string>
     <string name="aqi_quality_map_title">လေထုအရည်အသွေး မြေပုံ</string>
     <string name="aqi_quality_no2_desc">နိုက်ထရိုဂျင်အောက်ဆိုက်</string>
@@ -62,7 +64,7 @@
     <string name="button_sure_abandon">အပြောင်းအလဲများ ဖယ်ပစ်မလား?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">သင့်ကွန်ရက်ဆက်သွယ်မှုကိုစစ်ဆေးပြီး နောက်တစ်ကြိမ်ထပ်ကြိုးစားပါ</string>
-    <string name="china_version_first_start_network_msg">ဤထုတ်ကုန်အား အသုံးပြုခြင်းအားဖြင့်၊ သင်သည် Xiaomi ၏ %1$sနှင့် %2$s တို့အား သဘောတူပြီးဖြစ်ပါသည်။ ပုံမှန်အလုပ်လုပ်ရန်အတွက် ဤအက်ပ်သည် အင်တာနက်သို့ ချိတ်ဆက်ရန်နှင့် သင်၏တည်နေရာရယူရန် လိုအပ်ပါသည်။</string>
+    <string name="china_version_first_start_network_msg">ဤထုတ်ကုန်အား အသုံးပြုခြင်းဖြင့် Xiaomi ၏ %1$sနှင့် %2$sကို သင် သဘောတူလက်ခံသည်။ ပိုမိုတိကျသော မိုးလေဝသသတင်း ရရှိနိုင်ရန် ရာသီဥတုသည် သင့်တည်နေရာအား ဝင်ရောက်ရမည်၊ ထို့အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ သဘောတူမလား?</string>
     <string name="city_exceeded_warning">မြို့ ၁၀ မြို့အထိပေါင်းထည့်နိုင်ပါသည်</string>
     <string name="common_loading_text">ခဏစောင့်ပါ…</string>
     <string name="connect_fail">ကွန်ရက်သို့မချိန်ဆက်နိုင်ခဲ့ပါ၊ ပြန်လုပ်ကြည့်ပါ</string>
@@ -81,11 +83,13 @@
     <string name="daily_forecast_add_city_message">အသေးစိတ်ခန့်မှန်းချက်အတွက် %1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်။</string>
     <string name="daily_forecast_add_city_title">%1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်</string>
     <string name="daily_forecast_detail_date">M/d</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"မိုးလေဝသအချက်အလက်ရယူ၍ မရပါ
 အောက်သို့ဆွဲပြီး ပြန်လန်းဆန်းစေပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="data_provided_by">ဒေတာ ထောက်ပံ့သော</string>
     <string name="edit_city">မြို့တော်အားစီမံ</string>
-    <string name="eu_region_version_first_start_network_msg">ဤထုတ်ကုန်အား အသုံးပြုခြင်းဖြင့် Xiaomi မှ သင်ရှာ​ဖွေသောမြို့များ၏ကိုသြဒီနိတ်၊ ကိုယ်ရေးအချက်အလက်ပေါ်လစီမှ သတ်မှတ်ထားသော အခြားအချက်အလက်များအပါအဝင် သင်၏ကိုယ်ရေးအချက်အလက်အား စုဆောင်းခြင်း၊ အသုံးပြုခြင်းကို သဘောတူရပါမည်။ စုဆောင်းပုံနှင့် အသုံးပြုပုံအား သိရှိနားလည်ရန် ကျွန်ုပ်တို့၏ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို ဖတ်ရှုပါ။ \"သဘောတူပါသည်\"အား ရွေးပါက Xiaomi ၏ %1$sနှင့် %2$sကို သင်သဘောတူလက်ခံသည်။</string>
+    <string name="empty">" "</string>
+    <string name="eu_region_version_first_start_network_msg">ဤထုတ်ကုန်အား အသုံးပြုခြင်းဖြင့် အင်တာနက်သို့ ချိတ်ဆက်၍ သင်ရှာ​ဖွေသောမြို့များ၏ ကိုသြဒီနိတ်၊ ကိုယ်ရေးအချက်အလက်ပေါ်လစီမှ သတ်မှတ်ထားသော အခြားအချက်အလက်များအပါအဝင် သင်၏ကိုယ်ရေးအချက်အလက်အား စုဆောင်းခြင်း၊ အသုံးပြုခြင်းကို သဘောတူရပါမည်။ စုဆောင်းပုံနှင့် အသုံးပြုပုံအား သိရှိနားလည်ရန် ကျွန်ုပ်တို့၏ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို ဖတ်ရှုပါ။ \"သဘောတူပါသည်\"အား ရွေးပါက Xiaomi ၏ %1$sနှင့် %2$sကို သင် သဘောတူလက်ခံသည်။</string>
     <string name="feedback_heavy_rain">မိုးကြီးသော</string>
     <string name="feedback_heavy_snow">နှင်းကျ</string>
     <string name="feedback_light_rain">မိုးအနည်းငယ်ရွာသွန်း</string>
@@ -97,6 +101,8 @@
     <string name="first_start_network_title">အင်တာနက်နှင့် တည်နေရာဝင်ရောက်နိုင်မှု</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ယခု</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="hourly_forecast_title_24_hours_desc">၂၄နာရီအတွက် ခန့်မှန်းချက်</string>
     <string name="hourly_forecast_title_hourly_desc">နာရီအလိုက် ခန့်မှန်းချက်</string>
@@ -110,10 +116,12 @@
     <string name="indices_title_feel">အမှန်တကယ်ခံစားရသော</string>
     <string name="indices_title_pressure">လေထုဖိအား</string>
     <string name="install">တပ်ဆင်</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">အသေးစိတ်များ</string>
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">လေ</string>
     <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
     <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
@@ -158,6 +166,7 @@
     <string name="privacy_grant_failed">ခွင့်ပြုချက် ပေးအပ်၍ မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="privacy_grant_or_revoke_settings">ပေးအပ်ခြင်း &amp; ပြန်ရုပ်သိမ်းခြင်း</string>
     <string name="privacy_grant_success">ခွင့်ပြုချက် ပေးအပ်ပြီးပါပြီ</string>
+    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="privacy_revoke_failed">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်း၍ မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="privacy_revoke_success">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="privacy_settings">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
@@ -185,6 +194,7 @@
     <string name="share_menu_title">မျှဝေပါ</string>
     <string name="share_subject">မျှဝေပါ</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
     <string name="some_where_on_earth">ကမ္ဘာပေါ်ရှိတစ်နေရာရာ</string>
@@ -220,6 +230,7 @@
     <string name="update_setting_title_text">မိုးလေဝသအချက်အလက်ကို အပ်ဒိတ်လုပ်မည်</string>
     <string name="updated_a_moment_ago">မကြာသေးမီက အပ်ဒိတ်လုပ်ထားသည်</string>
     <string name="updating">အပ်ဒိတ်လုပ်နေသည်…</string>
+    <string name="user_agreement">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="video_dialog_subtitle" />

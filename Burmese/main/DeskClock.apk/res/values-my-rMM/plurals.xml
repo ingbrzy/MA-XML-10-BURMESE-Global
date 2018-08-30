@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">%d မိနစ်ကြာကြာ တခနအိပ်</item>
+        <item quantity="other">%d မိနစ်ကြာ တမှေးအိပ်မည်။</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">ဤနှိုးစက်အား ဖျက်မည်လား?</item>

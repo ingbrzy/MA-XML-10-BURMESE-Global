@@ -7,7 +7,7 @@
         <item quantity="other">ပစ္စည်း %d ကို ဘလော့လုပ်ထားသည်</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">သင့်အတွက် ဆောင်းပါး %1$d ပုဒ်</item>
+        <item quantity="other">ဆောင်းပါးအသစ် %1$d ပုဒ်အား ကြည့်ပါ</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">လုပ်ငန်း %dခုကို ဖျက်မလား?</item>
@@ -61,7 +61,7 @@
         <item quantity="other">%dမိနစ် ကျန်ရှိသည်</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">သင့်အတွက် ဗီဒီယို %1$d ခု</item>
+        <item quantity="other">ဗီဒီယိုအသစ် %1$d ခုအား ကြည့်ပါ</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">နေသာသော</item>

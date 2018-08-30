@@ -46,13 +46,13 @@
         <item quantity="other">အသိပေးချက်ရှိတ်တွင် အထိန်းခလုတ် %1$d ခု ပေါ်လာလိမ့်မည်</item>
     </plurals>
     <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="other">အော်ဒီယို မှတ်တမ်း ရယူနိုင်ရန် %1$dဆင့်သာ ကျန်တော့သည်</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT ကိုဝင်ခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>
     </plurals>
     <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="other">GPS မှတ်တမ်း ရယူနိုင်ရန် %1$dဆင့်သာ ကျန်တော့သည်</item>
     </plurals>
     <plurals name="show_modem_logcat_countdown">
         <item quantity="other">မိုဒန်း မှတ်တမ်း ရယူနိုင်ရန် %1$dဆင့်သာ ကျန်တော့သည်</item>

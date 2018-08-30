@@ -36,8 +36,8 @@
     <string name="warm_performance_tip">လုပ်ဆောင်ချက်များလွန်းပါက သင်၏စက်သည် ပိုပူလာလိမ့်မည်။</string>
     <string name="vip_feedback">VIP တုံ့ပြန်အကြံပြုချက်</string>
     <string name="vip_feedback_enable">VIP တုံ့ပြန်အကြံပြုချက် ဖွင့်ပါ</string>
-    <string name="extreme_power_config_mode_category">အစွန်းရောက်မုဒ်</string>
-    <string name="extreme_power_config_mode_title">အစွန်းရောက်မုဒ်</string>
+    <string name="extreme_power_config_mode_category">အထူးမုဒ်</string>
+    <string name="extreme_power_config_mode_title">အထူးမုဒ်</string>
     <string name="extreme_power_config_mode_desc">အစွန်းရောက်မုဒ်သို့ ပြောင်းပါက ဆင့်ခ်လုပ်ခြင်း၊ ဘလူးတုသ်၊ GPS၊ NFC၊ နှစ်ကြိမ်ဆက်တိုက်ထိနှိပ်ခြင်း၊ ခလုတ်အလင်းများ၊ အသိပေးချက်များကြောင့် သော့ခတ်မျက်နှာပြင်နှိုးထစေခြင်းနှင့် သတိပေးချက်အလင်းများကို ပိတ်ထားလိမ့်မည်။ MIUI သည် ဘက်ထရီချွေတာမှုကိုသာ အလေးထားမည်။</string>
     <string name="empty_title_apps_container_list">အက်ပ်များ မရှိပါ</string>
     <string name="hints_loading_text">ခဏစောင့်ပါ…</string>

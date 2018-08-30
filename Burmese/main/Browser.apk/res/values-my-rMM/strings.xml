@@ -61,7 +61,6 @@
     <string name="add_to_quicklink">အစ စာမျက်နှာ</string>
     <string name="added_to_bookmarks">စာအုပ်မှတ်ပြီး</string>
     <string name="adjust_text_zoom_toast">စာသားချုံ့ချဲ့ကို ပြောင်းခြင်းဖြင့် အချို့ဝဘ်ဆိုက်များမှ မမှန်မကန် ပြသခြင်းကို ဖြစ်စေနိုင်သည်</string>
-    <string name="adx_loading_str">ခဏစောင့်ပါ…</string>
     <string name="agree">သဘောတူ</string>
     <string name="agree_permissions_request">ခွင့်ပြုမည်</string>
     <string name="alert_tips">ဤဆိုက်ကို ကြည့်ခြင်းသည် လုံခြုံရေးဆိုင်ရာ ဘေးအန္တရာယ်ရှိနိုင်သည်</string>
@@ -77,7 +76,6 @@
     <string name="aqi_quality_index_moderate">အသင့်အတင့်</string>
     <string name="aqi_quality_index_pure">အလွန်ကောင်းမွန်သော</string>
     <string name="aqi_quality_index_unhealthy">မကျန်းမာသော</string>
-    <string name="articles_updated">ဆောင်းပါး %1$d ပုဒ် အပ်ဒိတ်လုပ်ထားသည်</string>
     <string name="autoSwithcingSearchEngineTips">အသုံးများသော ရှာဖွေရေးအင်ဂျင်သို့ ပြောင်းခဲ့သည်</string>
     <string name="autologin_bar_error">ဆိုင်းအင်ဝင်လို့ မရပါ</string>
     <string name="autologin_bar_hide_text">ကွယ်ဝှက်</string>
@@ -131,7 +129,7 @@
     <string name="clear_most_visited">လတ်တလော သမိုင်းများ</string>
     <string name="clear_search_history">မှတ်တမ်းကို ရှင်းပစ်</string>
     <string name="clear_video_download">ဗီဒီယိုများအား ရှင်းလင်းပါ</string>
-    <string name="click_to_refresh">Stopped here last time, tap to refresh</string>
+    <string name="click_to_refresh">ဤနေရာတွင် ရပ်ခဲ့သည်၊ ရီဖရက်ရှ်လုပ်ရန် ထိနှိပ်ပါ</string>
     <string name="clip_dialog_title">ကော်ပီကူးထားသော URL ကိုဖွင့်မလား?</string>
     <string name="close_ads_choice_no">ခွင့်ပြုပါ</string>
     <string name="close_ads_choice_yes">ဘလော့လုပ်ပါ</string>
@@ -322,6 +320,7 @@
     <string name="ignore_add_pwa_dialog_today">ယနေ့ မပြပါနှင့်</string>
     <string name="in_incognito">သင်ရုပ်ပြောင်းရုပ်လွှဲလုပ်ထားသည်! ဤတဘ်တွင် သင်ကြည့်သော ဝဘ်စာမျက်နှာများသည် သင့်ဘရောက်ဇာမှတ်တမ်းတွင် ပေါ်မည်မဟုတ်ပါ။</string>
     <string name="in_secureaccess">ဘရောက်ဇာအား လုံခြုံမုဒ်သို့ ပြောင်းလဲခဲ့သည်</string>
+    <string name="into_info_flow_guide">နောက်ထပ်ဆောင်းပါးများ ကြည့်ရှုရန်</string>
     <string name="isReplacePage">ဖိုင်တည်ရှိနေပြီးဖြစ်၊ အစားထိုးမည်လား?</string>
     <string name="is_first_history_item">ဘရောက်ဇာမှတ်တမ်းတွင် ပထမဆုံးစာမျက်နှာဖြစ်သည်</string>
     <string name="is_first_tab">ပထမဆုံးတက်ဘ်ဖြစ်သည်</string>
@@ -445,8 +444,8 @@
     <string name="mw_color_picker_value">တန်ဖိုး</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">ကလစ်ဘုတ်သို့ ကော်ပီကူးရာတွင် မအောင်မြင်ပါ</string>
-    <string name="mw_data_traffic_prompt_change">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများကို ရှာဖွေပါက ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက အပိုစရိတ်များ ကုန်ကျနိုင်သည်။</string>
-    <string name="mw_data_traffic_prompt_message">"မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများကို ရှာဖွေပါက ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက     အပိုစရိတ်များ ကုန်ကျနိုင်သည်။"</string>
+    <string name="mw_data_traffic_prompt_change">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများကို ကြည့်ပါက ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက အပိုစရိတ်များ ကုန်ကျနိုင်သည်။</string>
+    <string name="mw_data_traffic_prompt_message">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများကို ရှာဖွေပါက ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက အပိုစရိတ်များ ကုန်ကျနိုင်သည်။</string>
     <string name="mw_data_traffic_prompt_message_short">မိုဘိုင်းဒေတာဖြင့် ရုပ်ရှင်ကြည့်ခြင်းသည် သင့်ဒေတာအစီအစဉ် ကန့်သတ်ချက်သို့ ကျော်လွန်သွားနိုင်ပါသည်။</string>
     <string name="mw_data_traffic_prompt_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
     <string name="mw_date_picker_dialog_clear">ရှင်းလင်းမည်</string>
@@ -461,10 +460,10 @@
     <string name="mw_http_post_warning_resend">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-ဤစာမျက်နှာမှ ထွက်ခွာလိုပါသလား?"</string>
-    <string name="mw_js_dialog_before_unload_negative_button">ဤစာမျက်နှာတွင် ဆက်နေပါ</string>
-    <string name="mw_js_dialog_before_unload_positive_button">ဤစာမျက်နှာမှ ထွက်ခွာမည်</string>
-    <string name="mw_js_dialog_before_unload_title">ကူးပြောင်းရှာဖတ်ခြင်းကို အတည်ပြုပါ</string>
+ဤစာမျက်နှာမှ ထွက်မလား?"</string>
+    <string name="mw_js_dialog_before_unload_negative_button">ဤစာမျက်နှာမှာ ဆက်နေပါ</string>
+    <string name="mw_js_dialog_before_unload_positive_button">ဤစာမျက်နှာမှ ထွက်မည်</string>
+    <string name="mw_js_dialog_before_unload_title">လမ်းညွှန်ခြင်းကို အတည်ပြုပါ</string>
     <string name="mw_js_dialog_title">\"%s\" ပေါ်ရှိ စာမျက်နှာက အဆိုရှိသည်မှာ-</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">လွန်ခဲ့သော လ</string>
@@ -675,8 +674,8 @@
     <string name="mw_payments_unsupported_shipping_address">ဤလိပ်စာသို့ ပို့ဆောင်၍ မရပါ။ အခြားလိပ်စာတစ်ခု ရွေးပါ။</string>
     <string name="mw_payments_unsupported_shipping_option">ဤနည်းဖြင့် ပို့ဆောင်၍ မရပါ။ အခြားနည်းတစ်ခု စမ်းကြည့်ပါ။</string>
     <string name="mw_payments_updated_label">အပ်ဒိတ်လုပ်ပြီးပြီ</string>
-    <string name="mw_permission_alert_window">အဆိုပါအင်္ဂါရပ်အား အသုံးပြုရန် စနစ်ရွေးချယ်မှုကို ဖွင့်ပါ ပေါ့ပ်အပ် ဝင်းဒိုး ပြပါ။</string>
-    <string name="mw_permission_unknown">မသိသော ရွေးချယ်မှုများ</string>
+    <string name="mw_permission_alert_window">အဆိုပါအင်္ဂါရပ်အား အသုံးပြုရန် ပေါ့ပ်အပ် ဝင်းဒိုးအား ဖွင့်ပါ။</string>
+    <string name="mw_permission_unknown">မသိသော ရွေးချယ်မှု</string>
     <string name="mw_photo_picker_browse">ဖတ်ရှုမည်</string>
     <string name="mw_photo_picker_camera">ကင်မရာ</string>
     <string name="mw_photo_picker_select_images">ရုပ်ပုံ ရွေးပါ</string>
@@ -699,13 +698,15 @@
     <string name="mw_sad_tab_send_feedback_label">တုံ့ပြန်အကြံပြုချက် ပေးပို့မည်</string>
     <string name="mw_sad_tab_title">မှားယွင်းမှု ဖြစ်ပေါ်သည်</string>
     <string name="mw_sad_tab_uma_optin">သုံးစွဲမှုစာရင်းနှင့် ပျက်စီးမှုအစီရင်ခံစာများအား Google သို့ အလိုအလျောက်ပေးပို့ပါ</string>
-    <string name="mw_save_password_message">ဘရောက်ဇာအား ဤစကားဝှက်ကို မှတ်ထားစေလိုသလား?</string>
+    <string name="mw_save_password_message">ဤစကားဝှက်အား မှတ်ထားရမလား?</string>
     <string name="mw_save_password_never">လုံးဝ မှတ်မထားပါနှင့်</string>
     <string name="mw_save_password_notnow">ယခုမလုပ်သေးပါ</string>
     <string name="mw_save_password_remember">မှတ်ထားပါ</string>
     <string name="mw_snippets_disabled_generic_prompt">စိတ်ကြိုက်အကြောင်းအရာများ ရယူပါ</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Google မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရယူနိုင်ရန် Chrome သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>
@@ -723,9 +724,8 @@
     <string name="nav_bottom_bar_new_tab">တက်ဘ်အသစ်</string>
     <string name="nav_screen_container_tab_incognito">ရုပ်ဖျက်မုဒ်</string>
     <string name="nav_screen_container_tab_normal">ပုံမှန်တက်ဘ်</string>
-    <string name="nav_screen_incognito_message">"ရုပ်ဖျက်မုဒ်အောက်တွင် ရှာဖွေမှုသမိုင်းကို မသိမ်းဆည်းပါ။
-သို့သော် သင်ဒေါင်းလုဒ်လုပ်သော ဖိုင်နှင့် စာအုပ်မှတ်များအား သိမ်းဆည်းမည်ကို သတိပြုပါ။"</string>
-    <string name="nav_screen_incognito_title">ရုပ်ဖျက်မုဒ်</string>
+    <string name="nav_screen_incognito_message">ရုပ်ဖျက်မုဒ်အောက်တွင် ရှာဖွေမှုသမိုင်းကို မသိမ်းဆည်းပါ။ သို့သော် ဒေါင်းလုဒ်လုပ်ထားသော ဖိုင်နှင့် စာအုပ်မှတ်များအား သိမ်းဆည်းမည်ကို သတိပြုပါ။</string>
+    <string name="nav_screen_incognito_title"> ရုပ်ဖျက်မုဒ်</string>
     <string name="navigation_delete_all">တက်ဘ်အားလုံးကို ပိတ်ရန် ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပါ</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ဖျက်သိမ်းပါ</string>
     <string name="navigationbar_rightbutton_actiontext_go">သွား</string>
@@ -778,11 +778,12 @@
     <string name="pref_accessibility_url_shortcut_enter_summary">ပုံမှန်စာလုံးများကို ပေါင်းစပ်ပြီး လိပ်စာဘားတွင် တစ်ချက်ထိရုံဖြင့် ထည့်သွင်းနိုင်သည်</string>
     <string name="pref_accessibility_url_shortcut_enter_title">URL အမြန်ထည့်သွင်းမှု</string>
     <string name="pref_adblock_title">ကြော်ငြာ ဘလော့လုပ်သည့်အရာ</string>
+    <string name="pref_auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="pref_auto_update_under_wifi">Wi-Fi အား အသစ်မွမ်းမံနေသည်</string>
     <string name="pref_automatic_matching_searchengines_title">မကြာခဏ အသုံးများသော ရှာဖွေရေးအင်ဂျင်သို့ ပြောင်းလိုက်ပါ</string>
     <string name="pref_card_setting">ထိပ်ပိုင်းဆိုဒ် အော်ဒါ</string>
     <string name="pref_category_hint">အမျိုးအစားအုပ်စု</string>
-    <string name="pref_check_recommendation_app_quicklink">သင့်အတွက် အကြံပြုချက်</string>
+    <string name="pref_check_recommendation_app_quicklink">သင့်အတွက်</string>
     <string name="pref_check_security_url_summary">ဝဘ်ဆိုက် URL သည် လုံခြုံမှုရှိမရှိ စစ်ဆေးရန် ၎င်းကို Mi ဆာဗာသို့ ပို့ပါ</string>
     <string name="pref_check_security_url_summary_international">ပိုမိုသင့်လျော်သော အကြံပြုချက်များရရှိနိုင်ရန် ဘရောက်ဇာကို သင်လည်ပတ်ခဲ့သော ဝက်ဘ်ဆိုက်များမှ URL များကို ဝင်ရောက်ခွင့်ပြုပါ။</string>
     <string name="pref_check_security_url_title">URL လုံခြုံရေးကို စစ်ဆေးပါ</string>
@@ -891,7 +892,7 @@
     <string name="privacy_title">Mi ဘရောက်ဇာ မှ ကြိုဆိုပါ၏</string>
     <string name="progress_dialog_setting_wallpaper">နောက်ခံပုံကို သတ်မှတ်နေဆဲ…</string>
     <string name="pull_to_refresh">ပြန်လန်းဆန်းစေရန် အောက်သို့ဆွဲချပါ</string>
-    <string name="pull_to_refresh_pull_label">ပြန်လန်းဆန်းရန် ဆွဲချပါ</string>
+    <string name="pull_to_refresh_pull_label">ရီဖရက်ရှ်လုပ်ရန် ဆွဲချပါ</string>
     <string name="pull_to_refresh_release_label">အကြံပေးရန်နှင့် ပြန်လန်းဆန်းရန် လွှတ်လိုက်ပါ</string>
     <string name="pwa_app_name">ဝက်ဘ် အက်ပ်များ</string>
     <string name="qr_code_title">QR ကုဒ်</string>
@@ -927,6 +928,7 @@
     <string name="readmodelist_bookmarks_to_show">ဖတ်ရှုရန် စာရင်း</string>
     <string name="refresh">ပြန်လည်လန်းဆန်းစေပါ</string>
     <string name="refresh_fail">အချက်အလက်များ မရယူနိုင်ပါ</string>
+    <string name="refresh_guide">အပေါ်သို့ ပြန်သွားပါ</string>
     <string name="refreshing">ပြန်လန်းဆန်းနေသည်…</string>
     <string name="refuse_permissions_request">ကန့်သတ်မည်</string>
     <string name="release_to_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
@@ -1010,7 +1012,7 @@
     <string name="snapshot_failed">စာမျက်နှာကို မသိမ်းနိုင်ခဲ့ပါ</string>
     <string name="snapshot_successed">စာမျက်နှာများကို စာအုပ်မှတ်/မှတ်တမ်း>စက်အတွင်းပိုင်း တွင်ကြည့်ရှုနိုင်သည်</string>
     <string name="soft_toast_see_view">ကြည့်ရှုရန်</string>
-    <string name="source_dislike">Dislike</string>
+    <string name="source_dislike">မကြိုက်ပါ</string>
     <string name="ssl_bad_clock_date_settings">နေ့စွဲ သတ်မှတ်ပါ</string>
     <string name="ssl_bad_clock_warning" formatted="false">%s1သို့ သီးသန့်ချိတ်ဆက်မှု မအောင်မြင်ပါ အဘယ့်ကြောင့်ဆိုသော် သင့်စက်၏ နေ့စွဲနှင့် အချိန်(%s2) လွဲနေပါသည်။</string>
     <string name="ssl_certificate">လုံခြုံရေး အသိအမှတ်ပြုလက်မှတ်</string>
@@ -1089,6 +1091,7 @@
     <string name="version_check_button_resume_download">ဒေါင်းလုဒ်အား ပြန်စတင်</string>
     <string name="version_check_button_update">မွမ်းမံမှု</string>
     <string name="version_check_failed">အပ်ဒိတ်လုပ်၍ မရပါ</string>
+    <string name="version_dialog_4G_checkbox">စနစ်အက်ပ်များအား မိုဘိုင်းဒေတာဖြင့် အပ်ဒိတ်လုပ်နိုင်သည်။ သို့သော် အပိုငွေများ ကုန်ကျနိုင်ခြေရှိသည်။</string>
     <string name="version_dialog_buttion_ok">အိုကေ</string>
     <string name="version_dialog_buttion_update">မွမ်းမံ</string>
     <string name="version_update_file_download_toast">ဒေါင်းလုဒ်လုပ်နေသည်</string>
@@ -1191,6 +1194,7 @@
     <string name="date_picker_dialog_set">သတ်မှတ်ပါ</string>
     <string name="date_picker_dialog_title">နေ့စွဲ သတ်မှတ်ပါ</string>
     <string name="date_time_picker_dialog_title">နေ့စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
+    <string name="external_app_restricted_access_error">Mi ဘရောက်ဇာတွင် လိုအပ်သော အရင်းအမြစ်သို့ ဝင်ရောက်ခွင့် မရှိပါ။</string>
     <string name="find_next">နောက်သို့ ရှာရန်</string>
     <string name="find_previous">ယခင်သို့ ရှာရန်</string>
     <string name="js_dialog_before_unload">"%s

@@ -256,6 +256,7 @@
     <string name="unit_data_display_currency_bhd">ဘာရိန်း ဒီးနား</string>
     <string name="unit_data_display_currency_bnd">ဘရူနိုင်းဒေါ်လာ</string>
     <string name="unit_data_display_currency_brl">ဘရာဇီးရီးယား</string>
+    <string name="unit_data_display_currency_byn">ဘီလာရုရူဘယ်</string>
     <string name="unit_data_display_currency_cad">ကနေဒါဒေါ်လာ</string>
     <string name="unit_data_display_currency_chf">ဆွစ်ဖရန့်</string>
     <string name="unit_data_display_currency_clp">ချီလီပီဆို</string>
@@ -532,5 +533,4 @@
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
     <string name="year" />
-    <string name="unit_data_display_currency_byr">ဘီလာရုရူဘယ်</string>
 </resources>
