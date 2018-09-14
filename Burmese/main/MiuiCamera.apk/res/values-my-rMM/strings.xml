@@ -38,6 +38,9 @@
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
     <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">240FPS ဖြင့် 720P ဗီဒီယိုများသာ ရိုက်ကူးနိုင်သည်</string>
     <string name="pref_video_encoder_title">ဗီဒီယို ကုဒ်ထည့်ကိရိယာ</string>
     <string name="pref_video_encoder_entry_h264">H.264 လိုက်ဖက်မှုမြင့်သော</string>
     <string name="pref_video_encoder_entry_h265">H.265 စွမ်းဆောင်ရည်မြင့်သော</string>
@@ -412,9 +415,9 @@
     <string name="dual_camera_too_close_toast">ကင်မရာသည် အရာဝတ္တုနှင့် နီးလွန်းသည်။</string>
     <string name="dual_camera_lowlight_toast">အလွန်မှောင်နေသည်။</string>
     <string name="dual_camera_lens_covered_toast">မှန်ဘီးလူးအား ကာထားသည်။</string>
-    <string name="dual_camera_use_hint">ရိုက်ကူးမည့် အရာဝတ္ထုကို ၂မီတာအတွင်း ထားပါ။</string>
+    <string name="dual_camera_use_hint">ရိုက်ကူးမည့်အရာအား ၂ မီတာအတွင်း ထားပါ။</string>
     <string name="bokeh_use_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
-    <string name="back_bokeh_use_hint">ရိုက်ကူးမည့် အရာဝတ္ထုကို ၁.၅ မီတာအတွင်း ထားပါ။</string>
+    <string name="back_bokeh_use_hint">ဓာတ်ပုံ အကောင်းဆုံးဖြစ်ပေါ်စေရန် ရိုက်ကူးမည့်အရာအား ၁.၅ မီတာအတွင်း ထားပါ</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">မှန်ဘီလူး</string>
@@ -430,8 +433,11 @@
     <string name="portrait_mode_too_close_hint">အရာဝတ္ထု၏ အဝေးသို့ရွှေ့ပေးပါ</string>
     <string name="portrait_mode_too_far_hint">ရိုက်ကူးမည့်အရာအား ၂ မီတာအတွင်း ထားပါ</string>
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
-    <string name="portrait_mode_use_hint">"လူပုံရိုက်ကူးခြင်းသည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
+    <string name="portrait_mode_use_hint">"လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"လူပုံမုဒ်အား သုံးကြည့်ပါ။
+လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီးအရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
     <string name="simple_mode_button_text_square">စတုရန်းပုံအား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -446,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -470,6 +477,7 @@
     <string name="hint_ae_af_lock">အော်တို ဆုံချက်ညှိခြင်း/ အော်တို အလင်းကျရောက်မှုအား လော့ခ်ချထားသည်</string>
     <string name="hint_device_water_mark">ဓာတ်ပုံ အမှတ်အသားအား အလိုအလျောက် ပေါင်းထည့်မည်။</string>
     <string name="module_name_fun">ဗွီဒီယိုအတိုလေး</string>
+    <string name="module_name_new_slow_motion">အနှေးရိုက်ချက်</string>
     <string name="module_name_video">ဗီဒီယို</string>
     <string name="module_name_capture">ဓာတ်ပုံ</string>
     <string name="module_name_beauty">လှပမှု</string>
@@ -559,4 +567,5 @@
     <string name="lighting_pattern_dot">အစက်အပြောက်</string>
     <string name="lighting_pattern_shutter">လိုက်ကာ</string>
     <string name="view_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကြည့်ရှုရန်</string>
+    <string name="fps960_toast">တိုင်မာသည် အဖြူရောက်အစက်သို့ ရောက်သောအခါ အနှေးရိုက်ချက် စတင် ရိုက်ကူးမည်</string>
 </resources>

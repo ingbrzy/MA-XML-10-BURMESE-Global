@@ -67,6 +67,7 @@
     <string name="disagree">ပယ်ဖျက်သည်</string>
     <string name="setting_locale">ပင်ရင်းဒေသ သတ်မှတ်နေ…</string>
     <string name="agree_terms">ဝန်ဆောင်မှုစည်းမျဉ်းများနှင့် ကိုယ်ရေးမူဝါဒများအား ကျွန်ုပ်ဖတ်ပြီး သဘောတူပါသည်။</string>
+    <string name="poco_agree_terms_other">(POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ နှင့် POCO Launcher အသုံးပြုသူ သဘောတူညီမှု အပါအဝင်)</string>
     <string name="agree_terms_input_method_facemoji">Facemoji ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကျွန်ုပ် ဖတ်ရှုပြီး သဘောတူပါသည်။</string>
     <string name="agree_terms_input_method_kika">Kika ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကျွန်ုပ် ဖတ်ရှုပြီး သဘောတူပါသည်။</string>
     <string name="miui_terms_no_network">သင့်၌ အင်တာနက်ချိတ်ဆက်မှုတစ်ခု ရှိမနေပါ။ %s ၌ ဝန်ဆောင်မှုသတ်မှတ်ချက်များကို ကြည့်ပါ။</string>
@@ -100,5 +101,16 @@
     <string name="continue_to_enable_accessibility">ဝင်သုံးခွင့် ဖွင့်ရန် လက်ချောင်းနှစ်ချောင်းဖြင့် ဖိထားပါ။</string>
     <string name="voice_assist_title">အသံဖြင့် နှိုးပါ</string>
     <string name="voice_assist_desp">သင်၏ဖုန်းသို့ \"Mi AI\"ဟု ပြောပါ။ Mi AI သည် သင်၏အသံကို မှတ်ထားပြီး ဖုန်းကို ထိန်းချုပ်နိုင်မည်။</string>
-    <string name="voice_assist_desp_screen_light">ဖုန်းမျက်နှာပြင် လင်းသောအခါ သင့်ဖုန်းသို့ \"Mi AI\"ဟု ပြောပါ။ Mi AI သည် သင်၏အသံကို မှတ်ထားပြီး ဖုန်းကို ထိန်းချုပ်နိုင်မည်။</string>
+    <string name="voice_assist_condition">"Mi AI အား အောက်ပါ အခြေအနေများတွင် သုံးနိုင်သည်-
+၁။ မျက်နှာပြင် လင်းနေသောအခါ၊
+၂။ မျက်နှာပြင်အား ပိတ်၍ သီချင်းနားထောင်သောအခါ။"</string>
+    <string name="voice_assist_advice">Mi AI သည် အသံထိန်းချုပ်မှုအား သုံးရန် ခွင့်ပြုသည်၊ သို့သော် ဘက်ထရီ ပိုကုန်စေနိုင်သည် (၁ နာရီလျှင် ၁%)။</string>
+    <string name="ai_button_title">AI ခလုတ် အကြောင်း</string>
+    <string name="ai_button_desc">ဤခလုတ်ဖြင့် Mi AI အား နှိုးထစေနိုင်သည်၊ သင်၏အသံဖြင့် ဖုန်းထဲရှိ အလုပ်များကို လုပ်ဆောင်ခိုင်းနိုင်သည်</string>
+    <string name="ai_button_long_press">ဖိပြီး နှိပ်ထားပါ</string>
+    <string name="ai_button_long_press_desc">ညွှန်ကြားချက်များ ပြောပြီးလျှင် ခလုတ်အား လွတ်လိုက်ပါ</string>
+    <string name="ai_button_single_press">ထိနှိပ်ပါ</string>
+    <string name="ai_button_single_press_desc">Mi AI နှိုးထခလုတ်</string>
+    <string name="ai_button_double_press">နှစ်ချက် ထိနှိပ်ပါ</string>
+    <string name="ai_button_double_press_desc">Mi AI အင်္ဂါရပ်များအား သတ်မှတ်ပါ</string>
 </resources>

@@ -13,6 +13,7 @@
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
     <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
+    <string name="empty">" "</string>
     <string name="share">မျှဝေပါ</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
@@ -29,7 +30,7 @@
     <string name="fastboot_locked_answer_3">MIUIဝက်ဘ်ဆိုက်မှ သော့ဖြည်ကိရိယာကို အသုံးပြုသင့်ပါသည်။ စက်ကို သော့ဖြည်ရန်၊ စက်မှာ သင့်စက်ဖြစ်ကြောင်း သေချာရန် လိုအပ်ပါသည်။ ထို့အတွက်ကြောင့် Mi အကောင့် သို့ဆိုင်းအင်ဝင်ရန်နှင့် \"စက်ကို ရှာပါ\"ကို ဖွင့်ရန် လိုအပ်ပါသည်။</string>
     <string name="fastboot_unlock_web_title">တရားဝင် MIUIဝက်ဘ်ဆိုက်သို့ ဝင်ရောက်ပြီး သော့ဖြည်သည့် ကိရိယာကို ရယူပါ။</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="game_booster">ဂိမ်းကစားမှု အရှိန်မြှင့်တင်သူ</string>
+    <string name="game_booster">ဂိမ်းအရှိန်မြှင့်တင်မှု</string>
     <string name="gb_weixinpay_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
     <string name="gb_alipays_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
     <string name="xunyou_pay_webview">Xunyou ဝန်ဆောင်မှုများ</string>

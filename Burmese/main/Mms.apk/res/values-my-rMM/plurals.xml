@@ -21,6 +21,9 @@
     <plurals name="hint_search_sms">
         <item quantity="other">မက်ဆေ့ချ် %d စောင်</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">%1$d ဦးမှ %2$s အဖြစ် အမှတ်အသားပြုထားသည်</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">မက်ဆေ့ချ် %1$s စောင်</item>
     </plurals>

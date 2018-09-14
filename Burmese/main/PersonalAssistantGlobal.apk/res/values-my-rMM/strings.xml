@@ -85,6 +85,7 @@
     <string name="card_settings_rule">ကဒ်အစီအစဉ် ဆက်တင်</string>
     <string name="card_title_funclaunch">ရှော့ကဒ်များ</string>
     <string name="card_title_noteboard">ရိုးရှင်းသောမှတ်စု</string>
+    <string name="card_title_utilities">အများပြည်သူ ဝန်ဆောင်မှု</string>
     <string name="check_network">ကွန်ရက် ဆက်တင်များကို စစ်ဆေးပါ</string>
     <string name="check_network_retry">ကွန်ရက် ဆက်တင်များကို စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="cleanup_garbage">သန့်ရှင်းစက်</string>
@@ -121,6 +122,7 @@
     <string name="google">Google</string>
     <string name="help_quick_start_wechat_video">အထူးအင်္ဂါရပ်များသို့ ရှော့ကဒ်ဖြင့် ဝင်ရောက်နိုင်ပါသည်</string>
     <string name="hold_down_adjustment_order">အိုင်တမ်များကို ချိန်ညှိရန် ညာဘက်ရှိ အိုင်ကွန်အား ဆွဲချပါ</string>
+    <string name="holiday_empty_desc">နောက်ထပ် ဖတ်ရန် ဤနေရာကို ထိနှိပ်ပါ</string>
     <string name="home">အိမ်</string>
     <string name="home_and_company">အိမ် &amp; အလုပ်</string>
     <string name="hour12_format_en">hh:mm</string>
@@ -182,6 +184,7 @@
     <string name="no_more_result">မရှိတော့ပါ</string>
     <string name="no_settings">မသတ်မှတ်ရသေးပါ</string>
     <string name="no_signal">ရီဖရက်ရှ်လုပ်၍ မရပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="no_utilities_apps">ဝန်ဆောင်မှုများ မရှိသေးပါ။ နောက်မှ ပြန်စစ်ကြည့်ပါ။</string>
     <string name="not_install_c1">ဤအက်ပ်ကို သင့်ဖုန်းတွင် မထည့်သွင်းထားပါ။ ဒေါင်းလုဒ်လုပ်၍ ထည့်သွင်းမလား?</string>
     <string name="not_install_c3">ဒေါင်းလုဒ် လုပ်မည်</string>
     <string name="not_install_c4">မလိုအပ်ပါ</string>
@@ -324,6 +327,7 @@
     <string name="upgrade_log_title">ဗားရှင်းအသစ်</string>
     <string name="upgrade_now">အပ်ဒိတ်လုပ်မည်</string>
     <string name="user_id">အသုံးပြုသူ ID- %s</string>
+    <string name="utilities_apps_bref">အခြားနေရာမှ ဝန်ဆောင်မှုများအား ဤနေရာတွင် ရှာဖွေပါ</string>
     <string name="walk">လမ်းလျှောက်မည်</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">ပုံမှန်အားဖြင့် လိုရာခရီးသို့ သင်ဘယ်လိုသွားသလဲ?</string>

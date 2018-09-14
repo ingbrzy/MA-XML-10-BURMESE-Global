@@ -90,12 +90,15 @@
     <string name="android_beam_witch_label">အန်းဒရိုက်ဘင်း</string>
     <string name="animator_duration_scale_title">အန်နီမေးရှင်းကြာချိန် စကေး</string>
     <string name="anti_spam">ပိတ်ဆို့စာရင်း</string>
+    <string name="aod_close_color_inversion">ဤအင်္ဂါရပ်သည် အရောင်ပြောင်းပြန်လှန်ခြင်းနှင့် တွဲသုံး၍ မရပါ။ အရောင်ပြောင်းပြန်လှန်ခြင်းကို ဦးစွာ ပိတ်ပါ။</string>
+    <string name="aod_got_it">နားလည်ပါပြီ</string>
     <string name="aod_mode_summary">မျက်နှာပြင်ပိတ်ထားသည့်အခါ အချိန်၊ ရက်စွဲနှင့်မက်ဆေ့ချ်များအား အမြဲပြမည်</string>
     <string name="aod_mode_time_summary">အမြဲဖွင့်မုဒ်သို့ ပြောင်းရမည့်အချိန် သတ်မှတ်ပါ</string>
     <string name="aod_mode_time_title">အချိန်ဇယား</string>
     <string name="aod_mode_title">အမြဲတမ်းဖွင့်ထားမည်။</string>
     <string name="aod_mode_turn_off">ပိတ်မည်</string>
     <string name="aod_mode_turn_on">ဖွင့်မည်</string>
+    <string name="aod_to_close">ပိတ်ပါ</string>
     <string name="apn_general">အထွေထွေ</string>
     <string name="apn_mms">MMS</string>
     <string name="apn_new">ဝင်ရောက်ခြင်းပွိုင့်အသစ်</string>
@@ -110,6 +113,9 @@
     <string name="app_floating_window_dlg_disable">အက်ပ်စ်ကို ပြန်စရန်လိုအပ်သော ဖလုတ်ဖြစ်နေသောဝင်းဒိုးအပြင်အဆင်များ %1$s ကိုပိတ်မည်</string>
     <string name="app_floating_window_dlg_enable">အက်ပ်စ်ကို ပြန်စရန်လိုအပ်သော ဖလုတ်ဖြစ်နေသောဝင်းဒိုးအပြင်အဆင်များ %1$s ကိုဖွင့်မည်</string>
     <string name="app_invisible">မမြင်ရသော အက်ပ်များ</string>
+    <string name="app_link_open_always">ဖွင့်မည်</string>
+    <string name="app_link_open_ask">အမြဲမေးပါ</string>
+    <string name="app_link_open_never">မဖွင့်ပါနှင့်</string>
     <string name="app_mobile">မိုဘိုင်းဒေတာ</string>
     <string name="app_name_na">ဒေတာသုံးစွဲမှု</string>
     <string name="app_notifications_switch_label">အသိပေးချက်ကို စိတ်ကြိုက်လုပ်မည်</string>
@@ -334,15 +340,19 @@
     <string name="bootloader_device_bind_fail">အတည်မပြုနိုင်ခဲ့ပါ၊ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="bootloader_device_bind_msg">အကောင့်နှင့် စက် ပေါင်းထည့်ရန် ပြင်ဆင်နေသည်…</string>
     <string name="bootloader_device_bind_no_account">သင့် Mi အကောင့်သို့ ဦးစွာ ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="bootloader_device_bind_no_data_network">WiFi အား ပိတ်ပြီး မိုဘိုင်းဒေတာဖြင့် သင်၏အကောင့်နှင့် စက်ကို ပေါင်းထည့်ပါ။</string>
     <string name="bootloader_device_bind_no_network">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="bootloader_device_bind_no_sim">ဆင်းမ်ကဒ်ထည့်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="bootloader_device_bind_server_code">ပေါင်းထည့်၍ မရခဲ့ပါ။ အမှားကုဒ်-</string>
+    <string name="bootloader_device_bind_server_token_expired_1">အတည်ပြု၍ မရပါ။ သင်၏အကောင့်နှင့် စက်အား ပြန်ပေါင်းထည့်ကြည့်ပါ။</string>
+    <string name="bootloader_device_bind_server_token_expired_2">အတည်ပြု၍ မရပါ။ သင်၏အကောင့်သို့ ဆိုင်းအင်ပြန်ဝင်ပြီး ကြိုးစားကြည့်ပါ။</string>
     <string name="bootloader_device_bind_sim_invalid">ဆင်းမ်ကဒ် မမှန်ကန်ပါ။ အခြားဆင်းမ်ကဒ် အစားထိုးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="bootloader_locked_answer_1">စက်များအား လုံခြုံစေရန်နှင့် ကိုယ်ရေးအချက်အလက်များအား အခြား တတိယပါတီများသို့ ပိတ်ထားရန် စက်သော့ခတ်ခြင်းကို သုံ:ပါသည်။ Fastboot မုတ်သို့မဟုတ် သင့်စက်ကို ဖလက်ရှ်လိုသည့်အခါ သော့ဖြည်နိုင်ပါသည်။</string>
     <string name="bootloader_locked_answer_1_warning">သတိပြုပါ−ဖုန်းအား သော့ဖြည်ပြီးနောက် \"စက်ရှာဖွေခြင်း\" ကိုအသုံးပြု၍ရနိုင်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="bootloader_locked_answer_2">"၁။ စက်ထဲတွင် ဆင်းမ်ကဒ် ရှိမရှိ စစ်ကြည့်ပါ။
-၂။ Mi အကောင့်အား ဤစက်နှင့် တွဲရန် အောက်ရှိ \"အကောင့် ပေါင်းထည့်ပါ\"အား ထိနှိပ်ပါ။
-၃။ သော့ဖြည်ကိရိယာအား ကျွန်ုပ်တို့၏ဝက်ဘ်ဆိုက်မှ ဒေါင်းလုဒ်လုပ်ပါ။ ကွန်ပျူတာမှ စက်အား သော့ဖြည်ရန် သတိပြုပါ။ ဒေါင်းလုဒ်လုပ်ရန်-"</string>
+၂။ WiFi အား ပိတ်၍ မိုဘိုင်းဒေတာကို ဖွင့်ပါ။ သင်၏စက်သည် မိုဘိုင်းဒေတာဖြင့် အင်တာနက်သို့ ချိတ်ဆက်နိုင်ကြောင်း သေချာစေပါ။
+၃။ Mi အကောင့်အား ဤစက်နှင့် တွဲရန် အောက်ရှိ \"အကောင့် ပေါင်းထည့်ပါ\"အား ထိနှိပ်ပါ။
+၄။ သော့ဖြည်ကိရိယာအား ကျွန်ုပ်တို့၏ဝက်ဘ်ဆိုက်မှ ဒေါင်းလုဒ်လုပ်ပါ။ ကွန်ပျူတာမှ စက်အား သော့ဖြည်ရန် သတိပြုပါ။ ဒေါင်းလုဒ်လုပ်ရန်-"</string>
     <string name="bootloader_locked_answer_2_no_sim">"၁။ Mi အကောင့်အား ဤစက်နှင့် တွဲရန် အောက်ရှိ \"အကောင့် ပေါင်းထည့်ပါ\"အား ထိနှိပ်ပါ။
 ၂။ သော့ဖြည်ကိရိယာအား ကျွန်ုပ်တို့၏ဝက်ဘ်ဆိုက်မှ ဒေါင်းလုဒ်လုပ်ပါ။ ကွန်ပျူတာမှ စက်အား သော့ဖြည်ရမည်ကို သတိပြုပါ။ ဒေါင်းလုဒ်လုပ်ရန်-"</string>
     <string name="bootloader_locked_check_status">အကောင့်နှင့် စက်ပေါင်းထည့်ပါ</string>
@@ -361,6 +371,7 @@
     <string name="bootloader_status_unlocked">လော့ခ်မချထားပါ</string>
     <string name="bootloader_status_unlocked_info">ဤစက်ကို သော့ဖြည်ထားသည်</string>
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးခြင်းအသစ်ရချိန်တွင် အလင်းရောင်</string>
     <string name="breathing_light_freq_summary">အသိပေးခြင်းအသစ်ရှိချိန်တွင် ပိုသိသာစေသည်</string>
@@ -489,6 +500,7 @@
     <string name="country_name">%s (စနစ်)</string>
     <string name="credentials_configure_lock_screen_hint">ကျိန်းသေသော သိုလှောင်ခြင်းများကိုမပြုလုပ်နိုင်မီ မျက်နှာပြင်လော့ခ် ပင် သို့မဟုတ် လျို့ဝှက်စကားလုံးကို သတ်မှတ်ထားရန်လိုအပ်ပါသည်။</string>
     <string name="credentials_password_too_short">စာလုံး 8 လုံးအနည်းဆုံး</string>
+    <string name="credentials_title_verification">အတည်ပြုခြင်း</string>
     <string name="crypt_keeper_conditions">ကုဒ်ဖွဲ့ခြင်းသည် တစ်နာရီနှင့်အထက်ကြာနိုင်ပါသည်။ ထိုသို့လုပ်ဆောင်ခြင်းစတင်ရန် ဘက်ထရီအားဖြည့်ထားရပါမည်၊ လုပ်ဆောင်နေစဉ်လဲ အားသွင်းထားရပါမည်။ ကြားဝင်နှောက်ယှက်မှုရှိပါက သင့်ဒေတာများ ပျက်စီးသွားနိုင်ပါသည်။</string>
     <string name="crypt_keeper_conditions_title">သင့်စက်အား ကုဒ်ဖွဲ့ခြင်းအကြောင်း</string>
     <string name="crypt_keeper_content">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
@@ -536,8 +548,11 @@
     <string name="debug_networking_category">ကွန်ရက်</string>
     <string name="debug_view_attributes">မြင်ကွင်းအရည်အသွေးစစ်ဆေးခြင်းကို ဖွင့်မည်</string>
     <string name="defalut_launcher_title">ပုံသေ ပင်မမျက်နှာပြင်</string>
+    <string name="default_browser_title">ဘရောက်ဇာ</string>
+    <string name="default_browser_title_none">ရွေးမထားပါ</string>
     <string name="default_input_method">သတ်မှတ်ပုံစံ ကီးဘုတ်ကို ရွေးပါ</string>
     <string name="default_launcher_title">နဂိုမူလ အစပျိုးစက်</string>
+    <string name="default_phone_title">ဖုန်းခေါ်</string>
     <string name="default_rule_name">တိုင်မာ ၁</string>
     <string name="default_usb_mode">USB ဆက်သွယ်မှု</string>
     <string name="delete_fingerprint_confirm_msg">လက်ဗွေအား ဖယ်ရှားမလား?</string>
@@ -555,7 +570,7 @@
     <string name="dev_logpersist_clear_warning_title">မှတ်တမ်းသိုလှောင်ခန်းအား ရာသက်ပန်ရှင်းပစ်မလား?</string>
     <string name="dev_settings_warning_message">ဤဆက်တင်များသည် ပြုစုသူများအတွက်သာ ဖြစ်သည်။ အသုံးပြုမည်ဆိုပါက သင်၏စက်နှင့် စက်ပေါ်မှ အက်ပ်များတွင် မှားယွင်းမှုများ ဖြစ်ပေါ်စေနိုင်ပါသည်။</string>
     <string name="dev_settings_warning_title">ပြုစုပျိုးထောင်မှုဆက်တင် ခွင့်ပြုမလား?</string>
-    <string name="developer_build">ဘီတာ</string>
+    <string name="developer_build">နမူနာ</string>
     <string name="development_enable">ထုတ်လုပ်သူ ရွေးစရာများ</string>
     <string name="development_settings_enable">ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများ ဖွင့်မည်</string>
     <string name="development_settings_not_available">ဤသုံးစွဲသူသည် ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများကို အသုံးပြု၍မရပါ</string>
@@ -631,6 +646,7 @@
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -665,6 +681,9 @@
     <string name="dndm_wristband_detailed">"\"အကယ်၍ Mi လက်ပတ်မှ အစီစဉ်တစ်ခုခု၏စတင်ချိန်မတိုင်မီ တစ်နာရီအတွင်း သင်အိပ်ပျော်နေသည်ကို
  ထောက်လှမ်းမိပါက မနှောင့်ယှက်ပါနှင့် အား ဖွင့်မည်\""</string>
     <string name="do_not_disturb_mode">မနှောင့်ယှက်ပါနှင့်</string>
+    <string name="domain_urls_summary_none">ပံ့ပိုးထားသော လင့်ခ်များအား မဖွင့်ပါနှင့်</string>
+    <string name="domain_urls_summary_one">%sအား ဖွင့်ပါ</string>
+    <string name="domain_urls_summary_some">%sနှင့် အခြား URLများအား ဖွင့်ပါ</string>
     <string name="double_click_power_key">ပါဝါခလုတ်ကို နှစ်ကြိမ် ထိနှိပ်ပါ</string>
     <string name="download_current_rom">MIUI နောက်ဆုံးဗားရှင်းကိုရယူပါ</string>
     <string name="downloading_description">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
@@ -745,8 +764,8 @@
     <string name="factory_reset_summary">သင့်ဖုန်းအတွင်းမှတ်ဉာဏ်မှဒေတာများအားလုံးကိုဖျက်ပစ်မည်</string>
     <string name="failed_to_check_find_device_status_content">စက်ရှာဖွေမှု အခြေအနေအား မစစ်ဆေးနိုင်ခဲ့ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="failed_to_check_find_device_status_title">အခြေအနေအား မစစ်ဆေးနိုင်ခဲ့ပါ</string>
-    <string name="failed_to_erase_text">လုပ်ငန်းစဉ် ၁၂၁၇ မစတင်မီ သော့ခတ်မျက်နှာပြင် စကားဝှက်အား ပိတ်ပါ။</string>
-    <string name="failed_to_erase_title">တားမြစ်ထားသော လုပ်ငန်းစဉ်</string>
+    <string name="failed_to_erase_text">\"၁၂၁၇\"ကုဒ် မရိုက်ထည့်မီ သော့ခတ်မျက်နှာပြင် စကားဝှက်အား ပိတ်ပါ။</string>
+    <string name="failed_to_erase_title">ဤလုပ်ဆောင်ချက်အား လုပ်ဆောင်မပေးနိုင်ပါ</string>
     <string name="failed_to_open_app_settings_toast">%1$s အတွက် ဆက်တင်ကို ဖွင့်၍မရပါ</string>
     <string name="failed_to_shut_down_find_device_content">စက်ရှာဖွေအား မပိတ်နိုင်ခဲ့ပါ။ ခဏစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="failed_to_shut_down_find_device_title">မပိတ်နိုင်ခဲ့ပါ</string>
@@ -804,6 +823,7 @@
     <string name="floating_window_switch_label_disable">ဖလုတ်ဖြစ်နေသော ဝင်းဒိုးများကို ပိတ်မည်</string>
     <string name="fluency_mode">စနစ် အန်နီမေးရှင်းများ</string>
     <string name="fluency_mode_confirm_and_reboot">ယခုပိတ်ပြီး ပြန်စ</string>
+    <string name="following_us_title">ဖော်လိုလိုက်ပါ</string>
     <string name="font_size_exhuge">အလွန်ကြီးမားသော</string>
     <string name="font_size_huge">အလွန်ကြီး</string>
     <string name="font_size_large">ပိုကြီးသော</string>
@@ -931,6 +951,7 @@
     <string name="high_performance_notif_title">လုပ်ဆောင်ရည်မုဒ်အား ဖွင့်ထားပါသည်</string>
     <string name="high_performance_title">ဘန့်ချ်မှတ်စမ်းသပ်ခြင်းကိုလုပ်ဆောင်နေသည်ဟုထင်ရပါသည်။ ပိုကောင်းသော ရလဒ်အတွက် ပါဝါစီမံခန့်ခွဲခြင်းကို လုပ်ဆောင်ချက်သို့ သတ်မှတ်မည်</string>
     <string name="home">ပင်မမျက်နှာပြင် ဆက်တင်များ</string>
+    <string name="home_app">အစပျိုးစက်</string>
     <string name="home_key">ပင်မ</string>
     <string name="http_invoke_app">ဝက်ဘ်အက်ပ်အသစ်များ</string>
     <string name="http_invoke_app_summary">အက်ပ်များအား မတပ်ဆင်ဘဲနှင့် ပိုမိုလျှင်မြန်စွာ ဖွင့်ပါ</string>
@@ -952,7 +973,7 @@
     <string name="install_no_market_app_summary">အက်ပ်စ် စတိုးမဟုတ်သောအခြားရင်းမြစ်များမှ အက်ပ်စ်များကို ထည့်သွင်းခြင်းခွင့်ပြုမည်</string>
     <string name="install_no_market_app_title">မသိသောရင်းမြစ်များ</string>
     <string name="install_other_apps">မသိသောအက်ပ်များကို ထည့်သွင်းမည်</string>
-    <string name="install_preinstall_app">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
+    <string name="install_preinstall_app">နိုင်ငံဒေသ ပြောင်းနေသည်…</string>
     <string name="install_whole_rom">ROM ကို ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="instruction_privacy_password">ဤစကားဝှက်သည် အောက်ပါအိုင်တမ်များကို အကာအကွယ်ပေးသည်</string>
     <string name="instruction_title">အရေးကြီးသော လုံခြုံရေးအချက်လက်</string>
@@ -1345,7 +1366,7 @@
     <string name="navigation_guide_app_summary">မျက်နှာပြင်ထိပ်ပိုင်းတွင် ဘယ်ဘက် သို့မဟုတ် ညာဘက်မှ ပွတ်ဆွဲပါ</string>
     <string name="navigation_guide_app_title">အက်ပ်၏ အက်ရှင် ခလုတ်</string>
     <string name="navigation_guide_appswitch_anim_summary">ယခင် အက်ပ်သို့ ပြန်သွားရန် မျက်နှာပြင်၏ နှစ်ဖက်စွန်းမှ အတွင်းသို့ ပွတ်ဆွဲပါ</string>
-    <string name="navigation_guide_appswitch_anim_title">ယခင် အက်ပ်သို့ ကူးပြောင်းပါ</string>
+    <string name="navigation_guide_appswitch_anim_title">ယခင်အက်ပ်သို့ ပြန်သွားပါ</string>
     <string name="navigation_guide_appswitch_click">\"ယခင် အက်ပ်သို့ ပြန်သွားပါ\"အား ဦးစွာ ဖွင့်ပါ</string>
     <string name="navigation_guide_appswitch_summary">မျက်နှာပြင်ထိပ်ပိုင်းတွင် ဘယ်ဘက် သို့မဟုတ် ညာဘက်မှ ပွတ်ဆွဲပြီး ခေတ္တရပ်ထားပါ</string>
     <string name="navigation_guide_appswitch_title">ယခင်အက်ပ်သို့ ကူးပြောင်းပါ</string>
@@ -1401,6 +1422,7 @@
     <string name="night_light_tip">ညမုဒ်ဖွင့်ထားမှသာ ပြောင်းလဲမှုသည် အကျိုးထိရောက်မည်</string>
     <string name="no_application">မရှိပါ</string>
     <string name="no_connected_devices">ချိတ်ထားသော စက်များ မရှိပါ</string>
+    <string name="no_default_home">ရွေးမထားပါ</string>
     <string name="no_internet_access_text">Wi-Fi ကွန်ရက် %1$sသည် အင်တာနက်သို့ ဝင်ရောက်၍ ရမည်မဟုတ်ပါ။ ဆက်လက် အသုံးပြုလိုပါသလား?</string>
     <string name="no_media_button_receiver">မဟုတ်ပါ</string>
     <string name="no_nearby_wifi">မည်သည့်ကွန်ရက်မှ ရှာမတွေ့ပါ</string>
@@ -1674,6 +1696,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -1880,7 +1903,7 @@
     <string name="search_input_hint">ရှာ​ဖွေမှု ဆက်တင်များ</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_key_settings_title">ခလုတ်များ၊ ကီးများ</string>
-    <string name="search_lab_functions_title">Beta အင်္ဂါရပ်များ၊ Lab လုပ်ဆောင်ရည်</string>
+    <string name="search_lab_functions_title">နမူနာ အင်္ဂါရပ်များ၊ Lab လုပ်ဆောင်ရည်</string>
     <string name="search_label">ဆက်တင်များ</string>
     <string name="search_language_settings">ဘာသာစကား &amp; ထည့်သွင်းစနစ်၊ ဘာသာစကား၊ ဘာသာစကားနှင့် ထည့်သွင်းစနစ်၊ ထည့်သွင်းစနစ်၊ ကီးဘုတ်</string>
     <string name="search_led_settings">LED၊ အသိပေးချက်အလင်း၊ LED အလင်း</string>
@@ -2012,6 +2035,7 @@
     <string name="security_encryption_attention_3">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ် သတ်မှတ်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="security_encryption_attention_4">သင့်သော့ခတ်မျက်နှာပြင်စကားဝှက်အား မမေ့ပါနှင့်၊ သို့မဟုတ်ပါက စက်အား အစအဆုံးပြန်သတ်မှတ်ရန် လိုအပ်ပြီး ဒေတာအားလုံး ဆုံးရှုံးနိုင်ပါသည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">သော့ခတ်မျက်နှာပြင်စကားဝှက်ဖြင့် စက်အားကုဒ်မဖွဲ့ရန် ရွေးချယ်ခြင်းသည် Google ဝန်ဆောင်မှုများအား အသုံးပြု၍မရနိုင်ဘဲ ဖြစ်နိုင်ပါသည်။</string>
     <string name="security_encryption_close_dialog_title">မူလစကားဝှက်ကာကွယ်မှု သို့ပြန်သွားပါ</string>
@@ -2021,8 +2045,8 @@
     <string name="security_encryption_progress_dialog_open">ကုတ်ဖွဲ့နေ…</string>
     <string name="security_encryption_rejected_via_home_manager">ဒီမိုဗားရှင်းသည် ဤအင်္ဂါရပ်ကို မထောက်ပံ့ပါ။</string>
     <string name="security_encryption_title">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသုံးပြုပြီး စက်အားကုဒ်ဖွဲ့ပါ</string>
-    <string name="security_input">လုံခြုရေး ကီးဘုတ်</string>
-    <string name="security_input_hint">စကားဝှက်အား လုံခြုရေး ကီးဘုတ်ဖြင့် ရိုက်ထည့်ပါ</string>
+    <string name="security_input">လုံခြုံရေး ကီးဘုတ်</string>
+    <string name="security_input_hint">စကားဝှက်များ ရိုက်ထည့်သောအခါ လုံခြုံရေး ကီးဘုတ်အား သုံးပါ</string>
     <string name="security_keyguard_category_name">သော့ခတ်မျက်နှာပြင်</string>
     <string name="security_password_category_name">မျက်နှာပြင်လော့ခ်</string>
     <string name="security_privacy_settings_title">ကိုယ်ရေးလုံခြုံမှု</string>
@@ -2113,6 +2137,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
@@ -2121,6 +2146,7 @@
     <string name="smartcover_lock_or_unlock_screen_tittle">စမတ်ကာဗာပုံစံ</string>
     <string name="smartcover_sensitive_summary">စမတ်ကာဗာအား အသုံးပြုပြီး အလိုအလျောက် ဖုန်းအား သော့ဖွင့် သော့ဖြည်ပါ</string>
     <string name="smartcover_sensitive_title">စမတ်ကာဗာ</string>
+    <string name="sms_application_title">မက်ဆေ့ချ်</string>
     <string name="sms_delivered_sound_dialog_title">စာသားပေးပို့သော အသံကို ရွေးပါ</string>
     <string name="sms_delivered_sound_title">မက်ဆေ့ခ်ျ ပို့ပြီးပြီ</string>
     <string name="sms_received_sound_dialog_title">စာသားလက်ခံသော အသံကို ရွေးပါ</string>
@@ -2132,7 +2158,7 @@
     <string name="sound_vibrate_settings">အသံများနှင့် &amp; တုန်ခါမှုများ</string>
     <string name="spellchecker_switch_title">စာလုံးပေါင်းစစ်ဆေးခြင်းကို ဖွင့်မည်</string>
     <string name="split_screen">မျက်နှာပြင်ခွဲအား ဖွင့်ပါ</string>
-    <string name="stable_build">တည်ငြိမ်မှု</string>
+    <string name="stable_build">အတည်ပြုပြီးသော</string>
     <string name="standard">အသံတိတ်</string>
     <string name="standard_info">ခေါ်ဆိုမှုနှင့် အသိပေးချက်များကို အသံတိတ်မည်</string>
     <string name="start_silent_mode">အသံတိတ်မုဒ် ဖွင့်မည်</string>
@@ -2155,9 +2181,12 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
+    <string name="status_bar_settings_customer_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="status_bar_settings_enable_notification">အသိပေးချက်များအား ပြပါ</string>
+    <string name="status_bar_settings_function_description">ဤအင်္ဂါရပ်အကြောင်း</string>
     <string name="status_bar_settings_long_click_sort">အထိန်းခလုတ်တစ်ခု ဝင်ယူရန် ဖိ၍ &amp; ကိုင်ထားပါ</string>
     <string name="status_bar_settings_manage_notification">အက်ပ် အသိပေးချက်များ</string>
     <string name="status_bar_settings_no_carrier">တစ်ခုမှ မဟုတ်</string>
@@ -2185,6 +2214,11 @@
     <string name="status_bar_settings_toggle_collapse_after_clicked">တို့ထိပြီးလျှင် ခေါက်သိမ်းပါ</string>
     <string name="status_bar_settings_toggle_position">အထိန်းခလုတ် နေရာများ</string>
     <string name="status_bar_settings_user_fold">အသိပေးချက် ဖိုလ်ဒါ</string>
+    <string name="status_bar_settings_user_fold_description1">အသိပေးချက်ဖိုလ်ဒါသည် MIUI 9 မှ စ၍ ပါဝင်သော အင်္ဂါရပ် အသစ် ဖြစ်ပါသည်။ အရေးမကြီးသော အသိပေးချက်များအား စစ်ထုတ်ပြီး သီးခြားဖိုလ်ဒါတစ်ခုတွင် ထည့်ထားပေးသည်။</string>
+    <string name="status_bar_settings_user_fold_description2">အမြဲထိနှိပ်မှု နှင့် သင်၏ ကြိုက်နှစ်သက်မှု စသည်တို့ အပေါ်မူတည်၍သော အသိပေးချက်များအား အရေးကြီးမကြီး ခွဲခြားပေးမည်။</string>
+    <string name="status_bar_settings_user_fold_description3">အရေးကြီးသော အသိပေးချက်များသည် အသိပေးချက်ဖိုလ်ဒါသို့ ရောက်ရှိနေပါက ကျေးဇူးပြု၍ ကျွန်ုပ်တို့ထံ သတင်းပို့ပါ။ သင်၏ တုံ့ပြန်မှုအား အထူးကျေးဇူးတင်ပါသည်။</string>
+    <string name="status_bar_settings_user_fold_disable">ပိတ်ပါ</string>
+    <string name="status_bar_settings_user_fold_enable">ဖွင့်ပါ</string>
     <string name="status_bar_settings_user_fold_summary">အရေးမကြီးသောအသိပေးချက်များအားလုံးကို သီးခြားဖိုလ်ဒါတစ်ခုတွင်ထည့်ထားမည်</string>
     <string name="status_bar_style_list">ပေါင်းစည်း</string>
     <string name="status_bar_style_page">ခွဲထုတ်ပါ</string>
@@ -2277,6 +2311,7 @@
     <string name="title_font_current">စနစ်ဖောင့်</string>
     <string name="title_font_current2">စနစ်ဖောင့်</string>
     <string name="title_hdmi_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
+    <string name="title_jeejen">Jeejen ပင်မမျက်နှာပြင်</string>
     <string name="title_layout_current">စာသားအရွယ်အစား</string>
     <string name="title_layout_current2">စာသားအရွယ်အစား</string>
     <string name="to_close">ပိတ်မည်</string>
@@ -2377,7 +2412,7 @@
     <string name="unlock_set_unlock_password_summary">ဖုန်းအား သော့ဖြည်ရန် စာလုံး၊နံပါတ် ၄ လုံး သို့မဟုတ် ၄ လုံးနှင့်အထက် ရိုက်ထည့်ပါ</string>
     <string name="unlock_set_unlock_password_title">စကားဝှက်</string>
     <string name="unlock_set_unlock_pattern_summary">ဖုန်းအား သော့ဖြည်ရန် ရိုးရှင်းသော သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ</string>
-    <string name="unlock_set_unlock_pin_summary">ဖုန်းအား သော့ဖြည်ရန် နံပါတ် ၄ လုံး ရိုက်ထည့်ပါ</string>
+    <string name="unlock_set_unlock_pin_summary">ဖုန်းအား လော့ခ်ဖြည်ရန် နံပါတ် ၄-၁၆လုံး ရိုက်ထည့်ပါ</string>
     <string name="unlock_set_unlock_pin_title">ပင်</string>
     <string name="unlock_set_unlock_summary">မျက်နှာပြင်လော့ခ်ချမည်</string>
     <string name="unrestrict_max_aspect_ratio_title">မျက်နှာပြင်အပြည့်မုဒ်အတွက် ဤအက်ပ်များကို အကောင်းဆုံးပြင်ထားသည်</string>
@@ -2657,9 +2692,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

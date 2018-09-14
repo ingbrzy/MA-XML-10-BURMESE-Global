@@ -39,6 +39,9 @@
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">ဆင်းမ်ကဒ်သည် အဆက်အသွယ် %1$d ခုသိမ်းဆည်းနိုင်သည်</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">အဆက်အသွယ် %d ဦး ထက်မက တွေ့ရှိသည်။</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">အဆက်အသွယ် %1$d ခုပေါင်းထည့်ခဲ့သည်</item>
     </plurals>
@@ -60,6 +63,9 @@
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">အရေအတွက် %1$d ခု</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">%d ဦး တွေ့ရှိသည်</item>
     </plurals>
@@ -68,6 +74,9 @@
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">ဖုန်းနံပါတ်ရှိသော အဆက်အသွယ် %d ဦး</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">အချက်အလက် တစ်စိတ်တစ်ပိုင်း ဆင်တူဖြစ်နေသော အဆက်အသွယ် %1$d ဦး</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">ပေါင်းစပ်မထားပါ %0$d ရင်းမြစ်များမှ ပေါင်းစပ်ထားသည်</item>
@@ -104,6 +113,12 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d ဦး တွေ့ရှိသည်</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">အများဆုံး %1$dခု ရွေးနိုင်သည်၊ အားလုံး ရွေး၍မရပါ</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">အများဆုံး %1$dခု ရွေးနိုင်သည်</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">လူပုဂ္ဂိုလ်%1$d ဦး</item>

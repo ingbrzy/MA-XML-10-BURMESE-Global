@@ -39,6 +39,15 @@
     <plurals name="keyguard_charging_info_drained_time_format">
         <item quantity="other">"%1$d  နာရီ %2$d  မိနစ်"</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d နာရီခန့် သုံးနိုင်သည်</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d မိနစ်ခန့် သုံးနိုင်သည်</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d နာရီ %2$d မိနစ်ခန့် သုံးနိုင်သည်</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">ဆင်းမ် PIN ရိုက်ထည့်ရန် သင့်တွင် ကြိုးစားခွင့် %d ကြိမ် ကျန်ရှိသေးသည်။</item>
     </plurals>

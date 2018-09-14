@@ -23,6 +23,7 @@
     <string-array name="thermal_summaries">
         <item>အပူချိန်ထိန်းချုပ်မှုအား ဦးစားပေးမည်</item>
         <item>လုပ်ဆောင်ရည်အား ဦးစားပေးမည်</item>
+        <item>အထူးမုဒ်တွင် အလုပ်မလုပ်ပါ</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>စွမ်းဆောင်ရည်</item>

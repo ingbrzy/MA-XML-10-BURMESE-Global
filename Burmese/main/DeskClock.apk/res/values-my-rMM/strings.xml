@@ -62,7 +62,7 @@
     <string name="edit_alarm">နှိုးစက် ပြုပြင်မည်</string>
     <string name="edit_systemtime">စက်စနစ်အချိန်ကို တည်းဖြတ်ပါ</string>
     <string name="every_day">နေ့တိုင်း</string>
-    <string name="expired_timers_dismissed">တိုင်မာ တစ်ခု ပိတ်လိုက်သည်</string>
+    <string name="expired_timers_dismissed">တိုင်မာ ဖယ်ထုတ်ပြီးပါပြီ</string>
     <string name="force_touch_add_alarm">နှိုးစက်ထည့်ရန်</string>
     <string name="force_touch_enter_stopwatch">စမတ်နာရီ</string>
     <string name="force_touch_enter_timer">အချိန်တွက်စက်</string>
@@ -73,7 +73,7 @@
     <string name="install_weather_app_error">အက်ပ်ကို ဖွင့်၍မရပါ</string>
     <string name="install_weather_app_loading">ခဏစောင့်ပါ…</string>
     <string name="invalid_time">မမှန်ကန်သောအချိန်- %3$s %1$d- %2$d</string>
-    <string name="invalid_timer_length">တိုင်မာ ကြာရှည်ချိန် မှားနေသည်</string>
+    <string name="invalid_timer_length">တိုင်မာ ကြာချိန် မမှန်ပါ</string>
     <string name="keep_screen_on">မျက်နှာပြင် ဖွင့်ထားပါ</string>
     <string name="label">လေဘယ်ရွေး</string>
     <string name="label_pref_summary">လေဘယ်</string>
@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">ပါဝါပိတ်ပြီးနောက် နှိုးစက်နိုးလာလိမ့်မည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -160,6 +161,7 @@
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">%1$s°</string>
@@ -184,7 +186,7 @@
     <string name="timer_clock_alert_text">အချိန်သတ်မှတ်ပါ</string>
     <string name="timer_continue">ဆက်လုပ်ရန်</string>
     <string name="timer_continue_timer">တိုင်မာအား ပြန်စပါ</string>
-    <string name="timer_created">ဖန်တီးပြီးပါပြီ</string>
+    <string name="timer_created">တိုင်မာ ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="timer_end_time">%sတွင် တိုင်မာ ရပ်သွားလိမ့်မည်</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

@@ -17,7 +17,7 @@
     <string name="recording">အသံဖမ်းယူခြင်း</string>
     <string name="recording_stopped">ရပ်ဆိုင်းထားသည်</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">သိုလှောင်ခန်းထဲ ဝင်လို့မရပါ</string>
+    <string name="error_sdcard_access">SD ကဒ်သို့ ဝင်ရောက်သုံးစွဲ၍ မရပါ</string>
     <string name="error_app_internal">အခြားအက်ပ်က အသံဖမ်းယူသောအင်္ဂါရပ်အား လောလောဆယ် အသုံးပြုနေသလား ဆိုသည်ကို စစ်ဆေးပါ။</string>
     <string name="error_app_internal_title">အသံရီကော်တာ အမှား</string>
     <string name="error_file_access">ဖိုင် ရှိမနေပါ (သို့) ပျက်စီးနေသည်</string>
@@ -36,6 +36,7 @@
     <string name="no_file">အလွတ်</string>
     <string name="alert_message_delete_record_title">အသံဖမ်းယူမှုကို ဖျက်ပစ်မလား။?</string>
     <string name="alert_message_delete_record">သင့်စက်မှ မှတ်တမ်းတင်ထားမှုများအား ဖျက်လိုက်ခြင်းသည် Mi ကလောက်ထဲရှိ မှတ်တမ်းများကိုလည်းဖျက်လိုက်လိမ့်မည်။ ယခုဖျက်မည်လား?</string>
+    <string name="alert_message_delete_local_record">ဤမှတ်တမ်းအား ဖျက်ပစ်မလား?</string>
     <string name="share">မျှဝေခြင်း</string>
     <string name="rename">အမည်ပြန်ပေးပါ</string>
     <string name="delete">ဖျက်ပစ်ပါ</string>
@@ -99,8 +100,8 @@
     <string name="record_quliaty_preference_title">အသံဖမ်း အရည်အသွေး</string>
     <string name="cloud_record_tip">မှတ်တမ်းတင်ထားမှုများအား Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="cloud_record_open">မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်လုပ်နေ</string>
-    <string name="cloud_service_state_open_reminder">မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ရန် Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ။</string>
-    <string name="cloud_status_full_dialog_title">Mi ကလောက်သိုလှောင်မှု ပြည့်နေပြီ</string>
+    <string name="cloud_service_state_open_reminder">မှတ်တမ်းများကို ဆင့်ခ်လုပ်ရန် Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ။</string>
+    <string name="cloud_status_full_dialog_title">Mi Cloud သိုလှောင်ခန်း ပြည့်နေပြီ</string>
     <string name="cloud_status_full_dialog_msg">သင့်ကလောက်သိုလှောင်မှု ပြည့်နေပါပြီ၊ မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်မလုပ်နိုင်ပါ။ သိုလှောင်မှုနေရာများ ပိုမိုရရှိနိုင်ရန် သင့်အကောင့်အား အဆင့်မြှင့်တင်ပါ။</string>
     <string name="cloud_status_full_dialog_cancel">ယခုမလုပ်သေး</string>
     <string name="cloud_status_full_dialog_ok">အဆင့်မြှင့်</string>

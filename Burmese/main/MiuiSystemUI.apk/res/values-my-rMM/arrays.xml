@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>၀%</item>
         <item>၅၀%</item>
@@ -167,7 +185,7 @@
         <item>အမြဲတမ်းစစ်ဆေးပါ</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်မည်</item>
         <item>မိနစ် ၃၀</item>
         <item>၁ နာရီ</item>
         <item>၂ နာရီ</item>

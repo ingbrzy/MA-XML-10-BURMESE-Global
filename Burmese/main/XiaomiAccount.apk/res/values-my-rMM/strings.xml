@@ -300,6 +300,7 @@
     <string name="user_avatar_uploading">ခဏစောင့်ပါ…</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းပါ</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ</string>
+    <string name="account_invalid_user_avatar">ဤဓာတ်ပုံမှာ တရားမဝင်ပါ။ အခြားတစ်ခုဖြင့် ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="account_none_binded_info">တစ်ခုမှမဟုတ်</string>
     <string name="account_bind_secure_phone_title">ဖုန်းနံပါတ် ပေါင်းထည့်ပါ</string>
     <string name="account_bind_secure_email_title">အီးမေးလ်ပေါင်းထည့်ပါ</string>

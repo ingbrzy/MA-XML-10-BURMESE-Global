@@ -89,6 +89,12 @@
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">ဘက်ထရီပြဿနာ %dခု တွေ့ရှိခဲ့</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">အိုင်တမ်</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">%d မိနစ် ပေါင်းထည့်မည်</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">လူ %1$d ယောက်မှ ဒေါင်းလုဒ်လုပ်ထားသည်</item>
     </plurals>
@@ -210,7 +216,7 @@
         <item quantity="other">အက်ပ် %d ခုကို တွေ့ရှိခဲ့သည်</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်မည်(%d စက္ကန့်)</item>
+        <item quantity="other">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်မည် (%dစက္ကန့်)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">သော့ခတ်ထားသော အက်ပ် %d ခုရှင်းလင်းရန် စောင့်နေ</item>
@@ -262,6 +268,9 @@
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">အက်ပ် %d ခု ကွယ်ဝှက်ထားသည်</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">အက်ပ် %dခု၏ ပြသမှုသည် မှားနိုင်ခြေရှိသည်။ အရှင်ထားနိုင်သော အသိပေးချက်များအား ကန့်သတ်မည်။</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">ပြဿနာ %1$dခု ဖြေရှင်းရန် ရှိသည်</item>

@@ -13,7 +13,7 @@
     <string name="about_hide_mode">ဘက်ထရီ ချွေတာခြင်း အကြောင်း</string>
     <string name="show_system_app">စနစ် အက်ပ်များ ကို ပြသပါ</string>
     <string name="hide_system_app">စနစ် အက်ပ်များကို ဝှက်ပါ</string>
-    <string name="about_extreme_mode">အကြီးမားဆုံး ဘက်ထရီချွေတာသူ</string>
+    <string name="about_extreme_mode">အထူးမုဒ်</string>
     <string name="scenario_policies_title">စမတ် မြင်ကွင်းများ</string>
     <string name="config_scenario_policies_title">မြင်ကွင်းများ</string>
     <string name="scenario_policies_summary">မတူသော မြင်ကွင်းများအတွက် ကွဲပြားသော ပါဝါချွေတာမှုကို သုံးမည်။</string>
@@ -38,7 +38,7 @@
     <string name="vip_feedback_enable">VIP တုံ့ပြန်အကြံပြုချက် ဖွင့်ပါ</string>
     <string name="extreme_power_config_mode_category">အထူးမုဒ်</string>
     <string name="extreme_power_config_mode_title">အထူးမုဒ်</string>
-    <string name="extreme_power_config_mode_desc">အစွန်းရောက်မုဒ်သို့ ပြောင်းပါက ဆင့်ခ်လုပ်ခြင်း၊ ဘလူးတုသ်၊ GPS၊ NFC၊ နှစ်ကြိမ်ဆက်တိုက်ထိနှိပ်ခြင်း၊ ခလုတ်အလင်းများ၊ အသိပေးချက်များကြောင့် သော့ခတ်မျက်နှာပြင်နှိုးထစေခြင်းနှင့် သတိပေးချက်အလင်းများကို ပိတ်ထားလိမ့်မည်။ MIUI သည် ဘက်ထရီချွေတာမှုကိုသာ အလေးထားမည်။</string>
+    <string name="extreme_power_config_mode_desc">အထူးမုဒ်သို့ ပြောင်းပါက ဆင့်ခ်လုပ်ခြင်း၊ ဘလူးတုသ်၊ GPS၊ NFC၊ နှစ်ကြိမ်ဆက်တိုက်ထိနှိပ်ခြင်း၊ ခလုတ်အလင်းများ၊ အသိပေးချက်များကြောင့် သော့ခတ်မျက်နှာပြင်နှိုးထစေခြင်းနှင့် သတိပေးချက်အလင်းများကို ပိတ်ထားလိမ့်မည်။ MIUI သည် ဘက်ထရီချွေတာမှုကိုသာ အလေးထားမည်။</string>
     <string name="empty_title_apps_container_list">အက်ပ်များ မရှိပါ</string>
     <string name="hints_loading_text">ခဏစောင့်ပါ…</string>
     <string name="config_mode_title">နောက်ခံဆက်တင်များ</string>
@@ -91,6 +91,6 @@
     <string name="appconfig_active_app_dialog_title">အသုံးများသော အက်ပ်များကို စီမံမည်</string>
     <string name="config_classify">အက်ပ် ဆက်တင်အလိုက် စီပါ</string>
     <string name="active_classify">လှုပ်ရှားမှု အခြေအနေအလိုက် စီပါ</string>
-    <string name="extreme_mode_max_item_alert">အကြီးမားဆုံး ဘက်ထရီချွေတာသူမုဒ်တွင် အက်ပ် ၄ခုသာ နောက်ခံတွင် လှုပ်ရှားနိုင်သည်</string>
-    <string name="message_i_know">ကျွန်ုပ် သိပါသည်</string>
+    <string name="extreme_mode_max_item_alert">အထူးမုဒ်တွင် နောက်ခံတွင် အလုပ်လုပ်နိုင်သော အက်ပ် အများဆုံး ၄ခု ရွေးနိုင်သည်</string>
+    <string name="message_i_know">နားလည်ပါပြီ</string>
 </resources>

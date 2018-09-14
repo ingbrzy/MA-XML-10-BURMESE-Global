@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -462,6 +466,13 @@
     <string name="trans_success_dialog_market_comment_title">"သင်၏ဖုန်းအသစ်သည် အရင်သုံးနေကျအတိုင်း ဖြစ်သွားပါပြီ။
 Mi Moverအား သင် နှစ်သက်ပါသလား?"</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Mi Moverအား အမှတ်ပေးမည်</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">ရယ်ဒီဖြစ်ပါပြီ။ Mi Mover အတွက် ထင်မြင်ချက်လေး ပြောပြပေးပါအုံး။</string>
+    <string name="trans_success_dialog_button_market_comment">ကော်မန့်</string>
+    <string name="trans_success_dialog_button_survey">စစ်တမ်းကောက်မည်</string>
+    <string name="trans_success_dialog_survey_title">သင်၏တုံ့ပြန်အကြံပြုချက်ကို ကျွန်ုပ်တို့ အလွန်လိုလားပါသည်</string>
+    <string name="trans_success_survey_hint">ကျေးဇူးပြု၍ အားလုံး ဖြည့်ပေးပါ။</string>
+    <string name="trans_cancel_dialog_survey_title">လွှဲပြောင်းမှုအား အဘယ်ကြောင့် ဖြတ်တောက်သနည်း?</string>
+    <string name="trans_dialog_survey_finish">ပေးပို့မည်</string>
     <string name="trans_failed_details_page_title">မအောင်မြင်သော လွှဲပြောင်းမှုများ</string>
     <string name="close_twice_auth_tutor">Apple ID လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ</string>
     <string name="close_twice_auth_steps">Apple ID အတွက် လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ရန် အောက်ပါအတိုင်းလုပ်ပါ-</string>
@@ -530,6 +541,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>

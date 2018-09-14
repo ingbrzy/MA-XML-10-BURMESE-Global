@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -299,6 +300,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
@@ -555,14 +557,16 @@
     <string name="whatsapp_title">WhatsApp သန့်ရှင်းရေး</string>
     <string name="whatsapp_function_title">WhatsApp သန့်ရှင်းရေး</string>
     <string name="whatsapp_function_summery">WhatsApp ပူးတွဲဖိုင်များအား ရှင်းပစ်ပါ</string>
-    <string name="clean_summary">ဖိုင် %1$s ခုအား ရှင်းလင်းခဲ့သည်</string>
+    <string name="clean_summary">%1$s ရှင်းလင်းပြီးပြီ</string>
     <string name="onekeyclean_boosting_title">အရှိန်မြှင့်နေသည်</string>
     <string name="onekeyclean_boosted_title">ရှင်းလင်းပြီးပါပြီ</string>
-    <string name="onekeyclean_boost_cleaned">%s ရှင်းခဲ့သည်</string>
+    <string name="onekeyclean_boost_cleaned">%s ရှင်းလင်းပြီးပြီ</string>
     <string name="onekeyclean_boost_available">%s ရနိုင်သည်</string>
     <string name="onekeyclean_card_summery">နေရာလွတ်ရရန် အမှိုက်များအား ရှင်းပစ်ပါ</string>
     <string name="onekeyclean_card_btn">ယခု ရှင်းလင်းမည်</string>
     <string name="memory_clean_icon_text">မှတ်ဉာဏ်အား ရှင်းပစ်ပါ</string>
     <string name="pref_title_create_onekeyclean_shortcut">ပင်မမျက်နှာပြင် ရှော့ကဒ် ပြပါ</string>
     <string name="memory_clean_no_trash_tip">အရာအားလုံး အဆင်ပြေပါသည်</string>
+    <string name="toast_updater_open_4g_text">4G မိုဘိုင်းဒေတာဖြင့် အက်ပ်များအား အပ်ဒိတ်လုပ်မည်</string>
+    <string name="toast_updater_close_4g_text">4G မိုဘိုင်းဒေတာဖြင့် အက်ပ်များအား အပ်ဒိတ်မလုပ်ပါနှင့်</string>
 </resources>
