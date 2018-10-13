@@ -93,4 +93,6 @@
     <string name="active_classify">လှုပ်ရှားမှု အခြေအနေအလိုက် စီပါ</string>
     <string name="extreme_mode_max_item_alert">အထူးမုဒ်တွင် နောက်ခံတွင် အလုပ်လုပ်နိုင်သော အက်ပ် အများဆုံး ၄ခု ရွေးနိုင်သည်</string>
     <string name="message_i_know">နားလည်ပါပြီ</string>
+    <string name="high_temp_state">မြင့်မားသော အပူချိန်</string>
+    <string name="high_temp_state_message">စက် အပူချိန်မြင့်နေသည်။ ဒေတာ၊ Wi-Fi ap၊ GPS၊ ကင်မရာ စသည့်သုံးစွဲမှုများကို ကန့်သတ်လိမ့်မည်</string>
 </resources>

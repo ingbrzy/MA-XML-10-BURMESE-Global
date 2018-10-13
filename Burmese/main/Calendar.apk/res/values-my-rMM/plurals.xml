@@ -57,6 +57,9 @@
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">%1$d ရက်အထိရိုက်ထည့်နိုင်သည်</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">အသိပေးချက် %d အထိ သတ်မှတ်ပေးနိုင်ပါသည်</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
     </plurals>

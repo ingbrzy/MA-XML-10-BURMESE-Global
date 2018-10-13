@@ -3,4 +3,13 @@
     <plurals name="call_recording_notification_complete">
         <item quantity="other">ခေါ်ဆိုမှု %d ခုအား အသံသွင်းပြီးပြီ။</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d hours</item>
+    </plurals>
 </resources>

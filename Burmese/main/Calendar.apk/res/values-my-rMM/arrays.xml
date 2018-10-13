@@ -48,6 +48,10 @@
         <item>ယခုနှင့် နောင်လုပ်ငန်းစဉ်များ</item>
         <item>လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>မေထုန်ရာသီဖွား</item>
         <item>မေထုန်ရာသီဖွား</item>
@@ -315,5 +319,12 @@
     <string-array name="widget_style_list">
         <item>ဖောက်ထွင်းမြင်သော</item>
         <item>အဖြူနောက်ခံ</item>
+    </string-array>
+    <string-array name="edit_event_dislike">
+        <item>No event type I want to create</item>
+        <item>More Settings</item>
+        <item>Some Settings cannot be determined</item>
+        <item>Just look around</item>
+        <item>"Don't tell you"</item>
     </string-array>
 </resources>

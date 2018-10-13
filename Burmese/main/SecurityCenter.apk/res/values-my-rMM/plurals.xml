@@ -180,10 +180,10 @@
         <item quantity="other">နောက်ဆုံးစစ်ဆေးခြင်းပြီးကတည်းက %d ရက်</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">အန္တာရာယ် %d ခု</item>
+        <item quantity="other">%d risks,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">ထရိုဂျန် %d ခု</item>
+        <item quantity="other">%d trojans</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">အန္တာရာယ်ရှိသော အက်ပ်- %d</item>

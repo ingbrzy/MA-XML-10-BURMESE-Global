@@ -8,7 +8,6 @@
     <string name="close_panel">အလွယ်စက်လုံးအား ပိတ်ပါ</string>
     <string name="customize_entries">ရှော့ကဒ်များအား ရွေးပါ</string>
     <string name="enable_touch_assistant">အလွယ်စက်လုံးအား ဖွင့်ပါ</string>
-    <string name="enabled_for_pad_hint">\"အလျားလိုက်မုတ်တွင် လမ်းညွှန်ခလုတ်များအား ဘလော့ပါ\" ကိုဖွင့်ထားစဉ် အလုပ်လုပ်ပါ</string>
     <string name="function_settings">ရှော့ကဒ်ဆက်တင်များ</string>
     <string name="handy_mode_default_to_close_whether_open">လက်တစ်ဖက်သုံးမုဒ်ကို ပုံသေပိတ်ထားသည်။ လက်တစ်ဖက်သုံးမုဒ်ကို ဖွင့်မလား?</string>
     <string name="hide_touch_assistant">အလိုအလျောက် ဖုံးကွယ်ပါ</string>

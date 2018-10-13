@@ -9,7 +9,7 @@
     <string name="passport_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_relogin">ထပ်မံ ဝင်ပါ</string>
     <string name="passport_skip_login">ကျော်</string>
-    <string name="passport_skip_setup_account_title">သတ်မှတ်ဖွဲ့စည်းမှုကို ကျော်ပါ</string>
+    <string name="passport_skip_setup_account_title">Mi Cloud ကို မသုံးဘူးလား?</string>
     <string name="passport_skip_setup_account_msg">ကြိုတင်ပြင်ဆင်ချက်များမှာ Mi အကောင့်ကို မကြာမီ သတ်မှတ်တည်ဆောက်နိုင်သည်။</string>
     <string name="passport_confirm_login">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="passport_find_password_on_web_msg">သင့်စကားဝှက်အား ပြန်သတ်မှတ်ရန် account.mi.com သို့ ဝင်လည်ပါ။</string>
@@ -127,7 +127,7 @@
     <string name="passport_checking_account">စကားဝှက်… ကိုစစ်ဆေးနေဆဲပါ</string>
     <string name="passport_checking_input">ရေးသွင်းမှု… ကို စစ်ဆေးနေဆဲပါ</string>
     <string name="passport_activing_account">အသက်သွင်းနေသည်…</string>
-    <string name="passport_pwd_generating">ထုတ်လုပ်နေ…</string>
+    <string name="passport_pwd_generating">ဖန်တီးနေသည်…</string>
     <string name="passport_setting">သတ်မှတ်နေ…</string>
     <string name="passport_trying_read_verify_code_sms">အတည်ပြုကုဒ် ရယူနေ…</string>
     <string name="passport_adding_account">အကောင့် ပေါင်းထည့်နေသည်…</string>

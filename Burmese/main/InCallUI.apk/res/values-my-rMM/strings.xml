@@ -112,6 +112,7 @@
     <string name="description_image_button_dialpad">ဖုန်းဒိုင်ခွက်</string>
     <string name="description_image_button_tools">ရွေးစရာများ</string>
     <string name="description_target_answer">အဖြေ</string>
+    <string name="description_message_list_title">အမြန် ပြန်ကြားချက် စာရင်း</string>
     <string name="ok">အိုကေ</string>
     <string name="cancel">မလုပ်</string>
     <string name="wait_prompt_str">"အောက်ပါမြည်သံကို ပို့မည်လော
@@ -152,7 +153,7 @@
     <string name="suspect_info">သင့်ကိုယ်ရေးအချက်အလက်များနှင့် ပတ်သတ်၍ သတိထားပါ။</string>
     <string name="card_title_video_call_paused">ဗီဒီယိုခေတ္တရပ်တန့်ခဲ့</string>
     <string name="card_title_incoming_conference_call">အဝင်ကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
-    <string name="onscreen_change_to_voice">ရိုးရိုးအသံဖြင့်ခေါ်ဆို</string>
+    <string name="onscreen_change_to_voice">အသံခေါ်ဆိုမှု</string>
     <string name="onscreen_change_to_video">ဗီဒီယိုခေါ်ဆိုခြင်း</string>
     <string name="onscreen_switch_camera">ကူးပြောင်းပါ</string>
     <string name="card_title_video_call">ဗီဒီယိုခေါ်ဆိုခြင်း</string>
@@ -199,4 +200,5 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">ခေါ်ဆို၍ မရပါ။ သင်၏စက်သည် VoLTE အား ထောက်ပံ့သော 4G ကွန်ရက်သို့ ချိတ်ဆက်ထားခြင်း ရှိမရှိ စစ်ဆေးပါ။</string>
+    <string name="volume_boost_text">အသံ မြှင့်တင်ပြီးပါပြီ</string>
 </resources>

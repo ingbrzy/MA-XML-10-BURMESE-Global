@@ -225,6 +225,8 @@
     <string name="tax_social_insurance">လူမှုအာမခံကြေး</string>
     <string name="tax_thershold_foreign">%s (နိုင်ငံခြားသား)</string>
     <string name="tax_thershold_native">%s (တရုတ်ပြည်မကြီး)</string>
+    <string name="tax_thershold_native_new">%s (အသစ်)</string>
+    <string name="tax_thershold_native_new_description">အခွန်ငွေအား ၂၀၁၈ ခုနစ် အောက်တိုဘာလ ၁ ရက်နေ့မှစ၍ အခွန်ဥပဒေအသစ် အတိုင်း တွက်ချက်သွားပါမည်</string>
     <string name="tax_threshold">အခွန်လွတ် တံခါးဝ</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />

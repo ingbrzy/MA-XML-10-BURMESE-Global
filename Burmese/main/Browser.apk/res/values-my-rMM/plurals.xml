@@ -66,6 +66,9 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">နေသာသော</item>
     </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d ဦး မဲပေးထားသည်</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">လွန်ခဲ့သော %d ရက်</item>
     </plurals>

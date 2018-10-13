@@ -195,4 +195,7 @@
     <plurals name="sync_total_count">
         <item quantity="other">အိုင်တမ် %d ခု</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Select up to %d photos</item>
+    </plurals>
 </resources>

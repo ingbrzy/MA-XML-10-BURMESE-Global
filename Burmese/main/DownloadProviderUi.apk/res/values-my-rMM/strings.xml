@@ -156,7 +156,7 @@
     <string name="pref_summary_enable_max_bytes_popup">မိုဘိုင်းဒေတာဖြင့် အကြောင်းအရာများကို ဒေါင်းလုဒ်လုပ်နေစဉ် ပေါ့ပ်အပ်အသိပေးချက်အား ပြပါ</string>
     <string name="pref_summary_max_bytes_limit_format">ဖိုင်အရွယ်အစား %s ထက်ကျော်လွန်ပါက Wi-Fi အားစောင့်ပါ</string>
     <string name="pref_summary_no_limit_popup">အကန့်သတ်မဲ့</string>
-    <string name="pref_title_enable_max_bytes_popup">ဒေတာအသုံးပြုမှုအသိပေးချက်အားပြပါ</string>
+    <string name="pref_title_enable_max_bytes_popup">ဒေတာသုံးစွဲမှု အသိပေးချက်အား ပြပါ</string>
     <string name="preferences_title">ဆက်တင်များ</string>
     <string name="privacy_tip_cancel">ဖျက်သိမ်း</string>
     <string name="privacy_tip_ok">အိုကေ</string>
@@ -196,7 +196,11 @@
     <string name="toast_only_wifi_download">အိုင်တမ်များအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်ပါ</string>
     <string name="total_speedup">အရှိန်မြှင့်တင်မှု(စုစုပေါင်း)</string>
     <string name="version">ဗားရှင်း %s</string>
+    <string name="check_new_downloaded_action">ကြည့်ရှုရန်</string>
+    <string name="check_new_downloaded_file">ဖိုင် အသစ်တစ်ခု တွေ့ရှိသည်</string>
     <string name="get_data_failed">အချက်အလက် မရယူနိုင်ခဲ့ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="info_download_details">အသေးစိတ်</string>
+    <string name="info_download_progress">ဒေါင်းလုဒ် လုပ်ဆောင်မှုအား ပြပါ</string>
     <string name="load_finish_hint">အားလုံးပြီးပါပြီ။</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="net_error">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>

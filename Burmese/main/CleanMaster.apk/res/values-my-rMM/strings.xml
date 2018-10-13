@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -299,6 +300,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
@@ -516,7 +518,7 @@
     <string name="guide_secure_dialog_positive">အဆင့်မြှင့်တင်မည်</string>
     <string name="guide_secure_dialog_negative">ပယ်ဖျက်မည်</string>
     <string name="guide_virus_dialog_title">အန်တီဗိုင်းရပ်စ် စကန်</string>
-    <string name="guide_virus_dialog_message">အက်ပ်နှင့် ထည့်သွင်းမည့်ပက်ကေ့ချ်များကို စကန်ဖတ်ပါက သင့်ဖုန်းအား ဗိုင်းရပ်စ်နှင့် malware ရန်မှ ကာကွယ်ပေးနိုင်ပါသည်။ သင့်ဖုန်းအား ယခု စကန်ဖတ်မလား?</string>
+    <string name="guide_virus_dialog_message">အက်ပ်နှင့် ထည့်သွင်းမည့်ပက်ကေ့ချ်များကို စကန်ဖတ်ပါက သင့်ဖုန်းအား ဗိုင်းရပ်စ်နှင့် အန္တရာယ်ရှိသော ဆော့ဖ်ဝဲလ်များ၏ ရန်မှ ကာကွယ်ပေးနိုင်ပါသည်။ သင့်ဖုန်းအား ယခု စကန်ဖတ်မလား?</string>
     <string name="guide_virus_dialog_positive">စကန်ဖတ်မည်</string>
     <string name="guide_virus_dialog_negative">ပယ်ဖျက်မည်</string>
     <string name="tips_low_storage_dialog_title">သိုလှောင်ခန်းနေရာ နည်းနေပြီ</string>

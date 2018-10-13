@@ -93,6 +93,10 @@
     <string name="cleanup_power">အတွင်းကျကျ ရှင်းပစ်ပါ</string>
     <string name="company">အလုပ်</string>
     <string name="company_or_school">အလုပ် သို့မဟုတ် ကျောင်း</string>
+    <string name="cricket_content_provider">ဒေတာ ပံ့ပိုးသူ</string>
+    <string name="cricket_fixtures_label">ရက်ချိန်း</string>
+    <string name="cricket_news_label">သတင်း</string>
+    <string name="cricket_select_series">စိတ်ကြိုက်အမျိုးအစား ရွေးချယ်ပါ</string>
     <string name="cta_desc">အရေးကြီးသော ရှော့ကဒ်နှင့် အချက်အလက်များကို ဤနေရာတွင် စုဝေးပါ။</string>
     <string name="cta_dialog_negative">ထွက်မည်</string>
     <string name="cta_dialog_positive">သဘောတူသည်</string>
@@ -214,6 +218,7 @@
     <string name="scan_code">QR ကုဒ်</string>
     <string name="scan_doc">စာရွက်စာတမ်း</string>
     <string name="scan_parent">စကန်နာ</string>
+    <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">ရှာဖွေနေသည်…</string>
     <string name="security">လုံခြုရေး</string>
     <string name="service_unavailiable">အင်တာနက်သို့ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
