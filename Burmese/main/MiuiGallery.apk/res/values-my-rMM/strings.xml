@@ -274,6 +274,7 @@
     <string name="collage_poster_global_summer_flower_text">နွေ</string>
     <string name="collage_poster_global_tea_text">နားချိန်</string>
     <string name="collage_rotate">လှည့်မည်</string>
+    <string name="collage_select_image_range">ဖြတ်ညှပ်ကပ်ပုံတွင် ဓာတ်ပုံ ၁ပုံ မှ ၄ပုံ အထိ ထည့်နိုင်သည်</string>
     <string name="collage_title_layout">အပြင်အဆင်</string>
     <string name="collage_title_poster">ပိုစတာ</string>
     <string name="collaps_people">ကွယ်ဝှက်</string>
@@ -466,6 +467,7 @@
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_to_pick_email">ဘောင်မဝင်သော အီးမေးလ် လိပ်စာ</string>
     <string name="fail_to_sync_album">အယ်လ်ဘမ်ကို ဆင့်ခ်လုပ်လို့မရနိုင်ပါ။ သင့်ရဲ့ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
@@ -476,6 +478,7 @@
     <string name="feature_guidance_photo_effects">"ဓာတ်ပုံဖန်တီးချက် အသစ်အား 
 မရနိုင်ပါ"</string>
     <string name="feature_guidance_video_editor_smart_effects">ဖန်တီးချက် အသစ် ရယူနိုင်ပြီ</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">အမှတ်တရ</string>
     <string name="filter_bi_mono">မိုနို</string>
     <string name="filter_bi_pink">ပန်းရောင်</string>
@@ -537,6 +540,7 @@
     <string name="finish_fill_baby">ဖန်တီး</string>
     <string name="flash_off">ဖလက်ရှ် မရှိ</string>
     <string name="flash_on">ဖလက်ရှ် အသုံးပြုထားသည်</string>
+    <string name="frame_not_support_image_ratio">ဤအချိုးကို မထောက်ပံ့ထားပါ</string>
     <string name="free_view_desc">3D မြင်ကွင်း</string>
     <string name="gallery_setting">ဆက်တင်များ</string>
     <string name="gallery_sync_disable_toast">ပြခန်းအတွက် ဆင့်ခ်အား ပိတ်ထားသည်</string>
@@ -544,6 +548,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
@@ -709,6 +714,7 @@
     <string name="operation_in_process">လုပ်ဆောင်နေသည်…</string>
     <string name="operation_move_to_other_albums">အခြားအယ်လ်ဘမ်များသို့ရွေ့</string>
     <string name="operation_not_show_in_photos_tab">ဓါတ်ပုံများထဲတွင် မပြပါနှင့်</string>
+    <string name="operation_produce">ဖန်တီးမှု</string>
     <string name="operation_projection">ပြသ</string>
     <string name="operation_remove_face">ဖယ်ရှားရန်</string>
     <string name="operation_remove_from_face_album">အယ်လ်ဘမ်မှ ဖယ်ရှားပါ</string>
@@ -741,6 +747,7 @@
     <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">အိမ်မွေးတိရိစ္ဆာန်　ဓါတ်ပုံများ</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">ဓာတ်ပုံများ</string>
@@ -751,10 +758,12 @@
     <string name="photo_editor_beauty_compare">မူရင်း</string>
     <string name="photo_editor_crop_and_rotate">ဖြတ်ထုတ်ခြင်း</string>
     <string name="photo_editor_crop_auto">အလိုအလျောက်</string>
+    <string name="photo_editor_crop_auto_tips">အလိုအလျောက် ဖြတ်ယူပါ</string>
     <string name="photo_editor_crop_reset">ပြန်လည်သတ်မှတ်မည်</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">ဂရက်ဖတီပန်းချီ</string>
     <string name="photo_editor_filter">စစ်ထုတ်ကိရိယာ</string>
+    <string name="photo_editor_frame">ဖရိန်</string>
     <string name="photo_editor_label">တည်းဖြတ်</string>
     <string name="photo_editor_long_crop">ဖြတ်ထုတ်ခြင်း</string>
     <string name="photo_editor_miui_beauty">အလှဆင်မှု</string>
@@ -809,6 +818,7 @@
     <string name="photo_editor_talkback_redo">ပြန်လုပ်မည်</string>
     <string name="photo_editor_talkback_undo">နောက်ပြန်ဆုတ်မည်</string>
     <string name="photo_editor_text">စာသား</string>
+    <string name="photo_movie_select_image_range">ဓာတ်ပုံဗီဒီယိုတွင် ဓာတ်ပုံ ၃ပုံ မှ ၆ပုံ အထိ ထည့်နိုင်သည်</string>
     <string name="photo_page_save_uri_image_fail">ပြခန်းသို့ မသိမ်းနိုင်ခဲ့ပါ</string>
     <string name="photo_page_save_uri_image_ok">ပြခန်းသို့ ဓါတ်ပုံအား သိမ်းလိုက်သည်</string>
     <string name="photo_print_menu_loading">လုပ်ဆောင်နေသည်…</string>
@@ -998,6 +1008,9 @@
     <string name="search_title_recommend">အကြံပြုထားသော</string>
     <string name="search_title_suggestion">အကြံပြုချက်များ</string>
     <string name="search_title_tag">အရာပစ္စည်းများ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">ပရိုဂျက်တာကို ရှာနေသည်…</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
@@ -1017,6 +1030,7 @@
     <string name="secret_reason_unknow_reasons">အမည်မသိ အမှား</string>
     <string name="secret_reason_video_not_support">ဝှက်ထားသော အယ်လ်ဘမ်သို့ ဗီဒီယိုအား ပေါင်းထည့်၍ မရပါ</string>
     <string name="see_ignore_faces">သင်လစ်လျူရှု့ခဲ့သော သူများ</string>
+    <string name="select_image_operation">ဓါတ်ပုံများ ပေါင်းထည့်နေသည်</string>
     <string name="select_item_face">%s ဤဟာလား?</string>
     <string name="select_origin_tip">မူရင်းဖိုင်(%s)</string>
     <string name="send_file_beautify_failed">မျှဝေ၍ မရပါ</string>
@@ -1157,6 +1171,7 @@
     <string name="unpublish_failed">ထုတ်ပြန်ထားခြင်းမှ ပြန်ရုပ်သိမ်း၍ မရနိုင်ပါ</string>
     <string name="unpublish_succeeded">အယ်လ်ဘမ်ကို ထုတ်ပြန်ခြင်းမှ ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="unpublishing">ပယ်ဖျက်နေသည်…</string>
+    <string name="unsupport_video">%s သည် ဗီဒီယိုအား မထောက်ပံ့ပါ</string>
     <string name="user_agree">သဘောတူ</string>
     <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
@@ -1274,6 +1289,7 @@
     <string name="view_face_album">အယ်လ်ဘမ်ကို ကြည့်ပါ</string>
     <string name="view_more_face_desc">နောက်ထပ်လူများ ပြပါ</string>
     <string name="voice_assistant">အသံလက်ထောက်</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Mi ကလောက် မှ ကြိုဆိုပါ၏</string>
     <string name="where_is_barcode">QR ကုဒ်ဘယ်မှာလဲ?</string>
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>
@@ -1281,10 +1297,7 @@
     <string name="yes">ဟုတ်သည်</string>
     <string name="yesterday">မနေ့က</string>
     <string name="you_are">သင်သည် ကလေးငယ်၏</string>
-    <string name="collage_select_image_range">Collages can contain 1-4 photos</string>
-    <string name="operation_produce">Creativity</string>
-    <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
-    <string name="photo_movie_select_image_range">Clips can contain 3-6 photos</string>
+    <string name="operation_set_slide_wallpaper">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
     <string name="refocus_discard_confirm_message">ပြောင်းလဲခြင်းများကို သိမ်းထားမလား?</string>
     <string name="refocus_discard_negative_btn">စွန့်ပစ်မည်</string>
     <string name="refocus_discard_positive_btn">သိမ်းဆည်းမည်</string>
@@ -1297,6 +1310,6 @@
     <string name="refocus_title">မှုန်ဝါး</string>
     <string name="refocus_type_static">မှုန်ဝါးမှု အဆင့်</string>
     <string name="refocus_type_video">အလင်းရောင် အစက်အပြောက်</string>
-    <string name="select_image_operation">Adding photos</string>
-    <string name="unsupport_video">"%s doesn't work with videos"</string>
+    <string name="set_as_slide_wallpaper_description">ဤရုပ်ပုံမှာ thumbnail တစ်ခုဖြစ်ပါသည်၊ မူလပုံအား ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="set_as_slide_wallpaper_title">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
 </resources>

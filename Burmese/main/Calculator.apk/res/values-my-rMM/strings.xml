@@ -30,7 +30,7 @@
     <string name="cosDesc">cosine</string>
     <string name="currency_update_connect_to_get_data">ငွေလဲနှုန်းအား Webull မှ ပံ့ပိုးသည်။ နောက်ဆုံးအချက်အလက်များရရှိရန် ကွန်ရက်သို့ ချိတ်ဆက်ပါ။</string>
     <string name="currency_update_support">ငွေလဲနှုန်းအား Webull မှ ပံ့ပိုးသည်။</string>
-    <string name="currency_update_time_format">ငွေကြေးလဲလှယ်နှုန်းများအား webull (%s) မှထောက်ပံ့ထားပါသည်</string>
+    <string name="currency_update_time_format">ငွေလဲနှုန်းများအား webull (%s) မှထောက်ပံ့ထားပါသည်</string>
     <string name="currency_update_updating">ငွေလဲနှုန်းများကို အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
@@ -62,7 +62,22 @@
     <string name="fund" />
     <string name="fund_loan">ချေးငှား ရန်ပုံငွေ</string>
     <string name="global_network_confirm_content">ငွေစျေးအချက်အလက်များ ပုံမှန်ရယူနိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ရပါမည်။</string>
-    <string name="home_title_calculator">ဂဏန်းတွက်စက်</string>
+    <string name="global_search_key_area_convertion">ဧရိယာ;ဧရိယာ ကူးပြောင်းခြင်း;ဧရိယာ ကူးပြောင်းမှု</string>
+    <string name="global_search_key_calculation">တွက်ချက်;ဂဏန်းတွက်စက်;ယူနစ် ကူးပြောင်းခြင်း;ကူးပြောင်းမှု;ယူနစ် ကူးပြောင်းမှု</string>
+    <string name="global_search_key_date_convertion">အချိန် ကူးပြောင်းခြင်း;အချိန် ယူနစ် ကူးပြောင်းမှု;အချိန်</string>
+    <string name="global_search_key_exchange_rate">ငွေလဲနှုန်း;ငွေလဲနှုန်း ကူးပြောင်းခြင်း;ငွေကြေး ကူးပြောင်းခြင်း;ငွေကြေး;ငွေလဲနှုန်း</string>
+    <string name="global_search_key_length_convertion">အလျား;အလျား ကူးပြောင်းခြင်း;အလျား ကူးပြောင်းမှု</string>
+    <string name="global_search_key_mortgage">ပေါင်နှံမှု တွက်ချက်ခြင်း;ပေါင်နှံမှု ဂဏန်းတွက်စက်;ပေါင်နှံမှု</string>
+    <string name="global_search_key_personal_tax">တစ်ဦးချင်း ဝင်ငွေခွန်;အခွန်ဆောင်ပြီး ဝင်ငွေ;အခွန် တွက်စက်;ကိုယ်ပိုင်ဝင်ငွေ တွက်ချက်မှု;ဝင်ငွေ တွက်ချက်မှု;အခွန်ဆောင်ပြီး ဝင်ငွေ တွက်ချက်မှု;ဝင်ငွေခွန်;အခွန်</string>
+    <string name="global_search_key_scientific_convertion">သိပ္ပံ ဂဏန်းတွက်စက်;မှီကိန်း တွက်ချက်ခြင်း;သင်္ချာ</string>
+    <string name="global_search_key_speed_convertion">အမြန်နှုန်း ယူနစ် ကူးပြောင်းခြင်း;အမြန်နှုန်း ကူးပြောင်းခြင်း;အမြန်နှုန်း ကူးပြောင်းမှု</string>
+    <string name="global_search_key_temperature_convertion">အပူချိန် ယူနစ် ကူးပြောင်းခြင်း;အပူချိန် ကူးပြောင်းခြင်း;အပူချိန် ကူးပြောင်းမှု;ဖာရင်ဟိုက်;ဆဲလ်စီယပ်;စင်တီဂရိတ်</string>
+    <string name="global_search_key_volume_convertion">ထုထည် ယူနစ် ကူးပြောင်းခြင်း;ထုထည် ကူးပြောင်းခြင်း;ထုထည် ကူးပြောင်းမှု</string>
+    <string name="global_search_key_weight_convertion">အလေးချိန် ယူနစ် ကူးပြောင်းခြင်း;အလေးချိန် ကူးပြောင်းခြင်း;အလေးချိန် ကူးပြောင်းမှု;ကီလိုဂရမ်;ပေါင်</string>
+    <string name="global_search_key_word_figure">ငွေကြေးဆိုင်ရာ အက္ခရာများ</string>
+    <string name="golbal_search_calculator_setting">ဂဏန်းပေါင်းစက်;ဂဏန်းပေါင်းစက် ဆက်တင်;ဆက်တင်</string>
+    <string name="golbal_search_path_calculator_setting">စနစ်အက်ပ်များ/ဂဏန်းပေါင်းစက်/ဆက်တင်</string>
+    <string name="home_title_calculator">ဂဏန်းပေါင်းစက်</string>
     <string name="income_type" />
     <string name="install">ထည့်သွင်းမည်</string>
     <string name="install_scanner_to_continued_use">စကန်နာအား ဖြုတ်ချထားသည်။ ပြန်ထည့်သွင်းမလား?</string>
@@ -108,7 +123,7 @@
     <string name="mortgage_amount">စုစုပေါင်း (×10K)</string>
     <string name="mortgage_average_repayment_first_month">ပထမလပြန်ပေးချေမှု</string>
     <string name="mortgage_average_repayment_monthly">လစဉ်ပြန်ပေးချေမှု</string>
-    <string name="mortgage_calculate">ဂဏန်းတွက်စက်</string>
+    <string name="mortgage_calculate">တွက်ချက်ပါ</string>
     <string name="mortgage_descript_accumulation">အတိုးနှုန်း−%s(ရန်ပုံငွေ)</string>
     <string name="mortgage_descript_commercial">အတိုးနှုန်း−%s(စီးပွားရေး)</string>
     <string name="mortgage_detail_month">လ</string>
@@ -118,7 +133,7 @@
     <string name="mortgage_detail_monthly_repayment">ပြန်ပေးချေမှု</string>
     <string name="mortgage_detail_yearly_interest">အတိုး</string>
     <string name="mortgage_detail_yearly_repayment">ပြန်ပေးချေမှု</string>
-    <string name="mortgage_details">ပေါင်းနှံမှု အသေးစိတ်များ</string>
+    <string name="mortgage_details">ပေါင်နှံမှု အသေးစိတ်များ</string>
     <string name="mortgage_hint_accumulation_fund">ပမာဏအား ရိုက်ထည့်ပါ</string>
     <string name="mortgage_hint_commercial">ပမာဏအား ရိုက်ထည့်ပါ</string>
     <string name="mortgage_hint_loan">ပမာဏအား ရိုက်ထည့်ပါ</string>
@@ -141,6 +156,7 @@
     <string name="negDesc">သုညအောက်နှင့် သုညအထက် အပူချိန် ကူးပြောင်းပါ</string>
     <string name="network_confirm_content">ငွေစျေး၊ အခွန်နှင့် ပေါင်နှံငွေများ ပုံမှန်တွက်ချက်နိုင်ရန် အင်တာနက်သို့ ချိန်ဆက်ခွင့်နှင့် တည်နေရာသို့ ဝင်ရောက်ခွင့်များ လိုအပ်ပါသည်။</string>
     <string name="network_confirm_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
+    <string name="not_supported_due_to_language">ဤအင်္ဂါရပ်သည် တရုတ်ဘာသာတွင်သာ ရရှိနိုင်သည်</string>
     <string name="percent" />
     <string name="percentDesc">ရာခိုင်နှုန်း</string>
     <string name="piDesc">pi</string>
@@ -212,7 +228,7 @@
     <string name="tax_income_type">ဝင်ငွေအမျိုးအစား</string>
     <string name="tax_income_type_annual_bonus">နှစ်စဉ်အပိုဆုကြေး</string>
     <string name="tax_income_type_fixed_monthly_salary">လစာ</string>
-    <string name="tax_individual_income_tax">တစ်ဦးချင်းဝင်ငွေခွန်</string>
+    <string name="tax_individual_income_tax">တစ်ဦးချင်း ဝင်ငွေခွန်</string>
     <string name="tax_individual_income_tax_result">ရလဒ်များ</string>
     <string name="tax_injury">ဒဏ်ရာ</string>
     <string name="tax_insurance_and_fund">အာမခံ</string>
@@ -536,5 +552,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် မန်နေဂျာသို့ ချိတ်ဆက်၍ မရပါ၊ အက်ပလီကေးရှင်း စီမံသူတွင် ဒေါင်းလုဒ် မန်နေဂျာ၏ အခြေအနေအား စစ်ကြည့်ပါ။</string>
+    <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မလုံလောက်ပါ၊ SD ကဒ်အား စစ်ဆေးကြည့်ပါ။</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
+အရွယ်အစား- %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
+တိုးပွားအပ်ဒိတ် အရွယ်အစား- %2$s"</string>
+    <string name="xiaomi_update_dialog_title">%1$s အပ်ဒိတ်အသစ်</string>
     <string name="year" />
 </resources>

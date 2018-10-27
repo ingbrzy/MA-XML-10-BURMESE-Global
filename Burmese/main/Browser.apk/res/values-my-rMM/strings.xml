@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">အစမျက်နှာပြင်သို့ ပြန်သွားပါ။</string>
-    <string name="abc_action_bar_up_description">အပေါ်သို့</string>
-    <string name="abc_action_menu_overflow_description">ပိုမို၍</string>
-    <string name="abc_action_mode_done">ပြီးပြီ</string>
+    <string name="exo_controls_fastforward_description">ရှေ့သို့ သွားရန်</string>
+    <string name="exo_controls_next_description">နောက် တစ်ပုဒ်</string>
+    <string name="exo_controls_pause_description">ခဏရပ်ရန်</string>
+    <string name="exo_controls_play_description">ဖွင့်ရန်</string>
+    <string name="exo_controls_previous_description">ယခင် တစ်ပုဒ်</string>
+    <string name="exo_controls_repeat_all_description">အားလုံး ထပ်တလဲလဲဖွင့်ရန်</string>
+    <string name="exo_controls_repeat_off_description">ထပ်တလဲလဲမဖွင့်ရန်</string>
+    <string name="exo_controls_repeat_one_description">တစ်ခုအား ထပ်တလဲလဲဖွင့်ရန်</string>
+    <string name="exo_controls_rewind_description">ပြန်ရစ်ရန်</string>
+    <string name="exo_controls_shuffle_description">မွှေနှောက်ဖွင့်ရန်</string>
+    <string name="exo_controls_stop_description">ရပ်ရန်</string>
+    <string name="abc_action_bar_home_description">ပင်မစာမျက်နှာသို့ ပြန်သွားပါ</string>
+    <string name="abc_action_bar_up_description">နောက်သို့ ပြန်သွားပါ</string>
+    <string name="abc_action_menu_overflow_description">နောက်ထပ်</string>
+    <string name="abc_action_mode_done">ပြီးပါပြီ</string>
     <string name="abc_action_mode_select_all">အားလုံးရွေးပါ</string>
     <string name="accept_cookies_confirm_message">ဤလုပ်ဆောင်ရည်အားပိတ်လိုက်ခြင်းသည် အချို့ဝက်ဘ်ဆိုက်များ ပုံမှန်လုပ်ဆောင်ခြင်းအား သက်ရောက်မှုရှိနိုင်ပါသည်</string>
     <string name="accessibility_button_clear">ထည့်သွင်းမှုအားရှင်းလင်း</string>
@@ -81,7 +92,7 @@
     <string name="autologin_bar_hide_text">ကွယ်ဝှက်</string>
     <string name="autologin_bar_login_text">ဆိုင်းအင်ဝင်ခြင်း</string>
     <string name="autologin_bar_text">အဖြစ်ဖြင့်ဆိုင်းအင်ဝင်</string>
-    <string name="back_button_label">နောက်ပြန်</string>
+    <string name="back_button_label">နောက်သို့</string>
     <string name="back_description">နောက်ပြန်</string>
     <string name="block">ဘလော့လုပ်</string>
     <string name="block_ads_choice_block">ဘလော့လုပ်ပါ</string>
@@ -122,6 +133,7 @@
     <string name="cannot_download">\"http\" သို့ \"https\" စသည့် URLsမျှသာ ​ဒေါင်းလုဒ်လုပ်၍ရပါသည်</string>
     <string name="card_setting_close_recommend">တုံ့ပြန်အကြံပြုချက်များအား လက်ခံရယူပါ</string>
     <string name="cast_video">ဗီဒီယို လွှင့်မည်</string>
+    <string name="change_news_language">ဘာသာစကား ပြောင်းမလား?</string>
     <string name="channels_edit">တည်းဖြတ်မည်</string>
     <string name="channels_finish">ပြီးပါပြီ</string>
     <string name="choosertitle_sharevia">မှတစ်ဆင့်မျှဝေ</string>
@@ -215,6 +227,7 @@
     <string name="document_open_other">အခြားအက်ပ်များ</string>
     <string name="document_open_title">နှင့်ဖွင့်ပါ</string>
     <string name="dont_remind_again">ဤရွေးချယ်မှုကို မှတ်ထားပါ</string>
+    <string name="download_btn">ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="download_btn_select_all">အားလုံးရွေးပါ</string>
     <string name="download_btn_select_none">အားလုံးဖြုတ်ပါ</string>
     <string name="download_complete">အောင်မြင်စွာ ဒေါင်းလုတ်လုပ်ခဲ့သည်</string>
@@ -305,6 +318,7 @@
     <string name="go_supermarket_title">အက်ပ် နှင့် အမြန်နှုန်း ပိုများလာပြီး အက်ပ်စတိုးတွင် ဒေတာသုံးစွဲခြင်းလျှော့နည်းခြင်း</string>
     <string name="gold_medals">ရွှေတံဆိပ်များ</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">ပင်မမျက်နှာပြင်တွင် ထားပါ</string>
     <string name="hint">အရိပ်အမြွက်</string>
     <string name="history">မှတ်တမ်း</string>
@@ -706,6 +720,8 @@
     <string name="mw_snippets_disabled_generic_prompt">စိတ်ကြိုက်အကြောင်းအရာများ ရယူပါ</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Google မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရယူနိုင်ရန် Chrome သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>
@@ -735,7 +751,7 @@
     <string name="new_version_name">ဗားရှင်း အသစ် %s</string>
     <string name="news_load_failed">ပြန်ကြိုးစားကြည့်ရန် ထိနှိပ်ပါ</string>
     <string name="news_loading">လုပ်ဆောင်နေသည်…</string>
-    <string name="next_button_label">နောက်ထပ်</string>
+    <string name="next_button_label">ရှေ့သို့</string>
     <string name="no_app_open_document">မည်သည့်အက်ပ်ကိုမှ ဒီလုပ်ဆောင်မှုကို ကိုင်တွယ်ဖြေရှင်းရန် ရှာမတွေ့ခဲ့ပါ</string>
     <string name="no_items">နောက်ထပ်အိုင်တမ်များ မရှိတော့ပါ၊ အခြားအုပ်စုအမျိုးအစားအား ရွေးပါ။</string>
     <string name="no_network">ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
@@ -939,6 +955,7 @@
     <string name="remove_snapshot">စာမျက်နှာအားဖျက်</string>
     <string name="removed_from_bookmarks">စာအုပ်မှတ်မှဖယ်</string>
     <string name="replace">အစားထိုး</string>
+    <string name="replay">ပြန်ဖွင့်ပါ</string>
     <string name="reply_comment_title">ပြန်−%s</string>
     <string name="resume_download">စတင်ပါ</string>
     <string name="retry_after_network_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
@@ -1002,10 +1019,11 @@
     <string name="sendstartpage">အစ စာမျက်နှာ</string>
     <string name="share_image_text">ကျွန်ုပ်ဘာတွေ့ထားတယ်ဆိုတာ ကြည့်ကြည့်ပါ! @MIUI</string>
     <string name="share_page_text">ကျွန်ုပ်ဘာတွေ့ထားတယ်ဆိုတာ ကြည့်ကြည့်ပါ- %1$s @MIUI| %2$s</string>
+    <string name="share_slide_video_text">ကျွန်ုပ် မျှဝေထားတယ်တာကို ကြည့်ကြည့်ပါ- %1$s</string>
     <string name="share_video">ဗီဒီယိုအား မျှဝေမည်</string>
     <string name="sign_in_to" formatted="false">%s1 %s2 သို့ဆိုင်းအင်ဝင်ရောက်ပါ</string>
     <string name="site_sort_des">အိုင်တမ်များကို ပြန်လည်စီမံမည်</string>
-    <string name="skip_button_label">ကျော်သွား</string>
+    <string name="skip_button_label">ကျော်သွားပါ</string>
     <string name="skip_current_version">ဤဗာရှင်းအား ကျော်သွား</string>
     <string name="snapshot">ဒေသဆိုင်ရာ</string>
     <string name="snapshot_failed">စာမျက်နှာကို မသိမ်းနိုင်ခဲ့ပါ</string>
@@ -1138,6 +1156,9 @@
     <string name="video_unknown_duration">ကြာချိန်မသိသော</string>
     <string name="view_certificate">ထောက်ခံချက်လက်မှတ်အား ကြည့်ရှု</string>
     <string name="view_document_downloaded_files">ဒေါင်းလုဒ်ဖိုင်များကို ဒေါင်းလုဒ်တွင် ကြည့်ရှုပါ</string>
+    <string name="view_source">အရင်းအမြစ်အား ကြည့်ရှုရန်</string>
+    <string name="vmate_download_content">Enjoy all prank, comedy, music, dance videos</string>
+    <string name="vmate_download_title">India’s most Entertaining App</string>
     <string name="voice_check_network">သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပြီး ထပ်မံ ကြိုးစားကြည့်ပါ။</string>
     <string name="voice_connect_network">ကွန်ရက်သို့ ချိတ်ဆက်မရနိုင်ခဲ့ပါ။</string>
     <string name="voice_description">အသံရှာ​ဖွေမည်</string>

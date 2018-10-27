@@ -132,6 +132,7 @@
     <string name="security_permission_validate_warning">MIUI ကို ပိုကောင်းလာစေအောင် ကူညီသည့်အတွက် ကျေးဇူးတင်ပါသည်!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi နှင့် မိုဘိုင်းဒေတာဖွင့်ခဲ့သည်</string>
     <string name="security_permission_network_failed_text">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရနိုင်ခဲ့ပါ။ ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="security_permission_open_wifi_settings">Wi-Fi ဆက်တင်အား ဖွင့်ပါ</string>
     <string name="xspace_resolver_activity_title">အက်ပ်ရွေးပါ</string>
     <string name="user_switching_dialog_text">ပြောင်းလဲနေ…</string>
     <string name="activity_package_delete_confirm_title">ဂရုစိုက်ခြင်း</string>

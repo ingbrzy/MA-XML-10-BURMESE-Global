@@ -63,6 +63,9 @@
     <plurals name="videos_updated_amount">
         <item quantity="other">ဗီဒီယိုအသစ် %1$d ခုအား ကြည့်ပါ</item>
     </plurals>
+    <plurals name="view_count">
+        <item quantity="other">ကြည့်ရှုမှု %1$d ကြိမ်</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">နေသာသော</item>
     </plurals>

@@ -4,12 +4,12 @@
         <item quantity="other">ခေါ်ဆိုမှု %d ခုအား အသံသွင်းပြီးပြီ။</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d seconds</item>
+        <item quantity="other">%d စက္ကန့်</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d minutes</item>
+        <item quantity="other">%d မိနစ်</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d hours</item>
+        <item quantity="other">%d နာရီ</item>
     </plurals>
 </resources>

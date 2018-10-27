@@ -48,6 +48,8 @@
     <string name="bt_restart_dialog_message">BT ဖိုလ်ဒါထဲရှိ ဒေါင်းလုဒ်အားလုံးကို ပြန်စမည်လား?</string>
     <string name="bt_restart_dialog_title">ဒေါင်းလုဒ်အားလုံးကို ပြန်စတင်ပါ</string>
     <string name="cancel">ဖျက်သိမ်းပါ</string>
+    <string name="check_new_downloaded_action">ကြည့်ရှုရန်</string>
+    <string name="check_new_downloaded_file">ဖိုင် အသစ်တစ်ခု တွေ့ရှိသည်</string>
     <string name="clear_data">ရှင်းလင်း</string>
     <string name="complete_time">ပြီးမြောက်ခဲ့သော−</string>
     <string name="confirm">အိုကေ</string>
@@ -112,14 +114,19 @@
     <string name="extend">ပိုမို၍</string>
     <string name="file_exist_hint">ဤဖိုင်မှာ တည်ရှိနေပြီးဖြစ်သည်</string>
     <string name="file_size">အရွယ်အစား-</string>
+    <string name="get_data_failed">အချက်အလက် မရယူနိုင်ခဲ့ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="guess_like">အခြားသင်ကြိုက်နိုင်သည်များ</string>
     <string name="hint">သတိပြုပါ</string>
+    <string name="info_download_details">အသေးစိတ်</string>
+    <string name="info_download_progress">ဒေါင်းလုဒ် လုပ်ဆောင်မှုအား ပြပါ</string>
     <string name="info_flow_only_load_wifi">Wi-Fi သို့ချိတ်ဆက်စဉ် လုတ်တင်ပါ</string>
     <string name="info_flow_setting">အကြောင်းအရာဆက်တင်များ</string>
     <string name="info_flow_show">အကြံပြုထားသောအကြောင်းအရာများအား ပြသပါ</string>
     <string name="install">တပ်ဆင်</string>
     <string name="installing">ထည့်သွင်းနေ…</string>
     <string name="insufficient_space">သိုလှောင်မှု မလုံလောက်ပါ</string>
+    <string name="load_finish_hint">အားလုံးပြီးပါပြီ။</string>
+    <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="media_filter">မီဒီယာ</string>
     <string name="menu_all_task_pause">အားလုံး တန့်ရပ်ပါ</string>
     <string name="menu_all_task_start">အားလုံးကို စတင်ပါ</string>
@@ -128,6 +135,7 @@
     <string name="menu_title_pause_all">အားလုံး တန့်ရပ်ပါ</string>
     <string name="menu_title_resume_all">အားလုံးကို စတင်ပါ</string>
     <string name="menu_title_settings">ဆက်တင်များ</string>
+    <string name="net_error">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="no_file_hint">ဤဖိုင်အား ဒေါင်းလုဒ်လုပ်ရန် ပြင်ဆင်ထားပြီးဖြစ်သည်</string>
     <string name="no_result_for_keyword">ရှာမတွေ့နိုင်ခဲ့ပါ \"%1$s\"</string>
     <string name="no_share_file">ဤဖိုင်အား မမျှဝေနိုင်ခဲ့ပါ</string>
@@ -161,6 +169,7 @@
     <string name="privacy_tip_cancel">ဖျက်သိမ်း</string>
     <string name="privacy_tip_ok">အိုကေ</string>
     <string name="rank">အဆင့်သတ်မှတ်ခြင်း</string>
+    <string name="rank_app_list">ဒေါင်းလုဒ် အများဆုံး</string>
     <string name="recommend_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="recommend_failed">မအောင်မြင်ခဲ့ပါ</string>
     <string name="recommend_install">တပ်ဆင်</string>
@@ -196,13 +205,4 @@
     <string name="toast_only_wifi_download">အိုင်တမ်များအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်ပါ</string>
     <string name="total_speedup">အရှိန်မြှင့်တင်မှု(စုစုပေါင်း)</string>
     <string name="version">ဗားရှင်း %s</string>
-    <string name="check_new_downloaded_action">ကြည့်ရှုရန်</string>
-    <string name="check_new_downloaded_file">ဖိုင် အသစ်တစ်ခု တွေ့ရှိသည်</string>
-    <string name="get_data_failed">အချက်အလက် မရယူနိုင်ခဲ့ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="info_download_details">အသေးစိတ်</string>
-    <string name="info_download_progress">ဒေါင်းလုဒ် လုပ်ဆောင်မှုအား ပြပါ</string>
-    <string name="load_finish_hint">အားလုံးပြီးပါပြီ။</string>
-    <string name="loading">ခဏစောင့်ပါ…</string>
-    <string name="net_error">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
-    <string name="rank_app_list">ဒေါင်းလုဒ် အများဆုံး</string>
 </resources>

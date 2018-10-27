@@ -6,6 +6,9 @@
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">သင်းမ် %1$d ခုအတွက် အသစ်မွမ်းမံမှုရရှိ</item>
     </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">လက်ရာ %1$s ခု</item>
+    </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">သင်းမ် %1$d ခုအတွက် အသစ်မွမ်းမံမှုရရှိ</item>
     </plurals>

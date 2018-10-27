@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -103,9 +104,9 @@
     <string name="apk_status_damage">ပျက်စီးသွားသည်</string>
     <string name="cache_title_empty_folder">ဖိုလ်ဒါအလွတ် (%d ခု)</string>
     <string name="cache_title_empty_folder2">ဖိုလ်ဒါအလွတ်</string>
-    <string name="dialog_msg_check_all">%2$d အမယ်များ ပါရှိသော %1$s ကို ရွေးရန် အတည်ပြုပါ</string>
+    <string name="dialog_msg_check_all">အိုင်တမ် %2$d ခု ပါရှိသော %1$s ကို ရွေးရန် အတည်ပြုပါ</string>
     <string name="dialog_title_check_all">အားလုံး ရွေးပါ</string>
-    <string name="hints_garbage_handle_item_content">%1$d အမယ်များ၊ %2$s</string>
+    <string name="hints_garbage_handle_item_content">အိုင်တမ် %1$dခု၊ %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">အလွတ်</string>
     <string name="hints_latest_garbage_cleanup_never">ဘယ်တော့မှ ရှင်းမပစ်ပါ</string>
     <string name="hints_latest_garbage_cleanup_today">နောက်ဆုံး သန့်ရှင်းရေး: ယနေ့</string>
@@ -143,7 +144,7 @@
     <string name="toast_garbage_list_empty">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေသည်!</string>
     <string name="hints_quick_cleanning">သန့်ရှင်းရေးလုပ်နေဆဲ…</string>
     <string name="hints_quick_prepare">ပြင်ဆင်နေ…</string>
-    <string name="start_downloading_app">ဒေါင်းလုဒ်စလုပ်နေသည်−%1$s</string>
+    <string name="start_downloading_app">ဒေါင်းလုဒ်စလုပ်နေသည်- %1$s</string>
     <string name="hints_finish_quick_scan">စကန်လုပ်ခြင်း ပြီးသွားပါပြီ</string>
     <string name="hints_finish_quick_cleanup">ပြီးပါပြီ</string>
     <string name="hints_finish_quick_cleanup_title">%s အမှိုက် သန့်ရှင်းရေးလုပ်ပါ</string>
@@ -288,7 +289,7 @@
     <string name="there_is_no">ကြည့်ရတာ အားလုံးအဆင်ပြေမယ့်ပုံဘဲ၊ နောက်မှဘဲ လာခဲ့ပါတော့။</string>
     <string name="no_network">ကွန်ရက်သို့မချိန်ဆက်နိုင်ခဲ့ပါ၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="back">နောက်သို့</string>
-    <string name="total_clean">စုစုပေါင်းရှင်းလင်းလိုက်သော−%s</string>
+    <string name="total_clean">စုစုပေါင်း ရှင်းလင်းလိုက်သော- %s</string>
     <string name="toast_network_switch">ဤအက်ပ်စ်သည် အင်တာနက်ကို ဆက်သွယ်နိုင်ပါသည်။</string>
     <string name="open">ဖွင့်ပါ</string>
     <string name="close">ပိတ်</string>
@@ -299,6 +300,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>

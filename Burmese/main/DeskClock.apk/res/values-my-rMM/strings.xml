@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">ပါဝါပိတ်ပြီးနောက် နှိုးစက်နိုးလာလိမ့်မည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -160,6 +161,7 @@
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">%1$s°</string>
@@ -172,6 +174,10 @@
     <string name="timer_alarm_cancel_pad">ဖုန်းမြည်ခြင်းအား ရပ်ရန် မျက်နှာပြင်သို့ ထိနှိပ်လိုက်ပါ</string>
     <string name="timer_alarm_dot_matrix_label">အချိန်တွက်စက်</string>
     <string name="timer_alert_alert_silenced">%d မိနစ်ပြီးနောက် နှိုးစက်ရပ်သွားလိမ့်မည်</string>
+    <string name="timer_alert_mute_off">တိုင်မာရပ်သည့်အခါ နှိုးစက်မြည်ပါလိမ့်မည်</string>
+    <string name="timer_alert_mute_on">တိုင်မာရပ်သည့်အခါ နှိုးစက်မြည်လိမ့်မည် မဟုတ်ပါ</string>
+    <string name="timer_alert_mute_remind">နှိုးစက်အသံပိတ်ရန် ထိနှိပ်ပါ</string>
+    <string name="timer_alert_mute_switch">တိုင်မာ အချက်ပေးသံ ခလုတ်</string>
     <string name="timer_alert_type_beach">ကမ်းခြေ</string>
     <string name="timer_alert_type_forest">သစ်တော</string>
     <string name="timer_alert_type_mute">မူလ</string>
@@ -215,7 +221,7 @@
     <string name="volume_button_setting_title">အသံတိုးကျယ်ခလုတ်များ</string>
     <string name="workday_alarm_clock">အလုပ်ဆင်းရက် နှိုးစက်</string>
     <string name="worldclock_empty_text">အချိန်နာရီများ မရှိပါ</string>
-    <string name="worldclock_input_hint_text">မြို့အမည် ရိုက်ထည့်ပါ</string>
+    <string name="worldclock_input_hint_text">နိုင်ငံ သို့မဟုတ် မြို့များ ရှာရန်</string>
     <string name="worldclock_search_city">မြို့တစ်မြို့ ရွေးပါ</string>
     <string name="worldclock_title">နာရီ</string>
     <string name="worldclock_world_time">ဒေသစံတော်ချိန်</string>

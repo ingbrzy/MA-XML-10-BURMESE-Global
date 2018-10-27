@@ -30,7 +30,11 @@
     <string name="cancel_alarm_description">နှိုးစက်ရှင်းလင်း</string>
     <string name="cloud_service_state_open_reminder">မှတ်စုများကို ဆင့်ခ်လုပ်ရန် Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ။</string>
     <string name="cloud_trash_bin_title">Mi ကလောက်မှ မှတ်စုများအား ဖျက်ပါ</string>
-    <string name="cta_reminder">ဤအက်ပ်သည် မှတ်စုများကို Mi Cloud တွင် အရန်သိမ်းဆည်းရန်အတွက် အင်တာနက်ချိတ်ဆက်ရမည်၊ ထို့အပြင် ဖုန်းပြောနေစဉ် မှတ်ထားသော မှတ်စုများအား အညွှန်းသတ်မှတ်ရန်အတွက်မူ သင်၏အဆက်အသွယ်များကို ဖတ်ခွင့်ရရှိရန် လိုအပ်ပါသည်။</string>
+    <string name="cta_confirm_cancel">ခွင့်မပြုပါ</string>
+    <string name="cta_confirm_ok">ခွင့်ပြုမည်</string>
+    <string name="cta_dialog_message">မှတ်စုမှ ပုံမှန် အလုပ်လုပ်နိုင်ရန် အင်တာနက် ချိတ်ဆက်ခြင်း၊ အသံသွင်းခြင်းနှင့် တည်နေရာ ရယူခြင်းတို့အတွက် ခွင့်ပြုချက် လိုအပ်သည်။ ခွင့်ပြုမလား?</string>
+    <string name="cta_dialog_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
+    <string name="cta_reminder">မှတ်စုမှ ပုံမှန် အလုပ်လုပ်နိုင်ရန် အင်တာနက် ချိတ်ဆက်ခြင်း၊ အသံသွင်းခြင်းနှင့် တည်နေရာ ရယူခြင်းတို့အတွက် ခွင့်ပြုချက် လိုအပ်သည်။ ခွင့်ပြုမလား?</string>
     <string name="date_time_picker_alarm_reminder">နှိုးစက်</string>
     <string name="date_time_picker_dialog_title">အချိန်နှင့် ရက်စွဲ သတ်မှတ်ပါ</string>
     <string name="date_time_picker_has_not_set_alarm">နှိုးစက် မသတ်မှတ်ရသေးပါ</string>
@@ -114,6 +118,7 @@
     <string name="menu_title_select_folder">ဖိုလ်ဒါ ရွေးပါ</string>
     <string name="menu_unhide">ဖော်ပါ</string>
     <string name="menu_unstick">ဆွဲဖြုတ်ပါ</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">အခု မဟုတ်ပါ</string>
     <string name="note_description_content">မှတ်စုအက်ပ်သည် သင့်စိတ်ကူးများကို မှတ်တမ်းတင်ထားရန်အတွက် အကောင်းဆုံးဖြစ်သည်။ ၎င်းတွင် မူလကတည်းက ထည့်သွင်းထားသော သတိပေးချက်ဝန်ဆောင်မှု ပါရှိပြီး သင်မှတ်ထားသော အရာများကို Mi Cloud ထဲတွင် ဆင့်ခ်လုပ်သည့်အတွက် ယင်းတို့ကို အချိန်မရွေး နေရာမရွေး ဝင်ရောက် အသုံးပြုနိုင်ပါသည်။ အက်ပ်ကို မဖျက်မီ သင်သည် ၎င်းဝန်ဆောင်မှုများ မရှိသည်ကို လက်ခံနိုင်ကြောင်း သေချာပါစေ။</string>
     <string name="note_description_title">မှတ်စုအကြောင်း</string>
@@ -125,6 +130,7 @@
     <string name="note_sort_way">သင့်မှတ်စုများအား မည်သို့ စီစဉ်လိုသည်ကို ရွေးချယ်ပါ</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">မှတ်ချက် နှိုးဆော်စာ</string>
     <string name="permdesc_accessNote">အမျိုးအမည်မသိအက်ပ်များမှ ဤအရာကိုသုံးပြီး သင့်ကိုယ်ရေးဒေတာများအား ရယူနိုင်သည်။</string>
     <string name="permlab_accessNote">မှတ်ချက်များ ဝင်ကြည့်ပါ</string>

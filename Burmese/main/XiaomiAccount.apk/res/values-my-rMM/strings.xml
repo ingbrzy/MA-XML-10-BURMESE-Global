@@ -333,7 +333,7 @@
     <string name="confirm_activate_email">အတည်ပြုပြီးသော</string>
     <string name="resend_email_success">အီးမေးလ်အား ပြန်လည်ပေးပို့</string>
     <string name="resend_email_reach_limit_title">အီးမေးလ်မပို့နိုင်ပါ</string>
-    <string name="resend_email_reach_limit_message">အတည်ပြုခြင်းအီးမေးလ်အမြောက်အများ တောင်းခံခဲ့သည်။ အတည်ပြုခြင်းအီးမေးလ်မှာ သင့်အီးမေးလ် spam ဖိုလ်ဒါထဲတွင် ရှိမနေကြောင်း သေချာအောင်စစ်ကြည့်ပါ။</string>
+    <string name="resend_email_reach_limit_message">အတည်ပြုခြင်းအီးမေးလ်အမြောက်အများ တောင်းခံခဲ့သည်။ အတည်ပြုခြင်းအီးမေးလ်မှာ သင့်အီးမေးလ် အမှိုက်စာဖိုလ်ဒါထဲတွင် ရှိမရှိ သေချာအောင်စစ်ကြည့်ပါ။</string>
     <string name="update_email_address_dialog_title">အသစ်မွမ်းမံ အီးမေးလ်</string>
     <string name="update_email_address_dialog_message">အီးမေးလ်အား အသစ်မွမ်းမံမှုမလုပ်မီ သင့်အိုင်တည်ကို အတည်ပြုရန် လိုအပ်ပါသည်။</string>
     <string name="update_phone_notice">လုံခြုံရေးဆက်တင်များကို ပြောင်းမည်</string>

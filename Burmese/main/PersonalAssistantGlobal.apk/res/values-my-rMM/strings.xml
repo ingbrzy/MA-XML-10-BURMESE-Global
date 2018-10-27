@@ -88,6 +88,8 @@
     <string name="card_title_utilities">အများပြည်သူ ဝန်ဆောင်မှု</string>
     <string name="check_network">ကွန်ရက် ဆက်တင်များကို စစ်ဆေးပါ</string>
     <string name="check_network_retry">ကွန်ရက် ဆက်တင်များကို စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="clean_grabage">သန့်ရှင်းစက်</string>
+    <string name="clean_now">စစ်ဆေးရန်</string>
     <string name="cleanup_garbage">သန့်ရှင်းစက်</string>
     <string name="cleanup_memory">ကက်ချ်ကို ရှင်းလင်းမည်</string>
     <string name="cleanup_power">အတွင်းကျကျ ရှင်းပစ်ပါ</string>
@@ -109,6 +111,7 @@
     <string name="cta_negative">ပိတ်မည်</string>
     <string name="cta_positive">အသေးစိတ်များ</string>
     <string name="cta_title">အက်ပ် မီးခံသေတ္တာကို အသုံးပြုလိုက်ပါ</string>
+    <string name="current_optimization_value">အန္တရာယ်များကြောင့် လုံခြုံရေး ရမှတ် လျော့နည်းနိုင်သည်</string>
     <string name="data_error">အမှားတစ်ခု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="data_error_show">အော်ဒါ ပြီးမြောက်ပါပြီ၊ အသေးစိတ်များ ကြည့်ရှု၍ မရပါ။</string>
     <string name="donnot_ask">ထပ်မမေးပါနှင့်</string>
@@ -205,7 +208,11 @@
     <string name="ola_trip">တက္ကစီ ငှါးမည်</string>
     <string name="ola_trip_content">ကျသင့်ငွေ ခန့်မှန်း၍ တက္ကစီ(Ola)တစ်စီး ငှါးမည်</string>
     <string name="ola_trip_content_detail">အနီးစပ်ဆုံးကျသင့်ငွေ ခန့်မှန်း၍ တက္ကစီ(Ola)တစ်စီး ငှါးမည်။</string>
+    <string name="optimizate_now">ပိုမိုကောင်းမွန်အောင်လုပ်ရန်</string>
+    <string name="optimization">လုံခြုံရေး ရမှတ်</string>
     <string name="phone_check">အရှိန်မြှင့်တင်ခြင်း</string>
+    <string name="phone_has_garbage">အမှိုက်ဖိုင်များသည် သင့်စက်အား နှေးစေနိုင်သည်</string>
+    <string name="phone_has_virus">အန္တရာယ်ရှိသော ဆော့ဖ်ဝဲလ်နှင့် ဗိုင်းရပ်စ်များသည် လုံခြုံရေး အန္တရာယ်များ ဖြစ်ပေါ်စေသည်</string>
     <string name="place_label">သွားလေ့ရှိသော နေရာများ</string>
     <string name="record_name">အသံသွင်းမည်</string>
     <string name="record_parent">ရီကော်တာ</string>
@@ -221,6 +228,7 @@
     <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">ရှာဖွေနေသည်…</string>
     <string name="security">လုံခြုရေး</string>
+    <string name="security_brief">သင့်စက်အား ကာကွယ်ပြီး နေရာလွတ် ရှင်းလင်းပါ</string>
     <string name="service_unavailiable">အင်တာနက်သို့ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="set_home_failed">လိပ်စာ ပေါင်းထည့်၍မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="set_office_failed">လိပ်စာ ပေါင်းထည့်၍မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
@@ -333,6 +341,7 @@
     <string name="upgrade_now">အပ်ဒိတ်လုပ်မည်</string>
     <string name="user_id">အသုံးပြုသူ ID- %s</string>
     <string name="utilities_apps_bref">အခြားနေရာမှ ဝန်ဆောင်မှုများအား ဤနေရာတွင် ရှာဖွေပါ</string>
+    <string name="virus_scan">ဗိုင်းရပ်စ် စကန်</string>
     <string name="walk">လမ်းလျှောက်မည်</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">ပုံမှန်အားဖြင့် လိုရာခရီးသို့ သင်ဘယ်လိုသွားသလဲ?</string>
