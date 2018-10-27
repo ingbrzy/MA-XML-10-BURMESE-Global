@@ -720,8 +720,6 @@
     <string name="mw_snippets_disabled_generic_prompt">စိတ်ကြိုက်အကြောင်းအရာများ ရယူပါ</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Google မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရယူနိုင်ရန် Chrome သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>
