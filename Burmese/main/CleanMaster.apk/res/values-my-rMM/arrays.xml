@@ -23,6 +23,10 @@
         <item>ရှင်းပစ်ပါ</item>
         <item>ရှင်းလင်းပြီး အသိပေးပါ</item>
     </string-array>
+    <string-array name="wechat_sort">
+        <item>ရက်စွဲ</item>
+        <item>အရွယ်အစား</item>
+    </string-array>
     <string-array name="hide_installed_packages">
         <item>com.miui.klo.bugreport</item>
         <item>com.mfashiongallery.emag</item>

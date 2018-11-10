@@ -30,6 +30,7 @@
     <string name="passport_register">အကောင့်တစ်ခု ဖန်တီးပါ</string>
     <string name="passport_new_user_register">အကောင့်တစ်ခု ဖန်တီးပါ</string>
     <string name="passport_vcode_sms_send_prompt">အတည်ပြုကုဒ်ကို %s သို့ ပို့ပါ</string>
+    <string name="passport_input_phone_password">မိုဘိုင်းနံပါတ် %s အတွက် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="passport_get_verify_code">ကုဒ်နံပါတ် ရယူပါ</string>
     <string name="passport_re_get_verify_code">ကုဒ်နံပါတ် တဖန်ရယူပါ</string>
     <string name="passport_getting_verify_code">ရယူနေဆဲပါ</string>
@@ -59,6 +60,7 @@
     <string name="passport_forget_password_no_underline">စကားဝှက် မေ့နေသည်</string>
     <string name="passport_reg_type_email">အီးမေးလ်လိပ်စာ</string>
     <string name="passport_register_by_email"><u>အီးမေးလ်လိပ်စာသုံးပြီး အကောင့်တစ်ခု ဖန်တီးပါ</u></string>
+    <string name="passport_international_register_by_email">အီးမေးလ်လိပ်စာဖြင့် အကောင့်တစ်ခု ဖန်တီးမည်</string>
     <string name="passport_account_not_actived">သင်၏အကောင့်အသက်မသွင်းရသေးပါ</string>
     <string name="passport_active_email_visit">သင်၏စာတိုက်ပုံးကို %s မှာ စစ်ဆေးပါ</string>
     <string name="passport_click_email_to_valid">"
@@ -177,6 +179,7 @@
     <string name="passport_quick_register_notice"><u>Mi အကောင့် မရှိသေးဘူးလား? အကောင့်တစ်ခု ဖန်တီးလိုက်ပါ။</u></string>
     <string name="passport_password_phone_login">Mi အကောင့်သုံး၍ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="passport_sms_verification_code_login">SMS ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
+    <string name="passport_sms_verification_code_login_or_register">SMS ဖြင့် ဆိုင်းအင်ဝင်မည် သို့မဟုတ် မှတ်ပုံတင်မည်</string>
     <string name="passport_login_other_account">အခြားအကောင့်</string>
     <string name="passport_reg_new_account">အကောင့်တစ်ခု ဖန်တီးပါ</string>
     <string name="passport_select_the_login_account">ဆိုင်းအင်ဝင်ရန် အကောင့်ရွေးပါ</string>

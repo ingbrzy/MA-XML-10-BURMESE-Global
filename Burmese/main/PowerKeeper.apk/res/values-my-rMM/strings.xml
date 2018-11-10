@@ -95,4 +95,7 @@
     <string name="message_i_know">နားလည်ပါပြီ</string>
     <string name="high_temp_state">မြင့်မားသော အပူချိန်</string>
     <string name="high_temp_state_message">စက် အပူချိန်မြင့်နေသည်။ ဒေတာ၊ Wi-Fi ap၊ GPS၊ ကင်မရာ စသည့်သုံးစွဲမှုများကို ကန့်သတ်လိမ့်မည်</string>
+    <string name="atrace_start">atrace မှတ်တမ်းအား ရယူနေသည်…</string>
+    <string name="atrace_saving">atrace မှတ်တမ်းအား သိမ်းဆည်းနေသည်…</string>
+    <string name="atrace_saved">သိမ်းဆည်းပြီးပါပြီ</string>
 </resources>

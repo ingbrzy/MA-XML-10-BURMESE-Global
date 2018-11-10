@@ -135,6 +135,7 @@
     <string name="security_permission_open_wifi_settings">Wi-Fi ဆက်တင်အား ဖွင့်ပါ</string>
     <string name="xspace_resolver_activity_title">အက်ပ်ရွေးပါ</string>
     <string name="user_switching_dialog_text">ပြောင်းလဲနေ…</string>
+    <string name="xspace_head">နှစ်ခုတွဲအက်ပ်</string>
     <string name="activity_package_delete_confirm_title">ဂရုစိုက်ခြင်း</string>
     <string name="button_text_cancel">ပယ်ဖျက်သည်</string>
     <string name="button_text_delete">ဖြုတ်မည်</string>

@@ -21,6 +21,12 @@
     <plurals name="incorrect_pukcode_remaining_attempts">
         <item quantity="other">PUK ကုဒ် မမှန်ကန်ပါ၊ ကြိုးစားခွင့် %d ကြိမ် ကျန်သေးသည်</item>
     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">လော့ခ်မဖြည်သည်မှာ %d နာရီ ကြာပါပြီ၊ စကားဝှက် ရိုက်ထည့်ရန် လိုအပ်သည်</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">လော့ခ်မဖြည်သည်မှာ %d နာရီ ကြာပါပြီ၊ သော့ဖွင့်ပုံစံ ဆွဲရန် လိုအပ်သည်</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"%d  နာရီခန့် သုံးနိုင်သည်"</item>
     </plurals>
@@ -31,13 +37,13 @@
         <item quantity="other">"%1$d  နာရီ %2$d  မိနစ်ခန့် သုံးနိုင်သည်"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">"%d  နာရီ"</item>
+        <item quantity="other">%d နာရီ</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">"%d  မိနစ်"</item>
+        <item quantity="other">%d မိနစ်</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">"%1$d  နာရီ %2$d  မိနစ်"</item>
+        <item quantity="other">%1$d နာရီ %2$d မိနစ်</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">%d နာရီခန့် သုံးနိုင်သည်</item>

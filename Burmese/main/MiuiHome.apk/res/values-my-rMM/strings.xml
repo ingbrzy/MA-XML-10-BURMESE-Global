@@ -279,7 +279,6 @@
     <string name="recommend_apps_switch_title">အဆင့်မြှင့်ပြီး အက်ပ်များ</string>
     <string name="recommend_apps_tips">ဤလုပ်ဆောင်ချက်မှာ ပုံမှန်အလုပ်လုပ်ရန် အင်တာနက်ချိတ်ဆက်မှုလိုအပ်ပါသည်။ ဤလုပ်ဆောင်ချက်အား ပိတ်ရန် ဤဖိုလ်ဒါအမည်အား ထိနှိပ်ပါ။</string>
     <string name="recommend_loading">လုပ်ဆောင်နေသည်</string>
-    <string name="refresh">ပြန်လည်လန်းဆန်းစေပါ</string>
     <string name="reset_description_first_time">အပြင်အဆင်အား %1$s မှ နှစ်နာရီအတွင်း ပြန်လည်ရယူနိုင်ပါသည်</string>
     <string name="reset_description_others">အပြင်အဆင်အား %1$s မှ ပြန်လည်ရယူနိုင်ပါသည်</string>
     <string name="reset_fail">ပြန်လည်ရယူ၍ မရပါ</string>
@@ -344,4 +343,10 @@
     <string name="widget_gadget_player">တေးဂီတ</string>
     <string name="widget_global_search">ရှာပါ</string>
     <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်များ</string>
+    <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
+    <string name="announce_for_create_folder_with_app">Created a folder with %1$s</string>
+    <string name="announce_for_widget_span">Width %1$d, height %2$d</string>
+    <string name="recommend_apps_no_data_toast">No recommendations for now.</string>
+    <string name="recommend_refresh">ရီဖရှက်ရ်လုပ်ပါ</string>
+    <string name="recommend_xout">"Don't show"</string>
 </resources>

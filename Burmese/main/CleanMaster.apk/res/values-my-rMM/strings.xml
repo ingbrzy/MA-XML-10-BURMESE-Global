@@ -17,7 +17,7 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="update_date_format">MM/dd/yyyy</string>
+    <string name="update_date_format">dd/MM/yyyy</string>
     <string name="activity_title_garbage_cleanup">သန့်ရှင်းစက်</string>
     <string name="activity_title_scanfinish">စကန်ဖတ်ခြင်းပြီး</string>
     <string name="empty_title_photos">သီချင်းရှာမတွေ့</string>
@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -276,8 +277,8 @@
     <string name="name_debuglog_dir">BSP ဒီဘာဂ်မှတ်တမ်း</string>
     <string name="just_now">ခုလေးတင်</string>
     <string name="yesterday">မနေ့က</string>
-    <string name="month_day_format">dd MMM</string>
-    <string name="year_month_day_format">dd MMM yyyy</string>
+    <string name="month_day_format">MMM dd</string>
+    <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="go_to">ဆက်လုပ်မည်</string>
     <string name="promotion">Ad</string>
     <string name="recommended">အထူးပြုလုပ်ချက်</string>
@@ -299,6 +300,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">ဖိုင်မတွေ့ပါ</string>
     <string name="app_usage_never">မကြာသေးမီက သုံးမထားသော</string>
     <string name="app_usage_recently">မကြာခဏသုံးသော</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ဖိုင်ပိုမို၍ ရှင်းလင်းနိုင်ပါသည်။ နေရာပိုမို၍ရှင်းလင်းပါ;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat ကက်ချီ။ နေရာပိုမို၍ရှင်းလင်းပါ။;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> QQမှ အမှိုက်ကို ရှင်းလင်းနိုင်သည်;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> ဖိုင်ပိုမို၍ ရှင်းလင်းနိုင်ပါသည်။ နေရာပိုမို၍ရှင်းလင်းပါ ;</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> WeChat ကက်ချီ။ နေရာပိုမို၍ရှင်းလင်းပါ။ ;</Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> QQမှ အမှိုက်ကို ရှင်းလင်းနိုင်သည် ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">ရှင်းလင်းရေးမာစတာ</string>
     <string name="app_description_title">သန့်ရှင်းရေးစက်အကြောင်း</string>
@@ -498,19 +500,6 @@
     <string name="auto_clean_time_three_day">၃ ရက်တိုင်း</string>
     <string name="auto_clean_time_seven_day">၇ ရက်တိုင်း</string>
     <string name="auto_clean_time_fifteen_day">၁၅ ရက်တိုင်း</string>
-    <string name="pref_category_title_auto_clean_config_settings">အလိုအလျောက် ရှင်းလင်းခြင်း</string>
-    <string name="pref_title_auto_clean">အလိုအလျောက် ရှင်းပစ်ပါ</string>
-    <string name="pref_title_auto_clean_operation">ရှင်းလင်းပုံ</string>
-    <string name="pref_title_auto_clean_trigger">သိုလှောင်ခန်းအား ရှင်းလင်းပါ</string>
-    <string name="auto_clean_operation_dialog_title">ရှင်းလင်းပုံ</string>
-    <string name="auto_clean_operation_clean_and_alert">သတိပေး၍ ရှင်းလင်းပါ</string>
-    <string name="auto_clean_operation_just_clean">ရှင်းလင်းမည်သာ</string>
-    <string name="auto_clean_trigger_dialog_title">သိုလှောင်ခန်းအား ရှင်းလင်းပါ</string>
-    <string name="auto_clean_trigger_percent_ninety">၉၀% အသုံးပြုထားသောအခါ</string>
-    <string name="auto_clean_trigger_percent_eighty">၈၀% အသုံးပြုထားသောအခါ</string>
-    <string name="auto_clean_trigger_percent_sixty">၆၀% အသုံးပြုထားသောအခါ</string>
-    <string name="auto_clean_notification_title">ရှင်းလင်းပြီးလျှင် သတိပေးပါ</string>
-    <string name="auto_clean_notification_content">အမှိုက် %sအား ရှင်းလင်းပြီးပါပြီ</string>
     <string name="guide_secure_dialog_title">စွမ်းဆောင်ရည် မြှင့်တင်မည်</string>
     <string name="guide_secure_dialog_message">ပိုမိုကောင်းမွန်အောင် လုပ်ဆောင်ခြင်း ရမှတ်မှာ ၈၀ ထက်နည်းနေသည်။ ပိုကောင်းအောင်လုပ်မလား?</string>
     <string name="guide_secure_dialog_positive">အဆင့်မြှင့်တင်မည်</string>
@@ -538,10 +527,6 @@
     <string name="whatsapp_group_gif">GIF</string>
     <string name="whatsapp_group_document">စာရွက်စာတမ်း</string>
     <string name="whatsapp_btn_quick_cleanup">ရွေးထားသော အိုင်တမ် (%s) အား ဖျက်မည်</string>
-    <string name="whatsapp_type_image_send">ပေးပို့ခဲ့သော ရုပ်ပုံများ</string>
-    <string name="whatsapp_type_image_recv">လက်ခံရရှိသော ရုပ်ပုံများ</string>
-    <string name="whatsapp_type_document_send">ပေးပို့ခဲ့သော ဖိုင်များ</string>
-    <string name="whatsapp_type_document_recv">လက်ခံရရှိသော ဖိုင်များ</string>
     <string name="whatsapp_file_show_order">ယနေ့</string>
     <string name="whatsapp_clean_exit_confirm_title">စကန်ဖတ်ခြင်းကို ရပ်မလား?</string>
     <string name="whatsapp_clean_exit_confirm_msg">WhatsApp အား စကန်ဖတ်လို့ မပြီးသေးပါ။ ယခု ရပ်မလား?</string>
@@ -567,4 +552,17 @@
     <string name="memory_clean_no_trash_tip">အရာအားလုံး အဆင်ပြေပါသည်</string>
     <string name="toast_updater_open_4g_text">4G မိုဘိုင်းဒေတာဖြင့် အက်ပ်များအား အပ်ဒိတ်လုပ်မည်</string>
     <string name="toast_updater_close_4g_text">4G မိုဘိုင်းဒေတာဖြင့် အက်ပ်များအား အပ်ဒိတ်မလုပ်ပါနှင့်</string>
+    <string name="facebook_cleaner">Facebook သန့်ရှင်းစက်</string>
+    <string name="facebook_group_image">ရုပ်ပုံ</string>
+    <string name="facebook_group_video">ဗီဒီယို</string>
+    <string name="facebook_group_gif">GIF</string>
+    <string name="facebook_group_cache">ကက်ချီဖိုင်</string>
+    <string name="app_clean_group_image_send">ပေးပို့ခဲ့သော ရုပ်ပုံများ</string>
+    <string name="app_clean_group_image_recv">လက်ခံရရှိသော ရုပ်ပုံများ</string>
+    <string name="app_clean_group_document_send">ပေးပို့ခဲ့သော ဖိုင်များ</string>
+    <string name="app_clean_group_document_recv">လက်ခံခဲ့သော ဖိုင်များ</string>
+    <string name="facebook_clean_exit_confirm_title">စကန်ဖတ်ခြင်းကို ရပ်မလား?</string>
+    <string name="facebook_clean_exit_confirm_msg">Facebook အား စကန်ဖတ်လို့ မပြီးသေးပါ။ ယခု ရပ်မလား?</string>
+    <string name="facebook_clean_exit_confirm_cancel">စကန် ဆက်ဖတ်ပါ</string>
+    <string name="facebook_clean_exit_confirm_ok">ရပ်ပါ</string>
 </resources>

@@ -16,15 +16,24 @@
         <item quantity="other">%1$s ထံမှ ဖိုင် %2$d ခု</item>
     </plurals>
     <plurals name="f">
-        <item quantity="other">ရွေးထားသော အိုင်တမ် %d ခု</item>
+        <item quantity="other">%1$sအပါအဝင် အခြား အိုင်တမ် %2$s ခုအား လွှဲပြောင်းနေသည်။</item>
     </plurals>
     <plurals name="g">
-        <item quantity="other">အိုင်တမ် %1$d ခု</item>
+        <item quantity="other">ရွေးထားသော အိုင်တမ် %d ခု</item>
     </plurals>
     <plurals name="h">
-        <item quantity="other">ဖိုင် %1$dခု (%2$s)အား လက်ခံရရှိသည်</item>
+        <item quantity="other">အိုင်တမ် %1$d ခု</item>
     </plurals>
     <plurals name="i">
+        <item quantity="other">ဖိုင် %1$dခု (%2$s)အား လက်ခံရရှိသည်</item>
+    </plurals>
+    <plurals name="j">
         <item quantity="other">ဖိုင် %1$dခု (%2$s)အား ပေးပို့သည်</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">အက်ပ် %d ခု၏ အက်ပ်ဒိတ်အား တွေ့ရှိသည်</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%1$s မှ အိုင်တမ် %2$sခု မျှဝေထားသည်</item>
     </plurals>
 </resources>

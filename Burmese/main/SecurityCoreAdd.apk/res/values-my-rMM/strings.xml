@@ -67,10 +67,11 @@
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
     <string name="xspace_account">နှစ်ခုတွဲအက်ပ် အကောင့်များ</string>
+    <string name="xspace_remove">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
     <string name="declare_dialog_title">နှစ်ခုတွဲအက်ပ်အကြောင်း</string>
     <string name="menu_item_about_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="stop_xspace_alert_title">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်နေသည်</string>
-    <string name="stop_xspace_alert_content">နှစ်ခုတွဲအက်ပ် အားလုံးကို ဖျက်ပစ်လိုက်ပြီ။ နှစ်ခုတွဲအက်ပ်အကောင့်နှင့် အက်ပ်ဒေတာများကိုလည်း ဖျက်ပစ်မလား? ဖျက်လိုက်ပါက နှစ်ခုတွဲအက်ပ်များအား လိုအပ်ပါက ပြန်လည်ဖန်တီးရမည်။</string>
+    <string name="stop_xspace_alert_content">နှစ်ခုတွဲအက်ပ် အားလုံးနှင့် ဒေတာများအား အပြီးအပိုင် ဖျက်ပစ်ပါမည်။ ဤပြောင်းလဲမှုအား အသုံးချရန် စက်ကို ပိတ်၍ပြန်စရပါမည်။ အကောင့်များအား ယခု ဖျက်မလား?</string>
     <string name="xspace_loading_msg">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="xspace_header">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_introduce">အကြံပြုထားသော</string>

@@ -201,6 +201,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_message_select_title">မက်ဆေ့ချ် တစ်ဆင့်ပို့မည်</string>
@@ -529,6 +530,7 @@
     <string name="rcs_summary_auto_resend_mms">မူရင်းမက်ဆေ့ချ်အား ပေးပို့၍ မရသောအခါ China Mobile မာလ်တီမီဒီယာ မက်ဆေ့ချ်ကို MMS သို့ ပြောင်းမည်။ ဤမက်ဆေ့ချ်အတွက် အပိုကြေးငွေ ကုန်ကျနိုင်သည်။</string>
     <string name="rcs_summary_auto_resend_sms">မူရင်းမက်ဆေ့ချ်အား ပေးပို့၍ မရသောအခါ China Mobile စာသားမက်ဆေ့ချ်ကို SMS သို့ ပြောင်းမည်။ ဤမက်ဆေ့ချ်အတွက် အပိုကြေးငွေ ကုန်ကျနိုင်သည်။</string>
     <string name="rcs_summary_silence_message">ကွန်ပျူတာတွင် အလုပ်လုပ်နေသောအခါ မက်ဆေ့ချ် အသိပေးချက်အား အသံတိတ်စေပါ</string>
+    <string name="rcs_unavailable">China Mobile မက်ဆေ့ချ်အား ယခု သုံး၍ မရပါ။ China Mobile ဆင်းမ်ကဒ်သည် သင်၏ မူလသတ်မှတ်ထားသော ဒေတာကဒ် မဟုတ်ပါ။</string>
     <string name="rcs_wait_for_retry_text">စောင့်နေသည်…</string>
     <string name="received_at_time">လက်ခံရရှိသောအချိန်- %1s</string>
     <string name="received_label">"လက်ခံ- "</string>
@@ -632,6 +634,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>

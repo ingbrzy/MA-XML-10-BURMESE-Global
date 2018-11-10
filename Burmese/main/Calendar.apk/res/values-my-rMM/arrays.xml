@@ -32,6 +32,39 @@
         <item>ရှေ့သို့</item>
         <item>နောက်သို့</item>
     </string-array>
+    <string-array name="dates">
+        <item>၁</item>
+        <item>၂</item>
+        <item>၃</item>
+        <item>၄</item>
+        <item>၅</item>
+        <item>၆</item>
+        <item>၇</item>
+        <item>၈</item>
+        <item>၉</item>
+        <item>၁၀</item>
+        <item>၁၁</item>
+        <item>၁၂</item>
+        <item>၁၃</item>
+        <item>၁၄</item>
+        <item>၁၅</item>
+        <item>၁၆</item>
+        <item>၁၇</item>
+        <item>၁၈</item>
+        <item>၁၉</item>
+        <item>၂၀</item>
+        <item>၂၁</item>
+        <item>၂၂</item>
+        <item>၂၃</item>
+        <item>၂၄</item>
+        <item>၂၅</item>
+        <item>၂၆</item>
+        <item>၂၇</item>
+        <item>၂၈</item>
+        <item>၂၉</item>
+        <item>၃၀</item>
+        <item>၃၁</item>
+    </string-array>
     <string-array name="default_reminder_labels">
         <item>ပွဲစဉ်အချိန်တွင်</item>
         <item>၅ မိနစ်မတိုင်ခင်က</item>
@@ -47,6 +80,10 @@
         <item>ဤလုပ်ငန်းစဉ်သာ</item>
         <item>ယခုနှင့် နောင်လုပ်ငန်းစဉ်များ</item>
         <item>လုပ်ငန်းစဉ်အားလုံး</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>မေထုန်ရာသီဖွား</item>
@@ -287,7 +324,7 @@
         <item>ဗလက်ဒီဗိုစတော့</item>
         <item>ဂွမ်</item>
         <item>မက်ဂါဒန်</item>
-        <item>အော့ခ်လန်</item>
+        <item>အော်ခ်လန်</item>
         <item>ဖီဂျီ</item>
         <item>တွန်ဂါ</item>
     </string-array>
@@ -315,12 +352,5 @@
     <string-array name="widget_style_list">
         <item>ဖောက်ထွင်းမြင်သော</item>
         <item>အဖြူနောက်ခံ</item>
-    </string-array>
-    <string-array name="edit_event_dislike">
-        <item>No event type I want to create</item>
-        <item>More Settings</item>
-        <item>Some Settings cannot be determined</item>
-        <item>Just look around</item>
-        <item>"Don't tell you"</item>
     </string-array>
 </resources>

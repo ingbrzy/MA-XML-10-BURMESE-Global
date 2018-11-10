@@ -56,8 +56,8 @@
     <plurals name="network_restrict_count">
         <item quantity="other">"အက်ပ် &lt;font color='#ff0000'>%d&lt;/font> ခု အတွက် ကွန်ရက်ဝင်ရောက်မှုကို ကန့်သတ်ထားသည်"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">အက်ပ် %d ခု ပုံမှန်အလုပ်မလုပ်သဖြင့် ဘက်ထရီအားမခံပါ</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">ရှင်းလင်းရန်မလိုသော အက်ပ် %d ခု</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ရက် "</item>

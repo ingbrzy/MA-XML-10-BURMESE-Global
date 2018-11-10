@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">ဖုန်းတွင်းUI</string>
+    <string name="inCallLabel">ဖုန်း</string>
     <string name="unknown">မသိသော</string>
     <string name="private_num">သီးသန့်နံပါတ်</string>
     <string name="payphone">ငွေပေးဖုန်း</string>

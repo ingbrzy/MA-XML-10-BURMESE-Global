@@ -98,7 +98,6 @@
     <string name="app_name">ပြခန်း</string>
     <string name="app_name_view_picture">ဓါတ်ပုံများအား ကြည့်ပါ</string>
     <string name="app_name_view_video">ဗီဒီယိုများကြည့်ပါ</string>
-    <string name="apply">အသုံးချပါ</string>
     <string name="associate_face_album">အယ်လ်ဘမ်ကိုရွေးပါ</string>
     <string name="auto_backup_introduce">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အလိုအလျောက်အရန်သိမ်းဆည်းပါ။(Mi အကောင့်လိုအပ်ပါသည်)</string>
     <string name="auto_download_media_title">Mi Cloudမှ ဓာတ်ပုံများကို အလိုအလျောက် ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -123,10 +122,6 @@
     <string name="baby_album_sharers_page_title">မိသားစုများဖြင့်မျှဝေ</string>
     <string name="baby_birthday">မွေးနေ့</string>
     <string name="baby_face_desc">ကလေးအယ်လ်ဘမ်</string>
-    <string name="baby_lock_wallpaper">သော့ခတ်မျက်နှာပြင် နောက်ခံပုံ</string>
-    <string name="baby_lock_wallpaper_cancelled">မူလပုံသေ နောက်ခံမျက်နှာပြင်ပုံသို့ ပြောင်းလဲလိုက်ပြီ။</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">လက်ရှိဆက်တင်များအား အသုံးချမည်လား?</string>
-    <string name="baby_lock_wallpaper_title">သော့ခတ်မျက်နှာပြင်ပုံအဖြစ် ကလေးပုံများအား အသုံးပြုပါ</string>
     <string name="baby_name_cannot_empty">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="baby_name_cannot_start_with">အမည်အား　%sဖြင့်စတင်၍မရပါ</string>
     <string name="baby_name_contain_invalidate_char">အမည်တွင်　%sပါဝင်၍မရပါ</string>
@@ -196,7 +191,6 @@
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">ကင်မရာအယ်လ်ဘမ်အား အရန်သိမ်းထားရပါမည်</string>
     <string name="cancel">ဖျက်သိမ်း</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">မူလပုံသေ သော့ခတ်နောက်ခံပုံသို့ ပြန်ရယူမည်လား?</string>
     <string name="cancel_download_btn_text">ရပ်တန့်ပါ</string>
     <string name="cancel_hint">အော်ပရေးရှင်းကို ပယ်ဖျက်ပြီးပါပြီ</string>
     <string name="cannot_remove_creator">ဖန်တီးသူကို ဖယ်ရှားလို့မရနိုင်ပါ</string>
@@ -262,7 +256,7 @@
     <string name="collage__talkback_effect">အထူးဖန်တီးချက် %d</string>
     <string name="collage_choose">ရွေးပါ</string>
     <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
-    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_month_day">MMM dd</string>
     <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">မာဂျင်လိုင်း</string>
     <string name="collage_mirror">မှန်</string>
@@ -347,6 +341,11 @@
     <string name="disable_auto_upload_tip">ဤအယ်လ်ဘမ်အတွက် Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ခြင်းကို ပိတ်မည်လား?</string>
     <string name="disable_auto_upload_title">Mi ကလောက်ဖြင့်ဆင့်ခ်လုပ်ခြင်းအား ပိတ်ပါ</string>
     <string name="do_not_remind_me">နောက်ထပ်မပြပါနှင့်</string>
+    <string name="document_provider_guide_step_1">၁။ \"နောက်ထပ်\" ခလုတ်အား ထိနှိပ်ပါ။</string>
+    <string name="document_provider_guide_step_2">၂။ \"အတွင်းသိုလှောင်ခန်းကို ပြပါ\"အား ထိနှိပ်ပါ။</string>
+    <string name="document_provider_guide_step_3">၃။ ဘေးမှ မီနူးခလုတ်အား ထိနှိပ်ပါ။</string>
+    <string name="document_provider_guide_step_4">၄။ \"SD ကဒ်\"အား ရွေးပါ။</string>
+    <string name="document_provider_guide_step_5">၅။ \"ရွေးချယ်မည်\"အား ထိနှိပ်ပါ။</string>
     <string name="double_tap_to_higher_definition">HD ကြိုတင်ကြည့်ရန် နှစ်ချက်ထပ်နှိပ်ပါ</string>
     <string name="download_canceled">ဒေါင်းလုဒ်ဖျက်သိမ်းခဲ့</string>
     <string name="download_error_format">%s ဒေါင်းလုဒ်လုပ်၍မရပါ</string>
@@ -450,6 +449,18 @@
     <string name="exit_video_play">ထွက်</string>
     <string name="expand_desc">နောက်ထပ်</string>
     <string name="expand_people">လူပို၍ပြသပါ</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">ပြခန်းသည် အိုင်တမ်များအား အတွင်းသိုလှောင်ခန်းသို့ သိမ်းဆည်းမည်။ ဆက်တင် > သိုလှောင်ခန်း > သိုလှောင်ခန်း ဆက်တင်တွင် ပြောင်းနိုင်သည်။</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">ခွင့်ပြုချက်များ မပေးပါ။</string>
+    <string name="ext_sdcard_guide_first_page_button_text">ရှေ့သို့</string>
+    <string name="ext_sdcard_guide_last_page_button_text">ခွင့်ပြုချက် ပေးမည်</string>
+    <string name="ext_sdcard_guide_text">ပြခန်းမှ SD ကဒ်သို့ ဝင်ရောက်ရန် သင်၏ခွင့်ပြုချက် လိုအပ်သည်။ အောက်ပါအတိုင်း လုပ်ဆောင်ပါ-</string>
+    <string name="ext_sdcard_operation_failed_text">ပြခန်းမှ SD ကဒ်သို့ ဝင်ရောက်ရန် ခွင့်ပြုချက် လိုအပ်သည်။</string>
+    <string name="ext_sdcard_operation_failed_title">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
+    <string name="ext_sdcard_permission_request_button_text">နားလည်ပါပြီ</string>
+    <string name="ext_sdcard_permission_request_reason">ပြခန်းမှ SD ကဒ်သို့ ဝင်ရောက်ရန် သင်၏ခွင့်ပြုချက် လိုအပ်သည်။ ခွင့်ပြုချက် ပေးအပ်ပါက သင်၏ SD ကဒ်ရှိ ဓာတ်ပုံနှင့် ဗီဒီယိုများအား ဖျက်ပစ်ခြင်း၊ တည်းဖြတ်ခြင်းများကို လုပ်ဆောင်နိုင်မည်။</string>
+    <string name="ext_sdcard_permission_request_title">ပြခန်းအား SD ကဒ်သို့ ဝင်ရောက်ရန် ခွင့်ပြုပါ</string>
+    <string name="ext_sdcard_request_failed_button_text">အိုကေ</string>
+    <string name="ext_sdcard_request_succeed_toast_text">စတင်ရန် အသင့်ဖြစ်နေပါပြီ။</string>
     <string name="face_album_empty">"လူပုဂ္ဂိုလ်အား အလိုအလျောက်ခွဲခြားသိရှိနိုင်ရန် ဓါတ်ပုံမလုံလောက်ပါ။
  သင့်သူငယ်ချင်းများ၏ ဓါတ်ပုံအား များများ ရိုက်ထည့်ပေးပါ!"</string>
     <string name="face_album_empty_syncing">ဒေတာ ဆင့်ခ်လုပ်နေ၊ ခဏနေပြန်လာပါမည်</string>
@@ -467,6 +478,7 @@
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_to_pick_email">ဘောင်မဝင်သော အီးမေးလ် လိပ်စာ</string>
     <string name="fail_to_sync_album">အယ်လ်ဘမ်ကို ဆင့်ခ်လုပ်လို့မရနိုင်ပါ။ သင့်ရဲ့ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
@@ -477,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"ဓာတ်ပုံဖန်တီးချက် အသစ်အား 
 မရနိုင်ပါ"</string>
     <string name="feature_guidance_video_editor_smart_effects">ဖန်တီးချက် အသစ် ရယူနိုင်ပြီ</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">အမှတ်တရ</string>
     <string name="filter_bi_mono">မိုနို</string>
     <string name="filter_bi_pink">ပန်းရောင်</string>
@@ -546,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
@@ -721,6 +735,7 @@
     <string name="operation_save">သိမ်းရန်</string>
     <string name="operation_send">ပေးပို့</string>
     <string name="operation_set_contact_photo">အဆက်အသွယ်ဓာတ်ပုံအဖြစ် သတ်မှတ်</string>
+    <string name="operation_set_slide_wallpaper">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
     <string name="operation_set_wallpaper">နောက်ခံပုံအဖြစ် သတ်မှတ်</string>
     <string name="operation_share">မျှဝေပါ</string>
     <string name="operation_show_in_photos_tab">ဓါတ်ပုံများတွင် ပြသပါ</string>
@@ -744,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">အိမ်မွေးတိရိစ္ဆာန်　ဓါတ်ပုံများ</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">ဓာတ်ပုံများ</string>
@@ -867,6 +883,7 @@
     <string name="picker_image_will_download">ရွေးထားသောပုံများ၏ %d ပုံမှာ စက်ပေါ်တွင် မရှိပါ။ ၄င်းတို့အား ဒေါင်းလုဒ်လုပ်လိုက်ပါလိမ့်မည်။</string>
     <string name="picker_no_network_message">ဒေါင်းလုဒ်လုပ်ရန် ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
     <string name="picker_origin_need_download">ရွေးထားသော ပုံများ၏ %1$d ပုံ(%2$dMB) မှာ စက်ပေါ်တွင် ရှိမနေပါ။ မိုဘိုင်းဒေတာအား အသုံးပြုပြီး ဒေါင်းလုဒ်လုပ်မည် လား?</string>
+    <string name="picker_origin_request_progress_fail">ကွန်ရက်အမှားကြောင့် မူရင်းပုံအား ဒေါင်းလုဒ်လုပ်၍ မရပါ။</string>
     <string name="picker_origin_request_progress_message">မူရင်းဖိုင် (%1$d/%2$d)ကို အသင့်ပြင်နေသည်…</string>
     <string name="picker_title_format">ဓာတ်ပုံ %1$d မှ %2$d ပုံရွေးပါ</string>
     <string name="picker_title_selection_format">ရွေးထားသော ဓါတ်ပုံများ−%d</string>
@@ -1004,6 +1021,9 @@
     <string name="search_title_recommend">အကြံပြုထားသော</string>
     <string name="search_title_suggestion">အကြံပြုချက်များ</string>
     <string name="search_title_tag">အရာပစ္စည်းများ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">ပရိုဂျက်တာကို ရှာနေသည်…</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
@@ -1032,7 +1052,8 @@
     <string name="send_secret_file_failed">မျှဝေ၍ မရပါ</string>
     <string name="send_secret_file_space_low">နေရာလွတ် မလုံလောက်ပါ</string>
     <string name="send_too_many_files_error">တစ်ကြိမ်တွင် အိုင်တမ်%dခုထိ ပေးပို့နိုင်ပါသည်</string>
-    <string name="set_as_baby_lock_wallpaper">သော့ခတ်မျက်နှာပြင်　နောက်ခံပုံအဖြစ်သတ်မှတ်</string>
+    <string name="set_as_slide_wallpaper_description">ဤရုပ်ပုံမှာ thumbnail တစ်ခုဖြစ်ပါသည်၊ မူလပုံအား ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="set_as_slide_wallpaper_title">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
     <string name="set_as_wallpaper_description">ဤရုပ်ပုံမှာ thumbnail တစ်ခုဖြစ်ပါသည်၊ မူလပုံအား ဒေါင်းလုဒ်လုပ်မည်လား?</string>
     <string name="set_as_wallpaper_title">နောက်ခံပုံအဖြစ် သတ်မှတ်</string>
     <string name="set_face_group_toast_msg_new_user">ထပ်လိုက်ရန် သို့မဟုတ် လစ်လျူရှုရန် လူအား ဖိနှိပ်လျက်ထားပါ</string>
@@ -1091,7 +1112,7 @@
     <string name="sticker_spring">နွေဦး</string>
     <string name="sticker_summer">နွေ</string>
     <string name="sticker_words">စာလုံးများ</string>
-    <string name="storage_description_primary">အတွင်းပိုင်း သိုလှောင်ခန်း</string>
+    <string name="storage_description_primary">အတွင်းသိုလှောင်ခန်း</string>
     <string name="storage_description_sdcard">SD ကဒ်</string>
     <string name="storage_description_usb">USB သိုလှောင်ခန်း</string>
     <string name="storage_description_xspace">နှစ်ခုတွဲအက်ပ် ဒေတာ</string>
@@ -1282,6 +1303,7 @@
     <string name="view_face_album">အယ်လ်ဘမ်ကို ကြည့်ပါ</string>
     <string name="view_more_face_desc">နောက်ထပ်လူများ ပြပါ</string>
     <string name="voice_assistant">အသံလက်ထောက်</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Mi ကလောက် မှ ကြိုဆိုပါ၏</string>
     <string name="where_is_barcode">QR ကုဒ်ဘယ်မှာလဲ?</string>
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>
@@ -1289,7 +1311,7 @@
     <string name="yes">ဟုတ်သည်</string>
     <string name="yesterday">မနေ့က</string>
     <string name="you_are">သင်သည် ကလေးငယ်၏</string>
-    <string name="operation_set_slide_wallpaper">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
+    <string name="photo_editor_talkback_crop_screen">မျက်နှာပြင်အပြည့် အချိုး</string>
     <string name="refocus_discard_confirm_message">ပြောင်းလဲခြင်းများကို သိမ်းထားမလား?</string>
     <string name="refocus_discard_negative_btn">စွန့်ပစ်မည်</string>
     <string name="refocus_discard_positive_btn">သိမ်းဆည်းမည်</string>
@@ -1302,6 +1324,4 @@
     <string name="refocus_title">မှုန်ဝါး</string>
     <string name="refocus_type_static">မှုန်ဝါးမှု အဆင့်</string>
     <string name="refocus_type_video">အလင်းရောင် အစက်အပြောက်</string>
-    <string name="set_as_slide_wallpaper_description">ဤရုပ်ပုံမှာ thumbnail တစ်ခုဖြစ်ပါသည်၊ မူလပုံအား ဒေါင်းလုဒ်လုပ်မလား?</string>
-    <string name="set_as_slide_wallpaper_title">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
 </resources>
