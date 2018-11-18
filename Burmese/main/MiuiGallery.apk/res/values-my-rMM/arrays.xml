@@ -4,11 +4,6 @@
         <item>ယောက်ျားလေး</item>
         <item>မိန်းကလေး</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>ရွှေ့ရန်</item>
-        <item>ကော်ပီကူးမည်</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>အဖေ</item>
         <item>အမေ</item>
