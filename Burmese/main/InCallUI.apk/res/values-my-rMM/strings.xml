@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">မှတ်စု</string>
     <string name="call_record_wait_label">စောင့်နေဆဲ</string>
     <string name="contacts_icon_label">အဆက်အသွယ်များ</string>
-    <string name="conference_call_number">လူ %s ဦး</string>
     <string name="conference_call_description" formatted="false">%s,%s စသည်ဖြင့်၊ ပေါင်း %s</string>
     <string name="conference_call_single_description" formatted="false">%s စသည်ဖြင့်။ စုစုပေါင်း %s</string>
     <string name="separate_from_conference">သီးခြားခေါ်ဆိုခြင်း</string>
     <string name="caller_manage_header">ကွန်ဖရင့်ခေါ်ဆိုခြင်း %s</string>
     <string name="incall_call_type_label_sip">အင်တာနက် ခေါ်ဆိုခြင်း</string>
     <string name="incoming_call_forwarded_title">လွှဲပြောင်းအဝင်ခေါ်ဆိုခြင်း</string>
-    <string name="call_title_redialing_with_times">%d ကြိမ်ပြန်ခေါ်ဆိုပြီး</string>
     <string name="card_title_dialing">ခေါ်ဆိုခြင်း</string>
     <string name="card_title_conf_call">ကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
     <string name="card_title_video_conf_call">ဗီဒီယိုကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
@@ -146,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">မှတ်တမ်းတင်ရန် ခွင့်ပြုချက်အား သင်ပယ်ချလိုက်သည်၊ မှတ်တမ်းတင်၍မရနိုင်ပါ</string>
     <string name="call_contacts_deny_permission_msg">အဆက်သွယ်များအား ဖတ်ခြင်းအား သင်ပယ်ချခဲ့သည်၊ အဆက်သွယ် အချက်လက်များအား ပြ၍မရပါ</string>
     <string name="conference_call_recorder_title">ကွန်ဖရင့်ခေါ်ဆိုမှု</string>
-    <string name="antispam_marked_count">MIUI အသုံးပြုသူမှ %1$dသတင်းပေးပို့ထားပါသည်</string>
     <string name="antispam_local_marked">ဒေသဆိုင်ရာ အမှတ်အသားပြုထားသည်</string>
     <string name="antispam_provider">%s မှ သတ်မှတ်ထားပါသည်</string>
     <string name="antispam_notification_title">အမည်မသိ နံပါတ်</string>

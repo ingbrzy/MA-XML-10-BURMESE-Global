@@ -162,7 +162,7 @@
     <string name="background_traffic">နောက်ခံ %s</string>
     <string name="backtouch_enable_title">အသံအတိုးအကျယ်ကို နောက်ကျောတွင် ချိန်ညှိပါ</string>
     <string name="backup_data_summary">အက်ပ်စ်ဒေတာ၊ Wi-Fi လျို့ဝှက်စကားလုံး၊ နှင့် ဂူးဂဲလ်ဆာဗာများအတွက် အခြားဆက်တင်များကို အပိုသိမ်းဆည်းထားမည်</string>
-    <string name="backup_erase_dialog_message">သင့်Wi-Fi လျို့ဝှက်စကားလုံးများ၊ စာအုပ်မှတ်များ၊ အခြားဆက်တင်များ နှင့် အက်ပ်စ်ဒေတာများကို အပိုသိမ်းဆည်းခြင်းကိုရပ်ပြီး ဂူးဂဲလ်ဆာဗာများပေါ်မှ မိတ္တူများကိုဖျက်ပစ်မည်လော?</string>
+    <string name="backup_erase_dialog_message">သင့် Wi-Fi စကားဝှက်း၊ စာညှပ်၊ အခြားဆက်တင်နှင့် အက်ပ်ဒေတာများအား အရန်သိမ်းမှရပ်ပြီး Google ဆာဗာများပေါ်ရှိ မိတ္တူအားလုံးကို ဖျက်ပစ်မလား?</string>
     <string name="batch_delete_saved_network">ရွေးထားသောကွန်ရက်များအားဖျက်မည်လား: %s?</string>
     <string name="batch_delete_saved_networks">ရွေးထားသော ကွန်ရက်အားလုံးအား ဖျက်ပစ်ပါ</string>
     <string name="battery_action_wifi">Wi-Fi ဆက်တင်များ</string>
@@ -375,6 +375,7 @@
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
     <string name="bootloader_tips">Mi အကောင့်အား ပေါင်းထည့်ပြီးနောက် ဆိုင်းအောက်မလုပ်ပါနှင့်၊ စက်ရုံထုတ် အနေအထားသို့ ပြန်မသတ်မှတ်ပါနှင့်၊ စနစ် အက်ပ်ဒေတာများအား မရှင်းပစ်ပါနှင့်။ အထက်ပါ လုပ်ဆောင်ချက်များအား လုပ်ဆောင်မိပါက အကောင့်ကို ပြန်ပေါင်းထည့်ရမည်၊ သို့မဟုတ်ပါက သင်၏စက်အား လော့ခ်ဖြည်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="bootloader_tips_ok">နားလည်ပါပြီ</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးခြင်းအသစ်ရချိန်တွင် အလင်းရောင်</string>
     <string name="breathing_light_freq_summary">အသိပေးခြင်းအသစ်ရှိချိန်တွင် ပိုသိသာစေသည်</string>
@@ -638,6 +639,7 @@
     <string name="dialog_title_hdmi_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
     <string name="dialog_title_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="dialog_yes">ဟုတ်ပါတယ်</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">မှတ်ချက်- ဤကီးဘုတ်အား ဖုန်းပိတ်၍ပြန်စပြီးမှသာ အသုံးပြုနိုင်ပါမည်။</string>
     <string name="disable_overlays">HW ထပ်ဆင့်လွှာအား ပိတ်မည်</string>
     <string name="disable_overlays_summary">မျက်နှာပြင်ပေါင်းစပ်ရန် GPU ကို အမြဲတမ်းသုံးမည်</string>
@@ -664,6 +666,7 @@
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -1047,7 +1050,7 @@
     <string name="keywords_quick_ball">အမြန်စက်လုံး၊ရှော့ကဒ်၊ရှော့ကဒ်များ၊ခလုတ်များ၊ခလုတ်</string>
     <string name="keywords_silent">အသံငြိမ်သော၊အသံပိတ်၊အသံပိတ်ပါ</string>
     <string name="keywords_sync">ဆင့်ခ်၊ဆင့်လုပ်ခြင်း၊ကလောက်</string>
-    <string name="keywords_torch">ဓါတ်မီး၊လက်ကိုင်ဓါတ်မီး</string>
+    <string name="keywords_torch">ဓာတ်မီး၊လက်ကိုင်ဓာတ်မီး</string>
     <string name="keywords_vibrate">တုန်ခါ၊တုန်ခါမှု</string>
     <string name="keywords_wifi">wifi;wi-fi၊Wi-Fi၊WiFi၊wlan၊WLAN</string>
     <string name="kilobyteShort">KB</string>
@@ -1260,6 +1263,7 @@
     <string name="menu_restore">ပြန်သတ်မှတ်ပါ</string>
     <string name="menu_share">မျှဝေပါ</string>
     <string name="mi_pay">Mi ပိုက်ဆံအိတ်</string>
+    <string name="mi_pay_indonesia">Akun Mi Pay</string>
     <string name="mi_pay_summary">ဘတ်စ်ကားကဒ်/Mi Pay/ကဒ် ကိရိယာ</string>
     <string name="mi_service">Mi ဝန်ဆောင်မှု</string>
     <string name="mi_service_app_detail">ဒေတာသုံးစွဲမှု အသေးစိတ်များ</string>
@@ -1298,7 +1302,7 @@
     <string name="miui_sos_call_log_none">ကျွန်ုပ်တွင် နောက်ဆုံး ၁ နာရီအတွင်းရှိ ခေါ်ဆိုမှု မှတ်တမ်း မရှိပါ။</string>
     <string name="miui_sos_call_log_stranger">သူစိမ်း</string>
     <string name="miui_sos_call_log_summary">နောက်ဆုံး ၁ နာရီအတွင်းရှိ ခေါ်ဆိုမှု မှတ်တမ်းအား သင်၏ အရေးပေါ်အဆက်အသွယ်ထံ ပေးပို့မည်</string>
-    <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
+    <string name="miui_sos_call_log_time_unit">%1$dမိနစ် %2$dစက္ကန့်</string>
     <string name="miui_sos_call_log_title">ခေါ်ဆိုမှု မှတ်တမ်းအား ပေးပို့မည်</string>
     <string name="miui_sos_call_warning_sim_unable">လိုင်း မမိပါ။ SMS ပေးပို့၍ မရပါ။</string>
     <string name="miui_sos_calling_summary">သင်၏ဖုန်းသည် အရေးပေါ်အဆက်အသွယ်များထံ အော်တိုခေါ်ဆိုပြီး သင်ကြိုတင်သွင်းထားသော SOS အသံမက်ဆေ့ချ်အား ဖွင့်ပြပါမည်။ မက်ဆေ့ချ်ပြီးဆုံးလျှင် ဖုန်းချပါလိမ့်မည်။ အရေးပေါ်အဆက်အသွယ်တစ်ဦးမှ ဖုန်းကိုင်ပြီးပါက အော်တိုခေါ်ဆိုမှုအား ရပ်တန့်ပါမည်။</string>
@@ -1560,7 +1564,6 @@
     <string name="other_device_info">အခြားများ</string>
     <string name="other_personal_settings">ပုဂ္ဂိုလ်ရေးရာအပြင်အဆင်များ</string>
     <string name="other_relative">အခြား</string>
-    <string name="others">အခြား</string>
     <string name="overlay_display_devices_title">ဒုတိယပြသခြင်းများကို တူအောင်ဖန်တီးသည်</string>
     <string name="owner_info_settings_title">သော့ခတ်မျက်နှာပြင်လက်မှတ်</string>
     <string name="owner_space">ပထမနေရာ</string>
@@ -1787,6 +1790,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -2130,6 +2134,7 @@
     <string name="security_encryption_attention_3">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ် သတ်မှတ်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="security_encryption_attention_4">သင့်သော့ခတ်မျက်နှာပြင်စကားဝှက်အား မမေ့ပါနှင့်၊ သို့မဟုတ်ပါက စက်အား အစအဆုံးပြန်သတ်မှတ်ရန် လိုအပ်ပြီး ဒေတာအားလုံး ဆုံးရှုံးနိုင်ပါသည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">သော့ခတ်မျက်နှာပြင်စကားဝှက်ဖြင့် စက်အားကုဒ်မဖွဲ့ရန် ရွေးချယ်ခြင်းသည် Google ဝန်ဆောင်မှုများအား အသုံးပြု၍မရနိုင်ဘဲ ဖြစ်နိုင်ပါသည်။</string>
     <string name="security_encryption_close_dialog_title">မူလစကားဝှက်ကာကွယ်မှု သို့ပြန်သွားပါ</string>
@@ -2231,6 +2236,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
@@ -2281,6 +2287,7 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_customer_feedback">တုံ့ပြန်အကြံပြုချက်</string>
@@ -2796,9 +2803,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

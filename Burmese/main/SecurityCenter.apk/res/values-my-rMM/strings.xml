@@ -316,7 +316,7 @@
     <string name="cta_dialog_title">အင်တာနက်ချိတ်ဆက်မှု</string>
     <string name="cta_dialog_msg">လုံခြုံရေးသည် အသစ်မွမ်းမံမှုများ ရရှိရန်အတွက် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပြီး ပုံမှန်အလုပ်လုပ်ဆောင်ရန်အတွက် တည်နေရာဝန်ဆောင်မှုအား သုံးစွဲရန်လိုအပ်ပါသည်။</string>
     <string name="cta_settings">အင်တာနက်ချိတ်ဆက်မှုကို ခွင့်ပြုပါ</string>
-    <string name="gdpr_msg">" "<Data> လုံခြုရေး၏ အခြေခံအင်္ဂါရပ်များအား သုံးနိုင်ရန်အတွက် Xiaomi မှ လုံခြုရေးအင်္ဂါရပ်များ သုံးပုံသုံးနည်း (ဥပမာ- မိုဘိုင်းဒေတာသုံးစွဲမှု အခြေအနေ၊ Malware အချက်အလက်၊ သင့်စက်၏အခြေခံအချက်အလက်) အပါအဝင်သင်၏ကိုယ်ရေးအချက်အလက်များနှင့် &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ&lt;/a>မှ သတ်မှတ်ထားသော အခြားအချက်အလက်များ စုဆောင်းခြင်း၊ အသုံးပြုခြင်းကို သဘောတူရမည်။ </Data>" "</string>
+    <string name="gdpr_msg"><Data>လုံခြုရေး၏ အခြေခံအင်္ဂါရပ်များအား သုံးနိုင်ရန်အတွက် Xiaomi မှ လုံခြုရေးအင်္ဂါရပ်များ သုံးပုံသုံးနည်း (ဥပမာ- မိုဘိုင်းဒေတာသုံးစွဲမှု အခြေအနေ၊ Malware အချက်အလက်၊ သင့်စက်၏အခြေခံအချက်အလက်) အပါအဝင်သင်၏ကိုယ်ရေးအချက်အလက်များနှင့် &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ&lt;/a>မှ သတ်မှတ်ထားသော အခြားအချက်အလက်များ စုဆောင်းခြင်း၊ အသုံးပြုခြင်းကို သဘောတူရမည်။</Data></string>
     <string name="app_name_na">ဒေတာ သုံးစွဲမှု</string>
     <string name="list_empty_text">မရှိသော</string>
     <string name="dialog_title_attention">သတိပြုပါ</string>
@@ -328,6 +328,7 @@
     <string name="byteShort">B</string>
     <string name="yuan">CNY</string>
     <string name="percent_text_formatted">%s%%</string>
+    <string name="main_traffic_detail">ဒေတာသုံးစွဲမှု</string>
     <string name="main_toolbar_firewall">ဒေတာသုံးစွဲမှုကို ကန့်သတ်ပါ</string>
     <string name="main_toolbar_statistic">ဒေတာသုံးစွဲမှု အသေးစိတ်များ</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
@@ -377,6 +378,9 @@
     <string name="tc_parse_error">SMS အား မသုံးသပ်နိုင်ပါ</string>
     <string name="tc_get_cmd_error">ပုံစံများ မရယူနိုင်ပါ</string>
     <string name="tc_web_correct_error">ချိန်ညှိ၍မရနိုင်ခဲ့ပါ</string>
+    <string name="main_daily_card_guide_dialog_title">ဒေတာအစီအစဉ် အမျိုးအစားအား သတ်မှတ်ပါ</string>
+    <string name="main_daily_card_guide_dialog_summary">နေ့စဥ်၊ လစဥ်၊ အကန့်အသတ်မဲ့ ဒေတာများအား ရွေးချယ်သတ်မှတ်နိုင်သည်။ ဒေတာအစီအစဉ် အမျိုးအစားကို ယခု သတ်မှတ်မလား?</string>
+    <string name="main_daily_card_guide_dialog_ok">သတ်မှတ်မည်</string>
     <string name="firewall_activity_lable">ဒေတာသုံးစွဲမှုအား အက်ပ်အလိုက် ကန့်သတ်ပါ</string>
     <string name="firewall_applist">အက်ပ်များ</string>
     <string name="firewall_mobile">မိုဘိုင်းဒေတာ</string>
@@ -424,8 +428,10 @@
     <string name="background_traffic">နောက်ကွယ် %s</string>
     <string name="detail_app_button">အက်ပ်အချက်အလက်</string>
     <string name="managed_user_title">အလုပ်အက်ပ် အားလုံး</string>
+    <string name="not_limited_brand">အကန့်အသတ်မဲ့</string>
     <string name="pref_about_traffic_title">ဒေတာ သုံးစွဲမှု ဆက်တင်များ</string>
     <string name="pref_traffic_manage_title">ဒေတာ သုံးစွဲမှု</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_adjust_traffic_data">ဒေတာသုံးစွဲမှုကို သတ်မှတ်ပါ</string>
     <string name="pref_category_title_other">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -461,12 +467,19 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">လွန်ခဲ့သော တစ်လကျော်က မွမ်းမံမှု လုပ်ခဲ့</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
+    <string name="pref_category_package_type_title">ဒေတာအစီအစဉ် အမျိုးအစား</string>
+    <string name="pref_title_traffic_package_type">ဒေတာအစီအစဉ် အမျိုးအစား</string>
+    <string name="pref_traffic_package_type_summary">လစဥ်/နေ့စဥ်/အကန့်အသတ်မဲ့</string>
+    <string name="pref_traffic_daily_package">နေ့စဉ် ဒေတာအစီအစဉ်</string>
+    <string name="pref_traffic_monthly_package">လစဉ် ဒေတာအစီအစဉ်</string>
+    <string name="pref_traffic_unlimited_package">အကန့်အသတ်မဲ့ ဒေတာအစီအစဉ်</string>
+    <string name="pref_traffic_daily_package_brand">နေ့စဥ် ဒေတာအစီအစဉ် ပံ့ပိုးသူ</string>
     <string name="pref_avaible_traffic">ဒေတာအစီစဉ်</string>
     <string name="pref_daily_traffic">အများဆုံးဒေတာသုံးစွဲနိုင်မှုကန့် သတ်ချက်</string>
     <string name="pref_special_package_setting">စိတ်ကြိုက်ဒေတာအစီစဉ်</string>
     <string name="pref_data_usage_not_set">မသိသောဒေတာအစီစဉ်</string>
     <string name="pref_operator_not_set">ကာရီယာ မသတ်မှတ်ထားပါ</string>
-    <string name="pref_special_package_setting_summary">ဒေတာအသုံးနဲသည့်အချိန်၊ ငွေဖြည့် ပက်ကေ့ချ်များ၊ နေ့စဉ်ဒေတာအစီအစဉ်များနှင့် ဒီဇိုင်းလုပ်ထားသော ဒေတာများကို စီမံပါ</string>
+    <string name="pref_special_package_setting_summary">အသုံးနည်းချိန် ဒေတာ၊ ငွေဖြည့် ပက်ကေ့ချ်နှင့် သတ်မှတ်ထားသော ဒေတာအား စီမံမည်</string>
     <string name="pref_warning_values">ဒေတာသုံးစွဲမှု သတိပေးခြင်းအဆင့်</string>
     <string name="pref_pkg_begin_date">အသုံးပြမှုပြန်သတ်မှတ်ခြင်းရက်စွဲ</string>
     <string name="pref_more_settings">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -479,6 +492,8 @@
     <string name="daily_pkg_traffic">အများဆုံးဒေတာသုံးစွဲနိုင်မှုကန့် သတ်ချက်</string>
     <string name="input_aviable_traffic">ဒေတာသုံးစွဲမှုကန့်သတ်ချက်ကို သတ်မှတ်ပါ</string>
     <string name="pkg_traffic">ဒေတာသုံးစွဲမှုကန့်သတ်ချက်ကို သတ်မှတ်ပါ</string>
+    <string name="dialog_change_package_type_title">ဒေတာအစီအစဉ် အမျိုးအစားအား ပြောင်းမည်</string>
+    <string name="dialog_change_package_type_summary">ဒေတာအစီအစဉ် အမျိုးအစားအား ပြောင်းမည်ဆိုပါက ဒေတာသုံးစွဲမှုဆက်တင်(ဥပမာ- ဒေတာကန့်သတ်ချက်) အားလုံးကို မူလသို့ ပြန်သတ်မှတ်ပါမည်။ ယခု ပြောင်းမလား?</string>
     <string name="free_traffic_settings">အသုံးနည်းချိန် ဒေတာကန့်သတ်ချက် ဆက်တင်များ</string>
     <string name="free_time_traffic">အသုံးနည်းသောအချိန်အတွက် သတ်မှတ်ထားသော ဒေတာကန့်သတ်ချက်</string>
     <string name="power_save_on_time_start_time_summary_na">မှ</string>
@@ -520,6 +535,21 @@
     <string name="traffic_setting_fragment_send_num_tips">ဖုန်းနံပါတ်ထည့်သွင်းပါ</string>
     <string name="traffic_setting_fragment_sms_content_tips">သင့်မက်ဆေ့ချ်ကို ဤနေရာတွင်ရေးပါ</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">နောက်ထပ်မပြပါနှင့်</string>
+    <string name="traffic_setting_fragment_packege_type">ဒေတာအစီအစဉ် ဆက်တင်</string>
+    <string name="traffic_setting_fragment_month_title">လစဉ် ဒေတာအစီအစဉ်</string>
+    <string name="traffic_setting_fragment_month_summary">မိုဘိုင်းဒေတာ နှင့် ခေါ်ဆိုမှုအချိန်အား လစဥ် အပ်ဒိတ်လုပ်သည်</string>
+    <string name="traffic_setting_fragment_daily_title">နေ့စဉ် ဒေတာအစီအစဉ်</string>
+    <string name="traffic_setting_fragment_daily_summary">မိုဘိုင်းဒေတာအား နေ့စဥ် အပ်ဒိတ်လုပ်သည်</string>
+    <string name="traffic_setting_fragment_not_limited_title">အကန့်အသတ်မဲ့ ဒေတာအစီအစဉ်</string>
+    <string name="traffic_setting_fragment_not_limited_summary">အကန့်အသတ်မဲ့ မိုဘိုင်းဒေတာ ရွေးချယ်မှုများ</string>
+    <string name="traffic_setting_fragment_next">ရှေ့သို့</string>
+    <string name="daily_card_setting_fragment_daily_card_setting">နေ့စဉ် ဒေတာအစီအစဉ် ဆက်တင်</string>
+    <string name="daily_card_setting_fragment_daily_card_brand">ဖုန်းလိုင်းကုမ္ပဏီ</string>
+    <string name="daily_card_setting_fragment_daily_card_brand_value">ဖုန်းလိုင်းကုမ္ပဏီအား ရွေးပါ</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">သင်ရွေးချယ်သော ဖုန်းကဒ်အလျောက် MIUI မှ ဒေတာကန့်သတ်ချက်နှင့် ဒေတာမဲ့ အက်ပ်များအား သတ်မှတ်ပေးပါမည်။ အောက်ပါစာရင်းတွင် သင့်ဖုန်းကဒ် မပါရှိပါက \"အခြား\"အား ရွေး၍ နေ့စဥ်ဒေတာအစီအစဉ်အား သတ်မှတ်ပါ။</string>
+    <string name="daily_card_setting_fragment_daily_package">နေ့စဉ် ဒေတာ ကန့်သတ်ချက်</string>
+    <string name="daily_card_setting_fragment_month_package">လစဉ် ဒေတာပက်ကေ့ချ်</string>
+    <string name="daily_card_setting_fragment_package_summary">နေ့စဉ် ဒေတာအစီအစဉ်တွင် လစဥ် ဒေတာပက်ကေ့ချ် ပါရှိပါက လစဥ် ဒေတာအား ဦးစွာ အသုံးပြုမည်။</string>
     <string name="data_usage_warning_body">ဒေတာသုံးစွဲမှုအသေးစိတ်ကြည့်ရန် ထိပါ။</string>
     <string name="data_usage_mobile_limit_title">မိုဘိုင်းဒေတာကန့်သတ်ချက် ရောက်ပါပြီ</string>
     <string name="data_usage_limit_body">မိုဘိုင်းဒေတာကို ဖွင့်ရန် ထိပါ။</string>
@@ -866,20 +896,10 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_purchase">"   ဝယ်ယူမည် >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   ဒေတာအစီအစဉ် သတ်မှတ်ပါ >"</string>
     <string name="status_bar_network_flow_phone_balance">"   ဖုန်းလက်ကျန်ငွေ-%1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">"ယနေ့- %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;ကျော်လွန်သွားသော- &lt;font color=%2$s>%3$s&lt;/font>
-        "</string>
-    <string name="status_bar_network_flow_content">"ယနေ့- %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        လက်ကျန်- %2$s"</string>
-    <string name="status_bar_network_flow_content_not_setting">"ယနေ့- %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        ဤလ- %2$s"</string>
-    <string name="status_bar_network_flow_content_virtual_card">"%1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        %2$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        "</string>
+    <string name="status_bar_network_flow_exceed_content">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ကျော်လွန်သွားသော- &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_content">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;လက်ကျန်- %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ဤလ- %2$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">တစ်ကြိမ် ဒေတာကန့်သတ်ချက်</string>
     <string name="pref_key_tethering_title">တစ်ကြိမ် ဒေတာကန့်သတ်ချက်</string>
     <string name="tether_limit_value_custom">စိတ်ကြိုက်စီမံမည်</string>
@@ -913,6 +933,7 @@ Rolled over extra data"</string>
     <string name="om_settings_memory_occupy_notify_never">လုံး၀မလုပ်</string>
     <string name="om_lock_app_locked_app">သော့ပိတ်ထားသည်</string>
     <string name="om_lock_app_unlocked_app">သော့ဖွင့်ပါ</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">အရှိန်မြှင့်တင်မှု လိုအပ်သည်</string>
     <string name="om_running_locked_apps">လော့ခ်ချထားသော အလုပ်လုပ်နေဆဲ အက်ပ်များ</string>
     <string name="om_running_system_apps">အလုပ်လုပ်နေဆဲ စနစ်အက်ပ်များ</string>
@@ -962,6 +983,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">မိုဘိုင်းဒေတာ ပို့ပြီးပြီ</string>
     <string name="usage_type_no_coverage">အချက်မပြသော အချိန်</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="power_screen">မျက်နှာပြင်</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1178,12 +1200,17 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">မျက်နှာပြင်တောက်ပမှုအား အလိုအလျောက် ချိန်ညှိပါ</string>
     <string name="power_center_list_item_deep_save_title">အဆင့်မြင့် ဆက်တင်များ</string>
     <string name="power_center_list_item_battery_status_time">နာရီ</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">စကန်ဖတ်ခြင်းကို ရပ်မည်</string>
     <string name="hide_mode_result_summary_text">အက်ပ် တစ်ခုချင်းစီအတွက် ဘက်ထရီ ချွေတာရေးအား စိတ်ကြိုက်စီစဉ်ပါ</string>
     <string name="auto_task_result_summary_text">လုပ်ဆောင်မှုများအတွက် ဘက်ထရီ ချွေတာရေးအား သတ်မှတ်မည်</string>
     <string name="pc_settings_title">ဘက်ထရီသုံးစွဲမှု ဆက်တင်</string>
     <string name="pc_main_activity_back">နောက်သို့</string>
     <string name="extreme_power_save_mode_card_summary">ဘက်ထရီ အားနည်းသောအခါ ပါဝါချွေတာရန် အကြီးမားဆုံး ဘက်ထရီချွေတာရေးမုဒ်အား ဖွင့်ပါ။</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">စက်စနစ်</string>
     <string name="apps_list_header_title_sms">မက်ဆေ့ချ်ပို့ခြင်းအက်ပ်ကို စစ်ဆေးပါ</string>
     <string name="apps_list_header_title_sms_access">အတည်ပြုကုဒ်များကို ဝင်ရောက်အသုံးပြုခွင့်ကို ကန့်သတ်ရန်</string>
@@ -1337,11 +1364,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">အရှိန်မြှင့်တင်မည်။</string>
     <string name="menu_text_networkassistants">ဒေတာ သုံးစွဲမှု</string>
     <string name="menu_summary_networkassistants">ဒေတာအစီစဉ်အား စီမံပါ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">ကန့်သတ်ချက် ကျော်သွားပြီ</string>
     <string name="menu_summary_networkassistants_3">လက်ကျန်ဒေတာ လုံလောက်သည်</string>
     <string name="menu_summary_networkassistants_4">ဒေတာ ကုန်သွားပါပြီ</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1354,12 +1383,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">အမှိုက် မတွေ့ရှိပါ</string>
     <string name="menu_summary_garbage_cleanup_2">အမှိုက် အရွယ်အစား</string>
     <string name="menu_summary_garbage_cleanup_3">အမှိုက်များကို ယခု ရှင်းလင်းပါ</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">ဘက်ထရီအသုံးပြုမှု</string>
     <string name="menu_summary_power_manager">ဘက်ထရီ ချွေတာသူသည် ဘက်ထရီကို ကြာရှည်ခံစေနိုင်သည်</string>
     <string name="menu_summary_power_manager_1">ဘက်ထရီ အားအပြည့်သွင်းပြီးပြီ</string>
     <string name="menu_summary_power_manager_2">%s ကျန်ရှိသည်</string>
     <string name="menu_summary_power_manager_3">အားသွင်းကိရိယာကို ချိတ်ဆက်ပါ</string>
     <string name="menu_summary_power_manager_4">အားပြည့်ရန် %s လိုသည်</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">ပြီးခဲ့သော စကန်ကို ပယ်ဖျက်ခဲ့သည်</string>
     <string name="examination_score_100">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေသည်!</string>
     <string name="examination_score_80_100">အမယ်အချို့ကို ပိုကောင်းအောင်လုပ်ပြီးပြီ</string>
@@ -1735,6 +1766,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ရှင်းလင်း</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
     <string name="card_main_monthreport_action">ကြည့်ရှု</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="card_main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="card_main_netcheck_action">စစ်ဆေးမှု</string>
@@ -2053,12 +2085,12 @@ Rolled over extra data"</string>
     <string name="app_manager_reset_app_preferences_title">အက်ပ် ဦးစားပေးမှုများကို ပြန်သတ်မှတ်မလား?</string>
     <string name="app_manager_reset_app_preferences_desc">"အောက်ပါ ဦးစားပေးမှုများကို ပြန်သတ်မှတ်မည်-
 
- "<li>အသုံးမပြုတော့သော အက်ပ်များ</li>"
- "<li>အသုံးမပြုတော့သော အက်ပ်အသိပေးချက်များ</li>"
- "<li>ပုံသေအက်ပ်များ</li>"
- "<li>အက်ပ်များ၏ နောက်ခံဒေတာ ကန့်သတ်ချက်</li>"
+"<li>အသုံးမပြုတော့သည့် အက်ပ်များ</li>"
+"<li>အသုံးမပြုတော့သည့် အက်ပ်အသိပေးချက်များ</li>"
+"<li>မူလအက်ပ်များ</li>"
+"<li>အက်ပ်များ၏ နောက်ခံဒေတာ ကန့်သတ်ချက်</li>"
 
- မည်သည့်အက်ပ်ဒေတာမှ ပျောက်ဆုံးမည် မဟုတ်ပါ။"</string>
+မည်သည့်အက်ပ်ဒေတာမျှ ပျောက်ဆုံးမည် မဟုတ်ပါ။"</string>
     <string name="app_manager_reset_app_preferences_button">အက်ပ်များကို ပြန်လည်သတ်မှတ်မည်</string>
     <string name="app_manager_disable_text">မသုံးတော့ပါ</string>
     <string name="app_manager_enable_text">အသုံးပြုမည်</string>
@@ -2288,6 +2320,7 @@ Rolled over extra data"</string>
     <string name="gb_create_icon_summary">ပင်မမျက်နှာပြင် ရှော့ကဒ် ဖန်တီးမည်</string>
     <string name="title_reply">မှတ်ချက်</string>
     <string name="title_like">လိုက်ခ်</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">မိုဘိုင်းဒေတာ</string>
     <string name="game_wid_viewpoint_buttom">ခဏ အနားယူပါ။</string>
     <string name="video_repeat">ပြန်ဖွင့်ပါ</string>

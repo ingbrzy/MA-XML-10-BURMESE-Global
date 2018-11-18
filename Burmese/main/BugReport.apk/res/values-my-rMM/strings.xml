@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကဒ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -72,7 +73,7 @@
     <string name="dialog_ask_delete">ဖျက်ပါ</string>
     <string name="dialog_ask_quit">ထွက်</string>
     <string name="try_again">ထပ်မံကြိုးစားပါ</string>
-    <string name="pull_to_refresh_pull_label">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
+    <string name="pull_to_refresh_pull_label">ရီဖရှက်ရ်လုပ်ရန် အောက်သို့ဆွဲချပါ</string>
     <string name="pull_to_refresh_release_label">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
     <string name="pull_to_refresh_refreshing_label">ပြန်လန်းဆန်းနေ…</string>
     <string name="multi_graph_more">စုစုပေါင်းအိုင်တမ်များ−%d</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">ပယ်ဖျက်ပါ</string>
     <string name="cta_confirm">အိုကေ</string>
     <string name="submit_dialog_title">အစီရင်ခံစာ ပေးပို့မည်</string>
-    <string name="submit_dialog_content">" "<Data> သင်၏ ပူးတွဲဖိုင်နှင့် မှတ်တမ်းများ ပါဝင်သော တုံ့ပြန်အကြံပြုချက်အား MIUI ဆာဗာသို့ ပေးပို့လိမ့်မည်။ မှတ်တမ်းများတွင် သင်၏တည်နေရာနှင့် ကိုယ်ရေးအချက်အလက်များ ပါရှိနိုင်သည်။ \"သဘောတူပါသည်\"ကို ရွေးလိုက်ပါက သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">အသုံးပြုသူ သဘောတူညီမှု&lt;/a>အား ဖတ်ရှု၍ သဘောတူပြီးဖြစ်သည်။ </Data>" "</string>
-    <string name="submit_dialog_content_global">" "<Data> သင်၏ ပူးတွဲဖိုင် (ရှိပါက) နှင့် မှတ်တမ်းများ (မပေးပို့လိုသော အိုင်တမ်များကို အမှန်မခြစ်ပါနှင့်) ပါဝင်သော တုံ့ပြန်အကြံပြုချက်အား MIUI ဆာဗာနှင့် MIUI ဖိုရမ်၏ ပြုစုသူများသာ တွေ့နိုင်သော အပိုင်းသို့ ပေးပို့လိမ့်မည်။ ပြဿနာအား စိစစ်ရန်နှင့် သင့်ထံ ဆက်သွယ်နိုင်ရန် သင်၏ပို့စ် အချက်အလက်နှင့် ဖိုရမ်တွင် လှုပ်ရှားမှုများကိုလည်း စုဆောင်းလိမ့်မည်။ မှတ်တမ်းများတွင် သင်၏တည်နေရာနှင့် ကိုယ်ရေးအချက်အလက်များ ပါရှိနိုင်သည်။ \"သဘောတူပါသည်\"ကို ရွေးလိုက်ပါက သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">အသုံးပြုသူ သဘောတူညီမှု&lt;/a>အား ဖတ်ရှု၍ သဘောတူပြီးဖြစ်သည်။ </Data>" "</string>
+    <string name="submit_dialog_content"><Data>သင်၏ ပူးတွဲဖိုင်နှင့် မှတ်တမ်းများ ပါဝင်သော တုံ့ပြန်အကြံပြုချက်အား MIUI ဆာဗာသို့ ပေးပို့လိမ့်မည်။ မှတ်တမ်းများတွင် သင်၏တည်နေရာနှင့် ကိုယ်ရေးအချက်အလက်များ ပါရှိနိုင်သည်။ \"သဘောတူပါသည်\"ကို ရွေးလိုက်ပါက သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">အသုံးပြုသူ သဘောတူညီမှု&lt;/a>အား ဖတ်ရှု၍ သဘောတူပြီးဖြစ်သည်။</Data></string>
+    <string name="submit_dialog_content_global"><Data>သင်၏ ပူးတွဲဖိုင် (ရှိပါက) နှင့် မှတ်တမ်းများ (မပေးပို့လိုသော အိုင်တမ်များကို အမှန်မခြစ်ပါနှင့်) ပါဝင်သော တုံ့ပြန်အကြံပြုချက်အား MIUI ဆာဗာနှင့် MIUI ဖိုရမ်၏ ပြုစုသူများသာ တွေ့နိုင်သော အပိုင်းသို့ ပေးပို့လိမ့်မည်။ ပြဿနာအား စိစစ်ရန်နှင့် သင့်ထံ ဆက်သွယ်နိုင်ရန် သင်၏ပို့စ် အချက်အလက်နှင့် ဖိုရမ်တွင် လှုပ်ရှားမှုများကိုလည်း စုဆောင်းလိမ့်မည်။ မှတ်တမ်းများတွင် သင်၏တည်နေရာနှင့် ကိုယ်ရေးအချက်အလက်များ ပါရှိနိုင်သည်။ \"သဘောတူပါသည်\"ကို ရွေးလိုက်ပါက သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">အသုံးပြုသူ သဘောတူညီမှု&lt;/a>အား ဖတ်ရှု၍ သဘောတူပြီးဖြစ်သည်။</Data></string>
     <string name="submit_dialog_cancel">သဘောမတူပါ</string>
     <string name="submit_dialog_confirm">သဘောတူပါသည်</string>
     <string name="tab_title_preferences">ဆက်တင်</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">modem မှတ်တမ်းများ ဖမ်းယူပြီးပြီ</string>
     <string name="modem_tool_log_finish_desc">မှတ်တမ်းသည်%sအဖြစ်သိုလှောင်ထားသည်</string>
     <string name="bugreport_dialog_not_show_again">နောက်ထပ်မပြပါနှင့်</string>
-    <string name="bugreport_dialog_submit_content">" "<Data> ဤစက်ထဲရှိ ဆော့ဖ်ဝဲလ် မှတ်တမ်းများအား ယခု သိမ်းဆည်းနေသည်။ မှတ်တမ်းများတွင် သင်၏တည်နေရာနှင့် ကိုယ်ရေးအချက်အလက်များ ပါရှိနိုင်သည်။ ဤအချက်အလက်အား မဖော်ပြလိုပါက အခြားသူထံ မမျှဝေပါနှင့်။ \"သဘောတူပါသည်\"ကို ရွေးလိုက်ပါက သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">အသုံးပြုသူ သဘောတူညီမှု&lt;/a>အား ဖတ်ရှု၍ သဘောတူပြီးဖြစ်သည်။ </Data>" "</string>
+    <string name="bugreport_dialog_submit_content"><Data>ဤစက်ထဲရှိ ဆော့ဖ်ဝဲလ် မှတ်တမ်းများအား ယခု သိမ်းဆည်းနေသည်။ မှတ်တမ်းများတွင် သင်၏တည်နေရာနှင့် ကိုယ်ရေးအချက်အလက်များ ပါရှိနိုင်သည်။ ဤအချက်အလက်အား မဖော်ပြလိုပါက အခြားသူထံ မမျှဝေပါနှင့်။ \"သဘောတူပါသည်\"ကို ရွေးလိုက်ပါက သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">အသုံးပြုသူ သဘောတူညီမှု&lt;/a>အား ဖတ်ရှု၍ သဘောတူပြီးဖြစ်သည်။</Data></string>
     <string name="bugreport_dump_start_notification_title">ချွတ်ယွင်းချက်အစီရင်ခံစာကို ဖန်တီးနေ…</string>
     <string name="bugreport_dump_start_notification_summary">အချိန်အနည်းငယ် ကြာပါလိမ့်မည်။</string>
     <string name="bugreport_dump_complete_notification_title">ချွတ်ယွင်းမှုရီပို့ ဖန်တီးထားသည်</string>
@@ -210,7 +211,7 @@
     <string name="feedback_submit_succ_button">ပြီးပြီ</string>
     <string name="feedback_title">ခေါင်းစဉ်</string>
     <string name="feedback_description">ဖော်ပြချက်</string>
-    <string name="feedback_select_images">ပုံများပေါင်းထည့်ပါ</string>
+    <string name="feedback_select_images">ရုပ်ပုံ သို့မဟုတ် ဗွီဒီယိုအတိုလေး တစ်ခု ပေါင်းထည့်ပါ</string>
     <string name="feedback_delete_images">ပုံများကို ဖျက်ပစ်ပါ</string>
     <string name="feedback_select_upload_log">မှတ်တမ်းများ ပေါင်းထည့်မည်</string>
     <string name="feedback_select_modem_log">မိုဒန်း မှတ်တမ်းများ ပေါင်းထည့်မည်</string>
@@ -324,9 +325,10 @@
     <string name="toast_post_deleted">ဤခေါင်းစဉ်ရှိမနေပါ၊ ဖျက်လိုက်သည် သို့မဟုတ် တည်းဖြတ်ခဲ့သည်</string>
     <string name="toast_log_not_exists">လိုအပ်သော လော့ဂ်အား ဖျက်လိုက်သည် သို့မဟုတ် မတည်ရှိပါ</string>
     <string name="toast_pic_not_exists">ယာယီရုပ်ပုံအား ဖျက်ခဲ့သည်</string>
-    <string name="toast_screenshot_too_large">10MB ထက်ကြီးသော ဖိုင်များကို တင်၍မရပါ။</string>
+    <string name="toast_screenshot_too_large">၁၀ MB ထက် ကြီးသော ရုပ်ပုံ သို့မဟုတ် ဗီဒီယိုအား လုဒ်တင်၍ မရပါ။</string>
     <string name="toast_log_too_large">ဖိုင်ကြီးလွန်းသောကြောင့် လုဒ်တင်၍ မရပါ။</string>
     <string name="title_customer_service">သုံးစွဲသူဝန်ဆောင်မှု</string>
+    <string name="title_first_aid">ဖုန်း အရေးပေါ် အကူအညီ</string>
     <string name="customer_service_apply">သုံးစွဲသူဝန်ဆောင်မှု တောင်းခံမည်</string>
     <string name="customer_service_complain">သုံးစွဲသူဝန်ဆောင်မှု အစီရင်ခံမည်</string>
     <string name="customer_service_station">ဝန်ဆောင်မှုဌာနများ</string>
@@ -355,7 +357,7 @@
     <string name="catch_full_log_notification_content">မှတ်တမ်းများသို့ ပြန်သွားရန် ထိနှိပ်ပါ</string>
     <string name="catch_full_log_start_dump_hprof">နောက်ကျသော မှတ်တမ်းအား ရယူမည်</string>
     <string name="catch_full_log_dump_hprof_failed">နောက်ကျသော မှတ်တမ်းအား ရယူ၍ မရပါ</string>
-    <string name="catch_full_log_add_original_photo">ဓာတ်ပုံ ထည့်ရန်</string>
+    <string name="catch_full_log_add_original_photo">မူရင်း ရုပ်ပုံ သို့မဟုတ် ဗွီဒီယိုအတိုလေး ပေါင်းထည့်ပါ</string>
     <string name="catch_full_log_add_photo_dialog_content">သင် တင်ပို့လိုသော ပြဿနာမှာ ကင်မရာရုပ်ပုံ အရည်အသွေးနှင့် ပတ်သက်ပါက မူရင်းပုံတစ်ပုံ ပေါင်းထည့်ပါ။ ယခု ဓာတ်ပုံ ပေါင်းထည့်မလား?</string>
     <string name="catch_full_log_submit_directly">ပေးပို့မည်</string>
     <string name="catch_full_log_add_photo">ဓာတ်ပုံ ထည့်ရန်</string>
