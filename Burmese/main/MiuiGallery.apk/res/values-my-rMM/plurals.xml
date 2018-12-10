@@ -198,4 +198,10 @@
     <plurals name="sync_total_count">
         <item quantity="other">အိုင်တမ် %d ခု</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">အိုင်တမ် %dခုသည် ကြီးလွန်းသောကြောင့် အရန်သိမ်း၍ မရပါ</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">အိုင်တမ် %dခုသည် ကြီးလွန်းသောကြောင့် အရန်သိမ်း၍ မရပါ</item>
+    </plurals>
 </resources>

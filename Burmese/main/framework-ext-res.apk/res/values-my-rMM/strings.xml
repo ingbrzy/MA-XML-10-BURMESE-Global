@@ -185,4 +185,5 @@
     <string name="miui_warning_tip_info">%1$sတွင် အမှားတစ်ခု ဖြစ်ပေါ်သည်။ ဤအက်ပ်အား ယခု ပိတ်မလား?</string>
     <string name="talk_back_water_mark_string1">TalkBack အား ဖွင့်ထားသည်</string>
     <string name="talk_back_water_mark_string2">ပိတ်ရန် \"အသံပမာဏ+\" နှင့် \"အသံပမာဏ-\"အား ၃ စက္ကန့်ကြာ ဖိပြီးထိနှိပ်ထားပါ</string>
+    <string name="start_dump_log">ပြဿနာ မှတ်တမ်းများ စတင်ရယူမည်</string>
 </resources>

@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -195,7 +196,7 @@
     <string name="deepclean_normal_title">အလိုအလျောက် ရှင်းပစ်ပါ</string>
     <string name="deepclean_normal_item_desc1">အမှိုက်ပုံးဖိုင်များ</string>
     <string name="deepclean_normal_item_desc2">သန့်ရှင်းသူလုပ်ဆောင်ချက်များသည် စနစ်လုပ်ဆောင်ချက်အပေါ်တွင် သက်ရောက်မှုရှိလိမ့်မည် မဟုတ်ပါ</string>
-    <string name="deepclean_1_k_clean">မှတ်ဉာဏ်ကို ရှင်းပစ်ပါ</string>
+    <string name="deepclean_1_k_clean">မှတ်ဉာဏ်အား ရှင်းပစ်ပါ</string>
     <string name="similar_image_title">ဓာတ်ပုံများ</string>
     <string name="similar_image_desc">သဏ္ဍာန်တူသော ဓါတ်ပုံများအား ဖျက်ပစ်ပါ</string>
     <string name="similar_image_scaning">စစ်ဆေးနေသည်…</string>
@@ -299,6 +300,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>

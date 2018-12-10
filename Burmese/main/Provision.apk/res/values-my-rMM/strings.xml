@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">MIUI သည် အသစ်မွမ်းမံမှုများတပ်ဆင်ရန် အကောင်းဆုံးလှုပ်ရှားမှုအချိန်ကို ရွေးလိမ့်မည်</string>
     <string name="other_settings_ad_enable">စိတ်ကြိုက်ကြော်ငြာ အကြံပြုချက်</string>
     <string name="other_settings_ad_enable_summary">သင်၏အပြုအမူဒေတာပေါ်အခြေခံ၍ စိတ်ကြိုက်ကြော်ငြာများအား အကြံပြုထားသည်</string>
+    <string name="other_settings_enhanced_lockscreen">နောက်ခံပုံ လှည့်ပြခြင်း</string>
+    <string name="other_settings_enhanced_lockscreen_summary">လှပကောင်းမွန်သော ရုပ်ပုံနှင့် ပုံပြင်များအား သော့ခတ်မျက်နှာပြင်သို့ နေ့စဥ် ပေးပို့နိုင်သည်။ စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="back">နောက်သို့</string>
     <string name="next">နောက်ထပ်</string>
     <string name="skip_underline">ဤအဆင့်ကို ကျော်ပါ</string>
@@ -113,4 +116,5 @@
     <string name="ai_button_single_press_desc">Mi AI နှိုးထခလုတ်</string>
     <string name="ai_button_double_press">နှစ်ချက် ထိနှိပ်ပါ</string>
     <string name="ai_button_double_press_desc">Mi AI အင်္ဂါရပ်များအား သတ်မှတ်ပါ</string>
+    <string name="zone_picker_title">အချိန်ဇုန်အား ရွေးပါ</string>
 </resources>

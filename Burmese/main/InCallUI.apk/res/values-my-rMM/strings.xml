@@ -198,4 +198,5 @@
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">ခေါ်ဆို၍ မရပါ။ သင်၏စက်သည် VoLTE အား ထောက်ပံ့သော 4G ကွန်ရက်သို့ ချိတ်ဆက်ထားခြင်း ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="volume_boost_text">အသံ မြှင့်တင်ပြီးပါပြီ</string>
+    <string name="supp_service_notification_call_waiting">လူကြီးမင်း ခေါ်ဆိုသော ဖုန်းနံပါတ်မှာ မအားသေးပါ။ ခေတ္တ ကိုင်ထားပါ…</string>
 </resources>

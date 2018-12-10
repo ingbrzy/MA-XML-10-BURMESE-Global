@@ -435,4 +435,26 @@
     <string name="install_error">ထည့်သွင်း၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="ent_install_dialog_content">အက်ပ်အား ထည့်သွင်းပြီး စက်ကို ယခု ပိတ်၍ ပြန်ဖွင့်မလား?</string>
     <string name="ent_disallow_running">ဤအက်ပ်အား ဖွင့်ရန် တားမြစ်ထားသည်</string>
+    <string name="greenguard_child_des_title">ကျွန်ုပ်၏ သူငယ်ချင်းနှင့် မိသားစုထံမှ အကူအညီ လိုအပ်သည်</string>
+    <string name="greenguard_child_des">မိသားစု အကာအကွယ်အား ဖွင့်ပါ</string>
+    <string name="greenguard_parent_des_title">ကျွန်ုပ်၏ သူငယ်ချင်းနှင့် မိသားစုအား ကူညီမည်</string>
+    <string name="greenguard_parent_des">ကျွန်ုပ်တို့၏ အက်ပ်အား ဒေါင်းလုဒ်လုပ်ပြီး အခြားသူ၏ စက်ကို ပေါင်းထည့်ပါ</string>
+    <string name="cta_declaration_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
+    <string name="cta_declaration_message_format" formatted="false">လုပ်ငန်းမုဒ်အား မသုံးမီ &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font>ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ လုပ်ငန်းမုဒ်အား အသက်သွင်းရန် အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ သဘောတူပါသလား?</string>
+    <string name="cta_declaration_agree_and_continue">သဘောတူပါသည်</string>
+    <string name="undo_activated_dialog_message">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းမည်ဆိုပါက လုပ်ငန်းမုဒ်သည် ရပ်တန့်သွားမည်ဖြစ်ပြီး သင်၏စက်အား စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ရမည်။ သက်ဆိုင်ရာ အင်္ဂါရပ်အားလုံး မရရှိနိုင်တော့ပါ။ ထို့အပြင် လုပ်ငန်းမုဒ်အတွက် လိုအပ်သော အချက်လက်များ(IMEI နံပါတ်၊ စက် အိုင်ဒီ၊ စနစ် ဗားရှင်း၊ ဒေသစသည်တို့) စုဆောင်းခြင်းကို Xiaomi မှ ရပ်တန့်ပါမည်။ သင့်အား သတိပေးလိုသည်မှာ Xiaomi သည် ဒေတာထိန်းချုပ်သူ မဟုတ်ပါ။ ဤရုပ်သိမ်းမှုအတွက် သင်၏ကုမ္ပဏီသို့ ဆက်သွယ်ရန် အကြံပြုလိုပါသည်။ ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းပြီး သင်၏စက်အား စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်မလား?</string>
+    <string name="undo_activated_dialog_ok">ပြန်ရုပ်သိမ်းမည်</string>
+    <string name="undo_grant_dialog_message">ခွင့်ပြုချက်အား ရုပ်သိမ်းပြီးနောက် ဤအင်္ဂါရပ်အတွက် လိုအပ်သော အချက်လက်များ(IMEI နံပါတ်၊ စက် အိုင်ဒီ၊ စနစ် ဗားရှင်း၊ ဒေသစသည်တို့) စုဆောင်းခြင်းကို Xiaomi မှ ရပ်တန့်ပါမည်။ ပြန်ရုပ်သိမ်းမလား?</string>
+    <string name="undo_privacy_menu">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းမည်</string>
+    <string name="more_settings">နောက်ထပ်</string>
+    <string name="undo_success">ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
+    <string name="master_clear_apply_title">သတိပြုရန်</string>
+    <string name="master_clear_apply_step_1">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းမည်ဆိုပါက သင်၏စက်အား စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ရမည်။ အကောင့်၊ အဆက်အသွယ်၊ ဓာတ်ပုံနှင့် အက်ပ်အပါအဝင် ဒေတာအားလုံးအား အပြီးအပိုင် ဖျက်ပစ်ပါလိမ့်မည်။ အရေးကြီးသည့် အိုင်တမ်များအား သင့်ကွန်ပျူတာပေါ်တွင် အရန်သိမ်းထားပါ။</string>
+    <string name="master_clear_apply_step_2">အရေးကြီးသည့် အိုင်တမ်များအား သင့်ကွန်ပျူတာပေါ်တွင် အရန်သိမ်းထားပါ။ \"အိုကေ\"အား ထိနှိပ်ပြီးပါက သင်၏စက်အား စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ပါမည်။ အကောင့်၊ အဆက်အသွယ်၊ ဓာတ်ပုံနှင့် အက်ပ်အပါအဝင် ဒေတာအားလုံးကို အပြီးအပိုင် ဖျက်ပစ်လိမ့်မည်။</string>
+    <string name="button_text_next_step">ရှေ့သို့</string>
+    <string name="button_text_next_step_timer">နောက်တစ်ဆင့် (%d)</string>
+    <string name="dialog_tip_need_network">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းရန် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။</string>
+    <string name="dialog_undo_negative">ပြန်မရုပ်သိမ်းပါနှင့်</string>
+    <string name="dialog_title_service_error">ဆာဗာ အမှား</string>
+    <string name="dialog_message_service_error">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်း၍ စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
 </resources>

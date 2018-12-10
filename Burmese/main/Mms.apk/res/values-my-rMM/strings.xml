@@ -81,6 +81,16 @@
     <string name="cloud_state_sync_finished">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="cloud_state_syncing">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်နေသည် …</string>
     <string name="cmcc_privacy">China Mobile ဖုန်းလိုင်းကုမ္ပဏီ ကိုယ်ရေးအချက်အလက်ဆိုင်ရာ သဘောတူညီချက်</string>
+    <string name="complain_input_number">သင်၏ ဖုန်းနံပါတ်အား ရိုက်ထည့်ပါ</string>
+    <string name="complain_jump">ကျော်သွားရန်</string>
+    <string name="complain_message_title">တိုင်ကြားချက်</string>
+    <string name="complain_ok">အိုကေ</string>
+    <string name="complain_phone_number">ဖုန်းနံပါတ်</string>
+    <string name="complain_reason">သင် ဘာကြောင့် သတင်းပို့ပါသလဲ?</string>
+    <string name="complain_success">တုံ့ပြန်အကြံပြုချက်အတွက် အထူးကျေးဇူးတင်ရှိပါသည်။</string>
+    <string name="complain_tips">"သင့်ဖုန်းနံပါတ်နှင့်အတူ သင် သတင်းပို့ထားသော အကြောင်းအရာများအား ကျွန်ုပ်တို့၏ ဆာဗာသို့ တင်ပို့ပါမည်။ ဝန်ဆောင်မှု ပံ့ပိုးသူများမှ သတင်းပို့ထားသော မက်ဆေ့ချ်အား ပြန်လည်သုံးသပ်ပါလိမ့်မည်။
+"</string>
+    <string name="complain_upload">တိုင်ကြားချက်အား ပေးပို့ပြီးပါပြီ</string>
     <string name="compressing">ပုံသည်အလွန်ကြီးသည်။ ချုံ့နေသည်…</string>
     <string name="confirm">အိုကေ</string>
     <string name="confirm_add_blacklist_dialog_dspt">ဤနံပါတ်ကို သင့် ဘလော့လုပ်ထားသော စာရင်းထဲသို့ ထည့်မလား?</string>
@@ -143,7 +153,6 @@
     <string name="dialog_message_mx">Mi မက်ဆေ့ချ်ဖြင့် အခြား MIUI သုံးစွဲသူများထံ မက်ဆေ့ချ်များကို အခမဲ့ ပေးပို့နိုင်ပါသည်။ Mi မက်ဆေ့ချ်အား အသက်သွင်းရန် SMS တစ်စောင် ပေးပို့ရမည်။ ထို့သို့ပေးပို့ခြင်းကြောင့် ဖုန်းလိုင်းကုမ္ပဏီမှ အခကြေးငွေ ကောက်ခံလိမ့်သည်။ Mi မက်ဆေ့ချ်အား မသုံးစွဲမီ \"%1$s\" နှင့် \"%2$s\"အား ဦးစွာ သဘောတူရပါမည်။</string>
     <string name="dialog_message_networking">မက်ဆေ့ချ်မှ ပေးပို့သူ ID အား သိရှိနိုင်ရန် ဖုန်းလမ်းညွှန်ကို သုံးရပါမည်။ ပုံမှန် အလုပ်လုပ်နိုင်ရန်အတွက် မက်ဆေ့ချ်နှင့် ဖုန်းလမ်းညွှန်မှ အင်တာနက်သို့ ချိတ်ဆက်၍ သင်၏တည်နေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ ခွင့်ပြုမလား?</string>
     <string name="dialog_message_rcs">တရုတ်ပြည်မကြီးတွင် China Mobile မက်ဆေ့ချ်ဖြင့် အခြား China Mobile သုံးစွဲသူများထံ မက်ဆေ့ချ်များကို အခမဲ့ ပေးပို့နိုင်ပါသည်။ China Mobile မက်ဆေ့ချ်အား မသုံးစွဲမီ \"%1$s\"အား ဦးစွာ သဘောတူရပါမည်။</string>
-    <string name="dialog_message_sms_report">သင်အစီရင်ခံပြီးသောအခါ စပန်မက်ဆေ့ချ်များနှင့် ပေးပို့သူအချက်အလက်ကို MIUI သို့ တင်လိမ့်မည်။ ယင်းတို့အား MIUI စပန်တိုးတက်ရေးအတွက်သာ အသုံးပြုမည်ဖြစ်သည်။</string>
     <string name="dialog_title_fake_cell_detect_error">အမှားပြင်ဆင်ချက်</string>
     <string name="dialog_title_mx_rcs">Mi မက်ဆေ့ခ်ျ</string>
     <string name="dialog_title_networking">စည်းကမ်းသတ်မှတ်ချက်များ</string>
@@ -178,7 +187,6 @@
     <string name="error_timed_msg">အချိန်မှားနေသည်</string>
     <string name="ex_type_mx">Mi မက်ဆေ့ချ်</string>
     <string name="ex_type_sms">SMS/MMS</string>
-    <string name="exceed_length_limit">超出最大长度界限</string>
     <string name="exceed_message_size_limitation">မက်ဆေ့ချ်အရွယ်အစားကန့်သတ်ချက် ရောက်ရှိနေသည်။</string>
     <string name="exceed_message_size_limitation_add_slide">ဆလိုက်တစ်ခုပေါင်းထည့်ရန် မက်ဆေ့ချ်အရွယ်အစား မလုံလောက်ပါ</string>
     <string name="exceed_message_text_limitation">ကန့်သတ်ထားသော မက်ဆေ့ချ်အရှည်သို့ရောက်ရှိပြီဖြစ်ပါသည်</string>
@@ -201,6 +209,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_message_select_title">မက်ဆေ့ချ် တစ်ဆင့်ပို့မည်</string>
@@ -213,15 +222,15 @@
     <string name="found_wild_messages_title">Mi ကလောက်မှ မက်ဆေ့ချ်များအား ဆင့်ခ်လုပ်ပါ</string>
     <string name="from_label">"မှ- "</string>
     <string name="from_pkg_name">အက်ပ်များမှ−</string>
-    <string name="group_already_kicked_hint">你不在这个群里，无法发送消息</string>
+    <string name="group_already_kicked_hint">သင်သည် ဤအုပ်စုချတ်၏ အဖွဲ့ဝင် မဟုတ်သောကြောင့် မက်ဆေ့ချ် ပေးပို့၍ မရပါ။</string>
     <string name="group_message">မက်ဆေ့ချ်ကို အုပ်စုဖွဲ့ပါ</string>
-    <string name="group_message_title">群聊消息</string>
-    <string name="group_not_exist_hint">群已经被解散了，无法发送消息</string>
-    <string name="group_notify_message_title">群通知消息</string>
-    <string name="group_rejoin_failed">群操作失败</string>
+    <string name="group_message_title">အုပ်စုချတ်များ</string>
+    <string name="group_not_exist_hint">ဤအုပ်စုချတ်အား ဖျက်ထားသောကြောင့် မက်ဆေ့ချ် ပေးပို့၍ မရပါ။</string>
+    <string name="group_notify_message_title">အုပ်စုချတ် အသိပေးချက်များ</string>
+    <string name="group_rejoin_failed">အုပ်စုချတ်သို့ ဝင်၍ မရပါ</string>
     <string name="group_resend_message">ပြန်ပို့ပါ (%d)</string>
-    <string name="group_view_settings_disolved">群已经被解散，无法查看群资料</string>
-    <string name="group_view_settings_not_memeber">不在这个群里，无法查看群资料</string>
+    <string name="group_view_settings_disolved">ဤအုပ်စုချတ်အား ဖျက်ထားသောကြောင့် အိုင်တမ်များအား ကြည့်ရှု၍ မရပါ။</string>
+    <string name="group_view_settings_not_memeber">သင်သည် ဤအုပ်စုချတ်၏ အဖွဲ့ဝင် မဟုတ်သောကြောင့် အိုင်တမ်များအား ကြည့်ရှု၍ မရပါ။</string>
     <string name="guild_add_attachments">အခြားအိုင်တမ်များနှင့် အီမိုးရှင်းများ ပေါင်းထည့်ရန် ထိနှိပ်ပါ</string>
     <string name="guild_add_recipients">အဆက်အသွယ်များမှ လက်ခံမည်သူ ပေါင်းထည့်ရန် ထိနှိပ်ပါ</string>
     <string name="guild_msim_switcher">SMS ကဒ်များကို ဖလှယ်ရန် ထိပါ</string>
@@ -299,7 +308,7 @@
     <string name="mms">MMS</string>
     <string name="move_down">အောက်ကိုရွှေ့ပါ</string>
     <string name="move_up">အပေါ်ကိုရွှေ့ပါ</string>
-    <string name="msg_no_member_selected">请至少选择一个联系人.</string>
+    <string name="msg_no_member_selected">အနည်းဆုံး အဆက်အသွယ် ၁ ယောက် ရွေးပါ</string>
     <string name="msg_type_hint_mms">ရုပ်သံမီဒီယာမက်ဆေ့ချ်(MMS)</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Mi မက်ဆေ့ချ်</string>
@@ -433,7 +442,6 @@
     <string name="pref_sms_storage_title">သိုလှောင်ခန်း</string>
     <string name="pref_sms_theme_title">ပြသချက်</string>
     <string name="pref_summary_allow_si_sl_push">မက်ဆေ့ချ်များအား ဝက်ဘ်ပေါ်မှ အကြောင်းအရာကို ဖတ်ခွင့်ပြုမည်</string>
-    <string name="pref_summary_allow_upload_message_info">သင်အစီရင်ခံပြီးသောအခါ စပန်မက်ဆေ့ချ်များနှင့် ပေးပို့သူအချက်အလက်ကို MIUI သို့ တင်လိမ့်မည်။</string>
     <string name="pref_summary_auto_delete">သတ်မှတ်ထားသော ပမာဏထက်ကျော်လျှင် မက်ဆေ့ချ်ဟောင်းများကို ဖျက်ပစ်ပါ</string>
     <string name="pref_summary_delete_limit">စကားပြောဆိုမှု တစ်ခုလျှင် မက်ဆေ့ချ် %1$s စောင်</string>
     <string name="pref_summary_delivery_reports">ပေးပို့ထားသော မက်ဆေ့ချ်များအတွက် ပေးပို့ပြီး အခြေအနေအား ပြသပါ</string>
@@ -450,7 +458,6 @@
     <string name="pref_switch_sdk_setting">စမတ် SMS ဝန်ဆောင်မှု ထောက်ပံ့ပေးသူသို့ ပြောင်းလဲပါ</string>
     <string name="pref_system_title">စနစ်</string>
     <string name="pref_title_allow_si_sl_push">WAP ဖုန်းထဲပို့သည့် မက်ဆေ့ချ်များကို ခွင့်ပြုပါ (SI/SL)</string>
-    <string name="pref_title_allow_upload_message_info">စပန်မက်ဆေ့ချ်များကို ရယူပါ</string>
     <string name="pref_title_auto_delete">မက်ဆေ့ချ်ဟောင်းများကို ဖျက်ပစ်မည်</string>
     <string name="pref_title_card_format">ကဒ် မျှဝေမှု ဖောမတ်</string>
     <string name="pref_title_delivery_reports">ပေးပို့မှု အခြေအနေ</string>
@@ -504,19 +511,19 @@
     <string name="rcs_auto_resend_sms">SMS သို့ ပြောင်းမည်</string>
     <string name="rcs_auto_resume">အပ်လုဒ်များအား အလိုအလျောက် ပြန်စပါ</string>
     <string name="rcs_auto_resume_only_by_wifi">Wi-Fi သို့ ချိတ်ဆက်သောအခါ အပ်လုဒ်များအား အလိုအလျောက် ပြန်စပါ</string>
-    <string name="rcs_create_new_group">新建群聊</string>
+    <string name="rcs_create_new_group">အုပ်စုချတ်အသစ် ဖန်တီးမည်</string>
     <string name="rcs_dspt">Wi-Fi သို့မဟုတ် China Mobile ကွန်ရက်ဖြင့် မက်ဆေ့ချ်များအား လက်ခံ/ပေးပို့မည်</string>
     <string name="rcs_dspt_unavailable">ဤ အင်္ဂါရပ်အား ယခု သုံး၍ မရပါ။ China Mobile ဆင်းမ်ကဒ်သည် သင်၏ မူလသတ်မှတ်ထားသော ဒေတာကဒ် မဟုတ်ပါ။</string>
     <string name="rcs_forward_faild">တစ်ဆင့်ပို့၍ မရပါ</string>
     <string name="rcs_forward_successful">တစ်ဆင့်ပို့ပြီးပါပြီ</string>
-    <string name="rcs_group_notification_invitation">群邀请</string>
+    <string name="rcs_group_notification_invitation">အုပ်စုချတ် ဖိတ်ကြားချက်</string>
     <string name="rcs_message">China Mobile မက်ဆေ့ချ်</string>
     <string name="rcs_message_disable">ဒုတိယနေရာတွင် ဤမက်ဆေ့ချ်အား ကြည့်၍မရပါ</string>
     <string name="rcs_msg">China Mobile မက်ဆေ့ချ်</string>
     <string name="rcs_not_online">China Mobile မက်ဆေ့ချ်အား သုံး၍မရပါ။ ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="rcs_offline_hint">China Mobile မက်ဆေ့ချ် အော့ဖ်လိုင်းဖြစ်နေသည်။ ဤမက်ဆေ့ချ်အား တစ်ဆင့်ပို့၍ မရပါ။</string>
     <string name="rcs_recipient_type_contact">အဆက်အသွယ်ထံ တစ်ဆင့်ပို့မည်</string>
-    <string name="rcs_recipient_type_group">转发到群</string>
+    <string name="rcs_recipient_type_group">အုပ်စုချတ်သို့ ထပ်ဆင့်ပို့မည်</string>
     <string name="rcs_recipient_type_pc">ကွန်ပျူတာသို့ တစ်ဆင့်ပို့မည်</string>
     <string name="rcs_resend_not_online">China Mobile မက်ဆေ့ချ်အား သုံး၍မရပါ</string>
     <string name="rcs_resend_sim_card_not_insert">ဆင်းမ်ကဒ် မထည့်ရသေးပါ</string>
@@ -633,6 +640,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -664,7 +672,6 @@
     <string name="sms_full_title">စာမက်ဆေ့ချ် မှတ်ညဏ်ပြည့်နေပါပြီ</string>
     <string name="sms_rejected_body">အဝင်စာမက်ဆေ့ချ်ကို ပယ်ချထားလိုက်သည်။</string>
     <string name="sms_rejected_title">စာမက်ဆေ့ချ်ကို ပယ်ချလိုက်သည်</string>
-    <string name="sms_report">စပန်မက်ဆေ့ချ်များကို အစီရင်ခံမည်</string>
     <string name="sms_report_dialog_content">အစီရင်ခံစာ မပေးပို့နိုင်ခဲ့ပါ၊ ထပ်ကြိုးစားကြည့်ပါ</string>
     <string name="sms_report_dialog_retry">ထပ်ကြိုးစားပါ</string>
     <string name="sms_report_dialog_title">ထပ်ကြိုးစားပါ</string>

@@ -203,7 +203,7 @@
     <string name="tap_to_exposure">အလင်းဖွင့်ချိန်ကို ကိုယ်တိုင်ချိန်ညှိရန် ထိနှိပ်ပါ</string>
     <string name="accessibility_shutter_button">ရှတ္တာခလုတ်</string>
     <string name="accessibility_intent_done_apply">ပြီးပါပြီ</string>
-    <string name="accessibility_intent_done_retry">ပြန်ရိုက်မည်</string>
+    <string name="accessibility_intent_done_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="accessibility_review_thumbnail">များမကြာမီက ဓာတ်ပုံ</string>
     <string name="accessibility_camera_picker">ရှေ့နောက်ကင်မရာ ကူးပြောင်းခလုတ်</string>
     <string name="accessibility_stereo_button">ဆုံချက် ချိန်ညှိမှု</string>
@@ -261,13 +261,12 @@
     <string name="pref_camera_referenceline_title">ဂရစ်မျဉ်းများ ပြပါ</string>
     <string name="pref_camera_volumekey_function_entry_volume">အသံပမာဏ</string>
     <string name="pref_camera_volumekey_function_entry_shutter">ရှတ္တာ</string>
+    <string name="pref_camera_volumekey_function_entry_timer">ရှတ္တာ နောက်ပြန်ရေ တိုင်မာ</string>
     <string name="pref_camera_volumekey_function_entry_zoom">ချုံ့ချဲ့</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">အလင့်ဖွင့်ချိန်</string>
     <string name="pref_camera_volumekey_function_title">အသံခလုတ်များ လုပ်ဆောင်ချက်</string>
     <string name="error_fail_to_start_audio_capture">အော်ဒီယိုသံဖမ်းယူခြင်းကို စတင်လို့ မရပါ</string>
     <string name="toast_start_audio_capture">ဓါတ်ပုံရိုက်ရန် အသံထွက်ပါ</string>
     <string name="record_back_pressed_hint">အသံဖမ်းယူခြင်းကို ရပ်ရန် ထပ်မံ ထိနှိပ်ပါ</string>
-    <string name="toast_burst_snap_finished_summary">တရစပ် ရိုက်ကူးမှု ပြီးပါပြီ၊ ဓာတ်ပုံ %1$sပုံ ရိုက်ကူးသည်</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">အသံဖြင့် ရိုက်ကူးခြင်းကို ဖွင့်ထားစဉ် တရစပ်ရိုက်ချက် သုံး၍မရပါ</string>
     <string name="time_lapse_error">အချိန်ဆိုင်းငံ့သော ရိုက်ကူးရေးအတွက် ဤဗီဒီယိုအရွယ်အစားကို သုံး၍ မရပါ</string>
     <string name="pref_camera_movie_solid_title">ရုပ်ပုံ ငြိမ်သက်စေခြင်း</string>
@@ -430,11 +429,12 @@
     <string name="pref_camera_portrait_mode_entry_off">လူပုံမုဒ်ကို ပိတ်ထားသည်</string>
     <string name="pref_camera_portrait_mode_entry_on">လူပုံမုဒ်ကို ဖွင့်ထားသည်</string>
     <string name="portrait_mode_lowlight_hint">ယခု အလွန်မှောင်နေသည်</string>
-    <string name="portrait_mode_too_close_hint">အရာဝတ္ထု၏ အဝေးသို့ရွှေ့ပေးပါ</string>
-    <string name="portrait_mode_too_far_hint">ရိုက်ကူးမည့်အရာအား ၂ မီတာအတွင်း ထားပါ</string>
+    <string name="portrait_mode_too_close_hint">အဝေးသို့ ရွှေ့ပေးပါ</string>
+    <string name="portrait_mode_too_far_hint">၂.၅ မီတာအတွင်းတွင် ထားပါ</string>
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"လူပုံမုဒ်အား သုံးကြည့်ပါ။
 လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီးအရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
@@ -451,6 +451,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -554,7 +555,7 @@
     <string name="lighting_hint_title">စတူဒီယို အလင်း</string>
     <string name="lighting_hint_usage">"လူပုံမုဒ်တွင် 
 စတူဒီယို အလင်း အထူးဖန်တီးချက်အား သုံးနိုင်ပါပြီ"</string>
-    <string name="lighting_hint_needed">လူပုံကို အလင်းရောင်အောက်တွင် ထားပါ</string>
+    <string name="lighting_hint_needed">လူပုံအား အလင်းရောင်အောက်တွင် ထားပါ</string>
     <string name="lighting_hint_too_far">ကင်မရာအား အနားတိုးပါ</string>
     <string name="lighting_hint_too_close">ကင်မရာအား အဝေးတွင်ထားပါ</string>
     <string name="lighting_pattern_nature">သဘာဝ</string>
@@ -569,5 +570,5 @@
     <string name="portrait_bokeh_text">လူပုံမုဒ်</string>
     <string name="portrait_bokeh_first_tips">"ဓာတ်ပုံနောက်ခံ မှုန်ဝါးစေရန်
 လူပုံမုဒ်အား သုံးပါ"</string>
-    <string name="portrait_bokeh_tips">ရိုက်ကူးမည့်အရာအား ၁.၅ မီတာအတွင်း ထားပါ</string>
+    <string name="portrait_bokeh_tips">၁.၅ မီတာအတွင်းတွင် ထားပါ</string>
 </resources>

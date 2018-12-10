@@ -7,7 +7,7 @@
         <item quantity="other">ဤနှိုးစက်အား ဖျက်မည်လား?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">ဤအချိန်ဇုန်အား ဖျက်မည်လား?</item>
+        <item quantity="other">ရွေးထားသော အချိန်ဇုန်အား ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d စက္ကန့်</item>

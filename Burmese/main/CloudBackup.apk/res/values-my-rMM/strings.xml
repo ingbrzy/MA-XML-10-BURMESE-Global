@@ -46,9 +46,12 @@
     <string name="customization"><u>သုံးသူစိတ်ကြိုက်</u></string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">အခြား အစပျိုးစက်</string>
-    <string name="self_device">"ဤဖုန်း၏ "</string>
-    <string name="main_space">ပထမနေရာ</string>
-    <string name="second_space">ဒုတိယ နေရာ</string>
+    <string name="self_device_main_space">ဤဖုန်း၏ ပထမနေရာ</string>
+    <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
+    <string name="other_device_main_space">ပထမနေရာ</string>
+    <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -130,6 +133,8 @@
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="loading_user_backup">သုံးစွဲသူ အရန်သိမ်းခြင်းများကို ရယူနေသည်…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
     <string name="no_account">Mi အကောင့်သို့ ဆိုင်းအင်မဝင်ရသေးပါ။</string>
     <string name="no_backup">Mi Cloud တွင် အရန်သိမ်းထားခြင်း မရှိပါ။</string>
@@ -137,7 +142,7 @@
     <string name="home_restore_error">ပင်မမျက်နှာပြင်ကို ပြန်လည်ရယူ၍ မရပါ</string>
     <string name="get_device_id_error">စက် ID အား မရယူနိုင်ပါ</string>
     <string name="unsupported_home">MIUI အား နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။</string>
-    <string name="error_retry_later">လုပ်ဆောင်မှု မပြီးဆုံးပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="error_retry_later">လုပ်ဆောင်မှု မပြီးဆုံးပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ…</string>
     <string name="try_continue">ဆက်လက်လုပ်ဆောင်ရန် ထိနှိပ်ပါ</string>
     <string name="download_home_data">ပင်မမျက်နှာပြင်အပြင်အဆင်ကို ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="restore_home_failed">ပင်မမျက်နှာပြင်ကို ပြန်လည်ရယူ၍ မရပါ။</string>
@@ -154,6 +159,9 @@
     <string name="dialog_msg_restore_require_wlan">အရန်သိမ်းခြင်းများကို ပြန်လည်ရယူလိုလျှင် Wi-Fi သို့ ချိတ်ဆက်ရမည်။</string>
     <string name="dialog_btn_next">နောက်တစ်ဆင့်</string>
     <string name="dialog_btn_restore_skip">နောက်မှ ပြန်လည်ရယူမည်</string>
+    <string name="dialog_btn_cancel_backup">ပယ်ဖျက်မည်</string>
+    <string name="dialog_btn_overwrite_backup">အသစ် ထပ်မံဖြည့်သွင်းခြင်း</string>
+    <string name="dialog_msg_overwrite_backup">စက်အတွင်းရှိ အရန်သိမ်းခြင်းသည် Mi Cloud ရှိ ဘက်ခ်အပ်နှင့် ကွာခြားနေသည်။ ဆက်လက်လုပ်ဆောင်ပါက လက်ရှိ အရန်သိမ်းခြင်းသည် ယခင် ဘက်ခ်အပ်အား ဖုံးအုပ်သွားမည်။</string>
     <string name="cloud_backup">Mi Cloud အရန်သိမ်းခြင်း</string>
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="restore_cloud_backup_to_phone">Mi Cloud မှ အိုင်တမ်များကို ပြန်လည်ရယူမည်</string>
@@ -176,4 +184,6 @@
     <string name="msg_alert_restore_error">Mi Cloud မှ အိုင်တမ်များအား ပြန်လည်ရယူ၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="btn_restore_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="btn_restore_abort">ပယ်ဖျက်မည်</string>
+    <string name="backup_stopped_title">အရန်သိမ်းခြင်းအား ရပ်တန့်ထားသည်</string>
+    <string name="backup_stopped_msg">လက်ရှိ အရန်သိမ်းခြင်းသည် ယခင် ဘက်ခ်အပ်အား ဖုံးအုပ်သွားမည်။ ကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
 </resources>

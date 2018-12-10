@@ -71,7 +71,7 @@
     <string name="answer_incoming_call">ဖြေဆိုမည်</string>
     <string name="decline_incoming_call">ငြင်းဆိုမည်</string>
     <string name="cant_call_due_to_ongoing_call">%1$sမှ ဖုန်းခေါ်ဆိုနေသောကြောင့် နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။</string>
-    <string name="cant_call_due_to_ongoing_calls">%1$sမှ ဖုန်းများခေါ်ဆိုနေသောကြောင့် နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။</string>
+    <string name="cant_call_due_to_ongoing_calls">နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။ %1$s ခေါ်ဆိုမှုအား ဦးစွာ အဆုံးသတ်ပါ။</string>
     <string name="cant_call_due_to_ongoing_unknown_call">အခြားအက်ပ်တွင် ဖုန်းခေါ်ဆိုနေသောကြောင့် နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။</string>
     <string name="notification_channel_incoming_call">အဝင်ဖုန်းများ</string>
     <string name="notification_channel_missed_call">လွဲသွားသော ခေါ်ဆိုမှုများ</string>

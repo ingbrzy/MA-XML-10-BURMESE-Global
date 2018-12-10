@@ -8,6 +8,8 @@
     <string name="explain_send_sms_permission_button">မှန်ကြောင်းအတည်ပြု</string>
     <string name="explain_send_sms_permission_msg">%s အားဖွင့်ပါ၊ xiaomi ဝန်ဆောင်မှု Framework မှ အတည်ပြုရန် SMS အား သင့်ဖုန်းသို့ပေးပို့ပေးလိမ့်မည်။ ကယ်ရီယာအား ပုံမှန်SMSကြေး ပေးဆောင်ရပါလိမ့်မည်။</string>
     <string name="explain_send_sms_permission_title">သင့်ဖုန်းနံပါတ်အား အတည်ပြုပါ</string>
+    <string name="pop_up_allow_notify_dialog">ခွင့်ပြုမည်</string>
+    <string name="pop_up_deny_notify_dialog">ငြင်းပယ်မည်</string>
     <string name="sync_notification_title_format">လက်ရှိဟန်ချက်ညီညီလုပ်ဆောင်နေသည့်အမျိုးအစား-%1$s</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">XMSF အသက်သွင်းသတင်းအချက်အလက်</string>

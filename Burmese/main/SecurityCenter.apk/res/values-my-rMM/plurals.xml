@@ -197,6 +197,15 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d စက္ကန့်စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">အနည်းဆုံးအစက် %d စက် ပါအောင်ဆွဲပါ</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">အနည်းဆုံး ဂဏန်း %d လုံး ရိုက်ထည့်ပါ</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">အနည်းဆုံး အက္ခရာ %d လုံး ရိုက်ထည့်ပါ</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">အက်ပ် %dခု</item>
     </plurals>
