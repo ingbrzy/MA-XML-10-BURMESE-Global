@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">MIUI သည် သင်အိပ်စက်နေသည်ကို သိရှိပါက နောက်ခံအက်ပ်များကို ပိတ်ပြီး ဘလူးတုသ်၊ GPS၊ မိုဘိုင်းဒေတာနှင့် Wi-Fi သုံးစွဲမှုကို ကန့်သတ်လိမ့်မည်။ အသိပေးချက်များအတွက် မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
     <string name="nonui_mode_config_title">အပြန်အလှန်မရှိ မုဒ်</string>
     <string name="nonui_mode_config_description">MIUI သည် သင်စက်မသုံးနေသည်ကို သိရှိပါက LED မီး၊ လက်ဗွေအာရုံခံကိရိယာနှင့် ထိန်းချုပ်မှုခလုတ်ကို ပိတ်ပြီး အသိပေးချက်များအတွက် မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
-    <string name="power_center">ပါဝါ</string>
+    <string name="power_center">ဘက်ထရီ သုံးစွဲမှု</string>
     <string name="power_usage">ပါဝါ သုံးစွဲမှု</string>
     <string name="power_mode">ပါဝါ ဆက်တင်များ</string>
     <string name="performance_category">စွမ်းဆောင်ရည်</string>
@@ -98,4 +98,13 @@
     <string name="atrace_start">atrace မှတ်တမ်းအား ရယူနေသည်…</string>
     <string name="atrace_saving">atrace မှတ်တမ်းအား သိမ်းဆည်းနေသည်…</string>
     <string name="atrace_saved">သိမ်းဆည်းပြီးပါပြီ</string>
+    <string name="notification_open_extreme_mode_text">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ဖွင့်ထားသည်</string>
+    <string name="extreme_power_settings_title">ဆက်တင်</string>
+    <string name="notification_exit_extreme_mode_title">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ပိတ်ထားသည်</string>
+    <string name="notification_exit_extreme_mode_text">%s နှင့်အထက် အားသွင်းပြီးလျှင် အကြီးမားဆုံး ဘက်ထရီချွေတာသူမုဒ်မှ ထွက်မည်</string>
+    <string name="extreme_power_config_mode_summary">အကြီးမားဆုံး ဘက်ထရီချွေတာသူမှ နောက်ခံလှုပ်ရှားမှုအား ကန့်သတ်ထားပြီး ဆင့်ခ်လုပ်ခြင်းကိုလည်း ရပ်ထားသည်။</string>
+    <string name="extreme_add_white_list_title">နောက်ခံ ခြွင်းချက်စာရင်း</string>
+    <string name="extreme_add_white_list_summary">အများဆုံး အက်ပ် ၄ ခု</string>
+    <string name="adaptive_battery_title">သုံးစွဲမှုအလိုက် ဘက်ထရီ ချွေတာမှု</string>
+    <string name="adaptive_battery_summary">သင် သုံးလေ့မရှိသော အက်ပ်အတွက် ဘက်ထရီ ကန့်သတ်မည်</string>
 </resources>

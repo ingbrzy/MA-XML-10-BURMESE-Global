@@ -3,14 +3,29 @@
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">%d မိနစ်ကြာ တမှေးအိပ်မည်။</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d ရက်</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">ဤနှိုးစက်အား ဖျက်မည်လား?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">ရွေးထားသော အချိန်ဇုန်အား ဖျက်ပစ်မလား?</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d နာရီ</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d ရက်</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">%2$s ကြိမ် (တစ်ကြိမ်လျှင် %1$s မိနစ်) အကြာတွင် နှိုးစက် ပိတ်သွားလိမ့်မည်</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">%d မိနစ်ကြာ တခနအိပ်</item>

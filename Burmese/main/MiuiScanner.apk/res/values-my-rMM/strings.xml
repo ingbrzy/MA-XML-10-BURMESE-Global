@@ -69,7 +69,7 @@
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gps">ဂျီပီအက်စ် လမ်းညွှန်</string>
     <string name="import_contact">အဆက်အသွယ်ကိုထည့်ပါ</string>
-    <string name="impunity_declaration_content">စကင်နာမှ ကင်မရာသို့ ဝင်ရောက်၍ ဓာတ်ပုံရိုက်ယူရန် ခွင့်ပြုချက်များ လိုအပ်သည်။ အလုပ် ပုံမှန် လုပ်နိုင်ရန် အင်တာနက်သို့လည်း ချိတ်ဆက်ခွင့် လိုအပ်သည်။ \"သဘောတူပါသည်\"အား ထိနှိပ်သည်နှင့် တပြိုင်နက် သင်သည် ကျွန်ုပ်တို့၏ %1$sကိုယ်ရေးအချက်အလက် ပေါ်လစီ%2$sကို ကောင်းစွာ ဖတ်ရှုနားလည် သဘောပေါက်သဖြင့် လက်ခံသည်ဟု မှတ်ယူသည်။</string>
+    <string name="impunity_declaration_content">စကင်နာမှ ကင်မရာသို့ ဝင်ရောက်၍ ဓာတ်ပုံရိုက်ယူရန် ခွင့်ပြုချက်များ လိုအပ်သည်။ အလုပ် ပုံမှန် လုပ်နိုင်ရန် အင်တာနက်သို့လည်း ချိတ်ဆက်ခွင့် လိုအပ်သည်။ \"သဘောတူပါသည်\"အား ထိနှိပ်သည်နှင့် တပြိုင်နက် သင်သည် ကျွန်ုပ်တို့၏ %1$sကိုယ်ရေးအချက်အလက် ပေါ်လစီ%2$sကို ကောင်းစွာ ဖတ်ရှုနားလည် သဘောပေါက်သဖြင့် လက်ခံသည်ဟု မှတ်ယူပါမည်။</string>
     <string name="impunity_declaration_negative_text">ထွက်</string>
     <string name="impunity_declaration_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="label_choose_picture">ပုံ ရွေးပါ</string>
@@ -92,6 +92,7 @@
     <string name="module_title_business_card">လိပ်စာကဒ်</string>
     <string name="module_title_code">QR ကုဒ်</string>
     <string name="module_title_document">စာရွက်စာတမ်း</string>
+    <string name="module_title_plant">အပင်</string>
     <string name="module_title_shopping">ဈေးဝယ်</string>
     <string name="module_title_translation">ဘာသာပြန်ဆို</string>
     <string name="name">အမည်−</string>
@@ -106,6 +107,11 @@
     <string name="payment_text">%sဖြင့် ဖွင့်ပါ</string>
     <string name="phone">ဖုန်း−</string>
     <string name="place_barcode_into_rectangle">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
+    <string name="plant_fail">အသိအမှတ်ပြု၍ မရပါ</string>
+    <string name="plant_loading">ခွဲခြားဖော်ထုတ်နေသည်…</string>
+    <string name="plant_reg_fail_2">ဤအရာအား အသိအမှတ်ပြု၍ မရပါ။ အပင်ကိုသာ စကန်ဖတ်နိုင်သည်။</string>
+    <string name="plant_support">" (နည်းပညာပိုင်းဆိုင်ရာ ပံ့ပိုးမှု)"</string>
+    <string name="plant_title">သင် ခွဲခြားဖော်ထုတ်လိုသော အပင်အား စကန်ဖတ်ပါ</string>
     <string name="preparing_sd">အတွင်းသိုလှောင်မှုအား ပြင်ဆင်နေ…</string>
     <string name="previous">နောက်သို့</string>
     <string name="qr_code_details">QR ကုဒ် အသေးစိတ်များ−</string>

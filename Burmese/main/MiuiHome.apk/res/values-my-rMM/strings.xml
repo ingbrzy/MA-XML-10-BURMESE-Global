@@ -152,6 +152,7 @@
     <string name="gadget_clock_24_label">နာရီ ၄x၂</string>
     <string name="gadget_clock_34_label">နာရီ ၄x၃</string>
     <string name="gadget_clock_label">နာရီ</string>
+    <string name="gadget_dual_clock_label">နှစ်ခုတွဲ နာရီ</string>
     <string name="gadget_error_text">ဝစ်ဂတ်ကို ရယူ၍မရပါ</string>
     <string name="gadget_google_search_label">Google ရှာဖွေရေး</string>
     <string name="gadget_load_error">လုပ်ဆောင်နေသည်…</string>
@@ -277,11 +278,14 @@
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">တစ်ခုမှမရှိပါ</string>
     <string name="recommend_apps_no_data">ဒေတာ မရှိပါ</string>
+    <string name="recommend_apps_no_data_toast">အကြံပြုချက်များ မရှိသေးပါ။</string>
     <string name="recommend_apps_notice">အဆင့်မြှင့်ပြီး အက်ပ်များ</string>
     <string name="recommend_apps_notice_nodata">အဆင့်မြှင့်ပြီး အက်ပ်များ (ဒေတာ မရှိ)</string>
     <string name="recommend_apps_switch_title">အဆင့်မြှင့်ပြီး အက်ပ်များ</string>
     <string name="recommend_apps_tips">ဤလုပ်ဆောင်ချက်မှာ ပုံမှန်အလုပ်လုပ်ရန် အင်တာနက်ချိတ်ဆက်မှုလိုအပ်ပါသည်။ ဤလုပ်ဆောင်ချက်အား ပိတ်ရန် ဤဖိုလ်ဒါအမည်အား ထိနှိပ်ပါ။</string>
     <string name="recommend_loading">လုပ်ဆောင်နေသည်</string>
+    <string name="recommend_refresh">ရီဖရှက်ရ်လုပ်ပါ</string>
+    <string name="recommend_xout">မပြပါနှင့်</string>
     <string name="reset_description_first_time">အပြင်အဆင်အား %1$s မှ နှစ်နာရီအတွင်း ပြန်လည်ရယူနိုင်ပါသည်</string>
     <string name="reset_description_others">အပြင်အဆင်အား %1$s မှ ပြန်လည်ရယူနိုင်ပါသည်</string>
     <string name="reset_fail">ပြန်လည်ရယူ၍ မရပါ</string>
@@ -347,7 +351,4 @@
     <string name="widget_gadget_player">တေးဂီတ</string>
     <string name="widget_global_search">ရှာပါ</string>
     <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်များ</string>
-    <string name="recommend_apps_no_data_toast">အကြံပြုချက်များ မရှိသေးပါ။</string>
-    <string name="recommend_refresh">ရီဖရှက်ရ်လုပ်ပါ</string>
-    <string name="recommend_xout">မပြပါနှင့်</string>
 </resources>

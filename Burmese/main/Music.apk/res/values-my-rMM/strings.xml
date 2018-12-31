@@ -116,7 +116,7 @@
     <string name="dialog_media_not_found">ဒေါင်းလုဒ်လုပ်၍မရပါ။ SD ကဒ်မရှိပါ။</string>
     <string name="dialog_queued_body">ဤဖိုင်အား အနာဂတ်ဒေါင်းလုဒ်အတွက် တန်းစီထားပါသည်</string>
     <string name="dialog_renew_failure">တောင်းပန်ပါသည်၊ ယခု မရသေးပါ</string>
-    <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
+    <string name="dialog_renew_free_end">အခမဲ့ စမ်းသုံးချိန် ကုန်ဆုံးပါပြီ။ Hungama PRO ဆက်သုံးရန် ပိုက်ဆံဖြည့်မလား?</string>
     <string name="dialog_renew_positive_text">ပရိုဖြစ်ရန် သက်တမ်းတိုးပါမည်</string>
     <string name="dialog_renew_success">အတည်ပြုခြင်းအတွက် ကျေးဇူးတင်ပါသည်</string>
     <string name="dialog_song_sort_type">သီချင်းများအား စီစဉ်ပါ</string>
@@ -171,6 +171,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
@@ -415,13 +416,13 @@
     <string name="nowplaying_dialog_title_delete_tracks">ဤသီချင်းအား တန်းစီထားရာမှ ဖယ်ရှားမလား?</string>
     <string name="nowplaying_menu_item_delete">တန်းစီထားရာမှ ဖယ်ရှားမည်</string>
     <string name="ok">အိုကေ</string>
-    <string name="online_apk_download_error_no_enough_space">"Couldn't download due to insufficient storage space."</string>
-    <string name="online_apk_downloading">Downloading…%d%%</string>
-    <string name="online_apk_install_alert_confirm">Download</string>
-    <string name="online_apk_install_alert_message">You need to download Yandex.Music plug-in. Download now?</string>
-    <string name="online_apk_install_alert_note">This service is provided by Yandex.Music</string>
-    <string name="online_apk_install_error_no_enough_space">"Couldn't install due to insufficient storage space."</string>
-    <string name="online_apk_install_error_with_reason">"Couldn't install (Error %d)"</string>
+    <string name="online_apk_download_error_no_enough_space">နေရာလွတ် မလုံလောက်သောကြောင့် ဒေါင်းလုဒ်လုပ်၍ မရပါ။</string>
+    <string name="online_apk_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…%d%%</string>
+    <string name="online_apk_install_alert_confirm">ဒေါင်းလုဒ်လုပ်မည်</string>
+    <string name="online_apk_install_alert_message">Yandex.Music ပလက်အင်အား ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="online_apk_install_alert_note">ဤဝန်ဆောင်မှုအား Yandex.Music မှ ပံ့ပိုးသည်</string>
+    <string name="online_apk_install_error_no_enough_space">နေရာလွတ် မလုံလောက်သောကြောင့် ထည့်သွင်း၍ မရပါ။</string>
+    <string name="online_apk_install_error_with_reason">ထည့်သွင်း၍ မရပါ (အမှား %d)</string>
     <string name="online_list_delete_message">ဖွင့်စာရင်းထဲရှိဒေါင်းလုဒ်လုပ်ထားသော သီချင်းအားလုံးအား အတွင်းသိုလှောင်မှုမှနေ၍ ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="online_recommend">ဖွင့်စာရင်း</string>
     <string name="online_service_open_tip">အွန်လိုင်းဂီတဝန်ဆောင်မှု ဖွင့်ထားသည်</string>
@@ -476,6 +477,7 @@
     <string name="priority_storage">ပြင်ပ SD ကဒ်အသုံးပြု</string>
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -625,6 +627,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>

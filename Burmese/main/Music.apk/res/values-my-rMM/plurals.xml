@@ -17,7 +17,8 @@
         <item quantity="other">ဖွင့်စက်သည်%d မိနစ်တွင်ရပ်သွားလိမ့်မည်</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">" %1$s တွင်ဖန်တီးခဲ့ | စုစုပေါင်း %2$d ပုဒ်"</item>
+        <item quantity="other">"%1$s တွင်ဖန်တီးခဲ့သည် 
+စုစုပေါင်း %2$d ပုဒ်"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">သင့်အဖွင့်စာရင်းသို့ သီချင်း %d ပုဒ်ပေါင်းထည့်ခဲ့သည်</item>
@@ -58,6 +59,12 @@
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">အိုင်တမ် %d ခုရွေးထားသော</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">ဖိုင် %1$d ခုကို ဒေါင်းလုဒ်လုပ်နေသည်</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">အိုင်တမ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်၍ မရပါ</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">လိုက်အားပေးသူ %d ဦး</item>

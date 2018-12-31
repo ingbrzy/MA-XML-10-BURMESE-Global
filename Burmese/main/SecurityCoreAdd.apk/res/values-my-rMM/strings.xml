@@ -341,7 +341,7 @@
     <string name="gpg_message">ဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google Playဂိမ်းများ လိုအပ်ပါသည်။ Google Playဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
     <string name="gpg_title">Google Play ဂိမ်းများအတွက် ပွားထားသော အက်ပ်</string>
     <string name="gms_message">နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google ဝန်ဆောင်မှုများ လိုအပ်ပါသည်။ Google ဝန်ဆောင်မှုများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
-    <string name="gms_title">Googleဝန်ဆောင်မှုများကို ဖွင့်မည်</string>
+    <string name="gms_title">Google ဝန်ဆောင်မှုများအတွက် နှစ်ခုတွဲအက်ပ်</string>
     <string name="gms_open_button">ဖွင့်မည်</string>
     <string name="create_second_space">အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ</string>
     <string name="set_space_password">စကားဝှက် သတ်မှတ်ပါ</string>
@@ -417,7 +417,7 @@
     <string name="ent_licence_code">လိုင်စင်ကုဒ်</string>
     <string name="ent_licence_code_hint">လိုင်စင်ကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="ent_next_step">ရှေ့သို့</string>
-    <string name="ent_get_code_hint">ကိုယ်စားလှယ်ကုဒ်နှင့် လိုင်စင်ကုဒ်အား သက်ဆိုင်ရာတာဝန်ရှိထံမှ ရရှိနိုင်ပါသည်</string>
+    <string name="ent_get_code_hint">ကိုယ်စားလှယ်ကုဒ်နှင့် လိုင်စင်ကုဒ်အား သက်ဆိုင်ရာ တာဝန်ရှိထံမှ ရရှိနိုင်ပါသည်</string>
     <string name="ent_agree_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကျွန်ုပ် ဖတ်ရှုပြီး သဘောတူပါသည်</string>
     <string name="ent_activation">အသက်သွင်းမည်</string>
     <string name="ent_activating">အသက်သွင်းနေသည်…</string>
@@ -457,4 +457,8 @@
     <string name="dialog_undo_negative">ပြန်မရုပ်သိမ်းပါနှင့်</string>
     <string name="dialog_title_service_error">ဆာဗာ အမှား</string>
     <string name="dialog_message_service_error">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်း၍ စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="dialog_verify">သင်၏လက်ဗွေကို အတည်ပြုပါ</string>
+    <string name="dialog_verify_fingerprint_retry">ဘက်ဗွေအား အတည်ပြု၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="button_touch">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ</string>
+    <string name="button_input_password">စကားဝှက် ရိုက်ထည့်ပါ</string>
 </resources>

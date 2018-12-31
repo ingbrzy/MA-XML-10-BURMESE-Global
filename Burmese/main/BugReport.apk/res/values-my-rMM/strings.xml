@@ -56,6 +56,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကဒ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -215,8 +216,10 @@
     <string name="feedback_select_suggestion">အကြံပြုချက်များ</string>
     <string name="feedback_select_problem">ပြဿနာများ</string>
     <string name="feedback_choose_module">အိုင်တမ်များရွေး</string>
+    <string name="feedback_choose_app_tag">ပြဿနာတစ်ခုကို ရွေးချယ်ပါ</string>
     <string name="feedback_choose_third_app_name">အက်ပ်အမည် ရွေးပါ</string>
     <string name="toast_module_required">အိုင်တမ်ရွေး</string>
+    <string name="toast_app_tag_required">ပြဿနာတစ်ခုကို ရွေးချယ်ပါ</string>
     <string name="feedback_choose_module_hint">လိုအပ်သော</string>
     <string name="feedback_choose_reproductivity">မျိုးပွားနိုင်စွမ်း</string>
     <string name="feedback_title_reproductivity">ပြဿနာများ၏ဖြစ်နိုင်ခြေကို ရွေးပါ</string>
@@ -327,6 +330,7 @@
     <string name="toast_log_too_large">ဖိုင်ကြီးလွန်းသောကြောင့် လုဒ်တင်၍ မရပါ။</string>
     <string name="title_customer_service">သုံးစွဲသူဝန်ဆောင်မှု</string>
     <string name="title_first_aid">ဖုန်း အရေးပေါ် အကူအညီ</string>
+    <string name="title_user_guide">သုံးစွဲသူ လမ်းညွှန်</string>
     <string name="customer_service_apply">သုံးစွဲသူဝန်ဆောင်မှု တောင်းခံမည်</string>
     <string name="customer_service_complain">သုံးစွဲသူဝန်ဆောင်မှု အစီရင်ခံမည်</string>
     <string name="customer_service_station">ဝန်ဆောင်မှုဌာနများ</string>
@@ -340,12 +344,11 @@
     <string name="catch_full_log_item_title_sensor">အာရုံခံကိရိယာ</string>
     <string name="catch_full_log_item_title_bt">ဘလူးတုသ်</string>
     <string name="catch_full_log_item_title_dump_heap">နောက်ကျသော</string>
-    <string name="catch_full_log_item_content_need_open">"အဆင့်-
-၁။ \"မှတ်တမ်း ရယူမည်\"အား ထိနှိပ်ပါ။
+    <string name="catch_full_log_item_content_title">အဆင့်-</string>
+    <string name="catch_full_log_item_content_need_open">"၁။ \"မှတ်တမ်း ရယူမည်\"အား ထိနှိပ်ပါ။
 ၂။ သတင်းပို့လိုသော အင်္ဂါရပ်အား ပြဿနာပြန်ပေါ်လာသည်အထိ သုံးပါ။ 
 ၃။ ဤစာမျက်နှာသို့ ပြန်လာ၍ \"ပြီးပါပြီ၊ ပေးပို့မည်\"အား ထိနှိပ်ပါ။"</string>
-    <string name="catch_full_log_item_content_catch_direct">"အဆင့်-
-၁။ သတင်းပို့လိုသော အင်္ဂါရပ်အား ပြဿနာပြန်ပေါ်လာသည်အထိ သုံးပါ။ 
+    <string name="catch_full_log_item_content_catch_direct">"၁။ သတင်းပို့လိုသော အင်္ဂါရပ်အား ပြဿနာပြန်ပေါ်လာသည်အထိ သုံးပါ။ 
 ၂။ ဤစာမျက်နှာသို့ ပြန်လာ၍ \"ပြီးပါပြီ၊ ပေးပို့မည်\"အား ထိနှိပ်ပါ။"</string>
     <string name="catch_full_log_action_start">မှတ်တမ်း ရယူမည်</string>
     <string name="catch_full_log_action_complete">ပြီးပါပြီ၊ ပေးပို့မည်</string>

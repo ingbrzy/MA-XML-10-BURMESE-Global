@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ဂဏန်းပေါင်းစက်</string>
+    <string name="allow">သဘောတူသည်</string>
+    <string name="app_name">ဂဏန်းတွက်စက်</string>
     <string name="app_name_danfa">Mi ဂဏန်းတွက်စက်</string>
     <string name="base_rate">အခြေခံအတိုးနှုန်း</string>
     <string name="cal_convert_to_word_figure">ငွေရေးကြေးရေး အက္ခရာများသို့ပြောင်းပါ</string>
@@ -39,8 +40,14 @@
     <string name="degDesc">ထောင့်</string>
     <string name="deleteDesc">ဖျက်ပါ</string>
     <string name="description_content">ယင်း၏အခြေခံအင်္ဂါရပ်အပြင် ဂဏန်းတွက်စက်သည် ယူနစ်ပြောင်းလဲတွက်ချက်မှု၊ ပေါင်နှံတွက်ချက်မှုနှင့်အခွန်တွက်ချက်မှုအတွက် ဘက်စုံဂဏန်းတွက်စက်အဖြစ်လည်းအသုံးပြုနိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
-    <string name="description_title">ဂဏန်းတွက်စက်အကြောင်း</string>
+    <string name="description_title">ဂဏန်းတွက်စက် အကြောင်း</string>
     <string name="devided_by_zero_reminder_message">သုညဖြင့်စား၍မရပါ</string>
+    <string name="dialog_privacy_content">ဂဏန်းတွက်စက်၏ အခြေခံ အင်္ဂါရပ်များအပြင် ဤအက်ပ်တွင် သိပ္ပံ ဂဏန်းတွက်စက် နှင့် ယူနစ်ပြောင်းခြင်း အမျိုးမျိုးတို့ ပါရှိပါသည်။ အချို့အင်္ဂါရပ်များသည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဂဏန်းတွက်စက်အား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဦးစွာဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="dialog_privacy_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
+    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
+    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
+    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
+    <string name="dialog_rating_title">Rate our app</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -58,6 +65,7 @@
     <string name="equalDesc">ညီမျှခြင်း</string>
     <string name="error">အမှား</string>
     <string name="error_fomrat">ဖောမတ်အမှား</string>
+    <string name="exit">ထွက်ရန်</string>
     <string name="factorialDesc">factorial</string>
     <string name="fund" />
     <string name="fund_loan">ချေးငှား ရန်ပုံငွေ</string>
@@ -76,15 +84,15 @@
     <string name="global_search_key_weight_convertion">အလေးချိန် ယူနစ် ကူးပြောင်းခြင်း;အလေးချိန် ကူးပြောင်းခြင်း;အလေးချိန် ကူးပြောင်းမှု;ကီလိုဂရမ်;ပေါင်</string>
     <string name="global_search_key_word_figure">ငွေကြေးဆိုင်ရာ အက္ခရာများ</string>
     <string name="golbal_search_calculator_setting">ဂဏန်းပေါင်းစက်;ဂဏန်းပေါင်းစက် ဆက်တင်;ဆက်တင်</string>
-    <string name="golbal_search_path_calculator_setting">စနစ်အက်ပ်များ/ဂဏန်းပေါင်းစက်/ဆက်တင်</string>
-    <string name="home_title_calculator">ဂဏန်းပေါင်းစက်</string>
+    <string name="golbal_search_path_calculator_setting">စနစ်အက်ပ်များ/ဂဏန်းတွက်စက်/ဆက်တင်</string>
+    <string name="home_title_calculator">ဂဏန်းတွက်စက်</string>
     <string name="income_type" />
     <string name="install">ထည့်သွင်းမည်</string>
     <string name="install_scanner_to_continued_use">စကန်နာအား ဖြုတ်ချထားသည်။ ပြန်ထည့်သွင်းမလား?</string>
     <string name="interest_rate_hint">အတိုးနှုန်းအား ရိုက်ထည့်ပါ</string>
     <string name="item_title_aa_payment">ခွဲပြီးပိုက်ဆံရှင်း</string>
     <string name="item_title_area_conversion">ဧရိယာ</string>
-    <string name="item_title_calculator">ဂဏန်းပေါင်းစက်</string>
+    <string name="item_title_calculator">ဂဏန်းတွက်စက်</string>
     <string name="item_title_currency">ငွေကြေး</string>
     <string name="item_title_dress_size">အဝတ်အရွယ်အစား</string>
     <string name="item_title_length_conversion">အလျား</string>
@@ -103,6 +111,11 @@
     <string name="lgDesc">logarithm</string>
     <string name="ln">ln</string>
     <string name="lnDesc">natural logarithm</string>
+    <string name="loading_fail_message_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ရန် ထိနှိပ်ပါ။</string>
+    <string name="loading_fail_refresh">ရီဖရက်ရှ်လုပ်ပါ</string>
+    <string name="loading_message">အက်ပ် ရယူနေသည်…</string>
+    <string name="loading_slogan">အက်ပ်များအား မထည့်သွင်းဘဲ သုံးစွဲမည်</string>
+    <string name="loading_tips">ဆက်တင်အား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။ ဂဏန်းတွက်စက်အား ပြန်ဖွင့်ပါ။</string>
     <string name="loan_edittext_hint_commercial">ပမာဏအား ရိုက်ထည့်ပါ</string>
     <string name="loan_edittext_hint_commercial_combined">စီးပွားရေး (×10K)</string>
     <string name="loan_edittext_hint_fund">ပမာဏအား ရိုက်ထည့်ပါ</string>
@@ -157,12 +170,13 @@
     <string name="network_confirm_content">ငွေစျေး၊ အခွန်နှင့် ပေါင်နှံငွေများ ပုံမှန်တွက်ချက်နိုင်ရန် အင်တာနက်သို့ ချိန်ဆက်ခွင့်နှင့် တည်နေရာသို့ ဝင်ရောက်ခွင့်များ လိုအပ်ပါသည်။</string>
     <string name="network_confirm_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="not_supported_due_to_language">ဤအင်္ဂါရပ်သည် တရုတ်ဘာသာတွင်သာ ရရှိနိုင်သည်</string>
+    <string name="ok">OK</string>
     <string name="percent" />
     <string name="percentDesc">ရာခိုင်နှုန်း</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">ပေါင်း</string>
     <string name="powerDesc">ပါဝါ</string>
-    <string name="preference_about_calculator">ဂဏန်းပေါင်းစက်အကြောင်း</string>
+    <string name="preference_about_calculator">ဂဏန်းတွက်စက် အကြောင်း</string>
     <string name="preference_alert_follow_qq_group">တုံ့ပြန်အကြံပြုချက်ပေးပို့ရန် QQသို့ ကော်ပီကူးထည့်လိုက်ပါ</string>
     <string name="preference_alert_follow_wechat">လိုက်အားပေးရန် WeChat ထဲသို့ ကော်ပီကူးပြီးကူးထည့်ပါ</string>
     <string name="preference_alert_follow_wechat_button">ကော်ပီကူး</string>
@@ -175,11 +189,14 @@
     <string name="preference_follow_web_title">တရားဝင်ဝက်ဘ်ဆိုက်ဒ်</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_help">Help &amp; feedback</string>
     <string name="preference_other">အခြား</string>
     <string name="preference_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="preference_rating_title">Rate our app</string>
     <string name="preference_settings">ဆက်တင်များ</string>
     <string name="preference_use_degress_summary">ထြိဂိုဖန်ရှင်များအတွက် ထောင့်များအား ရေဒီယန် နှင့် အစားထိုးပါ</string>
     <string name="preference_use_degress_title">အသုံးပြုသော ထောင့်</string>
+    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="radDesc">စက်ဝိုင်း</string>
     <string name="rate_data_provider">အတိုးနှုန်းများအား hexun.com မှ ထောက်ပံ့ထားပါသည်</string>
     <string name="reciprocalDesc">အပြန်အလှန်ဖြစ်သော</string>
@@ -237,6 +254,7 @@
     <string name="tax_location">တည်နေရာ</string>
     <string name="tax_medical">ဆေးနှင့်ဆိုင်သော</string>
     <string name="tax_param_error">မှန်ကန်သော အာမခံကြေးနှုန်းထားအား ရိုက်ထည့်ပါ</string>
+    <string name="tax_rate_provider">ဒေတာများအား hexun.com နှင့် East Money မှ ပံ့ပိုးသည်</string>
     <string name="tax_result_real_get">အခွန်ဆောင်ပြီးနောက်</string>
     <string name="tax_social_insurance">လူမှုအာမခံကြေး</string>
     <string name="tax_thershold_foreign">%s (နိုင်ငံခြားသား)</string>
@@ -250,6 +268,7 @@
     <string name="tax_unemployment">အလုပ်လက်မဲ့မှု</string>
     <string name="tax_update_time_format">HeXun(%s) မှပေးထားသော ဒေတာ</string>
     <string name="times" />
+    <string name="unKnow_error">အမည်မသိ အမှား</string>
     <string name="unit_data_display_area_acre">Acre</string>
     <string name="unit_data_display_area_are">Are</string>
     <string name="unit_data_display_area_ha">ဟက်တာ</string>
@@ -529,6 +548,7 @@
     <string name="unit_year">Y</string>
     <string name="unit_year_format">နှစ် %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="voiceDesc">အသံ ထိန်းချုပ်မှု</string>
     <string name="wf_word_figure">ငွေရေးကြေးရေး လက္ခဏာများ</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -552,8 +572,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် မန်နေဂျာသို့ ချိတ်ဆက်၍ မရပါ၊ အက်ပလီကေးရှင်း စီမံသူတွင် ဒေါင်းလုဒ် မန်နေဂျာ၏ အခြေအနေအား စစ်ကြည့်ပါ။</string>
-    <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မလုံလောက်ပါ၊ SD ကဒ်အား စစ်ဆေးကြည့်ပါ။</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ်များအား ချိတ်ဆက်၍ မရပါ။ ဤအက်ပ်မှ တောင်းဆိုထားသော ခွင့်ပြုချက် အားလုံး ရှိမရှိ ဆက်တင် > ထည့်သွင်းထားသော အက်ပ်များတွင် စစ်ကြည့်ပါ။</string>
+    <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မရရှိပါ။ ကဒ်အား SD စစ်ဆေးပါ။</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
 အရွယ်အစား- %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s

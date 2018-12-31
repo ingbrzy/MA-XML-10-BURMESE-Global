@@ -13,8 +13,8 @@
     <string-array name="alarm_repeat_type">
         <item>တစ်ခါ</item>
         <item>နေ့စဉ်</item>
-        <item>အလုပ်ဆင်းရက်များ</item>
-        <item>အားလပ်ရက်များ</item>
+        <item>တနင်္လာ မှ သောကြာ</item>
+        <item>ပိတ်ရက်</item>
         <item>တနင်္လာမှ သောကြာ</item>
         <item>စိတ်ကြိုက်</item>
     </string-array>
@@ -673,17 +673,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>တတ်နိုင်သ၍ အပြင်မထွက်ပါနှင့်။</item>
-        <item>ယနေ့ လမ်းများ အလွန်ချော်သည်။</item>
-        <item>မုန်တိုင်းရှိနိုင်ပါသည်၊ ဂရုစိုက်ပါ။</item>
-        <item>ယနေ့ မြူထူထပ်မည်၊ သတိနှင့် မောင်းနှင်ပါ။</item>
-        <item>လေထုညစ်ညမ်းနေပါသည်၊ မျက်နှာဖုံး တပ်ပါ။</item>
-        <item>အပြင်ထွက်ပါက ထီးယူသွားပါ။</item>
-        <item>လမ်းပေါ်တွင် သတိထားပါ။</item>
-        <item>ယနေ့ မိုးသီးကြွေနိုင်သည်၊ ဂရုစိုက်ပါ။</item>
-        <item>သဲမုန်တိုင်းလာနေပြီ၊ မျက်နှာဖုံး တပ်ပါ။</item>
-        <item>ကောင်းမွန်သောနေ့လေးတစ်နေ့ ဖြစ်ပါစေ!</item>
     </string-array>
 </resources>

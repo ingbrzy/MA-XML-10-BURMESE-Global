@@ -68,10 +68,10 @@
     <string-array name="default_reminder_labels">
         <item>ပွဲစဉ်အချိန်တွင်</item>
         <item>၅ မိနစ်မတိုင်ခင်က</item>
-        <item>၁၀ မိနစ်မတိုင်ခင်က</item>
-        <item>၁၅ မိနစ်မတိုင်ခင်က</item>
-        <item>မိနစ် ၃၀မတိုင်ခင်က</item>
-        <item>၁ နာရီမတိုင်ခင်က</item>
+        <item>၁၅ မိနစ် မတိုင်မီ</item>
+        <item>မိနစ် ၃၀ မတိုင်မီ</item>
+        <item>၁ နာရီ မတိုင်မီ</item>
+        <item>၄ နာရီ မတိုင်မီ</item>
         <item>၁ရက် မတိုင်ခင်က</item>
         <item>၂ ရက်မတိုင်ခင်က</item>
         <item>၁ ပတ်မတိုင်ခင်က</item>
@@ -80,6 +80,10 @@
         <item>ဤလုပ်ငန်းစဉ်သာ</item>
         <item>ယခုနှင့် နောင်လုပ်ငန်းစဉ်များ</item>
         <item>လုပ်ငန်းစဉ်အားလုံး</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>မေထုန်ရာသီဖွား</item>

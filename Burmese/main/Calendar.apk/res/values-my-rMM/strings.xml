@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">မူလနေရာကို သွားရန်</string>
-    <string name="abc_action_bar_home_description_format">%1$s၊ %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s ၊ %2$s ၊ %3$s</string>
-    <string name="abc_action_bar_up_description">အပေါ်သို့သွားရန်</string>
-    <string name="abc_action_menu_overflow_description">ပိုမိုရွေးချယ်စရာများ</string>
-    <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
-    <string name="abc_activity_chooser_view_see_all">အားလုံးကို ကြည့်ရန်</string>
-    <string name="abc_activitychooserview_choose_application">အက်ပ် တစ်ခုခုကို ရွေးချယ်ပါ</string>
-    <string name="abc_capital_off">ပိတ်</string>
-    <string name="abc_capital_on">ဖွင့်</string>
-    <string name="abc_search_hint">ရှာဖွေပါ...</string>
-    <string name="abc_searchview_description_clear">ရှာစရာ အချက်အလက်များ ဖယ်ရှားရန်</string>
-    <string name="abc_searchview_description_query">ရှာစရာ အချက်အလက်နေရာ</string>
-    <string name="abc_searchview_description_search">ရှာဖွေရန်</string>
-    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို အတည်ပြုရန်</string>
-    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာဖွေခြင်း</string>
-    <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
-    <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="accessibility_add_attendee">တက်ရောက်သူကို ပေါင်းထည့်မည်</string>
     <string name="accessibility_all_day">တစ်နေ့လုံး လုပ်ငန်းစဉ်</string>
     <string name="accessibility_pick_start_date">စတင်သည့်ရက်</string>
@@ -80,6 +60,7 @@
     <string name="can_not_modify_allday_event">တစ်နေ့လုံး လုပ်ငန်းစဉ်ကို ပြောင်းလို့ မရပါ</string>
     <string name="can_not_modify_event">လုပ်ငန်းစဉ်ကို ပြောင်းလို့ မရပါ</string>
     <string name="can_not_modify_repeating_acrossing_days_event">နေ့-အများအပြား၏ လုပ်ငန်းစဉ်ကို ပြောင်းလို့ မရပါ</string>
+    <string name="cancel_reminder">Cancel Reminder</string>
     <string name="card_detail_dialog_message">%1$s သည် နေ့စဉ် အသစ်မွမ်းမံပါလိမ့်မည်။ နေ့စဉ်အသစ်မွမ်းမံမှုများရရှိရန် စာရင်းသွင်းမှာယူပါ။</string>
     <string name="card_detail_dialog_negative">နောက်မှ မှာယူပါ</string>
     <string name="card_detail_dialog_positive">ယခုမှာယူပါ</string>
@@ -131,6 +112,7 @@
     <string name="description_calendar">စနစ်အက်ပ်များ/ပြက္ခဒိန်</string>
     <string name="description_calendar_edit_event">စနစ်အက်ပ်များ/ပြက္ခဒိန်/အစီအစဉ်</string>
     <string name="directory_searching_fmt">%sကို ရှာဖွေနေသည်…</string>
+    <string name="discard_label">ပယ်ဖျက်မည်</string>
     <string name="does_not_repeat">တစ်ခါတည်း လုပ်ငန်းစဉ်</string>
     <string name="edit_date_calculate_days_backward_error_hint">ရှေ့သို့ရေတွက်၍မရနိုင်ပါ</string>
     <string name="edit_date_calculate_days_empty_hint">ရက်အရေအတွက်ရိုက်ထည့်ပါ</string>
@@ -198,6 +180,7 @@
     <string name="fb_calendar_owner_account">Mi ပြက္ခဒိန်</string>
     <string name="festival_detail_title">ပွဲတော်များ</string>
     <string name="file_exception">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
+    <string name="fixtures">Fixtures</string>
     <string name="force_touch_title_add_new_event">ပွဲစဉ်ပေါင်းထည့်ပါ</string>
     <string name="from_google_group_calendar">Google ပြက္ခဒိန်</string>
     <string name="gadget_no_events">လာမည့် ပြက္ခဒိန်လုပ်ငန်းစဉ် မရှိပါ</string>
@@ -207,6 +190,7 @@
     <string name="global_football_final">နောက်ဆုံး</string>
     <string name="global_football_no_match">ယနေ့ ဘောလုံးပွဲမရှိပါ။</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_close">ပိတ်မည်</string>
     <string name="guide_card_import">ထည့်သွင်းမည်</string>
     <string name="guide_card_primary_fb_text">Facebook သူငယ်ချင်းများ၏ မွေးနေ့</string>
     <string name="guide_card_primary_text">သူငယ်ချင်းများ၏မွေးနေ့ကို ထည့်သွင်းမည်</string>
@@ -269,6 +253,7 @@
     <string name="new_event_description">အသစ်</string>
     <string name="new_event_dialog_label">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="new_event_dialog_option">လုပ်ငန်းစဉ်အသစ်</string>
+    <string name="news">News</string>
     <string name="no_contact_birthday_hint">တင်သွင်းရင် မွေးနေ့များမရှိပါ</string>
     <string name="no_events_hint">လုပ်ငန်းစဉ် မရှိပါ။</string>
     <string name="no_internet">အင်တာနက်သို့ ချိတ်ဆက်၍ မရပါ</string>
@@ -364,6 +349,7 @@
     <string name="search_calendar_settings">ပြက္ခဒိန်၊အစီအစဉ်၊သတိပေးသူ</string>
     <string name="select_date">လိုသောနေ့အထိ ကျော်ပါ</string>
     <string name="select_synced_calendars_title">ဆင့်ခ်လုပ်ရန် ပြက္ခဒိန်များ</string>
+    <string name="set_reminder">Set Reminder</string>
     <string name="setting_about_calendar_version">ပြက္ခဒိန်ဗားရှင်း−</string>
     <string name="setting_about_imei">IMEI−</string>
     <string name="setting_about_miui_version">MIUI ဗားရှင်း−</string>
@@ -394,15 +380,16 @@
     <string name="subscribe_channel_hint">"သင်နှစ်သက်ရာဝန်ဆောင်မှုကို မှာယူပြီး အိမ်မျက်နှာပြင်တွင် အသစ်မွမ်းမံမှုများကို နေ့စဉ်ရယူပါ
  အကြောင်းအရာကောင်းများ လက်မလွတ်စေရန် သတိပေးသူကို သတ်မှတ်ထားနိုင်ပါသည်။"</string>
     <string name="subscribe_channel_subscribe">မှာယူ</string>
-    <string name="subscribe_channel_subscribing">မှာယူနေသည်</string>
+    <string name="subscribe_channel_subscribing">မှာယူထားသော</string>
     <string name="subscribe_channel_title">ရုပ်သံလိုင်း</string>
-    <string name="subscribing_card">မှာယူနေသည်</string>
+    <string name="subscribing_card">မှာယူထားသော</string>
     <string name="synced">ဆင့်ခ်လုပ်ထားသည်</string>
     <string name="tab_title_agenda">အစီအစဉ်များ</string>
     <string name="tab_title_day">နေ့ရက်</string>
     <string name="tab_title_month">လ</string>
     <string name="tab_title_week">ရက်သတ္တပတ်</string>
-    <string name="talk_back_read_date">လက်ရှိ နေ့စွဲ- %1$s (တရုတ်ရိုးရာပြက္ခဒိန် အရ- %2$s)။</string>
+    <string name="talk_back_read_date">%1$s (တရုတ်ရိုးရာပြက္ခဒိန် အရ- %2$s)။</string>
+    <string name="talk_back_setting">ဆက်တင်</string>
     <string name="template_announce_item_index">လုပ်ငန်းစဥ် %1$sခု မြောက်၊ စုစုပေါင်း %2$sခု။</string>
     <string name="template_week_num">ရက်သတ္တပတ် %1$s</string>
     <string name="time_zone">ဒေသစံတော်ချိန်</string>
@@ -444,6 +431,7 @@
     <string name="user_notice_button_ok">အိုကေ</string>
     <string name="user_notice_message">ဤထုတ်ကုန်အားအသုံးပြုခြင်းဖြင့်၊ သင်သည် Xiaomi၏%1$sနှင့် %2$s တို့အား သဘောတူပါသည်။ အချို့လုပ်ဆောင်ချက်များသည် အင်တာနက်ချိတ်ဆက်မှု၊ တည်နေရာဆက်သွယ်မှုများအား အသုံးပြုရန် လိုအပ်ပါသည်။</string>
     <string name="user_notice_title">သတိပြုပါ</string>
+    <string name="view_details">View Details</string>
     <string name="view_event_calendar_label">ပြက္ခဒိန်-</string>
     <string name="view_event_organizer_label">တည်ထောင်သူ-</string>
     <string name="view_event_response_label">တက်ရောက်မလား?</string>

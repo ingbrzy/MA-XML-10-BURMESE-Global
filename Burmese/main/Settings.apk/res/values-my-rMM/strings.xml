@@ -16,7 +16,7 @@
     <string name="access_control_no_back_footer">ထွက်ရန် [icon] ကို ထိနှိပ်ပါ</string>
     <string name="access_control_password_title">စကားဝှက်</string>
     <string name="access_control_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
-    <string name="access_control_reset_by_account">စကားဝှက် ပြန်သတ်မှတ်ရန် သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="access_control_reset_by_account">စကားဝှက်အား ပြန်လည်သတ်မှတ်ရန် သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="accessibility_close_tab">လက်ရှိတက်ဘ်ကို ပိတ်မည်</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">ဤအင်္ဂါရပ်သည် စမ်းသပ်နေဆဲဖြစ်သောကြောင့် စွမ်းဆောင်ရည် ကျစေနိုင်သည်။</string>
     <string name="accessibility_display_daltonizer_preference_title">အရောင် အမှားပြင်ချက်</string>
@@ -25,6 +25,8 @@
     <string name="accessibility_no_wifi">Wi-Fi နှင့် ချိတ်ဆက်မှု ပြတ်သွားသည်။</string>
     <string name="accessibility_screen_magnification_enable">ပုံကြီးချဲ့လက်ဟန်များ</string>
     <string name="accessibility_summary_source">%sမှ ပံ့ပိုးသည်</string>
+    <string name="accessibility_summary_state_disabled">ပိတ်မည်</string>
+    <string name="accessibility_summary_state_enabled">ဖွင့်မည်</string>
     <string name="accessibility_vpn_settings_info">VPN စီစဉ်ဖွဲ့စည်းမှု</string>
     <string name="accessibility_wifi_off">Wi-Fi ပိတ်ထားသည်။</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi လိုင်းအား ၁ တုံး။</string>
@@ -50,22 +52,22 @@
     <string name="add_fingerprint_dirty_fingerprint">စခရင် မျက်နှာပြင် သန့်ရှင်းမှု ရှိမရှိ စစ်ဆေးပါ။ ထို့နောက် သင်၏လက်ဗွေအား ပြန်ထည့်သွင်းကြည့်ပါ။</string>
     <string name="add_fingerprint_done_msg">ယခု ဤစက်အား သင်၏လက်ဗွေဖြင့် သော့ဖြည်နိုင်ပါပြီ။</string>
     <string name="add_fingerprint_done_title">စတင်ရန် အသင့်ဖြစ်နေပြီ!</string>
-    <string name="add_fingerprint_edge_instruction_msg">အာရုံခံကိရိယာမှ သင့်လက်ဗွေရာ၏အနားများကို မှတ်တမ်းတင်နိုင်ရန် လက်ချောင်းကို ရွှေ့ပါ။</string>
-    <string name="add_fingerprint_edge_instruction_title">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
+    <string name="add_fingerprint_edge_instruction_msg">အာရုံခံကိရိယာမှ သင့်လက်ဗွေရာ၏ အနားများကို မှတ်တမ်းတင်နိုင်ရန် လက်ချောင်းကို ရွှေ့ပါ။</string>
+    <string name="add_fingerprint_edge_instruction_title">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာ ရွှေ့ပါ</string>
     <string name="add_fingerprint_failed_retry_text">လက်ဗွေအား ပေါင်းထည့်၍ မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="add_fingerprint_finished_button_text">ပြီးပါပြီ</string>
-    <string name="add_fingerprint_instruction_msg">လက်ဗွေအာရုံခံကိရိယာသည် သင့်စက်၏ဟုမ်းခလုတ်တွင် ရှိသည်။</string>
+    <string name="add_fingerprint_instruction_msg">လက်ဗွေအာရုံခံကိရိယာသည် သင့်စက်၏ ဟုမ်းခလုတ်တွင် ရှိသည်။</string>
     <string name="add_fingerprint_instruction_title">သင်၏လက်ဗွေ ပေါင်းထည့်ပါ</string>
     <string name="add_fingerprint_move_fast">လက်ချောင်းအား မျက်နှာပြင်ပေါ်တွင် အနည်းငယ်ကြာအောင် ထားပါ</string>
     <string name="add_fingerprint_name_suggest_text">လက်ဗွေအမည်</string>
     <string name="add_fingerprint_put_finger_edge_msg">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ၊ လက်ဗွေရာ၏အစိတ်အပိုင်းအားလုံးကို ပေါင်းထည့်ရန် အာရုံခံကိရိယာပေါ်တွင် လက်ချောင်းကို ပြန်တင်ပါ။</string>
     <string name="add_fingerprint_put_finger_msg">တုန်ခါမှုရှိသည်အထိ သင်၏လက်ချောင်းအား အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ။</string>
-    <string name="add_fingerprint_put_finger_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
-    <string name="add_fingerprint_similar_fingerprint_input_error_msg">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
+    <string name="add_fingerprint_put_finger_title">လက်ဗွေ ပေါင်းထည့်ပါ</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာ ရွှေ့ပါ</string>
     <string name="add_fingerprint_success_msg">ပေါင်းထည့်ပြီးပါပြီ</string>
-    <string name="add_fingerprint_text">လက်ဗွေ ပေါင်းထည့်မည်</string>
+    <string name="add_fingerprint_text">လက်ဗွေ ပေါင်းထည့်ပါ</string>
     <string name="add_fingerprint_toast_text">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ</string>
-    <string name="add_front_fingerprint_instruction_msg">လက်ဗွေအာရုံခံကိရိယာသည် သင့်ဖုန်း၏ဟုမ်းခလုတ်တွင် ရှိသည်။</string>
+    <string name="add_front_fingerprint_instruction_msg">လက်ဗွေ အာရုံခံကိရိယာသည် သင့်ဖုန်း၏ ဟုမ်းခလုတ်တွင် ရှိသည်။</string>
     <string name="add_new">ပေါင်းထည့်မည်</string>
     <string name="add_rule">စည်းမျဉ်းများ ပေါင်းထည့်မည်</string>
     <string name="additional_system_update_settings_list_item_title">နောက်ထပ် စက်စနစ်အသစ်မွမ်းမံများ</string>
@@ -375,6 +377,7 @@
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
     <string name="bootloader_tips">Mi အကောင့်အား ပေါင်းထည့်ပြီးနောက် ဆိုင်းအောက်မလုပ်ပါနှင့်၊ စက်ရုံထုတ် အနေအထားသို့ ပြန်မသတ်မှတ်ပါနှင့်၊ စနစ် အက်ပ်ဒေတာများအား မရှင်းပစ်ပါနှင့်။ အထက်ပါ လုပ်ဆောင်ချက်များအား လုပ်ဆောင်မိပါက အကောင့်ကို ပြန်ပေါင်းထည့်ရမည်၊ သို့မဟုတ်ပါက သင်၏စက်အား လော့ခ်ဖြည်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="bootloader_tips_ok">နားလည်ပါပြီ</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးခြင်းအသစ်ရချိန်တွင် အလင်းရောင်</string>
     <string name="breathing_light_freq_summary">အသိပေးခြင်းအသစ်ရှိချိန်တွင် ပိုသိသာစေသည်</string>
@@ -640,6 +643,7 @@
     <string name="dialog_title_hdmi_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
     <string name="dialog_title_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="dialog_yes">ဟုတ်ပါတယ်</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">မှတ်ချက်- ဤကီးဘုတ်အား ဖုန်းပိတ်၍ပြန်စပြီးမှသာ အသုံးပြုနိုင်ပါမည်။</string>
     <string name="disable_overlays">HW ထပ်ဆင့်လွှာအား ပိတ်မည်</string>
     <string name="disable_overlays_summary">မျက်နှာပြင်ပေါင်းစပ်ရန် GPU ကို အမြဲတမ်းသုံးမည်</string>
@@ -666,6 +670,7 @@
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -886,8 +891,8 @@
     <string name="forget_password_button_text"><u>စကားဝှက် မေ့နေသည်</u></string>
     <string name="forget_password_dialog_button_text">နောက်သို့</string>
     <string name="forget_password_dialog_content_four"><Data>၂။ &lt;font color=#e6e6e6>[Wipe data]&lt;/font>အား ရွေးပါ၊ ထို့နောက် စက်ပိတ်၍ ပြန်ဖွင့်သည်အထိ စောင့်ပါ။</Data></string>
-    <string name="forget_password_dialog_content_one"><Data>သင်၏စကားဝှက်အား မေ့သွားပါက ပြန်လည်ရယူ၍ မရတော့ပါ။ သို့သော် &lt;font color=#ec2700>စက်ထဲရှိ ဒေတာအားလုံးကို ဖျက်ပြီးလျှင်&lt;/font> စကားဝှက်အား ပြန်လည်သတ်မှတ်နိုင်ပါသည် (ဓာတ်ပုံ၊ အဆက်အသွယ်စသည်တို့ အပါအဝင်)။အရေးကြီးသော ဒေတာအားလုံးကို အရန်သိမ်းပါ။</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"၁။ စက်အား ပိတ်ပါ။ &lt;font color=#e6e6e6>[Power]&lt;/font>ခလုတ်နှင့် &lt;font color=#e6e6e6>[အသံ+]&lt;/font>ခလုတ်အား တစ်ပြိုင်တည်း ဖိပြီး &lt;img src=''>အိုင်ကွန် တွေ့သည်အထိ နှိပ်ထားပါ။"</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>သင်၏စကားဝှက်အား မေ့သွားပါက ပြန်လည်ရယူ၍ မရတော့ပါ။ သို့သော်&lt;font color=#ec2700> စက်ထဲရှိ ဒေတာအားလုံးကို ဖျက်ပြီးလျှင်&lt;/font> စကားဝှက်အား ပြန်လည်သတ်မှတ်နိုင်ပါသည် (ဓာတ်ပုံ၊ အဆက်အသွယ်စသည်တို့ အပါအဝင်)။အရေးကြီးသော ဒေတာအားလုံးကို အရန်သိမ်းပါ။</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"၁။ စက်အား ပိတ်ပါ။ &lt;font color=#e6e6e6>[ပါဝါ]&lt;/font>ခလုတ်နှင့် &lt;font color=#e6e6e6>[အသံ+]&lt;/font>ခလုတ်အား တစ်ပြိုင်တည်း ဖိပြီး &lt;img src=''>အိုင်ကွန် တွေ့သည်အထိ နှိပ်ထားပါ။"</Data></string>
     <string name="forget_password_dialog_content_two">ဒေတာဖျက်ရန် အောက်ပါအတိုင်း လုပ်ဆောင်ပါ-</string>
     <string name="forget_password_dialog_title">စကားဝှက်အား ပြန်လည်သတ်မှတ်ပါ</string>
     <string name="forget_pattern"><u>သော့ဖွင့်ပုံစံအား မေ့သွားပါသလား</u></string>
@@ -936,14 +941,14 @@
     <string name="google_title">Google</string>
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gsm_to_wifi_connect_type_title">GSM မှ Wi-Fi သို့</string>
-    <string name="gxzw_add_fingerprint_continue">ဆက်လက်မည်</string>
+    <string name="gxzw_add_fingerprint_continue">ဆက်လုပ်ရန်</string>
     <string name="gxzw_add_fingerprint_edge_message">လက်ဗွေရာ၏အနားများကို မှတ်တမ်းတင်နိုင်ရန် သင့်လက်ချောင်းကို ရွှေ့ပါ</string>
     <string name="gxzw_add_fingerprint_edge_title">လက်ချောင်းကို ချိန်ညှိပါ</string>
     <string name="gxzw_add_fingerprint_finish">ပြီးပါပြီ။</string>
     <string name="gxzw_add_fingerprint_indicate">ဤနေရာအား ညင်သာစွာ ဖိပါ</string>
     <string name="gxzw_add_fingerprint_know">နားလည်ပါပြီ</string>
     <string name="gxzw_add_fingerprint_message">သင်၏လက်ချောင်းနှင့် မျက်နှာပြင် နှစ်ခုစလုံးအား သန့်ရှင်းစေပါ</string>
-    <string name="gxzw_add_fingerprint_move_indicate">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
+    <string name="gxzw_add_fingerprint_move_indicate">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာ ရွှေ့ပါ</string>
     <string name="gxzw_add_fingerprint_move_message">လက်ဗွေရာကို မှတ်တမ်းတင်နိုင်ရန် သင့်လက်ချောင်းကို ရွှေ့ပါ</string>
     <string name="gxzw_add_fingerprint_move_title">သင့်လက်ချောင်းအား အနည်းငယ် ရွှေ့ပါ</string>
     <string name="gxzw_add_fingerprint_put_finger_message">မျက်နှာပြင်ကို ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ။ ထပ်ခါလုပ်ပါ။</string>
@@ -953,6 +958,7 @@
     <string name="gxzw_anim_metal">မက်တယ်လ်</string>
     <string name="gxzw_anim_pulse">သွေးခုန်နှုန်း</string>
     <string name="gxzw_anim_rhythm">စည်းချက်</string>
+    <string name="gxzw_anim_star">ကြယ် အလင်း</string>
     <string name="gxzw_anim_title">လက်ဗွေ အန်နီမေးရှင်း</string>
     <string name="gxzw_dialog_message">စခရင် လက်ဗွေအာရုံခံကိရိယာ ပုံမှန် အလုပ်လုပ်နိုင်ရန် ဖုန်းစခရင်ကပ်မှန်အား မသုံးပါနှင့်။ သုံးမည်ဆိုပါက တရားဝင် ဖုန်းကပ်မှန်များကိုသာ ရွေးချယ်ပါ။</string>
     <string name="gxzw_dialog_not_show_again">ထပ်မပြပါနှင့်</string>
@@ -1039,7 +1045,7 @@
     <string name="keyboard_and_input_methods_category">ကီးဘုတ်</string>
     <string name="keyboard_settings_category">စာရိုက်ထည့်နည်း</string>
     <string name="keyguard_advance_setting_title">အဆင့်မြင့် ဆက်တင်များ</string>
-    <string name="keyguard_notification_status_title">အသိပေးချက်များ</string>
+    <string name="keyguard_notification_status_title">မျက်နှာပြင် ပိတ်ထားစဥ် အသိပေးချက်များ ရှိပါက</string>
     <string name="keyguard_security_setting_others">အခြား</string>
     <string name="keyguard_security_setting_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="keywords_airplane">လေယာဉ်ပျံ၊လေယာဉ်မုဒ်၊လေယာဉ်၊ လေယာဉ်မုတ်၊ဖလိုက်၊ပျံသန်းမှုမုဒ်</string>
@@ -1135,6 +1141,8 @@
     <string name="location_neighborhood_level">သင့်တည်နေရာကို မှန်းဆရန် Wi-Fiနှင့် မိုဘိုင်းလ်ကွန်ရက်မှဒေတာကို အက်ပ်စ်အားပေးသုံးပါ</string>
     <string name="location_neighborhood_level_wifi">Wi-Fiမှဆုံးဖြတ်ပေးသော တည်နေရာ</string>
     <string name="location_network_based">Wi-Fi &amp;နှင့် မိုဘိုင်းလ်ကွန်ရက်</string>
+    <string name="location_off_summary">ပိတ်မည်</string>
+    <string name="location_on_summary">ဖွင့်မည် / %1$s</string>
     <string name="lock_screen_notifications_summary_hide">အသိပေးချက်များအားလုံးကို ပြသပါ၊ အဆက်အသွယ်များကိုကွယ်ဝှက်ပါ</string>
     <string name="lock_screen_notifications_summary_show">အသိပေးချက်များအားလုံးနှ င့်သူတို့၏အဆက်အသွယ်များကို ပြသပါ</string>
     <string name="lock_screen_signature_summary">ဤမက်ဆေ့ချ်အား သော့ခတ်မျက်နှာပြင်ပေါ်တွင် ပြသလိမ့်မည်</string>
@@ -1187,15 +1195,15 @@
     <string name="lockpattern_continue_button_text">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="lockpattern_need_to_confirm">သော့ဖွင့်ပုံစံကို အတည်ပြုရန် နောက်တစ်ကြိမ်ထပ်ဆွဲပါ-</string>
     <string name="lockpattern_need_to_unlock_wrong">ပြန်ကြိုးစားကြည့်ပါ-</string>
-    <string name="lockpattern_pattern_confirmed_header">သော့ဖွင့်ပုံစံအသစ်-</string>
+    <string name="lockpattern_pattern_confirmed_header">သော့ဖွင့်ပုံစံ အသစ်-</string>
     <string name="lockpattern_pattern_entered_header">သော့ဖွင့်ပုံစံအား မှတ်ထားပါပြီ</string>
     <string name="lockpattern_pattern_same_with_others">အခြားနေရာမှ စကားဝှက်နှင့် တူ၍မရပါ</string>
     <string name="lockpattern_pattern_same_with_owner">ပထမနေရာအတွက် စကားဝှက်နှင့် တူ၍မရပါ</string>
     <string name="lockpattern_pattern_same_with_security_space">ဒုတိယနေရာအတွက် စကားဝှက်နှင့် တူ၍မရပါ</string>
-    <string name="lockpattern_recording_inprogress">ပြီးစီးပါက လက်ချောင်းကို လွတ်လိုက်ပါ</string>
+    <string name="lockpattern_recording_inprogress">ပြီးစီးပါက လက်ချောင်းအား ဖယ်လိုက်ပါ</string>
     <string name="lockpattern_recording_intro_footer">အကူအညီအတွက် မီနူးအား ထိနှိပ်ပါ။</string>
     <string name="lockpattern_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ-</string>
-    <string name="lockpattern_recording_intro_header_second_space">ဒုတိယနေရာအတွက် သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ−</string>
+    <string name="lockpattern_recording_intro_header_second_space">ဒုတိယနေရာအတွက် သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ-</string>
     <string name="lockpattern_restart_button_text">နောက်တစ်ကြိမ် ပြန်ဆွဲပါ</string>
     <string name="lockpattern_retry_button_text">ရှင်းပစ်မည်</string>
     <string name="lockpattern_settings_change_lock_pattern">သော့ဖွင့်ပုံစံအား ပြောင်းမည်</string>
@@ -1491,6 +1499,7 @@
     <string name="network_control">အက်ပ်ဆက်တင်များကို ကြည့်ရှုရန်</string>
     <string name="network_detail">%s ကွန်ရက်အသေးစိတ်များ</string>
     <string name="network_error">ကွန်ရက်အမှားယွင်း</string>
+    <string name="network_name_input_error">SSID အား သိမ်းဆည်း၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="network_settings_title">မိုဘိုင်းကွန်ရက်များ</string>
     <string name="network_speed_for_apps_close">မည်သို့မဆို ရပ်ဆိုင်းပါ</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">ဤအက်ပ်အား မည်သို့မဆို ရပ်ဆိုင်းမလား?</string>
@@ -1805,6 +1814,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
@@ -2148,6 +2158,7 @@
     <string name="security_encryption_attention_3">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ် သတ်မှတ်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="security_encryption_attention_4">သင့်သော့ခတ်မျက်နှာပြင်စကားဝှက်အား မမေ့ပါနှင့်၊ သို့မဟုတ်ပါက စက်အား အစအဆုံးပြန်သတ်မှတ်ရန် လိုအပ်ပြီး ဒေတာအားလုံး ဆုံးရှုံးနိုင်ပါသည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">သော့ခတ်မျက်နှာပြင်စကားဝှက်ဖြင့် စက်အားကုဒ်မဖွဲ့ရန် ရွေးချယ်ခြင်းသည် Google ဝန်ဆောင်မှုများအား အသုံးပြု၍မရနိုင်ဘဲ ဖြစ်နိုင်ပါသည်။</string>
     <string name="security_encryption_close_dialog_title">မူလစကားဝှက်ကာကွယ်မှု သို့ပြန်သွားပါ</string>
@@ -2159,7 +2170,7 @@
     <string name="security_encryption_title">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသုံးပြုပြီး စက်အားကုဒ်ဖွဲ့ပါ</string>
     <string name="security_input">လုံခြုံရေး ကီးဘုတ်</string>
     <string name="security_input_hint">စကားဝှက်များ ရိုက်ထည့်သောအခါ လုံခြုံရေး ကီးဘုတ်အား သုံးပါ</string>
-    <string name="security_keyguard_category_name">သော့ခတ်မျက်နှာပြင်</string>
+    <string name="security_keyguard_category_name">သော့ခတ် မျက်နှာပြင်</string>
     <string name="security_password_category_name">မျက်နှာပြင်လော့ခ်</string>
     <string name="security_privacy_settings_title">ကိုယ်ရေးလုံခြုံမှု</string>
     <string name="security_relative">လုံခြုံရေး</string>
@@ -2179,6 +2190,8 @@
     <string name="select_webview_provider_toast_text">ဤရွေးချယ်မှုသည် တရားမဝင်တော့ပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="service_manage">ဖွဲ့စည်းပုံ</string>
     <string name="service_stop_description">အက်ပ်စ်သည် လုပ်ဆောင်ခြင်းဝန်ဆောင်မှုကို စတင်ပြီးပါပြီ။ ရပ်လိုက်ပါက အမှားယွင်းများဖြစ်လာနိုင်ပါသည်။</string>
+    <string name="set_jeejen_prompt_message">Jeejen အား မူလ စဖွင့်သူ အဖြစ် သတ်မှတ်လိုက်သည်။ မူလ စဖွင့်သူအား ဆက်တင် > စနစ် ဆက်တင် > ပင်မ မျက်နှာပြင် &amp; မကြာသေးမီက > မူလ စဖွင့်သူတွင် ပြောင်းနိုင်သည်။</string>
+    <string name="set_jeejen_prompt_title">ပြောင်းလဲရန် အတည်ပြုသည်</string>
     <string name="setting_privacy_password">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက် သတ်မှတ်မည်</string>
     <string name="settings_ad_loading">လုပ်ဆောင်နေသည်…</string>
     <string name="settings_ad_loading_unavailable">အချက်အလက်ကို လုဒ်မတင်နိုင်ခဲ့ပါ။</string>
@@ -2249,6 +2262,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
@@ -2266,7 +2280,7 @@
     <string name="sos_privacy_and_content_policy">အသုံးပြုသူ သဘောတူညီမှု နှင့် ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="sos_privacy_dialog_button_cancel">ပယ်ဖျက်မည်</string>
     <string name="sos_privacy_dialog_button_ok">သဘောတူပါသည်</string>
-    <string name="sos_privacy_dialog_message">"ဤအင်္ဂါရပ်အား မသုံးမီ ကျွန်ုပ်တို့၏ %s အား ဖတ်ရှုပြီး သဘောတူပါ။r
+    <string name="sos_privacy_dialog_message">"ဤအင်္ဂါရပ်အား မသုံးမီ ကျွန်ုပ်တို့၏ %s အား ဖတ်ရှုပြီး သဘောတူပါ။
 ဤအင်္ဂါရပ်သည် သင်၏တည်နေရာသို့ ဝင်ရောက်ခွင့်၊ မိုဘိုင်းကွန်ရက်များ သုံးစွဲခွင့်နှင့် သင်၏ အဆက်အသွယ်များအား ဖတ်ယူခွင့်တို့ လိုအပ်ပါသည်။ သဘောတူပါသလား?"</string>
     <string name="sos_privacy_dialog_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="sound_category_call_ringtone_vibrate_title">ဖုန်းမြည်သံ &amp; အသိပေးချက် အသံများ</string>
@@ -2299,6 +2313,7 @@
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="status_bar_settings_app_notification_preferences">အက်ပ် ဆက်တင်များ</string>
     <string name="status_bar_settings_basic_settings">အခြေခံ ဆက်တင်များ</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_customer_feedback">တုံ့ပြန်အကြံပြုချက်</string>
@@ -2496,8 +2511,9 @@
     <string name="turn_off_keyguard_password_alert_title">ပိတ်မည်</string>
     <string name="turn_off_keyguard_password_confirm_msg">အချို့လုံခြုံရေး လုပ်ဆောင်ချက်များသည် သင့်စကားဝှက်မပါဘဲ အလုပ်လုပ်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="turn_off_keyguard_password_wait_dialog">စကားဝှက်ကို ပိတ်နေသည်…</string>
+    <string name="turn_off_keyguard_password_with_face_confirm_msg">သင့်ဖုန်း၏ သော့ခတ်မျက်နှာပြင် စကားဝှက်ကို ပိတ်ပြီးနောက် မှတ်တမ်းတင်ထားသော မျက်နှာဒေတာများကို ဖျက်ပစ်လိမ့်မည်။ စက်အား မျက်နှာဒေတာဖြင့် သော့ဖွင့်နိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">စကားဝှက်ပိတ်ပြီးနောက် သင့်စက်အား လက်ဗွေသုံးပြီး ဖွင့်၍ရနိုင်လိမ့်မည် မဟုတ်ပါ။</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">သင့်ဖုန်း၏သော့ခတ်မျက်နှာပြင် စကားဝှက်ကို ပိတ်ပြီးနောက် မှတ်တမ်းတင်ထားသော လက်ဗွေများကို ဖျက်ပစ်လိမ့်မည်။ စက်အား သင့်လက်ဗွေသုံးပြီး သော့ဖွင့်နိုင်တော့မည် မဟုတ်ပါ။</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">သင့်ဖုန်း၏ သော့ခတ်မျက်နှာပြင် စကားဝှက်ကို ပိတ်ပြီးနောက် မှတ်တမ်းတင်ထားသော လက်ဗွေနှင့် မျက်နှာဒေတာများကို ဖျက်ပစ်လိမ့်မည်။ စက်အား မျက်နှာဒေတာ သို့မဟုတ် လက်ဗွေဖြင့် သော့ဖွင့်နိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="turn_off_security_lock">လော့ခ်ကိုပိတ်မည်</string>
     <string name="turn_on_keyguard_password">သော့ခတ်မျက်နှာပြင် စကားဝှက်အားဖွင့်ပါ</string>
     <string name="turn_on_keyguard_password_alert">သင်၏စကားဝှက်ကို သေချာမှတ်ထားပါ။ စကားဝှက်မေ့သွားလျှင် ပြန်လည်ရယူနိုင်တော့မည်မဟုတ်။</string>
@@ -2534,7 +2550,7 @@
     <string name="unlock_set_unlock_mode_password">စကားဝှက်</string>
     <string name="unlock_set_unlock_mode_pin">ပင်</string>
     <string name="unlock_set_unlock_none_title">လုံးဝမလုပ်</string>
-    <string name="unlock_set_unlock_password_none">မရှိပါ</string>
+    <string name="unlock_set_unlock_password_none">မရှိ</string>
     <string name="unlock_set_unlock_password_summary">ဖုန်းအား သော့ဖြည်ရန် စာလုံး၊နံပါတ် ၄ လုံး သို့မဟုတ် ၄ လုံးနှင့်အထက် ရိုက်ထည့်ပါ</string>
     <string name="unlock_set_unlock_password_title">စကားဝှက်</string>
     <string name="unlock_set_unlock_pattern_summary">ဖုန်းအား သော့ဖြည်ရန် ရိုးရှင်းသော သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ</string>
@@ -2818,9 +2834,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2935,6 +2953,9 @@
     <string name="wireless_off">ပိတ်</string>
     <string name="wireless_on">ဖွင့်</string>
     <string name="words_title">စာသား</string>
+    <string name="work_sound_permission_dialog_button_text_known">နားလည်ပါပြီ</string>
+    <string name="work_sound_permission_dialog_message">လုပ်ငန်းမုဒ်အောက်တွင် သင်းမ် အား အသုံးပြု၍ မရပါ။ သက်ဆိုင်ရာ တာဝန်ရှိထံ ဆက်သွယ်၍ ဝင်ရောက်ခွင့် ရယူပါ။</string>
+    <string name="work_sound_permission_dialog_title">လုပ်ငန်းမုဒ် ကန့်သတ်ချက်များ</string>
     <string name="work_space_delete">အလုပ်နေရာအား ဖျက်ပစ်ပါ</string>
     <string name="work_space_delete_confirm">ယခု ဖျက်ပါ</string>
     <string name="work_space_delete_description">သင်ဖျက်လိုက်ပြီးနောက် အလုပ်နေရာသို့ ဝင်ရောက်၍ ရနိုင်လိမ့်မည်မဟုတ်ပါ။ ဒေတာအားလုံးအား ရွေ့လိုက်လိမ့်မည် သို့မဟုတ် ဖျက်ပစ်လိမ့်မည်။</string>
