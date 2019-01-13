@@ -205,6 +205,9 @@
     <string name="change_to_face_mode">မျက်နှာကိုသာပြပါ</string>
     <string name="change_to_photo_mode">ကြိုတင်ကြည့်ရှုမှုများအပြည့်ပြသပါ</string>
     <string name="change_to_visible">ဤပုဂ္ဂိုလ်ကို ပြန်ရယူမည်လား?</string>
+    <string name="channel_default_name">အင်္ဂါရပ် အသစ်များ</string>
+    <string name="channel_low_name">မက်ဆေ့ချ် အသစ်များ</string>
+    <string name="channel_min_name">အက်ပ် အသိပေးချက်များ</string>
     <string name="checked">ရွေးထားသော</string>
     <string name="checked_something">%s ရွေးထားသည်</string>
     <string name="choose_baby_sexy">ကျားမလိင်</string>
@@ -484,6 +487,7 @@
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_to_pick_email">ဘောင်မဝင်သော အီးမေးလ် လိပ်စာ</string>
     <string name="fail_to_sync_album">အယ်လ်ဘမ်ကို ဆင့်ခ်လုပ်လို့မရနိုင်ပါ။ သင့်ရဲ့ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
@@ -494,17 +498,19 @@
     <string name="feature_guidance_photo_effects">"ဓာတ်ပုံဖန်တီးချက် အသစ်အား 
 မရနိုင်ပါ"</string>
     <string name="feature_guidance_video_editor_smart_effects">ဖန်တီးချက် အသစ် ရယူနိုင်ပြီ</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
+    <string name="filter_bi_bw">အဖြူအမဲ</string>
+    <string name="filter_bi_dusk">ဆည်းဆာ</string>
+    <string name="filter_bi_lilt">လစ်တ်</string>
     <string name="filter_bi_memory">အမှတ်တရ</string>
-    <string name="filter_bi_mono">မိုနို</string>
     <string name="filter_bi_pink">ပန်းရောင်</string>
-    <string name="filter_bi_portrait">လူပုံ</string>
     <string name="filter_bi_retro">ရှေးဖက်ရှင်</string>
     <string name="filter_bi_romantic">ရင်ခုန်စရာ</string>
+    <string name="filter_bi_sepia">နီညိုရောင်</string>
     <string name="filter_bi_strong">ပြင်းထန်သော</string>
     <string name="filter_bi_sunny">နေသာသော</string>
-    <string name="filter_bi_sweet">ချိုမြမြ</string>
+    <string name="filter_bi_tea">လက်ဖက်ရည်</string>
     <string name="filter_bi_warm">နွေးထွေးသော</string>
-    <string name="filter_bi_young">လူငယ်ဆန်ဆန်</string>
     <string name="filter_category_film">ဖလင်</string>
     <string name="filter_category_food">အစားအစာ</string>
     <string name="filter_category_master">မာစတာ</string>
@@ -564,6 +570,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
@@ -676,6 +683,7 @@
     <string name="more_album_hint">၊ စသည်ဖြင့်</string>
     <string name="more_face">ပုံစံတူလူပုဂ္ဂိုလ်များ</string>
     <string name="more_face_album_name">လူများပို၍</string>
+    <string name="motion_photo_play">Play</string>
     <string name="move_to_other_albums_tip">ဤအယ်လ်ဘမ်ကို အခြားအယ်လ်ဘမ်သို့ ရွေ့မည်လား?</string>
     <string name="movie_add_disable">ဓါတ်ပုံ အပုံ ၂၀ အထိ အများဆုံး ရွေးချယ်နိုင်ပါသည်</string>
     <string name="movie_audio_custom">အတွင်းပိုင်း</string>
@@ -688,6 +696,10 @@
     <string name="movie_audio_sport">နည်းပညာ</string>
     <string name="movie_cancel_download">ပယ်ဖျက်မည်</string>
     <string name="movie_change_to_long_video">ဓာတ်ပုံ ၅ ပုံနှင့်အထက် ရွေးထားသည်။ ဗီဒီယိုရှည်သို့ ပြောင်းပါ။</string>
+    <string name="movie_content_describe_add">ဓါတ်ပုံများ ပေါင်းထည့်မည်</string>
+    <string name="movie_content_describe_delete">ဓာတ်ပုံများအား ဖျက်ပစ်မည်</string>
+    <string name="movie_content_describe_pause">ခေတ္တရပ်ဆိုင်းပါ</string>
+    <string name="movie_content_describe_play">ဖွင့်ပါ</string>
     <string name="movie_delete_disable">ဓာတ်ပုံရုပ်ရှင် ဖန်တီးရန် အနည်းဆုံး ဓာတ်ပုံ ၃ ပုံ လိုအပ်ပါသည်။</string>
     <string name="movie_download">ဒေါင်းလုဒ် လုပ်မည်</string>
     <string name="movie_download_failed">ဒေါင်းလုဒ်လုပ်၍ မရခဲ့ပါ</string>
@@ -806,6 +818,7 @@
     <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">အိမ်မွေးတိရိစ္ဆာန်　ဓါတ်ပုံများ</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">ဓာတ်ပုံများ</string>
@@ -877,6 +890,8 @@
     <string name="photo_editor_talkback_redo">ပြန်လုပ်မည်</string>
     <string name="photo_editor_talkback_undo">နောက်ပြန်ဆုတ်မည်</string>
     <string name="photo_editor_text">စာသား</string>
+    <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
+    <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_movie_module_finish">ဓာတ်ပုံဗီဒီယိုအား လုဒ်တင်ပြီးပါပြီ</string>
     <string name="photo_movie_module_loading">ဓာတ်ပုံဗီဒီယိုအား လုဒ်တင်နေသည်…</string>
     <string name="photo_movie_select_image_range">ဓာတ်ပုံဗီဒီယိုတွင် ဓာတ်ပုံ ၃ပုံ မှ အပုံ ၂၀ အထိ ထည့်နိုင်သည်</string>
@@ -1036,6 +1051,9 @@
     <string name="search_title_recommend">အကြံပြုထားသော</string>
     <string name="search_title_suggestion">အကြံပြုချက်များ</string>
     <string name="search_title_tag">အရာပစ္စည်းများ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">ပရိုဂျက်တာကို ရှာနေသည်…</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
@@ -1322,6 +1340,7 @@
     <string name="view_face_album">အယ်လ်ဘမ်ကို ကြည့်ပါ</string>
     <string name="view_more_face_desc">နောက်ထပ်လူများ ပြပါ</string>
     <string name="voice_assistant">အသံလက်ထောက်</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Mi ကလောက် မှ ကြိုဆိုပါ၏</string>
     <string name="where_is_barcode">QR ကုဒ်ဘယ်မှာလဲ?</string>
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>
@@ -1329,9 +1348,9 @@
     <string name="yes">ဟုတ်သည်</string>
     <string name="yesterday">မနေ့က</string>
     <string name="you_are">သင်သည် ကလေးငယ်၏</string>
-    <string name="channel_default_name">အင်္ဂါရပ် အသစ်များ</string>
-    <string name="channel_low_name">မက်ဆေ့ချ် အသစ်များ</string>
-    <string name="channel_min_name">အက်ပ် အသိပေးချက်များ</string>
+    <string name="month_view_tip_button_text">နားလည်ပါပြီ</string>
+    <string name="month_view_tip_sub_title">တစ်လ အမြင်သို့ ပြောင်းရန် လက်နှစ်ချောင်းဖြင့် ဖိပါ</string>
+    <string name="month_view_tip_title">တစ်လ အမြင်</string>
     <string name="photomovie_audio_custom">အတွင်းပိုင်း</string>
     <string name="photomovie_audio_default">အမှတ်တရ</string>
     <string name="photomovie_audio_kawaii">ရင်ခုန်စရာ</string>
@@ -1378,4 +1397,6 @@
     <string name="refocus_title">မှုန်ဝါး</string>
     <string name="refocus_type_static">မှုန်ဝါးမှု အဆင့်</string>
     <string name="refocus_type_video">အလင်းရောင် အစက်အပြောက်</string>
+    <string name="text_tab_bubble">Bubbles</string>
+    <string name="text_tab_watermark">Watermarks</string>
 </resources>

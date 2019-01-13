@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_title">အကြောင်း</string>
     <string name="access_sd_fail">SD ကဒ်ကို ရယူသုံးစွဲ၍ မရပါ။</string>
     <string name="accessibility_shutter_button">ရှတ္တာ</string>
+    <string name="action_search">ရှာဖွေပါ</string>
     <string name="address">လိပ်စာ−</string>
     <string name="agree_btn">သဘောတူပါသည်</string>
     <string name="amazon_assistant_shopping_title">Amazon တွင် ရှာမည်</string>
@@ -14,6 +16,7 @@
     <string name="birthday">မွေးနေ့−</string>
     <string name="blog">Weibo</string>
     <string name="business_card">လိပ်စာကဒ်</string>
+    <string name="business_card_result_title">လိပ်စာကဒ်</string>
     <string name="business_card_title">လိပ်စာကဒ်အား ဖရိန်အတွင်း ဝင်အောင်ထားပါ</string>
     <string name="business_copy">ကော်ပီကူးပါ</string>
     <string name="business_new_contacts">အဆက်အသွယ် အသစ် ဖန်တီးမည်</string>
@@ -22,8 +25,10 @@
     <string name="call_anyone">ဖုန်းခေါ်မည်</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
     <string name="cancel">ပယ်ဖျက်</string>
+    <string name="choose_pay_title">ငွေပေးချေမှု နည်းလမ်း ရွေးပါ</string>
     <string name="choose_picture">QR ကုဒ်ပုံအား ရွေးချယ်ပါ</string>
     <string name="common_retake_picture">ပြန်ရိုက်</string>
+    <string name="common_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="common_save">သိမ်းဆည်း</string>
     <string name="company">ကုမ္ပဏီ−</string>
     <string name="confirm">အိုကေ</string>
@@ -35,6 +40,7 @@
     <string name="copy_text_success">စာသားကို ကော်ပီကူးထားသည်</string>
     <string name="crop_cancel_description">ဖျက်သိမ်းပါ</string>
     <string name="crop_done_description">ပြီးပြီ</string>
+    <string name="crop_title_study">ဓာတ်ပုံ ဖြတ်ထုတ်ပါ</string>
     <string name="crop_title_translation">ဘာသာပြန်ရန် စာသားအား ရွေးချယ်ပါ</string>
     <string name="document_color_picture">အရောင်များ</string>
     <string name="document_color_picture_tip">အရောင်များသို့ ပြောင်းလဲနေ…</string>
@@ -59,9 +65,11 @@
     <string name="email">အီးမေးလ်-</string>
     <string name="error_camera_disabled">လုံခြုံရေးအကြောင်းပြချက်ကြောင့် ကင်မရာသို့ဝင်ရောက်မှုအား ပယ်ချလိုက်သည်</string>
     <string name="error_cannot_connect_camera">ကင်မရာသို့ ချိတ်ဆက်လို့ မရပါ</string>
+    <string name="error_empty_result">အဖြေ မတွေ့ပါ</string>
     <string name="error_get_image">ပုံမရပါ</string>
     <string name="error_media_storage_failure">ဓါတ်ပုံအား မသိမ်းဆည်းနိုင်ခဲ့ပါ</string>
     <string name="error_permissions">စကန်နာသည် ပုံမှန်အလုပ်လုပ်ဆောင်ရန် လိုအပ်သော ခွင့်ပြုချက်မရှိပါ။ ဆက်တင်များသို့သွား၍ ခွင့်ပြုချက်များအား စစ်ဆေးကြည့်ပါ။</string>
+    <string name="error_server_error">ဆာဗာ အမှား</string>
     <string name="fax">ဖက်စ်</string>
     <string name="feed_search_fail">ရလဒ်မရှိပါ၊ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="feedback_description_camera_access">ကင်မရာသို့ ချိတ်ဆက်လို့ မရပါ</string>
@@ -94,12 +102,14 @@
     <string name="module_title_document">စာရွက်စာတမ်း</string>
     <string name="module_title_plant">အပင်</string>
     <string name="module_title_shopping">ဈေးဝယ်</string>
+    <string name="module_title_study">သင်ကြားလေ့လာ</string>
     <string name="module_title_translation">ဘာသာပြန်ဆို</string>
     <string name="name">အမည်−</string>
     <string name="new_schedule">အချိန်ဇယား အသစ် ဖန်တီးမည်</string>
     <string name="nickname">အမည်ပြောင်−</string>
     <string name="no_network">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="no_storage">အတွင်းသိုလှောင်မှု မရှိ</string>
+    <string name="no_support_to_translate_type">ဤဘာသာစကားကို မပံ့ပိုးထားပါ</string>
     <string name="not_insert_contact">အဆက်အသွယ် ထည့်လို့မရပါ</string>
     <string name="not_recommend_access_web_url">အမည်သို့မဆိုသွားပါ</string>
     <string name="note">မှတ်ချက်−</string>
@@ -118,18 +128,32 @@
     <string name="recognize">စကန်</string>
     <string name="recognize_fail">ကုဒ်ဖတ်လို့ မရပါ</string>
     <string name="scan_result">ရလဒ်</string>
+    <string name="scan_support_type">WeChat၊ Alipay၊ QR ကုဒ်၊ ဘား ကုဒ်</string>
     <string name="sdk_not_ready">SDK ပြင်ဆင်နေသည်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
     <string name="secure_access_web_url">ဝက်ဘ်ဆိုက်သို့သွားပါ</string>
     <string name="see_app_details">အက်ပ်အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="select_dialog_confirm">အိုကေ</string>
     <string name="send_mail">အီးမေးလ် ပို့ပါ</string>
+    <string name="setting_alipay">Alipay</string>
+    <string name="setting_choose_every_time">အမြဲတမ်း မေးပါ</string>
+    <string name="setting_default_function">မူလ သတ်မှတ်ချက်</string>
+    <string name="setting_preference_pay">ပိုလိုလားသော ငွေပေးချေမှု နည်းလမ်း</string>
+    <string name="setting_title">ဆက်တင်</string>
+    <string name="setting_use_last_choose">ယခင်က ရွေးချယ်မှုကို မှတ်ထားပါ</string>
+    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">ရှာနေဆဲ…</string>
     <string name="shopping_title">ကုန်ပစ္စည်း၏ပုံအား ရိုက်ယူပါ</string>
     <string name="shopping_vendor_info">Taobao မှအားဖြည့်ထားသော</string>
     <string name="spaceIsLow_content">အတွင်းပိုင်းသိုလှောင်ခန်း နေရာမလုံလောက်ပါ။ နေရာတစ်ချို့အား ရှင်းလင်းပါ။</string>
+    <string name="study_rotate_picture">ဓါတ်ပုံအား စီမံနေသည်</string>
+    <string name="study_scan_result">အဖြေ</string>
+    <string name="study_searching">အဖြေအား ရှာဖွေနေသည်</string>
+    <string name="study_title">မေးခွန်းအား ဓာတ်ပုံ ရိုက်ပါ</string>
+    <string name="study_vendor_info">作业帮 မှ ပံ့ပိုးသည်</string>
     <string name="switch_open">ဖွင့်ပါ</string>
     <string name="tel">ဖုန်း</string>
     <string name="title">ဂုဏ်ရာထူး−</string>
+    <string name="to_pay">ပေးချေမှု ပြီးမြောက်ပါပြီ</string>
     <string name="translate_auto_lock">လော့ခ်ချမည်</string>
     <string name="translate_auto_unlock">လော့ခ်ဖြည်မည်</string>
     <string name="translate_copy_success">ကော်ပီကူးပြီးပါပြီ</string>

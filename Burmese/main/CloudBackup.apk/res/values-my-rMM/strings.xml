@@ -27,9 +27,6 @@
     <string name="cloud_back_up_frequence_choice_title">အရန်သိမ်းအချိန်ဇယား</string>
     <string name="cloud_back_up_frequence_long">၇ ရက်တိုင်း</string>
     <string name="cloud_back_up_frequence_short">နေ့တိုင်း</string>
-    <string name="cloud_back_up_share_activity_title">Mi အကောင့် အဆင့်မြှင့်</string>
-    <string name="cloud_back_up_share_activity_discription">သိမ်းဆည်းမည့်နေရာ ပိုမိုရယူပါ၊ နေ့စဉ် အရန်သိမ်းနှင့် ထပ်ဆောင်းများ</string>
-    <string name="cloud_back_up_share_activity_confirm">အဆင့်မြှင့်</string>
     <string name="cloud_back_up_detail_discription">"သင့်စက်သည် Wi-Fi ချိတ်ဆက်ထားပါက အောက်ပါအိုင်တမ်များအား Mi ကလောက်သို့ အရန်သိမ်းပါလိမ့်မည် 
 *   အက်ပ်၊ အိမ်မျက်နှာပြင် အဆင်အပြင်နှင့် ဝေါပေပါများ 
 *  နှိုးစက်၊ နာရီနှင့် အချိန် ဆက်တင်များ 
@@ -50,6 +47,8 @@
     <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -59,6 +58,7 @@
     <string name="backing_up_to_micloud">အရန်သိမ်းခြင်းလုပ်နေဆဲ…</string>
     <string name="restore_from_cloud">Mi Cloud အရန်သိမ်းခြင်းမှ နဂိုနေရာပြန်ထားပါ</string>
     <string name="backup_to_cloud">အက်ပ်ကို အရန်သိမ်းခြင်းလုပ်ပါ</string>
+    <string name="restoring_file_title_no_progress">ဖိုင်များအား ပြန်လည်ရယူနေသည်…</string>
     <string name="menu_item_sort">ဖြင့် မျိုးတူစုပါ</string>
     <string name="menu_item_sort_name">အမည်</string>
     <string name="menu_item_sort_size">အရွယ်အစား</string>
@@ -86,6 +86,8 @@
     <string name="recover_miui_settings">စနစ်ဆက်တင်များအား ပြန်ရယူပါ</string>
     <string name="wait_icon_download">အက်ပ်အိုင်ကွန်အား ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="download_settings_fail">ပင်မဖုန်းမျက်နှာပြင်ဆက်တင်များအား ဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ</string>
+    <string name="restore_init_description">ပြန်လည်ရယူရန် စတင်ပါ</string>
+    <string name="restore_finish_description">ပြန်လည်ရယူပြီးပါပြီ</string>
     <string name="backup_fail_wifi_needed">အရန်သိမ်း၍ မရပါ၊ Wi-Fi လိုအပ်သည်။</string>
     <string name="backup_success">အောင်မြင်စွာ အရန်သိမ်းလုပ်ပြီးပြီ</string>
     <string name="cloud_task_in_process">%s ကို ရပ်ဆိုင်းပြီး၊ ဒီအရန်သိမ်းခြင်းကို ဖျက်ပစ်မလား။ ဒီလုပ်ဆောင်မှုကို သင် ပြန်ပြင်လို့မရပါ။</string>
@@ -131,6 +133,7 @@
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="loading_user_backup">သုံးစွဲသူ အရန်သိမ်းခြင်းများကို ရယူနေသည်…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
     <string name="no_account">Mi အကောင့်သို့ ဆိုင်းအင်မဝင်ရသေးပါ။</string>
@@ -173,6 +176,7 @@
     <string name="notification_channel_remind">သတိပေးချက်</string>
     <string name="done_remove">ဖယ်ရှားပြီးပါပြီ</string>
     <string name="doing_restore_home">ပင်မမျက်နှာပြင်နှင့် ဆက်တင်တို့ကို ပြန်လည်ရယူနေသည်…</string>
+    <string name="restoring_settings">ပြန်လည်ရယူမှု ဆက်တင်…</string>
     <string name="title_alert_cancel_restore">ပြန်လည်သိမ်းဆည်းခြင်းကို ရပ်တန့်ပါ</string>
     <string name="msg_alert_cancel_restore">အိုင်တမ်များအား ပြန်လည်ရယူနေသည်။ ယခု ရပ်မလား?</string>
     <string name="btn_restore_cancel">ပယ်ဖျက်မည်</string>
@@ -183,4 +187,7 @@
     <string name="btn_restore_abort">ပယ်ဖျက်မည်</string>
     <string name="backup_stopped_title">အရန်သိမ်းခြင်းအား ရပ်တန့်ထားသည်</string>
     <string name="backup_stopped_msg">လက်ရှိ အရန်သိမ်းခြင်းသည် ယခင် ဘက်ခ်အပ်အား ဖုံးအုပ်သွားမည်။ ကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
+    <string name="cloud_back_up_share_activity_title">Mi အကောင့် အဆင့်မြှင့်</string>
+    <string name="cloud_back_up_share_activity_discription">သိမ်းဆည်းမည့်နေရာ ပိုမိုရယူပါ၊ နေ့စဉ် အရန်သိမ်းနှင့် ထပ်ဆောင်းများ</string>
+    <string name="cloud_back_up_share_activity_confirm">အဆင့်မြှင့်</string>
 </resources>

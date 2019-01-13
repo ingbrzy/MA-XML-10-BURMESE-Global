@@ -351,4 +351,5 @@
     <string name="widget_gadget_player">တေးဂီတ</string>
     <string name="widget_global_search">ရှာပါ</string>
     <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်များ</string>
+    <string name="dual_app">နှစ်ခုတွဲအက်ပ်များ</string>
 </resources>

@@ -135,7 +135,7 @@
     <string name="call_recording_error_sd_unmounted">မှတ်တမ်းတင်ခြင်းရပ်ခဲ့− SD ကဒ်အားဖြုတ်လိုက်သည်</string>
     <string name="call_recording_error_low_storage">နေရာလွတ်မလုံလောက်ပါ</string>
     <string name="call_recording_error_start_failed">မှတ်တမ်းတင်စက်ကို အခြားအက်ပ်က အသုံးပြုနေပါသည်။</string>
-    <string name="call_recording_error_unknown">မသိသောအမှားယွင်းဖြစ်နေပါသည်။</string>
+    <string name="call_recording_error_unknown">အမည်မသိ မှားယွင်းမှု တစ်ခု ဖြစ်ပေါ်ခဲ့သည်။</string>
     <string name="call_recording_notification_title">ခေါ်ဆိုမှုကို အသံဖမ်းပြီးပါပြီ</string>
     <string name="call_recording_notification_title_error">ခေါ်ဆိုမှုကို အသံဖမ်း၍ မရပါ</string>
     <string name="call_recording_notification_message">နားထောင်ရန် ထိနှိပ်ပါ။</string>

@@ -42,6 +42,9 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d စက္ကန့်စောင့်ပြီး ပြန်လည်ကြိုးစားကြည့်ပါ။</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
+    </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">အသိပေးချက်ရှိတ်တွင် အထိန်းခလုတ် %1$d ခု ပေါ်လာလိမ့်မည်</item>
     </plurals>
