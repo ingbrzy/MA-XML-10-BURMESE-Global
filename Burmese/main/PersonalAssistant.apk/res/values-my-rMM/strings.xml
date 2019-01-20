@@ -276,7 +276,6 @@
     <string name="sms_happened">ပြီးဆုံးပါပြီ</string>
     <string name="stock_card_add">ကုမ္ပဏီများ ပေါင်းထည့်မည်</string>
     <string name="stock_card_title">စတော့ရှယ်ယာ</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">အရောင် အစီအစဉ်</string>
     <string name="stock_list_empty_text">မည်သည့်ကုမ္ပဏီကိုမျှ သင် လိုက်အားမပေးသေးပါ။</string>
     <string name="stock_provider">စတော့ရှယ်ယာစျေးများကို Webull မှ ထောက်ပံ့ပေးသည်</string>
