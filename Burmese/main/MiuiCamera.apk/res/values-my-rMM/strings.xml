@@ -217,6 +217,7 @@
     <string name="accessibility_shutter_button">ရှတ္တာခလုတ်</string>
     <string name="accessibility_intent_done_apply">ပြီးပါပြီ</string>
     <string name="accessibility_intent_done_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="accessibility_video_btn_play">ဗီဒီယို ဖွင့်ပါ</string>
     <string name="accessibility_review_thumbnail">များမကြာမီက ဓာတ်ပုံ</string>
     <string name="accessibility_camera_picker">ရှေ့နောက်ကင်မရာ ကူးပြောင်းခလုတ်</string>
     <string name="accessibility_stereo_button">ဆုံချက် ချိန်ညှိမှု</string>
@@ -250,6 +251,7 @@
     <string name="accessibility_beauty_panel_open">အလှဆင်မှုမီနူးအား ဖွင့်ထားသည်</string>
     <string name="accessibility_back_preview_status">အနောက်ကင်မရာ ကြိုတင်ကြည့်ရှုမှု</string>
     <string name="accessibility_front_preview_status">အရှေ့ကင်မရာ ကြိုတင်ကြည့်ရှုမှု</string>
+    <string name="accessibility_pull_down_to_open_camera">ကင်မရာဖွင့်ရန် အောက်သို့ ပွတ်ဆွဲပါ</string>
     <string name="accessibility_focus_status">%1$sX ဇူးမ်ချုံ့ချဲ့</string>
     <string name="accessibility_filter_pad_close">စစ်ထုတ်ကိရိယာမီနူးအား ကွယ်ဝှက်ထားသည်</string>
     <string name="accessibility_camera_picker_finish">ကင်မရာ ကူးပြောင်းပြီးပါပြီ</string>
@@ -455,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"လူပုံမုဒ်အား သုံးကြည့်ပါ။
 လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီးအရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
@@ -471,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -587,7 +591,7 @@
     <string name="lighting_pattern_dot">အစက်အပြောက်</string>
     <string name="lighting_pattern_shutter">လိုက်ကာ</string>
     <string name="view_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကြည့်ရှုရန်</string>
-    <string name="fps960_toast">Slow-motion capture will start at the last quarter of the recording</string>
+    <string name="fps960_toast">ဆလိုးမိုးရှင်း ရိုက်ချက်သည် ရိုက်ကူးမှု၏ နောက်ဆုံး လေးပုံတစ်ပုံတွင် စတင်ပါမည်</string>
     <string name="portrait_bokeh_text">လူပုံမုဒ်</string>
     <string name="portrait_bokeh_first_tips">"ဓာတ်ပုံနောက်ခံ မှုန်ဝါးစေရန်
 လူပုံမုဒ်အား သုံးပါ"</string>
@@ -612,7 +616,7 @@
     <string name="beauty_body_body">သွယ်လျသော ခန္ဓာကိုယ်</string>
     <string name="beauty_body_shoulder">ပခုံး</string>
     <string name="beauty_body_legged">ခြေထောက်</string>
-    <string name="beauty_body_reset_tip">ကိုယ်ခန္ဓာ သွယ်လျမှုအား ဖယ်ရှားပြီးပါပြီ</string>
+    <string name="beauty_body_reset_tip">သွယ်လျမှု ဖန်တီးချက်အား ပြန်သတ်မှတ်ပြီးပါပြီ</string>
     <string name="ultra_wide_open_tip">ထောင့်ကျယ် မုဒ်</string>
     <string name="ultra_wide_close_tip">ထောင့်ကျယ် မုဒ်အား ပိတ်ထားသည်</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ထောင့်ကျယ်</string>
@@ -670,4 +674,5 @@
     <string name="ultra_pixel_photography_32mp_close_tip">32MP အား ပိတ်ထားသည်</string>
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP အား ဖွင့်ထားသည်</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP အား ပိတ်ထားသည်</string>
+    <string name="zoom_no_support_tip_48M">48MP မုဒ်တွင် ကင်မရာ ချုံ့ချဲ့လုပ်၍ မရပါ</string>
 </resources>

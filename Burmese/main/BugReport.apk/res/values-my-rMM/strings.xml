@@ -438,6 +438,7 @@
     <string name="passport_wrong_phone_number_format">သင်ထည့်သွင်းခဲ့သော ဖုန်းနံပါတ်ဖွဲ့စည်းမှုပုံစံ မမှန်ကန်ပါ</string>
     <string name="passport_wrong_vcode">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">အမှားလော့များနှင့်အတူ သင့်တုံ့ပြန်ချက်အား Mi ဆာဗာသို့ ပေးပို့ပါလိမ့်မည်။</string>
     <string name="plus_one_submit_dialog_not_show_again">ဦးစားပေးချက်ကို မှတ်ထားပါ</string>
     <string name="post_miui_bbs_failed">MIUI ဖိုရမ်သို့ ပို့စ်မတင်နိုင်ခဲ့ပါ</string>

@@ -87,6 +87,7 @@
     <string name="accessibility_wifi_signal_full">"Wi-Fi  အပြည့်ရှိ"</string>
     <string name="accessibility_wifi_security_type_none">အများသုံး ကွန်ရက်</string>
     <string name="accessibility_wifi_security_type_secured">လုံခြုံသည့် ကွန်ရက်</string>
+    <string name="process_kernel_label">Android စနစ်</string>
     <string name="data_usage_uninstalled_apps">ဖယ်ရှားထားသော အက်ပ်များ</string>
     <string name="data_usage_uninstalled_apps_users">ဖယ်ရှားထားသော အပလီကေးရှင်းနှင့် သုံးစွဲသူများ</string>
     <string name="tether_settings_title_usb">USB သုံး၍ချိတ်ဆက်ခြင်း</string>

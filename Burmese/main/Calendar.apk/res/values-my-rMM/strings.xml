@@ -72,6 +72,7 @@
     <string name="card_title_change">ပိုမို၍</string>
     <string name="change_response_title">တုံ့ပြန်မှုကို ပြောင်းလဲမည်</string>
     <string name="click_to_share">မျှဝေရန် ထိနှိပ်ပါ</string>
+    <string name="close_alarm">ပိတ်မည်</string>
     <string name="countdown_event_title">နောက်ပြန်ရေတွက်ခြင်း−%1$s</string>
     <string name="countdown_notify_before_3_day_title">နောက်ပြန်ရေတွက်ခြင်း− ၃ရက်အတွင်း %1$s</string>
     <string name="countdown_notify_title">နောက်ပြန်ရေတွက်ခြင်း−%1$s</string>
@@ -266,6 +267,8 @@
     <string name="no_visiable_calendar_select_account">အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="no_visiable_calendar_title">အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="not_synced">ဆင့်ခ်မလုပ်ထားပါ</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">ပြက္ခဒိန် သတိပေးချက်များ</string>
     <string name="panchang_amanta">အမန်တာ</string>
     <string name="panchang_amanta_month">အမန်တာ လ-</string>
     <string name="panchang_ayana">အာယာန</string>
