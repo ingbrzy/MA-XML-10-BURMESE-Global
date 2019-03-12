@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -226,7 +227,7 @@
     <string name="button_text_unselect_all">မရွေးတော့</string>
     <string name="button_text_keep_one">တစ်ပုံတည်းသို့​ပြောင်းလိုက်ပါ</string>
     <string name="activity_title_tedious_image">မတော်တဆဖြစ်သော ဓါတ်ပုံများ</string>
-    <string name="activity_title_brightness_image">အနည်းနှင့် အများထိတွေ့ထားသော</string>
+    <string name="activity_title_brightness_image">အလင်းပေးမှု အလွန်နည်းသော နှင့် လွန်ကဲသော</string>
     <string name="activity_title_screenshot">မျက်နှာပြင်ရိုက်ချက်များ</string>
     <string name="activity_title_similar_image">ဓါတ်ပုံများအား ပွားယူ</string>
     <string name="label_preserve_the_best_image">အကောင်းဆုံးပုံများအား သိမ်းဆည်းပါ</string>
@@ -299,6 +300,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">ဖိုင်မတွေ့ပါ</string>
     <string name="app_usage_never">မကြာသေးမီက သုံးမထားသော</string>
     <string name="app_usage_recently">မကြာခဏသုံးသော</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ဖိုင်ပိုမို၍ ရှင်းလင်းနိုင်ပါသည်။ နေရာပိုမို၍ရှင်းလင်းပါ;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat ကက်ချီ။ နေရာပိုမို၍ရှင်းလင်းပါ။;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> QQမှ အမှိုက်ကို ရှင်းလင်းနိုင်သည်;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> ဖိုင်ပိုမို၍ ရှင်းလင်းနိုင်ပါသည်။ နေရာပိုမို၍ရှင်းလင်းပါ;&lt;/Data></string>
+    <string name="resutl_function_wechat_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat ကက်ချီ။ နေရာပိုမို၍ရှင်းလင်းပါ။;&lt;/Data></string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> QQမှ အမှိုက်ကို ရှင်းလင်းနိုင်သည်;&lt;/Data></string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">ရှင်းလင်းရေးမာစတာ</string>
     <string name="app_description_title">သန့်ရှင်းရေးစက်အကြောင်း</string>
@@ -545,7 +547,6 @@
     <string name="onekeyclean_boost_available">%s ရနိုင်သည်</string>
     <string name="onekeyclean_card_summery">နေရာလွတ်ရရန် အမှိုက်များအား ရှင်းပစ်ပါ</string>
     <string name="onekeyclean_card_btn">ယခု ရှင်းလင်းမည်</string>
-    <string name="memory_clean_icon_text">မှတ်ဉာဏ်အား ရှင်းပစ်ပါ</string>
     <string name="pref_title_create_onekeyclean_shortcut">ပင်မမျက်နှာပြင် ရှော့ကဒ် ပြပါ</string>
     <string name="memory_clean_no_trash_tip">အရာအားလုံး အဆင်ပြေပါသည်</string>
     <string name="toast_updater_open_4g_text">4G မိုဘိုင်းဒေတာဖြင့် အက်ပ်များအား အပ်ဒိတ်လုပ်မည်</string>
@@ -563,6 +564,6 @@
     <string name="facebook_clean_exit_confirm_msg">Facebook အား စကန်ဖတ်လို့ မပြီးသေးပါ။ ယခု ရပ်မလား?</string>
     <string name="facebook_clean_exit_confirm_cancel">စကန် ဆက်ဖတ်ပါ</string>
     <string name="facebook_clean_exit_confirm_ok">ရပ်ပါ</string>
-    <string name="one_tap_clean_M">%dM</string>
-    <string name="one_tap_clean_GB">%sG</string>
+    <string name="one_tap_clean_M">%dMB</string>
+    <string name="one_tap_clean_GB">%sGB</string>
 </resources>

@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များအား ခွဲခြားရန် အတွက်</item>
+        <item>မက်ဆေ့ချ်များအား ဆင့်ခ်လုပ်ရန် အတွက်</item>
+        <item>အဆက်အသွယ်များအား ဆင့်ခ်လုပ်ရန် အတွက်</item>
+        <item>ပြက္ခဒိန် အစီအစဉ်များအား ဆင့်ခ်လုပ်ရန် အတွက်</item>
+        <item>သိုလှောင်ခန်း သုံးသော ဝန်ဆောင်မှု အိုင်တမ်များအား ဆင့်ခ်လုပ်ရန် အတွက်</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ဖုန်း</item>
+        <item>SMS</item>
+        <item>အဆက်အသွယ်များ</item>
+        <item>ပြက္ခဒိန်</item>
+        <item>သိုလှောင်ခန်း</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>အက်ပ်ဒေတာကို ဆင့်ခ်လုပ်မည်</item>
         <item>ပင်မမျက်နှာပြင် ဖွဲ့စည်းပုံကို အရန်သိမ်းဆည်းမည်</item>

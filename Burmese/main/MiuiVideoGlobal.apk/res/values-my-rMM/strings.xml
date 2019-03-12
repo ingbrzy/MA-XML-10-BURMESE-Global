@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="exo_controls_fastforward_description">ရှေ့သို့ သွားရန်</string>
-    <string name="exo_controls_next_description">နောက် တစ်ပုဒ်</string>
-    <string name="exo_controls_pause_description">ခဏရပ်ရန်</string>
-    <string name="exo_controls_play_description">ဖွင့်ရန်</string>
-    <string name="exo_controls_previous_description">ယခင် တစ်ပုဒ်</string>
-    <string name="exo_controls_rewind_description">ပြန်ရစ်ရန်</string>
-    <string name="exo_controls_stop_description">ရပ်ရန်</string>
+    <string name="add_to_trust_device">ဤစက်ကို ယုံကြည်စိတ်ချနိုင်သည်</string>
     <string name="agree">သဘောတူပါသည်</string>
     <string name="ai_animation_music_text">AI တေးသံ</string>
     <string name="ai_music_save_cancel">ပယ်ဖျက်မည်</string>
@@ -24,9 +18,13 @@
     <string name="alert_dialog_download_plugin">"မကြာမီ အက်ပ်အာ ဒေါင်းလုဒ်လုပ်ပြီး HD ပလက်အင်အား ထည့်သွင်းမည်- "</string>
     <string name="alert_dialog_download_prepare">ဒေါင်းလုဒ်လုပ်ရန် ပြင်ဆင်နေသည်…</string>
     <string name="alert_dialog_download_progress">"အက်ပ်အား ဒေါင်းလုဒ်လုပ်နေသည်- "</string>
+    <string name="and"> နှင့် </string>
     <string name="app_name">Mi ဗီဒီယို</string>
+    <string name="bind_sign_in_title">အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="canceled">ပယ်ဖျက်ခဲ့သည်</string>
+    <string name="choose_to_signin">ဟုတ်ပါတယ်</string>
+    <string name="choose_to_signup">မဟုတ်ပါ၊ အသစ်တစ်ခု ဖန်တီးမည်</string>
     <string name="click_to_reload_more">ပိုမိုသိရှိနိုင်ရန် ထိနှိပ်ပါ</string>
     <string name="click_to_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="com_permission_desc">Mi ဗီဒီယိုသည် သင်၏စက်ထဲရှိ ဗီဒီယိုများသို့ ဝင်ရောက်၍ မရပါ။ ဆက်တင်သို့သွား၍ ဝင်ရောက်ခွင့်ပြုပါ။</string>
@@ -37,14 +35,28 @@
     <string name="dialog_revoke_privacy_info_new2">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းပါက အက်ပ်မှ ဒေတာစုဆောင်းခြင်းကို ရပ်တန့်စေမည်၊ ကျွန်ုပ်တို့၏ ဆာဗာများမှ သက်ဆိုင်ရာဒေတာ အားလုံးကိုလည်း ဖျက်ပစ်လိမ့်မည်။ ဤလုပ်ရပ်ကြောင့် အက်ပ်ကို အသုံးပြု၍ ရတော့မည် မဟုတ်ပါ။ ပြန်ရုပ်သိမ်းမလား?</string>
     <string name="dialog_revoke_privacy_title">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းနေသည်</string>
     <string name="exit">ထွက်မည်</string>
+    <string name="exo_controls_fastforward_description">ရှေ့သို့ သွားရန်</string>
+    <string name="exo_controls_next_description">နောက် တစ်ပုဒ်</string>
+    <string name="exo_controls_pause_description">ခဏရပ်ရန်</string>
+    <string name="exo_controls_play_description">ဖွင့်ရန်</string>
+    <string name="exo_controls_previous_description">ယခင် တစ်ပုဒ်</string>
+    <string name="exo_controls_rewind_description">ပြန်ရစ်ရန်</string>
+    <string name="exo_controls_stop_description">ရပ်ရန်</string>
     <string name="explore_on_mi_video">Mi ဗီဒီယိုတွင် ထပ်ကြည့်ကြည့်ပါ</string>
     <string name="failed_to_fetch_data">အချက်အလက်များ မရယူနိုင်ပါ။</string>
+    <string name="find_psw">စကားဝှက် မေ့သွားသည်</string>
     <string name="finish">ပြီးပါပြီ</string>
     <string name="for_you">သင့်အတွက်</string>
     <string name="fw_loading">ခဏစောင့်ပါ…</string>
     <string name="fw_reload_sub_title">ပြန်ကြိုးစားကြည့်ရန် မျက်နှာပြင်ကို ထိနှိပ်ပါ</string>
     <string name="fw_reload_title">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။</string>
+    <string name="get_ph_ticket">ကုဒ်နံပါတ် ရယူပါ</string>
+    <string name="goto_sign_up">အကောင့်တစ်ခု ဖန်တီးမည်</string>
+    <string name="isornot_your_mi_account">သင်၏ Mi အကောင့် ဟုတ်ပါသလား?</string>
+    <string name="language_select_tips">မည်သည့် ဗီဒီယို ဘာသာစကားအား ပိုလိုလားသနည်း။ ဘာသာစကား မျိုးစုံ ရွေးနိုင်ပါသည်။</string>
+    <string name="language_setting_tips">သိမ်းဆည်း ပြီးပါပြီ။ သင် ပိုလိုလားသော ဘာသာစကားအား ဆက်တင်တွင် ပြောင်းနိုင်သည်။</string>
     <string name="login">ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="logout">ဆိုင်းအောက်ထွက်မည်</string>
     <string name="lp_base_folder">SD ကဒ်</string>
     <string name="lp_speed_title">အမြန်ပြသမှု</string>
     <string name="lp_speed_toast">%s X အမြန်နှုန်းဖြင့် ပြသနေသည်…</string>
@@ -161,6 +173,7 @@
     <string name="network_connect_info">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="network_failed">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="next">ရှေ့သို့</string>
+    <string name="nick_name">အမည်</string>
     <string name="no_recommend_data">အကြံပြုထားသော ဗီဒီယို မရှိသေးပါ</string>
     <string name="not_show">ထပ်မပြပါနှင့်</string>
     <string name="notify_apk_installed">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -202,7 +215,10 @@
     <string name="ovp_home_item_camera">ပြခန်း</string>
     <string name="ovp_home_item_download">ဒေါင်းလုဒ်</string>
     <string name="ovp_home_item_folder">ဖိုင်များ</string>
+    <string name="ovp_home_local">စက်တွင်း</string>
+    <string name="ovp_home_me">အကောင့်</string>
     <string name="ovp_home_no_data_callback">အချက်အလက် ရယူ၍ မရပါ။ ရီဖရှက်ရ်လုပ်ရန် အောက်သို့ ဆွဲချပါ။</string>
+    <string name="ovp_home_online">အွန်လိုင်း</string>
     <string name="ovp_home_online_content_title">အွန်လိုင်း</string>
     <string name="ovp_info_video_loading">ခဏစောင့်ပါ…</string>
     <string name="ovp_load_playinfo_failure">အချက်အလက်အား မရယူနိုင်ပါ</string>
@@ -213,8 +229,10 @@
     <string name="ovp_navigation_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="ovp_navigation_history">သမိုင်း</string>
     <string name="ovp_navigation_home">ပင်မ</string>
+    <string name="ovp_navigation_language">ဘာသာစကား</string>
     <string name="ovp_navigation_localvideo">ဖုန်းထဲရှိ ဗီဒီယို</string>
     <string name="ovp_navigation_setting">ဆက်တင်</string>
+    <string name="ovp_playlist">ဖွင့်မည့် စာရင်း</string>
     <string name="ovp_plugin_install_failure">ပလက်အင်အား ထည့်သွင်း၍မရပါ</string>
     <string name="ovp_search_key_not_null">အဓိကစာလုံး ရိုက်ထည့်ပြီး ရှာဖွေပါ</string>
     <string name="ovp_select_ci">အပိုင်း ရွေးပါ</string>
@@ -234,6 +252,44 @@
     <string name="ovp_video_plugin_installation">ထည့်သွင်းနေသည် %1$s…</string>
     <string name="ovp_video_plugin_installation_failure">%1$s ကို ထည့်သွင်း၍ မရပါ</string>
     <string name="ovp_video_plugin_installation_two">ခဏစောင့်ပါ…</string>
+    <string name="page_title_language">ပိုလိုလားသော ဗီဒီယို ဘာသာစကား</string>
+    <string name="passport_activate_token_expired">အတည်ပြုကုဒ် သက်တမ်းကုန်သွားသည်၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="passport_auth_title" />
+    <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
+    <string name="passport_captcha_title">ပုံ၌ပြသောကုဒ်</string>
+    <string name="passport_close">ပိတ်ပါ</string>
+    <string name="passport_empty_password">စကားဝှက် ဖြည့်ရမည်</string>
+    <string name="passport_empty_user_name">အသုံးပြုသူအမည် ဖြည့်ရမည်</string>
+    <string name="passport_error_phone_error">ဖုန်းနံပါတ် မမှန်ကန်ပါ</string>
+    <string name="passport_error_user_name">သင်ရိုက်ထည့်သော အသုံးပြုသူအမည်မှာ တရားမဝင်ပါ</string>
+    <string name="passport_log_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
+    <string name="passport_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="passport_reload_ph_ticket">ထပ်မံပေးပို့ပါ</string>
+    <string name="passport_send_too_many_sms">အတည်ပြုကုဒ် အများအပြားကို ဤနံပါတ်သို့ ပို့ထားသည်။ ၂၄ နာရီခန့် စောင့်ပြီးနောက် ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="passport_sign_in">ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="passport_sign_in_or_sign_up">ဆိုင်းအင်ဝင်မည်/အကောင့်တစ်ခု ဖန်တီးမည်</string>
+    <string name="passport_timeout_network_error">ချိတ်ဆက်မှု အချိန်ကုန်သွားသည်</string>
+    <string name="passport_unknow_error">အမည်မသိမှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
+    <string name="passport_unknow_host_network_error">ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="passport_unknow_network_error">ကွန်ရက်မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
+    <string name="passport_user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="passport_user_agreement_prefix">  အား သဘောတူသည်</string>
+    <string name="passport_v_code_error">အတည်ပြုကုဒ် မမှန်ကန်ပါ</string>
+    <string name="passport_wechat_not_install">WeChat မထည့်သွင်းထားပါ</string>
+    <string name="permission_continue">ဆက်လက်လုပ်ဆောင်မည်</string>
+    <string name="permission_info">"Mi ဗီဒီယို အောက်ပါ ဆောင်ရွက်ချက်များအတွက် သင့်စက်၏ IMEI နံပါတ်သို့ ဝင်ရောက်ရန် လိုအပ်သည်-
+ 
+ဝန်ဆောင်မှု ပိုမိုကောင်းမွန်စေရန်၊
+သင့်အကောင့် ပိုမိုလုံခြုံစေရန်။"</string>
+    <string name="permission_info1">Mi ဗီဒီယို အောက်ပါ ဆောင်ရွက်ချက်များအတွက် သင့်စက်၏ IMEI နံပါတ်သို့ ဝင်ရောက်ရန် လိုအပ်သည်-</string>
+    <string name="permission_info2">ဝန်ဆောင်မှု ပိုမိုကောင်းမွန်စေရန်၊</string>
+    <string name="permission_info3">သင့်အကောင့် ပိုမိုလုံခြုံစေရန်။</string>
+    <string name="permission_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="phone_bind_too_many">အချိန်တိုအတွင်း ဤဖုန်းသည် Mi အကောင့် အများအပြားနှင့် ချိတ်တွဲခဲ့သည်။ အခြားဖုန်းနံပါတ်ဖြင့် ကြိုးစားကြည့်ပါ။</string>
+    <string name="phone_hint">ဖုန်းနံပါတ်</string>
+    <string name="phone_number">ဖုန်းနံပါတ်</string>
+    <string name="psw_hint">စကားဝှက်</string>
+    <string name="psw_sign_in">စကားဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="pull_to_refresh_from_bottom_pull_label">ပြန်လည်ဆန်းသစ်ရန် အပေါ်သို့ ဆွဲတင်ပါ…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">ခဏစောင့်ပါ…</string>
     <string name="pull_to_refresh_from_bottom_release_label">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ…</string>
@@ -299,8 +355,11 @@
     <string name="share">မျှဝေမည်</string>
     <string name="share_ugc_content">%1$s အား ကြည့်ကြည့်ပါ! #%2$s (%3$s)</string>
     <string name="share_ugc_waitting">လင့်ခ် ဖန်တီးနေသည်…</string>
+    <string name="sign_in_title">Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="slid_fail_message">သိမ်းဆည်း၍ မရပါ</string>
     <string name="slide_save_message">ဗီဒီယို ဖန်တီးနေသည်…</string>
+    <string name="sns_sign_in">ဆိုင်းအင်ဝင်ရန် အခြားနည်းလမ်းများ</string>
+    <string name="sure_to_logout">ယခု ဆိုင်းအောက်ထွက်မလား?</string>
     <string name="switch_ratio_pause">အမြန်ပြသမှု မတည်ငြိမ်ပါ။ ပုံမှန် အမြန်နှုန်းသို့ ပြောင်းပါ…</string>
     <string name="symbol_rmb">¥</string>
     <string name="t_downloading">ဒေါင်းလုဒ်လုပ်နေသည်-</string>
@@ -318,20 +377,17 @@
     <string name="t_network_error">ကွန်ရက်မှားယွင်းမှုတစ်ခု ဖြစ်ပွားသည်။</string>
     <string name="t_ovp_check_delete_favor">ဖယ်ရှားရန်အိုင်တမ်များကို ရွေးချယ်ပါ</string>
     <string name="t_start_download">ဒေါင်းလုဒ် စလုပ်မည်-</string>
+    <string name="ticket_hint">အတည်ပြုကုဒ်</string>
+    <string name="ticket_invalid">သင်ထည့်သွင်းသော ကုဒ်မှာ မမှန်ကန်ပါ</string>
+    <string name="ticket_sign_in">SMS ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
+    <string name="toast_share_failed">မျှဝေ၍ မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="ui_log_tip">ကွယ်ဝှက်ရန် ဤဧရိယာအား ထိနှိပ်ပါ၊ မှတ်တမ်းဟောင်းများအား ရှင်းပစ်ရန် ဖိပြီးထိနှိပ်ထားပါ။ မှတ်တမ်းများကို ကိုယ်တိုင် ဆွဲထည့်ပါ။</string>
     <string name="update">အပ်ဒိတ်လုပ်မည်</string>
+    <string name="user_id_hint">အီးမေးလ်/ဖုန်း</string>
     <string name="v_app_name">Mi ဗီဒီယို</string>
     <string name="v_cancel">ပယ်ဖျက်မည်</string>
+    <string name="v_code_title">နှစ်ထပ်အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="v_ok">အိုကေ</string>
     <string name="v_pw_need_update_app">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် Mi ဗီဒီယိုအား အပ်ဒိတ်လုပ်ပါ</string>
     <string name="v_save">သိမ်းဆည်းမည်</string>
-    <string name="permission_continue">Continue</string>
-    <string name="permission_info">"Mi Video needs to access the IMEI number of your device to do the following:
- 
-Better customize its services for your device;
- Increase the security of your account."</string>
-    <string name="permission_info1">Mi Video needs to access the IMEI number of your device to do the following:</string>
-    <string name="permission_info2">Better customize its services for your device;</string>
-    <string name="permission_info3">Increase the security of your account.​</string>
-    <string name="permission_title">Permissions required</string>
 </resources>

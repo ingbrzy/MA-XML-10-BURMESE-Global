@@ -7,24 +7,24 @@
         <item>၁ နာရီ</item>
     </string-array>
     <string-array name="search_category_rbds_entries">
-        <item>ဌာနအားလုံး</item>
+        <item>အသံလွှင့်ဌာန အားလုံး</item>
         <item>ထိရောက်မှုများ</item>
-        <item>ကလပ်စစ်တေး</item>
+        <item>ဂန္ထဝင်ဂီတ</item>
         <item>ဂန္ထဝင်ရော့ခ်</item>
         <item>ကျောင်းဝင်း</item>
-        <item>နိုင်ငံ</item>
+        <item>ကျေးလက်ဂီတ</item>
         <item>အရေးပေါ်</item>
         <item>အရေးပေါ်စစ်ဆေးချက် သတိပေးချက်</item>
         <item>နိုင်ငံခြားဘာသာစကား</item>
         <item>သတင်းအချက်အလက်</item>
         <item>ဂျတ်ဇ်ဂီတ</item>
         <item>သတင်း</item>
-        <item>လွမ်းဆွတ်ခြင်း</item>
-        <item>ခုနစ်ဆွေးရှစ်ဆွေး</item>
-        <item>ကိုယ့်စိတ်ကြိုက်လုပ်ထားသော</item>
-        <item>ပြည်သူ</item>
-        <item>ဘာသာရေးတေးဂီတ</item>
-        <item>ဘာသာရေးစကားဝိုင်း</item>
+        <item>လွမ်းဆွတ်</item>
+        <item>အတိတ်ကာလ</item>
+        <item>စိတ်ကြိုက်</item>
+        <item>အများဆိုင်ရာ</item>
+        <item>ဘာသာရေး တေးဂီတ</item>
+        <item>ဘာသာရေး စကားဝိုင်း</item>
         <item>ဘလူးစ်အလွမ်းအဆွေး ခေတ်တေးဂီတ</item>
         <item>ရော့ခ်ဂီတ</item>
         <item>အပျော့စား</item>
@@ -41,9 +41,9 @@
         <item>လက်ရှိ ခေါင်းစဉ်များ</item>
         <item>ကလေးများအတွက်</item>
         <item>ကျေးလက်တေးဂီတ</item>
-        <item>အကျဥ်းချုံးဖြစ်ရပ်မှတ်တမ်း</item>
-        <item>ဒရမ်မာ</item>
-        <item>အလွယ်နားစဉ်ခြင်း</item>
+        <item>မှတ်တမ်းတင်ရုပ်ရှင်</item>
+        <item>ပြဇာတ်</item>
+        <item>ချမ်းမြေ့သော ဂီတ</item>
         <item>ပညာရေး</item>
         <item>အရေးပေါ်</item>
         <item>အရေးပေါ်စစ်ဆေးချက် သတိပေးချက်</item>
@@ -81,7 +81,7 @@
         <item>ဂျပန် (တခွင်လုံး)</item>
         <item>သြစတြေးလျ</item>
         <item>သြစတြီးယား</item>
-        <item>ဘယ်လဂျီယန်</item>
+        <item>ဘယ်လ်ဂျီယမ်</item>
         <item>ဘရာဇီး</item>
         <item>တရုတ်</item>
         <item>ချက်</item>
@@ -94,15 +94,15 @@
         <item>အိန္ဒိယ</item>
         <item>အိုင်ယာလန်</item>
         <item>အီတလီ</item>
-        <item>တောင်ကိုးရီးယား</item>
+        <item>တောင်ကိုရီးယား</item>
         <item>မက္ကဆီကို</item>
-        <item>နယ်တာလန်</item>
+        <item>နယ်သာလန်</item>
         <item>နယူးဇီလန်</item>
         <item>နော်ဝေး</item>
         <item>ပိုလန်</item>
         <item>ပေါ်တူဂီ</item>
         <item>ရုရှား</item>
-        <item>စင်ကာပူ</item>
+        <item>စင်္ကာပူ</item>
         <item>ဆလိုဗက်ကီးယား</item>
         <item>စပိန်</item>
         <item>ဆွစ်ဇာလန်</item>
@@ -110,7 +110,7 @@
         <item>ထိုင်ဝမ်</item>
         <item>တူရကီ</item>
         <item>ယူနိုက်တက်ကင်းဒမ်း</item>
-        <item>ယူနိုက်တက်စတိတ်</item>
+        <item>အမေရိကန်ပြည်ထောင်စု</item>
     </string-array>
     <string-array name="regional_band_summary">
         <item>မြောက်အမေရိက (200 Khz အဆင့်များ၌ 87.5MHz မှ 108.0MHz အထိ)</item>
@@ -140,7 +140,7 @@
         <item>ပိုလန် (50 Khz အဆင့်များ၌ 88.0MHz မှ 108.0MHz အထိ)</item>
         <item>ပေါ်တူဂီ (50 Khz အဆင့်များ၌ 87.5MHz မှ 108.0MHz အထိ)</item>
         <item>ရုရှား (100 Khz အဆင့်များ၌ 87.5MHz မှ 108.0MHz အထိ)</item>
-        <item>စင်ကာပူ (100 Khz အဆင့်များ၌ 88.0MHz မှ 108.0MHz အထိ)</item>
+        <item>စင်္ကာပူ (100 Khz အဆင့်များ၌ 88.0MHz မှ 108.0MHz အထိ)</item>
         <item>ဆလိုဗက်ကီးယား (100 Khz အဆင့်များ၌ 87.5MHz မှ 108.0MHz အထိ)</item>
         <item>စပိန် (100 Khz အဆင့်များ၌ 87.5MHz မှ 108.0MHz အထိ)</item>
         <item>ဆွစ်ဇာလန် (100 Khz အဆင့်များ၌ 87.5MHz မှ 108.0MHz အထိ)</item>

@@ -44,6 +44,10 @@
     <string name="audio_message_mx_offline">အော်ဒီယိုအား ဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ။ Mi မက်ဆေ့ချ် အော့်ဖ်လိုင်း သို့မဟုတ် မရှိနိုင်ပါ။</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">ကွန်ရက်ချိတ်ဆက်မှုမရှိသို့မဟုတ် ဆင်းမ်ကဒ်အမှားအား ထည့်သွင်းထားပါသည်။ မက်ဆေ့ချ်ပေးပို့လိုက်သော နေရမှ ဆင်းမ်ကဒ်အား ထည့်သွင်းပြီး ကွန်ရက်သို့ ချိတ်ဆက်ပါ။</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">စမတ် မက်ဆေ့ချ်ပို့ခြင်းအား ဖွင့်ပါ</string>
+    <string name="auto_identify_btn_text_when_all_disabled">ပေးပို့သူ အိုင်ဒီအား အလိုအလျောက် ဖော်ထုတ်မည်</string>
+    <string name="auto_identify_btn_title">ဤမက်ဆေ့ချ်ကို အမည်မသိ နံပါတ်မှ ပေးပို့သည်။</string>
+    <string name="auto_identify_confirmation">ဤအင်္ဂါရပ်အား အသက်သွင်းရန် အချိန် အနည်းငယ် ကြာမည်။</string>
     <string name="back_to_message_list">မက်ဆေ့ချ်စာရင်းသို့ ပြန်သွားပါ</string>
     <string name="batch_adding_progress_message">ထည့်နေသည်…</string>
     <string name="batch_deleting_message_progress_message">ဖျက်နေသည်…</string>
@@ -87,7 +91,7 @@
     <string name="cm_privacy_dialog_allow">သဘောတူသည်</string>
     <string name="cm_privacy_dialog_cancel">ပယ်ဖျက်မည်</string>
     <string name="cm_privacy_dialog_spannable_tips">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="cm_privacy_dialog_tips">စမတ်မက်ဆေ့ချ် ဝန်ဆောင်မှုသည် ဖုန်းလိုင်းကုမ္ပဏီမှ ပံ့ပိုးထားခြင်းဖြစ်သည်။ ဤဝန်ဆာင်မှုအတွက် မက်ဆေ့ချ်မှ အင်တာနက်သို့ ချိတ်ဆက်၍ သင်၏တည်နေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ မသုံးစွဲမီ ဖုန်းလိုင်းကုမ္ပဏီ၏ %1sအား ဦးစွာ သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
+    <string name="cm_privacy_dialog_tips">စမတ် မက်ဆေ့ချ် ဝန်ဆောင်မှုသည် ဖုန်းလိုင်းကုမ္ပဏီမှ ပံ့ပိုးထားခြင်းဖြစ်သည်။ ဤဝန်ဆာင်မှုအတွက် မက်ဆေ့ချ်မှ အင်တာနက်သို့ ချိတ်ဆက်၍ သင်၏ တည်နေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ မသုံးစွဲမီ ဖုန်းလိုင်းကုမ္ပဏီ၏ %1s အား ဦးစွာ သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
     <string name="cm_privacy_dialog_title">သတိပြုရန်</string>
     <string name="cmcc_privacy">China Mobile ဖုန်းလိုင်းကုမ္ပဏီ ကိုယ်ရေးအချက်အလက်ဆိုင်ရာ သဘောတူညီချက်</string>
     <string name="complain_input_number">သင်၏ ဖုန်းနံပါတ်အား ရိုက်ထည့်ပါ</string>
@@ -152,7 +156,7 @@
     <string name="delete">ဖျက်ပါ</string>
     <string name="delete_bookmark">အကြိုက်ဆုံးစာရင်းမှ ဖယ်ရှားမည်</string>
     <string name="delete_message">ဖျက်ပါ</string>
-    <string name="delete_phrase">တုံ့ပြန်ချက်ကို ဖျက်ပစ်ပါ</string>
+    <string name="delete_phrase">ဖြေကြားချက်အား ဖျက်မည်</string>
     <string name="delete_unlocked">သော့ခတ်ထားသော မက်ဆေ့ချ်များကို ဖျက်ပစ်ပါ</string>
     <string name="delete_wild_sims">နံပါတ်များအား ဖျက်ပါ</string>
     <string name="delete_wild_sims_confirm">ရွေးထားသော နံပါတ်နှင့်ဆက်စပ်နေသော ဖုန်းထဲရှိမက်ဆေ့ချ်အားလုံးအား ဖျက်ပစ်ပါလိမ့်မည်။ i.mi.com ထဲတွင် ပြန်လည်ဖော်ထုတ်နိုင်ပါသည်။</string>
@@ -185,7 +189,7 @@
     <string name="duration_zero">ကြာချိန်သည် ၀ စက္ကန့်ထက် ကြီးရမည်</string>
     <string name="earlier">ပိုစောသော</string>
     <string name="edit">ပြုပြင်ရန်</string>
-    <string name="edit_phrase">အမြန်တုံ့ပြန်ချက်များကို တည်းဖြတ်မည်</string>
+    <string name="edit_phrase">အမြန် ဖြေကြားချက်များအား တည်းဖြတ်မည်</string>
     <string name="edit_slide_activity">ဆလိုက်ကို ပြုပြင်ပါ</string>
     <string name="edit_slideshow_activity">ဆလိုက်ရှိုးကို ပြုပြင်ပါ</string>
     <string name="enabled">ဖွင့်မည်</string>
@@ -219,6 +223,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_message_select_title">မက်ဆေ့ချ် တစ်ဆင့်ပို့မည်</string>
@@ -289,6 +294,7 @@
     <string name="menu_pick_from_contact">အဆက်အသွယ်များမှ ရွေးချယ်ပါ</string>
     <string name="menu_preferences">ဆက်တင်များ</string>
     <string name="menu_send_as_common">SMS အဖြစ် ပို့ပါ</string>
+    <string name="menu_traffic_destination">ဦးတည်ရာနေရာ</string>
     <string name="menu_unlock">အကြိုက်ဆုံးစာရင်းမှ ဖယ်ရှားမည်</string>
     <string name="menu_view_contact">အဆက်အသွယ်ကိုကြည့်ပါ</string>
     <string name="message_class_label">"မက်ဆေ့ချ်အတန်းအစား- "</string>
@@ -387,6 +393,7 @@
     <string name="mx_stranger_recommend_msg">အမည်မသိနံပါတ်များမှMi မက်ဆေ့ချ်များအား ဘလော့လုပ်ရန်နှိပ်ပါ</string>
     <string name="mx_type_guide">SMS အတွက် ကုန်ကျစရိတ်များ ပေးရန်မလိုဘဲ အခြား MIUI သုံးစွဲသူများထံ မက်ဆေ့ချ်များ ပို့ပါ</string>
     <string name="need_download">ဆင့်ခ်လုပ်နေသည်…</string>
+    <string name="net_sms_subscribed">စာရင်းသွင်းပြီးပါပြီ</string>
     <string name="net_sms_unsubscribe">စာရင်းမှ ဖျက်ပြီးပါပြီ</string>
     <string name="network_error_description">ကွန်ရက် မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="networking_allow_continue">ခွင့်ပြုမည်</string>
@@ -395,8 +402,8 @@
     <string name="networking_allow_title">သတိပြုပါ</string>
     <string name="new_message">စာစရေးရန်</string>
     <string name="new_message_arrived">သင့်တွင် မက်ဆေ့ချ်အသစ်တစ်စောင် ရှိသည်</string>
-    <string name="new_phrase">တုန့်ပြန်ချက် ထည့်ပါ</string>
-    <string name="new_phrase_hint">တုံ့ပြန်ချက်အသစ်ကိုထည့်ပါ</string>
+    <string name="new_phrase">ဖြေကြားချက် ပေါင်းထည့်မည်</string>
+    <string name="new_phrase_hint">ဖြေကြားချက် အသစ် ရိုက်ထည့်ပါ</string>
     <string name="no">ပယ်ဖျက်ပါ</string>
     <string name="no_block_button_msg">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
     <string name="no_conversations">စကားပြောဆိုထားမှုများ မရှိပါ</string>
@@ -421,16 +428,17 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">မက်ဆေ့ချ်အသစ်များ</string>
     <string name="number_add_hint">ဖုန်းနံပါတ်ထည့်ပါ</string>
+    <string name="number_recognition_partner">ပေးပို့သူ အိုင်ဒီ အသိအမှတ်ပြုခြင်း ဝန်ဆောင်မှု ပံ့ပိုးသူ</string>
     <string name="open_audio_record_panel">အော်ဒီယို အသံဖမ်းယူရန် ပန်နယ်ကို ဖွင့်ပါ</string>
     <string name="open_edit_sms_panel">မက်ဆေ့ချ်များကို ပြင်ဆင်ရန် ပန်နယ်အား ဖွင့်ပါ</string>
     <string name="open_url_with_web">ဤ URL ကို ဘရောက်ဇာထဲတွင် ဖွင့်မလား?</string>
     <string name="over_max_mms_size">MMS အလွန်ကြီးသည်။</string>
     <string name="overwrite_edited_content">သင်ပြုပြင်ခဲ့သော အကြောင်းအရာပေါ်တွင် ထပ်ရေးပစ်လိမ့်မည်။</string>
     <string name="packages_select_sim_cards_title">ဆင်းမ်ကဒ် ရွေးပါ</string>
-    <string name="phrase_confirm_delete_message">ဤတုံ့ပြန်မှုကို ဖျက်ပစ်လိမ့်မည်</string>
-    <string name="phrase_empty">တုန့်ပြန်ချက်မရှိ</string>
+    <string name="phrase_confirm_delete_message">ဤဖြေကြားချက်အား ဖျက်ပစ်ပါမည်။</string>
+    <string name="phrase_empty">ဖြေကြားချက် မရှိပါ</string>
     <string name="phrase_from">%1s မှ</string>
-    <string name="phrase_list_title">အမြန်တုံ့ပြန်ချက်များ</string>
+    <string name="phrase_list_title">အမြန် ဖြေကြားချက်များ</string>
     <string name="pick_too_many_recipients">လက်ခံသူအရမ်းများသည်</string>
     <string name="play">ဖွင့်ပါ</string>
     <string name="playing_failed">ဖွင့်၍ မရပါ</string>
@@ -453,7 +461,7 @@
     <string name="pref_show_sms_template_entry_summary">တစ်ခါသုံး စကားဝှက်အား ဖျက်၍ အမြန်မီနူး ပြပါ</string>
     <string name="pref_show_sms_template_in_summary">SMS မက်ဆေ့ချ်များထဲရှိ တစ်ကြိမ်သုံး စကားဝှက်များအား အလိုအလျောက် ထောက်လှမ်းပါ</string>
     <string name="pref_show_sms_template_summary">ကုဒ်များ ကူးယူခြင်း၊ လက်ကျန်ငွေစစ်ဆေးခြင်း စသော Mi မက်ဆေ့ချ်၏ စမတ်လုပ်ဆောင်ချက်များအား အသုံးပြုရန် ဖွင့်ပါ</string>
-    <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်</string>
+    <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="pref_sms_storage_title">သိုလှောင်ခန်း</string>
     <string name="pref_sms_theme_title">ပြသချက်</string>
     <string name="pref_summary_allow_si_sl_push">မက်ဆေ့ချ်များအား ဝက်ဘ်ပေါ်မှ အကြောင်းအရာကို ဖတ်ခွင့်ပြုမည်</string>
@@ -660,6 +668,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -731,7 +740,7 @@
     <string name="storage_unavailable">မည်သည့် နေရာလွတ်မှ မရှိပါ</string>
     <string name="subject_hint">အကြောင်းအရာ</string>
     <string name="subject_label">"အကြောင်းအရာ- "</string>
-    <string name="subscribe">Subscribe</string>
+    <string name="subscribe">မှာယူမှု</string>
     <string name="summary_pref_cm_smart_sms">ကဒ် နမူနာပုံစံ၊ မက်ဆေ့ချ် ဝန်ဆောင်မှု နံပါတ်များ စသည်တို့။</string>
     <string name="switch_to_editor">အယ်ဒီတာမုဒ်</string>
     <string name="switch_to_menu">မီနူးမုဒ်</string>
@@ -746,7 +755,7 @@
     <string name="title_show_blocked_messages">ဘလော့လုပ်ထားသော SMS ကိုပြပါ</string>
     <string name="title_show_list_avatar">ပရိုဖိုင်ဓါတ်ပုံများကို ပြသပါ</string>
     <string name="title_show_photo_word">အဆက်အသွယ်ဓာတ်ပုံ ထည့်သွင်းမည်။</string>
-    <string name="title_show_sms_template">စမတ် မက်ဆေ့ချ်</string>
+    <string name="title_show_sms_template">စမတ် မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="title_show_sms_template_in">OTP အတွက် SMS အားစစ်ဆေးပါ</string>
     <string name="title_timed_message_dialog">အချိန်မက်ဆေ့ချ်ကို သတ်မှတ်ပါ</string>
     <string name="title_use_gsm_alphabet">GSM အက္ခရာစဥ်ကို အသုံးပြုပါ</string>
@@ -758,6 +767,7 @@
     <string name="too_many_attachments">ပူးတွဲဖိုင် %1$s ခုထက် ကျော်၍ မရပါ။ ပထမဆုံး %2$s ခုကိုသာ ထည့်ပါလိမ့်မည်။</string>
     <string name="too_many_recipients">မက်ဆေ့ချ်တွင် လက်ခံသူများ (%1$s) များလွန်းသည်။ လက်ခံသူ %2$s ဦးထက် ပို၍ မရနိုင်ပါ။</string>
     <string name="too_many_unsent_mms">ယခု မက်ဆေ့ချ်ပို့လို့မရပါ။ မပို့ရသေးသော ရုပ်သံမီဒီယာ မက်ဆေ့ချ်များအလွန်များနေသည်။</string>
+    <string name="train_edit_destination">ပေါင်းထည့်မည်</string>
     <string name="try_to_send">ပို့ရန်ကြိုးစားပါ</string>
     <string name="type_attachment">ပူးတွဲဖိုင်</string>
     <string name="type_audio">အော်ဒီယို</string>

@@ -125,6 +125,14 @@
     <string name="install">တပ်ဆင်</string>
     <string name="installing">ထည့်သွင်းနေ…</string>
     <string name="insufficient_space">သိုလှောင်မှု မလုံလောက်ပါ</string>
+    <string name="korean_all_choose_item_title">အောက်ပါ စည်းကမ်းသတ်မှတ်ချက် အားလုံးကို သဘောတူပါသည်။</string>
+    <string name="korean_permission_group_phone_describe">ဝန်ဆောင်မှု တိုးတက်စေရန် စက်၏ IMEI နှင့် ကွန်ရက်အခြေအနေသို့ ဝင်ရောက်ပြီး မအောင်မြင်သော ဒေါင်းလုဒ် အချက်အလက်အား စုဆောင်းမည်</string>
+    <string name="korean_permission_group_phone_title">ဖုန်း</string>
+    <string name="korean_privacy_btn_accept">လက်ခံပါသည်</string>
+    <string name="korean_privacy_btn_exit">ထွက်မည်</string>
+    <string name="korean_privacy_item_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
+    <string name="korean_privacy_tv_summary">အောက်ပါ အိုင်တမ်များအား သေချာစွာ ဖတ်ရှုပြီး သဘောတူ/မတူ ရွေးပါ။</string>
+    <string name="korean_user_agreement_item_title">အသုံးပြုသူ သဘောတူညီမှု (မဖြစ်မနေ)</string>
     <string name="load_finish_hint">အားလုံးပြီးပါပြီ။</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="media_filter">မီဒီယာ</string>
@@ -136,6 +144,7 @@
     <string name="menu_title_resume_all">အားလုံးကို စတင်ပါ</string>
     <string name="menu_title_settings">ဆက်တင်များ</string>
     <string name="net_error">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="new_file_notification_title_image">ရုပ်ပုံ</string>
     <string name="no_file_hint">ဤဖိုင်အား ဒေါင်းလုဒ်လုပ်ရန် ပြင်ဆင်ထားပြီးဖြစ်သည်</string>
     <string name="no_result_for_keyword">ရှာမတွေ့နိုင်ခဲ့ပါ \"%1$s\"</string>
     <string name="no_share_file">ဤဖိုင်အား မမျှဝေနိုင်ခဲ့ပါ</string>

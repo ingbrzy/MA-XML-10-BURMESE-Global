@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>စိတ်ကြိုက်စီမံမည်</item>
-        <item>ဘက်ထရီချွေတာရေး</item>
+        <item>MIUI ဘက်ထရီ ချွေတာသူ</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>အသုံးများသော အက်ပ်များ</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>အပူချိန်ထိန်းချုပ်မှုအား ဦးစားပေးမည်</item>
         <item>လုပ်ဆောင်ရည်အား ဦးစားပေးမည်</item>
-        <item>အထူးမုဒ်တွင် အလုပ်မလုပ်ပါ</item>
+        <item>အကြီးမားဆုံး ဘက်ထရီချွေတာသူတွင် မပံ့ပိုးထားပါ</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>စွမ်းဆောင်ရည်</item>

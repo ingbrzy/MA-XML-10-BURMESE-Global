@@ -69,7 +69,7 @@
     <string name="error_get_image">ပုံမရပါ</string>
     <string name="error_media_storage_failure">ဓါတ်ပုံအား မသိမ်းဆည်းနိုင်ခဲ့ပါ</string>
     <string name="error_permissions">စကန်နာသည် ပုံမှန်အလုပ်လုပ်ဆောင်ရန် လိုအပ်သော ခွင့်ပြုချက်မရှိပါ။ ဆက်တင်များသို့သွား၍ ခွင့်ပြုချက်များအား စစ်ဆေးကြည့်ပါ။</string>
-    <string name="error_server_error">ဆာဗာ အမှား</string>
+    <string name="error_server_error">ဆာဗာ မှားယွင်းမှုတစ်ခု ဖြစ်ပွားသည်။</string>
     <string name="fax">ဖက်စ်</string>
     <string name="feed_search_fail">ရလဒ်မရှိပါ၊ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="feedback_description_camera_access">ကင်မရာသို့ ချိတ်ဆက်လို့ မရပါ</string>
@@ -77,7 +77,7 @@
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gps">ဂျီပီအက်စ် လမ်းညွှန်</string>
     <string name="import_contact">အဆက်အသွယ်ကိုထည့်ပါ</string>
-    <string name="impunity_declaration_content">စကင်နာမှ ကင်မရာသို့ ဝင်ရောက်၍ ဓာတ်ပုံရိုက်ယူရန် ခွင့်ပြုချက်များ လိုအပ်သည်။ အလုပ် ပုံမှန် လုပ်နိုင်ရန် အင်တာနက်သို့လည်း ချိတ်ဆက်ခွင့် လိုအပ်သည်။ \"သဘောတူပါသည်\"အား ထိနှိပ်သည်နှင့် တပြိုင်နက် သင်သည် ကျွန်ုပ်တို့၏ %1$sကိုယ်ရေးအချက်အလက် ပေါ်လစီ%2$sကို ကောင်းစွာ ဖတ်ရှုနားလည် သဘောပေါက်သဖြင့် လက်ခံသည်ဟု မှတ်ယူပါမည်။</string>
+    <string name="impunity_declaration_content">ဤအက်ပ်အား သုံးနေစဥ် စကန်နာမှ ဓာတ်ပုံ အချက်အလက်များကို ရယူလိုသည်။ စကန်နာဖြင့် သင်၏ ကိုယ်ရေးအချက်အလက်များအား ဓာတ်ပုံ မရိုက်ပါနှင့်။ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ကျွန်ုပ်တို့၏ &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a>&lt;/font> ကို သဘောတူပြီး စကန်နာအား အင်တာနက်သို့ ချိတ်ဆက်ရန် ခွင့်ပြုမည် ဖြစ်ပါသည်။</string>
     <string name="impunity_declaration_negative_text">ထွက်</string>
     <string name="impunity_declaration_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="label_choose_picture">ပုံ ရွေးပါ</string>
@@ -102,7 +102,7 @@
     <string name="module_title_document">စာရွက်စာတမ်း</string>
     <string name="module_title_plant">အပင်</string>
     <string name="module_title_shopping">ဈေးဝယ်</string>
-    <string name="module_title_study">သင်ကြားလေ့လာ</string>
+    <string name="module_title_study">အိမ်စာ</string>
     <string name="module_title_translation">ဘာသာပြန်ဆို</string>
     <string name="name">အမည်−</string>
     <string name="new_schedule">အချိန်ဇယား အသစ် ဖန်တီးမည်</string>
@@ -114,6 +114,8 @@
     <string name="not_recommend_access_web_url">အမည်သို့မဆိုသွားပါ</string>
     <string name="note">မှတ်ချက်−</string>
     <string name="open_url">URL ဖွင့်ပါ</string>
+    <string name="pay_no_tip">နောက်ထပ် မပြပါနှင့်</string>
+    <string name="pay_save_this_choose">ကျွန်ုပ်၏ ရွေးချယ်မှုကို မှတ်ထားပါ</string>
     <string name="payment_text">%sဖြင့် ဖွင့်ပါ</string>
     <string name="phone">ဖုန်း−</string>
     <string name="place_barcode_into_rectangle">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
@@ -145,11 +147,11 @@
     <string name="shopping_title">ကုန်ပစ္စည်း၏ပုံအား ရိုက်ယူပါ</string>
     <string name="shopping_vendor_info">Taobao မှအားဖြည့်ထားသော</string>
     <string name="spaceIsLow_content">အတွင်းပိုင်းသိုလှောင်ခန်း နေရာမလုံလောက်ပါ။ နေရာတစ်ချို့အား ရှင်းလင်းပါ။</string>
-    <string name="study_rotate_picture">ဓါတ်ပုံအား စီမံနေသည်</string>
+    <string name="study_rotate_picture">ဓာတ်ပုံအား ဖန်တီးနေသည်…</string>
     <string name="study_scan_result">အဖြေ</string>
-    <string name="study_searching">အဖြေအား ရှာဖွေနေသည်</string>
-    <string name="study_title">မေးခွန်းအား ဓာတ်ပုံ ရိုက်ပါ</string>
-    <string name="study_vendor_info">作业帮 မှ ပံ့ပိုးသည်</string>
+    <string name="study_searching">ရလဒ်များအား ရှာဖွေနေသည်…</string>
+    <string name="study_title">ဖြေရှင်းလိုသော မေးခွန်းအား စကန်ဖတ်ပါ</string>
+    <string name="study_vendor_info">Zuoyebang မှ ပံ့ပိုးသည်</string>
     <string name="switch_open">ဖွင့်ပါ</string>
     <string name="tel">ဖုန်း</string>
     <string name="title">ဂုဏ်ရာထူး−</string>
@@ -160,6 +162,7 @@
     <string name="translate_dest_lang">ရည်မှန်းချက် ဘာသာစကား</string>
     <string name="translate_fail">ဘာသာပြန်၍ မရပါ</string>
     <string name="translate_loading">ဘာသာပြန်နေသည်…</string>
+    <string name="translate_parallel_2_lines">စာသားအား မျက်နှာပေါ်ရှိ မျဉ်းနှင့် အပြိုင်ထားပါ</string>
     <string name="translate_save_fail">မှတ်စုအား သိမ်းဆည်း၍ မရပါ</string>
     <string name="translate_src_lang">ပင်ရင်း ဘာသာစကား</string>
     <string name="translate_text_compare">နှိုင်းယှဉ်မှု</string>

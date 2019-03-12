@@ -10,7 +10,7 @@
     </string-array>
     <string-array name="editing_mode_entries">
         <item>နောက်ခံပုံ</item>
-        <item>ဝစ်ဂတ်များ</item>
+        <item>ဝစ်ဂျက်များ</item>
         <item>ဆက်တင်များ</item>
     </string-array>
     <string-array name="gadget_weather_image">
@@ -20,7 +20,7 @@
         <item>မြူထူသော</item>
         <item>ပြင်းထန်သော မိုးလေမုန်တိုင်း</item>
         <item>မိုးလေမုန်တိုင်း</item>
-        <item>မိုးရေချိန်အလွန်မြင့်မည်</item>
+        <item>မိုးရေချိန် အလွန်မြင့်မည်</item>
         <item>မိုးသက်မုန်တိုင်း</item>
         <item>ပြတ်တောင်းမိုး</item>
         <item>အားပြင်းသော မိုးလေမုန်တိုင်း</item>
@@ -29,7 +29,7 @@
         <item>မိုးနှင်းရွာသွန်းမည်</item>
         <item>နှင်းမုန်တိုင်း</item>
         <item>ကွက်ကျား ဆီးနှင်းကျမည်</item>
-        <item>ဆီးနှင်းသည်းထန်စွာကျမည်</item>
+        <item>ဆီးနှင်း သည်းထန်စွာ ကျမည်</item>
         <item>ဆီးနှင်းကျမည်</item>
         <item>ဆီးနှင်းပါးပါးကျမည်</item>
         <item>အားပြင်းသော သဲမုန်တိုင်း</item>
@@ -41,13 +41,13 @@
         <item>မီးခိုးမြူဆိုင်းမည်</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-        <item>နဂိုမူလပုံစံ</item>
-        <item>ဂန္ထဝင်မိုး</item>
+        <item>မူလပုံစံ</item>
+        <item>ဂန္ထဝင်</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>ဆလိုက်</item>
-        <item>မှေးမှိန်သောပုံစံ</item>
-        <item>ရုပ်သံချက်ချင်းမှေးမှိန်ကျခြင်း</item>
+        <item>ဝင်ထွက် မှေးမှိန်သော</item>
+        <item>ထိုးကျခြင်း</item>
         <item>စာမျက်နှာပုံစံ</item>
         <item>အလွှာပုံစံ</item>
         <item>လှည့်ပတ်ပုံစံ</item>

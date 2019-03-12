@@ -23,4 +23,5 @@
     <string name="debug_tool_email_body">တွဲချိတ်မှာ ကျွန်ုပ်၏ချိန်းဆိုချက်များ ကိုယ်ပိုင်အချက်အလက်များပါဝင်သော ပြက္ခဒိန် ဒေတာဗေ့စ်ဖြစ်ပါသည်။ သေချာစွာကိုင်တွယ်ပေးပါ။</string>
     <string name="channel_name">ပြက္ခဒိန် သတိပေးချက်များ</string>
     <string name="channel_description" />
+    <string name="cta_notice">ပြက္ခဒိန်အား ဖွင့်ပါ၊ ထို့နောက် ပြက္ခဒိန်အား အင်တာနက်သို့ ချိတ်ဆက်ရန် ဦးစွာ ခွင့်ပြုပါ။</string>
 </resources>

@@ -13,6 +13,7 @@
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
     <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
+    <string name="empty">" "</string>
     <string name="share">မျှဝေပါ</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
@@ -33,4 +34,5 @@
     <string name="gb_weixinpay_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
     <string name="gb_alipays_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
     <string name="xunyou_pay_webview">Xunyou ဝန်ဆောင်မှုများ</string>
+    <string name="gamebox_no_network_btn">ပြန်လည် လုပ်ဆောင်ပါ</string>
 </resources>

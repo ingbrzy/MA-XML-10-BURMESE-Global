@@ -56,6 +56,8 @@
     <string name="no_sound">အသံတိတ်</string>
     <string name="operation_delete">ဖျက်ပါ</string>
     <string name="operation_send">ပေးပို့</string>
+    <string name="permission_intro_microphone">အသံသွင်းသောအခါ အသံအား မိုက်ခရိုဖုန်းမှ ဖမ်းနိုင်ရန်</string>
+    <string name="permission_intro_storage">မျက်နှာပြင် မှတ်တမ်းတင်မှုအား သိမ်းနိုင်ရန်</string>
     <string name="quit_recording">မျက်နှာပြင်ရီကော်တာမှ ထွက်မည်</string>
     <string name="recording_failure">မှတ်တမ်း မတင်နိုင်ခဲ့ပါ၊ ပြန်လည်စတင်ပါ</string>
     <string name="recording_max_size">ဗီဒီယိုဖိုင်သည် ကြီးလွန်းသောကြောင့် အသံဖမ်းယူခြင်း ရပ်တန့်သွားသည်။ အသံဖမ်းယူခြင်း မပြီးဆုံးသေးပါက ရပ်တန့်သောနေရာမှ ပြန်လည်စတင်နိုင်ပါသည်။</string>
@@ -72,6 +74,10 @@
     <string name="show_hard_key_summary">ဟုမ်း၊မီနူး၊နောက်သို့စသည့်ခလုတ်များကို နှိပ်စဉ် အချက်ပြပါ</string>
     <string name="show_screen_touch">ထိနှိပ်မှု လက်ဟန်များပြပါ</string>
     <string name="show_screen_touch_summary">အဖြူရောင်အစက်များသုံးပြီး လက်ဟန်ကို မြင်အောင်လုပ်ပါ</string>
+    <string name="size_byte">B</string>
+    <string name="size_gigabyte">GB</string>
+    <string name="size_kilobyte">KB</string>
+    <string name="size_megabyte">MB</string>
     <string name="sound_source">အသံအရင်းမြစ်</string>
     <string name="sound_source_summary">စနစ်အသံ သို့မဟုတ် မိုက်ခရိုဖုန်း</string>
     <string name="sound_source_summary_without_system_sounds">မိုက်ခရိုဖုန်း သုံးပါ သို့မဟုတ် အသံတိတ်ပါ</string>

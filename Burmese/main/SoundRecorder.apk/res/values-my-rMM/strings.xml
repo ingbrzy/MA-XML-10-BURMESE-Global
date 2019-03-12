@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">ခေါ်ဆိုမှုများအား မှတ်တမ်းတင်၊ ခေါ်ဆိုမှုအား ရီကော့လုပ်၊ ခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်း၊ ခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်းများ</string>
     <string name="keywords_search_record">မှတ်တမ်းအသစ်၊ မှတ်တမ်းပေါင်းထည့်၊ရီကောဒင်း၊ရီကောဒင်းများ၊မှတ်တမ်း၊မှတ်တမ်းများ၊ရီကော်တာ၊စကားပြောရီကော်တာ၊အသံရီကော်တာ၊ရီကော်တာ အက်ပ်၊ ရီကောဒင်းအက်ပ်၊အမည်သို့ မှတ်တမ်းတင်မည်နည်း၊ အသံတစ်ခုအား မည်သို့မှတ်တမ်းတင်မည်နည်း၊ ရီကော်တာ ဘယ်မှာလဲ၊MIUI ရီကော်တာ</string>
     <string name="keywords_search_record_list">ရီကော်တာ၊မှတ်တမ်း၊မှတ်တမ်းများ၊မှတ်တမ်းတင်၊မှတ်တမ်းအား ဝေမျှ၊မှတ်တမ်းများအား ဝေမျှ၊မှတ်တမ်းတင်နေသည်၊မှတ်တမ်းများ</string>
+    <string name="korea_permission_phone">ဖုန်း</string>
+    <string name="korea_permission_phone_resc">ဖုန်းခေါ်ဆိုနေစဉ် စက် အခြေအနေသို့ ဝင်ရောက်နိုင်ရန်နှင့် အသံသွင်းခြင်းများ လုပ်ဆောင်ရန် အတွက်</string>
+    <string name="korea_permission_record">မိုက်ခရိုဖုန်း</string>
+    <string name="korea_permission_record_resc">အသံဖမ်းနိုင်ရန် အတွက်</string>
+    <string name="korea_permission_storage">သိုလှောင်ခန်း</string>
+    <string name="korea_permission_storage_desc">အသံသွင်းမှုအား သိမ်းဆည်းနိုင်ရန် အတွက်</string>
     <string name="loading_order_list">ခဏစောင့်ပါ…</string>
     <string name="loading_order_list_empty">အော်ဒါ မရှိပါ။</string>
     <string name="low_battery_error">ဘက်ထရီ 5% ထက်နည်းနေသည်။ သင်မှတ်တမ်းတင်မှုအား မဆုံးရှုံးရအောင် ရပ်ပြီး သိမ်းလိုက်ပါ။</string>

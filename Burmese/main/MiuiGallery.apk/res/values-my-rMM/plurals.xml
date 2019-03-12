@@ -108,9 +108,6 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">ရမ်းဒါးမလုပ်နိုင်ခဲ့သော ဓါတ်ပုံ %1$d ပုံအား ကျော်သွားပါ</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">အိုင်တမ် %1$d ခု</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">အရန်သိမ်းရန် အိုင်တမ်%1$d ခုစောင့်နေ</item>
     </plurals>
@@ -203,5 +200,11 @@
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">အိုင်တမ် %d ခု</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">စုစုပေါင်း အိုင်တမ် %1$d ခု</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">ဖိုင် %1$d ခု</item>
     </plurals>
 </resources>

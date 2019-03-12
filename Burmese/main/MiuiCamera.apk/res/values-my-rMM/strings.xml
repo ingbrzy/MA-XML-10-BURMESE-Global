@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"လူပုံမုဒ်အား သုံးကြည့်ပါ။
 လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီးအရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
@@ -473,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -588,6 +590,7 @@
     <string name="lighting_pattern_leaf">သစ်ရွက်</string>
     <string name="lighting_pattern_dot">အစက်အပြောက်</string>
     <string name="lighting_pattern_shutter">လိုက်ကာ</string>
+    <string name="lighting_pattern_holi">Holi</string>
     <string name="view_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကြည့်ရှုရန်</string>
     <string name="fps960_toast">ဆလိုးမိုးရှင်း ရိုက်ချက်သည် ရိုက်ကူးမှု၏ နောက်ဆုံး လေးပုံတစ်ပုံတွင် စတင်ပါမည်</string>
     <string name="portrait_bokeh_text">လူပုံမုဒ်</string>
@@ -608,27 +611,27 @@
     <string name="live_speed_extreme_fast">အလွန် မြန်ဆန်</string>
     <string name="live_sticker_updating">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="live_sticker_network_error_hint">ကွန်ရက် အမှား</string>
-    <string name="ultra_wide_mode">ထောင့်ကျယ်</string>
+    <string name="ultra_wide_mode">အစွန်းရောက် ထောင့်ကျယ်</string>
     <string name="beauty_body">ကိုယ်ကာယ</string>
     <string name="beauty_body_head">ဦးခေါင်း</string>
     <string name="beauty_body_body">သွယ်လျသော ခန္ဓာကိုယ်</string>
     <string name="beauty_body_shoulder">ပခုံး</string>
     <string name="beauty_body_legged">ခြေထောက်</string>
     <string name="beauty_body_reset_tip">သွယ်လျမှု ဖန်တီးချက်အား ပြန်သတ်မှတ်ပြီးပါပြီ</string>
-    <string name="ultra_wide_open_tip">ထောင့်ကျယ် မုဒ်</string>
-    <string name="ultra_wide_close_tip">ထောင့်ကျယ် မုဒ်အား ပိတ်ထားသည်</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">ထောင့်ကျယ်</string>
-    <string name="ultra_wide_recommend_tip_hint">ထောင့်ကျယ် မုဒ်အား သုံးကြည့်ပါ</string>
+    <string name="ultra_wide_open_tip">အစွန်းရောက် ထောင့်ကျယ်မုဒ်</string>
+    <string name="ultra_wide_close_tip">အစွန်းရောက် ထောင့်ကျယ်မုဒ်အား ပိတ်ထားသည်</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">အစွန်းရောက် ထောင့်ကျယ်</string>
+    <string name="ultra_wide_recommend_tip_hint">အစွန်းရောက် ထောင့်ကျယ်မုဒ်အား သုံးကြည့်ပါ</string>
     <string name="camera_liveshot_on_tip">လှုပ်လှုပ်ရှားရှား ဓာတ်ပုံ</string>
     <string name="camera_liveshot_off_tip">လှုပ်လှုပ်ရှားရှား ဓာတ်ပုံအား ပိတ်ထားသည်</string>
     <string name="accessibility_camera_liveshot_on">လှုပ်လှုပ်ရှားရှား ဓာတ်ပုံအား ဖွင့်ထားသည်</string>
     <string name="accessibility_camera_liveshot_off">လှုပ်လှုပ်ရှားရှား ဓာတ်ပုံအား ပိတ်ထားသည်</string>
     <string name="beauty_tab_name_live_filter">စစ်ထုတ်ကိရိယာ</string>
     <string name="beauty_tab_name_live_beauty">အလှဆင်မှု</string>
-    <string name="accessibility_ultra_wide_on">ထောင့်ကျယ် မုဒ်အား ဖွင့်ထားသည်</string>
-    <string name="accessibility_ultra_wide_off">ထောင့်ကျယ် မုဒ်အား ပိတ်ထားသည်</string>
+    <string name="accessibility_ultra_wide_on">အစွန်းရောက် ထောင့်ကျယ်မုဒ်အား ဖွင့်ထားသည်</string>
+    <string name="accessibility_ultra_wide_off">အစွန်းရောက် ထောင့်ကျယ်မုဒ်အား ပိတ်ထားသည်</string>
     <string name="ai_scene_top_tip">လ မုဒ်</string>
-    <string name="pref_camera_ultra_wide_ldc_title">ထောင့်ကျယ် ပုံပျက်မှု ပြင်ဆင်ချက်</string>
+    <string name="pref_camera_ultra_wide_ldc_title">အစွန်းရောက် ထောင့်ကျယ် ပုံပျက်မှု ပြင်ဆင်ချက်</string>
     <string name="pref_camera_ultra_wide_ldc_description">ထောင့်ကျယ် ပုံပျက်မှု အား အလိုအလျောက် ပြင်ဆင်မည်</string>
     <string name="pref_camera_normal_wide_ldc_title">အုပ်စုဓာတ်ပုံရှိ မျက်နှာ ပုံပျက်မှု ပြင်ဆင်ချက်</string>
     <string name="pref_camera_normal_wide_ldc_description">ဓာတ်ပုံဖရိန် အနားရှိ မျက်နှာ ပုံပျက်မှုအား ပြင်ဆင်မည်</string>
@@ -646,8 +649,8 @@
     <string name="live_edit_exit_confirm">ရပ်မည်</string>
     <string name="live_edit_share_title">မျှဝေမည်</string>
     <string name="beauty_reset_toast">ကိုယ်ခန္ဓာ သွယ်လျမှု ဖန်တီးချက်အား ဖယ်ရှားပြီးပါပြီ</string>
-    <string name="pref_camera_ultra_wide_mode_title">ထောင့်ကျယ် မုဒ်</string>
-    <string name="ultra_wide_mode_use_hint_text">"ဤမုဒ်ဖြင့် မြင်ကွင်း ကျယ်ကျယ် ဓာတ်ပုံများ ရိုက်ယူနိုင်ပြီ။
+    <string name="pref_camera_ultra_wide_mode_title">အစွန်းရောက် ထောင့်ကျယ်မုဒ်</string>
+    <string name="ultra_wide_mode_use_hint_text">"ဤမုဒ်ဖြင့် အစွန်းရောက် ထောင့်ကျယ် မြင်ကွင်း ဓာတ်ပုံများ ရိုက်ယူနိုင်ပြီ။
 အံ့ဖွယ် အလှအပများကို မှတ်တမ်းတင်လိုက်ပါ။"</string>
     <string name="live_reverse_message">ယခင်က ရိုက်ထားသော အိုင်တမ်အား ဖျက်ပစ်မလား?</string>
     <string name="live_reverse_confirm">ဖျက်ပစ်မည်</string>
@@ -673,4 +676,10 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP အား ဖွင့်ထားသည်</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP အား ပိတ်ထားသည်</string>
     <string name="zoom_no_support_tip_48M">48MP မုဒ်တွင် ကင်မရာ ချုံ့ချဲ့လုပ်၍ မရပါ</string>
+    <string name="hand_gesture_open_tip">တိုင်မာ စတင်ရန် သင့်လက်ဖဝါးအား ကင်မရာသို့ ပြပါ</string>
+    <string name="hand_gesture_tip">လက်ဟန်ဖြင့် ဓာတ်ပုံရိုက်ခြင်း</string>
+    <string name="autozoom_landscape_hint">အလျားလိုက် ရိုက်ရန် အကြံပြုပါသည်</string>
+    <string name="super_night_toast">ဓာတ်ပုံ ရိုက်နေစဥ် သင်၏ ဖုန်းအား ငြိမ်အောင်ထားပါ</string>
+    <string name="capture_back_pressed_hint">ထွက်ရန် နောက်တစ်ကြိမ် ထိနှိပ်ပါ</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

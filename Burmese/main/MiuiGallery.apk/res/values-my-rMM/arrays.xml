@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>နေ့ထူး</item>
+        <item>ရောင်စုံ နေ့ရက်များ</item>
+        <item>မြူးမြူးကြွကြွ အခိုက်</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>ယောက်ျားလေး</item>
         <item>မိန်းကလေး</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>ကျွန်ုပ်၏ အားလပ်ရက်များ</item>
+        <item>ဘဝ အပိုင်းအစများ</item>
+        <item>အားလပ်ရက် အမှတ်တရများ</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ရွှေ့ရန်</item>
+        <item>ကော်ပီကူးမည်</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>ဇန်နဝါရီ</item>
@@ -26,6 +41,11 @@
         <item>အမေဘက်မှ အဖိုး</item>
         <item>အမေဘက်မှ အဖွား</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>အတူတကွ</item>
+        <item>အမှတ်တရများ</item>
+        <item>တွေ့ဆုံချိန်</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>ကျွန်ုပ်</item>
         <item>ကလေး</item>
@@ -48,5 +68,9 @@
         <item>အဖေဘက်မှ အဖွား</item>
         <item>အမေဘက်မှ အဖိုး</item>
         <item>အမေဘက်မှ အဖွား</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>ကျန်းကျန်းမာမာ နေထိုင်မှု</item>
+        <item>တက်တက်ကြွကြွ</item>
     </string-array>
 </resources>

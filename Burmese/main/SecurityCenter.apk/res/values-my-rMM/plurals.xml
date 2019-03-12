@@ -182,6 +182,9 @@
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">နောက်ဆုံးစစ်ဆေးခြင်းပြီးကတည်းက %d ရက်</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">အန္တရာယ် %d ခု တွေ့ရှိသည်၊ ယခု ပြုပြင်မည်</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">အန္တရာယ် %d ခု၊</item>
     </plurals>
@@ -280,9 +283,6 @@
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">အက်ပ် %d ခု ကွယ်ဝှက်ထားသည်</item>
-    </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">အက်ပ် %dခု၏ ပြသမှုသည် မှားနိုင်ခြေရှိသည်။ အရှင်ထားနိုင်သော အသိပေးချက်များအား ကန့်သတ်မည်။</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">ပြဿနာ %1$dခု ဖြေရှင်းရန် ရှိသည်</item>

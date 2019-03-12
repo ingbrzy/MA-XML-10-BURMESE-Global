@@ -4,11 +4,11 @@
     <string name="accessibility_contact_detail">အဆက်အသွယ် အသေးစိတ်အချက်အလက်များ</string>
     <string name="account_container_title">သွင်းယူသောနေရာ</string>
     <string name="account_default">အတွင်းပိုင်း</string>
+    <string name="account_dual_sdn">SDN %s</string>
+    <string name="account_dual_sim">ဆင်းမ်ကဒ် %s</string>
     <string name="account_phone">ဖုန်းသာ၊ ဆင့်ခ်လုပ်မထားပါ</string>
     <string name="account_sdn">SDN</string>
-    <string name="account_sdn2">SDN %d</string>
     <string name="account_sim">ဆင်းမ်ကဒ်</string>
-    <string name="account_sim2">ဆင်းမ်ကဒ် %d</string>
     <string name="account_type_format">%1$s အဆက်အသွယ်</string>
     <string name="actionIncomingCall">အဝင်ဖုန်းများ</string>
     <string name="action_menu_overflow_description">နောက်ထပ် ရွေးစရာများ</string>
@@ -98,6 +98,7 @@
     <string name="call_sim_menu_title_suffix">(ဦးစားပေး)</string>
     <string name="call_telex">တယ်လက်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_tty_tdd">TTY/TDD ဖုန်းကို ခေါ်ပါ</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">အလုပ်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_work_mobile">အလုပ်မိုဘိုင်းဖုန်းကို ခေါ်ပါ</string>
@@ -264,6 +265,7 @@
     <string name="contactsGroupsLabel">အုပ်စုများ</string>
     <string name="contactsJoinedMessage">အဆက်အသွယ်များ ပေါင်းစုပြီးပြီ</string>
     <string name="contactsList">အဆက်အသွယ်များ</string>
+    <string name="contacts_default_notification_channel">အသိပေးချက်များ</string>
     <string name="contacts_hybrid_activity_label">အဆက်အသွယ်များအား ပြန်ရယူပါ</string>
     <string name="contacts_setting_title">အဆက်အသွယ် ဆက်တင်များ</string>
     <string name="contacts_unavailable_add_account">အကောင့်တစ်ခုသို့ ဆိုင်းအင်ဝင်ပါ</string>
@@ -409,9 +411,9 @@
     <string name="dialog_voicemail_airplane_mode_message">အသံမေးလ်ခေါ်ရန်၊ လေယာဥ်သုံးနည်းပုံစံကို ပိတ်ပါ။</string>
     <string name="dialog_voicemail_not_ready_message">အသံမေးလ် သတ်မှတ်ရန်၊ မီနူး > ဆက်တင်များသို့ သွားပါ။</string>
     <string name="directory_search_label">အညွှန်းဖိုလ်ဒါ</string>
-    <string name="disclaimer_text">"အဝါရောင်လမ်းညွှန်များသည် သင့်လက်ကျန်ငွေအား SMS များပေးပို့ခြင်းဖြင့် ရယူပါသည်။ သင်ဖုန်းလိုင်းဝန်ဆောင်မှုနှောင့်နှေးခြင်း ရှိနိုင်သဖြင့် ဒေတာများသည် တိကျမှုမရှိနိုင်ပါ။ အမှားတစ်ခုတွေ့ရှိပါက၊ ဝန်ဆောင်မှု အဆင့်မြှင့်တင်ရန် SMS ပေးပို့၍ ကူညီနိုင်ပါသည်။ 
+    <string name="disclaimer_text">"သင့်လက်ကျန်ငွေအား ဖုန်းလမ်းညွှန်းမှတဆင့် SMS ပေးပို့ခြင်းဖြင့် သိရှိနိုင်ပါသည်။ ဖုန်းလိုင်းကုမ္ပဏီမှ နှောင့်နှေးမှုများ ရှိနိုင်သောကြောင့် ဒေတာများသည် တိကျမှုတွင် မှားနိုင်သည်။ အမှား တွေ့ရှိပါက ဝန်ဆောင်မှု ပိုမိုကောင်းစေနိုင်ရန် ကျွန်ုပ်တို့ထံ SMS ပေးပို့၍ ကူညီနိုင်ပါသည်။ 
 
-ခဏခဏ မေးမြန်းခြင်းများအား ရှောင်ရှားရန်၊ လက်ကျန်ပမာဏတန်ဖိုးကို တစ်ရက်တစ်ကြိမ် အသစ်မွမ်းမံပါသည်။"</string>
+ခဏခဏ မေးမြန်းခြင်းများအား ရှောင်ရှားနိုင်ရန် ဖုန်းလက်ကျန်ငွေအား တစ်နေ့တစ်ကြိမ် အပ်ဒိတ်လုပ်သွားပါမည်။"</string>
     <string name="disclaimer_title">မသက်ဆိုင်ကြောင်းရှင်းလင်းချက်</string>
     <string name="display_all_contacts">အဆက်အသွယ်အားလုံး</string>
     <string name="display_more_groups">နောက်ထပ်အုပ်စုများ…</string>
@@ -487,6 +489,7 @@
     <string name="force_touch_miprofile">ဆက်သွယ်မှု ကဒ်များ</string>
     <string name="force_touch_new_contact">အဆက်အသွယ် အသစ်</string>
     <string name="frequentList">မကြာခဏ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="generic_no_account_prompt">သင့်ဖုန်း ပျောက်ဆုံးသွားရင်တောင်မှ၊ သင့်အဆက်အသွယ်များ စိတ်ချစွာဖြင့် ဆက်ရှိနေအောင်: အွန်လိုင်းဝန်ဆောင်မှုတစ်ခုနှင့် ဆင့်ခ်လုပ်ထားပါ။</string>
@@ -667,6 +670,7 @@
     <string name="miprofile_contact_header">ဆက်သွယ်ကဒ်များပါဝင်သည့် အဆက်သွယ်များ</string>
     <string name="miprofile_contact_meaasge">စက်ထဲရှိအဆက်သွယ်များ</string>
     <string name="miprofile_contact_verifying">အတည်ပြုနေ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_error_accept_self">သင့်ကိုယ်ပိုင်၏ အဆက်သွယ်ကဒ်အား ဖလှယ်၍မရနိုင်ပါ</string>
     <string name="miprofile_error_no_miaccount">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -811,7 +815,10 @@
     <string name="path_wipe_data">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဒေတာရှင်းလင်း</string>
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">ဖုန်းထဲတွင် မည်သည့်ပုံမျှ မရှိပါ။</string>
@@ -1059,6 +1066,7 @@
     <string name="sim_unloaded">ဆင်းမ်ကဒ် ထည့်သွင်းထားခြင်းမရှိပါ</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1193,6 +1201,7 @@
     <string name="voip_audio_description">VoIP ခေါ်ဆိုမှု</string>
     <string name="voip_video_description">VoIP ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="websiteLabelsGroup">ဝက်ဘ်ဆိုက်</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ဒေတာရှင်းပါ</string>
     <string name="yellowPageNavigationIconLabel">ဖုန်းလမ်းညွှန်</string>
     <string name="yellowPageNavigationLabel">အဝါရောင်စာမျက်နှာများ</string>

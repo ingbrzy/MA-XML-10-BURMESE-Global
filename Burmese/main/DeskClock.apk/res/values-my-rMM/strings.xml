@@ -71,6 +71,12 @@
     <string name="invalid_time">မမှန်ကန်သောအချိန်- %3$s %1$d- %2$d</string>
     <string name="invalid_timer_length">တိုင်မာ ကြာချိန် မမှန်ပါ</string>
     <string name="keep_screen_on">မျက်နှာပြင် ဖွင့်ထားပါ</string>
+    <string name="korea_permission_calendar">ပြက္ခဒိန်</string>
+    <string name="korea_permission_calendar_desc">သတိပေးချက်များ ပေးပို့နိုင်ရန် အစီအစဉ် အချက်အလက်များ ရယူမည်</string>
+    <string name="korea_permission_phone">ဖုန်း</string>
+    <string name="korea_permission_phone_desc">ဖုန်းခေါ်ဆိုနေစဉ် သတိပေးချက်များအား အသံတိတ်စေရန် စက် အခြေအနေသို့ ဝင်ရောက်မည်</string>
+    <string name="korea_permission_storage">သိုလှောင်ခန်း</string>
+    <string name="korea_permission_storage_desc">နှိုးစက်များအား သိမ်းရန်</string>
     <string name="label">လေဘယ်ရွေး</string>
     <string name="label_pref_summary">လေဘယ်</string>
     <string name="lap">လှုပ်ရှားအချိန်ပိုင်း</string>
@@ -107,9 +113,11 @@
     <string name="module_download_cancel">မလိုအပ်ပါ</string>
     <string name="module_download_data_msg">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်၍ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ မိုဘိုင်းဒေတာ ၂၀ MB ကုန်ကျနိုင်သည်။ ခွင့်ပြုမလား?</string>
     <string name="module_download_data_msg_golbal">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ မိုဘိုင်းဒေတာ ၂၀ MB ကုန်ကျနိုင်သည်။ ခွင့်ပြုမလား?</string>
+    <string name="module_download_data_msg_replace">စမတ်နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယို (၂၀ MB နီးပါး) ရနိုင်ပါပြီ။ ကွန်ရက်သို့ ချိတ်ဆက်၍ မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_fail">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="module_download_msg">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်၍ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ ခွင့်ပြုမလား?</string>
     <string name="module_download_msg_golbal">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ ခွင့်ပြုမလား?</string>
+    <string name="module_download_msg_replace">စမတ်နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယို ရနိုင်ပါပြီ။ ယခု ကွန်ရက်သို့ ချိတ်ဆက်၍ ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="module_download_ok">ခွင့်ပြုမည်</string>
     <string name="module_download_success">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -148,6 +156,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၅ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -161,10 +170,12 @@
     <string name="snooze_duration_value_thirty">၃၀</string>
     <string name="snooze_duration_value_twenty">၂၀</string>
     <string name="snooze_duration_value_twenty_five">၂၅</string>
+    <string name="star_wy_alarm_speech">Roy Wang နှင့် တွေ့ဆုံခြင်း</string>
     <string name="start">စတင်ပါ</string>
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">℃</string>

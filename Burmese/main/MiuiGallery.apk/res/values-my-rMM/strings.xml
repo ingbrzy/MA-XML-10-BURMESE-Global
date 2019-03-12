@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="confirm_recommandation_face_is">&lt;Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ဖြစ်သည်မှာ သေချာပါသလား? ဤပုဂ္ဂိုလ်အား အယ်လ်ဘမ် \"%2$s\" သို့ ရွေ့လိုက်လိမ့်မည် &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>မဟုတ်သည်မှာ သေချာပါသလား? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>တို့ ဖြစ်သည်မှာ သေချာပါသလား? ဤပုဂ္ဂိုလ်များအား အယ်လ်ဘမ် \"%2$s\" သို့ ရွေ့လိုက်လိမ့်မည် &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>တို့မဟုတ်သည်မှာ သေချာပါသလား? &lt;/Data></string>
     <string name="accept">လက်ခံရန်</string>
     <string name="accept_or_deny">%1$s သည် အယ်လ်ဘမ် %2$s ကို သင်နှင့်အတူ မျှဝေထားပါသည်။</string>
     <string name="actionbar_overflow_item_desc">နောက်ထပ် ရွေးစရာများ</string>
@@ -32,6 +36,11 @@
     <string name="adjust_saturation">တောက်ပမှုပြင်းအား</string>
     <string name="adjust_sharpen">ပိုကြည်စေပါ</string>
     <string name="adjust_vignette">လင်းမှောင်ဖြင့်အနားသတ်ပုံ</string>
+    <string name="agreement_agree">လက်ခံမည်</string>
+    <string name="agreement_optional_tip">(ရွေးချယ်နိုင်သော)</string>
+    <string name="agreement_quit">ထွက်မည်</string>
+    <string name="agreement_required_tip">(မဖြစ်မနေ)</string>
+    <string name="agreement_summary">တရားဝင် စာရွက်စာတမ်းများ</string>
     <string name="ai_album_open_switch_button_title">ဓါတ်ပုံများအား စတင်စိစစ်မည်</string>
     <string name="ai_album_requesting_title">AI အယ်လဂိုရီသမ်သည် လုပ်ဆောင်နေဆဲဖြစ်သည်။</string>
     <string name="ai_album_setting_sub_title">လူ၊ နေရာနှင့် အရာဝတ္ထုများအား လျင်မြန်စွာ ရှာဖွေနိုင်ရန် AI အယ်လဂိုရီသမ်အား ခွင့်ပြုပါ။</string>
@@ -88,8 +97,8 @@
     <string name="alert_secret_album_message">အယ်လ်ဘမ်တက်ဘ်ထဲတွင် ဆွဲချပါက ဝှက်ထားသောအယ်လ်ဘမ်ကို ကြည့်ရှုနိုင်သည်။</string>
     <string name="alert_secret_album_message_lower_case">ကြည့်ရှုရန် အယ်လ်ဘမ်တွင်ဆွဲချပါ</string>
     <string name="alert_secret_album_title">ကွယ်ဝှက်အယ်လ်ဘမ်အား မည်သို့ကြည့်မည်နည်း</string>
-    <string name="alert_selection_description">AI သည် ဆင်တူဖြစ်နေသော ပုံများမှ အကောင်းဆုံးပုံအား ကြယ်ဖြင့် အမှတ်အသားပြုထားမည်။</string>
-    <string name="alert_selection_title">AI မှ ရွေးသော</string>
+    <string name="alert_selection_description">MIUI မှ ဆင်တူပုံများအား စိစစ်ပြီး အကောင်းဆုံး ပုံများကို အမှတ်အသား လုပ်ထားပါမည်။</string>
+    <string name="alert_selection_title">အကောင်းဆုံး ပုံအား ရွေးပါ</string>
     <string name="all_faces">ဤပုဂ္ဂိုလ်ပါသော ဓါတ်ပုံများ</string>
     <string name="all_items_synced">Mi ကလောက် သို့အယ်လ်ဘမ်အားလုံးအား အရန်သိမ်းပြီးပြီ</string>
     <string name="all_video_album_display_name">ဗီဒီယိုအားလုံး</string>
@@ -293,13 +302,9 @@
     <string name="confirm_hidden_recommend_group">အိုကေ</string>
     <string name="confirm_hidden_recommend_group_message">အကြံပြုချက်များကို ပိတ်ထားစဉ်၊သင်သည် \"အလားတူပုံတူများထပ်မံ၍\"အား အသုံးပြု၍ ရနိုင်ပါသေးသည်။</string>
     <string name="confirm_hidden_recommend_group_title">အကြံပြုချက်များအား မပြပါနှင့်</string>
-    <string name="confirm_merge_face_albums">" "<Data> ဤအယ်လ်ဘမ်ကို %s နှင့်အတူ ပေါင်းမလား? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> ဤအယ်လ်ဘမ်ကို %s နှင့်အတူ ပေါင်းမလား? </Data>" "</string>
+    <string name="confirm_merge_face_albums">&lt;Data> ဤအယ်လ်ဘမ်ကို %s နှင့်အတူ ပေါင်းမလား? &lt;/Data></string>
+    <string name="confirm_merge_many_face_albums">&lt;Data> ဤအယ်လ်ဘမ်ကို %s နှင့်အတူ ပေါင်းမလား? &lt;/Data></string>
     <string name="confirm_not_face">ကိုက်ညီသည့်အရာများ မတွေ့ပါ</string>
-    <string name="confirm_recommandation_face_is">" "<Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ဖြစ်သည်မှာ သေချာပါသလား? ဤပုဂ္ဂိုလ်အား အယ်လ်ဘမ် \"%2$s\" သို့ ရွေ့လိုက်လိမ့်မည် </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>မဟုတ်သည်မှာ သေချာပါသလား? </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>တို့ ဖြစ်သည်မှာ သေချာပါသလား? ဤပုဂ္ဂိုလ်များအား အယ်လ်ဘမ် \"%2$s\" သို့ ရွေ့လိုက်လိမ့်မည် </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>တို့မဟုတ်သည်မှာ သေချာပါသလား? </Data>" "</string>
     <string name="contact_tip">အဆက်အသွယ်</string>
     <string name="context_menu_add_contact">အဆက်အသွယ်များထဲသို့ ထည့်ပါ</string>
     <string name="context_menu_copy">ကူးပါ</string>
@@ -369,8 +374,8 @@
     <string name="download_type_thumbnail">မြင့်မားသော အရည်အသွေး</string>
     <string name="download_type_thumbnail_desc">မြင့်မားသော အရည်အသွေး</string>
     <string name="download_type_title">ဒေါင်းလုဒ် အရည်အသွေး</string>
-    <string name="download_without_wifi_msg">ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ရန် မိုဘိုင်းဒေတာချိတ်ဆက်မှုကို သုံးခြင်းသည် သင့်ဒေတာအသုံးပြုမှုကို တိုးမြင့်တက်စေပါလိမ့်မည်။ သင့်ဒေတာအကန့်အသတ်အစီစဉ်ထက်ကျော်လွန်ပါက ဖုန်းကာရီယာမှ ထပ်ဆောင်းအခကြေးငွေများ ပေးဆောင်းရနိုင်ပါသည်။</string>
-    <string name="download_without_wifi_title">ဒေတာအသုံးပြုမှု သတိပေးချက်</string>
+    <string name="download_with_metered_network_msg">မူရင်းဖိုင်များအား ဒေါင်းလုဒ် လုပ်ပါက အပိုကြေးငွေများ ပေးဆောင်ရမည်။ ဒေါင်းလုဒ် လုပ်မလား?</string>
+    <string name="download_with_metered_network_title">အခကြေး ပေးဆောင်ရသော ကွန်ရက်သို့ ချိတ်ဆက်ထားသည်</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">ဆက်တင်တွင် ဒေါင်းလုဒ်လုပ်မည့် ပုံများ၏ အရည်အသွေးကို ရွေးနိုင်ပါသည် သို့မဟုတ် အလိုအလျောက် ဒေါင်းလုဒ်လုပ်ခြင်းကိုလည်း ပိတ်နိုင်ပါသည်။</string>
     <string name="downloading_title">Mi Cloudမှ ဓာတ်ပုံများကို ဒေါင်းလုဒ်လုပ်နေသည်</string>
@@ -487,6 +492,7 @@
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_to_pick_email">ဘောင်မဝင်သော အီးမေးလ် လိပ်စာ</string>
     <string name="fail_to_sync_album">အယ်လ်ဘမ်ကို ဆင့်ခ်လုပ်လို့မရနိုင်ပါ။ သင့်ရဲ့ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
@@ -497,6 +503,7 @@
     <string name="feature_guidance_photo_effects">"ဓာတ်ပုံဖန်တီးချက် အသစ်အား 
 မရနိုင်ပါ"</string>
     <string name="feature_guidance_video_editor_smart_effects">ဖန်တီးချက် အသစ် ရယူနိုင်ပြီ</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">အဖြူအမဲ</string>
     <string name="filter_bi_dusk">ဆည်းဆာ</string>
     <string name="filter_bi_lilt">လစ်တ်</string>
@@ -564,10 +571,13 @@
     <string name="free_view_desc">3D မြင်ကွင်း</string>
     <string name="gallery_setting">ဆက်တင်များ</string>
     <string name="gallery_sync_disable_toast">ပြခန်းအတွက် ဆင့်ခ်အား ပိတ်ထားသည်</string>
+    <string name="generate_story_summary">MIUI မှ ဓာတ်ပုံများအား စိစစ်ပြီး ပုံပြင် အယ်လ်ဘမ် ဖန်တီးပေးပါမည်။ ပုံပြင် အယ်လ်ဘမ် မဖန်တီးလိုပါက ဤအင်္ဂါရပ်အား ပိတ်ပါ။</string>
+    <string name="generate_story_title">ပုံပြင် အယ်လ်ဘမ်များ</string>
     <string name="get_album_info_in_process">မျှဝေထားသော အယ်လ်ဘမ်အသေးစိတ်များကို ရယူနေသည်…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
@@ -602,6 +612,8 @@
     <string name="image_invalid_path">ဘောင်မဝင်သော လမ်းကြောင်း</string>
     <string name="image_not_found">ပုံကြည့်လို့မရပါ</string>
     <string name="image_quota_fulfiled">ပုံများအရမ်းများသည်။ အချို့ကို ဖျက်ပစ်ပြီး ထပ်ကြိုးစားပါ။</string>
+    <string name="image_selection_summary">MIUI မှ ဆင်တူပုံများအား စိစစ်ပြီး အကောင်းဆုံး ပုံများကို အမှတ်အသား လုပ်ထားပါမည်။ အမှတ်အသားအား ဖယ်ရှားလိုပါက ဤအင်္ဂါရပ်ကို ပိတ်ပါ။</string>
+    <string name="image_selection_title">အကောင်းဆုံး ပုံအား ရွေးပါ</string>
     <string name="image_with_time">%s တွင် ရိုက်ခဲ့သည်</string>
     <string name="image_with_time_and_location">%1$s တွင် ရိုက်ခဲ့သည်။ တည်နေရာ- %2$s။</string>
     <string name="impunity_declaration_settings">အင်တာနက် ချိတ်ဆက်မှု အသိပေးချက်</string>
@@ -676,6 +688,9 @@
     <string name="merge_album_title">လူပုဂ္ဂိုလ်နှင့်ပေါင်းစပ်ပါ</string>
     <string name="messagelist_sender_self">ကျွန်ုပ်ကို</string>
     <string name="micloud_introduce">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အလိုအလျောက်အရန်သိမ်းဆည်းပါ။(Mi အကောင့်လိုအပ်ပါသည်)</string>
+    <string name="month_view_tip_button_text">နားလည်ပါပြီ</string>
+    <string name="month_view_tip_sub_title">တစ်လ အမြင်သို့ ပြောင်းရန် လက်နှစ်ချောင်းဖြင့် ဖိပါ</string>
+    <string name="month_view_tip_title">တစ်လ အမြင်</string>
     <string name="more">နောက်ထပ်</string>
     <string name="more_album_hint">၊ စသည်ဖြင့်</string>
     <string name="more_face">ပုံစံတူလူပုဂ္ဂိုလ်များ</string>
@@ -703,8 +718,8 @@
     <string name="movie_download_failed_for_notwork">ဒေါင်းလုဒ်လုပ်၍ မရပါ၊ ကွန်ရက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="movie_download_sdk_without_wifi_msg">Wi-Fi သို့ မချိတ်ဆက်ထားပါ။ လိုအပ်သော ပလက်အင် (၃ MB)အား မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="movie_download_sdk_without_wifi_title">မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်မည်</string>
-    <string name="movie_download_without_wifi_msg">မိုဘိုင်းဒေတာဖြင့် ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ပါက ဒေတာသုံးစွဲမှု တိုးများနိုင်သည်။ သင့်ဒေတာကန့်သတ်ချက်ကို ကျော်လွန်သွားပါက မိုဘိုင်းဝန်ဆောင်မှုဌာနမှ နောက်ထပ်အခကြေးငွေများ ကောက်ခံပါလိမ့်မည်။</string>
-    <string name="movie_download_without_wifi_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
+    <string name="movie_download_with_metered_network_msg">မူရင်းဖိုင်များအား ဒေါင်းလုဒ် လုပ်ပါက အပိုကြေးငွေများ ပေးဆောင်ရမည်။ ဒေါင်းလုဒ် လုပ်မလား?</string>
+    <string name="movie_download_with_metered_network_title">အခကြေး ပေးဆောင်ရသော ကွန်ရက်သို့ ချိတ်ဆက်ထားသည်</string>
     <string name="movie_edit">တည်းဖြတ်မညိ</string>
     <string name="movie_item_name">ဓာတ်ပုံရုပ်ရှင်</string>
     <string name="movie_preview_btn">အစမ်းကြည့်မည်</string>
@@ -792,6 +807,7 @@
     <string name="operation_send">ပေးပို့</string>
     <string name="operation_set_contact_photo">အဆက်အသွယ်ဓာတ်ပုံအဖြစ် သတ်မှတ်</string>
     <string name="operation_set_slide_wallpaper">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
+    <string name="operation_set_video_wallpaper">ဗီဒီယို နောက်ခံပုံ သတ်မှတ်မည်</string>
     <string name="operation_set_wallpaper">နောက်ခံပုံအဖြစ် သတ်မှတ်</string>
     <string name="operation_share">မျှဝေပါ</string>
     <string name="operation_show_in_photos_tab">ဓါတ်ပုံများတွင် ပြသပါ</string>
@@ -815,6 +831,16 @@
     <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
+    <string name="percent_sign">%</string>
+    <string name="permissin_contract_desc">ဓာတ်ပုံပေါ်ရှိ လူများအား အမည်ပေးရန်</string>
+    <string name="permission_contract_name">အဆက်အသွယ်များ</string>
+    <string name="permission_optional_category">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
+    <string name="permission_phone_desc">ကွန်ရက် တောင်းခံချက်အတွက် စက် အိုင်ဒီ ရယူမည်</string>
+    <string name="permission_phone_name">ဖုန်း</string>
+    <string name="permission_require_category">မဖြစ်မနေ ပေးအပ်ရမည့် ခွင့်ပြုချက်များ</string>
+    <string name="permission_storage_desc">ဓာတ်ပုံများအား ပြသရန်၊ တည်းဖြတ်ရန် နှင့် သိမ်းဆည်းရန် အတွက်</string>
+    <string name="permission_storage_name">သိုလှောင်ခန်း</string>
+    <string name="permission_use_desc">ခွင့်ပြုချက်များ</string>
     <string name="pet_album_display_name">အိမ်မွေးတိရိစ္ဆာန်　ဓါတ်ပုံများ</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">ဓာတ်ပုံများ</string>
@@ -830,6 +856,7 @@
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">ဂရက်ဖတီပန်းချီ</string>
     <string name="photo_editor_filter">စစ်ထုတ်ကိရိယာ</string>
+    <string name="photo_editor_font_default">>Mi Lanting (ပုံမှန်)</string>
     <string name="photo_editor_frame">ဖရိန်</string>
     <string name="photo_editor_label">တည်းဖြတ်</string>
     <string name="photo_editor_long_crop">ဖြတ်ထုတ်ခြင်း</string>
@@ -886,6 +913,11 @@
     <string name="photo_editor_talkback_redo">ပြန်လုပ်မည်</string>
     <string name="photo_editor_talkback_undo">နောက်ပြန်ဆုတ်မည်</string>
     <string name="photo_editor_text">စာသား</string>
+    <string name="photo_font_cancel_download">ပယ်ဖျက်မည်</string>
+    <string name="photo_font_download">ဒေါင်းလုဒ်လုပ်မည်</string>
+    <string name="photo_font_download_failed_for_notwork">ဒေါင်းလုဒ်လုပ်၍ မရပါ၊ ကွန်ရက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="photo_font_download_without_wifi_msg">မိုဘိုင်းဒေတာဖြင့် ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ပါက သင်၏ဒေတာအသုံးပြုမှု တိုးများနိုင်သည်။ သင့်ဒေတာကန့်သတ်ချက်ကို ကျော်လွန်သွားပါက မိုဘိုင်းဝန်ဆောင်မှုဌာနမှ နောက်ထပ်အခကြေးငွေများ ကောက်ခံလိမ့်မည်။</string>
+    <string name="photo_font_download_without_wifi_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
     <string name="photo_movie_module_finish">ဓာတ်ပုံဗီဒီယိုအား လုဒ်တင်ပြီးပါပြီ</string>
     <string name="photo_movie_module_loading">ဓာတ်ပုံဗီဒီယိုအား လုဒ်တင်နေသည်…</string>
     <string name="photo_movie_select_image_range">ဓာတ်ပုံဗီဒီယိုတွင် ဓာတ်ပုံ ၃ပုံ မှ အပုံ ၂၀ အထိ ထည့်နိုင်သည်</string>
@@ -943,6 +975,7 @@
     <string name="recent_album_empty_title">လတ်တလော ဓာတ်ပုံအသစ်များမရှိပါ။</string>
     <string name="recommanded_face_abandon_tip">အကြံပေးချက်များမှဖယ်ရှားပါ</string>
     <string name="recommanded_face_added_tip">%s သို့ထည့်ပြီးပါပြီ</string>
+    <string name="recommend_category_title">ပြခန်း ရွေးချယ်မှု</string>
     <string name="recovery_merge">ပေါင်းစည်းပါ</string>
     <string name="recovery_merge_or_rename">အယ်လ်ဘမ်များကို ပေါင်းစပ်ပါ</string>
     <string name="recovery_merge_or_rename_message">ဤအမည်နှင့် အယ်လ်ဘမ်ရှိနေပြီး ဖြစ်ပါသည်။ ယခုပေါင်းစည်းမည်လား?</string>
@@ -1045,6 +1078,9 @@
     <string name="search_title_recommend">အကြံပြုထားသော</string>
     <string name="search_title_suggestion">အကြံပြုချက်များ</string>
     <string name="search_title_tag">အရာပစ္စည်းများ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">ပရိုဂျက်တာကို ရှာနေသည်…</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
@@ -1064,6 +1100,7 @@
     <string name="secret_reason_unknow_reasons">အမည်မသိ အမှား</string>
     <string name="secret_reason_video_not_support">ဝှက်ထားသော အယ်လ်ဘမ်သို့ ဗီဒီယိုအား ပေါင်းထည့်၍ မရပါ</string>
     <string name="see_ignore_faces">သင်လစ်လျူရှု့ခဲ့သော သူများ</string>
+    <string name="select_all">အားလုံး ရွေးပါ</string>
     <string name="select_image_operation">ဓါတ်ပုံများ ပေါင်းထည့်နေသည်</string>
     <string name="select_item_face">%s ဤဟာလား?</string>
     <string name="select_origin_tip">မူရင်းဖိုင်(%s)</string>
@@ -1075,6 +1112,8 @@
     <string name="send_too_many_files_error">တစ်ကြိမ်တွင် အိုင်တမ်%dခုထိ ပေးပို့နိုင်ပါသည်</string>
     <string name="set_as_slide_wallpaper_description">ဤရုပ်ပုံမှာ thumbnail တစ်ခုဖြစ်ပါသည်၊ မူလပုံအား ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="set_as_slide_wallpaper_title">စလိုက်ရှိုး နောက်ခံပုံအဖြစ် သတ်မှတ်မည်</string>
+    <string name="set_as_video_wallpaper_description">ဤအိုင်တမ်အား ဒေါင်းလုဒ်လုပ်ပြီး ဗီဒီယို နောက်ခံပုံ အဖြစ် သုံးမလား?</string>
+    <string name="set_as_video_wallpaper_title">ဗီဒီယို နောက်ခံပုံ သတ်မှတ်မည်</string>
     <string name="set_as_wallpaper_description">ဤရုပ်ပုံမှာ thumbnail တစ်ခုဖြစ်ပါသည်၊ မူလပုံအား ဒေါင်းလုဒ်လုပ်မည်လား?</string>
     <string name="set_as_wallpaper_title">နောက်ခံပုံအဖြစ် သတ်မှတ်</string>
     <string name="set_face_group_toast_msg_new_user">ထပ်လိုက်ရန် သို့မဟုတ် လစ်လျူရှုရန် လူအား ဖိနှိပ်လျက်ထားပါ</string>
@@ -1083,6 +1122,7 @@
     <string name="set_face_group_toast_title_old_user">လူများအား အုပ်စုများအဖြစ် စီစဉ်ဖွဲ့စည်းနိုင်ပါသည်</string>
     <string name="set_face_image">ပရိုဖိုင်ပုံအသစ်သတ်မှတ်ပါ</string>
     <string name="set_group">အုပ်စုအသစ်သတ်မှတ်</string>
+    <string name="set_video_wallpaper_failed">ဤအိုင်တမ်အား ဗီဒီယို နောက်ခံပုံ အဖြစ် သုံး၍မရပါ</string>
     <string name="set_wallpaper_get_image_failed">ရုပ်ပုံအား ဒေါင်းလုဒ်လုပ်၍မရပါ၊ နောက်မှပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="setup_network_connection">ကွန်ရက်ဆက်တင်</string>
     <string name="share">မျှဝေပါ</string>
@@ -1133,17 +1173,11 @@
     <string name="sticker_spring">နွေဦး</string>
     <string name="sticker_summer">နွေ</string>
     <string name="sticker_words">စာလုံးများ</string>
-    <string name="storage_description_primary">အတွင်းသိုလှောင်ခန်း</string>
-    <string name="storage_description_sdcard">SD ကဒ်</string>
-    <string name="storage_description_usb">USB သိုလှောင်ခန်း</string>
-    <string name="storage_description_xspace">နှစ်ခုတွဲအက်ပ် ဒေတာ</string>
     <string name="storage_no_space">နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="story_back_stop_download">ဒေါင်းလုဒ်လုပ်ခြင်းမှ ရပ်တန့်ရန် ပြန်ထိနှိပ်ပါ</string>
     <string name="story_cancel_download">ပယ်ဖျက်မည်</string>
     <string name="story_download">ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="story_download_failed_for_notwork">ဒေါင်းလုဒ်လုပ်၍ မရပါ၊ ကွန်ရက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="story_download_without_wifi_msg">မိုဘိုင်းဒေတာဖြင့် ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ပါက သင်၏ဒေတာအသုံးပြုမှု တိုးများနိုင်သည်။ သင့်ဒေတာကန့်သတ်ချက်ကို ကျော်လွန်သွားပါက မိုဘိုင်းဝန်ဆောင်မှုဌာနမှ နောက်ထပ်အခကြေးငွေများ ကောက်ခံလိမ့်မည်။</string>
-    <string name="story_download_without_wifi_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
     <string name="story_photo_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="sub_discard_confirm_message">ပြောင်းလဲခြင်းများကိုသိမ်းမည်လော?</string>
     <string name="sub_discard_negative_btn">ဖယ်ထုတ်ရန်</string>
@@ -1182,6 +1216,8 @@
     <string name="text_edit_dialog_style_shadow">အရိပ်</string>
     <string name="text_edit_dialog_style_transparent">အလင်းမြင်သာမှု</string>
     <string name="text_edit_sub_menu_text">ပူဖောင်း</string>
+    <string name="text_tab_bubble">ပူဖောင်း</string>
+    <string name="text_tab_watermark">ဓာတ်ပုံ အမှတ်အသား</string>
     <string name="things_album_empty_title">ဓါတ်ပုံများကို ပုံထဲရှိအရာများအလိုက် ခွဲထားနိုင်သည်</string>
     <string name="thumbnail_name">ပုံငယ်</string>
     <string name="tip_capture_location">တည်နေရာ−</string>
@@ -1199,7 +1235,6 @@
     <string name="to_enable_sync_dialog_message">ဆင့်ခ်အား ဦးစွာဖွင့်ပါ</string>
     <string name="to_enable_sync_dialog_positive_button_text">ဆက်တင်ထဲသို့သွားပါ</string>
     <string name="to_enable_sync_dialog_title">ဆင့်ခ်</string>
-    <string name="today">ယနေ့</string>
     <string name="too_many_recipients">လက်ခံမည့်သူ %2$s ထက်ပို၍ ပေါင်းထည့်၍မရပါ(သင်လက်ရှိ %1$s ခုပေါင်းထည့်ထားသည်)။</string>
     <string name="trash_bin">အမှိုက်ပုံး</string>
     <string name="trash_bin_summary">လတ်တလောဖျက်လိုက်သော အရန်သိမ်းဓါတ်ပုံများအား ရှာဖွေပါ</string>
@@ -1244,8 +1279,8 @@
     <string name="video_editor_down_load_now">ဒေါင်းလုဒ်</string>
     <string name="video_editor_download">ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="video_editor_download_failed_for_notwork">ဒေါင်းလုဒ်လုပ်၍ မရပါ၊ ကွန်ရက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="video_editor_download_without_wifi_msg">မိုဘိုင်းဒေတာဖြင့် ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ပါက သင်၏ဒေတာအသုံးပြုမှု တိုးများနိုင်သည်။ သင့်ဒေတာကန့်သတ်ချက်ကို ကျော်လွန်သွားပါက မိုဘိုင်းဝန်ဆောင်မှုဌာနမှ နောက်ထပ်အခကြေးငွေများ ကောက်ခံလိမ့်မည်။</string>
-    <string name="video_editor_download_without_wifi_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
+    <string name="video_editor_download_with_metered_network_msg">မူရင်းဖိုင်များအား ဒေါင်းလုဒ် လုပ်ပါက အပိုကြေးငွေများ ပေးဆောင်ရမည်။ ဒေါင်းလုဒ် လုပ်မလား?</string>
+    <string name="video_editor_download_with_metered_network_title">အခကြေး ပေးဆောင်ရသော ကွန်ရက်သို့ ချိတ်ဆက်ထားသည်</string>
     <string name="video_editor_encode_video">ဗီဒီယို ကုဒ်ဖွဲ့နေသည်…</string>
     <string name="video_editor_encode_video_error">ဗီဒီယိုအား ကုဒ်မဖွဲ့နိုင်ခဲ့ပါ</string>
     <string name="video_editor_fatal_error">အမည်မသိ အမှား</string>
@@ -1336,11 +1371,14 @@
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>
     <string name="xiaomi_account_not_exists_toast">ဤ Miအကောင့်မတည်ရှိပါ</string>
     <string name="yes">ဟုတ်သည်</string>
-    <string name="yesterday">မနေ့က</string>
     <string name="you_are">သင်သည် ကလေးငယ်၏</string>
-    <string name="month_view_tip_button_text">နားလည်ပါပြီ</string>
-    <string name="month_view_tip_sub_title">တစ်လ အမြင်သို့ ပြောင်းရန် လက်နှစ်ချောင်းဖြင့် ဖိပါ</string>
-    <string name="month_view_tip_title">တစ်လ အမြင်</string>
+    <string name="cleaner_similar_action">ယခု ဖျက်ပစ်မည်</string>
+    <string name="cleaner_similar_description">ထပ်နေသော ဓာတ်ပုံများအား ဖျက်ပစ်ပါ</string>
+    <string name="cleaner_similar_title">ထပ်နေသော ဓာတ်ပုံများ</string>
+    <string name="cleaner_video_action">ယခု ဖျက်ပစ်မည်</string>
+    <string name="cleaner_video_description">နေရာစားသော ဗီဒီယိုများအား ဖျက်ပစ်ပါ</string>
+    <string name="cleaner_video_pick_delete_selected">ရွေးထားသော ဗီဒီယိုများအား ဖျက်ပစ်မည်</string>
+    <string name="cleaner_video_title">ဗီဒီယိုများအား ဖျက်ပစ်ပါ</string>
     <string name="photomovie_audio_custom">အတွင်းပိုင်း</string>
     <string name="photomovie_audio_default">အမှတ်တရ</string>
     <string name="photomovie_audio_kawaii">ရင်ခုန်စရာ</string>
@@ -1387,6 +1425,15 @@
     <string name="refocus_title">မှုန်ဝါး</string>
     <string name="refocus_type_static">မှုန်ဝါးမှု အဆင့်</string>
     <string name="refocus_type_video">အလင်းရောင် အစက်အပြောက်</string>
-    <string name="text_tab_bubble">Bubbles</string>
-    <string name="text_tab_watermark">Watermarks</string>
+    <string name="screen_doodle_talkback_size">အကြီးအသေး</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">ပြီးပါပြီ</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">ပယ်ဖျက်မည်</string>
+    <string name="screen_save_dialog_btn_delete">မျက်နှာပြင်ရိုက်ချက်အား ဖျက်မည်</string>
+    <string name="screen_save_dialog_btn_save">ပြခန်းသို့ သိမ်းပါ</string>
+    <string name="similar_keep_clear">အကောင်းပုံအား သိမ်းထားပါ</string>
 </resources>

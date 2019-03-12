@@ -42,10 +42,13 @@
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">ဝှက်ထားသော ဓာတ်ပုံ %d ပုံ ဆင့်ခ်မလုပ်ရသေးပါ။ အိုင်တမ်အားလုံး ဆင့်ခ်လုပ်ပြီးမှ ဆိုင်းအောက်ထွက်ပါ၊ သို့မဟုတ်ပါက အိုင်တမ်များကို ဖျက်ပစ်လိမ့်မည်။</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">%d နာရီနောက် ဆင့်ခ်ပြန်လုပ်ပါ။</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">ဆင့်ခ်အား ရပ်တန့်ထားသည်။ %d မိနစ် အကြာတွင် ပြန်စမည်…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">%d မိနစ်နောက် ဆင့်ခ်ပြန်လုပ်ပါ။</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s မိနစ် အကြာက</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s နာရီ အကြာက</item>
     </plurals>
 </resources>

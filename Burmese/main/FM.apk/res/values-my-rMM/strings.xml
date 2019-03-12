@@ -15,7 +15,7 @@
     <string name="menu_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="menu_exit">ထွက်ပါ</string>
     <string name="dialog_sleep_title">အိပ်ပျော်ချိန် စံချိန်စက်ကို သတ်မှတ်ပါ</string>
-    <string name="search_dialog_title">အသံလွှင့်ဌာနများကို စကင်ဖတ်ပါ</string>
+    <string name="search_dialog_title">အသံလွှင့်ဌာနများကို စကန်ဖတ်ပါ</string>
     <string name="fmradio_clear_confirm_msg">ကြိုတင်သတ်မှတ်ချက်အားလုံးကို ဖျက်ပစ်ပါလိမ့်မည်။</string>
     <string name="set">သတ်မှတ်ပါ</string>
     <string name="stations_list">အသံလွှင့်ဌာနစာရင်း</string>
@@ -60,6 +60,7 @@
     <string name="fm_has_turned_off">FM ရေဒီယို ပိတ်ပြီးပြီ</string>
     <string name="msg_fm_starting">စတင်နေဆဲ…</string>
     <string name="txt_sleep_mode">အိပ်စက်သုံးနည်းပုံစံ</string>
+    <string name="txt_divider">" | "</string>
     <string name="group_favor">ကြိုတင်သတ်မှတ်ချက်များ</string>
     <string name="group_other">အခြားအရာများ</string>
     <string name="using_recorder_dialog_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>

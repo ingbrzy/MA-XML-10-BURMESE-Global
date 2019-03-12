@@ -89,5 +89,5 @@
     <string name="close">ပိတ်ပါ</string>
     <string name="callFailed_simError">ဆင်းမ်ကဒ် အမှား</string>
     <string name="incall_error_supp_service_unknown">ဤဝန်ဆောင်မှုကို မပံ့ပိုးထားပါ။</string>
-    <string name="incall_error_power_off">ဖုန်းခေါ်ရန် လေယာဉ်ပျံမုဒ်ကို ပိတ်ပါ</string>
+    <string name="incall_error_power_off">ဖုန်းခေါ်ရန် လေယာဉ်မုဒ်ကို ပိတ်ပါ။</string>
 </resources>

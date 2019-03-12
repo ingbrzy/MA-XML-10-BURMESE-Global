@@ -25,6 +25,7 @@
     <string name="add_to_last_of_playlist">အဖွင့်ဇယား အဆုံးတွင် ပေါင်းထည့်လိုက်ပါ</string>
     <string name="add_to_playlist_successful">အောင်မြင်စွာ ပေါင်းထည့်ပြီးပြီ</string>
     <string name="added_next_play">နောက်တစ်ပုဒ်ဖွင့်ရန် ပေါင်းထည့်ထားသည်</string>
+    <string name="agreement_desc">အသုံးပြုသူ သဘောတူညီမှု (မဖြစ်မနေ)</string>
     <string name="alaka_required">ဤသီချင်းအား နားထောင်ရန် အခကြေးငွေပေးဆောင်ရပါမည်</string>
     <string name="album_label">အယ်လ်ဘမ် အဖုံး</string>
     <string name="album_name">အယ်လ်ဘမ်</string>
@@ -36,6 +37,16 @@
     <string name="already_favorited">နှစ်သက်သည်အဖြစ်သတ်မှတ်ပြီး</string>
     <string name="always_use_metered">မိုဘိုင်းဒေတာအား အမြဲသုံးပါ</string>
     <string name="app_label">ဒေါင်းလုဒ်များ</string>
+    <string name="app_permission_confirm">နားလည်ပါပြီ</string>
+    <string name="app_permission_optional">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
+    <string name="app_permission_require">မဖြစ်မနေ ပေးအပ်ရမည့် ခွင့်ပြုချက်များ</string>
+    <string name="app_permission_use_desc">ခွင့်ပြုချက်များ</string>
+    <string name="app_permission_use_group_account">အကောင့်များ</string>
+    <string name="app_permission_use_group_account_desc">Mi အကောင့် အချက်အလက် ရယူနိုင်ရန်</string>
+    <string name="app_permission_use_group_phone">ဖုန်း</string>
+    <string name="app_permission_use_group_phone_desc">Google ၏ အချိန်နှင့်တစ်ပြေးညီ ဝန်ဆောင်မှု အတွက်</string>
+    <string name="app_permission_use_group_storage">သိုလှောင်ခန်း</string>
+    <string name="app_permission_use_group_storage_desc">ဖုန်းထဲရှိ သီချင်းများအား ရှာဖွေနိုင်ရန် နှင့် ဖွင့်နိုင်ရန်</string>
     <string name="artist">အနုပညာရှင်များ</string>
     <string name="artist_area_all">အားလုံး</string>
     <string name="artist_area_china">တရုတ်</string>
@@ -84,6 +95,7 @@
     <string name="current_version">လက်ရှိဗားရှင်း</string>
     <string name="data_usage_warning">ဒေတာအသုံးပြုမှု</string>
     <string name="data_usage_warning_summary">မိုဘိုင်းလ်ဒေတာ ဆက်သွယ်ခြင်းကို အသုံးပြုပြီး အဆင့်မြင့်သီချင်းများကို တိုက်ရိုက်နားထောင်ပါက ဒေတာခများကို ပိုကုန်စေနိုင်ပါသည်။</string>
+    <string name="data_use_desc">တရားဝင် စာရွက်စာတမ်းများ</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">ဖျက်ပစ်ပါ</string>
     <string name="delete_download">ဖျက်ပါ</string>
@@ -171,6 +183,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
@@ -280,7 +293,7 @@
     <string name="hungama_subscribe_positive_button">ပရိုအဖွဲ့ဝင် ဝယ်ယူပါ</string>
     <string name="hungama_subscribe_title">ပရို အဖွဲ့ဝင်</string>
     <string name="i_know">အိုကေ</string>
-    <string name="impunity_declaration_content">အသုံးမပြုမီ ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">အသုံးပြုသူသဘောတူညီမှု &lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">ကိုယ်ရေးသီးသန့်ပေါ်လစီ&lt;/a>ကို ဦးစွာဖတ်ရှု၍ သဘောတူရမည်။</string>
+    <string name="impunity_declaration_content">အသုံးမပြုမီ ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=my_MM\">အသုံးပြုသူသဘောတူညီမှု &lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=my_MM\">ကိုယ်ရေးသီးသန့်ပေါ်လစီ&lt;/a>ကို ဦးစွာဖတ်ရှု၍ သဘောတူရမည်။</string>
     <string name="impunity_declaration_ignore">နောက်တစ်ကြိမ် ထပ် မပြပါနှင့်</string>
     <string name="impunity_declaration_negative_text">ထွက်ပါ</string>
     <string name="impunity_declaration_positive_text">သဘောတူ</string>
@@ -475,7 +488,9 @@
     <string name="preset_music_playlist">Mi ဂီတ ဖွင့်ရန်စာရင်း</string>
     <string name="priority_storage">ပြင်ပ SD ကဒ်အသုံးပြု</string>
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -483,6 +498,7 @@
     <string name="pulluprefreshrecyclerview_loading_finished">အောင်မြင်စွာ လုဒ်တင်ခဲ့သည်</string>
     <string name="pulluprefreshrecyclerview_loading_running">ရယူနေ…</string>
     <string name="queue_is_empty">နားထောင်ရန်စာရင်းတွင် သီချင်း မရှိပါ။</string>
+    <string name="ready_to_play">နောက်လာမည့်အရာ</string>
     <string name="recently_played">မကြာမီက ဖွင့်ထားသော</string>
     <string name="recently_played_songs">မကြာသေးမီက</string>
     <string name="recommended_file_size_download_in_mobile">ဤဖိုင်အား အသုံးပြုရန် မိုဘိုင်းဒေတာထဲမှ %s အား အသုံးပြုမည်လား?</string>
@@ -625,6 +641,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>

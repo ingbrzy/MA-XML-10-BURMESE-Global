@@ -461,4 +461,5 @@
     <string name="dialog_verify_fingerprint_retry">ဘက်ဗွေအား အတည်ပြု၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="button_touch">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ</string>
     <string name="button_input_password">စကားဝှက် ရိုက်ထည့်ပါ</string>
+    <string name="master_clear_not_available">သင်၏ ကုမ္ပဏီမှ စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်းအား ကန့်သတ်ထားသည်။</string>
 </resources>
