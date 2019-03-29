@@ -44,7 +44,7 @@
     <string name="pref_video_encoder_title">ဗီဒီယို ကုဒ်ထည့်ကိရိယာ</string>
     <string name="pref_video_encoder_entry_h264">H.264 လိုက်ဖက်မှုမြင့်သော</string>
     <string name="pref_video_encoder_entry_h265">H.265 စွမ်းဆောင်ရည်မြင့်သော</string>
-    <string name="pref_video_time_lapse_frame_interval_title">စပ်ကြားအချိန်ချုံ့ခြင်း</string>
+    <string name="pref_video_time_lapse_frame_interval_title">အမြန်ရိုက်ချက်</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2X (ကြားအချိန် ၀.၀၆ စက္ကန့်)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4X (ကြားအချိန် ၀.၁၂ စက္ကန့်)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (ကြားအချိန် ၀.၃ စက္ကန့်)</string>
@@ -290,7 +290,7 @@
     <string name="simple_mode_button_text_hand_night">HHT ပိတ်ပါ</string>
     <string name="simple_mode_button_text_panorama">မြင်ကွင်းကျယ် ပိတ်ပါ</string>
     <string name="simple_mode_button_text_color_effect">အရောင်စစ်မှန်ပြား ပိတ်ပါ</string>
-    <string name="simple_mode_button_text_slow_video">စပ်ကြားအချိန်ချုံ့ခြင်းကို ပိတ်ပါ</string>
+    <string name="simple_mode_button_text_slow_video">အမြန်ရိုက်ချက်အား ပိတ်ပါ</string>
     <string name="simple_mode_button_text_fast_video">အနှေးရိုက်ချက် ပိတ်ပါ</string>
     <string name="see_qrcode_detals">QR ကုဒ် အသေးစိတ်များကို ကြည့်မည်</string>
     <string name="pref_camera_watermark_title">ဓါတ်ပုံတွင် ရက်စွဲ ပေါင်းထည့်ပါ</string>
@@ -355,7 +355,7 @@
     <string name="pref_priority_storage_title">SD ကဒ်သို့ သိမ်းဆည်းပါ</string>
     <string name="pref_camera_tilt_shift_entry_circle">စက်ဝိုင်း</string>
     <string name="pref_camera_tilt_shift_entry_parallel">မျဥ်းပြိုင်</string>
-    <string name="pref_video_speed_fast_title">စပ်ကြားအချိန်ချုံ့ခြင်း</string>
+    <string name="pref_video_speed_fast_title">အမြန်ရိုက်ချက်</string>
     <string name="pref_video_speed_slow_title">အနှေးရိုက်ချက်</string>
     <string name="pref_camera_manual_mode_title">ကိုယ်တိုင်သတ်မှတ်မှု</string>
     <string name="pref_camera_settings">စက်</string>
@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"လူပုံမုဒ်အား သုံးကြည့်ပါ။
 လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီးအရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
@@ -473,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -599,7 +601,7 @@
     <string name="close_back_flash_toast">သင်၏စက်မှာ အပူလွန်နေသည်။ ယခု ဓာတ်မီးအား သုံး၍ မရပါ။</string>
     <string name="autozoom_hint">လှုပ်ရှားနေသော အရာများကို ခြေရာခံမည်</string>
     <string name="autozoom_disabled_hint">လှုပ်ရှားနေသော အရာများကို ခြေရာမခံတော့ပါ</string>
-    <string name="autozoom_click_hint">ခြေရာခံရန် အရာဝတ္ထု တစ်ခုအား ထိနှိပ်ပါ။ အနည်းဆုံး ၃ မီတာ အကွာတွင် နေပါ။</string>
+    <string name="autozoom_click_hint">လှုပ်ရှားနေစဥ် ဆုံချက်ချိန်ညှိရန် ထိုအရာဝတ္ထုအား ထိနှိပ်ပါ။ အနည်းဆုံး ၃ မီတာ အကွာတွင် နေပါ။</string>
     <string name="live_sticker_fragment_tab_name">စတစ်ကာများ</string>
     <string name="live_speed_fragment_tab_name">အရှိန်</string>
     <string name="live_speed_extreme_slow">အလွန်နှေးကွေး</string>
@@ -680,4 +682,8 @@
     <string name="super_night_toast">ဓာတ်ပုံ ရိုက်နေစဥ် သင်၏ ဖုန်းအား ငြိမ်အောင်ထားပါ</string>
     <string name="capture_back_pressed_hint">ထွက်ရန် နောက်တစ်ကြိမ် ထိနှိပ်ပါ</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="pref_camera_video_bokeh_on">ဗီဒီယို နောက်ခံမှုန်ဝါးမှု</string>
+    <string name="pref_camera_video_bokeh_off">ဗီဒီယို နောက်ခံမှုန်ဝါးမှုအား ပိတ်ထားသည်</string>
+    <string name="macro_mode">မက်ခရို</string>
+    <string name="macro_mode_tip">မှန်ဘီးလူးနှင့် အရာဝတ္ထုအကြား ၁၀ စင်တီမီတာထက် မကျော်လွန်ပါစေနှင့်</string>
 </resources>

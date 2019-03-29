@@ -114,7 +114,7 @@
     <string name="default_name">မူလသတ်မှတ်ချက်</string>
     <string name="resource_select">ရွေးပါ</string>
     <string name="fp_nav_center_action_choose_dlg_title">မြန်နှိပ်ခြင်းအား ဖွင့်ပါ</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">သင်သည် အိမ်မျက်နှာပြင်သို့ ဟုမ်းခလုတ်အား အသာအယာထိနှိပ်လိုက်ခြင်းဖြင့် ပြန်သွားနိုင်ပါသည်။ ဤလုပ်ဆောင်ချက်ကို ဆက်တင်များ>ထပ်ဆောင်းဆက်တင်များ>ခလုတ်များ>ဟုမ်းခလုတ်ထိနှိပ်ပြီး အိမ်မျက်နှာပြင်သို့ပြန်သွားခြင်း တွင်ဖွင့်၍ရနိုင်ပါသည်။</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">သင်သည် ပင်မမျက်နှာပြင်သို့ ဟုမ်းခလုတ်အား အသာအယာထိနှိပ်လိုက်ခြင်းဖြင့် ပြန်သွားနိုင်ပါသည်။ ဤလုပ်ဆောင်ချက်ကို ဆက်တင်များ>ထပ်ဆောင်းဆက်တင်များ>ခလုတ်များ>ဟုမ်းခလုတ်ထိနှိပ်ပြီး ပင်မမျက်နှာပြင်သို့ပြန်သွားခြင်း တွင်ဖွင့်၍ရနိုင်ပါသည်။</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">ဖွင့်</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">ယခုမလုပ်သေး</string>
     <string name="auto_disable_screenbuttons_float_text">လမ်းညွှန်ခလုတ်အား အလိုအလျောက် ပိတ်</string>

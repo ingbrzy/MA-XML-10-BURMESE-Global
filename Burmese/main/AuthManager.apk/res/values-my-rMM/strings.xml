@@ -65,7 +65,7 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">ဖြေဆိုမည်၊ ထောက်လှမ်းမည်၊ ဖုန်းချမည်</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">အနီးဆက်သွယ်မှု (NFC) ဟာ့ဒ်ဝဲသို့ ဝင်ရောက်သုံးစွဲ</string>
-    <string name="HIPS_Perm_install_shortcut">အိမ်မျက်နှာပြင် ရှော့ကဒ်</string>
+    <string name="HIPS_Perm_install_shortcut">ပင်မမျက်နှာပြင် ရှော့ကဒ်</string>
     <string name="HIPS_Perm_install_shortcut_Desc">ပင်မမျက်နှာပြင်သို့ ရှော့ကဒ်များ ပေါင်းထည့်ပါ</string>
     <string name="HIPS_Perm_read_notification_sms">SMS ဝန်ဆောင်မှု</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">ဝန်ဆောင်မှု SMS အားဖတ်ပါ</string>
@@ -79,6 +79,8 @@
     <string name="HIPS_Perm_get_installed_apps_Desc">ဤစက်ပေါ်တွင် ထည့်ထားသော အက်ပ်များအကြောင်း အချက်အလက်ရယူပါ</string>
     <string name="HIPS_Perm_service_foreground">အရှေ့ပိုင်းဝန်ဆောင်မှုများ</string>
     <string name="HIPS_Perm_service_foreground_Desc">အရှေ့ပိုင်းဝန်ဆောင်မှုများ</string>
+    <string name="HIPS_Perm_UDevice_ID">စက် အချက်အလက် အချို့အား ဂိမ်းထုတ်လုပ်သူထံ မျှဝေခြင်းဖြင့် ဂိမ်းကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးမည်။ သဘောတူပါသလား?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">စက် အချက်အလက် အချို့အား ဂိမ်းထုတ်လုပ်သူထံ မျှဝေခြင်းဖြင့် ဂိမ်းကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးမည်။ သဘောတူပါသလား?</string>
     <string name="permission_group_title_charges_related">ကုန်ကျစရိတ်များ</string>
     <string name="permission_group_title_privacy_related">ကိုယ်ရေးသီးသန့်</string>
     <string name="permission_group_title_media_related">မီဒီယာ</string>

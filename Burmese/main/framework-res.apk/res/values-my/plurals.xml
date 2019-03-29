@@ -72,6 +72,10 @@
         <item quantity="other">%dနှစ်အတွင်း</item>
         <item quantity="one">%dနှစ်အတွင်း</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d စက္ကန့် အကြာတွင် ထပ်လုပ်ကြည့်ပါ</item>
+        <item quantity="one">၁ စက္ကန့် အကြာတွင် ထပ်လုပ်ကြည့်ပါ</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">နောက်ဆုံး %d နေ့</item>
         <item quantity="one">နောက်ဆုံး %d နေ့</item>
@@ -106,15 +110,15 @@
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">%d နာရီကြာ</item>
-        <item quantity="one">တစ်နာရီကြာ</item>
+        <item quantity="one">၁ နာရီကြာ</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_short">
         <item quantity="other">%d နာရီ အတွက်</item>
         <item quantity="one">၁ နာရီအတွက်</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">%1$d နာရီကြာ (%2$sအထိ)</item>
-        <item quantity="one">တစ်နာရီကြာ (%2$s အထိ)</item>
+        <item quantity="other">%1$d နာရီကြာ (%2$s ထိ)</item>
+        <item quantity="one">၁ နာရီကြာ (%2$s ထိ)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
         <item quantity="other">(%2$s ထိ) %1$d နာရီအတွက်</item>

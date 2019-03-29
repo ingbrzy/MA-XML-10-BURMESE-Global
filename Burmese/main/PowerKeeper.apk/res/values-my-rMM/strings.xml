@@ -38,10 +38,17 @@
     <string name="vip_feedback_enable">VIP တုံ့ပြန်အကြံပြုချက် ဖွင့်ပါ</string>
     <string name="extreme_power_config_mode_category">အကြီးမားဆုံး ဘက်ထရီချွေတာသူ</string>
     <string name="extreme_power_config_mode_title">အကြီးမားဆုံး ဘက်ထရီချွေတာသူ</string>
+    <string name="notification_open_extreme_mode_text">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ဖွင့်ထားသည်</string>
+    <string name="extreme_power_settings_title">ဆက်တင်</string>
+    <string name="notification_exit_extreme_mode_title">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ပိတ်ထားသည်</string>
+    <string name="notification_exit_extreme_mode_text">%s နှင့်အထက် အားသွင်းပြီးလျှင် အကြီးမားဆုံး ဘက်ထရီချွေတာသူမုဒ်မှ ထွက်မည်</string>
+    <string name="extreme_power_config_mode_summary">အကြီးမားဆုံး ဘက်ထရီချွေတာသူမှ နောက်ခံလှုပ်ရှားမှုအား ကန့်သတ်ထားပြီး ဆင့်ခ်လုပ်ခြင်းကိုလည်း ရပ်ထားသည်။</string>
     <string name="extreme_power_config_mode_desc"><li>အကြီးမားဆုံး ဘက်ထရီချွေတာသူသည် အက်ပ်မှ ထွက်ပြီး ပင်မမျက်နှာပြင်သို့ ပြန်သွားသောအခါ နောက်ခံ လှုပ်ရှားမှုအားလုံးကို ရပ်တန့်ထားမည်။ ထိုအက်ပ်နှင့် ပတ်သက်သော အသိပေးချက် သို့မဟုတ် အပ်ဒိတ်များအား ရနိုင်မည် မဟုတ်ပါ။</li>"
 "<li>အက်ပ်တစ်ခုခုကို နောက်ခံတွင် အလုပ်လုပ်စေလိုပါက ၎င်းအား မကြာသေးမီက တွင် လော့ခ်ချထားပါ သို့မဟုတ် နောက်ခံ ခြွင်းချက်စာရင်းသို့ ပေါင်းထည့်ပါ။ အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ဖွင့်ထားပါက နောက်ခံတွင် အများဆုံး အက်ပ် ၄ခုသာ အလုပ်လုပ်နိုင်သည်။</li>"
 "<li>အကြီးမားဆုံး ဘက်ထရီချွေတာသူမှ NFC အား ပိတ်ထားမည်။ ဆက်တင်သို့သွား၍ ပြောင်းလဲနိုင်ပါသည်။</li>"
 "<li>သင့်စက်၏ အင်္ဂါရပ်အားလုံးကို ပုံမှန် သုံးနိုင်ရန် ဘက်ထရီ ၃၀% အထိ အားသွင်းပြီးလျှင် အကြီးမားဆုံး ဘက်ထရီချွေတာသူမုဒ်အား အလိုအလျောက် ပိတ်လိမ့်မည်။</li></string>
+    <string name="extreme_add_white_list_title">နောက်ခံ ခြွင်းချက်စာရင်း</string>
+    <string name="extreme_add_white_list_summary">အများဆုံး အက်ပ် ၄ ခု</string>
     <string name="empty_title_apps_container_list">အက်ပ်များ မရှိပါ</string>
     <string name="hints_loading_text">ခဏစောင့်ပါ…</string>
     <string name="config_mode_title">နောက်ခံဆက်တင်များ</string>
@@ -101,13 +108,6 @@
     <string name="atrace_start">atrace မှတ်တမ်းအား ရယူနေသည်…</string>
     <string name="atrace_saving">atrace မှတ်တမ်းအား သိမ်းဆည်းနေသည်…</string>
     <string name="atrace_saved">သိမ်းဆည်းပြီးပါပြီ</string>
-    <string name="notification_open_extreme_mode_text">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ဖွင့်ထားသည်</string>
-    <string name="extreme_power_settings_title">ဆက်တင်</string>
-    <string name="notification_exit_extreme_mode_title">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ပိတ်ထားသည်</string>
-    <string name="notification_exit_extreme_mode_text">%s နှင့်အထက် အားသွင်းပြီးလျှင် အကြီးမားဆုံး ဘက်ထရီချွေတာသူမုဒ်မှ ထွက်မည်</string>
-    <string name="extreme_power_config_mode_summary">အကြီးမားဆုံး ဘက်ထရီချွေတာသူမှ နောက်ခံလှုပ်ရှားမှုအား ကန့်သတ်ထားပြီး ဆင့်ခ်လုပ်ခြင်းကိုလည်း ရပ်ထားသည်။</string>
-    <string name="extreme_add_white_list_title">နောက်ခံ ခြွင်းချက်စာရင်း</string>
-    <string name="extreme_add_white_list_summary">အများဆုံး အက်ပ် ၄ ခု</string>
     <string name="adaptive_battery_title">သုံးစွဲမှုအလိုက် ဘက်ထရီ ချွေတာမှု</string>
     <string name="adaptive_battery_summary">သင် သုံးလေ့မရှိသော အက်ပ်အတွက် ဘက်ထရီ ကန့်သတ်မည်</string>
 </resources>

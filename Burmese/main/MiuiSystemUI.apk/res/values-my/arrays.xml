@@ -79,8 +79,8 @@
         <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ အသံ</item>
+        <item>Qualcomm® aptX™ HD အသံ</item>
         <item>LDAC</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
@@ -89,19 +89,27 @@
         <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ အသံ</item>
+        <item>Qualcomm® aptX™ HD အသံ</item>
         <item>LDAC</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>၊ ဖွင့်ထားသည်</item>
+        <item>၊ ဖွင့်ထားသည် (မီဒီယာ)</item>
+        <item>၊ ဖွင့်ထားသည် (ဖုန်း)</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
+        <item>avrcp13</item>
         <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (မူလ)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -121,23 +129,19 @@
         <item>စံ</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>ရှိရင်းစွဲထက်ပိုသော ဧရိယာများကိုပြရန်</item>
         <item>အရောင်ရောနှောသောဧရိယာများပြရန်</item>
     </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (မူရင်း)</item>
-        <item>OpenGL (Skia)</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>လော့ဂ်ကက်</item>
         <item>စနစ်ခြေရာခံခြင်း (ရုပ်ပုံများ)</item>
         <item>glGetError အမှားတက်လျှင်ခေါ်သောလုပ်ငန်းစဉ်</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP checking အား ဘယ်တော့မှ မသုံးပါနှင့်</item>
-        <item>DRMအကြောင်းအရာအတွက် HDCPစစ်ဆေးခြင်းကိုသုံးမည်</item>
+        <item>DRM အကြောင်းအရာအတွက်သာ HDCP စစ်ဆေးမည်</item>
         <item>HDCP checkingအားအမြဲသုံးပါ</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
@@ -158,7 +162,7 @@
         <item>လက်ယာဖက် ကပ်လျက်</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>480p</item>
         <item>480p (secure)</item>
         <item>720p</item>
@@ -173,21 +177,21 @@
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 64K</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 256K</item>
-        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 1M</item>
+        <item>မှတ်တမ်းကြားခံနယ် တစ်ခုလျှင် 1M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 4M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 16M</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -195,24 +199,24 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်များ အားလုံး</item>
         <item>ရေဒီယို မှတ်တမ်းသိမ်းဆည်းရန်လျာထားချက်မှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်သာ</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>အားလုံး</item>
         <item>ရေဒီယိုမှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်သာ</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>စတုဂံမဟုတ်သော ဖောက်ရန်အပိုင်းကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
         <item>စမ်းသပ်ထားသော ပုံဆွဲရန်ညွှန်ကြားချက်များကို အစိမ်းရောင်ဖြင့် အသားပေး ဖော်ပြပါ</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>ဖန်သားပြင်ပေါ်မှာ မျဉ်းတန်းကဲ့သို့</item>
         <item>adb shell dumpsys gfxinfo ဖြင့်</item>
     </string-array>
@@ -250,7 +254,7 @@
         <item>ချိတ်ဆက်နေသည်</item>
         <item>စစ်မှန်ကြောင်းအတည်ပြုနေသည်</item>
         <item>အိုင်ပီလိပ်စာရယူနေသည်</item>
-        <item>ဆက်သွယ်ထားပြီး</item>
+        <item>ချိတ်ဆက်ထားသည်</item>
         <item>ဆိုင်းငံ့ထားသည်</item>
         <item>အဆက်အသွယ်ဖြတ်တောက်နေသည်</item>
         <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>

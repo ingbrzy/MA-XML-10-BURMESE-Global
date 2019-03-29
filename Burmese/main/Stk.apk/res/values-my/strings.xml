@@ -6,7 +6,7 @@
     <string name="menu_back">နောက်သို့</string>
     <string name="service_name">ဝန်ဆောင်မှုအမည်</string>
     <string name="stk_no_service">ဆက်သွယ်ချိတ်ဆက်ရန် ဝန်ဆောင်မှု တစ်ခုမှမရှိပါ</string>
-    <string name="button_ok">အိုကေ</string>
+    <string name="button_ok">OK</string>
     <string name="button_cancel">မလုပ်တော့</string>
     <string name="button_yes">Yes</string>
     <string name="button_no">No</string>
@@ -18,6 +18,7 @@
     <string name="enable_app">ဖွင့်ထားသည်</string>
     <string name="disable_app">သုံးမရအောင် ပိတ်ထားခြင်း</string>
     <string name="stk_dialog_title">SIM တူးလ်ကစ်</string>
+    <string name="default_tone_dialog_msg">ဖွင့်ထားသည့် အသံ</string>
     <string name="default_open_channel_msg">လှိုင်း ဖွင့်မည်လား?</string>
     <string name="default_send_data_msg">ဒေတာ ပို့နေပြီ</string>
     <string name="default_receive_data_msg">ဒေတာ ရယူနေသည်</string>

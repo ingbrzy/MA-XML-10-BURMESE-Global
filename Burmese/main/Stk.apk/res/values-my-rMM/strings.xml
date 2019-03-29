@@ -26,8 +26,8 @@
     <string name="stk_dialog_accept">ဟုတ်သည်</string>
     <string name="stk_dialog_reject">မလုပ်</string>
     <string name="no_sim_card_inserted">ဆင်းမ်တူးလ်ကစ်အား စတင်အသုံးပြုရန် ဆင်းမ်ကဒ် ထည့်သွင်းပါ။</string>
-    <string name="stk_intent_permission">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
     <string name="sim_type_sim_name">ဆင်းမ် တူးလ်ကစ်</string>
     <string name="sim_type_usim_name">USIM တူးလ်ကစ်</string>
     <string name="sim_type_uim_name">UIM တူးလ်ကစ်</string>
+    <string name="stk_intent_permission">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
 </resources>

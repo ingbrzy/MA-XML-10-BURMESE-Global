@@ -269,7 +269,7 @@
     <string name="account_has_been_set">ပြောင်းလဲ</string>
     <string name="account_none_user_name">တစ်ခုမှမဟုတ်</string>
     <string name="account_user_avatar">ပရိုဖိုင်ပုံ</string>
-    <string name="account_user_gender">ကျားမလိင်</string>
+    <string name="account_user_gender">ကျား/မ</string>
     <string name="account_user_birthday">မွေးနေ့</string>
     <string name="account_user_name_dialog_title">သုံးသူအမည် ထည့်သွင်းပါ</string>
     <string name="account_empty_user_name">သင်၏ Mi အကောင့်၏ သုံးသူအမည်ကို ထည့်သွင်းပါ</string>

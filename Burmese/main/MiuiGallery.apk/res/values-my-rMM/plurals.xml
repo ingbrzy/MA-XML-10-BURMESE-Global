@@ -132,6 +132,9 @@
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">အရန်သိမ်းရန် ဗီဒီယို %1$d ခုစောင့်နေ</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">စုစုပေါင်း အိုင်တမ် %1$d ခု</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">ရွေးထားသော ဓါတ်ပုံမှာ ဤစက်ပေါ်တွင် မရှိပါ။ မိုဘိုင်းဒေတာအား အသုံးပြုပြီး ဒေါင်းလုဒ်လုပ်မည်လား?</item>
     </plurals>
@@ -200,9 +203,6 @@
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">အိုင်တမ် %d ခု</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">စုစုပေါင်း အိုင်တမ် %1$d ခု</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">ဖိုင် %1$d ခု</item>

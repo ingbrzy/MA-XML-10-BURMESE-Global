@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -73,7 +76,7 @@
     <string name="sms_title">မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="mms_title">မာတီမီဒီယာ မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="wifi_title">Wi-Fi ဆက်တင်များ</string>
-    <string name="note_title">မှတ်ချက်များ</string>
+    <string name="note_title">မှတ်စု</string>
     <string name="compute_backup_info">အရန်သိမ်းခြင်းအချက်အလက်ရယူနေဆဲ…</string>
     <string name="compute_delete_contact_info">အင်ဖို… ကို ရယူနေဆဲ</string>
     <string name="unknown_hint">အမည်မသိ</string>
@@ -202,7 +205,7 @@
     <string name="system_backup">အရန်သိမ်းခြင်း</string>
     <string name="backup_empty_info">" သင့်ဒေတာ၊ ဆက်တင်များနှင့် အက်ပ်များကို အရန်သိမ်းခြင်းလုပ်ပါ"</string>
     <string name="backup_empty_info_onpad">" သင့်ဒေတာ၊ ဆက်တင်များနှင့် အက်ပ်များကို အရန်သိမ်းခြင်းလုပ်ပါ"</string>
-    <string name="system_backup_info">စက်စနစ်ဆက်တင်များနှင့် အိမ်မျက်နှာပြင် အဆင်အပြင်</string>
+    <string name="system_backup_info">စက်စနစ်ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် အဆင်အပြင်</string>
     <string name="software_backup_info">အက်ပ်ဒေတာ</string>
     <string name="account_contact_backup_info">Google အကောင့်၊ Mi အကောင့်နှင့် အဆက်အသွယ်များ ဒေတာ</string>
     <string name="files_backup_info">SD ကဒ်ထဲရှိဖိုင်အားလုံး (ဓါတ်ပုံများ၊ သီချင်းများ၊ ဗီဒီယိုများနှင့် အက်ပ်ဒေတာ စသည်တို့ ပါဝင်သည်)</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -272,7 +276,7 @@
     <string name="remote_receive">လက်ခံရရှိ</string>
     <string name="click_to_view">ကြည့်ရန် နှိပ်ပါ</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_main_tutor">ဆက်သွယ်မှုများ၊ ခေါ်ဆိုမှတ်တမ်းများ၊ မက်ဆေ့ချ်များ၊ အိမ်မျက်နှာပြင်ဖွဲ့စည်းပုံ၊ အက်ပ်များနှင့် ဆက်တင်များ စသည်တို့အား စက်အသစ်ဆီသို့ လွှဲပြောင်းပါ</string>
+    <string name="trans_main_tutor">ဆက်သွယ်မှုများ၊ ခေါ်ဆိုမှတ်တမ်းများ၊ မက်ဆေ့ချ်များ၊ ပင်မမျက်နှာပြင်ဖွဲ့စည်းပုံ၊ အက်ပ်များနှင့် ဆက်တင်များ စသည်တို့အား စက်အသစ်ဆီသို့ လွှဲပြောင်းပါ</string>
     <string name="trans_sender">ကျွန်ုပ်မှာ ပေးပို့သူဖြစ်သည်</string>
     <string name="trans_receiver">ကျွန်ုပ်မှာ လက်ခံသူဖြစ်သည်</string>
     <string name="trans_waiting_for_sender">စက်အဟောင်းအား ချိတ်ဆက်ရန် စောင့်နေ…</string>
@@ -306,7 +310,9 @@
     <string name="trans_detail_app_data_useless_tip">အက်ပ်မှ ပြန်လည်ရယူနိုင်ပါသည်။ လွှဲပြောင်းရန် မလိုအပ်ပါ။</string>
     <string name="trans_detail_item_app_data_too_large_tip">ဤအိုင်တမ်မှာ ကြီးလွန်းသောကြောင့် လွှဲပြောင်း၍ မရနိုင်ပါ။</string>
     <string name="trans_detail_item_app_data_selected_tip">သက်ဆိုင်ရာ အက်ပ်များကို ရွေးပြီးပါပြီ။</string>
-    <string name="trans_detail_list_footer">မှတ်ချက်- အက်ပ်များကို သီးခြားစီ လွှဲပြောင်းနိုင်ပါသည်။ အက်ပ်ဒေတာကို ရွေးပါက သက်ဆိုင်ရာ အက်ပ်များလည်း လွှဲပြောင်းလိမ့်မည်ဖြစ်သည်။</string>
+    <string name="trans_detail_list_footer">"၁။ လွှဲပြောင်းလိုသော အက်ပ်များအား တစ်ခုချင်း ရွေးနိုင်ပါသည်။
+၂။ အက်ပ်ဒေတာများအား ရွေးချယ်ပြီးနောက် သက်ဆိုင်ရာ အက်ပ်ကိုလည်း ရွေးလိမ့်မည်။
+၃။ လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် WeChat နှင့် QQ ၏ အက်ပ်ဒေတာများသည် လွှဲပြောင်းရာတွင် မအောင်မြင်မှုများ ရှိနိုင်သည်။ WeChat တွင် ပါရှိသော လွှဲပြောင်းမှု အင်္ဂါရပ်အား အသုံးပြုရန် အကြံပြုပါသည်။"</string>
     <string name="trans_detail_page_tip">လွှဲပြောင်းမှု ကြာရှည်ချိန်သည် သင် ရွေးချယ်သောအိုင်တမ်များအပေါ် မူတည်ပါသည်။</string>
     <string name="trans_detail_sys_data_list_title">စနစ် အက်ပ်များ</string>
     <string name="trans_detail_app_data_list_title">အက်ပ်ဒေတာ</string>
@@ -365,8 +371,9 @@
     <string name="trans_wait_trans_data">"စက်ဟောင်းသို့ ချိတ်ဆက်ခဲ့သည်။ 
 လွှဲပြောင်းမှုအတွက် စ​ောင့်စားနေ…"</string>
     <string name="trans_select_data">ပေးပို့ရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
-    <string name="trans_select_data_tips">"လွှဲပြောင်းရန်ဖိုင်များအား ရွေးချယ်ပါ
-စက်သစ်ပေါ်တွင် တူညီသော ဖိုင်များရှိပါက ထပ်ရေးလိုက်လိမ့်မည်"</string>
+    <string name="trans_select_data_tips">"လွှဲပြောင်းရန် အိုင်တမ်များ ရွေးချယ်ပါ။
+စက် အသစ်ထဲရှိ ဆင်တူ အိုင်တမ်များ အပေါ် ဖျက်ပြီးပြန်ရေးပါမည်။
+(လွှဲပြောင်းမည့် အိုင်တမ် အရွယ်အစားသည် ခန်းမှန်းခြေ ဖြစ်သည်။)"</string>
     <string name="trans_select_data_no_space">"စက်အသစ်တွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ (%s ရရှိနိုင်သည်)။
 နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။"</string>
     <string name="trans_select_data_too_large">"လွှဲပြောင်းရန် ရွေးထားသော အိုင်တမ် အလွန်များနေသည်။
@@ -382,6 +389,22 @@
     <string name="trans_old_phone_low_space_msg">Mi Mover မှ လွှဲပြောင်းမည့်ဒေတာကို ပက်ကေ့ချ်လုပ်ရန် နေရာလွတ်အချို့ လိုအပ်ပါသည်၊ သို့သော် စက်အဟောင်းတွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ။ \"လုံခြုရေး\"သို့သွား၍ နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။</string>
     <string name="button_clean_garbage">နေရာလွတ် ရှင်းလင်းပါ</string>
     <string name="button_quit">ထွက်မည်</string>
+    <string name="soft_ap_creating">ဟော့စ်ပေါ့ ဖန်တီးနေသည်…</string>
+    <string name="wait_link">"သင်၏ စက်အဟောင်းအား ဤဟော့စ်ပေါ့သို့ ချိတ်ဆက်ပါ။
+ချိတ်ဆက်မှု မအောင်မြင်သေးမီ ဤစာမျက်နှာမှ မထွက်သွားပါနှင့်။"</string>
+    <string name="old_way">QR ကုဒ်ဖြင့်လည်း ချိတ်ဆက်နိုင်ပါသည်။ ကုဒ် ရယူရန် ထိနှိပ်ပါ။</string>
+    <string name="soft_ap_create_failed">ဟော့စ်ပေါ့ မဖန်တီးနိုင်ခဲ့ပါ</string>
+    <string name="scan_soft_ap_label">စက်အဟောင်းသို့ ချိတ်ဆက်ပါ</string>
+    <string name="scan_soft_ap">စက်အသစ်အား ရှာနေသည်…</string>
+    <string name="click_soft_ap_to_link">ချိတ်ဆက်ရန် ဟော့စ်ပေါ့ တစ်ခု ရွေးပါ</string>
+    <string name="waiting">ခဏစောင့်ပါ…</string>
+    <string name="old_soft_name">QR ကုဒ်ဖြင့် ချိတ်ဆက်မည်</string>
+    <string name="confirm_exit_link_title">လွှဲပြောင်းမှုအား ပြတ်တောက်သွားသည်</string>
+    <string name="confirm_exit_link_msg">အက်ပ်မှ ထွက်ခွာပါက လက်ရှိ လွှဲပြောင်းမှုသည် ပြတ်တောက်သွားမည်။ နောက်တစ်ကြိမ်တွင် စက်နှစ်လုံးကြား ချိတ်ဆက်မှု ပြန်လုပ်ရမည်။ ထွက်ခွာမလား?</string>
+    <string name="confirm_exit_link">ထွက်ခွာမည်</string>
+    <string name="confirm_exit_link_cancel">မထွက်ပါ</string>
+    <string name="connect_soft_ap_label">စက်အသစ်သို့ ချိတ်ဆက်နေသည်…</string>
+    <string name="recreate_soft_ap_tips">ပြန်ကြိုးစားကြည့်ရန် အောက်မှ ခလုတ်အား ထိနှိပ်ပါ။</string>
     <string name="trans_install_guide_page_title">သင့်ဖုန်းအဟောင်းတွင် Mi Mover အား ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="trans_install_guide_scan_install_tip">"Mi Mover အား ဒေါင်းလုဒ်လုပ်၍ ထည့်သွင်းရန်
 သင့်ဖုန်းအဟောင်းဖြင့် ဤ QR ကုဒ်အား စကန်ဖတ်ပါ။"</string>
@@ -414,6 +437,8 @@
     <string name="trans_intro_title_old">ဖုန်းအဟောင်းတွင်-</string>
     <string name="trans_intro_desc_old">\"ကျွန်ုပ်သည် ပေးပို့သူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
     <string name="trans_intro_desc_old_market">\"စတင်ပါ\"အား ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
+    <string name="trans_intro_question_10">%d။ စက်အဟောင်းတွင် ဟော့စ်ပေါ့အား ရှာမတွေ့ပါသလား?</string>
+    <string name="trans_intro_desc_10">စက်အသစ်တွင် \"QR ကုဒ်ဖြင့် ချိတ်ဆက်မည်\"အား ထိနှိပ်ပြီး ချိတ်ဆက်မှုအတွက် QR ကုဒ်ကို စကန်ဖတ်ပါ။</string>
     <string name="trans_intro_question_3">%d။ Mi Moverသည် တစ်နေရာရာတွင် ရှေ့ဆက်၍မရပါက ဘယ်လိုလုပ်ရမလဲ?</string>
     <string name="trans_intro_desc_3">လွှဲပြောင်းမှုအား ဖျက်သိမ်း၍ Mi Mover မှ ထွက်ပြီး ပြန်စပါ။ လွှဲပြောင်းမှုအသစ်တွင် တူညီသောဖိုင်များ ထပ်နေမည် မဟုတ်ပါ။</string>
     <string name="trans_intro_question_4">%d။ အဘယ်ကြောင့် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi သုံး၍မရသနည်း?</string>
@@ -436,6 +461,8 @@
     <string name="trans_intro_desc_multiuser">ဒုတိယနေရာရှိ အိုင်တမ်များကို Mi Mover မှ ဖတ်ယူ၍မရပါ။ ထိုအိုင်တမ်များကို ပထမနေရာသို့ရွှေ့ပြီး Mi Mover အား ပထမနေရာတွင် စတင်ဆောင်ရွက်စေပါ။</string>
     <string name="trans_intro_title_multiapp">နှစ်ခုတွဲအက်ပ် ဒေတာ-</string>
     <string name="trans_intro_desc_multiapp">Mi Mover သည် ကွဲလွဲမှုများကို ရှောင်ရှားရန် နှစ်ခုတွဲအက်ပ်များ၏ ဒေတာကိုလွှဲပြောင်းမပေးပါ။</string>
+    <string name="trans_intro_title_gms">Google အက်ပ်များမှ ဒေတာ-</string>
+    <string name="trans_intro_desc_gms">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် လွှဲပြောင်းမှုများ မအောင်မြင်နိုင်ခြေ အလွန်များသဖြင့် Mi Mover မှ Google အက်ပ်၏ ဒေတာများအား လွှဲပြောင်းရန် မပံ့ပိုးထားပါ။</string>
     <string name="trans_intro_question_9_market">%d။ တုံ့ပြန်အကြံပြုချက်။</string>
     <string name="trans_intro_desc_9_method_1_title">၁။ သင်၏အကြံပြုချက်အား \"တုံ့ပြန်အကြံပြုချက်\"အက်ပ်ဖြင့် မျှဝေပါ။</string>
     <string name="trans_intro_desc_9_method_1_dec">ပင်မမျက်နှာပြင် > ကိရိယာ > တုံ့ပြန်အကြံပြုချက်သို့ သွားပါ။</string>
@@ -467,7 +494,6 @@ Mi Moverအား သင် နှစ်သက်ပါသလား?"</string>
     <string name="trans_success_dialog_button_survey">စစ်တမ်းကောက်မည်</string>
     <string name="trans_success_dialog_survey_title">သင်၏တုံ့ပြန်အကြံပြုချက်ကို ကျွန်ုပ်တို့ အလွန်လိုလားပါသည်</string>
     <string name="trans_success_survey_hint">ကျေးဇူးပြု၍ အားလုံး ဖြည့်ပေးပါ။</string>
-    <string name="trans_cancel_dialog_survey_title">လွှဲပြောင်းမှုအား အဘယ်ကြောင့် ဖြတ်တောက်သနည်း?</string>
     <string name="trans_dialog_survey_finish">ပေးပို့မည်</string>
     <string name="trans_failed_details_page_title">မအောင်မြင်သော လွှဲပြောင်းမှုများ</string>
     <string name="close_twice_auth_tutor">Apple ID လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ</string>
@@ -537,6 +563,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>

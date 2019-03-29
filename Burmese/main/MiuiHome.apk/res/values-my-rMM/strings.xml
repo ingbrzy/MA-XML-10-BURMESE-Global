@@ -114,6 +114,7 @@
     <string name="edit_mode_group_error_full">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
     <string name="edit_mode_group_error_in_folder">အုပ်စုမခွဲမီ ဖိုလ်ဒါအား ဦးစွာ ပိတ်ပါ</string>
     <string name="edit_mode_group_error_one_folder">ရွေးထားသော အိုင်ကွန်ဖြင့် ဖိုလ်ဒါအား ပွားယူ၍ မရပါ</string>
+    <string name="edit_mode_top_menu_finish">ပြီးပါပြီ</string>
     <string name="edit_mode_uninstall">ဖြုတ်မည်</string>
     <string name="editing_add_widget_tips">ဝစ်ဂျက်များအား တည်းဖြတ်မည်</string>
     <string name="editing_mode_enter_tip_text">ပင်မမျက်နှာပြင်ကို တည်းဖြတ်ရန် လက်ချောင်းများဖြင့် ဖိပါ</string>
@@ -215,6 +216,7 @@
     <string name="menu_default_screen_preview">မူလမျက်နှာပြင် သတ်မှတ်မည်</string>
     <string name="menu_edit">ပင်မမျက်နှာပြင်အား တည်းဖြတ်မည်</string>
     <string name="menu_exit_scene">Mi Space မှ ထွက်ပါ</string>
+    <string name="menu_finish">ပြီးပါပြီ</string>
     <string name="menu_item_add_item">ပင်မမျက်နှာပြင်ပေါ်တွင် ထားပါ</string>
     <string name="menu_launcher_setting">အစပျိုးစက် ဆက်တင်များ</string>
     <string name="menu_lock">သော့ခတ်မျက်နှာပြင် အပြင်အဆင်</string>
@@ -352,15 +354,15 @@
     <string name="widget_gadget_player">သီချင်း</string>
     <string name="widget_global_search">ရှာ​ဖွေမည်</string>
     <string name="widget_quick_function">အမြန် လုပ်ဆောင်ချက်များ</string>
+    <string name="widgets_preview_title">ဝစ်ဂျက်အား ပေါင်းထည့်ပါ</string>
     <string name="home_gesture_content_center">အကြောင်းအရာ စင်တာ</string>
     <string name="home_gesture_global_search">ရှာ​ဖွေရန်</string>
     <string name="home_gesture_no_action">မရှိပါ</string>
     <string name="home_gesture_notification_bar">အသိပေးချက်များ</string>
     <string name="home_pull_down_action">ပင်မမျက်နှာပြင်တွင် အောက်သို့ ဆွဲချပါ</string>
     <string name="home_slide_up_action">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ဆွဲတင်ပါ</string>
-    <string name="launcher_pull_down_title">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ဆွဲတင်ပါ</string>
-    <string name="launcher_slide_up_title">ပင်မမျက်နှာပြင်တွင် အောက်သို့ ဆွဲချပါ</string>
-    <string name="menu_finish">ပြီးပါပြီ</string>
-    <string name="minus_one_screen">minus one screen</string>
-    <string name="widgets_preview_title">ဝစ်ဂျက်အား ပေါင်းထည့်ပါ</string>
+    <string name="launcher_pull_down_title">ပင်မမျက်နှာပြင်တွင် အောက်သို့ ဆွဲချပါ</string>
+    <string name="launcher_slide_up_title">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ဆွဲတင်ပါ</string>
+    <string name="launcher_sliding_up_gesture">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ပွတ်ဆွဲ၍ ရှာ​ဖွေရေးကို ဖွင့်ပါ</string>
+    <string name="minus_one_screen">အက်ပ် မီးခံသေတ္တာ</string>
 </resources>

@@ -108,4 +108,7 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">နေသာသော</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">စက် %1$dလုံး ချိတ်ဆက်ထားသည်</item>
+    </plurals>
 </resources>

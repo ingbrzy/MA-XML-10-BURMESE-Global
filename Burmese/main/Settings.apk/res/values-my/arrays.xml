@@ -22,7 +22,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>စက်တွင်းသိုလှောင်ကိရိယာ</item>
-        <item>ဖယ်ရှား၍ရသောSDကဒ်</item>
+        <item>ဖယ်ရှား၍ရသောSDကတ်</item>
         <item>စနစ်အား ဆုံးဖြတ်ပါစေ</item>
     </string-array>
     <string-array name="app_ops_categories">
@@ -254,8 +254,8 @@
         <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ အသံ</item>
+        <item>Qualcomm® aptX™ HD အသံ</item>
         <item>LDAC</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
@@ -264,21 +264,37 @@
         <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ အသံ</item>
+        <item>Qualcomm® aptX™ HD အသံ</item>
         <item>LDAC</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
         <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>၊ ဖွင့်ထားသည်</item>
+        <item>၊ ဖွင့်ထားသည် (မီဒီယာ)</item>
+        <item>၊ ဖွင့်ထားသည် (ဖုန်း)</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
+        <item>avrcp13</item>
         <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (မူလ)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_max_connected_audio_devices">
+        <item>စနစ်မူရင်းကို အသုံးပြုရန်− %1$d</item>
+        <item>၁</item>
+        <item>၂</item>
+        <item>၃</item>
+        <item>၄</item>
+        <item>၅</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>၂ မိနစ်</item>
@@ -313,7 +329,7 @@
         <item>အဖြူပေါ်အမည်း</item>
         <item>အမည်းပေါ်အဝါ</item>
         <item>အပြာပေါ်အဝါ</item>
-        <item>မိမိစိတ်ကြိုက်</item>
+        <item>စိတ်ကြိုက်</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>မူလစာလုံး</item>
@@ -344,18 +360,19 @@
         <item>ပန်းရောင်</item>
         <item>အနီ</item>
     </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>အလိုအလျောက် (တစ်နေ့တာ၏ အချိန်အပေါ် မူတည်သည်)</item>
+        <item>အမြဲတမ်း ဖွင့်ထားခြင်း</item>
+        <item>အမြဲပိတ်ခြင်း</item>
+    </string-array>
     <string-array name="data_usage_data_range">
         <item>နောက်ဆုံး ရက် ၃၀</item>
         <item>သုံးစွဲမှု စက်ဝန်း သတ်မှတ်ရန်...</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>ရှိရင်းစွဲထက်ပိုသော ဧရိယာများကိုပြရန်</item>
         <item>အရောင်ရောနှောသောဧရိယာများပြရန်</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (မူရင်း)</item>
-        <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>ဘယ်တော့မှ</item>
@@ -374,7 +391,7 @@
         <item>PWD</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>လော့ဂ်ကက်</item>
         <item>စနစ်ခြေရာခံခြင်း (ရုပ်ပုံများ)</item>
         <item>glGetError အမှားတက်လျှင်ခေါ်သောလုပ်ငန်းစဉ်</item>
@@ -387,7 +404,7 @@
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP checking အား ဘယ်တော့မှ မသုံးပါနှင့်</item>
-        <item>DRMအကြောင်းအရာအတွက် HDCPစစ်ဆေးခြင်းကိုသုံးမည်</item>
+        <item>DRM အကြောင်းအရာအတွက်သာ HDCP စစ်ဆေးမည်</item>
         <item>HDCP checkingအားအမြဲသုံးပါ</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
@@ -412,14 +429,14 @@
         <item>အရှည်</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
         <item>ICCID</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>480p</item>
         <item>480p (secure)</item>
         <item>720p</item>
@@ -476,21 +493,21 @@
         <item>အမြဲခွင့်ပြုပါ</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 64K</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 256K</item>
-        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 1M</item>
+        <item>မှတ်တမ်းကြားခံနယ် တစ်ခုလျှင် 1M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 4M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 16M</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -498,19 +515,19 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်များ အားလုံး</item>
         <item>ရေဒီယို မှတ်တမ်းသိမ်းဆည်းရန်လျာထားချက်မှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်သာ</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>ပိတ်ပါ</item>
+        <item>ပိတ်ရန်</item>
         <item>အားလုံး</item>
         <item>ရေဒီယိုမှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်သာ</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>စတုဂံမဟုတ်သော ဖောက်ရန်အပိုင်းကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
         <item>စမ်းသပ်ထားသော ပုံဆွဲရန်ညွှန်ကြားချက်များကို အစိမ်းရောင်ဖြင့် အသားပေး ဖော်ပြပါ</item>
     </string-array>
@@ -524,7 +541,7 @@
         <item>အားလုံး</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>ဖန်သားပြင်ပေါ်မှာ မျဉ်းတန်းကဲ့သို့</item>
         <item>adb shell dumpsys gfxinfo ဖြင့်</item>
     </string-array>
@@ -565,7 +582,7 @@
         <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
         <item>စတင်နေသည်</item>
         <item>ချိတ်ဆက်နေသည်</item>
-        <item>ဆက်သွယ်ထားပြီး</item>
+        <item>ချိတ်ဆက်ထားသည်</item>
         <item>သတ်မှတ်ချိန်ကျော်လွန်သွားသည်</item>
         <item>မအောင်မြင်ပါ</item>
     </string-array>
@@ -619,12 +636,21 @@
         <item>AKA</item>
         <item>"AKA'"</item>
     </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>ပုံမှန်ဖြစ်သော</item>
     </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>အလိုအလျောက် ရှာရန်</item>
+        <item>အခမဲ့ မဟုတ်သော အသုံးပြုခြင်းအဖြစ် သတ်မှတ်ရန်</item>
+        <item>အခမဲ့ အသုံးပြုခြင်းအဖြစ် သတ်မှတ်ရန်</item>
+    </string-array>
     <string-array name="wifi_p2p_status">
-        <item>ဆက်သွယ်ထားပြီး</item>
+        <item>ချိတ်ဆက်ထားသည်</item>
         <item>ဖိတ်ခေါ်ထားပြီး</item>
         <item>မအောင်မြင်ပါ</item>
         <item>ချိတ်ဆက်နိုင်သော</item>
@@ -636,7 +662,7 @@
         <item>ဤစက်မှပင်နံပါတ်</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -649,14 +675,14 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
         <item>ကိုယ်တိုင်ထည့်သွင်းခြင်း</item>
         <item>ပရောက်စီ အော်တို-စီစဉ်</item>
     </string-array>
@@ -667,23 +693,13 @@
         <item>ကောင်းသည်</item>
         <item>အလွန်ကောင်းသည်</item>
     </string-array>
-    <string-array name="wifi_sleep_policy_entries">
-        <item>အမြဲတမ်း</item>
-        <item>ကြိုးဖြင့်ဆက်ထားသည့်အခါသာ</item>
-        <item>ဘယ်တော့မှ</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>အမြဲတမ်း</item>
-        <item>ကြိုးဖြင့်ဆက်ထားသည့်အခါသာ</item>
-        <item>ဘယ်တော့မှ</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>စကင်ပြုလုပ်နေပြီ</item>
         <item>ချိတ်ဆက်နေသည်</item>
         <item>စစ်မှန်ကြောင်းအတည်ပြုနေသည်</item>
         <item>အိုင်ပီလိပ်စာရယူနေသည်</item>
-        <item>ဆက်သွယ်ထားပြီး</item>
+        <item>ချိတ်ဆက်ထားသည်</item>
         <item>ဆိုင်းငံ့ထားသည်</item>
         <item>အဆက်အသွယ်ဖြတ်တောက်နေသည်</item>
         <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
@@ -704,6 +720,10 @@
         <item>မအောင်မြင်ပါ</item>
         <item>ပိတ်ထားသည်</item>
         <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
+    </string-array>
+    <string-array name="wifi_tether_security_values">
+        <item>4</item>
+        <item>0</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>

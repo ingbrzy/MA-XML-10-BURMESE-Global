@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">လုံခြုံရေးဝန်ဆောင်မှု ပလက်ဂင်</string>
+    <string name="app_name">စနစ် ဝန်ဆောင်မှု ပလက်အင်</string>
     <string name="ok_button">အိုကေ</string>
     <string name="cancel_button">ပယ်ဖျက်</string>
     <string name="privacy_declare_dialog_title">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
@@ -13,12 +13,13 @@
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
     <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
+    <string name="empty">" "</string>
     <string name="share">မျှဝေပါ</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="pm_lable_name">root ဝင်ရောက်မှုအကြောင်း</string>
     <string name="pc_activity_title">ဘက်ထရီအား အဆင့်မြှင့်တင်</string>
-    <string name="lucky_result_title">စာအိတ်နီများ</string>
+    <string name="lucky_result_title">ဟုန်ပေါင်း</string>
     <string name="fastboot_status_locked_info">ဤစက်ပေါ်တွင် Fastboot သော့မဖြည်ထားပါ</string>
     <string name="fastboot_status_locked_summary">Root သို့ဝင်ရောက်ခြင်း မရနိုင်ခဲ့ပါ</string>
     <string name="fastboot_locked_question_1">Fastboot ကို အဘယ့်ကြောင့် သော့ခတ်ထားသင့်သလဲ?</string>
@@ -34,4 +35,5 @@
     <string name="gb_alipays_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
     <string name="xunyou_pay_webview">Xunyou ဝန်ဆောင်မှုများ</string>
     <string name="gamebox_no_network_btn">ပြန်လည် လုပ်ဆောင်ပါ</string>
+    <string name="ad_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
 </resources>

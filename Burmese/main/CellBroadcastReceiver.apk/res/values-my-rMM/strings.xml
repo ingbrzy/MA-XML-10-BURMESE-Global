@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="button_dismiss">အိုကေ</string>
     <string name="app_label">ဆဲလ် ထုတ်လွှင့်ချက်များ</string>
     <string name="sms_cb_settings">ဆဲလ် ထုတ်လွှင့်မှု သတ်မှတ်ချက်များ</string>
     <string name="cell_broadcast_settings_not_available">ဆဲလ် ထုတ်လွှင့်မှု ဆက်တင်များကို ဤအသုံးပြုသူ မရယူနိုင်</string>
-    <string name="button_dismiss">အိုကေ</string>
     <string name="no_cell_broadcasts">သင်၏ ဒေသမှာ လိုက်နာရမည့် သတိပေးချက်များ မရှိပါ။ သင်သည် သတ်မှတ်ချက်များ မီးနူးကို သုံးပြီး သတိပေးရေး သတ်မှတ်ချက်များကို ပြောင်းနိုင်သည်။</string>
     <string name="menu_preferences">သတ်မှတ်ချက်များ</string>
     <string name="menu_delete_all">ထုတ်လွှင့်မှုများကို ဖျက်ပါ</string>

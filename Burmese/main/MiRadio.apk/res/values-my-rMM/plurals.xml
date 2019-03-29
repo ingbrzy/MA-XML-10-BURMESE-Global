@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_rec_content">
+        <item quantity="other">FM အသံဖမ်းယူမှု %d ခု</item>
+    </plurals>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">အသံလွှင့်ဌာန ၁ ခု စကင်ဖတ်ပြီးပြီ အသံလွှင့်ဌာန %1$d ခု စကင်ဖတ်ပြီးပြီ</item>
+    </plurals>
+</resources>

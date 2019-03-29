@@ -28,6 +28,8 @@
     <string name="already_updated">နောက်ဆုံးပေါ်</string>
     <string name="app_label">မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="app_name">စက်များ</string>
+    <string name="application_list_title">မီနီ အက်ပ်</string>
+    <string name="attach_group_chat">အုပ်စုချတ်</string>
     <string name="attach_image">ပုံများ</string>
     <string name="attach_rcs_file">ဖိုင်</string>
     <string name="attach_rcs_location">တည်နေရာ</string>
@@ -39,6 +41,7 @@
     <string name="attach_take_photo">ဓာတ်ပုံ ရိုက်ပါ</string>
     <string name="attach_transaction">ပိုက်ဆံ လွှဲပြောင်းမည်</string>
     <string name="attach_video">ဗီဒီယို</string>
+    <string name="attach_video_call">ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="audio_download_failed">အော်ဒီယိုကို ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="audio_message_expired">အသံမက်ဆေ့ချ် သက်တမ်းကုန်သွားပြီ</string>
     <string name="audio_message_mx_offline">အော်ဒီယိုအား ဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ။ Mi မက်ဆေ့ချ် အော့်ဖ်လိုင်း သို့မဟုတ် မရှိနိုင်ပါ။</string>
@@ -72,6 +75,7 @@
     <string name="button_unfold">ဖြန့်ပါ</string>
     <string name="call_sender">ပေးပို့သူအား ခေါ်ဆိုပါ</string>
     <string name="can_not_send_by_rcs">China Mobile မက်ဆေ့ချ်အား သုံး၍မရပါ</string>
+    <string name="can_not_view_group_chat_stranger">သူစိမ်းများ၏ အသေးစိတ်အချက်အလက်အား ကြည့်ရှု၍ မရပါ။</string>
     <string name="cannot_add_picture_and_video">ဆလိုက်တစ်ခုသို့ ဗီဒီယိုနှင့် ပုံ ထည့်လို့မရပါ။</string>
     <string name="cannot_add_slide_anymore">ဆလိုက်များ ထပ်ထည့်လို့မရပါ။</string>
     <string name="cannot_forward_drm_obj">မက်ဆေ့ချ်တွင် ပါဝင်သော DRM ပစ္စည်းကို ထပ်ဆင့်ပို့၍ မရနိုင်ပါ။</string>
@@ -129,6 +133,7 @@
     <string name="confirm_restore_positive">မူလအတိုင်းပြန်ထားပါ</string>
     <string name="confirm_restore_title">မက်ဆေ့ချ်အား ပြန်ဖော်ထုတ်</string>
     <string name="confirm_send_mms">လက်ခံသူတစ်ယောက်တွင် အီးမေးလ်လိပ်စာ ပါဝင်သည်။ ဤမက်ဆေ့ချ်ကို သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူထံမှ အပို ကုန်ကျစရိတ် ကောက်ခံခြင်း ဖြစ်စေနိုင်သည့် MMS အဖြစ် ပို့လိမ့်မည်။</string>
+    <string name="contact_not_exists">ဤသူမှာ သင့် အဆက်အသွယ်များထဲတွင် မရှိပါ။</string>
     <string name="context_menu_add_calendar">ပြက္ခဒိန်သို့ပေါင်းထည့်ပါ</string>
     <string name="context_menu_add_contact">အဆက်အသွယ်များထဲသို့ ထည့်ပါ</string>
     <string name="context_menu_add_to_browser_favorite">ဘရောက်ဇာ စာညှပ်များထဲသို့ထည့်ပါ</string>
@@ -223,6 +228,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_message_select_title">မက်ဆေ့ချ် တစ်ဆင့်ပို့မည်</string>
@@ -244,6 +250,7 @@
     <string name="group_resend_message">ပြန်ပို့ပါ (%d)</string>
     <string name="group_view_settings_disolved">ဤအုပ်စုချတ်အား ဖျက်ထားသောကြောင့် အိုင်တမ်များအား ကြည့်ရှု၍ မရပါ။</string>
     <string name="group_view_settings_not_memeber">သင်သည် ဤအုပ်စုချတ်၏ အဖွဲ့ဝင် မဟုတ်သောကြောင့် အိုင်တမ်များအား ကြည့်ရှု၍ မရပါ။</string>
+    <string name="groupchat_list_title">အုပ်စုချတ်</string>
     <string name="guild_add_attachments">အခြားအိုင်တမ်များနှင့် အီမိုးရှင်းများ ပေါင်းထည့်ရန် ထိနှိပ်ပါ</string>
     <string name="guild_add_recipients">အဆက်အသွယ်များမှ လက်ခံမည်သူ ပေါင်းထည့်ရန် ထိနှိပ်ပါ</string>
     <string name="guild_msim_switcher">SMS ကဒ်များကို ဖလှယ်ရန် ထိပါ</string>
@@ -286,6 +293,7 @@
     <string name="menu_edit">ပြုပြင်ရန်</string>
     <string name="menu_forward">ထပ်ဆင့်ပို့ရန်</string>
     <string name="menu_lock">အကြိုက်ဆုံးစာရင်းသို့ ပေါင်းထည့်မည်</string>
+    <string name="menu_make_call">ဖုန်းခေါ်မည်</string>
     <string name="menu_mark">မှတ်သားပါ</string>
     <string name="menu_more">နောက်ထပ်</string>
     <string name="menu_new_contact">အဆက်အသွယ်အသစ်</string>
@@ -296,6 +304,7 @@
     <string name="menu_traffic_destination">ဦးတည်ရာနေရာ</string>
     <string name="menu_unlock">အကြိုက်ဆုံးစာရင်းမှ ဖယ်ရှားမည်</string>
     <string name="menu_view_contact">အဆက်အသွယ်ကိုကြည့်ပါ</string>
+    <string name="menu_view_group_info">အုပ်စု အချက်အလက်</string>
     <string name="message_class_label">"မက်ဆေ့ချ်အတန်းအစား- "</string>
     <string name="message_contact">အဆက်အသွယ်-</string>
     <string name="message_details_title">မက်ဆေ့ချ် အသေးစိတ်များ</string>
@@ -407,6 +416,7 @@
     <string name="no_block_button_msg">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
     <string name="no_conversations">စကားပြောဆိုထားမှုများ မရှိပါ</string>
     <string name="no_delivery_report">ပေးပို့ကြောင်းအစီရင်ခံစာ</string>
+    <string name="no_network_description">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="no_subject">(အကြောင်းအရာမပါ)</string>
     <string name="no_subject_view">(အကြောင်းအရာမပါ)</string>
     <string name="non_english_subject_limit">အက္ခရာ ၁၃ ခု</string>
@@ -529,6 +539,9 @@
     <string name="prvate_contact">သီးသန့် အဆက်သွယ်များ</string>
     <string name="quick_reply">စာပြန်ရန်</string>
     <string name="rate_limit_surpassed">အိုကေ</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">ပြောင်းမည်</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">ကွန်ရက် လိုင်းအား နည်းသောအခါ မက်ဆေ့ချ်၏ စာသား(အများဆုံး ၉၀၀ ဘိုက်)ကို SMS သို့ အလိုအလျောက် ပြောင်းပြီး ပို့နိုင်သည်။ SMS သို့ မပြောင်းလိုပါက ဆက်တင်သို့ သွား၍ သတ်မှတ်နိုင်ပါသည်။</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">SMS သို့ ပြောင်းမည်</string>
     <string name="rcs_auto_resend_mms">MMS သို့ ပြောင်းမည်</string>
     <string name="rcs_auto_resend_sms">SMS သို့ ပြောင်းမည်</string>
     <string name="rcs_auto_resume">အပ်လုဒ်များအား အလိုအလျောက် ပြန်စပါ</string>
@@ -539,10 +552,12 @@
     <string name="rcs_forward_faild">တစ်ဆင့်ပို့၍ မရပါ</string>
     <string name="rcs_forward_successful">တစ်ဆင့်ပို့ပြီးပါပြီ</string>
     <string name="rcs_group_notification_invitation">အုပ်စုချတ် ဖိတ်ကြားချက်</string>
+    <string name="rcs_hello_from_pc">ဖိုင်များ လွှဲပြောင်းရန် သင့်ကွန်ပျူတာတွင် Fetion အား ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="rcs_message">China Mobile မက်ဆေ့ချ်</string>
     <string name="rcs_message_disable">ဒုတိယနေရာတွင် ဤမက်ဆေ့ချ်အား ကြည့်၍မရပါ</string>
     <string name="rcs_msg">China Mobile မက်ဆေ့ချ်</string>
     <string name="rcs_not_online">China Mobile မက်ဆေ့ချ်အား သုံး၍မရပါ။ ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="rcs_offline">UC သို့ ဆိုင်းအင် မဝင်ထားပါ၊ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="rcs_offline_hint">China Mobile မက်ဆေ့ချ် အော့ဖ်လိုင်းဖြစ်နေသည်။ ဤမက်ဆေ့ချ်အား တစ်ဆင့်ပို့၍ မရပါ။</string>
     <string name="rcs_recipient_type_contact">အဆက်အသွယ်ထံ တစ်ဆင့်ပို့မည်</string>
     <string name="rcs_recipient_type_group">အုပ်စုချတ်သို့ ထပ်ဆင့်ပို့မည်</string>
@@ -667,6 +682,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
