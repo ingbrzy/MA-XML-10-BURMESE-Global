@@ -57,6 +57,9 @@
     <plurals name="download_running">
         <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်နေသည်</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">သီချင်း %d ပုဒ် အခမဲ့ ဒေါင်းလုဒ်လုပ်နိုင်သေးသည်</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">အိုင်တမ် %d ခုရွေးထားသော</item>
     </plurals>
@@ -86,5 +89,8 @@
     </plurals>
     <plurals name="video_play_count">
         <item quantity="other">ကြည့်ရှုမှု %1$s ကြိမ်</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d ရက် ကျန်သေးသည်</item>
     </plurals>
 </resources>

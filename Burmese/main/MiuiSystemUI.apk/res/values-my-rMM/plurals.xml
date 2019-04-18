@@ -25,10 +25,10 @@
         <item quantity="other">PUK ကုဒ် မမှန်ကန်ပါ၊ ကြိုးစားခွင့် %d ကြိမ် ကျန်သေးသည်</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">စကားဝှက် မသုံးသည်မှာ အနည်းဆုံး %d နာရီကြာ သွားပါပြီ။ သင်၏ စကားဝှက်အား ရိုက်ထည့်ပါ။</item>
+        <item quantity="other">စကားဝှက် မမေ့စေရန် %d နာရီခြား တစ်ခါ စကားဝှက် ရိုက်ထည့်ပါ</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">သော့ဖွင့်ပုံစံ မသုံးသည်မှာ အနည်းဆုံး %d နာရီကြာ သွားပါပြီ။ သင်၏ သော့ဖွင့်ပုံစံအား ဆွဲပါ။</item>
+        <item quantity="other">စကားဝှက် မမေ့စေရန် %d နာရီခြား တစ်ခါ စကားဝှက် ရိုက်ထည့်ပါ</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"%d  နာရီခန့် သုံးနိုင်သည်"</item>

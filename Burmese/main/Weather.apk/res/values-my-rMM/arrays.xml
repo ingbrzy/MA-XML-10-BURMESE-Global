@@ -36,9 +36,9 @@
         <item>ကောင်း</item>
         <item>ကြေနပ်ဖွယ်</item>
         <item>အသင့်အတင့် ညစ်ညမ်းနေသည်</item>
-        <item>အားနည်းသော</item>
-        <item>အလွန်အားနည်းသော</item>
-        <item>ပြင်းထန်သော</item>
+        <item>ညစ်ညမ်းသည်</item>
+        <item>အလွန် ညစ်ညမ်းသည်</item>
+        <item>ပြင်းထန်သည်</item>
         <item>အညွှန်းကိန်းအလွန်</item>
     </string-array>
     <string-array name="breeze">
@@ -73,21 +73,21 @@
         <item>ကွာလာလန်ပူ</item>
     </string-array>
     <string-array name="minute_rain_array">
-        <item>ပြင်းထန်သော</item>
+        <item>ပြင်းထန်သည်</item>
         <item>အသင့်အတင့်</item>
-        <item>ပေါ့သော</item>
+        <item>အားနည်းသည်</item>
     </string-array>
     <string-array name="pollution_level_desc_arr">
-        <item>အလွန်ကောင်းမွန်သော</item>
+        <item>အလွန်ကောင်းမွန်သည်</item>
         <item>ကောင်း</item>
-        <item>အနည်းငယ်ညစ်ညမ်းသော</item>
+        <item>အနည်းငယ် ညစ်ညမ်းသည်</item>
         <item>အသင့်အတင့် ညစ်ညမ်းနေသည်</item>
-        <item>အလွန်ညစ်ညမ်းနေသော</item>
-        <item>အလွန်အမင်း ညစ်ညမ်းနေသော</item>
+        <item>အလွန် ညစ်ညမ်းသည်</item>
+        <item>အလွန်အမင်း ညစ်ညမ်းသည်</item>
         <item>အညွှန်းကိန်းအလွန်</item>
     </string-array>
     <string-array name="weather_type">
-        <item>နေသာသော</item>
+        <item>နေသာသည်</item>
         <item>မိုးအုံ့</item>
         <item>တိမ်ထူထပ်</item>
         <item>မြူဆိုင်း</item>

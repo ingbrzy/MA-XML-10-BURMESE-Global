@@ -9,4 +9,13 @@
     <plurals name="restoring_file_tile">
         <item quantity="other">ဖိုင် %d ခုအား ပြန်လည်ရယူနေသည်</item>
     </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">ဦးစားပေးအဆင့်- အိုင်တမ် %d ခု</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">ပုံမှန်အဆင့်- အိုင်တမ် %d ခု</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">ဤစက်ထဲရှိ အက်ပ် %d ခု</item>
+    </plurals>
 </resources>

@@ -50,6 +50,8 @@
     <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">စောင့်နေဆဲ</string>
     <string name="desktop_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="desktop_installing">တပ်ဆင်နေဆဲ</string>
-    <string name="desktop_wait_wifi">စောင့်နေဆဲ</string>
+    <string name="desktop_wait_network">စောင့်နေသည်…</string>
     <string name="desktop_failed">အမှား</string>
     <string name="recover_from_micloud">Mi Cloud အရန်သိမ်းခြင်းမှ နဂိုနေရာပြန်ထားပါ</string>
     <string name="click_try_to_restore_again">ပြန်လုပ်ကြည့်ရန် ထိနှိပ်ပါ</string>
@@ -114,7 +116,7 @@
     <string name="confirm_cancel_restore_positive">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="confirm_cancel_restore_negative">ပယ်ဖျက်မည်</string>
     <string name="confirm_restore_title">ပြန်လည်ရယူ</string>
-    <string name="confirm_restore_summary">Wi-Fi သို့ချိတ်ဆက်လိုက်စဉ်တွင် ပင်မမျက်နှာပြင်သည် ပြန်လည်စတင်ပြီး အက်ပ်များအား အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိမ့်မည်။</string>
+    <string name="confirm_restore_summary">သင်၏ ပင်မမျက်နှာပြင်အား ပြန်ဖွင့်ပါမည်။ အရန်သိမ်းထားသော အက်ပ်များလည်း အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိမ့်မည်။</string>
     <string name="confirm_restore">ပြန်လည်ရယူ</string>
     <string name="cloud_backup_have_data">Mi ကလောက်ထဲတွင် အရန်သိမ်းတစ်ခု တွေ့ရှိခဲ့သည်</string>
     <string name="cloud_backup_select_recover">Mi ကလောက်မှ အရန်သိမ်းရွေးချယ်ပါ</string>
@@ -134,7 +136,9 @@
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="loading_user_backup">သုံးစွဲသူ အရန်သိမ်းခြင်းများကို ရယူနေသည်…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
+    <string name="doing_calc_backup_data_size">အရွယ်အစား တွက်ချက်နေသည်…</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
     <string name="no_account">Mi အကောင့်သို့ ဆိုင်းအင်မဝင်ရသေးပါ။</string>
     <string name="no_backup">Mi Cloud တွင် အရန်သိမ်းထားခြင်း မရှိပါ။</string>
@@ -181,10 +185,34 @@
     <string name="msg_alert_cancel_restore">အိုင်တမ်များအား ပြန်လည်ရယူနေသည်။ ယခု ရပ်မလား?</string>
     <string name="btn_restore_cancel">ပယ်ဖျက်မည်</string>
     <string name="btn_restore_resume">ပြန်စမည်</string>
+    <string name="btn_restore_wait">Wi-Fi ကို စောင့်နေသည်</string>
+    <string name="btn_restore_continue">ပြန်လည်ရယူမည်</string>
+    <string name="msg_restore_with_metered_network_pattern">"ဖိုင် &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> ခုအား ဒေါင်းလုဒ်လုပ်မည်။"</string>
+    <string name="msg_restore_with_metered_network_hint">ဤအိုင်တမ်များအား ပြန်လည်ရယူလိုပါက ဒေါင်းလုဒ်လုပ်ရာတွင် မိုဘိုင်းဒေတာကို သုံးမည်။</string>
+    <string name="msg_restore_start_with_metered_network">"သင်၏ ပင်မမျက်နှာပြင်အား ပြန်ဖွင့်ပါမည်။ အရန်သိမ်းထားသော အက်ပ်များလည်း အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိမ့်မည်။ &lt;br />&lt;b>&lt;font color='red'>ဖိုင် %s ခုအား ဒေါင်းလုဒ်လုပ်မည်။&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">ဖိုင်များအား လက်ရှိ ကွန်နက်ရှင်ဖြင့် ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="title_alert_restore_error">ပြန်လည်ရယူ၍ မရပါ</string>
     <string name="msg_alert_restore_error">Mi Cloud မှ အိုင်တမ်များအား ပြန်လည်ရယူ၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="btn_restore_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="btn_restore_abort">ပယ်ဖျက်မည်</string>
     <string name="backup_stopped_title">အရန်သိမ်းခြင်းအား ရပ်တန့်ထားသည်</string>
     <string name="backup_stopped_msg">လက်ရှိ အရန်သိမ်းခြင်းသည် ယခင် ဘက်ခ်အပ်အား ဖုံးအုပ်သွားမည်။ ကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
+    <string name="restore_network_unconnect">%s (ချိတ်ဆက်ရန် စောင့်နေသည်)</string>
+    <string name="restore_network_pause">%s (ပြန်စရန် ထိနှိပ်ပါ)</string>
+    <string name="restore_detail_title">ပြန်လည်ရယူမည့် အိုင်တမ်များကို ရွေးချယ်ပါ</string>
+    <string name="restore_detail_category_settings">ဆက်တင်</string>
+    <string name="restore_detail_category_apps">ပင်မမျက်နှာပြင် ဖွဲ့စည်းပုံ &amp; အက်ပ်များ</string>
+    <string name="restore_detail_more">နောက်ထပ်</string>
+    <string name="restore_app_order_title">ပြန်လည်ရယူမည့် ဦးစားပေး အိုင်တမ်များ</string>
+    <string name="restore_app_order_search_hint">ဦးစားပေးအဆင့် သတ်မှတ်ရန် အိုင်တမ်များအား ရှာ​မည်</string>
+    <string name="restore_app_order_search_prior">ဦးစားပေးအဆင့် အက်ပ်များ</string>
+    <string name="restore_app_order_search_normal">ပုံမှန်အဆင့် အက်ပ်များ</string>
+    <string name="restore_app_order_search_installed">ဤစက်ထဲရှိ အက်ပ်များ</string>
+    <string name="restore_app_order_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="restore_app_order_retry_desc">"ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။
+ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။"</string>
+    <string name="restore_app_order_loading">ခဏစောင့်ပါ…</string>
+    <string name="restore_app_order_finish">ပြီးပါပြီ</string>
+    <string name="provision_restore_data">အိုင်တမ်များအား ပြန်လည်ရယူနေသည်</string>
+    <string name="provision_background_restore_more_data">နောက်ထပ် အိုင်တမ်များအား နောက်ခံတွင် ပြန်လည်ရယူမည်</string>
 </resources>

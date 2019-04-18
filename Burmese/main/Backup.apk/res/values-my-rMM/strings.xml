@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -28,7 +31,7 @@
     <string name="backup_hint_onpad">သင့်ကိရိယာကို ပါဝါဖွင့်ထားပါ</string>
     <string name="delete_backup_title">အရန်သိမ်းအားဖျက်ပါ</string>
     <string name="delete">ဖျက်ပစ်ပါ</string>
-    <string name="cancel">ပယ်ဖျက်ပါ</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="reconnect">ပြန်ချိတ်ဆက်ပါ</string>
     <string name="pause">ခေတ္တရပ်ဆိုင်းပါ</string>
     <string name="delete_backup_process">ဖျက်ပစ်နေဆဲ…</string>
@@ -96,11 +99,11 @@
     <string name="sdcard_no_enough_space_message">သင်၏ SD ကဒ်၌ နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="data_no_enough_space_message">သင်၏စက်အတွင်းနေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="task_running_hint">ဤလုပ်ငန်းစဉ်က နောက်ခံတွင် အလုပ်လုပ်နေပြီးသား ဖြစ်သည်</string>
-    <string name="task_running_dialog">အရန်သိမ်းခြင်းနှင့် နဂိုနေရာပြန်ထားခြင်းတို့က လုပ်ဆောင်ဆဲ ဖြစ်သည်</string>
+    <string name="task_running_dialog">အရန်သိမ်းခြင်းနှင့် ပြန်လည်ရယူခြင်းတို့အား လုပ်ဆောင်နေသည်။ ကြည့်ရှုရန် အိုကေအား ထိနှိပ်ပါ။</string>
     <string name="task_running_backup_hint">ဤလုပ်ငန်းက နောက်ခံတွင် အလုပ်လုပ်နေပြီးသား ဖြစ်သည်</string>
     <string name="task_running_restore_hint">ဤလုပ်ငန်းက နောက်ခံတွင် အလုပ်လုပ်နေပြီးသား ဖြစ်သည်</string>
-    <string name="task_running_backup_dialog">အရန်သိမ်းခြင်း လုပ်ဆောင်ဆဲ ဖြစ်သည်။ ကြည့်ရန် အိုကေအား တို့ထိပါ။</string>
-    <string name="task_running_restore_dialog">နဂိုနေရာပြန်ထားခြင်းကို လုပ်ဆောင်ဆဲ ဖြစ်သည်။ ကြည့်ရန် အိုကေအား တို့ထိပါ။</string>
+    <string name="task_running_backup_dialog">အရန်သိမ်းခြင်းအား လုပ်ဆောင်နေသည်။ ကြည့်ရှုရန် အိုကေအား ထိနှိပ်ပါ။</string>
+    <string name="task_running_restore_dialog">ပြန်လည်ရယူခြင်းအား လုပ်ဆောင်နေသည်။ ကြည့်ရှုရန် အိုကေအား ထိနှိပ်ပါ။</string>
     <string name="task_service_not_launched">လုပ်ငန်းကို မစတင်ရသေးပါ</string>
     <string name="task_local_backup_cancel_dialog">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
     <string name="task_cloud_backup_cancel_dialog">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -202,7 +205,7 @@
     <string name="system_backup">အရန်သိမ်းခြင်း</string>
     <string name="backup_empty_info">" သင့်ဒေတာ၊ ဆက်တင်များနှင့် အက်ပ်များကို အရန်သိမ်းခြင်းလုပ်ပါ"</string>
     <string name="backup_empty_info_onpad">" သင့်ဒေတာ၊ ဆက်တင်များနှင့် အက်ပ်များကို အရန်သိမ်းခြင်းလုပ်ပါ"</string>
-    <string name="system_backup_info">စက်စနစ်ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် အဆင်အပြင်</string>
+    <string name="system_backup_info">စက်စနစ် ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် ဖွဲ့စည်းပုံ</string>
     <string name="software_backup_info">အက်ပ်ဒေတာ</string>
     <string name="account_contact_backup_info">Google အကောင့်၊ Mi အကောင့်နှင့် အဆက်အသွယ်များ ဒေတာ</string>
     <string name="files_backup_info">SD ကဒ်ထဲရှိဖိုင်အားလုံး (ဓါတ်ပုံများ၊ သီချင်းများ၊ ဗီဒီယိုများနှင့် အက်ပ်ဒေတာ စသည်တို့ ပါဝင်သည်)</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -244,7 +248,7 @@
     <string name="err_unknown">အမည်မသိ အမှား</string>
     <string name="err_version_too_old">အရန်သိမ်းခြင်းဖိုင်က ဟောင်းလွန်းသည်။</string>
     <string name="err_version_unsupported">အရန်သိမ်းခြင်းဗားရှင်းကို ပံ့ပိုးမှုမပေးပါ။</string>
-    <string name="err_bakfile_broken">ဒီအရန်သိမ်းခြင်းကို သုံးလို့ မရပါ။</string>
+    <string name="err_bakfile_broken">ဤအရန်သိမ်းခြင်းအား သုံး၍ မရပါ။</string>
     <string name="err_filesystem_mount">ရောက်တာ၏သိုလှောင်မှုသို့ မဝင်ရောက်နိုင်</string>
     <string name="err_router_disconnected">သင့်ရောက်တာ၏ ကော်နက်ရှင်အား စစ်ဆေးပြီး၊ ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="err_router_files_delete">သင့်ရောက်တာပေါ်ရှိ အရန်သိမ်းဖိုင်များအား ဖျက်၍မရနိုင်ခဲ့ပါ။</string>
@@ -559,6 +563,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>

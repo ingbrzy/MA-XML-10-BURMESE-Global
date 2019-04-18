@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">အိုင်တမ် %1$s ခုအား ဖျက်ပစ်မလား?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s အားဆင့်ခ်လုပ်၍မပြီးသေးပါ</item>
+        <item quantity="other">အိုင်တမ် %1$s ခုအား ဆင့်ခ်မလုပ်ရသေးပါ</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">ဖိုလ်ဒါ %1$s ခု</item>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">ဖိုလ်ဒါမှ မှတ်စု %1$s ခုအား ဖယ်ရှားမည်</item>
     </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">မှတ်ချက် %1$s ခု</item>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">မှတ်စု %1$s ခုအား %2$s သို့ ပြောင်းရွေ့ပြီးပြီ</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d စက္ကန့် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">မှတ်စု %1$s ခုအား ကွယ်ဝှက်ထားပြီ</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">မှတ်စု %1$s ခုအား ဖော်ထုတ်ထားသည်</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">အက္ခရာ %d ခု</item>

@@ -390,4 +390,26 @@
     <string name="v_ok">အိုကေ</string>
     <string name="v_pw_need_update_app">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် Mi ဗီဒီယိုအား အပ်ဒိတ်လုပ်ပါ</string>
     <string name="v_save">သိမ်းဆည်းမည်</string>
+    <string name="Subscribe">မှာယူမည်</string>
+    <string name="diy_channels_tips">ယခု သင်၏ ချန်နယ် စာရင်းအား စိတ်ကြိုက်သတ်မှတ်နိုင်ပြီ။</string>
+    <string name="empty_channels">ချန်နယ်များအား စီမံမည်</string>
+    <string name="empty_subscribe">မည်သည့်အရာမှ မမှာယူရသေးပါ။</string>
+    <string name="hidden_channels">အောက်ပါ ချန်နယ်များကို ပင်မစာမျက်နှာတွင် မဖော်ပြပါ။</string>
+    <string name="init_channels">မူလသတ်မှတ်ချက်များအတိုင်း ပြန်ထားရှိမည်</string>
+    <string name="isSubscribed">မှာယူထားသော</string>
+    <string name="my_favorite_channels">ကျွန်ုပ်၏ ချန်နယ်များ</string>
+    <string name="ovp_navigation_subscribe">မှာယူမည်</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">ပိတ်မည်</string>
+    <string name="ovp_player_plugin_dlg_no_content">ဗီဒီယို ပလေရာ ပလက်အင်များ မထည့်သွင်းရသေးပါ။</string>
+    <string name="ovp_player_plugin_dlg_title">ဗီဒီယို ပလေရာ ပလက်အင်များ</string>
+    <string name="permission_phone">ဖုန်း</string>
+    <string name="permission_phone_desc">ဖုန်းခေါ်ဆိုနေစဉ် ဗီဒီယို ပြသမှုအား ခေတ္တရပ်ဆိုင်းနိုင်ရန် စက် အခြေအနေသို့ ဝင်ရောက်မည်</string>
+    <string name="permission_storage">သိုလှောင်ခန်း</string>
+    <string name="permission_storage_desc">အိုင်တမ်သို့ ဝင်ရောက်၍ ဖိုင်များအား သိမ်းနိုင်ရန်၊ ဖုန်းထဲရှိ ဗီဒီယိုများအား ပြသနိုင်ရန် နှင့် ဖွင့်နိုင်ရန်</string>
+    <string name="pw_channels">ချန်နယ်များ</string>
+    <string name="recommend_channels">အကြံပြုထားသော ချန်နယ်များ</string>
+    <string name="restore_channel_list">မူလသတ်မှတ်ချက်များအတိုင်း ပြန်ထားမလား?</string>
+    <string name="title_publisher">ထုတ်ပြန်သူ</string>
+    <string name="title_subscribe">မှာယူမှု</string>
+    <string name="ugc_confirm_unsubscribe">မမှာယူတော့ဘူးလား?</string>
 </resources>

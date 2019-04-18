@@ -43,6 +43,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">မွေးနေ့သိမ်းလိုက်ပြီ</string>
     <string name="birthday_term">မွေးနေ့</string>
+    <string name="calendar_permission_desc">လုပ်ငန်းစဉ်များအား စီမံမည်</string>
     <string name="can_not_create_long_event">ပွဲစဉ်အမည်ရှည်လွန်းသည်</string>
     <string name="can_not_modify_allday_event">တစ်နေ့လုံး လုပ်ငန်းစဉ်ကို ပြောင်းလို့ မရပါ</string>
     <string name="can_not_modify_event">လုပ်ငန်းစဉ်ကို ပြောင်းလို့ မရပါ</string>
@@ -60,6 +61,7 @@
     <string name="change_response_title">တုံ့ပြန်မှုကို ပြောင်းလဲမည်</string>
     <string name="click_to_share">မျှဝေရန် ထိနှိပ်ပါ</string>
     <string name="close_alarm">ပိတ်မည်</string>
+    <string name="contacts_permission_desc">အဆက်အသွယ် အချက်အလက်သို့ ဝင်ရောက်မည်</string>
     <string name="countdown_event_title">နောက်ပြန်ရေတွက်ခြင်း−%1$s</string>
     <string name="countdown_notify_before_3_day_title">နောက်ပြန်ရေတွက်ခြင်း− ၃ရက်အတွင်း %1$s</string>
     <string name="countdown_notify_title">နောက်ပြန်ရေတွက်ခြင်း−%1$s</string>
@@ -89,6 +91,7 @@
     <string name="date_interval_text_to">သို့ %1$s</string>
     <string name="date_jump_hint">လိုသောနေ့အထိ တိုက်ရိုက်ကျော်ပါ</string>
     <string name="date_jump_title">လိုသောနေ့အထိ ကျော်ပါ</string>
+    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="day_view_new_event_hint">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="default_reminder_mode">သတိပေးချက်များ</string>
@@ -171,6 +174,9 @@
     <string name="global_cricket_no_match">ဤနေ့တွင် ခရစ်ကဒ်ပြိုင်ပွဲမရှိပါ။ အခြားရက်များအတွက် ကြည့်ပါ။</string>
     <string name="global_football_final">နောက်ဆုံး</string>
     <string name="global_football_no_match">ဤနေ့တွင် ဘောလုံးပွဲ မရှိပါ။</string>
+    <string name="global_joke_collapse_text">အနည်းငယ်သာ ပြပါ</string>
+    <string name="global_joke_copy_toast_message">စာသားအား ကော်ပီကူးပြီးပြီ</string>
+    <string name="global_joke_expand_text">နောက်ထပ် ပြပါ</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greetingcard_end_of_page">မရှိတော့ပါ။ မနက်ဖြန်မှ ပြန်လာကြည့်ပါ။</string>
     <string name="greetingcard_notification_desc">နောက်ဆုံး အခြေအနေအား စစ်ကြည့်မည်</string>
@@ -432,7 +438,4 @@
     <string name="xiaomi_calendar_display_name">Mi အကောင့် ပြက္ခဒိန်</string>
     <string name="yearly">နှစ်စဉ် (%s တိုင်း)</string>
     <string name="yearly_plain">နှစ်စဉ်</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
 </resources>

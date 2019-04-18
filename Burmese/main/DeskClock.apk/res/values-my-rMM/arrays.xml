@@ -340,6 +340,11 @@
         <item>ပါရာမာရီဘို</item>
         <item>ကွီတို</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>အဖြူ</item>
+        <item>အမည်း</item>
+        <item>အော်တို</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>အိုင်ဗရီကို့စ်</item>
         <item>ဂါနာ</item>

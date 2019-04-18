@@ -30,8 +30,13 @@
     <string name="album_label">အယ်လ်ဘမ် အဖုံး</string>
     <string name="album_name">အယ်လ်ဘမ်</string>
     <string name="all_album_count">အယ်လ်ဘမ်အားလုံး (%d)</string>
+    <string name="all_albums">အယ်လ်ဘမ် အားလုံး</string>
+    <string name="all_artists">အနုပညာရှင် အားလုံး</string>
     <string name="all_playlist_count">သီချင်းစာရင်းအားလုံး (%d)</string>
+    <string name="all_playlists">သီချင်းစာရင်း အားလုံး</string>
+    <string name="all_songs">သီချင်း အားလုံး</string>
     <string name="all_tracks">သီချင်းများအားလုံး</string>
+    <string name="all_videos">ဗီဒီယို အားလုံး</string>
     <string name="already_download">ဒေါင်းလုဒ်လုပ်နေ…</string>
     <string name="already_download_btn">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="already_favorited">နှစ်သက်သည်အဖြစ်သတ်မှတ်ပြီး</string>
@@ -183,6 +188,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
@@ -489,6 +495,7 @@
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -519,6 +526,8 @@
     <string name="search_for_album">အယ်လ်ဘမ်</string>
     <string name="search_for_artist">အနုပညာရှင်</string>
     <string name="search_hint">အနုပညာရှင်များ၊သီချင်းများ၊အယ်လ်ဘမ်များနှင့် အကြံပြုချက်များကို ရှာဖွေပါ</string>
+    <string name="search_hint_local">စက်ထဲရှိ သီချင်းများအား ရှာမည်</string>
+    <string name="search_hint_online">အနုပညာရှင်၊ အယ်လ်ဘမ်၊ သီချင်း၊ သီချင်းစာရင်း နှင့် ဗီဒီယိုများအား အွန်လိုင်းတွင် ရှာမည်</string>
     <string name="search_history_clear_all">ရှင်းလင်း</string>
     <string name="search_instant_online_music">အွန်လိုင်း</string>
     <string name="search_songs_count">သီချင်းများ- %d</string>
@@ -588,8 +597,10 @@
     <string name="tab_artist">အနုပညာရှင်များ</string>
     <string name="tab_artist_list">အနုပညာရှင်များ</string>
     <string name="tab_folder">ဖိုလ်ဒါများ</string>
+    <string name="tab_playlist">သီချင်းစာရင်း</string>
     <string name="tab_track">သီချင်းများ</string>
     <string name="tab_track_list">သီချင်းများ</string>
+    <string name="tab_video">ဗီဒီယိုများ</string>
     <string name="take_effect_afater_restart">ဤအပြင်အဆင်များကို လုပ်ဆောင်နိုင်ရန် အက်ပ်စ်ကို ပိတ်ပြီးပြန်ဖွင့်ရန် လိုအပ်ပါသည်။</string>
     <string name="talkback_back">နောက်ပြန်သွား</string>
     <string name="talkback_batch_process">တစ်ခုထက်ပိုသော အရာများ</string>
@@ -639,6 +650,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
@@ -646,6 +658,7 @@
     <string name="view_album">အယ်လ်ဘမ် ကြည့်ရှုရန်</string>
     <string name="vip_required">ဤသီချင်းကို ဖွင့်ရန် ပရီမီယံပက်ကေ့ချ်ကို ရယူပါ။ ယခုတော့ ဤသီချင်းကို ကျော်သွားပါ။</string>
     <string name="vip_required_with_song">%s သည် ပရိုအဖွဲ့ဝင် အတွက်သာ ဖြစ်သည်။ ဤသီချင်းအား ကျော်သွားမည်။</string>
+    <string name="voice_search_first_hint">အသံဖြင့် ရှာဖွေကြည့်ပါ။</string>
     <string name="wifi_required_body" formatted="false">"\"အောက်ပါတို့အား ပြီးမြောက်ရန် Wi-Fi အားသုံးပြုသင့်ပါသည်−
         %s
          download. 

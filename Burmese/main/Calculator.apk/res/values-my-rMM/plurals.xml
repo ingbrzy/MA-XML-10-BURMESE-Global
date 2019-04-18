@@ -3,6 +3,12 @@
     <plurals name="entries">
         <item quantity="other">အိုင်တမ် %d ခု</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">အသေးစိတ် ချေးငွေပြန်ဆပ်မှု (%d နှစ်)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">အသေးစိတ် ချေးငွေပြန်ဆပ်မှု (%d နှစ်)၊ CNY</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d နှစ် (%2$d လ)</item>
     </plurals>

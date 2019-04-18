@@ -21,7 +21,9 @@
     <string name="label_recording">အသံဖမ်းယူမှု: %s</string>
     <string name="menu_exit">ထွက်ပါ</string>
     <string name="menu_headset">မိုက်ခွက်ပါနားကြပ်သို့ ကူးပြောင်းပါ</string>
+    <string name="menu_label">မီနူး</string>
     <string name="menu_new_station">ပေါင်းထည့်ပါ</string>
+    <string name="menu_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="menu_record_list">အသံဖမ်းယူခြင်းများ</string>
     <string name="menu_record_start">အသံဖမ်းယူခြင်းကို စတင်ပါ</string>
     <string name="menu_record_stop">အသံဖမ်းယူခြင်းကို ရပ်ဆိုင်းပါ</string>
@@ -34,12 +36,14 @@
     <string name="msg_do_not_support_fm">ဒီကိရိယာက FM ရေဒီယိုကို ပံ့ပိုးမှုမပေးပါ</string>
     <string name="msg_fm_starting">စတင်နေဆဲ…</string>
     <string name="msg_noantenna_message">မည်သည့် နားကြပ်ကိုမှ ရှာမတွေ့ပါ။ လုပ်ဆောင်ချက်အချို့ကို ရနိုင်မည်မဟုတ်ပါ။</string>
+    <string name="msg_try_plug_headset">နားကြပ်တပ်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="new_frequency">လှိုင်းနှုန်းအသစ်</string>
     <string name="next_station">လာမည့် အသံလွှင့်ဌာန</string>
     <string name="notification_rec_title">အသံဖမ်းယူမှုကို ကြည့်ရန် နှိပ်ပါ</string>
     <string name="pre_station">ယခင် အသံလွှင့်ဌာန</string>
     <string name="record_completed">အသံဖမ်းယူမှု ပြီးမြောက်ပါပြီ</string>
-    <string name="search_dialog_title">အသံလွှင့်ဌာနများကို စကင်ဖတ်ပါ</string>
+    <string name="runtime_permission_ungranted">မှတ်တမ်းတင်သူအား အာမခံမရှိသော ခွင့်ပြုချက်များကြောင့် အသုံးပြု၍မရနိုင်ပါ</string>
+    <string name="search_dialog_title">အသံလွှင့်ဌာနများကို စကန်ဖတ်ပါ</string>
     <string name="set">သတ်မှတ်ပါ</string>
     <string name="station_check_favorite">ကြိုတင်သတ်မှတ်ချက်များသို့ ပေါင်းထည့်ပါ</string>
     <string name="station_freq_format">%sMHz</string>
@@ -51,7 +55,7 @@
     <string name="toast_fm_recorder_access_error">ဧည့်သုံးနည်းပုံစံထဲ၌ သင် ရှိနေစဥ်မှာ၊ အသံဖမ်းယူလို့ မရပါ</string>
     <string name="toast_fm_recorder_internal_error">FM အသံဖမ်းယူမှု အမှား</string>
     <string name="toast_fm_recorder_storage_full">အသံဖမ်းယူမှုကို ဆက်ဖမ်းလို့မရပါ: နေရာလွတ် မလုံလောက်ပါ</string>
-    <string name="toast_fm_seeking">ရှာနေဆဲ…</string>
+    <string name="toast_fm_seeking">ရှာနေသည်…</string>
     <string name="toast_fm_starting">စတင်နေဆဲ…</string>
     <string name="toast_removed_from_presets">ကြိုတင်သတ်မှတ်ချက်များမှ ဖယ်ရှားထားသည်</string>
     <string name="toast_sleep_mode">%s အချိန်တွင် ရေဒီယိုဖွင့်ထားသည်ကို ရပ်ဆိုင်းပါလိမ့်မည်။</string>
@@ -59,5 +63,9 @@
     <string name="turn_off_fm">FM ပိတ်ပါ</string>
     <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">အိပ်စက်သုံးနည်းပုံစံ</string>
+    <string name="using_recorder_cancel">ငြင်းဆို</string>
+    <string name="using_recorder_confirm">ခွင့်ပြု</string>
+    <string name="using_recorder_dialog_message">ရေဒီယိုပုံမှန်အလုပ်လုပ်ရန် သင့်စက်ရှိ မှတ်တမ်းတင်သည့် ဝန်ဆောင်မှုအား ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
+    <string name="using_recorder_dialog_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="view_stations_list">အသံလွှင့်ဌာစာရင်း ကြည့်ပါ</string>
 </resources>

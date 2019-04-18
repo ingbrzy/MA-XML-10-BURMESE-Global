@@ -51,4 +51,7 @@
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">%s နာရီ အကြာက</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">ဝန်ဆောင်မှု %s ခုအား Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်မည်</item>
+    </plurals>
 </resources>

@@ -4,6 +4,6 @@
         <item quantity="other">FM အသံဖမ်းယူမှု %d ခု</item>
     </plurals>
     <plurals name="toast_channel_searched">
-        <item quantity="other">အသံလွှင့်ဌာန ၁ ခု စကင်ဖတ်ပြီးပြီ အသံလွှင့်ဌာန %1$d ခု စကင်ဖတ်ပြီးပြီ</item>
+        <item quantity="other">အသံလွှင့်ဌာန %1$d ခု စကန်ဖတ်ခဲ့သည်</item>
     </plurals>
 </resources>

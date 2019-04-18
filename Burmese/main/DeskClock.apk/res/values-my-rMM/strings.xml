@@ -35,6 +35,9 @@
     <string name="channel_name_timer">တိုင်မာ</string>
     <string name="check_theme_app_install">သင့်ဖုန်းတွင် သင်းမ် အက်ပ် ထည့်သွင်းထားပါ။</string>
     <string name="check_voice_assist_app_version">Mi AI အား နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။</string>
+    <string name="clock_bg_button_setting_summary_common">နာရီ အက်ပ်အတွက် နောက်ခံအရောင် ရွေးပါ</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">အရောင်မှိန် မုဒ်သို့ ပြောင်းတိုင်း နာရီ နောက်ခံအရောင် အမည်းအား သုံးမည်</string>
+    <string name="clock_bg_button_setting_title">နောက်ခံအရောင်</string>
     <string name="close_alarm">ပိတ်</string>
     <string name="common_settings">ဆက်တင်များ</string>
     <string name="confirm_abort">ဖယ်ပစ်ပါ</string>
@@ -55,6 +58,11 @@
     <string name="dialog_message_for_contact_permission">မွေးနေ့အသိပေးချက်များရရှိနိုင်ရန် နာရီသည် သင့်အဆက်အသွယ်သို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ သဘောတူပါသလား?</string>
     <string name="dialog_message_negative">သဘောမတူပါ</string>
     <string name="dialog_message_not_remind">ထပ်မပြပါနှင့်</string>
+    <string name="dialog_privacy_content">အစိုးရ ရုံးပိတ်ရက်နှင့် ပတ်သက်သော အချက်အလက်များအား ရယူ၊ ဆင့်ခ်လုပ်ရန် နှင့် ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
+    <string name="dialog_privacy_content_global">ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
+    <string name="dialog_privacy_content_news">ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နှင့် နှိုးစက်သို့ နံနက်ခင်း သတင်းများ ပေါင်းထည့်နိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
+    <string name="dialog_privacy_content_timer">ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာအတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် နှင့် ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
+    <string name="dialog_privacy_content_timer_data">ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာအတွက် အော်ဒီယိုဖိုင်များ (၂၀ MB ခန့်) အား ဒေါင်းလုဒ်လုပ်ရန် နှင့် ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ ယခု မိုဘိုင်းဒေတာကို အသုံးပြုနေသည်။ သဘောတူပါသလား?</string>
     <string name="done">ပြီးပြီ</string>
     <string name="dynamic_alarm_speech">စမတ်နှိုးစက်</string>
     <string name="edit_alarm">နှိုးစက် ပြုပြင်မည်</string>
@@ -65,6 +73,10 @@
     <string name="force_touch_enter_stopwatch">စမတ်နာရီ</string>
     <string name="force_touch_enter_timer">အချိန်တွက်စက်</string>
     <string name="go_back">နောက်သို့</string>
+    <string name="holiday_update">အစိုးရ ရုံးပိတ်ရက်အတွက် အပ်ဒိတ် ရှိသည်</string>
+    <string name="holiday_update_fail">အပ်ဒိတ်လုပ်၍ မရပါ</string>
+    <string name="holiday_update_loading">အပ်ဒိတ်လုပ်နေသည်…</string>
+    <string name="holiday_update_success">မည်သည့် အိုင်တမ်မျှ အပ်ဒိတ်လုပ်ရန် မလိုပါ</string>
     <string name="hour_unit">နာရီ +</string>
     <string name="install_weather_app_error">အက်ပ်ကို ဖွင့်၍မရပါ</string>
     <string name="install_weather_app_loading">ခဏစောင့်ပါ…</string>
@@ -88,8 +100,9 @@
     <string name="legal_workday_invalidate_message">(ဒေတာ သက်တမ်းကုန်ပါပြီ။ ဆက်တင်တွင် အပ်ဒိတ်လုပ်ပါ။)</string>
     <string name="legal_workday_message">" (ပိတ်ရက်များတွင် နှိုးစက်အား ပိတ်မည်)"</string>
     <string name="life_post_setting">နံနက်ခင်းအစီရင်ခံချက်</string>
-    <string name="life_post_setting_FBE_remind">စနစ်၏ကန့်သတ်မှုကြောင့် စက်ပိတ်ပြီးပြန်စလျှင် နံနက်ခင်းမိုးလေဝသ သတင်းအချက်အလက်များ မှားနိုင်ချေရှိသည်။</string>
+    <string name="life_post_setting_FBE_remind">စနစ်၏ ကန့်သတ်မှုကြောင့် စက်အား ပိတ်ပြီးပြန်စလျှင် နံနက်ခင်း မိုးလေဝသ သတင်းအချက်အလက်များ မှားနိုင်ခြေရှိသည်။</string>
     <string name="life_post_setting_close_title">နံနက်ခင်းအစီရင်ခံချက်များကို ပိတ်ပါ</string>
+    <string name="life_post_setting_open_desc">မိုးလေဝသ သတင်း နားထောင်ရန် နံနက် ၄း၀၀ မှ ၁၀း၀၀ အကြားရှိ ထပ်ခါထပ်ခါမြည်သည့် နှိုးစက်အား ပိတ်ပါ</string>
     <string name="life_post_setting_open_subtitle">4:00 နာရီနှင့် 9:30 အကြားသင်နှိုးစက်များ ပိတ်ထားစဉ် ရာသီဥတုအချက်အလက်များအား လက်ခံရယူပါ</string>
     <string name="life_post_setting_open_title">နံနက်ခင်းအစီရင်ခံချက်များ ရယူပါ</string>
     <string name="life_post_setting_wake_up_list_title">နှိုးထသည့် သမိုင်း</string>
@@ -111,13 +124,15 @@
     <string name="menu_item_sort_by_gmt_offset">အချိန်ဖြင့် မျိုးတူစုပါ</string>
     <string name="menu_item_sort_by_name">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="module_download_cancel">မလိုအပ်ပါ</string>
-    <string name="module_download_data_msg">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်၍ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ မိုဘိုင်းဒေတာ ၂၀ MB ကုန်ကျနိုင်သည်။ ခွင့်ပြုမလား?</string>
-    <string name="module_download_data_msg_golbal">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ မိုဘိုင်းဒေတာ ၂၀ MB ကုန်ကျနိုင်သည်။ ခွင့်ပြုမလား?</string>
-    <string name="module_download_data_msg_replace">စမတ်နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယို (၂၀ MB နီးပါး) ရနိုင်ပါပြီ။ ကွန်ရက်သို့ ချိတ်ဆက်၍ မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_data_msg">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ စမတ် နှိုးစက်တွင် လက်ရှိ ရာသီဥတု အချက်အလက်အား နှိုးစက်သို့ ပေါင်းထည့်ထားသည်။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_data_msg_golbal">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_data_msg_replace">MIUI စမတ် နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယိုများ ရရှိနိုင်ပါပြီ။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_data_msg_timer">နာရီမှ ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာအတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_fail">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
-    <string name="module_download_msg">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်၍ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ ခွင့်ပြုမလား?</string>
-    <string name="module_download_msg_golbal">MIUI 10 မိုးလေဝသ နှိုးစက်နှင့် ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာ အတွက် နာရီမှ အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်ပါသည်။ ခွင့်ပြုမလား?</string>
-    <string name="module_download_msg_replace">စမတ်နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယို ရနိုင်ပါပြီ။ ယခု ကွန်ရက်သို့ ချိတ်ဆက်၍ ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_msg">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ စမတ် နှိုးစက်တွင် လက်ရှိ ရာသီဥတု အချက်အလက်အား နှိုးစက်သို့ ပေါင်းထည့်ထားသည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_msg_golbal">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_msg_replace">MIUI စမတ် နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယိုများ ရရှိနိုင်ပါပြီ။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="module_download_msg_timer">နာရီမှ ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာအတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="module_download_ok">ခွင့်ပြုမည်</string>
     <string name="module_download_success">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -132,6 +147,7 @@
     <string name="other_category_title">အခြား</string>
     <string name="pause">တန့်ရပ်ပါ</string>
     <string name="percentage_sign">%</string>
+    <string name="personal_recommend">အကြောင်းအရာ စိတ်ကြိုက်လုပ်ခြင်း အကြံပြုချက်</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="remind_ringtone">ဖုန်းမြည်သံ</string>
     <string name="repeat_count">အချိန်များ</string>
@@ -156,6 +172,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၅ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -174,6 +191,7 @@
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">℃</string>
@@ -227,6 +245,7 @@
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="upcoming_alarm">နောက်မြည်မည့်နှိုးစက် %s</string>
     <string name="upcoming_alarm_hint">ဤနှိုးစက်အား ကြိုတင်ပိတ်ထားနိုင်ပါသည်</string>
+    <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="vibrate_pref_summary">နှိုးစက်အသံမြည်ချိန်မှာ တုန်ခါပါ</string>
     <string name="vibrate_when_ringing">ဖုန်းမြည်ချိန်မှာ တုန်ခါပါ</string>
     <string name="volume_button_setting_summary">နှိုးစက်အတွင်း အသံအတိုးအကျယ်ခလုတ်မှတ်များ၏ လုပ်ဆောင်ချက်များအား သတ်မှတ်</string>
