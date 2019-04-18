@@ -8,7 +8,6 @@
     <string name="cancel">ပယ်ဖျက်</string>
     <string name="cancelling_notification_title_template">%1$s ကို ပယ်ဖျက်နေပါသည်</string>
     <string name="collapse_handle">ခေါက်ရန် လက်</string>
-    <string name="current_page_template">%1$d /%2$d</string>
     <string name="expand_handle">ချဲ့ရန် လက်</string>
     <string name="failed_notification_title_template">စာထုတ်စက်မှ အမှား %1$s</string>
     <string name="generating_print_job">စာထုတ်အလုပ်ကို လုပ်နေပါသည်</string>
