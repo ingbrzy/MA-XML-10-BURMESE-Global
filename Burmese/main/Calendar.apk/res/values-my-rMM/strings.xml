@@ -247,7 +247,6 @@
     <string name="month_view">လ</string>
     <string name="monthly">လစဉ်</string>
     <string name="monthly_on_day">လစဉ် (နေ့စွဲ အတူတူ)</string>
-    <string name="monthly_on_day_count">လစဉ် (%1$s %2$s)</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="new_event_description">အသစ်</string>
     <string name="news">သတင်း</string>
