@@ -22,13 +22,13 @@
     <string name="adding_attachments">ဆလိုက်ရှိုးထဲသို့ ပစ္စည်းများထည့်နေစဉ် စောင့်ပါ။</string>
     <string name="adding_attachments_title">ပူးတွဲဖိုင်များကို ထည့်နေသည်</string>
     <string name="adding_recipients">လက်ခံသူများကို ထည့်နေသည်…</string>
-    <string name="alert_dlg_cancel_button">ပယ်ဖျက်ပါ</string>
+    <string name="alert_dlg_cancel_button">ပယ်ဖျက်မည်</string>
     <string name="alert_dlg_ok_button">အိုကေ</string>
     <string name="allow_network_hint">\"အလိုအလျောက် အပ်ဒိတ်လုပ်မည်\"အား ဖွင့်ထားပါ သို့မဟုတ် ကွန်ရက်အား စစ်ဆေးပါ</string>
     <string name="already_updated">နောက်ဆုံးပေါ်</string>
     <string name="app_label">မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="app_name">စက်များ</string>
-    <string name="application_list_title">မီနီ အက်ပ်</string>
+    <string name="application_list_title">မီနီ အက်ပ်များ</string>
     <string name="attach_group_chat">အုပ်စုချတ်</string>
     <string name="attach_image">ပုံများ</string>
     <string name="attach_rcs_file">ဖိုင်</string>
@@ -158,9 +158,9 @@
     <string name="copy_to_sdcard_fail">ပူးတွဲဖိုင်ကို သိမ်းလို့မရပါ</string>
     <string name="copy_to_sdcard_success">ပူးတွဲဖိုင်ကို %s အဖြစ် သိမ်းပြီးပါပြီ</string>
     <string name="current_data_version">Mi မက်ဆေ့ခ်ျ ဗားရှင်း</string>
-    <string name="delete">ဖျက်ပါ</string>
+    <string name="delete">ဖျက်ပစ်မည်</string>
     <string name="delete_bookmark">အကြိုက်ဆုံးစာရင်းမှ ဖယ်ရှားမည်</string>
-    <string name="delete_message">ဖျက်ပါ</string>
+    <string name="delete_message">ဖျက်ပစ်မည်</string>
     <string name="delete_phrase">ဖြေကြားချက်အား ဖျက်မည်</string>
     <string name="delete_unlocked">သော့ခတ်ထားသော မက်ဆေ့ချ်များကို ဖျက်ပစ်ပါ</string>
     <string name="delete_wild_sims">နံပါတ်များအား ဖျက်ပါ</string>
@@ -172,6 +172,8 @@
     <string name="dialog_message_mx">Mi မက်ဆေ့ချ်ဖြင့် အခြား MIUI သုံးစွဲသူများထံ မက်ဆေ့ချ်များကို အခမဲ့ ပေးပို့နိုင်ပါသည်။ Mi မက်ဆေ့ချ်အား အသက်သွင်းရန် SMS တစ်စောင် ပေးပို့ရမည်။ ထို့သို့ပေးပို့ခြင်းကြောင့် ဖုန်းလိုင်းကုမ္ပဏီမှ အခကြေးငွေ ကောက်ခံလိမ့်သည်။ Mi မက်ဆေ့ချ်အား မသုံးစွဲမီ \"%1$s\" နှင့် \"%2$s\"အား ဦးစွာ သဘောတူရပါမည်။</string>
     <string name="dialog_message_networking">မက်ဆေ့ချ်မှ ပေးပို့သူ ID အား သိရှိနိုင်ရန် ဖုန်းလမ်းညွှန်ကို သုံးရပါမည်။ ပုံမှန် အလုပ်လုပ်နိုင်ရန်အတွက် မက်ဆေ့ချ်နှင့် ဖုန်းလမ်းညွှန်မှ အင်တာနက်သို့ ချိတ်ဆက်၍ သင်၏တည်နေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ ခွင့်ပြုမလား?</string>
     <string name="dialog_message_rcs">တရုတ်ပြည်မကြီးတွင် China Mobile မက်ဆေ့ချ်ဖြင့် အခြား China Mobile သုံးစွဲသူများထံ မက်ဆေ့ချ်များကို အခမဲ့ ပေးပို့နိုင်ပါသည်။ China Mobile မက်ဆေ့ချ်အား မသုံးစွဲမီ \"%1$s\"အား ဦးစွာ သဘောတူရပါမည်။</string>
+    <string name="dialog_sim_locked_confirm">OK</string>
+    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
     <string name="dialog_title_fake_cell_detect_error">အမှားပြင်ဆင်ချက်</string>
     <string name="dialog_title_mx_rcs">Mi မက်ဆေ့ခ်ျ</string>
     <string name="dialog_title_networking">စည်းကမ်းသတ်မှတ်ချက်များ</string>
@@ -228,6 +230,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_message_select_title">မက်ဆေ့ချ် တစ်ဆင့်ပို့မည်</string>
@@ -411,7 +414,7 @@
     <string name="new_message_arrived">သင့်တွင် မက်ဆေ့ချ်အသစ်တစ်စောင် ရှိသည်</string>
     <string name="new_phrase">ဖြေကြားချက် ပေါင်းထည့်မည်</string>
     <string name="new_phrase_hint">ဖြေကြားချက် အသစ် ရိုက်ထည့်ပါ</string>
-    <string name="no">ပယ်ဖျက်ပါ</string>
+    <string name="no">ပယ်ဖျက်မည်</string>
     <string name="no_block_button_msg">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
     <string name="no_conversations">စကားပြောဆိုထားမှုများ မရှိပါ</string>
     <string name="no_delivery_report">ပေးပို့ကြောင်းအစီရင်ခံစာ</string>
@@ -538,8 +541,8 @@
     <string name="prvate_contact">သီးသန့် အဆက်သွယ်များ</string>
     <string name="quick_reply">စာပြန်ရန်</string>
     <string name="rate_limit_surpassed">အိုကေ</string>
-    <string name="rcs_auto_resend_as_sms_remind_change">ပြောင်းမည်</string>
-    <string name="rcs_auto_resend_as_sms_remind_desp">ကွန်ရက် လိုင်းအား နည်းသောအခါ မက်ဆေ့ချ်၏ စာသား(အများဆုံး ၉၀၀ ဘိုက်)ကို SMS သို့ အလိုအလျောက် ပြောင်းပြီး ပို့နိုင်သည်။ SMS သို့ မပြောင်းလိုပါက ဆက်တင်သို့ သွား၍ သတ်မှတ်နိုင်ပါသည်။</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">ဆက်တင် ပြောင်းမည်</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">အင်တာနက် လိုင်းအားနည်းသောအခါ အများဆုံး ၉၀၀ ဘိုက်ရှိ မက်ဆေ့ချ်အား SMS သို့ ပြောင်း၍ ပေးပို့နိုင်သည်။ သင့်မက်ဆေ့ချ်အား SMS သို့ မပြောင်းလိုပါက \"ဆက်တင် ပြောင်းမည်\"ကို ထိနှိပ်ပါ။</string>
     <string name="rcs_auto_resend_as_sms_remind_title">SMS သို့ ပြောင်းမည်</string>
     <string name="rcs_auto_resend_mms">MMS သို့ ပြောင်းမည်</string>
     <string name="rcs_auto_resend_sms">SMS သို့ ပြောင်းမည်</string>
@@ -656,6 +659,7 @@
     <string name="security_alert_dialog_title">အစီရင်ခံပါ</string>
     <string name="select_audio">အော်ဒီယိုရွေးပါ</string>
     <string name="select_bottom_text">အောက်ခြေရှိ စာ</string>
+    <string name="select_copy_text">ကော်ပီကူးရန် စာသားရွေးပါ</string>
     <string name="select_different_attachment">အခြား ပူးတွဲဖိုင်တစ်ခု ရွေးပါ။</string>
     <string name="select_different_audio">အခြား အော်ဒီယိုတစ်ခု ရွေးပါ။</string>
     <string name="select_different_picture">အခြား ပုံတစ်ပုံ ရွေးပါ။</string>
@@ -681,6 +685,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>

@@ -8,7 +8,7 @@
     <string name="stk_no_service">မည်သည့် ဝန်ဆောင်မှုမှ မရှိပါ</string>
     <string name="button_ok">အိုကေ</string>
     <string name="button_cancel">ဖျက်သိမ်း</string>
-    <string name="button_yes">ဟုတ်သည်</string>
+    <string name="button_yes">ဟုတ်ပါသည်</string>
     <string name="button_no">မဖွင့်</string>
     <string name="alphabet">အက္ခရာများ</string>
     <string name="digits">ဒစ်ဂျစ်များ(0-9, *, #, +)</string>
@@ -23,7 +23,7 @@
     <string name="default_send_data_msg">ဒေတာ ပေးပို့နေသည်…</string>
     <string name="default_receive_data_msg">ဒေတာ ရယူနေသည်…</string>
     <string name="default_close_channel_msg">(ဆက်သွယ်ရေး) လမ်းကြောင်း ပိတ်ထားသည်</string>
-    <string name="stk_dialog_accept">ဟုတ်သည်</string>
+    <string name="stk_dialog_accept">ဟုတ်ပါသည်</string>
     <string name="stk_dialog_reject">မလုပ်</string>
     <string name="no_sim_card_inserted">ဆင်းမ်တူးလ်ကစ်အား စတင်အသုံးပြုရန် ဆင်းမ်ကဒ် ထည့်သွင်းပါ။</string>
     <string name="sim_type_sim_name">ဆင်းမ် တူးလ်ကစ်</string>

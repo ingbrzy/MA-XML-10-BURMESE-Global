@@ -48,7 +48,7 @@
     <string name="dialog_share_as_text">မှတ်စုကို စာသားအဖြစ် မျှဝေပါ</string>
     <string name="dlg_btn_set_password">စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="dlg_check_reminder">ထပ်မပြပါနှင့်</string>
-    <string name="dlg_delete_message">ဖျက်ပစ်နေဆဲ…</string>
+    <string name="dlg_delete_message">ဖျက်နေသည်…</string>
     <string name="dlg_hide_message">ဝှက်နေသည်…</string>
     <string name="dlg_info_creating_message">ရုပ်ပုံ ဖန်တီးနေသည်…</string>
     <string name="dlg_info_save_to_gallery_message">ပြခန်းသို့ ရုပ်ပုံအား သိမ်းဆည်းနေသည်…</string>
@@ -98,7 +98,7 @@
     <string name="menu_add_folder">ဖိုလ်ဒါသို့ ပေါင်းထည့်ပါ</string>
     <string name="menu_add_folder_description">ဖိုင်တွဲထည့်ပါ</string>
     <string name="menu_create_folder">ဖိုလ်ဒါအသစ်</string>
-    <string name="menu_delete">ဖျက်ပစ်ပါ</string>
+    <string name="menu_delete">ဖျက်ပစ်မည်</string>
     <string name="menu_delete_forever">အပြီးတိုင် ဖျက်ပစ်ပါ</string>
     <string name="menu_folders">ဖိုလ်ဒါများ</string>
     <string name="menu_hide">ဝှက်ထားပါ</string>
@@ -127,6 +127,7 @@
     <string name="note_sort_way">သင့်မှတ်စုများအား မည်သို့ စီစဉ်လိုသည်ကို ရွေးချယ်ပါ</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">မှတ်စု သတိပေးချက်</string>
     <string name="permdesc_accessNote">အမျိုးအမည်မသိအက်ပ်များမှ ဤအရာကိုသုံးပြီး သင့်ကိုယ်ရေးဒေတာများအား ရယူနိုင်သည်။</string>
     <string name="permission_intro_contact">ဖုန်းခေါ်ဆိုမှု အတွင်း မှတ်စုမှတ်နိုင်ရန်</string>

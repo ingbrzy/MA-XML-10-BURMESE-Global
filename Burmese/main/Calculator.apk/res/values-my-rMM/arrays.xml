@@ -7,15 +7,15 @@
     <string-array name="operatorDescs">
         <item>ကွင်းစ</item>
         <item>ကွင်းပိတ်</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
+        <item>မြှောက်ဖော်ကိန်း</item>
+        <item>သဘာဝ လော်ဂရစ်သမ်</item>
+        <item>လော်ဂရစ်သမ်</item>
         <item>စကွဲရုဒ်</item>
-        <item>ဖြင့်စား</item>
-        <item>ဖြင့်မြှောက်</item>
+        <item>အစား</item>
+        <item>အမြှောက်</item>
         <item>ပေါင်း</item>
         <item>နုတ်</item>
-        <item>ပွိုင့်</item>
+        <item> ပွိုင့် </item>
         <item>ပါဝါ</item>
         <item>tangent</item>
         <item>sine</item>

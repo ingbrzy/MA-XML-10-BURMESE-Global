@@ -4,7 +4,7 @@
     <string name="settings_backup">စက်စနစ် ဆက်တင်များ</string>
     <string name="deskclock_backup">နှိုးစက်နာရီ</string>
     <string name="button_cancel">ပယ်ဖျက်ပါ</string>
-    <string name="button_next">နောက်ထပ်</string>
+    <string name="button_next">နောက်တစ်ဆင့်</string>
     <string name="date_format">HH:mm:ss dd/MM/yyyy</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="retry">ပြန်ကြိုးစားပါ</string>
@@ -42,7 +42,7 @@
     <string name="cloud_app_backup_success">အက်ပ်များ အရန်သိမ်းခြင်းလုပ်ပြီးပြီ</string>
     <string name="cloud_app_check_data">Mi Cloud ဖြင့် စကားပြောခြင်း…</string>
     <string name="cloud_app_no_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
-    <string name="button_delete">ဖျက်ပစ်ပါ</string>
+    <string name="button_delete">ဖျက်ပစ်မည်</string>
     <string name="customization"><u>သုံးသူစိတ်ကြိုက်</u></string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">အခြား အစပျိုးစက်</string>
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -71,7 +73,7 @@
     <string name="device_delete_prompt">အရန်သိမ်းခြင်း၏ %s ကို ဖျက်ပစ်မလား။</string>
     <string name="desktop_waiting">စောင့်နေဆဲ</string>
     <string name="desktop_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
-    <string name="desktop_installing">တပ်ဆင်နေဆဲ</string>
+    <string name="desktop_installing">ထည့်သွင်းနေသည်</string>
     <string name="desktop_wait_network">စောင့်နေသည်…</string>
     <string name="desktop_failed">အမှား</string>
     <string name="recover_from_micloud">Mi Cloud အရန်သိမ်းခြင်းမှ နဂိုနေရာပြန်ထားပါ</string>
@@ -82,7 +84,7 @@
     <string name="download_settings">ပင်မဖုန်းမျက်နှာပြင်ဆက်တင်− %s%% ကို ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">ပင်မမျက်နှာပြင် ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
-    <string name="cancel_recover_settings"><u>ပယ်ဖျက်</u></string>
+    <string name="cancel_recover_settings"><u>ပယ်ဖျက်မည်</u></string>
     <string name="recover_settings_description">သင့်ကိရိယာကို ပါဝါဖွင့်ထားပါ</string>
     <string name="recover_miui_settings">စနစ်ဆက်တင်များအား ပြန်ရယူပါ</string>
     <string name="wait_icon_download">အက်ပ်အိုင်ကွန်အား ဒေါင်းလုဒ်လုပ်နေသည်</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="loading_user_backup">သုံးစွဲသူ အရန်သိမ်းခြင်းများကို ရယူနေသည်…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">အရွယ်အစား တွက်ချက်နေသည်…</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
@@ -153,8 +156,8 @@
     <string name="network_error">ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
     <string name="remove_again">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="download_meta_again">အရန်သိမ်းထားသည်များအား မရယူနိုင်ပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="cancel_restore_home">ဖျက်သိမ်းနေသည်…</string>
-    <string name="cancel_backup">အရန်သိမ်းခြင်းကို ဖျက်သိမ်းနေသည်…</string>
+    <string name="cancel_restore_home">ပယ်ဖျက်နေသည်…</string>
+    <string name="cancel_backup">အရန်သိမ်းခြင်းကို ပယ်ဖျက်နေသည်…</string>
     <string name="load_backup_failed">အရန်သိမ်းခြင်းများကို ရယူ၍ မရပါ</string>
     <string name="dialog_title_require_wlan">Wi-Fi သို့ ချိတ်ဆက်ပါ</string>
     <string name="dialog_msg_restore_require_wlan">အရန်သိမ်းခြင်းများကို ပြန်လည်ရယူလိုလျှင် Wi-Fi သို့ ချိတ်ဆက်ရမည်။</string>
@@ -167,7 +170,7 @@
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="restore_cloud_backup_to_phone">Mi Cloud မှ အိုင်တမ်များကို ပြန်လည်ရယူမည်</string>
     <string name="cloud_backup_in_process">အရန်သိမ်းနေသည်…</string>
-    <string name="cloud_backup_in_cancel">ဖျက်သိမ်းမည်</string>
+    <string name="cloud_backup_in_cancel">ပယ်ဖျက်မည်</string>
     <string name="dialog_cancel_backup_title">အရန်သိမ်းနေသည်ကို ဖျက်သိမ်းမလား?</string>
     <string name="dialog_cancel_backup_msg">အလိုအလျောက်အရန်သိမ်းခြင်းကို ပိတ်လိုက်ပါက လက်ရှိလုပ်နေသော အရန်သိမ်းခြင်းလည်း ရပ်စဲသွားမည်။</string>
     <string name="dialog_cancel_backup_cancel">ပယ်ဖျက်မည်</string>
@@ -196,6 +199,7 @@
     <string name="backup_stopped_msg">လက်ရှိ အရန်သိမ်းခြင်းသည် ယခင် ဘက်ခ်အပ်အား ဖုံးအုပ်သွားမည်။ ကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
     <string name="restore_network_unconnect">%s (ချိတ်ဆက်ရန် စောင့်နေသည်)</string>
     <string name="restore_network_pause">%s (ပြန်စရန် ထိနှိပ်ပါ)</string>
+    <string name="hint_restore_cross_space">နေရာနှစ်ခုကြား အိုင်တမ်များ လွှဲပြောင်းပါက ပင်မမျက်နှာပြင် အပြင်အဆင်၏ ပြသမှုသည် လွဲမှားနိုင်သည်။</string>
     <string name="restore_detail_title">ပြန်လည်ရယူမည့် အိုင်တမ်များကို ရွေးချယ်ပါ</string>
     <string name="restore_detail_category_settings">ဆက်တင်</string>
     <string name="restore_detail_category_apps">ပင်မမျက်နှာပြင် ဖွဲ့စည်းပုံ &amp; အက်ပ်များ</string>
@@ -212,4 +216,6 @@
     <string name="restore_app_order_finish">ပြီးပါပြီ</string>
     <string name="provision_restore_data">အိုင်တမ်များအား ပြန်လည်ရယူနေသည်</string>
     <string name="provision_background_restore_more_data">နောက်ထပ် အိုင်တမ်များအား နောက်ခံတွင် ပြန်လည်ရယူမည်</string>
+    <string name="selected">Selected</string>
+    <string name="unselected">Not selected</string>
 </resources>

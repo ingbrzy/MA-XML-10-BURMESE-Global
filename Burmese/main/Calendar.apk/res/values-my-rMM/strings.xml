@@ -59,6 +59,7 @@
     <string name="card_title_change">နောက်ထပ်</string>
     <string name="cards_language_hint">ရွေးထားသော ဘာသာစကားတွင် အချို့ကဒ်များအား သုံး၍ မရပါ။</string>
     <string name="change_response_title">တုံ့ပြန်မှုကို ပြောင်းလဲမည်</string>
+    <string name="change_zodiac">ရာသီခွင် ပြောင်းမည်</string>
     <string name="click_to_share">မျှဝေရန် ထိနှိပ်ပါ</string>
     <string name="close_alarm">ပိတ်မည်</string>
     <string name="contacts_permission_desc">အဆက်အသွယ် အချက်အလက်သို့ ဝင်ရောက်မည်</string>
@@ -91,6 +92,7 @@
     <string name="date_interval_text_to">သို့ %1$s</string>
     <string name="date_jump_hint">လိုသောနေ့အထိ တိုက်ရိုက်ကျော်ပါ</string>
     <string name="date_jump_title">လိုသောနေ့အထိ ကျော်ပါ</string>
+    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="day_view_new_event_hint">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="default_reminder_mode">သတိပေးချက်များ</string>
@@ -137,7 +139,7 @@
     <string name="empty_event">လုပ်ငန်းစဥ်အလွတ် ဖန်တီး၍ မရပါ</string>
     <string name="english_premium_league">ပရီးမီးယားလိဂ်</string>
     <string name="event_account">အကောင့်</string>
-    <string name="event_action_delete">ဖျက်ပစ်ပါ</string>
+    <string name="event_action_delete">ဖျက်ပစ်မည်</string>
     <string name="event_action_edit">တည်းဖြတ်ပါ</string>
     <string name="event_all_day_label">တနေ့လုံး</string>
     <string name="event_create">လုပ်ငန်းစဉ်အသစ်</string>
@@ -159,6 +161,7 @@
     <string name="event_view">လုပ်ငန်းစဉ်ကို ကြည့်ရှုပါ</string>
     <string name="every_weekday">ရုံးဖွင့်ရက်များ (တနင်္လာ–သောကြာ)</string>
     <string name="fb_birthday_failure">Facebook မှ မွေးနေ့များအား သွင်း၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="fb_birthday_region_warning">ဤအင်္ဂါရပ်ကို သင့်ဒေသတွင် မရနိုင်သေးပါ</string>
     <string name="fb_birthday_success">Facebook မှ မွေးနေ့များအား ထည့်သွင်းပြီးပါပြီ</string>
     <string name="fb_calendar_account_name">Mi ဒေသတွင်း ပြက္ခဒိန်</string>
     <string name="fb_calendar_display_name">Facebook သူငယ်ချင်းများ၏ မွေးနေ့</string>
@@ -201,14 +204,14 @@
     <string name="hint_where">တည်နေရာ</string>
     <string name="holiday_card_title">ဤနေ့သည်</string>
     <string name="holiday_detail_read_more">နောက်ထပ်</string>
-    <string name="horoscope_select_activity_label">Zodiac သွင်ပြင်ရွေးပါ</string>
+    <string name="horoscope_select_activity_label">ရာသီခွင် ရွေးပါ</string>
     <string name="image_processing">ရုပ်ပုံ အဆင်သင့် မဖြစ်သေးပါ</string>
     <string name="import_action">တင်သွင်း</string>
     <string name="import_birthday">မွေးနေ့တင်သွင်း</string>
     <string name="imported">သွင်းပြီးပါပြီ</string>
     <string name="importing">သွင်းနေသည်…</string>
     <string name="insert_event_dialog_btn_negative">မဟုတ်ပါ</string>
-    <string name="insert_event_dialog_btn_positive">ဟုတ်သည်</string>
+    <string name="insert_event_dialog_btn_positive">ဟုတ်ပါသည်</string>
     <string name="insert_event_dialog_message">ပြက္ခဒိန်သို့ ဤဖြစ်စဉ်အား ပေါင်းထည့်မည်လား?</string>
     <string name="insert_event_dialog_title">သတိပြုပါ</string>
     <string name="insert_event_toast_add_failed">မပေါင်းထည့်နိုင်ခဲ့</string>
@@ -247,6 +250,7 @@
     <string name="month_view">လ</string>
     <string name="monthly">လစဉ်</string>
     <string name="monthly_on_day">လစဉ် (နေ့စွဲ အတူတူ)</string>
+    <string name="monthly_on_day_count">လစဉ် (%1$s)</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="new_event_description">အသစ်</string>
     <string name="news">သတင်း</string>
@@ -335,7 +339,7 @@
     <string name="repeats_label">ထပ်ခါလုပ်ပါ</string>
     <string name="response_maybe">ဖြစ်ကောင်းဖြစ်နိုင်သည်</string>
     <string name="response_no">မဟုတ်ပါ</string>
-    <string name="response_yes">ဟုတ်ပါတယ်</string>
+    <string name="response_yes">ဟုတ်ပါသည်</string>
     <string name="rest_day_indication">: )</string>
     <string name="saving_event">လုပ်ငန်းစဉ်ကို သိမ်းဆည်းထားသည်</string>
     <string name="saving_event_with_guest">အပ်ဒိတ်များကို ပေးပို့နေသည်…</string>
@@ -408,7 +412,7 @@
     <string name="travel_item_weather_now">ဦးတည်ရာနေရာ၏ ရာသီဥတု</string>
     <string name="travel_load_failed">မရယူနိုင်ပါ</string>
     <string name="travel_loaded">Veryzhun မှထောက်ပံ့ထားသော</string>
-    <string name="travel_loading">ခဏလောက်စောင့်…</string>
+    <string name="travel_loading">ခဏစောင့်ပါ…</string>
     <string name="travel_local">ဦးတည်ရာနေရာ</string>
     <string name="travel_seat_number_text">ထိုင်ခုံ</string>
     <string name="travel_train_number_text">မီးရထား</string>

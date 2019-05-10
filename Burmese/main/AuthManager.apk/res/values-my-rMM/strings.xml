@@ -81,6 +81,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">အရှေ့ပိုင်းဝန်ဆောင်မှုများ</string>
     <string name="HIPS_Perm_UDevice_ID">စက် အချက်အလက် အချို့အား ဂိမ်းထုတ်လုပ်သူထံ မျှဝေခြင်းဖြင့် ဂိမ်းကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးမည်။ သဘောတူပါသလား?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">စက် အချက်အလက် အချို့အား ဂိမ်းထုတ်လုပ်သူထံ မျှဝေခြင်းဖြင့် ဂိမ်းကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးမည်။ သဘောတူပါသလား?</string>
+    <string name="HIPS_Perm_deamon_notification">အမြဲ အသိပေးချက်</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">အမြဲ အသိပေးချက်များအား ပြပါ</string>
     <string name="permission_group_title_charges_related">ကုန်ကျစရိတ်များ</string>
     <string name="permission_group_title_privacy_related">ကိုယ်ရေးသီးသန့်</string>
     <string name="permission_group_title_media_related">မီဒီယာ</string>

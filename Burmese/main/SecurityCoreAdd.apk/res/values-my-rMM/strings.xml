@@ -56,12 +56,13 @@
     <string name="loading_space">ခဏစောင့်ပါ…</string>
     <string name="private_space_setting">စီမံခန့်ခွဲမည်</string>
     <string name="exit_private_space">ကူးပြောင်းပါ</string>
+    <string name="kid_mode_label">ကလေးငယ် နေရာ</string>
     <string name="wating">ခဏစောင့်ပါ…</string>
     <string name="Active">သက်ဝင်လှုပ်ရှားသည်</string>
     <string name="ok_button">အိုကေ</string>
     <string name="remove_button">ဖယ်ရှားပြီး ပိတ်၍ပြန်စပါ</string>
     <string name="remove_button_time">ဖယ်ရှားပြီး ပိတ်၍ပြန်စပါ (%d)</string>
-    <string name="cancel_button">ဖျက်သိမ်း</string>
+    <string name="cancel_button">ပယ်ဖျက်မည်</string>
     <string name="list_empty_text">မရှိသော</string>
     <string name="list_empty_text_xspace">WeChat/QQ/Weibo အား ထည့်သွင်းပါ၊ နှစ်ခုတွဲအက်ပ်များကို ဖန်တီးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
@@ -80,9 +81,9 @@
 အချို့သော နှစ်ခုတွဲအက်ပ်များသည် Google ဝန်ဆောင်မှုဖွဲ့စည်းဘောင်များ၏ထောက်ပံ့မှုကို လိုအပ်ပါသည်။ ထိုသို့သောအခြေအနေမျိုးတွင် နှစ်ခုတွဲ Google ဝန်ဆောင်မှုဖွဲ့စည်းဘောင်တစ်ခု ဖန်တီးလိမ့်မည်။"</string>
     <string name="xspace_chocie">နှစ်ခုတွဲအက်ပ် အထောက်အပံ့</string>
     <string name="xspace_creating">နှစ်ခုတွဲအက်ပ် ဖန်တီးနေ…</string>
-    <string name="xspace_installing">ထည့်သွင်းနေ…</string>
+    <string name="xspace_installing">ထည့်သွင်းနေသည်…</string>
     <string name="xspace_install_failed">မဖန်တီးနိုင်ခဲ့ပါ</string>
-    <string name="xspace_uninstalling">ဖြုတ်ချနေ…</string>
+    <string name="xspace_uninstalling">ဖြုတ်ချနေသည်…</string>
     <string name="xspace_install_completed">အိုင်ကွန်အား ပင်မမျက်နှာပြင်သို့ ပေါင်းထည့်ခဲ့သည်</string>
     <string name="xspace_install_completed_global">ပုံဆွဲကိရိယာသို့ အိုင်ကွန်အား ပေါင်းထည့်ပြီးပြီ</string>
     <string name="xspace_uninstall_completed">နှစ်ခုတွဲအက်ပ်အား အောင်မြင်စွာ ဖြုတ်ချပြီးပြီ</string>
@@ -129,7 +130,7 @@
     <string name="dataSafe">ဒုတိယနေရာအား အသုံးပြုခြင်းသည် စက်နှစ်လုံးရှိနေသည်နှင့် တူပါသည်</string>
     <string name="createUserFail">မဖန်တီးနိုင်ခဲ့ပါ</string>
     <string name="confirmCloseSpaceDes">သင်ဖျက်လိုက်ပြီးနောက် ဒုတိယနေရာသို့ ဝင်ရောက်၍ရနိုင်လိမ့်မည် မဟုတ်ပါ။ ဒေတာအားလုံးအား ဖျက်ပစ်လိမ့်မည် သို့မဟုတ် ရွေ့လိုက်လိမ့်မည်။</string>
-    <string name="confirmDelete">ဖျက်ပါ</string>
+    <string name="confirmDelete">ဖျက်ပစ်မည်</string>
     <string name="chooseDataTransfer">ဒုတိယနေရာရှိ ဒေတာနှင့်ဘာလုပ်သင့်သလဲ?</string>
     <string name="transferDataLable">ရွေ့ရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="transferDataConfirm">ကျန်ရှိနေသော အိုင်တမ်များအား ဖျက်လိုက်လိမ့်မည်</string>
@@ -142,7 +143,7 @@
     <string name="transferApp">ဒုတိယနေရာရှိ အက်ပ်များသည် ပထမနေရာသို့ ရွေ့သွားလိမ့်မည် သို့သော် အက်ပ်ဒေတာများ ဆုံးရှုံးသွားပါလိမ့်မည်။</string>
     <string name="transferFile">အခြားဖိုင်များအား ကိုယ်တိုင်ရွေးချယ်ပါ</string>
     <string name="continueButton">ဆက်လုပ်မည်</string>
-    <string name="removingSpace">ဖျက်ပစ်နေ…</string>
+    <string name="removingSpace">ဖျက်နေသည်…</string>
     <string name="removeSuccess">အောင်မြင်စွာဖျက်ခဲ့သည်</string>
     <string name="confirmSecondSpacePassword">ဒုတိယနေရာအတွက် စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="secondSpace">ဒုတိယနေရာ</string>
@@ -161,6 +162,7 @@
     <string name="create_space_loading">ဒုတိယနေရာစကားဝှက် ဖန်တီးနေ…</string>
     <string name="close_second_space">ဒုတိယနေရာအား ဖျက်လိုက်သည်</string>
     <string name="close_second_space_success">ဒုတိယနေရာအားဖျက်ပစ်</string>
+    <string name="close_kid_space_success">ကလေးငယ် နေရာ ဖျက်ပြီးပါပြီ</string>
     <string name="enable">ဖွင့်</string>
     <string name="disable">ပိတ်</string>
     <string name="PrivacyContactDes1">"အဆက်အသွယ်များအား သီးသန့်ထားလိုက်လိမ့်မည်။
@@ -207,7 +209,7 @@
     <string name="temporary_no_set">ယခုမလုပ်သေး</string>
     <string name="set_space_pwd_suc">ဒုတိယနေရာစကားဝှက်အား ပေါင်းထည့်ခဲ့သည်</string>
     <string name="set_space_pwd_detail">စကားဝှက်အား အသုံးပြု၍ ဒုတိယနေရာသို့ ဝင်ရောက်နိုင်ပါသည်</string>
-    <string name="next_setp">နောက်ထပ်</string>
+    <string name="next_setp">နောက်တစ်ဆင့်</string>
     <string name="guide_setting_guide_title">ဒုတိယနေရာအား စီမံပါ</string>
     <string name="import_now">သွင်းပါ</string>
     <string name="dont_import">ယခုမလုပ်သေး</string>
@@ -416,7 +418,7 @@
     <string name="ent_licence_code_invalid">သင်ရိုက်ထည့်သော လိုင်စင်ကုဒ်မှာ မမှန်ကန်ပါ။</string>
     <string name="ent_licence_code">လိုင်စင်ကုဒ်</string>
     <string name="ent_licence_code_hint">လိုင်စင်ကုဒ် ရိုက်ထည့်ပါ</string>
-    <string name="ent_next_step">ရှေ့သို့</string>
+    <string name="ent_next_step">နောက်တစ်ဆင့်</string>
     <string name="ent_get_code_hint">ကိုယ်စားလှယ်ကုဒ်နှင့် လိုင်စင်ကုဒ်အား သက်ဆိုင်ရာ တာဝန်ရှိထံမှ ရရှိနိုင်ပါသည်</string>
     <string name="ent_agree_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကျွန်ုပ် ဖတ်ရှုပြီး သဘောတူပါသည်</string>
     <string name="ent_activation">အသက်သွင်းမည်</string>
@@ -451,7 +453,7 @@
     <string name="master_clear_apply_title">သတိပြုရန်</string>
     <string name="master_clear_apply_step_1">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းမည်ဆိုပါက သင်၏စက်အား စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ရမည်။ အကောင့်၊ အဆက်အသွယ်၊ ဓာတ်ပုံနှင့် အက်ပ်အပါအဝင် ဒေတာအားလုံးအား အပြီးအပိုင် ဖျက်ပစ်ပါလိမ့်မည်။ အရေးကြီးသည့် အိုင်တမ်များအား သင့်ကွန်ပျူတာပေါ်တွင် အရန်သိမ်းထားပါ။</string>
     <string name="master_clear_apply_step_2">အရေးကြီးသည့် အိုင်တမ်များအား သင့်ကွန်ပျူတာပေါ်တွင် အရန်သိမ်းထားပါ။ \"အိုကေ\"အား ထိနှိပ်ပြီးပါက သင်၏စက်အား စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ပါမည်။ အကောင့်၊ အဆက်အသွယ်၊ ဓာတ်ပုံနှင့် အက်ပ်အပါအဝင် ဒေတာအားလုံးကို အပြီးအပိုင် ဖျက်ပစ်လိမ့်မည်။</string>
-    <string name="button_text_next_step">ရှေ့သို့</string>
+    <string name="button_text_next_step">နောက်တစ်ဆင့်</string>
     <string name="button_text_next_step_timer">နောက်တစ်ဆင့် (%d)</string>
     <string name="dialog_tip_need_network">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းရန် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။</string>
     <string name="dialog_undo_negative">ပြန်မရုပ်သိမ်းပါနှင့်</string>
@@ -462,4 +464,6 @@
     <string name="button_touch">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ</string>
     <string name="button_input_password">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="master_clear_not_available">သင်၏ ကုမ္ပဏီမှ စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်းအား ကန့်သတ်ထားသည်။</string>
+    <string name="dual_animation">အန်နီမေးရှင်း ခလုတ်</string>
+    <string name="dual_animation_description">နှစ်ခုတွဲအက်ပ်အား ဖွင့်သောအခါ အန်နီမေးရှင်း ပြပါ</string>
 </resources>

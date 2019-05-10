@@ -15,7 +15,7 @@
     <string name="add_to_album_success">အယ်လ်ဘမ်သို့ပေါင်းထည့်ခံသည်</string>
     <string name="add_to_album_tip">ကလောက်ဓါတ်ပုံများ</string>
     <string name="add_to_favorites_failed">အကြိုက်ဆုံးများသို့ ပေါင်းထည့်၍ မရပါ</string>
-    <string name="add_to_secret_exist">ကွယ်ဝှက်အယ်လ်ဘမ်ထဲတွင် ရှိနေပြီးဖြစ်ပါသည်</string>
+    <string name="add_to_secret_exist">ဤအိုင်တမ်သည် ကွယ်ဝှက်အယ်လ်ဘမ်ထဲတွင် ရှိနေပြီးဖြစ်ပါသည်</string>
     <string name="add_to_secret_fail">အယ်လ်ဘမ်သို့ မထည့်နိုင်ခဲ့</string>
     <string name="add_to_secret_failed_with_reason">ကွယ်ဝှက်အယ်လ်ဘမ်သို့ ပေါင်းထည့်၍မရနိုင်ပါ။%1$s</string>
     <string name="add_to_secret_successful">ကွယ်ဝှက်အယ်လ်ဘမ်သို့ ထည့်ပြီးပါပြီ</string>
@@ -39,6 +39,7 @@
     <string name="agreement_summary">တရားဝင် စာရွက်စာတမ်းများ</string>
     <string name="ai_album_open_switch_button_title">ဓါတ်ပုံများအား စတင်စိစစ်မည်</string>
     <string name="ai_album_requesting_title">AI အယ်လဂိုရီသမ်သည် လုပ်ဆောင်နေဆဲဖြစ်သည်။</string>
+    <string name="ai_album_setting_key_word">ဓာတ်ပုံများ ရှာရန်</string>
     <string name="ai_album_setting_sub_title">လူ၊ နေရာနှင့် အရာဝတ္ထုများအား လျင်မြန်စွာ ရှာဖွေနိုင်ရန် AI အယ်လဂိုရီသမ်အား ခွင့်ပြုပါ။</string>
     <string name="ai_album_setting_title">ဓာတ်ပုံပေါ်ရှိ အရာပစ္စည်းများကို သတ်မှတ်ပါ</string>
     <string name="album_already_exists_check">ကြည့်ရှု</string>
@@ -89,7 +90,7 @@
     <string name="album_type_system">စနစ်အယ်လ်ဘမ်များ</string>
     <string name="album_videos_name">ဗီဒီယိုများ</string>
     <string name="album_wallpaper">နောက်ခံပုံများ</string>
-    <string name="alert_secret_album_enter">ရပြီ</string>
+    <string name="alert_secret_album_enter">နားလည်ပါပြီ</string>
     <string name="alert_secret_album_message">အယ်လ်ဘမ်တက်ဘ်ထဲတွင် ဆွဲချပါက ဝှက်ထားသောအယ်လ်ဘမ်ကို ကြည့်ရှုနိုင်သည်။</string>
     <string name="alert_secret_album_message_lower_case">ကြည့်ရှုရန် အယ်လ်ဘမ်တွင်ဆွဲချပါ</string>
     <string name="alert_secret_album_title">ကွယ်ဝှက်အယ်လ်ဘမ်အား မည်သို့ကြည့်မည်နည်း</string>
@@ -188,6 +189,8 @@
     <string name="backuped_title">အရန်သိမ်းမှုအောင်မြင်ခဲ့သည်</string>
     <string name="backuping_title_gprs">မိုဘိုင်းဒေတာသုံးပြီး အရန်သိမ်းနေသည်…</string>
     <string name="backuping_title_normal">အရန်သိမ်းနေ…</string>
+    <string name="base_btn_cancel">ပယ်ဖျက်မည်</string>
+    <string name="base_btn_download">ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="begin_share">ကလေးအယ်လ်ဘမ် \"%s\" အား ဖန်တီးခဲ့သည်၊ သင်ယခုဝေမျှနိုင်ပါသည်</string>
     <string name="begin_share_toast">မဝေမျှမီ ဤကလ​ေးအတွက် အယ်လ်ဘမ်သီးသန့် ခွဲထွက်လိုပါသလား?</string>
     <string name="blank_app_name" />
@@ -198,7 +201,7 @@
     <string name="by_sms">SMS</string>
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">ကင်မရာအယ်လ်ဘမ်အား အရန်သိမ်းထားရပါမည်</string>
-    <string name="cancel">ဖျက်သိမ်း</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="cancel_download_btn_text">ရပ်တန့်ပါ</string>
     <string name="cancel_hint">အော်ပရေးရှင်းကို ပယ်ဖျက်ပြီးပါပြီ</string>
     <string name="cannot_remove_creator">ဖန်တီးသူကို ဖယ်ရှားလို့မရနိုင်ပါ</string>
@@ -336,7 +339,7 @@
     <string name="debugging_tip">ဒီဘာဂ် ဒေတာများအား ထုတ်လုပ်နေသည်</string>
     <string name="default_relation_name">အုပ်စုအသစ်</string>
     <string name="define_by_user">ကိုယ်တိုင်လုပ်ပါ</string>
-    <string name="delete">ဖျက်ပစ်ပါ</string>
+    <string name="delete">ဖျက်ပစ်မည်</string>
     <string name="delete_album_failed">အယ်လ်ဘမ်အား မဖျက်နိုင်ခဲ့ပါ</string>
     <string name="delete_album_msg_format">\"%2$s\"အယ်လ်ဘမ်အား %1$s%3$s ဖျက်မည်လား?</string>
     <string name="delete_album_success">အယ်လ်ဘမ်အား ဖျက်လိုက်သည်</string>
@@ -361,7 +364,7 @@
     <string name="detail_title">အသေးစိတ်အချက်အလက်</string>
     <string name="disable_auto_upload_tip">ဤအယ်လ်ဘမ်အတွက် Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ခြင်းကို ပိတ်မည်လား?</string>
     <string name="disable_auto_upload_title">Mi ကလောက်ဖြင့်ဆင့်ခ်လုပ်ခြင်းအား ပိတ်ပါ</string>
-    <string name="do_not_remind_me">နောက်ထပ်မပြပါနှင့်</string>
+    <string name="do_not_remind_me">ထပ်မပြပါနှင့်</string>
     <string name="document_provider_guide_step_1">၁။ \"နောက်ထပ်\" ခလုတ်အား ထိနှိပ်ပါ။</string>
     <string name="document_provider_guide_step_2">၂။ \"အတွင်းသိုလှောင်ခန်းကို ပြပါ\"အား ထိနှိပ်ပါ။</string>
     <string name="document_provider_guide_step_3">၃။ ဘေးမှ မီနူးခလုတ်အား ထိနှိပ်ပါ။</string>
@@ -472,7 +475,7 @@
     <string name="expand_people">လူပို၍ပြသပါ</string>
     <string name="ext_sdcard_first_entrance_request_failed_text">ပြခန်းသည် အိုင်တမ်များအား အတွင်းသိုလှောင်ခန်းသို့ သိမ်းဆည်းမည်။ ဆက်တင် > သိုလှောင်ခန်း > သိုလှောင်ခန်း ဆက်တင်တွင် ပြောင်းနိုင်သည်။</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">ခွင့်ပြုချက်များ မပေးပါ။</string>
-    <string name="ext_sdcard_guide_first_page_button_text">ရှေ့သို့</string>
+    <string name="ext_sdcard_guide_first_page_button_text">နောက်တစ်ဆင့်</string>
     <string name="ext_sdcard_guide_last_page_button_text">ခွင့်ပြုချက် ပေးမည်</string>
     <string name="ext_sdcard_guide_text">ပြခန်းမှ SD ကဒ်သို့ ဝင်ရောက်ရန် သင်၏ခွင့်ပြုချက် လိုအပ်သည်။ အောက်ပါအတိုင်း လုပ်ဆောင်ပါ-</string>
     <string name="ext_sdcard_operation_failed_text">ပြခန်းမှ SD ကဒ်သို့ ဝင်ရောက်ရန် ခွင့်ပြုချက် လိုအပ်သည်။</string>
@@ -499,6 +502,7 @@
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_to_pick_email">ဘောင်မဝင်သော အီးမေးလ် လိပ်စာ</string>
     <string name="fail_to_sync_album">အယ်လ်ဘမ်ကို ဆင့်ခ်လုပ်လို့မရနိုင်ပါ။ သင့်ရဲ့ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
@@ -509,6 +513,7 @@
     <string name="feature_guidance_photo_effects">"ဓာတ်ပုံဖန်တီးချက် အသစ်အား 
 မရနိုင်ပါ"</string>
     <string name="feature_guidance_video_editor_smart_effects">ဖန်တီးချက် အသစ် ရယူနိုင်ပြီ</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">အဖြူအမဲ</string>
     <string name="filter_bi_dusk">ဆည်းဆာ</string>
     <string name="filter_bi_lilt">လစ်တ်</string>
@@ -526,6 +531,7 @@
     <string name="filter_category_master">မာစတာ</string>
     <string name="filter_category_portrait">လူပုံ</string>
     <string name="filter_category_scene">ရှုခင်း</string>
+    <string name="filter_category_sky">ကောင်းကင်</string>
     <string name="filter_film_blackwhite">အဖြူအမဲ</string>
     <string name="filter_film_dew">ဆီးနှင်း</string>
     <string name="filter_film_fade">မှေးမှိန်</string>
@@ -568,6 +574,17 @@
     <string name="filter_scene_series">ရောင်ပြန်ဟပ်</string>
     <string name="filter_scene_vivid">ထင်ရှားမြင်သာ</string>
     <string name="filter_scene_warm">နွေးထွေး</string>
+    <string name="filter_sky_cloudy">မိုးအုံ့</string>
+    <string name="filter_sky_detect_forbidden_tips">ကောင်းကင်အား ရှာမတွေ့ပါ</string>
+    <string name="filter_sky_download_failed">ပလက်အင်အား ဒေါင်းလုဒ်လုပ်၍ မရပါ၊ ကွန်ရက် ဆက်တင်များအား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="filter_sky_download_finish">ပလက်အင်အား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">ဓာတ်ပုံထဲရှိ ကောင်းကင်များ ပြောင်းလဲရန် ပလက်အင်(%1$dMB)အား Wi-Fi သို့ မချိတ်ဆက်ထားပါက မိုဘိုင်းဒေတာဖြင့်လည်း ဒေါင်းလုဒ်လုပ်နိုင်သည်။</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">ပလက်အင်အား ဒေါင်းလုဒ်လုပ်မည်</string>
+    <string name="filter_sky_dusk">ဆည်းဆာ</string>
+    <string name="filter_sky_glow">တောက်ပ</string>
+    <string name="filter_sky_rainbow">သက်တံ</string>
+    <string name="filter_sky_sunny">နေသာ</string>
+    <string name="filter_sky_sunset">နေဝင်ချိန်</string>
     <string name="finish_create_baby_album_toast">%sအတွက် အယ်လ်ဘမ်းအား Mi ကလောက် ထဲတွင် ဖန်တီးခဲ့</string>
     <string name="finish_fill_baby">ဖန်တီး</string>
     <string name="flash_off">ဖလက်ရှ် မရှိ</string>
@@ -581,14 +598,15 @@
     <string name="get_album_info_in_process">မျှဝေထားသော အယ်လ်ဘမ်အသေးစိတ်များကို ရယူနေသည်…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
-    <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_go_and_set">သတ်မှတ်မည်</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
-    <string name="grant_permission_title">အသုံးပြုဝင်ရောက်မှုအား ခွင့်ပြုပါ</string>
-    <string name="grant_permission_unlock_and_set">သော့ဖြည်ပြီး သတ်မှတ်မည်</string>
+    <string name="grant_permission_title">ဝင်ရောက်ရန် ခွင့်ပြုမည်</string>
+    <string name="grant_permission_unlock_and_set">လော့ခ်ဖြည်ပြီး သတ်မှတ်မည်</string>
     <string name="has_invalid_recipient">အကျုံးမဝင်သော လက်ခံသူ- %1$s</string>
-    <string name="have_known">ရပြီ</string>
+    <string name="have_known">နားလည်ပါပြီ</string>
     <string name="hidden_album_display_name">ဝှက်ထားသော အယ်လ်ဘမ်</string>
     <string name="home_menu_cleaner">နေရာလွတ်ရှင်းပါ</string>
     <string name="home_menu_collage">ပုံဖော်</string>
@@ -636,7 +654,7 @@
     <string name="invite_sharer_relation_tip">%1$s၏အမျိုး</string>
     <string name="invite_sharer_title">"%1$s's %2$sအား　ဖိတ်ကြား"</string>
     <string name="invite_tip">သင့်ကလေး၏ဓါတ်ပုံများအား　မျှဝေပါ</string>
-    <string name="is">ဟုတ်ပါတယ်</string>
+    <string name="is">ဟုတ်ပါသည်</string>
     <string name="is_higher_definition">HD ကြိုတင်ကြည့်ရှု</string>
     <string name="kick_owner_user_positive_button_text">ဖယ်ရှားပါ</string>
     <string name="kick_owner_user_title">ဤပုဂ္ဂိုလ်အား ဖယ်ရှားမည်လား?</string>
@@ -761,7 +779,7 @@
     <string name="new_relation_invalid_char">အုပ်စုအမည်တွင် “%s” ပါဝင်၍မရပါ။ စာလုံးများ၊နံပါတ်များ၊ သို့မဟုတ် အက္ခရာများကို အသုံးပြုပါ။</string>
     <string name="new_relation_invalid_name">အုပ်စု “%s”မှာ တည်ရှိပြီး ဖြစ်ပါသည်၊ ဤအုပ်စုအား အမည်ပြန်ပေးပါ</string>
     <string name="new_relation_invalid_prefix">အုပ်စုအမည်များအား \".\" သို့မဟုတ် \"_\"ဖြင့်စ၍မရနိုင်ပါ</string>
-    <string name="next">နောက်ထပ်</string>
+    <string name="next">နောက်တစ်ဆင့်</string>
     <string name="no">မဖွင့်</string>
     <string name="no_ignore_faces">မည်သူမျှမရှိပါ</string>
     <string name="no_map_app">ဤလုပ်ဆောင်မှုကို ကိုင်တွယ်ဖြေရှင်းရန်၊ မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ</string>
@@ -786,7 +804,7 @@
     <string name="operation_back">နောက်သို့</string>
     <string name="operation_cast_connected_format">ပုံဖော်မည် - %s</string>
     <string name="operation_cast_connecting_format">%s သို့ ချိတ်ဆက်နေသည်</string>
-    <string name="operation_delete">ဖျက်မည်</string>
+    <string name="operation_delete">ဖျက်ပစ်မည်</string>
     <string name="operation_detail">အသေးစိတ်များ</string>
     <string name="operation_disable_auto_upload">Mi ကလောက်ဖြင့်ဆင့်ခ်လုပ်ခြင်းအား ပိတ်ပါ</string>
     <string name="operation_download">မူရင်း (%s) ကို ဒေါင်းလုဒ်လုပ်မည်</string>
@@ -835,8 +853,9 @@
     <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">ဓာတ်ပုံပေါ်ရှိ လူများအား အမည်ပေးရန်</string>
-    <string name="permission_contract_name">အဆက်အသွယ်များ</string>
+    <string name="permission_contract_name">အဆက်အသွယ်</string>
     <string name="permission_optional_category">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
     <string name="permission_phone_desc">ကွန်ရက် တောင်းခံချက်အတွက် စက် အိုင်ဒီ ရယူမည်</string>
     <string name="permission_phone_name">ဖုန်း</string>
@@ -1030,7 +1049,12 @@
     <string name="scan_barcode_to_join">အယ်လ်ဘမ်ထဲသို့ထည့်ရန် QR ကုဒ်ကို စကင်လုပ်ပါ</string>
     <string name="scan_qr_code_buttom_text">ဤအယ်လ်ဘမ်ကို ကြည့်ရန် QR ကုဒ်ကို စကန်လုပ်ပါ။</string>
     <string name="screen_doodle_talkback_size">အကြီးအသေး</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">ပြီးပါပြီ</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ပယ်ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_delete">မျက်နှာပြင်ရိုက်ချက်အား ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_save">ပြခန်းသို့ သိမ်းပါ</string>
@@ -1088,6 +1112,9 @@
     <string name="search_title_recommend">အကြံပြုထားသော</string>
     <string name="search_title_suggestion">အကြံပြုချက်များ</string>
     <string name="search_title_tag">အရာပစ္စည်းများ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">ပရိုဂျက်တာကို ရှာနေသည်…</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
@@ -1107,7 +1134,7 @@
     <string name="secret_reason_unknow_reasons">အမည်မသိ အမှား</string>
     <string name="secret_reason_video_not_support">ဝှက်ထားသော အယ်လ်ဘမ်သို့ ဗီဒီယိုအား ပေါင်းထည့်၍ မရပါ</string>
     <string name="see_ignore_faces">သင်လစ်လျူရှု့ခဲ့သော သူများ</string>
-    <string name="select_all">အားလုံး ရွေးပါ</string>
+    <string name="select_all">အားလုံးရွေးပါ</string>
     <string name="select_image_operation">ဓါတ်ပုံများ ပေါင်းထည့်နေသည်</string>
     <string name="select_item_face">%s ဤဟာလား?</string>
     <string name="select_origin_tip">မူရင်းဖိုင်(%s)</string>
@@ -1250,6 +1277,7 @@
     <string name="today">ယနေ့</string>
     <string name="too_many_recipients">လက်ခံမည့်သူ %2$s ထက်ပို၍ ပေါင်းထည့်၍မရပါ(သင်လက်ရှိ %1$s ခုပေါင်းထည့်ထားသည်)။</string>
     <string name="trash_bin">အမှိုက်ပုံး</string>
+    <string name="trash_bin_key_word">ဖျက်ထားသော ဓာတ်ပုံများ</string>
     <string name="trash_bin_summary">လတ်တလောဖျက်လိုက်သော အရန်သိမ်းဓါတ်ပုံများအား ရှာဖွေပါ</string>
     <string name="try_again_later">နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="try_to_send">ပို့ပါ</string>
@@ -1262,9 +1290,9 @@
     <string name="unpublish_succeeded">အယ်လ်ဘမ်ကို ထုတ်ပြန်ခြင်းမှ ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="unpublishing">ပယ်ဖျက်နေသည်…</string>
     <string name="unsupport_video">%s သည် ဗီဒီယိုအား မထောက်ပံ့ပါ</string>
-    <string name="user_agree">သဘောတူ</string>
+    <string name="user_agree">သဘောတူသည်</string>
     <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
-    <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
+    <string name="user_agreement4">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="user_alias_self">ကိုယ်တိုင်</string>
     <string name="user_notice_identify_summary_format">ဤဝန်ဆောင်မှုအား အသုံးပြုခြင်းဖြင့် သင်သည် Xiaomi ၏ %1$sနှင့် %2$sအား သဘောတူပြီးဖြစ်ပါသည်</string>
     <string name="user_notice_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
@@ -1284,7 +1312,7 @@
     <string name="video_editor_audio_young">Ukulele</string>
     <string name="video_editor_auto_trim">အော်တိုဖြတ်</string>
     <string name="video_editor_auto_trim_tip">အော်တိုဖြတ်ခြင်း…</string>
-    <string name="video_editor_cancel">ဖျက်သိမ်းပါ</string>
+    <string name="video_editor_cancel">ပယ်ဖျက်မည်</string>
     <string name="video_editor_cancel_download">ပယ်ဖျက်မည်</string>
     <string name="video_editor_done">ပြီးပြီ</string>
     <string name="video_editor_down_load_later">နောက်မှ</string>
@@ -1383,7 +1411,7 @@
     <string name="where_is_barcode">QR ကုဒ်ဘယ်မှာလဲ?</string>
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>
     <string name="xiaomi_account_not_exists_toast">ဤ Miအကောင့်မတည်ရှိပါ</string>
-    <string name="yes">ဟုတ်သည်</string>
+    <string name="yes">ဟုတ်ပါသည်</string>
     <string name="yesterday">မနေ့က</string>
     <string name="you_are">သင်သည် ကလေးငယ်၏</string>
 </resources>

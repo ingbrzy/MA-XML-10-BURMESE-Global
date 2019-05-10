@@ -175,7 +175,7 @@
     <string name="audio_profile_settings_title">အော်ဒီယိုပရိုဖိုင်းလ်</string>
     <string name="auto_disable_screenbuttons_ask">ပိတ်ရန်မေးပါ</string>
     <string name="auto_disable_screenbuttons_auto">အမြဲပိတ်ပါ</string>
-    <string name="auto_disable_screenbuttons_cancel">ပယ်ဖျက်</string>
+    <string name="auto_disable_screenbuttons_cancel">ပယ်ဖျက်မည်</string>
     <string name="auto_disable_screenbuttons_no">ဘယ်တော့မှ မပိတ်ပါနှင့်</string>
     <string name="auto_disable_screenbuttons_rotation_summary">သင့်စက်သည် အလျားလိုက် အနေအထားတွင်ရှိနေပါက၊ လမ်းညွှန်ခလုတ်များကို ပိတ်ထားမည်</string>
     <string name="auto_disable_screenbuttons_rotation_title">အလျားလိုက်အနေအထားတွင် လမ်းညွှန်ခလုတ်များအား ပိတ်ဆို့ထားပါ</string>
@@ -198,6 +198,19 @@
     <string name="backtouch_enable_title">အသံအတိုးအကျယ်ကို နောက်ကျောတွင် ချိန်ညှိပါ</string>
     <string name="backup_data_summary">အက်ပ်စ်ဒေတာ၊ Wi-Fi လျို့ဝှက်စကားလုံး၊ နှင့် ဂူးဂဲလ်ဆာဗာများအတွက် အခြားဆက်တင်များကို အပိုသိမ်းဆည်းထားမည်</string>
     <string name="backup_erase_dialog_message">သင့် Wi-Fi စကားဝှက်း၊ စာညှပ်၊ အခြားဆက်တင်နှင့် အက်ပ်ဒေတာများအား အရန်သိမ်းမှရပ်ပြီး Google ဆာဗာများပေါ်ရှိ မိတ္တူအားလုံးကို ဖျက်ပစ်မလား?</string>
+    <string name="backup_set_clear_success">Turned off backup password successfully</string>
+    <string name="backup_set_clear_title">Turn off backup password</string>
+    <string name="backup_set_confirm">OK</string>
+    <string name="backup_set_confirm_clear">Turn off</string>
+    <string name="backup_set_enter_new_pw">Enter new backup password</string>
+    <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+    <string name="backup_set_enter_old_pw">Enter old backup password</string>
+    <string name="backup_set_enter_pw_title">Enter backup password</string>
+    <string name="backup_set_error_pw">The password you entered is incorrect</string>
+    <string name="backup_set_modify_title">Change backup password</string>
+    <string name="backup_set_new_pw_title">Enter new backup password</string>
+    <string name="backup_set_null_pw">Enter password first</string>
+    <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
     <string name="badge_title">မျက်နှာပြင် အက်ပ်အိုင်ကွန် ဘက်ဂျက်စ်အား ပြပါ</string>
     <string name="batch_delete_saved_network">ရွေးထားသောကွန်ရက်များအားဖျက်မည်လား: %s?</string>
     <string name="batch_delete_saved_networks">ရွေးထားသော ကွန်ရက်အားလုံးအား ဖျက်ပစ်ပါ</string>
@@ -258,7 +271,7 @@
     <string name="biometric_weak_liveliness_summary">သော့ဖြည်ရန် မျက်တောင်ခပ်ရမည်</string>
     <string name="biometric_weak_liveliness_title">တကယ့်လူဖြင့် စစ်ဆေးခြင်း</string>
     <string name="block_list_connected_devices">ချိတ်ဆက်ထားသော စက်များ</string>
-    <string name="block_list_diaglog_cancle">ဖျက်သိမ်း</string>
+    <string name="block_list_diaglog_cancle">ပယ်ဖျက်မည်</string>
     <string name="block_list_diaglog_ok">အိုကေ</string>
     <string name="block_list_dialog_content">ဤလုပ်ဆောင်ချက်သည် “%s”စက်နှင့် ချိတ်ဆက်ခြင်းကိုဖြတ်ပြီး ဘလော့စာရင်းထဲသို့ထည့်လိမ့်မည်။</string>
     <string name="block_list_dialog_title">ယခု အဆက်ဖျက်မည်လား?</string>
@@ -445,6 +458,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="bootloader_summary">USB မှတစ်ဆင့် သင့်စက်အား Flash လုပ်ပါ</string>
     <string name="bootloader_tips">Mi အကောင့်အား ပေါင်းထည့်ပြီးနောက် ဆိုင်းအောက်မလုပ်ပါနှင့်၊ စက်ရုံထုတ် အနေအထားသို့ ပြန်မသတ်မှတ်ပါနှင့်၊ စနစ် အက်ပ်ဒေတာများအား မရှင်းပစ်ပါနှင့်။ အထက်ပါ လုပ်ဆောင်ချက်များအား လုပ်ဆောင်မိပါက အကောင့်ကို ပြန်ပေါင်းထည့်ရမည်၊ သို့မဟုတ်ပါက သင်၏စက်အား လော့ခ်ဖြည်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="bootloader_tips_ok">နားလည်ပါပြီ</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးခြင်းအသစ်ရချိန်တွင် အလင်းရောင်</string>
     <string name="breathing_light_freq_summary">အသိပေးခြင်းအသစ်ရှိချိန်တွင် ပိုသိသာစေသည်</string>
@@ -483,10 +497,10 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="button_light_timeout">ခလုတ်အား အလင်းလင်းလျက်ထားပါ</string>
     <string name="button_text_accept">လက်ခံပါ</string>
     <string name="button_text_accept_timer">လက်ခံ (%d)</string>
-    <string name="button_text_cancel">ဖျက်သိမ်း</string>
+    <string name="button_text_cancel">ပယ်ဖျက်မည်</string>
     <string name="button_text_login">အကောင့်ထဲဝင်ရန်</string>
-    <string name="button_text_next_step">နောက်ထပ်</string>
-    <string name="button_text_next_step_timer">နောက်အဆင့် (%d)</string>
+    <string name="button_text_next_step">နောက်တစ်ဆင့်</string>
+    <string name="button_text_next_step_timer">နောက်တစ်ဆင့် (%d)</string>
     <string name="button_text_ok">အိုကေ</string>
     <string name="button_text_ok_timer">အိုကေ (%d)</string>
     <string name="button_text_reboot_now">ပိတ်၍ပြန်စ</string>
@@ -494,9 +508,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="byteShort">B</string>
     <string name="calendar_sound_dialog_title">ပြက္ခဒိန်အသံရွေးပါ</string>
     <string name="calendar_sound_title">ပြက္ခဒိန်အသံ</string>
-    <string name="call_records_name_1">Debbie Smith</string>
-    <string name="call_records_name_2">Jason Lee</string>
-    <string name="call_records_name_3">Tom Fowles</string>
+    <string name="call_records_name_1">မသန္တာထွန်း</string>
+    <string name="call_records_name_2">ကိုသူရ</string>
+    <string name="call_records_name_3">ဦးမျိုးအောင်</string>
     <string name="call_records_summary_1">နံနက် ၉း၃၅ | ၂၆ စက္ကန့် | China Unicom</string>
     <string name="call_records_summary_2">သြဂုတ် ၁၆ ရက် | ၁ မိနစ် ၁၆ စက္ကန့် | China Mobile</string>
     <string name="call_records_summary_3">သြဂုတ် ၁၆ ရက် | ၂ မိနစ် ၂၄ စက္ကန့် | China Unicom</string>
@@ -516,10 +530,10 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="camera_key_action_toggle_title">အထိန်းခလုတ် နှိပ်ပါ</string>
     <string name="camera_rear">အနောက် %s</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
-    <string name="cancel_action">ပယ်ဖျက်ပါ</string>
+    <string name="cancel_action">ပယ်ဖျက်မည်</string>
     <string name="cancel_alert">သင့်ပြောင်းလဲခြင်းများကို လွှင့်ပစ်မည်လော?</string>
     <string name="cancel_button">ပယ်ဖျက်မည်</string>
-    <string name="cancel_download_buton_text">ပယ်ဖျက်ပါ</string>
+    <string name="cancel_download_buton_text">ပယ်ဖျက်မည်</string>
     <string name="card_main_hbassistant_title">အန်ပေါင်း;ဟုန်ပေါင်း;ပိုက်ဆံ</string>
     <string name="category_personal">ကိုယ်ရေးကိုယ်တာ</string>
     <string name="category_work">အလုပ်</string>
@@ -531,14 +545,18 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="checking_find_device_status">စက်ရှာဖွေ အခြေအနေအား စစ်ဆေးနေ…</string>
     <string name="checking_for_updates">မွမ်းမံမှုများအားစစ်ဆေးနေ…</string>
     <string name="choose_a_card_to_reset">ပြန်သတ်မှတ်ရန် SIM ကဒ် ရွေးပါ</string>
+    <string name="choose_keyguard_clock_style">သော့ခတ်မျက်နှာပြင်မှ နာရီပုံစံ</string>
+    <string name="choose_keyguard_clock_summary">ဤဆက်တင်သည် တတိယပါတီမှ သင်းမ်များတွင် သုံး၍မရပါ</string>
     <string name="choose_profile">ပရိုဖိုင်ရွေးချယ်ပါ</string>
     <string name="choose_smartcover_type">ကေ့စ်အမျိုးအစားကို ရွေးပါ</string>
+    <string name="choose_unlock_face_msg">မျက်နှာ ဒေတာ မပေါင်းထည့်မီ မျက်နှာပြင်လော့ခ် တစ်ခု သတ်မှတ်ပါ။</string>
+    <string name="choose_unlock_fingerprint_msg">လက်ဗွေ မပေါင်းထည့်မီ မျက်နှာပြင်လော့ခ် တစ်ခု သတ်မှတ်ပါ။</string>
     <string name="cleaner">သန့်ရှင်းစက်</string>
     <string name="clear_activities_summary">အချို့အော်ပရေးရှင်းအတွက် မူရင်းအားဖြင်း ဤအက်ပ်စ်ကို အသုံးပြုပါ</string>
     <string name="clear_adb_keys">USB ဒီဘာဂင်ကို ရုပ်သိမ်းမည်</string>
     <string name="close_aod">ဤအင်္ဂါရပ်သည် \"အမြဲတမ်းဖွင့်ထားမည်\"မုဒ်နှင့်တွဲ သုံး၍မရပါ။ \"အမြဲတမ်းဖွင့်ထားမည်\"မုဒ်အား ဦးစွာ ပိတ်ပါ။</string>
     <string name="close_app">လက်ရှိအက်ပ်ကို ပိတ်မည်</string>
-    <string name="close_demo_mode">ဖျက်သိမ်းမည်</string>
+    <string name="close_demo_mode">ပယ်ဖျက်မည်</string>
     <string name="close_fod">မျက်နှာပြင် ပိတ်နေစဥ် လက်ဗွေဖြင့် စက်အား လော့ခ်ဖြည်၍ မရနိုင်ပါ။ မျက်နှာပြင် ဖွင့်ထားမှသာ လက်ဗွေဖြင့် လော့ခ်ဖြည်နိုင်မည်။</string>
     <string name="close_fod_aod">မျက်နှာပြင် ပိတ်နေစဥ် လက်ဗွေဖြင့် စက်အား လော့ခ်ဖြည်၍ မရနိုင်ပါ။ \"အမြဲတမ်းဖွင့်ထားမည်\"မုဒ်ကိုလည်း သုံး၍ မရနိုင်ပါ။ မျက်နှာပြင် ဖွင့်ထားမှသာ လက်ဗွေဖြင့် လော့ခ်ဖြည်နိုင်မည်။</string>
     <string name="close_miui_optimization_title">MIUI ပိုမိုကောင်းမွန်ရေးကို ပိတ်မည်</string>
@@ -636,6 +654,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="data_usage_uninstalled_apps_users">ဖျက်လိုက်သော အက်ပ်နှင့် သုံးစွဲသူများ</string>
     <string name="date_time_settings">ရက်စွဲ &amp;နှင့် အချိန်</string>
     <string name="day_of_week">ရက်သတ္တပတ်၏နေ့</string>
+    <string name="dc_light_dialog_summary">ဖလက်ရှ် တားဆီးမုဒ်အား ဖွင့်ထားပါက ရုပ်ပုံ အရည်အသွေးကို ထိခိုက်နိုင်သည်။ ဖွင့်မလား?</string>
+    <string name="dc_light_summary">မျက်စိ ပင်ပန်းမှု လျော့ကျစေရန် DC အလင်းမှိန်ခြင်းအား အသုံးချပါ</string>
+    <string name="dc_light_title">ဖလက်ရှ် တားဆီးမုဒ်</string>
     <string name="debug_app">ဒီဘာဂ်အက်ပ်ကို ရွေးပါ</string>
     <string name="debug_app_not_set">ဒီဘာဂ်အက်ပ် မသတ်မှတ်ရသေးပါ</string>
     <string name="debug_app_set">ဒီဘာဂင် အက်ပလီကေးရှင်း- %1$s</string>
@@ -726,7 +747,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dialog_title_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
     <string name="dialog_title_hdmi_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
     <string name="dialog_title_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
-    <string name="dialog_yes">ဟုတ်ပါတယ်</string>
+    <string name="dialog_yes">ဟုတ်ပါသည်</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">မှတ်ချက်- ဤကီးဘုတ်အား ဖုန်းပိတ်၍ ပြန်စပြီးမှသာ အသုံးပြုနိုင်ပါမည်။</string>
     <string name="disable_overlays">HW ထပ်ဆင့်လွှာအား ပိတ်မည်</string>
     <string name="disable_overlays_summary">မျက်နှာပြင်ပေါင်းစပ်ရန် GPU ကို အမြဲတမ်းသုံးမည်</string>
@@ -753,6 +775,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -1047,12 +1070,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="gxzw_add_fingerprint_put_finger_title">ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ</string>
     <string name="gxzw_add_fingerprint_title">လက်ဗွေ ပေါင်းထည့်ပါ</string>
     <string name="gxzw_anim_light">နီယွန်အလင်း</string>
-    <string name="gxzw_anim_metal">မက်တယ်လ်</string>
     <string name="gxzw_anim_pulse">သွေးခုန်နှုန်း</string>
     <string name="gxzw_anim_rhythm">စည်းချက်</string>
     <string name="gxzw_anim_star">ကြယ် အလင်း</string>
     <string name="gxzw_anim_title">လက်ဗွေ အန်နီမေးရှင်း</string>
-    <string name="gxzw_aod_show_summary">မျက်နှာပြင် ပိတ်သွားသောအခါ လက်ဗွေအိုင်ကွန်ကို ပြလိမ့်မည်။ ဤအင်္ဂါရပ်သည် ပါဝါသုံးစွဲမှု တိုးများနိုင်သည်။</string>
+    <string name="gxzw_aod_show_summary">Raise the device or tap the screen to make the fingerprint icon appear. This feature increases system power consumption.</string>
     <string name="gxzw_aod_show_tittle">မျက်နှာပြင် ပိတ်သွားသောအခါ လက်ဗွေအိုင်ကွန်အား ပြပါ</string>
     <string name="gxzw_dialog_message">စခရင် လက်ဗွေအာရုံခံကိရိယာ ပုံမှန် အလုပ်လုပ်နိုင်ရန် ဖုန်းစခရင်ကပ်မှန်အား မသုံးပါနှင့်။ သုံးမည်ဆိုပါက တရားဝင် ဖုန်းကပ်မှန်များကိုသာ ရွေးချယ်ပါ။</string>
     <string name="gxzw_dialog_not_show_again">ထပ်မပြပါနှင့်</string>
@@ -1419,6 +1441,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="miui_lab_features">MIUI လပ်သွင်ပြင်များ</string>
     <string name="miui_lab_gallery_search_desc">ရုပ်ပုံရှာ​ဖွေမှု တိုးတက်ကောင်းမွန်အောင်လုပ်ပြီး</string>
     <string name="miui_lab_gallery_search_title">ပြခန်းမှ ဓာတ်ပုံများ ရှာပါ</string>
+    <string name="miui_lab_gesture_desc">Disable physical buttons and enjoy fullScreen gesture</string>
+    <string name="miui_lab_gesture_title">မျက်နှာပြင်အပြည့် လက်ဟန်</string>
     <string name="miui_lab_install_drive_mode_error">ထည့်သွင်း၍ မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="miui_lab_install_drive_mode_summary">ကားမုဒ်သည် စနစ်အက်ပ်ဖြစ်သည်။ ထည့်သွင်းသောအခါ အင်တာနက်ချိတ်ဆက်မှု မလိုပါ။</string>
     <string name="miui_lab_install_drive_mode_title">ကားမုဒ်အား ထည့်သွင်းမည်</string>
@@ -1504,7 +1528,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="msd_install">ဒရိုက်ဘာကိုပြန်ထည့်သွင်းမည်လော?</string>
     <string name="msd_install_download_zhushou">Mi ဖုန်းမန်နေဂျာကို ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="msd_install_finish">အိုကေ</string>
-    <string name="msd_install_next">နောက်ထပ်</string>
+    <string name="msd_install_next">နောက်တစ်ဆင့်</string>
     <string name="msd_install_retry">သင့်ကွန်ပြူတာသည် ကိရိယာကို မတွေ့သေးလျှင် အောက်ပါတို့ကိုကြိုးစားပါ:</string>
     <string name="msd_install_retry_connect">USB ကြိုးကို ပြန်တပ်ဆင်ပါ။</string>
     <string name="msd_install_retry_reinstall">အန်းဒရိုက်ဖိုင်လွှဲပြောင်ခြင်းကိုဉီးစွာထည့်သွင်းပါ ထို့နောက်ဆော့ဖ်ဝဲလ်ကို ဖွင့်ပါ။</string>
@@ -1629,7 +1653,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">ပယ်ဖျက်မည်</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">ပေါင်းထည့်မည်</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">လက်ဗွေ ပေါင်းထည့်မည်</string>
-    <string name="next_button_label">နောက်ထပ်</string>
+    <string name="next_button_label">နောက်တစ်ဆင့်</string>
     <string name="nfc_category_title">NFC</string>
     <string name="nfc_payment_favor_default">ပုံသေအက်ပ်အား အမြဲသုံးမည်</string>
     <string name="nfc_payment_favor_open">အခြားပေးချေမှုအက်ပ်အား ဖွင့်ထားပါက ပုံသေအက်ပ်နေရာတွင် အစားထိုးပါ</string>
@@ -1714,7 +1738,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="open_optimization_option">ဖွင့်ပါ</string>
     <string name="open_wifi_connect_summary">အသေးစိတ်ကိုကြည့်ရန်ခေါက်ပါ။.</string>
     <string name="open_wifi_connect_title">%1$sသို့ ချိတ်ဆက်ထားသော</string>
-    <string name="optimization_cancel">ပယ်ဖျက်</string>
+    <string name="optimization_cancel">ပယ်ဖျက်မည်</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">ပိတ်ပါ</string>
     <string name="otg_opened">ဖွင့်ပါ</string>
@@ -1797,7 +1821,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="paper_mode_get_location_dlg_title">တည်နေရာသတ်မှတ်ပါ</string>
     <string name="paper_mode_start_time_title">ဖွင့်</string>
     <string name="passwordIncorrect">သင်ထည့်သည့် စကားဝှက်မှန်ကန်မှုမရှိပါ</string>
-    <string name="password_entrance_title">မျက်နှာပြင်လော့ခ်</string>
+    <string name="password_entrance_title">မျက်နှာပြင်လော့ခ် သတ်မှတ်မည်</string>
     <string name="password_guard">စကားဝှက်</string>
     <string name="password_turned_off_text">စကားဝှက်အား ပိတ်လိုက်သည်</string>
     <string name="password_turned_on_text">စကားဝှက်အား ဖွင့်ပြီးပါပြီ</string>
@@ -1857,6 +1881,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="power_remaining_less_than_duration_only">%1$sနှင့်အောက်သာ ကျန်တော့သည်</string>
     <string name="power_remaining_more_than_subtext">%1$s နှင့်အထက် ကျန်သေးသည် (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">%1$s နှင့်အထက် ကျန်သေးသည်</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">စနစ် လုပ်ဆောင်ချက်</string>
     <string name="power_usage_history">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
     <string name="power_usage_summary_title">ဘက်ထရီ &amp; နှင့် လုပ်ဆောင်နိုင်စွမ်း</string>
@@ -1957,7 +1982,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="privacy_password_remind_bind_notlogin_account">စကားဝှက် မေ့သွားပါက ပြန်လည်သတ်မှတ်နိုင်ရန် သင်၏ Mi အကောင့်ကို ပေါင်းထည့်ပါ။</string>
     <string name="privacy_password_remind_bindaccount_title">Mi အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="privacy_password_settings">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်အား အသုံးပြုပါ</string>
-    <string name="privacy_password_settings_next">ရှေ့သို့</string>
+    <string name="privacy_password_settings_next">နောက်တစ်ဆင့်</string>
     <string name="privacy_password_settings_titles">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်သည် သင်၏မက်ဆေ့ချ်များ၊ ဓာတ်ပုံများ၊ ဖိုင်များနှင့် မှတ်စုများအား ကာကွယ်ပေးပါမည်။</string>
     <string name="privacy_password_settings_titles_elder_mode">ကိုယ်ပိုင်ရေးရာကာကွယ်မှု စကားဝှက်သည် သင့်ဓါတ်ပုံများ၊ဖိုင်များနှင့် မှတ်စုများအား ကာကွယ်ပေးပါသည်။</string>
     <string name="privacy_password_settings_titles_second_space">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်သည် သင်၏မက်ဆေ့ချ်များ၊ ဓာတ်ပုံများနှင့် မှတ်စုများအား ကာကွယ်ပေးပါမည်။</string>
@@ -1983,9 +2008,10 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
-    <string name="provision_next">နောက်ထပ်</string>
+    <string name="provision_next">နောက်တစ်ဆင့်</string>
     <string name="provision_page_layout_confirm_message">ထိုပြောင်းလဲမှုများအား အသုံးချရန် သင့်စက်အား ပြန်ပိတ်ပြီးဖွင့်ရန် လိုအပ်ပါသည်။ ဤအရာသည် တစ်မိနစ်ခန့်ကြာနိုင်ပါသည်။</string>
     <string name="provision_skip">ကျော်</string>
     <string name="proxy_exclusionlist_label">အတွက် ကြားဖြတ်</string>
@@ -2011,7 +2037,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="recommend_item_4">နားကြပ်</string>
     <string name="recommend_item_title">အကြံပြုချက်များ</string>
     <string name="remaining_length_format">%1$s ကျန်သေးသည်</string>
-    <string name="remove_continue">ဖြုတ်ပါ</string>
+    <string name="remove_continue">ဖြုတ်ချမည်</string>
     <string name="remove_from_frequently_fragment">အမြန်အပြင်အဆင်များမှ %sကိုဖယ်ထုတ်မည်လော?</string>
     <string name="repeat">ထပ်ခါလုပ်ပါ</string>
     <string name="repeat_call">ထပ်ခါခေါ်ဆိုမှုများကို အသိပေးပါ</string>
@@ -2021,9 +2047,10 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="reset_network_bluetooth">ဘလူးတုသ်</string>
     <string name="reset_network_category">ကွန်ရက်ဆက်တင်အားလုံးကို ပြန်လည်သတ်မှတ်လိမ့်မည်၊ ပါဝင်သောအရာမှာ-</string>
     <string name="reset_network_data">မိုဘိုင်းဒေတာ</string>
+    <string name="reset_network_final_desc">ကွန်ရက်ဆက်တင် အားလုံးကို ယခု ပြန်သတ်မှတ်မလား? အချိန် အနည်းငယ် ကြာနိုင်သည်။ ဤလုပ်ဆောင်ချက်အား စတင်ပြီးနောက် ပယ်ဖျက်၍ ရမည် မဟုတ်ပါ။</string>
     <string name="reset_network_wifi">Wi‑Fi</string>
     <string name="reset_second_space_passwd">ဒုတိယနေရာစကားဝှက် ပြန်သတ်မှတ်</string>
-    <string name="reset_second_space_passwd_cancel">ဖျက်သိမ်း</string>
+    <string name="reset_second_space_passwd_cancel">ပယ်ဖျက်မည်</string>
     <string name="reset_second_space_passwd_confirm">ဆက်လက်မည်</string>
     <string name="reset_second_space_passwd_detail">ပထမနေရာတွင်သုံးသော Mi အကောင့်စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="resetting_second_space_passwd">ဒုတိယနေရာစကားဝှက် ပြန်သတ်မှတ်ခြင်း</string>
@@ -2039,7 +2066,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="restriction_wifi_config_summary">Wi-Fiနှင့် မိုဘိုင်းဆက်တင်များကို ပြင်ခွင့်ပြုမည်</string>
     <string name="restriction_wifi_config_title">Wi-Fiနှင့် မိုဘိုင်းကွန်ရက်များ</string>
     <string name="retail_demo_reset_message">အစမ်းမုဒ်တွင် စက်ရုံထုတ်အနေအထားသို့ပြန်သတ်မှတ်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
-    <string name="retail_demo_reset_next">ရှေ့သို့</string>
+    <string name="retail_demo_reset_next">နောက်တစ်ဆင့်</string>
     <string name="retail_demo_reset_title">စကားဝှက် လိုအပ်သည်</string>
     <string name="retry">ထပ်မံကြိုးစားပါ</string>
     <string name="rgb_manage_facerecoginition_text">2D မျက်နှာဒေတာကို စီမံမည်</string>
@@ -2052,7 +2079,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="runningservices_settings_title">အသုံးပြုနေသော ဝန်ဆောင်မှုများ</string>
     <string name="saved_network">%1$s မှ သိမ်းခဲ့သည်</string>
     <string name="saved_wifi">သိမ်းထားသော ကွန်ရက်များအား စီမံပါ</string>
-    <string name="saved_wifi_delete">ဖျက်ပါ</string>
+    <string name="saved_wifi_delete">ဖျက်ပစ်မည်</string>
     <string name="screen">မျက်နှာပြင်</string>
     <string name="screen_cancel">ပယ်ဖျက်မည်</string>
     <string name="screen_color_and_optimize">အရောင်&amp; ပြင်းအား</string>
@@ -2148,6 +2175,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="search_advanced_settings">အဆင့်မြင့် ဆက်တင်များ၊ Wifi၊ Wifi ဆက်တင်များ၊ WLAN ဆက်တင်များ</string>
     <string name="search_airplane_mode">လေယာဉ်မုဒ်၊ လေယာဉ်မုဒ်၊ လေယာဉ်မုဒ်၊ လေယာဉ်ပျံ၊ လေယာဉ်ပျံ၊ လေယာဉ်ပျံ</string>
     <string name="search_alarm_sound_title">နှိုးစက်အသံ၊ နှိုးစက်မြည်သံ၊ နှိုးစက်</string>
+    <string name="search_ambient_display_screen_title">ဝန်းကျင်ပြသမှု</string>
     <string name="search_android_beam_settings_title">NFC၊ Android Beam၊ Beam</string>
     <string name="search_apn_settings">ဝင်ရောက်ပွိုင့်အမည်</string>
     <string name="search_app_invisible">မမြင်နိုင်သော အက်ပ်၊ မမြင်နိုင်သော အက်ပ်များ</string>
@@ -2185,6 +2213,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="search_dndm_vip_call_setting_title">VIP၊ ခြွင်းချက်များ၊ နာမည်ကောင်းစာရင်း၊ နာမည်ကောင်းစာရင်း</string>
     <string name="search_dndm_wristband">Mi လက်ပတ်နှင့် အသက်သွင်းပါ၊ Mi လက်ပတ်</string>
     <string name="search_do_not_disturb_mode">မနှောင့်ယှက်ပါနှင့်</string>
+    <string name="search_doze_always_on_title">အမြဲတမ်း ဖွင့်ထားရန်</string>
     <string name="search_dtmf_tone_enable_title">ဖုန်းဒိုင်ခွက် အသံကို ဖွင့်ပါ၊ ဖုန်းဒိုင်ခွက် အသံ၊ တို့ထိမှု အသံများ၊ တို့ထိမှု အသံများ၊ ဖုန်းဒိုင်ခွက် အသံ၊ ဖုန်းဒိုင်ခွက် အသံ</string>
     <string name="search_empty">ရလဒ် ရှာမတွေ့</string>
     <string name="search_enable_adb">USB ဒီဘာဂင်</string>
@@ -2335,10 +2364,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="security_encryption_attention_3">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ် သတ်မှတ်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="security_encryption_attention_4">သင့်သော့ခတ်မျက်နှာပြင်စကားဝှက်အား မမေ့ပါနှင့်၊ သို့မဟုတ်ပါက စက်အား အစအဆုံးပြန်သတ်မှတ်ရန် လိုအပ်ပြီး ဒေတာအားလုံး ဆုံးရှုံးနိုင်ပါသည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">သော့ခတ်မျက်နှာပြင်စကားဝှက်ဖြင့် စက်အားကုဒ်မဖွဲ့ရန် ရွေးချယ်ခြင်းသည် Google ဝန်ဆောင်မှုများအား အသုံးပြု၍မရနိုင်ဘဲ ဖြစ်နိုင်ပါသည်။</string>
     <string name="security_encryption_close_dialog_title">မူလစကားဝှက်ကာကွယ်မှု သို့ပြန်သွားပါ</string>
-    <string name="security_encryption_diaglog_continue">နောက်ထပ်</string>
+    <string name="security_encryption_diaglog_continue">နောက်တစ်ဆင့်</string>
     <string name="security_encryption_is_used">ဖွင့်ပါ</string>
     <string name="security_encryption_progress_dialog_close">ကုတ်ဖြည်နေ…</string>
     <string name="security_encryption_progress_dialog_open">ကုတ်ဖွဲ့နေ…</string>
@@ -2380,7 +2410,6 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="settings_notify_need_backup">ဖုန်းလဲသောအခါ ဆက်တင်အား ပြန်သုံးနိုင်ရန် သင့်ဆက်တင်ကို Mi Cloud သို့ အရန်သိမ်းပါ။</string>
     <string name="settings_notify_new_version">အပ်ဒိတ် တစ်ခု ရရှိနိုင်သည်။ အသေးစိတ်များအား ကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
     <string name="settings_notify_phone_recycled">သင်၏ဖုန်းနံပါတ်ကို ပြန်လည်အသုံးပြုထားသည်။ အခြားဖုန်းနံပါတ်တစ်ခု ပေါင်းထည့်ရန် ထိနှိပ်ပါ။</string>
-    <string name="setup_choose_unlock_fingerprint_msg">သင်၏လက်ဗွေကို မပေါင်းထည့်မီ မျက်နှာပြင်လော့ခ်တစ်ခု သတ်မှတ်ပါ။</string>
     <string name="setup_choose_unlock_mixed_password">စကားဝှက်</string>
     <string name="setup_choose_unlock_mixpassword_title">စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="setup_choose_unlock_password">PIN</string>
@@ -2448,6 +2477,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
@@ -2529,6 +2559,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="status_bar_carrier_settings_no_sim_card">ဆင်းမ်ကဒ် မရှိပါ</string>
     <string name="status_bar_settings">အသိပေးချက်များ&amp; ခေါ်ဆိုမှုများ</string>
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_manage_notification">အက်ပ် အသိပေးချက်များ</string>
     <string name="status_bar_settings_notification_bar">အကြောင်းကြားစာ ရှိုတ်</string>
     <string name="status_bar_settings_status_bar">အခြေအနေပြဘား</string>
@@ -2632,7 +2663,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="touch_assistant">အလွယ်စက်လုံး</string>
     <string name="touch_sensitive_summary">မျက်နှာပြင်ကို လေထုဖိအားဆီသို့ အထူး အလိုက်သင့်တုံ့ပြန်အောင် ပြုလုပ်ပါ</string>
     <string name="touch_sensitive_title">လက်အိတ် သုံနည်းပုံစံ</string>
-    <string name="touch_sensitive_turn_off_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="touch_sensitive_turn_off_cancel">ပယ်ဖျက်မည်</string>
     <string name="touch_sensitive_turn_off_confirm">အိုကေ</string>
     <string name="touch_sensitive_turn_off_summary">အိတ်မုတ်ကိုလဲ ပိတ်လိုက်မည်လား?</string>
     <string name="touch_sensitive_turn_off_title">လက်အိတ် သုံးနည်းပုံစံကို ပိတ်ထားသည်</string>
@@ -2687,7 +2718,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="turn_on_keyguard_password_alert_choose">သင်၏ စကားဝှက်ကို သေချာမှတ်ထားပါ။ စကားဝှက်မေ့သွားလျှင် သင့်စက်ပေါ်ရှိဒေတာအားလုံးဖျက်ပစ်ပြီးမှ အသစ်တစ်ခုပြန်လည်သတ်မှတ်နိုင်မည်။</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">ယခု မလုပ်သေးပါ</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">နားလည်ပါပြီ</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">သိပါပြီ (%ds)</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">နားလည်ပါပြီ (%dစက္ကန့်)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">သင်၏သော့ခတ်မျက်နှာပြင် စကားဝှက်ကို သေချာမှတ်ထားပါ။ စကားဝှက်မေ့သွားလျှင် ဓာတ်ပုံနှင့်အဆက်အသွယ်အပါအဝင် သင့်ဖုန်းထဲရှိဒေတာအားလုံးကို ဖျက်ပစ်ပြီးမှ အသစ်တစ်ခု ပြန်သတ်မှတ်နိုင်မည်။</string>
     <string name="turn_on_keyguard_password_alert_forget_title">သင့်စကားဝှက်အား မှတ်ထားပါ</string>
     <string name="turn_on_security_lock">မျက်နှာပြင်သော့ခတ်အား ရွေးချယ်ပါ</string>
@@ -2697,7 +2728,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="under_keyguard">မျက်နှာပြင်ပိတ်</string>
     <string name="unimportant">အရေးမကြီးသော</string>
     <string name="uninstall_dlg_msg">တပ်ဆင်သည်မှ ဖြုတ်လျှင် အက်ပ်ဒေတာအားလုံးကို ဖယ်ရှားပါလိမ့်မည်။</string>
-    <string name="uninstall_dlg_title">ယခုဖြုတ်မည်လား?</string>
+    <string name="uninstall_dlg_title">ယခု ဖြုတ်ချမလား?</string>
     <string name="uninstall_protected_dlg_msg">စနစ်အက်ပ်များကို ဖြုတ်ချခြင်းသည် MIUI အစိတ်အပိုင်း တစ်ချို့ကို ပုံမှန်အလုပ်လုပ်ဆောင်ခြင်းမှ တားဆီးနိုင်ပါသည်။ မည်သို့ပင်မဆို ဖြုတ်ချမည်လား?</string>
     <string name="uninstall_protected_dlg_title">စနစ်အက်ပ်များကို ဖြုတ်ချနေသည်</string>
     <string name="uninstall_with_xspace_app_dlg_msg">ဆက်စပ်နှစ်ခုတွဲအက်ပ်များသည် အက်ပ်ဒေတာနှင့်အတူ ပျက်သွားလိမ့်မည်</string>
@@ -2732,9 +2763,70 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="upload_debug_log_summary">တည်နေရာရယူခြင်းနှင့် ပြဿနာဖြေရှင်းခြင်းအတွက် သုံးစွဲမှုအခြေအနေတွင် သင်၏ကိုယ်ရေးအချက်အလက်များ ပါဝင်နိုင်သည်</string>
     <string name="upload_debug_log_title">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာအား အလိုအလျောက်ပေးပို့ပါ</string>
     <string name="usage_log">အက်ပ်စ်အသုံးပြုစာရင်းဇယားများ</string>
+    <string name="usage_state_app_timer">မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_app_usage_detail_title">အက်ပ် သုံးစွဲမှု အသေးစိတ်များ</string>
+    <string name="usage_state_app_usage_list_title">အက်ပ် မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_app_usage_list_week_title">အက်ပ် မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">%d:00 မှ %d:00 အကြား မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_app_use_time">အက်ပ် မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_channel_mouth">လွန်ခဲ့သော ရက် ၃၀</string>
+    <string name="usage_state_channel_week">လွန်ခဲ့သော ၇ ရက်</string>
+    <string name="usage_state_date">MMM d</string>
+    <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00 မှ %d:00 အကြား အသိပေးချက်များ</string>
+    <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00 မှ %d:00 အကြား စက်လော့ခ်ဖြည်ခြင်း</string>
+    <string name="usage_state_friday">သောကြာ</string>
+    <string name="usage_state_go_more">နောက်ထပ် အက်ပ်များ</string>
+    <string name="usage_state_hour_minute" formatted="false">%d နာရီ %d မိနစ်</string>
+    <string name="usage_state_less_one_minute">၁ မိနစ်ထက်နည်းသော</string>
+    <string name="usage_state_monday">တနင်္လာ</string>
+    <string name="usage_state_mourth_day">%s မှ မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_noti_mourth_day">%s မှ အသိပေးချက်များ</string>
+    <string name="usage_state_notification">အသိပေးချက်များအား စီမံမည်</string>
+    <string name="usage_state_notification_manager">အက်ပ် အသိပေးချက်များအား စီမံမည်</string>
+    <string name="usage_state_remind_summary">မျက်နှာပြင် အချိန် သတိပေးချက် လက်ခံရရှိနိုင်ရန် ဖွင့်ပါ။ ရုံးတက်ရက်နှင့် စနေ၊ တနင်္ဂနွေအတွက် အချိန် ကန့်သတ်ချက် သီးခြားစီ သတ်မှတ်နိုင်သည်။</string>
+    <string name="usage_state_remind_title">မျက်နှာပြင် အချိန် သတိပေးချက်</string>
+    <string name="usage_state_rest_day">စနေ၊ တနင်္ဂနွေ</string>
+    <string name="usage_state_saturday">စနေ</string>
+    <string name="usage_state_set_invalid_time_toast">ကန့်သတ်ချိန် ၁ မိနစ်ထက် နည်း၍ မရပါ</string>
+    <string name="usage_state_sunday">တနင်္ဂနွေ</string>
+    <string name="usage_state_thursday">ကြာသပတေး</string>
+    <string name="usage_state_today">ယနေ့</string>
+    <string name="usage_state_today_total_text">ယနေ့ မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_tuesday">အင်္ဂါ</string>
+    <string name="usage_state_unlock_mourth_day">%s မှ လော့ခ်ဖြည်မှု</string>
+    <string name="usage_state_usage_time">မျက်နှာပြင် အချိန်</string>
+    <string name="usage_state_usage_time_remind">မျက်နှာပြင် အချိန် သတိပေးချက်</string>
+    <string name="usage_state_use_time_remind_title">မျက်နှာပြင် အချိန် သတိပေးချက်</string>
+    <string name="usage_state_wednesday">ဗုဒ္ဓဟူး</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">စနေ၊ တနင်္ဂနွေ- %dနာရီ %dမိနစ်</string>
+    <string name="usage_state_week_total_text">မျက်နှာပြင် အချိန် (လွန်ခဲ့သော ၇ ရက်)</string>
+    <string name="usage_state_which_mouth">MMM</string>
+    <string name="usage_state_work_day">ရုံးတက်ရက်များ</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">ရုံးတက်ရက်- %dနာရီ %dမိနစ်</string>
+    <string name="usage_stats_normal_day">ရုံးတက်ရက်များ</string>
+    <string name="usage_stats_week_day">စနေ၊ တနင်္ဂနွေ</string>
     <string name="usage_type_data_wifi_recv">Wi-Fiဒေတာ လက်ခံပြီးပြီ</string>
     <string name="usage_type_data_wifi_send">Wi-Fiဒေတာ ပို့ပြီးပြီ</string>
     <string name="usage_type_wifi_running">Wi-Fiလုပ်နေပါသည်</string>
+    <string name="usagestats_app_category_miui_financial">ဘဏ္ဍာရေး</string>
+    <string name="usagestats_app_category_miui_game">ဂိမ်းများ</string>
+    <string name="usagestats_app_category_miui_life">နေထိုင်ပုံ</string>
+    <string name="usagestats_app_category_miui_productivity">ကုန်ထုတ်စွမ်းအား</string>
+    <string name="usagestats_app_category_miui_reading">စာဖတ်ခြင်း</string>
+    <string name="usagestats_app_category_miui_shopping">ဈေးဝယ်</string>
+    <string name="usagestats_app_category_miui_social">လူမှုရေး ကွန်ရက်</string>
+    <string name="usagestats_app_category_miui_system">စနစ် အက်ပ်များ</string>
+    <string name="usagestats_app_category_miui_tools">ကိရိယာများ</string>
+    <string name="usagestats_app_category_miui_undefined">အခြား</string>
+    <string name="usagestats_app_category_miui_video_etc">သီချင်းနှင့် ဗီဒီယို</string>
+    <string name="usagestats_device_notification_des">ယနေ့အတွက် မျက်နှာပြင် အချိန် ကန့်သတ်ချက်- %s</string>
+    <string name="usagestats_device_notification_des_over">ယနေ့အတွက် မျက်နှာပြင် အချိန် ကန့်သတ်ချက်သို့ ရောက်ပြီ။</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">ယနေ့ ကန့်သတ်ချက်- %s | %s ကျန်ရှိသည်</string>
+    <string name="usagestats_device_notification_title">မျက်နှာပြင် အချိန် သတိပေးချက်</string>
+    <string name="usagestats_device_timeout_des" formatted="false">ယနေ့ ဖုန်းကို %dနာရီ %dမိနစ်ကြာ သုံးထားသည်။ ခဏ အနားယူပါ။</string>
+    <string name="usagestats_device_timeout_negative">၁ နာရီ အကြာတွင် သတိပေးပါ</string>
+    <string name="usagestats_device_timeout_positive">နားလည်ပါပြီ</string>
+    <string name="usagestats_device_timeout_title">မျက်နှာပြင် အချိန် သတိပေးချက်</string>
     <string name="usb_adb_input">USB ဒီဘာဂင် (လုံခြုံရေးဆက်တင်များ)</string>
     <string name="usb_adb_input_desc">USB ဒီဘာဂင် မှတစ်ဆင့် ခွင့်ပြုချက်များနှင့် အဝင်လုပ်ဆောင်ချက်များအား ခွင့်ပြုပါ</string>
     <string name="usb_audio_disable_routing">USB အော်ဒီယို လမ်းကြောင်းပြောင်းလဲခြင်းကို ပိတ်မည်</string>
@@ -2816,7 +2908,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="virus_scanner_provider">%s ဖြင့်အားပေးထားသော</string>
     <string name="virus_scanner_scan">စကန်ဖတ်ရန် ထိနှိပ်ပါ</string>
     <string name="virus_scanner_scanning">စကန်ဖတ်နေသည်…</string>
-    <string name="virus_scanner_select_Cancel">ပယ်ဖျက်ပါ</string>
+    <string name="virus_scanner_select_Cancel">ပယ်ဖျက်မည်</string>
     <string name="virus_scanner_select_OK">အိုကေ</string>
     <string name="virus_scanner_select_lib">ဗိုင်းရပ်စ်သတ်မှတ်ချက်များကို ရွေးပါ</string>
     <string name="virus_scanner_select_multi">သတ်မှတ်ချက်တစ်ခုထက်ပိုရွေးခြင်းသည် ထည့်သွင်းခြင်းနှင့် စကန်ဖတ်ခြင်းကို နှေးသွားစေနိုင်ပါသည်။</string>
@@ -2885,7 +2977,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wapi_psk_type">စကားဝှက် အမျိုးအစား</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">ဆယ့်ခြောက်လီစနစ်</string>
-    <string name="wapi_yes">ထည့်သွင်းမည်</string>
+    <string name="wapi_yes">ဟုတ်ပါသည်</string>
     <string name="warm_color">နွေးထွေးသော</string>
     <string name="welcome">ကြိုဆိုပါသည်</string>
     <string name="wfd_available_devices">ရနိုင်သော ကိရိယာများ</string>
@@ -2943,7 +3035,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wifi_click_login_wlan">လော့အင်/ခွင့်ပြုချက် လိုအပ်သည်</string>
     <string name="wifi_click_share_wlan">စကားဝှက်အား မျှဝေရန် ထိနှိပ်ပါ</string>
     <string name="wifi_configured_ap_list">ယခင်ကပုံဖော်ထားသော APs</string>
-    <string name="wifi_connect_cmcc_dialog_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="wifi_connect_cmcc_dialog_cancel">ပယ်ဖျက်မည်</string>
     <string name="wifi_connect_cmcc_dialog_confirm">အိုကေ</string>
     <string name="wifi_connect_cmcc_dialog_content">မိုဘိုင်းဒေတာကွန်ရက်အား ချိတ်ဆက်ခဲ့သည်။ အစီစဉ်ထက်ပို၍ အသုံးပြုလိုပါက၊ သင့်ဖုန်းလိုင်းကုမ္ပဏီမှ အခကြေးငွေများ တောင်းခံနိုင်ပါသည်။</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">ထပ်မပြပါနှင့်</string>
@@ -2996,7 +3088,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wifi_not_in_range">အကွာအဝေးအတွင်း မရှိ</string>
     <string name="wifi_notify_cmcc_connected_summary">CMCC ကွန်ရက်ကို ဆက်သွယ်မိချိန်တွင် အသိပေးချက်ပြသပါ</string>
     <string name="wifi_notify_cmcc_connected_title">CMCC ကွန်ရက်အသိပေးချက်</string>
-    <string name="wifi_off_airplane_on_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="wifi_off_airplane_on_cancel">ပယ်ဖျက်မည်</string>
     <string name="wifi_off_airplane_on_confirm">အိုကေ</string>
     <string name="wifi_off_airplane_on_content">လေယာဉ်ပျံမုဒ်တွင် သင်သည် Wi-Fiအား ကိုယ်တိုင်ဖွင့်နိုင်ပါသည်</string>
     <string name="wifi_off_airplane_on_not_remind">ထပ်မပြပါနှင့်</string>
@@ -3014,6 +3106,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wifi_priority_type_summary">ဝင်သုံးခြင်းပွိုင့်တစ်ခုချင်းစီအတွက် ဉီးစားပေးကို ကိုယ်တိုင် သတ်မှတ်မည်</string>
     <string name="wifi_priority_type_title">ဝင်သုံးခြင်းပွိုင့်တစ်ခုချင်းစီအတွက် AP ဉီးစားပေးကို ကိုယ်တိုင် သတ်မှတ်မည်</string>
     <string name="wifi_property">Wi-Fi ဂုဏ်သတ္တိ</string>
+    <string name="wifi_protection_on">ဖွင့်မည်</string>
+    <string name="wifi_protection_settings_title">Wi-Fi စမ်းတံ ကာကွယ်ရေး</string>
+    <string name="wifi_protection_tip">သင်၏ စက်သည် Wi-Fi ကွန်ရက်အား ရှာဖွေသောအခါ သင်၏ ပုဂ္ဂိုလ်ရေးရာ ဒေတာများကို MIUI သည် ကြုံရာ MAC လိပ်စာနှင့် Wi-Fi စမ်းတံ၏ ခြေရာခံခြင်းမှ ကာကွယ်ပေးနိုင်ပါသည်။</string>
     <string name="wifi_quick_toggle_summary">Wi-Fiကိုဖွင့်မည်</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">သိမ်းပြီးပြီ</string>
@@ -3028,12 +3123,14 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -3055,9 +3152,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Wi-Fi ဆက်တင်များ</string>
     <string name="wifi_settings_title">Wi-Fi</string>
-    <string name="wifi_setup_description_connected">သတ်မှတ်ချက်အားဆက်လုပ်ရန်<b>နောက်ထပ်</b>"အား ထိနှိပ်ပါ။ 
+    <string name="wifi_setup_description_connected">သတ်မှတ်ချက်အားဆက်လုပ်ရန် <b>နောက်တစ်ဆင့်</b>"အား ထိနှိပ်ပါ။
 
-အခြားWi-Fi ကွန်ရက်သို့ ဆက်သွယ်ရန် "<b>နောက်သို့</b>အား ထိနှိပ်ပါ။</string>
+အခြားWi-Fi ကွန်ရက်သို့ ဆက်သွယ်ရန် "<b>ရှေ့တစ်ဆင့်</b>အား ထိနှိပ်ပါ။</string>
     <string name="wifi_setup_eap_not_supported">သတ်မှတ်ချိန်တွင် EAP Wi-Fi ဆက်သွယ်ခြင်းတစ်ခုကို ပုံဖော်မရနိုင်ပါ။ သတ်မှတ်ပြီးပါက အပြင်အဆင်များ>>ကြိုးမဲ့&amp;နှင့်ကွန်ရက်များ သို့သွားနိုင်ပါသည်။</string>
     <string name="wifi_setup_title">Wi-Fiသတ်မှတ်ချက်</string>
     <string name="wifi_setup_title_connected_network">%s သို့ဆက်သွယ်ပြီးပါပြီ</string>
@@ -3129,11 +3226,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wifi_verbose_logging_summary">Wi‑Fi မှတ်တမ်းအဆင့်ကို တိုးမြှင့်ပါ၊ Wi‑Fi ကွန်ရက်များတွင် SSID တိုင်း၏ RSSI ကို ပြပါ။</string>
     <string name="wifi_wapi_as_cert">AS အသိမှတ်ပြုလက်မှတ်</string>
     <string name="wifi_wapi_as_certificate">AS အသိအမှတ်ပြုလက်မှတ်</string>
-    <string name="wifi_wapi_cert_cancel_button">ပယ်ဖျက်ပါ</string>
+    <string name="wifi_wapi_cert_cancel_button">ပယ်ဖျက်မည်</string>
     <string name="wifi_wapi_cert_create_subdir">ဖိုလ်ဒါတစ်ခုတည်ဆောက်ပါ</string>
     <string name="wifi_wapi_cert_delet_subdir">စုဒ် စာရွက်စာတမ်းတစ်ခုကို ရွေးပါ</string>
     <string name="wifi_wapi_cert_install">WAPI စာရွက်စာတမ်းကိုထည့်သွင်းမည်</string>
-    <string name="wifi_wapi_cert_install_button">ထည့်သွင်းပါ</string>
+    <string name="wifi_wapi_cert_install_button">ထည့်သွင်းမည်</string>
     <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD ကဒ်တွင် AS အသိမှတ်ပြုလက်မှတ်မရှိပါ။.</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS စာရွက်စာတမ်းပုံစံ မမှန်ကန်ပါ။</string>
     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">AS စာရွက်စာတမ်းအမည်ကို ရိုက်ထည့်ပါ</string>
@@ -3146,7 +3243,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">အသုံးပြုသူစာရွက်စာတမ်းအမည် ရိုက်ထည့်ပါ။</string>
     <string name="wifi_wapi_cert_mode_hand_text">ကိုယ်တိုင် ရွေးချယ်မည်</string>
     <string name="wifi_wapi_cert_uninstall">WAPI စာရွက်စာတမ်းကို ဖြုတ်ထုတ်မည်</string>
-    <string name="wifi_wapi_cert_uninstall_button">ဖြုတ်ပါ</string>
+    <string name="wifi_wapi_cert_uninstall_button">ဖြုတ်ချမည်</string>
     <string name="wifi_wapi_certification_dont_exist">သင်ရိုက်ထည့်သောကွန်ရက်လျို့ဝှက်စကားလုံးသည်မမှန်ကန်ပါ</string>
     <string name="wifi_wapi_fail_to_auth">"WAPI မှန်ကန်ကြောင်းအတည်ပြုခြင်း မပြီးဆုံးပါ။
 သင်၏အသိအမှတ်ပြု လက်မှတ်များ မှန်ကန်မှု ရှိမရှိ စစ်ဆေးပါ။"</string>

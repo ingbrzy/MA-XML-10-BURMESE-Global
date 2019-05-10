@@ -114,10 +114,10 @@
     <string name="description_target_answer">အဖြေ</string>
     <string name="description_message_list_title">အမြန် ပြန်ကြားချက် စာရင်း</string>
     <string name="ok">အိုကေ</string>
-    <string name="cancel">မလုပ်</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="wait_prompt_str">"အောက်ပါမြည်သံကို ပို့မည်လော
 "</string>
-    <string name="pause_prompt_yes">ဟုတ်ပါတယ်</string>
+    <string name="pause_prompt_yes">ဟုတ်ပါသည်</string>
     <string name="pause_prompt_no">မဟုတ်ပါ</string>
     <string name="waiting_close_airplane_mode">ခဏစောင့်ပါ…</string>
     <string name="unlock_phone">ကိရိယာကို လော့ခ်ဖွင့်မည်</string>

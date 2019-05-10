@@ -30,7 +30,7 @@
     <string name="battery_charging_level">%d%%</string>
     <string name="birthday_alarm">မွေးနေ့ နှိုးစက်</string>
     <string name="birthday_alarm_summary">သင့်မွေးနေ့တွင် ပုံမှန်နှိုးစက်သံမမြည်ဘဲ \"Happy Birthday\" သီချင်းအားဖွင့်ပါ</string>
-    <string name="cancel">ပယ်ဖျက်ပါ</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="channel_name_alarm">သတိပေးချက်</string>
     <string name="channel_name_timer">တိုင်မာ</string>
     <string name="check_theme_app_install">သင့်ဖုန်းတွင် သင်းမ် အက်ပ် ထည့်သွင်းထားပါ။</string>
@@ -48,7 +48,7 @@
     <string name="default_alarm_alert">နဂိုမူလနှိုးစက်အသံ</string>
     <string name="default_alarm_title">မူလသတ်မှတ် ဖုန်းမြည်သံ</string>
     <string name="default_label">နှိုးစက်</string>
-    <string name="delete">ဖျက်ပစ်</string>
+    <string name="delete">ဖျက်ပစ်မည်</string>
     <string name="delete_alarm">နှိုးစက်အားဖျက်</string>
     <string name="delete_selected_timer_item">ရွေးထားသော စံချိန်စက်အလုပ်ပုံစံကို ဖျက်ပစ်မလား။</string>
     <string name="delete_timer_item_title">စံချိန်စက်အလုပ်ပုံစံ ဖျက်ပစ်ပါ</string>
@@ -58,7 +58,7 @@
     <string name="dialog_message_for_contact_permission">မွေးနေ့အသိပေးချက်များရရှိနိုင်ရန် နာရီသည် သင့်အဆက်အသွယ်သို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ သဘောတူပါသလား?</string>
     <string name="dialog_message_negative">သဘောမတူပါ</string>
     <string name="dialog_message_not_remind">ထပ်မပြပါနှင့်</string>
-    <string name="dialog_privacy_content">အစိုးရ ရုံးပိတ်ရက်နှင့် ပတ်သက်သော အချက်အလက်များအား ရယူ၊ ဆင့်ခ်လုပ်ရန် နှင့် ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
+    <string name="dialog_privacy_content">အစိုးရ ရုံးပိတ်ရက်နှင့် ပတ်သက်သော အချက်အလက်များအား ရယူနိုင်ရန်၊ နှိုးစက်များအား ချိန်ညှိနိုင်ရန် နှင့် ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
     <string name="dialog_privacy_content_global">ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
     <string name="dialog_privacy_content_news">ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နှင့် နှိုးစက်သို့ နံနက်ခင်း သတင်းများ ပေါင်းထည့်နိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
     <string name="dialog_privacy_content_timer">ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာအတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် နှင့် ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
@@ -172,6 +172,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၅ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -190,6 +191,7 @@
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">℃</string>

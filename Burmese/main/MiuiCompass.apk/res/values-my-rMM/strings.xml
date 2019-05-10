@@ -4,7 +4,7 @@
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">ပင်လယ်ပြင်ထက်အမြင့်</string>
-    <string name="altitude_uncalibrate_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="altitude_uncalibrate_cancel">ပယ်ဖျက်မည်</string>
     <string name="altitude_uncalibrate_msg">GPS သို့မဟုတ် မိုဘိုင်းဒေတာမပါဘဲ လတ္တီတွဒ်အား တိကျစွာ ချိန်ညှိ၍မရပါ</string>
     <string name="altitude_uncalibrate_refresh">နောက်တစ်ခါထပ်ကြိုးစားပါ</string>
     <string name="altitude_uncalibrate_tip">မချိန်ကိုက်ရသေးသော ဒေတာ</string>

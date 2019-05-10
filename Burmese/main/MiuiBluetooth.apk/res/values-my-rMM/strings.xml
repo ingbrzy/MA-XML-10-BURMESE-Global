@@ -55,7 +55,7 @@
     <string name="progress_scanning">ရှာနေဆဲ…</string>
     <string name="reset_function_msg">ဒီအင်္ဂါရပ်ကို ပြန်သတ်မှတ်ခြင်းသည် %1$s ကို ပုံမှန် အလုပ်လုပ်နေခြင်းမှ တားဆီးနိုင်သည်။</string>
     <string name="some_app_taking">(%1$s က ဒီအင်္ဂါရပ်ကို သုံးထားပြီးသားပါ)</string>
-    <string name="unbind_device_alert_cancel">ပယ်ဖျက်</string>
+    <string name="unbind_device_alert_cancel">ပယ်ဖျက်မည်</string>
     <string name="unbind_device_alert_content">%1$sနှင့် ချိတ်ဆက်မှုပျက်သွားသည်။ ဘက်ထရီချွေတာရန် ဤစက်အား တွဲချိတ်ခြင်းဖြုတ်လိုက်ပါ</string>
     <string name="unbind_device_alert_ok">အတွဲဖြုတ်ပါ</string>
     <string name="unbind_device_alert_title">စက်ကို တွဲထားခြင်းမှ ဖြုတ်မလား</string>

@@ -6,7 +6,7 @@
     <string name="action_item_add_to_current_playlist">တန်းစီမည်</string>
     <string name="action_item_add_to_favorite_playlist">အကြိုက်ဆုံးများ</string>
     <string name="action_item_add_to_new_playlist">အသစ်</string>
-    <string name="action_item_delete">ဖျက်ပစ်ပါ</string>
+    <string name="action_item_delete">ဖျက်ပစ်မည်</string>
     <string name="action_item_download">ဒေါင်းလုဒ် လုပ်ပါ</string>
     <string name="action_item_favorite">အကြိုက်ဆုံး</string>
     <string name="action_item_hide">ကွယ်ဝှက်ပါ</string>
@@ -74,14 +74,14 @@
     <string name="back_confirm">အက်ပ်အား နောက်ခံသို့တွင်းပို့ရန် ထပ်မံထိနှိပ်ပါ</string>
     <string name="bluetooth_device">ဘလူးတုသ်အသံစက်</string>
     <string name="buffering">ဘက်ဖာရင်း…</string>
-    <string name="button_cancel_download">ဖျက်သိမ်းပါ</string>
+    <string name="button_cancel_download">ပယ်ဖျက်မည်</string>
     <string name="button_download_now">ယခု ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="button_queue_for_wifi">တန်းစီ</string>
     <string name="button_sort_by_date">ရက်ဖြင့်စီပါ</string>
     <string name="button_sort_by_size">အရွယ်အစားအလိုက်စီပါ</string>
     <string name="button_wait_for_wifi">စောင့်ပါ</string>
-    <string name="cancel">ပယ်ဖျက်ပါ</string>
-    <string name="cancel_running_download">ဖျက်သိမ်း</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="cancel_running_download">ပယ်ဖျက်မည်</string>
     <string name="change_download_quality">ဒေါင်းလုဒ်အရည်အသွေးကို ပြောင်းလဲပါ</string>
     <string name="checking_new_version">အပ်ဒိတ် ရှိမရှိ စစ်ဆေးနေသည်…</string>
     <string name="choose_download_quality">ဒေါင်းလုဒ်အရည်အသွေးရွေးပါ</string>
@@ -102,8 +102,8 @@
     <string name="data_usage_warning_summary">မိုဘိုင်းလ်ဒေတာ ဆက်သွယ်ခြင်းကို အသုံးပြုပြီး အဆင့်မြင့်သီချင်းများကို တိုက်ရိုက်နားထောင်ပါက ဒေတာခများကို ပိုကုန်စေနိုင်ပါသည်။</string>
     <string name="data_use_desc">တရားဝင် စာရွက်စာတမ်းများ</string>
     <string name="date_format_str">dd-MM-yyyy</string>
-    <string name="delete">ဖျက်ပစ်ပါ</string>
-    <string name="delete_download">ဖျက်ပါ</string>
+    <string name="delete">ဖျက်ပစ်မည်</string>
+    <string name="delete_download">ဖျက်ပစ်မည်</string>
     <string name="delete_file_as_well">ဤသီချင်းအား အပြီးတိုင်းဖျက်လိုက်ပါ</string>
     <string name="delete_file_end">အတည်ဖျက်ပစ်</string>
     <string name="delete_file_start">ရွေးထားသောဖိုင်များကိုဖျက်ပစ်</string>
@@ -146,7 +146,7 @@
     <string name="dialog_song_view_type_folder">ဖိုလ်ဒါအားဖြင့်</string>
     <string name="dialog_song_view_type_song">သီချင်းအားဖြင့်</string>
     <string name="dialog_title_clearlist_tracks">တန်းစီထားရာမှ ဖယ်ရှားမည်</string>
-    <string name="dialog_title_delete_tracks">ဖျက်ပစ်ပါ</string>
+    <string name="dialog_title_delete_tracks">ဖျက်ပစ်မည်</string>
     <string name="dialog_title_name_playlist">ဖွင့်ရန်စာရင်း အမည်</string>
     <string name="dialog_title_not_available">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="dialog_title_queued_body">ဖိုင်ယခု မရနိုင်သေးပါ</string>
@@ -155,7 +155,7 @@
     <string name="do_not_remind_this_version">ဤဗားရှင်းအကြောင်း သတိမပေးပါနှင့်</string>
     <string name="download">ဒေါင်းလုဒ်</string>
     <string name="download_added_to_list">ဒေါင်းလုဒ်စာရင်းသို့ ပေါင်းထည့်ခဲ့သည်</string>
-    <string name="download_apk_desktop_installing">တပ်ဆင်နေသည်</string>
+    <string name="download_apk_desktop_installing">ထည့်သွင်းနေသည်</string>
     <string name="download_apk_desktop_pause">တန့်ရပ်ထားသည်</string>
     <string name="download_apk_desktop_pending">ဆိုင်းငံ့နေသည်</string>
     <string name="download_apk_desktop_running">ဒေါင်းလုဒ်လုပ်နေသည်</string>
@@ -167,10 +167,10 @@
     <string name="download_auto_when_free_network">Wi-Fiကိုသာ အသုံးပြုပါရန်</string>
     <string name="download_auto_when_free_network_summary">သင့်အကြိုက်ဆုံးသီချင်းများအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_complete">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
-    <string name="download_complete_btn">ထည့်သွင်းပြီး</string>
-    <string name="download_complete_start_install">ထည့်သွင်းနေ…</string>
+    <string name="download_complete_btn">ထည့်သွင်းပြီးပါပြီ</string>
+    <string name="download_complete_start_install">ထည့်သွင်းနေသည်…</string>
     <string name="download_completed">ဒေါင်းလုဒ်လုပ်ပြီးပြီ</string>
-    <string name="download_confirm_button_text">တပ်ဆင်</string>
+    <string name="download_confirm_button_text">ထည့်သွင်းမည်</string>
     <string name="download_confirm_text">Mi သီချင်းအား ဒေါင်းလုဒ်လုပ်ပြီး တပ်ဆင်လိမ့်မည်\"%s\"</string>
     <string name="download_connect_wifi_dialog_message">ဤသီချင်းအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi လိုအပ်သည်။ ယခု ချိတ်ဆက်မလား?</string>
     <string name="download_connect_wifi_dialog_title">Wi-Fi သို့ ချိတ်ဆက်ပါ</string>
@@ -188,6 +188,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
@@ -494,6 +495,7 @@
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -648,6 +650,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>

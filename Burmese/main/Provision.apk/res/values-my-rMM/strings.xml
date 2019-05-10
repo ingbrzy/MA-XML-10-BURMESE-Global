@@ -34,7 +34,7 @@
     <string name="other_settings_enhanced_lockscreen_summary">လှပကောင်းမွန်သော ရုပ်ပုံနှင့် ပုံပြင်များအား သော့ခတ်မျက်နှာပြင်သို့ နေ့စဥ် ပေးပို့နိုင်သည်။ စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="back">နောက်သို့</string>
-    <string name="next">နောက်ထပ်</string>
+    <string name="next">နောက်တစ်ဆင့်</string>
     <string name="skip_underline">ဤအဆင့်ကို ကျော်ပါ</string>
     <string name="sim_dectection_next">ဆက်လုပ်ရန်</string>
     <string name="shut_down">အပြီးပိတ်ပါ</string>
@@ -68,7 +68,7 @@
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="application_permissions">အက်ပ်ခွင့်ပြုချက်များ</string>
     <string name="agree">သဘောတူသည်</string>
-    <string name="disagree">ပယ်ဖျက်သည်</string>
+    <string name="disagree">ပယ်ဖျက်မည်</string>
     <string name="setting_locale">ပင်ရင်းဒေသ သတ်မှတ်နေ…</string>
     <string name="agree_terms">ဝန်ဆောင်မှုစည်းမျဉ်းများနှင့် ကိုယ်ရေးမူဝါဒများအား ကျွန်ုပ်ဖတ်ပြီး သဘောတူပါသည်။</string>
     <string name="poco_agree_terms_other">(POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ နှင့် POCO Launcher အသုံးပြုသူ သဘောတူညီမှု အပါအဝင်)</string>
@@ -83,7 +83,7 @@
     <string name="item_lock_screen_password">မျက်နှာပြင်လော့ခ် သာ</string>
     <string name="desc_fingerprint">သင့်စက်အား သော့ဖြည်ရန် လက်ဗွေအား အသုံးပြုပါ၊ Mi Pay လွှဲပြောင်းမှုများအား အတည်ပြုပါ၊ သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="desc_extra_fingerprint" />
-    <string name="next_fingerprint">ရှေ့သို့</string>
+    <string name="next_fingerprint">နောက်တစ်ဆင့်</string>
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">သင့်စက်အား သော့ဖြည်ရန် သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ရန် လက်ဗွေအား အသုံးပြုပါ</string>
     <string name="content_description_start">စတင်</string>
@@ -92,12 +92,14 @@
     <string name="content_description_complete">ပြည့်စုံသော</string>
     <string name="language_picker_other_languages_title">ဘာသာစကားပိုမို၍</string>
     <string name="language_settings">ဘာသာစကား ရွေးချယ်ပါ</string>
+    <string name="font_hint_normal">စာသား အရွယ်အစား ကြီးမည်</string>
+    <string name="font_hint_large">ပုံမှန် စာသား အရွယ်အစား</string>
     <string name="navigation_picker_radio_text_full_screen">မျက်နှာပြင်အပြည့် လက်ဟန်များ</string>
     <string name="navigation_picker_radio_text_virtual_key">ခလုတ်များ</string>
     <string name="congratulation_swipe">စနစ်သို့ ဝင်ရောက်ရန် အပေါ်ဆွဲတင်ပါ</string>
     <string name="enable_accessibility_dialog_message">ဖုန်းမျက်နှာပြင်ကို လက်နှစ်ချောင်းဖြင့် ၁၀ စက္ကန့်ထက်ကြာကြာ ဖိနှိပ်ထားခြင်းဖြင့် TalkBack အားဖွင့်လိုက်ပါ။ TalkBack သည် အမြင်အာရုံချို့တဲ့သူများအတွက် အသံဖြင့်တုန့်ပြန်မှုကို ပေးစွမ်းပါသည်။ ၄င်းအား မတော်တဆဖွင့်လိုက်မိပါက ပယ်ဖျက်ပါ ခလုတ်ကိုနှိပ်ပြီး ပြန်ပိတ်လိုက်ပါ၊ ပြီးနောက် မျက်နှာပြင်အား နှစ်ချက်ဆက်တိုက်ထိနှိပ်ပါ။</string>
     <string name="enable_accessibility_dialog_positive_btn">အိုကေ</string>
-    <string name="enable_accessibility_dialog_negative_btn">ဖျက်သိမ်း</string>
+    <string name="enable_accessibility_dialog_negative_btn">ပယ်ဖျက်မည်</string>
     <string name="cm_terms_title">မိုဘိုင်းကွန်ရက် အော်ပရိတ်တာ သဘောတူညီချက်</string>
     <string name="cm_terms_content">သင့်ကိုထောက်ပံ့ထားသော ဝန်ဆောင်မှုများ တိုးတက်စေရန်၊သင်ရွေးလိုက်ရာ မိုဘိုင်းကွန်ရက် အော်ပရေတာသည် သင်၏ပုဂ္ဂိုလ်ရေးရာ ဒေတာများနှင့် ဤစက်၏ အချက်အလက်များကို ၄င်းဆာဗာသို့ Wi-Fi သို့မဟုတ် မိုဘိုင်းဒေတာအသုံးပြုပြီး လုတ်တင်ပါလိမ့်မည်။ ဤအချက်အချက်အလက်များကို ဝန်ဆောင်မှု အရည်အသွေးတိုးမြှင့်ရန်နှင့် သင့်အတွက် အသုံးဝင်သော ကြောင်းအရာများကို ပိုမိုထောင့်ပံ့ပေးနိုင်ရန်သာ အသုံးပြုမည်ဖြစ်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာကို သိရှိရန်နှင့် အခြား တစ်ဆင့်ခံများကို ဖော်ထုတ်ပြခြင်း လုံးဝမပြုလုပ်ပါ။</string>
     <string name="enable_accessibility_canceled">ဝင်သုံးခွင့် ဖျက်သိမ်းလိုက်သည်။</string>
@@ -119,4 +121,8 @@
     <string name="ai_button_double_press_desc">စိတ်ကြိုက် လုပ်ငန်းစဥ်များ ပြီးဆုံးရန် AI ခလုတ်အား နှစ်ချက်ဖိပါ</string>
     <string name="zone_picker_title">အချိန်ဇုန်အား ရွေးပါ</string>
     <string name="locale_picker_other_locale_title">နောက်ထပ် ဒေသများ</string>
+    <string name="skip_gesture_guide_dialog_title">မျက်နှာပြင်အပြည့် လက်ဟန်များ</string>
+    <string name="skip_gesture_guide_dialog_message">ဤရွေးချယ်မှု မလုပ်မီ မျက်နှာပြင်အပြည့် လက်ဟန်၏ သုံးပုံသုံးနည်းအား လေ့လာပါ။</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">ပယ်ဖျက်မည်</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">အိုကေ</string>
 </resources>

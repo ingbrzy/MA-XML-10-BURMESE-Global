@@ -81,6 +81,10 @@
         <item>ယခုနှင့် နောင်လုပ်ငန်းစဉ်များ</item>
         <item>လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>မေထုန်ရာသီဖွား</item>
@@ -103,13 +107,6 @@
     <string-array name="ligue_1">
         <item>၅</item>
         <item>လီဂူး ၁</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>ပထမ</item>
-        <item>ဒုတိယ</item>
-        <item>တတိယ</item>
-        <item>စတုတ္ထ</item>
-        <item>နောက်ဆုံး</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
@@ -213,7 +210,7 @@
     </string-array>
     <string-array name="response_labels1">
         <item>တုံ့ပြန်မှု မရှိပါ</item>
-        <item>ဟုတ်ပါတယ်</item>
+        <item>ဟုတ်ပါသည်</item>
         <item>ဖြစ်ကောင်းဖြစ်နိုင်သည်</item>
         <item>မဟုတ်ပါ</item>
     </string-array>
@@ -348,5 +345,42 @@
     <string-array name="widget_style_list">
         <item>ဖောက်ထွင်းမြင်သော</item>
         <item>အဖြူနောက်ခံ</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>ပထမ တနင်္လာ</item>
+        <item>ပထမ အင်္ဂါ</item>
+        <item>ပထမ ဗုဒ္ဓဟူး</item>
+        <item>ပထမ ကြာသပတေး</item>
+        <item>ပထမ သောကြာ</item>
+        <item>ပထမ စနေ</item>
+        <item>ပထမ တနင်္ဂနွေ</item>
+        <item>ဒုတိယ တနင်္လာ</item>
+        <item>ဒုတိယ အင်္ဂါ</item>
+        <item>ဒုတိယ ဗုဒ္ဓဟူး</item>
+        <item>ဒုတိယ ကြာသပတေး</item>
+        <item>ဒုတိယ သောကြာ</item>
+        <item>ဒုတိယ စနေ</item>
+        <item>ဒုတိယ တနင်္ဂနွေ</item>
+        <item>တတိယ တနင်္လာ</item>
+        <item>တတိယ အင်္ဂါ</item>
+        <item>တတိယ ဗုဒ္ဓဟူး</item>
+        <item>တတိယ ကြာသပတေး</item>
+        <item>တတိယ သောကြာ</item>
+        <item>တတိယ စနေ</item>
+        <item>တတိယ တနင်္ဂနွေ</item>
+        <item>စတုတ္ထ တနင်္လာ</item>
+        <item>စတုတ္ထ အင်္ဂါ</item>
+        <item>စတုတ္ထ ဗုဒ္ဓဟူး</item>
+        <item>စတုတ္ထ ကြာသပတေး</item>
+        <item>စတုတ္ထ သောကြာ</item>
+        <item>စတုတ္ထ စနေ</item>
+        <item>စတုတ္ထ တနင်္ဂနွေ</item>
+        <item>နောက်ဆုံး တနင်္လာ</item>
+        <item>နောက်ဆုံး အင်္ဂါ</item>
+        <item>နောက်ဆုံး ဗုဒ္ဓဟူး</item>
+        <item>နောက်ဆုံး ကြာသပတေး</item>
+        <item>နောက်ဆုံး သောကြာ</item>
+        <item>နောက်ဆုံး စနေ</item>
+        <item>နောက်ဆုံး တနင်္ဂနွေ</item>
     </string-array>
 </resources>

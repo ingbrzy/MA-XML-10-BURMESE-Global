@@ -18,13 +18,14 @@
     <string name="business_card">လိပ်စာကဒ်</string>
     <string name="business_card_result_title">လိပ်စာကဒ်</string>
     <string name="business_card_title">လိပ်စာကဒ်အား ဖရိန်အတွင်း ဝင်အောင်ထားပါ</string>
+    <string name="business_card_with_qr_code">လိပ်စာကဒ် သို့မဟုတ် QR ကုဒ်အား ဖရိန်အတွင်း ဝင်အောင်ထားပါ</string>
     <string name="business_copy">ကော်ပီကူးပါ</string>
     <string name="business_new_contacts">အဆက်အသွယ် အသစ် ဖန်တီးမည်</string>
     <string name="business_no_result">လိပ်စာကဒ်ကို အသိအမှတ် မပြုနိုင်ပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="calender">ပြက္ခဒိန်</string>
     <string name="call_anyone">ဖုန်းခေါ်မည်</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
-    <string name="cancel">ပယ်ဖျက်</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="choose_pay_title">ငွေပေးချေမှု နည်းလမ်း ရွေးပါ</string>
     <string name="choose_picture">QR ကုဒ်ပုံအား ရွေးချယ်ပါ</string>
     <string name="common_retake_picture">ပြန်ရိုက်</string>
@@ -38,7 +39,7 @@
     <string name="continue_to_website">ဝက်ဘ်ဆိုက်သို့သွားပါ</string>
     <string name="copy_text">စာကို ကူးပါ</string>
     <string name="copy_text_success">စာသားကို ကော်ပီကူးထားသည်</string>
-    <string name="crop_cancel_description">ဖျက်သိမ်းပါ</string>
+    <string name="crop_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="crop_done_description">ပြီးပြီ</string>
     <string name="crop_title_study">ဓာတ်ပုံ ဖြတ်ထုတ်ပါ</string>
     <string name="crop_title_translation">ဘာသာပြန်ရန် စာသားအား ရွေးချယ်ပါ</string>

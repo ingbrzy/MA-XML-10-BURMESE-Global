@@ -26,7 +26,7 @@
     <string name="alert_dialog_in_ecm_call">ရွေးချယ်ထားသောလုပ်ဆောင်ချက်သည် အရေးပေါ်ခေါ်ဆိုခြင်းတွင် မရနိုင်ပါ။</string>
     <string name="alert_dialog_no">မဟုတ်ပါ</string>
     <string name="alert_dialog_ok">အိုကေ</string>
-    <string name="alert_dialog_yes">ဟုတ်သည်</string>
+    <string name="alert_dialog_yes">ဟုတ်ပါသည်</string>
     <string name="alertdialogtitle">ရလဒ်များ</string>
     <string name="all_day">" နေ့တိုင်း "</string>
     <string name="all_empty_alert">SIP အကောင့်အသစ်၏ အသေးစိတ်များကို ရိုက်ထည့်ပါ။</string>
@@ -182,7 +182,7 @@
     <string name="change_password">တားဆီးသည့် စကားဝှက်ကို ပြောင်းပါ</string>
     <string name="change_pin">ဆင်းမ်PIN ကိုပြောင်းမည်</string>
     <string name="change_pin2">PIN2 ပြောင်းမည်</string>
-    <string name="change_pin_cancel_label">ပယ်ဖျက်မည်။</string>
+    <string name="change_pin_cancel_label">ပယ်ဖျက်မည်</string>
     <string name="change_pin_confirm_pin_header">သင့် PIN ကို အတည်ပြုပါ။</string>
     <string name="change_pin_confirm_pins_dont_match">PIN မကိုက်ညီပါ။</string>
     <string name="change_pin_continue_label">ဆက်လက်လုပ်ဆောင်မည်။</string>
@@ -454,6 +454,7 @@
     <string name="ivr_type_cu_3">တရုတ် Unicom 2G</string>
     <string name="ivr_type_settings">ဒေတာ အစီအစဉ် ဆက်တင်များ</string>
     <string name="ivr_type_settings_hint">သင့်ဒေတာအစီစဉ်ကုဒ်အား ရိုက်ထည့်ပါ</string>
+    <string name="jump_to_mobile_network_setting">မိုဘိုင်းကွန်ရက် ဆက်တင်</string>
     <string name="keywords_carrier_settings_euicc">ဖုန်းလိုင်းကုမ္ပဏီ၊ e-ဆင်းမ်ကဒ်၊ ဆင်းမ်ကဒ်၊ euicc ကဒ်</string>
     <string name="labelCDMAMore">CDMA ဖုန်းခေါ်ဆိုမှု ဆက်တင်များ</string>
     <string name="labelCF">ခေါ်ဆိုမှု လွှဲပြောင်းခြင်း</string>
@@ -526,7 +527,7 @@
     <string name="miui_network_selection_reset_text">ပြန်လည်သတ်မှတ်မည်</string>
     <string name="miui_notification_network_selection_title">ဆင်းမ်- ဝန်ဆောင်မှု မရှိပါ</string>
     <string name="miui_notification_network_selection_title_by_sim">ဆင်းမ်%s- ဝန်ဆောင်မှု မရှိပါ</string>
-    <string name="mmiCancelled">MMI ကုဒ်အား ဖျက်သိမ်းလိုက်သည်</string>
+    <string name="mmiCancelled">MMI ကုဒ်အား ပယ်ဖျက်ခဲ့သည်</string>
     <string name="mmiStarted">MMI ကုဒ်ကို စတင်ထားပါသည်</string>
     <string name="mobile_data_activate_button">ဒေတာ ပေါင်းထည့်မည်</string>
     <string name="mobile_data_activate_cancel_button">ပယ်ဖျက်မည်</string>
@@ -602,7 +603,7 @@
     <string name="network_settings_duringcall">ဖုန်ခေါ်ဆိုချိန်အတွင်း အော်ပရေးရှင်း လုပ်ရန်ခွင့်မပြုပါ</string>
     <string name="network_settings_forbidden">%s (တားမြစ်ထားပြီး)</string>
     <string name="network_settings_information">မိုဘိုင်းဒေတာကို ပိတ်မည်လား?</string>
-    <string name="network_settings_next">နောက်ထပ်</string>
+    <string name="network_settings_next">နောက်တစ်ဆင့်</string>
     <string name="network_settings_query_failed_message">ဆယ်လူလာ ကွန်ရက်များကို ရှာမတွေ့ပါ။</string>
     <string name="network_settings_select_automatic_hint">"သင်ရွေးချယ်ထားသည့် ကွန်ရက်တွင် မှတ်ပုံတင်၍ မရပါ။
 ၎င်းအစား လိုလားသောကွန်ရက်ကို အသုံးပြုပါလိမ့်မည်။"</string>
@@ -665,7 +666,7 @@
  ၅ မိနစ်ခန့်ကြာနိုင်ပါသည်။"</string>
     <string name="ota_hfa_activation_title">အသက်သွင်းနေ...</string>
     <string name="ota_listen">အသက်သွင်းခြင်းပြီးပါပြီဟုမကြားမချင်း ပြောသောညွှန်ကြားချက်များကိုလိုက်နာပါ။</string>
-    <string name="ota_next">နောက်ထပ်</string>
+    <string name="ota_next">နောက်တစ်ဆင့်</string>
     <string name="ota_progress">သင့်ဖုန်းအား ပရိုဂရမ်ထည့်နေသည်…</string>
     <string name="ota_skip_activation_dialog_message">အသက်သွင်းခြင်းကို ကျော်သွားလျှင် သင်သည် ဖုန်းခေါ်ဆိုခြင်း မပြုလုပ်နိုင်ပါ (သို့) မိုဘိုင်းဒေတာ ကွန်ရက်များထံ မချိတ်ဆက်နိုင်ပါ (Wi-Fi ကွန်ရက်များထံ သင်ချိတ်ဆက်နိုင်သော်လည်း)။ သင့်ဖုန်းကို အသက်သွင်းသည်အထိ ၎င်းကို ဖွင့်သည့်အချိန်တိုင်း အသက်သွင်းရန် သင့်အား ပြောပါလိမ့်မည်။</string>
     <string name="ota_skip_activation_dialog_skip_label">ကျော်သွားပါ</string>
@@ -727,7 +728,7 @@
     <string name="pause_prompt_no">မဖွင့်</string>
     <string name="pause_prompt_str">"မြည်သံကိုပို့နေ
 "</string>
-    <string name="pause_prompt_yes">ဟုတ်သည်</string>
+    <string name="pause_prompt_yes">ဟုတ်ပါသည်</string>
     <string name="payphone">ငွေပေးဖုန်း</string>
     <string name="phoneAppLabel">ဖုန်းဝန်ဆောင်မှုများ</string>
     <string name="phoneIconLabel">ဖုန်း</string>
@@ -886,10 +887,42 @@
     <string name="roaming_warning">သင့်တွင် ကုန်ကျစားရိတ် သိသိသာသာ ဖြစ်ပေါ်နိုင်ပါသည်</string>
     <string name="save">သိမ်းရန်</string>
     <string name="saving_account">အကောင့်အား သိမ်းဆည်းနေသည်…</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">ဘလော့စာရင်း</string>
     <string name="search_app_name">ဖုန်း၊ခေါ်ဆိုမှု အသံသွင်းမှု၊ခေါ်ဆိုမှုလွှဲပြောင်း၊လွှဲပြောင်းခြင်း၊ခေါ်ဆိုမှုစောင့်ဆိုင်းမှု၊ဘလော့စာရင်း၊နိုင်ငံကုဒ်၊ဧရိယာကုဒ်၊နိုင်ငံကုဒ်၊နိုင်ငံကုဒ်များ၊ဧရိယာကုဒ်များ၊ခေါ်ဆိုမှုများအား မှတ်တမ်းတင်၊ခေါ်ဆိုမှုအား မှတ်တမ်းတင်၊ခလုတ်နှိပ်ကွက်၊ခေါ်ဆိုမှုများ၊တယ်လီဖုန်းဆိုင်ရာ၊VoIP၊VoLTE၊လွဲသွားသော ခေါ်ဆိုမှု၊လွဲသွားသော ခေါ်ဆိုမှုများ၊SIP၊T9၊IP တယ်လီဖုန်း၊FDN</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="selectContact">အဆက်အသွယ် ရွေးချယ်ပါ။</string>
     <string name="select_automatically">ကွန်ရက်အား အလိုအလျောက်ရွေးပါ</string>
+    <string name="select_dds_dialog_title">မူရင်း မိုဘိုင်းဒေတာ ဆင်းမ်ကဒ်အား ရွေးပါ</string>
     <string name="select_voice_call_sim">ဆင်းမ်ကဒ်ရွေးချယ်ပါ</string>
     <string name="send_button">ပို့ရန်</string>
     <string name="send_keepalive_title">ဆက်တိုက် ချိတ်ဆက်မှု ပေးပို့ခြင်း</string>
@@ -1036,6 +1069,7 @@
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">နံနက်</string>
     <string name="time_formate_pm">ညနေ</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day">" နောက်တစ်နေ့ "</string>
     <string name="time_start">" မှ "</string>
     <string name="time_start_hour">time start hour</string>
@@ -1046,6 +1080,7 @@
     <string name="tty_mode_entries_hco">TTY HCO</string>
     <string name="tty_mode_entries_off">TTY ပိတ်ပါ</string>
     <string name="tty_mode_entries_vco">TTY VCO</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">ဗီဒီယိုခေါ်ဆိုမှုလုပ်နေစဉ် TTY မုဒ်ပြောင်းလဲခြင်းအား ခွင့်မပြုထားပါ</string>
     <string name="tty_mode_option_summary">TTY မုဒ်ကို သတ်မှတ်မည်</string>
     <string name="tty_mode_option_title">TTY မုဒ်</string>
@@ -1102,6 +1137,7 @@
     <string name="voicemail">အသံမေးလ်</string>
     <string name="voicemail_abbreviated">VM:</string>
     <string name="voicemail_change_pin_dialog_title">PIN ပြောင်းမည်</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">သင့်ဖုန်းလိုင်းကုမ္ပဏီ</string>
     <string name="voicemail_notification_vibrate_when_title">တုန်ခါခြင်း</string>
     <string name="voicemail_notifications_preference_title">အသိပေးချက်များ</string>
@@ -1114,6 +1150,7 @@
     <string name="voicemail_settings_number_label">အသံမေးလ်နံပါတ်</string>
     <string name="voicemail_settings_number_title">အသံမေးလ်နံပါတ်</string>
     <string name="voicemail_settings_with_label">အသံမေးလ်(%s)</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">ရုပ်သံ အသံမေးလ်</string>
     <string name="voip_setting">Voip ဆက်တင်များ</string>
     <string name="volte_provision_notification_activate">အသက်သွင်း</string>
@@ -1144,6 +1181,7 @@
     <string name="wfcmode_wifi_preferred">Wi-Fi ပိုလိုလားသည်</string>
     <string name="wifi_call_setting">Wi-Fi ခေါ်ဆိုမှုများ</string>
     <string name="wifi_calling">Wi-Fi ခေါ်ဆိုခြင်း</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">Wi-Fi ခေါ်ဆိုမှု</string>
     <string name="wificall_switch_summary">Wi-Fi သုံးနိုင်သောအခါ Wi-Fi ဖြင့် ဖုန်းခေါ်ဆိုမှုများ ပြုလုပ်ပါ</string>
     <string name="wificall_switch_title">Wi-Fi ဖြင့် ခေါ်ဆိုပါ</string>

@@ -15,6 +15,12 @@
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">%1$s ရက်အတွက် ခန့်မှန်းချက်</item>
     </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">တုံ့ပြန်အကြံပြုချက် ထပ်မံ တင်ပို့ရန် %1$s မိနစ် စောင့်ပါ</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">တုံ့ပြန်အကြံပြုချက် ထပ်မံ တင်ပို့ရန် %1$s စက္ကန့် စောင့်ပါ</item>
+    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s ဦး |</item>
     </plurals>
@@ -26,8 +32,5 @@
     </plurals>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s ဦး</item>
-    </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">တုန့်ပြန်မှုပေးပို့ပြီး %1$s စက္ကန့်အကြာ</item>
     </plurals>
 </resources>

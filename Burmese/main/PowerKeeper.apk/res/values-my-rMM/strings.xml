@@ -3,7 +3,7 @@
     <string name="app_name">ဘက်ထရီနှင့် စွမ်းဆောင်ရည်</string>
     <string name="error_filename_too_long">သင်ထည့်သွင်းသော ဖိုင်အမည် ရှည်လွန်းသည်။</string>
     <string name="power_config_select_apps_title">အက်ပ်များ</string>
-    <string name="power_config_event_delete">ဖျက်မည်</string>
+    <string name="power_config_event_delete">ဖျက်ပစ်မည်</string>
     <string name="hide_mode_desc">ဘက်ထရီသုံးစွဲမှု လျော့ချစေရန် အက်ပ်တစ်ခုခု နောက်ခံတွင် အလုပ်လုပ်နေပါက ၎င်း၏လှုပ်ရှားမှုကို စောင့်ကြည့်လိမ့်မည်။ ဤလုပ်ဆောင်ချက်သည် အသုံးပြုသူ၏ ဒေတာအား %s အရ ရယူသုံးစွဲပါမည်</string>
     <string name="privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="power_hide_mode_title">ဘက်ထရီ &amp; စွမ်းဆောင်ရည်</string>

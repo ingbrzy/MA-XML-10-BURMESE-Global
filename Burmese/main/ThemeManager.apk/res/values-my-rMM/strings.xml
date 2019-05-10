@@ -20,6 +20,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
     <string name="search_menu_title">ရှာဖွေပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="accessibility_setting_hint">"ဤဝန်ဆောင်မှုအား ဖွင့်ရန် ညာဘက် အပေါ်ပိုင်းရှိ ခလုတ်ကို ထိနှိပ်ပါ။
 နောက်ခံပုံ အကြည်သုံးရန် ရွေးထားသော အက်ပ်များကို သင်းမ်မှ ရှာဖွေလိမ့်မည်။"</string>
     <string name="accessibiliy_description_content_account">ပရိုဖိုင်</string>
@@ -41,7 +42,7 @@
     <string name="ad_closed_tip">ဤပုံစံ ကြော်ငြာအား ထပ်မပြတော့ပါ</string>
     <string name="ad_download_download">ဒေါင်းလုဒ် လုပ်ပါ</string>
     <string name="ad_download_download_now">ဒေါင်းလုဒ်လုပ်မည်</string>
-    <string name="ad_download_install">ထည့်သွင်းပါ</string>
+    <string name="ad_download_install">ထည့်သွင်းမည်</string>
     <string name="ad_download_open">ဖွင့်ပါ</string>
     <string name="ad_download_pause">ရပ်တန့်ပါ</string>
     <string name="ad_download_pending">ဆိုင်းငံ့ထားသည်</string>
@@ -59,6 +60,7 @@
     <string name="apply_theme_with_ringtones">သင်းမ်ဖုန်းမြည်သံများအသုံးပြုပါ</string>
     <string name="audio_duration_minutes_format">%1$d မိနစ်</string>
     <string name="audio_duration_seconds_format">%1$d စက္ကန့်</string>
+    <string name="audition_ringtone">ဖွင့်ပါ</string>
     <string name="automatically_update_using_theme_tips">နောင်အခါတွင် အပ်ဒိတ်အလိုအလျောက်လုပ်ပါ</string>
     <string name="backup_theme_dialog_message">သင်၏လက်ရှိသင်းမ်အား အရန်သိမ်းဆည်းလိုပါသလား?</string>
     <string name="backup_theme_dialog_ok">အရန်သိမ်းဆည်းပါ</string>
@@ -85,10 +87,11 @@
     <string name="component_title_settings_video_wallpaper">အထူးဖန်တီးချက်ဖြင့် နောက်ခံပုံ</string>
     <string name="component_title_video_wallpaper">နောက်ခံ ဗီဒီယိုပုံ</string>
     <string name="component_title_wallpaper">နောက်ခံပုံများ</string>
+    <string name="count_down_tip">%d စက္ကန့် ကျန်သေးသည်</string>
     <string name="current_using_desktop_wallpaper_text">အိမ်မျက်နှာပြင်</string>
     <string name="current_using_lockscreen_wallpaper_text">သော့ခတ် မျက်နှာပြင်</string>
     <string name="current_version_incompatible">ကိုက်ညီမှု မရှိပါ</string>
-    <string name="deleting">ဖျက်ပစ်နေဆဲ…</string>
+    <string name="deleting">ဖျက်နေသည်…</string>
     <string name="description_author">စာရေးဆရာ</string>
     <string name="description_designer">ဒီဇိုင်နာ</string>
     <string name="description_download">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -122,7 +125,7 @@
     <string name="find_more_theme">နောက်ထပ်</string>
     <string name="find_more_wallpapers">ပိုများသော</string>
     <string name="gift_anonymous">အမည်မသိ</string>
-    <string name="gift_operation_fail_dlg_abandon">ပယ်ဖျက်ရန်</string>
+    <string name="gift_operation_fail_dlg_abandon">ပယ်ဖျက်မည်</string>
     <string name="gift_operation_fail_dlg_retry">ထပ်မံကြိုးစားပါ</string>
     <string name="gift_operation_waiting">ခဏစောင့်ပါ…</string>
     <string name="gift_owned">ဝယ်ခဲ့သည်</string>
@@ -173,14 +176,16 @@
     <string name="incall_show_title">ပရိုဖိုင် ဗီဒီယိုများ</string>
     <string name="incompatible_dialog_cancel">အသုံးမချပါ</string>
     <string name="incompatible_dialog_message">ဤသင်းမ်သည် သင့်ဖုန်း၏လက်ရှိဗားရှင်းနှင့် မကိုက်ညီပါ။ ဤသင်းမ်အား သုံးပါက MIUI ၏အချို့အစိတ်အပိုင်းများသည် ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်မည် မဟုတ်ပါ။</string>
-    <string name="incompatible_dialog_ok">ရပြီ</string>
+    <string name="incompatible_dialog_ok">နားလည်ပါပြီ</string>
     <string name="incompatible_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေ…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
     <string name="item_resource_audio_optional_color_ring">Ringback အသံ</string>
     <string name="item_resource_audio_optional_notification_ring">အသိပေးချက်များ</string>
     <string name="item_resource_audio_optional_phone_ring">ဖုန်းမြည်သံ</string>
     <string name="lab">သင်းမ် လက်ဘ်</string>
+    <string name="like_list">လိုက်ခ်လုပ်ထားသော အိုင်တမ်များ</string>
     <string name="live_wallpaper">သက်ဝင်လှုပ်ရှားဖန်သားပြင်နောက်ခံပုံ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="loading_resource_detail_fail">အရင်းအမြစ် ဆွဲချလို့ မရပါ</string>
@@ -229,7 +234,7 @@
     <string name="mix_tip">သင်းမ် အစိတ်အပိုင်းများ</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">ဤဖုန်းမြည်သံအား ဆင်းမ်ကဒ်နှစ်ခုလုံးအတွက် အသုံးပြုမည်။</string>
     <string name="multi_sim_ringtone_settings_dialog_message">ဖုန်းမြည်သံအား ဆင်းမ်ကဒ်နှစ်ခုလုံးအတွက် အသုံးချခဲ့သည်။</string>
-    <string name="multi_sim_ringtone_settings_dialog_ok">ရပြီ</string>
+    <string name="multi_sim_ringtone_settings_dialog_ok">နားလည်ပါပြီ</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">ထပ်မပြပါနှင့်</string>
     <string name="multi_sim_ringtone_settings_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
     <string name="my_gifts">လက်ဆောင်များ</string>
@@ -247,6 +252,7 @@
     <string name="online_precust_plant">အပင်</string>
     <string name="online_precust_scenery">ရှုခင်း</string>
     <string name="online_search_hint">အွန်လိုင်းအရင်းအမြစ်များ ရှာပါ</string>
+    <string name="playing_ringtone">ဖွင့်ထားသည်</string>
     <string name="pref_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="present_local_fonts">ကျွန်ုပ်၏ ဖောင့်များ</string>
     <string name="present_local_themes">ကျွန်ုပ်၏သင်းမ်များ</string>
@@ -279,7 +285,6 @@
     <string name="resource_alarm_default">နှိုးစက်</string>
     <string name="resource_app_name">အရင်းအမြစ်ကို ကြည့်ရှုပါ</string>
     <string name="resource_apply">အသုံးချပါ</string>
-    <string name="resource_apply_trial">အခု စမ်းကြည့်ပါလား</string>
     <string name="resource_back">နောက်သို့</string>
     <string name="resource_buy">ဝယ်ပါ</string>
     <string name="resource_can_not_selected">%1$s ကို ရွေးမရပါ</string>
@@ -331,7 +336,7 @@
     <string name="resource_data_empty">ဤနေရာတွင် အိုင်တမ်များမရှိပါ။</string>
     <string name="resource_default">မူလသတ်မှတ် ဖုန်းမြည်သံ</string>
     <string name="resource_default_name">အရင်းအမြစ်</string>
-    <string name="resource_delete">ဖျက်ပစ်ပါ</string>
+    <string name="resource_delete">ဖျက်ပစ်မည်</string>
     <string name="resource_delete_all">%1$d ရွေးထားသော အရင်းအမြစ်များကို ဖျက်ပစ်မလား။?</string>
     <string name="resource_delete_confirm">ဒီအရင်းအမြစ်များကို ဖျက်ပစ်မလား။?</string>
     <string name="resource_delta_update_failed">သင်းမ်ကို ထပ်မံ ဒေါင်းလုဒ်လုပ်နေသည်…</string>
@@ -350,7 +355,6 @@
     <string name="resource_download">ဒေါင်းလုဒ်</string>
     <string name="resource_download_notification_title_many">%1$s သင်းမ်ကို ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="resource_download_notification_title_one">သင်းမ် ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
-    <string name="resource_download_trial">အခမဲ့ စမ်းကြည့်ပါ</string>
     <string name="resource_downloaded_title">ဒေါင်းလုဒ်လုပ်ထားသော အရင်းအမြစ်များ</string>
     <string name="resource_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="resource_exchange">ကူပွန်ဖြင့်တန်ဖိုးသင့်ဝယ်ခြင်း</string>
@@ -405,6 +409,7 @@
     <string name="resource_pack_price_info">မူရင်းစျေးနှုန်း: %1$s</string>
     <string name="resource_pack_warning">ဤသင်းမ်ထဲက %1$d အစိတ်အပိုင်းများကို သင်ဝယ်ယူထားပြီးဖြစ်သည်။ အကယ်၍ ကျန်နေသော အစိတ်အပိုင်းများကို တစ်ချချင်း သင် ဝယ်ယူပါက၊ ပို၍ စျေးချိုပါသည်။</string>
     <string name="resource_present">လက်ဆောင်</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">အခမဲ့</string>
     <string name="resource_price_unit"> Mi ခရက်ဒစ်</string>
     <string name="resource_purchase_common_error">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
@@ -416,6 +421,10 @@
     <string name="resource_ranking">လူကြိုက်များသော</string>
     <string name="resource_ranking_free">အခမဲ့</string>
     <string name="resource_ranking_purchase">အခပေး</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">၁</string>
+    <string name="resource_ring_ranking_list_rank_2">၂</string>
+    <string name="resource_ring_ranking_list_rank_3">၃</string>
     <string name="resource_ringtone_default">ဖုန်းမြည်သံများ</string>
     <string name="resource_ringtone_playing_error">အမှား</string>
     <string name="resource_ringtone_volume_mute">အသံစက်ကို အသံပိတ်ထားသည်</string>
@@ -510,8 +519,6 @@
     <string name="theme_changed_failed_message">သင်းမ်အသုံးပြု၍ မရပါ</string>
     <string name="theme_changed_message">သင်းမ်အသုံးပြုပြီး</string>
     <string name="theme_changing_dialog_title">"အသုံးပြုနေသည် "</string>
-    <string name="theme_comment_dialog_message">ဤအက်ပ်အား အမှတ်ပေးပြီး အကြံပြုချက်များ ရေးပေးပါ။</string>
-    <string name="theme_comment_dialog_ok">အမှတ်ပေးမည်</string>
     <string name="theme_component_title_alarm">သတိပေးချက်</string>
     <string name="theme_component_title_alarmstyle">သတိပေးချက်စတိုင်</string>
     <string name="theme_component_title_all">သင်းမ်များ</string>
@@ -555,13 +562,13 @@
     <string name="theme_is_external_priority_storage">SD ကဒ်မှာသိမ်းဆည်းပါ</string>
     <string name="theme_is_external_priority_storage_summary">သင်းမ်အက်ပ်များသည် အကျိုးသက်ရောက်မှုရှိရန် ချက်ချင်းပြန်စတင်လိမ့်မည်</string>
     <string name="theme_multiple_button_title_customize">စိတ်ကြိုက်စီစဉ်ပါ</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">မသိမ်းပါ</string>
     <string name="theme_purchased_list_empty">မည်သည့်သင်းမ်များမှ သင်မဝယ်ရသေးပါ.</string>
     <string name="theme_purchased_non_local">အွန်လိုင်း</string>
     <string name="theme_select_others">အင်တာနက်တွင်ရှာဖွေပါ</string>
     <string name="theme_setting">ဆက်တင်များ</string>
     <string name="theme_staggered_item_text">Mi ခရက်ဒစ် လက်ခံရယူပါ</string>
-    <string name="theme_to_comment">အလွန်ကောင်းသည်။</string>
     <string name="theme_user_agreement_allow">သဘောတူသည်</string>
     <string name="theme_user_agreement_content1">"ဤထုတ်ကုန်ကိုသုံးခြင်းအားဖြင့် ကျွန်တော်တို့၏ကိုယ်ရေးမူဝါဒကို သဘောတူပြီးဖြစ်ပါသည် "</string>
     <string name="theme_user_agreement_content2">အသုံးပြုသူသဘောတူညီမှု</string>
@@ -600,8 +607,19 @@
     <string name="transparent_wallpaper_guide">သင်းမ်များသို့ သွားပါ</string>
     <string name="transparent_wallpaper_guide_tip">သင်းမ်တွင် နောက်ခံပုံ အကြည်အား ယခု ရွေးနိုင်ပါပြီ။</string>
     <string name="transparent_wallpaper_pref_summary">နောက်ခံပုံ အကြည်ရောင်ဖြင့် ဒီဇိုင်းအသစ်</string>
+    <string name="transparent_wallpaper_white_wallpaper">နောက်ခံအား အဖြူရောင်သို့ ပြောင်းပါ</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">နောက်ခံအရောင်အား အဖြူ သို့ မပြောင်းနိုင်ပါ</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">ယခု နောက်ခံအရောင် အဖြူ ဖြစ်သွားပါပြီ</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">နောက်ခံပုံ အကြည်သည် အဖြူရောင် နောက်ခံနှင့် ပို၍ ကြည့်ကောင်းပါသည်</string>
+    <string name="trial_count_empty">ယနေ့အတွက် အခမဲ့ အိုင်တမ်များ မရှိတော့ပါ။ မနက်ဖြန် ပြန်လာပါ။</string>
+    <string name="trial_count_tip">အစမ်းသုံးခြင်းသည် %1$s:%2$s:%3$sတွင် ကုန်ဆုံးမည်</string>
+    <string name="trial_for_free">အခမဲ့ စမ်းသုံးနိုင်သည်</string>
+    <string name="trial_get_failed_tip">သင်းမ် ရရှိရန် ဗီဒီယိုအား ပြီးဆုံးသည့်အထိ ကြည့်ပါ။</string>
+    <string name="trial_get_success_tip">၃ ရက် အခမဲ့ စမ်းသုံးနိုင်ပါပြီ။</string>
+    <string name="trial_now">ယခု စမ်းသုံးကြည့်မည်</string>
+    <string name="try_5_min">၅ မိနစ် စမ်းသုံးကြည့်မည်</string>
     <string name="uid_change_dialog_message">အသစ်မွမ်းမံမှုများအား ဖျက်လိုက်သည်။ သင်းမ်များကို အသုံးပြု၍ရနိုင်ရန် စက်အား ပြန်လည်စတင်ပါ။</string>
-    <string name="uid_change_dialog_ok">ရပြီ</string>
+    <string name="uid_change_dialog_ok">နားလည်ပါပြီ</string>
     <string name="uid_change_dialog_title">စက်အား ပြန်လည်စတင်ပါ</string>
     <string name="up_to_the_end">မရှိတော့ပါ။ နောက်မှ ပြန်လာကြည့်ပါ။</string>
     <string name="update_btn">ယခု အပ်ဒိတ်လုပ်မည်</string>
@@ -617,6 +635,11 @@
     <string name="using_theme_next_automatic_update">အလိုအလျောက် မွမ်းမံမှုများ</string>
     <string name="using_theme_next_automatic_update_summary">မျက်နှာပြင် လော့ခ်ချထားစဥ် ဒေါင်းလုဒ်ထားသော သင်းမ်များကို Wi-Fi ဖြင့် အလိုအလျောက် အပ်ဒိတ်လုပ်မည်</string>
     <string name="using_theme_show_ad">အကြံပြုချက်များ</string>
+    <string name="video_ad_click">ယခု စမ်းသုံးကြည့်မည်</string>
+    <string name="video_ad_try_for_free">အခမဲ့ စမ်းသုံးနိုင်သည်</string>
+    <string name="video_ad_uncomplete_tip">သင်းမ် ရရှိရန် ဗီဒီယိုအား ပြီးဆုံးသည့်အထိ ကြည့်ပါ။</string>
+    <string name="video_ad_uncomplete_tip_cancel">ပယ်ဖျက်မည်</string>
+    <string name="video_ad_uncomplete_tip_continue">ဆက်ကြည့်မည်</string>
     <string name="video_audio_apply_success">အသံရှိဗီဒီယို သတ်မှတ်ပြီးပါပြီ</string>
     <string name="video_data_tips_message">မိုဘိုင်းဒေတာကို အသုံးပြုပါက အပိုငွေများကုန်ကျနိုင်ပါသည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
     <string name="video_data_tips_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
