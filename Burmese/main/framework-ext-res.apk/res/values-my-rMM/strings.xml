@@ -204,4 +204,6 @@
     <string name="popup_camera_calibrate_success">ချိန်ညှိပြီးပါပြီ။ အရှေ့ကင်မရာအား ယခု ဖွင့်နိုင်ပါပြီ။</string>
     <string name="popup_camera_calibrate_failed">ချိန်ညှိ၍ မရခဲ့ပါ</string>
     <string name="popup_camera_using_camera_background">%s မှ အရှေ့ကင်မရာအား သုံးနေသည်</string>
+    <string name="sim_lock_non_ais_msg">မှာယူမှု စည်းကမ်းသတ်မှတ်ချက်များနှင့် မဆီလျော်သောကြောင့် သင်၏ ဆင်းမ်ကဒ်သည် ဤဖုန်းတွင် မသုံးနိုင်ပါ။ နောက်ထပ်သိလိုပါက Xiaomi ဝန်ဆောင်မှု စင်တာ သို့မဟုတ် သင်ဝယ်ယူသော ဆိုင်သို့ စုံစမ်းမေးမြန်းနိုင်ပါသည်။</string>
+    <string name="sim_lock_now_ais_title">ဆင်းမ်%1$d</string>
 </resources>

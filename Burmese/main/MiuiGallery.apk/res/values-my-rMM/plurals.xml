@@ -60,6 +60,9 @@
     <plurals name="cloud_storage_video_num">
         <item quantity="other">ဗီဒီယို %d ခု</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">ဖြတ်ညှပ်ကပ်ပုံတွင် ဓာတ်ပုံ ၁ပုံ -%dပုံ အထိ ထည့်နိုင်သည်</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">အများဆုံး ဓာတ်ပုံ %d ပုံ ရွေးနိုင်သည်</item>
     </plurals>

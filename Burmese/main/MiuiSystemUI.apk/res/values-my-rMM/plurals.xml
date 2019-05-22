@@ -6,9 +6,6 @@
     <plurals name="accessibility_recent_task_first_enter_tips">
         <item quantity="other">လတ်တလောအရာများကို ဖွင့်ထားသည်၊ အက်ပ် %dခု ရရှိနိုင်သည်။ ဖယ်ရှားရန် အပေါ်သို့ ဆွဲတင်ပါ၊ သော့ခတ်ရန် အောက်သို့ ဆွဲချပါ။</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sနာရီ %2$s"</item>
-    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">%1$sအပါအဝင်အက်ပ် &amp; %2$d ခု၏အသိပေးချက်ကို ကွယ်ဝှက်ထားသည်။</item>
     </plurals>

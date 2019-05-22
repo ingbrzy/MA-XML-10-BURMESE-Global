@@ -98,6 +98,12 @@
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d မိနစ် ပေါင်းထည့်မည်</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d apps are draining battery</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">လူ %1$d ယောက်မှ ဒေါင်းလုဒ်လုပ်ထားသည်</item>
     </plurals>
@@ -274,6 +280,9 @@
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%dရက် ဆက်တိုက် ဝင်ရောက်ခဲ့သည်</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">အင်္ဂါရပ် %d ခု</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +နောက်ထပ် အက္ခရာ %1$dလုံး</item>

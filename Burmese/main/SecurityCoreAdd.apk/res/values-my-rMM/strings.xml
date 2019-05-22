@@ -116,8 +116,8 @@
     <string name="closed">ပိတ်ရန်</string>
     <string name="changePassword">စကားဝှက် ပြောင်းပါ</string>
     <string name="passWordGuardSummary">စကားှက်တစ်ခုသုံးပြီး သော့ခတ်မျက်နှာပြင်မှနေ၍ ဒုတိယနေရာသို့ ဝင်ရောက်ပါ</string>
-    <string name="notificationTitle">အသိပေးချက်ရှိတ်ရှော့ကဒ်</string>
-    <string name="notificationSummary">အသိပေးချက်ရှိတ်မှနေ၍ နေရာများအား ပြောင်းလဲပါ</string>
+    <string name="notificationTitle">အသိပေးချက်ရှိတ် ရှော့ကဒ်</string>
+    <string name="notificationSummary">အသိပေးချက်ရှိတ်မှ နေရာများအား ပြောင်းလဲပါ</string>
     <string name="otherSettings">အခြားဆက်တင်များ</string>
     <string name="privacyContactsTitle">သီးသန့်မက်ဆေ့ချ်များနှင့် အဆက်အသွယ်များ</string>
     <string name="privacyContactsSummary">ဒုတိယနေရာတွင် သီးသန့်အိုင်တမ်များအား ပြပါ</string>
@@ -196,7 +196,7 @@
     <string name="settings_switch_shortcut_summary">ပထမနေရာတွင် ပင်မမျက်နှာပြင်ရှော့ကဒ်အား ပြသပါ</string>
     <string name="settings_space_data">ဒေတာ</string>
     <string name="settings_status_icon_title">ဒုတိယနေရာအိုင်ကွန်</string>
-    <string name="settings_status_icon_summary">အခြေနေပြဘားပေါ်တွင် ဒုတိယနေရာ အိုင်ကွန်အား ပြသပါ</string>
+    <string name="settings_status_icon_summary">အခြေအနေပြ ဘားတန်းတွင် ဒုတိယနေရာ အိုင်ကွန်အား ပြသပါ</string>
     <string name="settings_msg_add_shortcut_to_owner_space">ပထမနေရာသို့ ရှော့ကဒ် ပေါင်းထည့်ပြီးပြီ</string>
     <string name="settings_msg_add_shortcut_to_second_space">ဒုတိယနေရာတွင် ရှော့ကဒ် ဖန်တီးပြီးပြီ</string>
     <string name="settings_msg_remove_shortcut_from_owner_space">ပထမနေရာမှ ရှော့ကဒ်အား ဖယ်ရှားပြီးပြီ</string>
@@ -326,7 +326,7 @@
     <string name="other">အခြား</string>
     <string name="airspace_users_full">အလုပ်နေရာပိုမို၍ မဖန်တီးနိုင်ပါ</string>
     <string name="same_qr_code_title">%s ရှိပြီးသားဖြစ်ပါသည်</string>
-    <string name="same_qr_code_des">ဤအလုပ်နေရာ ရှိပြီးသားဖြစ်ပုံရသည်။ ပင်မမျက်နှာပြင်နှင့် အသိပေးချက်ရှိတ်ရှော့ကဒ်များကို သုံး၍ထိုနေရာသို့သွားနိုင်ပါသည်။ ယခုသွားမည်လား?</string>
+    <string name="same_qr_code_des">ဤအလုပ်နေရာ ရှိပြီးသားဖြစ်ပုံရသည်။ ပင်မမျက်နှာပြင်နှင့် အသိပေးချက်ရှိတ်ရှော့ကဒ်များကို သုံး၍ထိုနေရာသို့သွားနိုင်ပါသည်။ ယခု သွားမလား?</string>
     <string name="same_qr_code_enter_space">အလုပ်နေရာ သို့သွားပါ</string>
     <string name="same_qr_code_create_space">အခြားတစ်ခုဖန်တီးပါ</string>
     <string name="not_support_air_space">ဤအင်္ဂါရပ်ကို သင့်ဖုန်းတွင် မပံ့ပိုးပေးထားသေးပါ</string>

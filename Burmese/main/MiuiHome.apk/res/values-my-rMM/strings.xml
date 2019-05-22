@@ -367,7 +367,9 @@
     <string name="widget_global_search">ရှာ​ဖွေမည်</string>
     <string name="widget_quick_function">အမြန် လုပ်ဆောင်ချက်များ</string>
     <string name="widgets_preview_title">ဝစ်ဂျက်အား ပေါင်းထည့်ပါ</string>
-    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
-    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="activity_not_unlocked">ပိတ်ပြီးပြန်ဖွင့်သောအခါ ခဏစောင့်ရပါမည်</string>
+    <string name="default_folder_title_meitu">Meitu</string>
+    <string name="privacy_thumbnail_blur_summary">မကြာသေးမီကများမှ အစမ်းကြည့် မြင်ကွင်းများအား မှုန်ဝါးစေပါ</string>
+    <string name="privacy_thumbnail_blur_title">အစမ်းကြည့် မြင်ကွင်း အဝါး</string>
     <string name="system_shortcuts_more_operation">အက်ပ် အချက်အလက်</string>
 </resources>

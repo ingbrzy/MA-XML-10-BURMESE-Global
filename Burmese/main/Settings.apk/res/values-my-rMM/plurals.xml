@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sနာရီ %2$s"</item>
-    </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">အက်ပ် %dခုအတွက် ဘယ်တော့မှ မပိတ်ပါနှင့်</item>
     </plurals>

@@ -36,6 +36,7 @@
     <string name="accessibility_camera_button">ကင်မရာ</string>
     <string name="accessibility_carrier_network_change_mode">ဖုန်းလိုင်းကုမ္ပဏီ ကွန်ရက်အား ပြောင်းနေသည်။</string>
     <string name="accessibility_cast_name">%s သို့ ချိတ်ဆက်ပြီးပါပြီ။</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">မျက်နှာပြင်ကာစ်တင်အား ရပ်လိုက်သည်။</string>
     <string name="accessibility_cell_data">မိုဘိုင်းဒေတာ</string>
     <string name="accessibility_cell_data_off">မိုဘိုင်းဒေတာ ပိတ်ထားသည်</string>
@@ -265,8 +266,6 @@
     <string name="always_use_accessory">ဤUS​B တွဲဖက်ပစ္စည်းအား မူလပုံစံအဖြစ် အသုံးပြုပါ</string>
     <string name="always_use_device">ဤUSB စက်အား မူလပုံစံအဖြစ် အသုံးပြုပါ</string>
     <string name="animator_duration_scale_title">အန်နီမေးရှင်းကြာချိန် စကေး</string>
-    <string name="aod_lock_screen_date">MMMM d၊ EE</string>
-    <string name="aod_lock_screen_date_12">MMMM d၊ EE</string>
     <string name="apn_settings_not_available">ဤသုံးစွဲသူအတွက် ဝင်ရောက်ပွိုင့်အမည်ဆက်တင်များ မရနိုင်ပါ</string>
     <string name="app_info">အက်ပ် အချက်အလက်</string>
     <string name="app_label">စနစ်UI</string>
@@ -458,7 +457,7 @@
     <string name="clock">နာရီ</string>
     <string name="clock_city_name_local">ဒေသတွင်း</string>
     <string name="clock_seconds">နာရီ စက္ကန့်အား ပြပါ</string>
-    <string name="clock_seconds_desc">နာရီ စက္ကန့်အား အခြေအနေပြဘားတန်းတွင် ပြပါ။ ဘက်ထရီသက်တမ်းကို ထိခိုက်နိုင်သည်။</string>
+    <string name="clock_seconds_desc">နာရီ စက္ကန့်အား အခြေအနေပြ ဘားတန်းတွင် ပြပါ။ ဘက်ထရီသက်တမ်းကို ထိခိုက်နိုင်သည်။</string>
     <string name="compat_mode_off">မျက်နှာပြင်အပြည့် ဖြစ်ရန် ဆွဲဆန့်ပါ</string>
     <string name="compat_mode_on">မျက်နှာပြင်အပြည့် ဖြစ်ရန် ချုံ့ပါ</string>
     <string name="confirm">နားလည်ပါပြီ</string>
@@ -672,7 +671,6 @@
     <string name="face_unlock_rotated_right">သင့်ခေါင်းကို ဘယ်ဘက်သို့ လှည့်ပါ</string>
     <string name="face_unlock_sc_status">ကင်မရာဖွင့်ရန် မျက်နှာပြင်အား အောက်သို့ ဆွဲပါ</string>
     <string name="face_unlock_stay_away_screen">မျက်နှာပြင်မှ ၂၅-၄၀ စင်တီမီတာလောက် ခွာပါ</string>
-    <string name="face_unlock_success">မျက်နှာဒေတာအား အတည်ပြုပြီးပါပြီ</string>
     <string name="face_unlock_success_show_message_dialog_msg">သော့ခတ်မျက်နှာပြင်တွင် အသိပေးချက်များအား ကြည့်နိုင်ရန် ခွင့်ပြုပါ။</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">မလိုအပ်ပါ</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">ခွင့်ပြုမည်</string>
@@ -861,7 +859,10 @@
     <string name="keyguard_charged">အားသွင်းပြီးပြီ</string>
     <string name="keyguard_charging_back_to_lockscreen">သော့ခတ်မျက်နှာပြင်သို့ ပြန်သွားပါ</string>
     <string name="keyguard_charging_info_battery_used_time_text">သုံးစွဲချိန်</string>
-    <string name="keyguard_charging_info_click_to_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">အားကုန်သွားခဲ့သော</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
@@ -873,6 +874,9 @@
     <string name="keyguard_charging_info_tip_text4">အပူချိန်လွန်ကဲခြင်းကို ရှောင်ရှားရန် အားသွင်းနေစဉ် စက်ကို ခဏခဏမသုံးပါနှင့်။</string>
     <string name="keyguard_charging_info_tip_text5">ဘက်ထရီသည် ပုံမှန်ထက် ပူသောအခါ အားသွင်းရာတွင် အချိန်ပိုကြာနိုင်သည်။</string>
     <string name="keyguard_charging_info_tip_text6">စက်ကို အအေးခံရန် မျက်နှာပြင်ကို ပိတ်ပြီး စက်ကို ချထားလိုက်ပါ။</string>
+    <string name="keyguard_charging_normal_and_level_tip">အားသွင်းနေသည် %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">အမြန် အားသွင်းနေသည် %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">တစ်ဟုန်ထိုး အားသွင်းနေသည် %d%%</string>
     <string name="keyguard_indication_charging_time">အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_charging_time_fast">အမြန် အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
     <string name="keyguard_indication_charging_time_slowly">နှေးကွေးစွာ အားသွင်းနေသည် (အားပြည့်ရန် %s လိုသေးသည်)</string>
@@ -886,6 +890,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ် ပျောက်နေသည် သို့မဟုတ် ဖတ်၍မရပါ။ ဆင်းမ်ကဒ် တစ်ခု ထည့်သွင်းပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက် လော့ခ်ကျနေသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">PIN ကုဒ် ရိုက်ထည့်ပါ</string>
@@ -969,6 +974,7 @@
     <string name="left_keycode">ဘယ်ကီးကုဒ်</string>
     <string name="left_nav_bar_button_type">အခြား ဘယ်ခလုတ် အမျိုးအစား</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက်ကို ပြောင်းလဲရန် သို့မဟုတ် ဖယ်ရှားရန် ထိနှိပ်ပါ</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မ’သတ်မှတ်ရသေးပါ</string>
     <string name="local_backup_password_title">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်းစကားဝှက်</string>
@@ -985,9 +991,10 @@ MMMM d"</string>
     <string name="lock_screen_magazine_default_content">လှပသော နောက်ခံပုံများ အလိုအလျောက် ပြောင်းမည်</string>
     <string name="lock_screen_magazine_default_title">နောက်ခံပုံ လှည့်ပြခြင်း</string>
     <string name="lock_screen_magazine_global_button_text">နောက်ထပ်</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">နောက်ထပ်</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">ဝင်ရောက်မည်</string>
     <string name="lock_screen_no_sim_card_emergency_only">အရေးပေါ်ခေါ်ဆိုမှုများသာ</string>
     <string name="lock_screen_no_sim_card_no_service">ဝန်ဆောင်မှု မရှိပါ</string>
-    <string name="lock_wallpaper_enter">အန်တား</string>
     <string name="lockscreen_access_pattern_area">သော့ဖွင့်ပုံစံ ဧရိယာ။</string>
     <string name="lockscreen_access_pattern_cell_added">ဆယ်လ် ပေါင်းထည့်ပြီးပြီ</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">ဆယ်လ် %1$s ပေါင်းထည့်ပြီးပြီ</string>
@@ -1038,6 +1045,7 @@ MMMM d"</string>
     <string name="miui_guide_dialog_message">မီဒီယာအသံများ(သီချင်း၊ ဗီဒီယိုစသည်တို့)အား အသံတိတ်မုဒ်တွင် ဖွင့်နိုင်သည်။ ဆက်တင်သို့သွား၍ ပြောင်းနိုင်ပါသည်။</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ဘလူးတုသ်စက်ဖြင့် လော့ခ်ဖြည်လိုက်သည်</string>
     <string name="miui_ringer_count_down">အချိန်သတ်မှတ်မည်</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">အသံတိတ်</string>
     <string name="miui_ringer_standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
     <string name="miui_ringer_total">မနှောင့်ယှက်ပါနှင့်</string>
@@ -1065,12 +1073,14 @@ MMMM d"</string>
 
 အသေးစိတ် သိလိုပါက စီမံအုပ်ချုပ်သူထံ ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်ရသော အထောက်အထားများကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာအား ဤစက်ပေါ်တွင် တပ်ဆင်ထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_do_body">အုပ်ချုပ်သူသည် ဆက်တင်၊ သက်ဆိုင်သော ဝင်ရောက်မှု၊ အက်ပ်များ၊ သင်၏စက်နှင့်အတူတွဲထားသော ဒေတာ၊ သင့်စက်၏တည်နေရာအချက်လက် စသည်တို့ကို စောင့်ကြည့်ပြီး စီမံခန့်ခွဲနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">သင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_do_header_generic">သင်၏စက်အား %1$sမှ စီမံခန့်ခွဲသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$sသည် %2$sဖြင့် သင်၏စက်ကို စီမံသည်။</string>
     <string name="monitoring_description_do_learn_more">နောက်ထပ် လေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏အဖွဲ့အစည်းမှ သင့်အလုပ် ပရိုဖိုင်တွင် အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာကို ထည့်သွင်းထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ် ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ကို သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်။
@@ -1102,6 +1112,7 @@ MMMM d"</string>
 
 သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော VPN တစ်ခုနှင့်လည်း ချိတ်ဆက်ထားသည်။"</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်ကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက် မှတ်တမ်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1116,6 +1127,7 @@ MMMM d"</string>
     <string name="nav_guide_message">ဆော့ဖ်ခလုတ်များအား ဝှက်/ဖော်ရန် လက်ဟန်များအား အသုံးပြုပါ။</string>
     <string name="nav_guide_ok">သတ်မှတ်</string>
     <string name="nav_guide_title">ဆော့ဖ်ခလုတ်များ ကွယ်ဝှက်ပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိပါ</string>
     <string name="no_multi_window_app">မျက်နှာပြင်ခွဲခြင်းလုပ်နိုင်သည့် အက်ပ်မရှိသေးပါ။</string>
     <string name="no_notification_tips">အသိပေးချက်များ မရှိပါ</string>
@@ -1152,7 +1164,7 @@ MMMM d"</string>
     <string name="notification_low_battery_action_btn">ဖွင့်</string>
     <string name="notification_low_battery_need_charge">ဘက်ထရီအားနည်းနေသည်။ သင့်စက်အား အားသွင်းပါ။</string>
     <string name="notification_low_battery_open_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
-    <string name="notification_low_battery_title">Less than %d%% of battery remaining</string>
+    <string name="notification_low_battery_title">လက်ကျန် ဘက်ထရီ %d%% ထက် နည်းနေပြီ</string>
     <string name="notification_manager">အကြောင်းကြားစာများ စီမံပါ</string>
     <string name="notification_manager_des">အသိပေးချက်များအား စစ်ထုတ်ခြင်း နှင့် စီမံခြင်း</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
@@ -1253,7 +1265,7 @@ MMMM d"</string>
 - မျက်နှာပြင်အပြည့်မုဒ်တွင် မပြပါ 
 - ဘယ်တော့မှ အရင်မပြပါ 
 - အသံနှင့် တုန်ခါမှု မရှိပါ 
-- သော့ခတ်မျက်နှာပြင်နှင့် အခြေအနေပြဘားတန်းတွင် မပြပါ 
+- သော့ခတ်မျက်နှာပြင်နှင့် အခြေအနေပြ ဘားတန်းတွင် မပြပါ 
 - အသိပေးချက်စာရင်း၏ အောက်ဆုံးတွင် ပြမည် 
 
 "<b>အဆင့် ၀</b>" 
@@ -1279,6 +1291,7 @@ MMMM d"</string>
     <string name="private_dns_mode_provider">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည်</string>
     <string name="private_dns_mode_provider_failure">မချိတ်ဆက်နိုင်ခဲ့ပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည် ရိုက်ထည့်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ပရိုဖိုင်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="prompt_danger">အန္တရာယ်</string>
     <string name="prompt_detecting">ရှာဖွေနေသည်</string>
@@ -1507,7 +1520,7 @@ MMMM d"</string>
     <string name="show_all_anrs">ANR အားလုံး ပြပါ</string>
     <string name="show_all_anrs_summary">နောက်ခံအက်ပ်များအတွက် \"အက်ပ် မတုံ့ပြန်ပါ\" ဟူသော စာသားကို ပြပါ</string>
     <string name="show_battery_percentage">ဘက်ထရီ ရာခိုင်နှုန်းအား ပြပါ</string>
-    <string name="show_battery_percentage_summary">အားမသွင်းသောအခါ အခြေအနေပြဘားတန်း အိုင်ကွန်တွင် ဘက်ထရီ ရာခိုင်နှုန်းအား ပြပါ</string>
+    <string name="show_battery_percentage_summary">အားမသွင်းသောအခါ အခြေအနေပြ ဘားတန်း အိုင်ကွန်တွင် ဘက်ထရီ ရာခိုင်နှုန်းအား ပြပါ</string>
     <string name="show_brightness">အမြန်ဆက်တင်တွင် တောက်ပမှု ပြပါ</string>
     <string name="show_demo_mode">အစမ်းမုဒ် ပြသပါ</string>
     <string name="show_hw_layers_updates">ဟာ့ဒ်ဝဲလ်အဆင့် အပ်ဒိတ်များ ပြပါ</string>
@@ -1542,7 +1555,7 @@ MMMM d"</string>
 သည်"</string>
     <string name="standby_bucket_summary">အက်ပ် စတန်းဘိုင် အခြေအနေ-%s</string>
     <string name="start_dreams">မျက်နှာပြင် စောင့်ရှောက်ရေး</string>
-    <string name="status_bar">အခြေအနေပြဘားတန်း</string>
+    <string name="status_bar">အခြေအနေပြ ဘားတန်း</string>
     <string name="status_bar_accessibility_dismiss_recents">မကြာသေးမီကအက်ပ်များ ထုတ်ပစ်မည်။</string>
     <string name="status_bar_airplane">လေယာဉ်မုဒ်</string>
     <string name="status_bar_alarm">နှိုးစက်</string>
@@ -1854,6 +1867,7 @@ MMM d"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">ဆယ့်ခြောက်လီစနစ်</string>
     <string name="wapi_yes">ဟုတ်ပါသည်</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">ချိတ်ဆက်သောပွိုင့် ယာယီ ပြည့်သွားပြီ</string>
     <string name="wifi_auto_sel_wapi_cert">အလိုအလျောက် ရွေးချယ်ပါ</string>
@@ -1887,12 +1901,14 @@ MMM d"</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
