@@ -32,17 +32,17 @@
     <string name="already_voted_toast">သင်ယနေ့အတွက် မဲပေးပြီးသွားပြီ</string>
     <string name="app_name">မိုးလေဝသ</string>
     <string name="aqi_data_source">Colorful Clouds မှ ပံ့ပိုးသည်</string>
-    <string name="aqi_desc">လေအရည်အသွေးအညွှန်း</string>
+    <string name="aqi_desc">လေထုအရည်အသွေး အညွှန်း</string>
     <string name="aqi_detail_24_hours">24−နာရီ ခန့်မှန်းချက်</string>
     <string name="aqi_detail_5_days">၅ ရက်အတွက် ခန့်မှန်းချက်</string>
     <string name="aqi_detail_co_unit">ယူနစ်- mg/m³</string>
-    <string name="aqi_detail_title">လေအရည်အသွေးအညွှန်း</string>
+    <string name="aqi_detail_title">လေထုအရည်အသွေး အညွှန်း</string>
     <string name="aqi_detail_unit">ယူနစ်−µg/m³</string>
     <string name="aqi_fifteen_dates_time_format">d/M</string>
     <string name="aqi_first_sub_desc_locate">စခန်း- %1$s (%2$s မှ)</string>
     <string name="aqi_first_sub_desc_no_locate">%1$s ၏ ပျှမ်းမျှ AQI</string>
     <string name="aqi_publish_time">မွမ်းမံထားသော %1$s</string>
-    <string name="aqi_quality_ambient_air_quality">အနီးနားရှိ လေအရည်အသွေး</string>
+    <string name="aqi_quality_ambient_air_quality">အနီးအနားရှိ လေထုအရည်အသွေး</string>
     <string name="aqi_quality_co_desc">ကာဗွန်မိုနောက်ဆိုက်</string>
     <string name="aqi_quality_detail_15_days">၁၅ ရက်အတွက် ခန့်မှန်းချက်</string>
     <string name="aqi_quality_detail_24_hours">၂၄ နာရီအတွက် ခန့်မှန်းချက်</string>
@@ -96,10 +96,12 @@
     <string name="daily_forecast_add_city_message">အသေးစိတ်ခန့်မှန်းချက်အတွက် %1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်။</string>
     <string name="daily_forecast_add_city_title">%1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်</string>
     <string name="daily_forecast_detail_date">M/d</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"မိုးလေဝသ အချက်အလက်ရယူ၍ မရပါ
 အောက်သို့ဆွဲပြီး ရီဖရှက်ရ်လုပ်ပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="data_provided_by">ဒေတာ ပံ့ပိုးသူ</string>
     <string name="edit_city">မြို့များကို စီမံမည်</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="empty_view_net_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="empty_view_refresh">ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -118,6 +120,8 @@
     <string name="first_start_network_title">အင်တာနက်နှင့် တည်နေရာဝင်ရောက်နိုင်မှု</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ယခု</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="hourly_forecast_title_24_hours_desc">၂၄နာရီအတွက် ခန့်မှန်းချက်</string>
     <string name="hourly_forecast_title_hourly_desc">နာရီအလိုက် ခန့်မှန်းချက်</string>
@@ -133,9 +137,11 @@
     <string name="indices_title_feel">တကယ့် ခံစားမှု</string>
     <string name="indices_title_pressure">လေထုဖိအား</string>
     <string name="install">ထည့်သွင်းမည်</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="international_details_title">အသေးစိတ်များ</string>
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">လေ</string>
     <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
     <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
@@ -202,7 +208,7 @@
     <string name="rainfall_settings_title">မိုးရေချိန်</string>
     <string name="real_time_sunrise">နေထွက်ချိန် %1$s</string>
     <string name="real_time_sunset">နေဝင်ချိန် %1$s</string>
-    <string name="realtime_aqi_title">လေအရည်အသွေးအညွှန်း</string>
+    <string name="realtime_aqi_title">လေထုအရည်အသွေး အညွှန်း</string>
     <string name="realtime_humidity_title">စိုထိုင်းဆ</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">လေ</string>
@@ -219,8 +225,11 @@
     <string name="share_menu_title">မျှဝေပါ</string>
     <string name="share_subject">မျှဝေပါ</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
+    <string name="shortcut_short_label_24_hour_forecast">၂၄ နာရီအတွက် ခန့်မှန်းချက်</string>
+    <string name="shortcut_short_label_recent_forecast">မိုးလေဝသ ကြည့်ရန်</string>
     <string name="some_where_on_earth">ကမ္ဘာပေါ်ရှိတစ်နေရာရာ</string>
     <string name="sunrise">နေထွက်ချိန်</string>
     <string name="sunset">နေဝင်ဆည်းဆာ</string>
@@ -238,6 +247,9 @@
     <string name="traffic_control_tomorrow_numbers">မနက်ဖြန်−%1$s</string>
     <string name="traffic_controls">လမ်းနေရာအချိုးကျခြင်း</string>
     <string name="translate_notification_info">နောက်ခံတွင် ဘာသာပြန်နေသည်…</string>
+    <string name="tts_best_aqi">အကောင်းဆုံး လေထုအရည်အသွေး</string>
+    <string name="tts_hour_weather_date_time">%1$s နေ့ %2$s မှ %3$s နေ့ %4$s အထိ</string>
+    <string name="tts_max_wind_power">အပြင်းဆုံး လေတိုက်နှုန်း</string>
     <string name="tts_report_aqi" />
     <string name="tts_report_defautl_head" />
     <string name="tts_report_split" />
@@ -266,12 +278,8 @@
     <string name="weather_service_channel_name">နောက်ခံ ဝန်ဆောင်မှုများ</string>
     <string name="wind_direction_no_data">လေ</string>
     <string name="wind_unit">%1$skm/h</string>
-    <string name="xiaomi_weather_description_content">မိုးလေဝသသည် တိကျမှန်ကန်သောရာသီဥတုအချက်အလက်များအား သင့်ထံပေးပို့နိုင်ပါသည်။ ဤအက်ပ်မရှိပါက အခြေနေပြဘားနှင့်အိမ်မျက်နှာပြင်မိုးလေဝသဝစ်ဂတ်သည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
+    <string name="xiaomi_weather_description_content">မိုးလေဝသသည် တိကျမှန်ကန်သောရာသီဥတုအချက်အလက်များအား သင့်ထံပေးပို့နိုင်ပါသည်။ ဤအက်ပ်မရှိပါက အခြေအနေပြ ဘားတန်းနှင့် ပင်မမျက်နှာပြင်ရှိ ရာသီဥတုဝစ်ဂတ်သည် ပုံမှန်အလုပ်လုပ်တော့မည် မဟုတ်ပါ။အဆိုပါ အင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင် ဆုံးဖြတ်လိုက်သည်။</string>
     <string name="xiaomi_weather_description_title">မိုးလေဝသအကြောင်း</string>
     <string name="yes_vote_ratio">ရရှိမှု %1$s%%</string>
     <string name="your_location">သင်၏တည်နေရာ</string>
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_low_fahrenheit" />
 </resources>

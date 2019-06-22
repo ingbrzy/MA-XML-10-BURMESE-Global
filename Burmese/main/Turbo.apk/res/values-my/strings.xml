@@ -42,6 +42,14 @@
     <string name="common_google_play_services_update_text">Google Play ဝန်ဆောင်မှုများအား အပ်ဒိတ်မလုပ်ပါက %1$s အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
     <string name="common_google_play_services_update_title">Google Play ဝန်ဆောင်မှုများကို အပ်ဒိတ်လုပ်ရန်</string>
     <string name="common_google_play_services_updating_text">Google Play ဝန်ဆောင်မှုများကို လက်ရှိအပ်ဒိတ်လုပ်နေသောကြောင့် %1$s ကိုဖွင့်၍ရမည်မဟုတ်ပါ။</string>
+    <string name="early_warning_android_system">Android စနစ်</string>
+    <string name="early_warning_feedback_action">အကြံပြုချက်</string>
+    <string name="early_warning_feedback_body">သင့်အကြံပြုချက်ကို ဤနေရာတွင် ထည့်ပါ</string>
+    <string name="early_warning_feedback_chooser_text">အီးမေးလ်အက်ပ် ရွေးပါ</string>
+    <string name="early_warning_feedback_subject">အစောပိုင်းသတိပေး အကြောင်းကြားချက်ဆိုင်ရာ အကြံပြုချက်</string>
+    <string name="early_warning_notification_channel_name">ဘက်ထရီသတိပေးချက်များ</string>
+    <string name="early_warning_notification_text">၎င်းသည် သင်အားသွင်းလေ့ရှိသည့် အချိန်မတိုင်မီ ဖြစ်ပါသည်</string>
+    <string name="early_warning_notification_title">%1$s တွင် ဘက်ထရီကုန်သွားနိုင်သည်</string>
     <string name="icon_content_description">ဒိုင်ယာလော့ခ် သင်္ကေတ</string>
     <string name="password_toggle_content_description">စကားဝှက်ကို ပြရန်</string>
     <string name="ssb_clear_data_activity_name">အလိုက်သင့်တောက်ပမှုကို ပြင်မလား။</string>

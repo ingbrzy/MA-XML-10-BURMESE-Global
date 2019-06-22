@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">စက် %1$d လုံးတွင် အသုံးချထားသည်</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">မှတ်ချက် %d ခု</item>
     </plurals>

@@ -50,6 +50,8 @@
     <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -100,7 +102,7 @@
     <string name="restore_task_cancelling">ပယ်ဖျက်နေသည်…</string>
     <string name="remove_task_in_process">ဖယ်ရှားနေသည်…</string>
     <string name="remove_task_unfinished">ဖယ်ရှားမှု မပြီးဆုံးသေးပါ</string>
-    <string name="back_up_task_unfinished">အရန်သိမ်းခြင်းလုပ်နေမှု မပြီးသေးပါ</string>
+    <string name="back_up_task_unfinished">အရန်သိမ်း၍ မရပါ</string>
     <string name="about_to_recover">ခဏစောင့်ပါ…</string>
     <string name="success_open_cloudbackup">ပင်မမျက်နှာပြင် အက်ပ်များအတွက် အရန်သိမ်းအား ဖွင့်ထားသည်</string>
     <string name="as_new_device">ယခင် ပင်မမျက်နှာပြင်နှင့် ဆက်တင်များအား အစားထိုးပါ</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="loading_user_backup">သုံးစွဲသူ အရန်သိမ်းခြင်းများကို ရယူနေသည်…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">အရွယ်အစား တွက်ချက်နေသည်…</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
@@ -215,4 +218,10 @@
     <string name="provision_background_restore_more_data">နောက်ထပ် အိုင်တမ်များအား နောက်ခံတွင် ပြန်လည်ရယူမည်</string>
     <string name="selected">ရွေးချယ်ထားသော</string>
     <string name="unselected">ရွေးမထားသော</string>
+    <string name="backup_failed_reason_network_error">ကွန်ရက် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="backup_failed_reason_disk_space_not_enough">နေရာလွတ် မလုံလောက်ပါ။ သိုလှောင်ခန်းအား ဦးစွာ ရှင်းလင်းပါ။</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Mi ကလောက်တွင် နေရာလွတ် မလုံလောက်ပါ။ Mi Cloud မန်ဘာ ဝယ်ပါ သို့မဟုတ် သိုလှောင်ခန်းအား ဦးစွာ ရှင်းလင်းပါ။</string>
+    <string name="restore_task_unfinished">ပြန်လည်ရယူ၍ မရပါ</string>
+    <string name="restore_failed_reason_network_error">ကွန်ရက် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="restore_failed_reason_disk_space_not_enough">နေရာလွတ် မလုံလောက်ပါ။ သိုလှောင်ခန်းအား ဦးစွာ ရှင်းလင်းပါ။</string>
 </resources>

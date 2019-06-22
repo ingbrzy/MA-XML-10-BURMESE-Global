@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="abc_action_bar_home_description">မူလနေရာကို သွားရန်</string>
+    <string name="abc_action_bar_home_description_format">%1$s၊ %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s ၊ %2$s ၊ %3$s</string>
+    <string name="abc_action_bar_up_description">အပေါ်သို့သွားရန်</string>
+    <string name="abc_action_menu_overflow_description">ပိုမိုရွေးချယ်စရာများ</string>
+    <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
+    <string name="abc_activity_chooser_view_see_all">အားလုံးကို ကြည့်ရန်</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုခုကို ရွေးချယ်ပါ</string>
+    <string name="abc_capital_off">ပိတ်</string>
+    <string name="abc_capital_on">ဖွင့်</string>
+    <string name="abc_search_hint">ရှာဖွေပါ...</string>
+    <string name="abc_searchview_description_clear">ရှာစရာ အချက်အလက်များ ဖယ်ရှားရန်</string>
+    <string name="abc_searchview_description_query">ရှာစရာ အချက်အလက်နေရာ</string>
+    <string name="abc_searchview_description_search">ရှာဖွေရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို အတည်ပြုရန်</string>
+    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာဖွေခြင်း</string>
+    <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
+    <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
+    <string name="search_menu_title">ရှာဖွေပါ</string>
     <string name="passport_account_label">Mi အကောင့်</string>
     <string name="passport_notification_title">%1$s သို့ ဆိုင်းအင်ဝင်ချိန် မှားယွင်းမှုဖြစ်ပေါ်သည်</string>
-    <string name="passport_login_prompt">Mi အကောင့်တစ်ခု။ Mi ဝန်ဆောင်မှုအားလုံး။</string>
+    <string name="passport_login_prompt">Mi ဝန်ဆောင်မှု အားလုံး၊ Mi အကောင့် တစ်ခု</string>
     <string name="passport_login_using_other_ways">ဆိုင်းအင်ဝင်ရန် အခြားနည်းလမ်းများ</string>
     <string name="passport_register_using_other_ways">အကောင့်ဖန်တီးရန် အခြားနည်းလမ်းများ</string>
     <string name="passport_login_title">သင်၏ Mi အကောင့်သို့ ဝင်ပါ။</string>
@@ -220,6 +241,10 @@
     <string name="passport_license_info_open">အသေးစိတ်များ</string>
     <string name="passport_license_info_collapse">ချုံ့မည်</string>
     <string name="passport_first_login_prompt">ပထမအကြိမ် ဆိုင်းအင်ဝင်သောအခါ Mi အကောင့်အား အလိုအလျောက် ဖန်တီးမည်။</string>
+    <string name="passport_wx_bind_account_limit">ယခု အကောင့် ဖန်တီး၍ မရပါ။ အခြား ဆိုင်းအင်ဝင်သည့် နည်းလမ်းဖြင့် ကြိုးစားကြည့်ပါ။</string>
+    <string name="facebook_app_id">2263965750590514</string>
+    <string name="fb_login_protocol_scheme">fb2263965750590514</string>
+    <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="search_app_name">Mi အကောင့်</string>
     <string name="search_mi_account">Mi အကောင့်</string>
     <string name="search_mi_account_key_words">Mi Cloud၊အကောင့်ဆက်တင်၊Mi PayMi Pay၊အချက်အလက်၊ဆိုင်းအောက်</string>
@@ -243,7 +268,6 @@
     <string name="removing_account">ဆိုင်းအောက်ထွက်ပါ…</string>
     <string name="delete_bank_card_title">သတိပြုရန်</string>
     <string name="delete_bank_card_message">ဆိုင်းအောက်ထွက်ပြီးနောက် Mi Pay သည် ဘဏ်ကဒ်နှင့် NFC ကဒ်များအား ဖျက်ပစ်လိမ့်မည်။</string>
-    <string name="bind_settings">အကောင့်များ</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Sina Weibo အကောင့်ကို ချိတ်ဆက်ပါ</string>
     <string name="bind_weibo_description">Sina Weibo ထံမှ သင့်သူငယ်ချင်းများကို ပေါင်းထည့်ပါ</string>

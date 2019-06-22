@@ -9,6 +9,9 @@
     <string name="button_queue_for_wifi">စောင့်ပါ</string>
     <string name="button_start_now">ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="call_record">အသံဖမ်းထားသော ခေါ်ဖုန်းများ</string>
+    <string name="call_record_list_group_all">အားလုံး</string>
+    <string name="call_record_list_group_connected">ချိတ်ဆက်ထားသော</string>
+    <string name="call_record_list_group_unconnected">ချိတ်ဆက်မထားပါ</string>
     <string name="clear_records">ဆင့်ခ်မှတ်တမ်းများအား ဖျက်ပါ</string>
     <string name="cloud_record_open">မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်လုပ်နေ</string>
     <string name="cloud_record_tip">မှတ်တမ်းတင်ထားမှုများအား Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
@@ -133,13 +136,14 @@
     <string name="preference_enable_earpiece_summary">ပြင်ပ ပြန်ဖွင့်ခြင်းအလုပ်အတွက် အသံလက်ခံကိရိယာ၏ စပီကာကို သုံးပါ</string>
     <string name="preference_enable_earpiece_title">အော်ဒီယိုဖွင့်ရန် အသံလက်ခံကိရိယာကို သုံးပါ</string>
     <string name="preference_led_indicator">သော့အိမ်မျက်နှာပြင် အကြောင်းကြားစာများ</string>
-    <string name="preference_led_indicator_prompt">အသံဖမ်းယူနေစဥ်၊ အခြေအနေပြဘား၌ ပြစေပြီး၊ သော့အိမ်မျက်နှာပြင်က အကြောင်းကြားစာမီးပွင့်ကို တန့်ရပ်ပါ</string>
+    <string name="preference_led_indicator_prompt">အသံဖမ်းယူနေစဥ် အခြေအနေပြ ဘားတန်နှင့် အသိပေးချက် အလင်းအား ပြပါ</string>
     <string name="preference_online_orders">အွန်လိုင်း အော်ဒါ</string>
     <string name="preference_recog_faqs">အွန်လိုင်း စာသား ကူးပြောင်းခြင်းနှင့် ပတ်သက်၍ မေးလေ့ရှိသော မေးခွန်းများ</string>
     <string name="preference_recog_terms">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="preference_record_scenes_dialog_title">အသံဖမ်းယူမှု အမျိုးအစားကို ရွေးပါ</string>
     <string name="preference_scenes">အသံဖမ်းယူမှု အမျိုးအစား</string>
     <string name="preference_silent_mode">အသံဖမ်းယူနေစဥ်၊ အသံစက်ကို အသံဖျောက်ထားပါ</string>
+    <string name="preference_status_bar_indicator_prompt">အသံဖမ်းယူနေစဥ် အခြေအနေပြ ဘားတန်းအား ပြပါ</string>
     <string name="preference_tip_rename">အသံဖမ်းယူထားသည်များကို ကိုယ်တိုင် အမည်ပြန်ပေးပါ</string>
     <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="recognition_error_cancel">ပယ်ဖျက်ခဲ့သည်</string>
@@ -223,7 +227,7 @@
     <string name="search_app">ရီကော်တာ</string>
     <string name="search_enable_earpiece_title">အော်ဒီယိုဖွင့်ရန် အသံလက်ခံကိရိယာကို သုံးပါ</string>
     <string name="search_led_indicator">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
-    <string name="search_led_indicator_prompt">အသံဖမ်းယူနေစဥ်၊ အခြေအနေပြဘား၌ ပြစေပြီး၊ သော့အိမ်မျက်နှာပြင်က အကြောင်းကြားစာမီးပွင့်ကို တန့်ရပ်ပါ</string>
+    <string name="search_led_indicator_prompt">အသံဖမ်းယူနေစဥ်၊ အခြေအနေပြ ဘားတန်တွင် ပြစေပြီး၊ သော့ခတ်မျက်နှာပြင်မှ အကြောင်းကြားစာမီးပွင့်ကို တန့်ရပ်ပါ</string>
     <string name="search_quliaty_title">အသံဖမ်း အရည်အသွေး</string>
     <string name="search_scenes">အသံဖမ်းယူမှု အမျိုးအစား</string>
     <string name="search_silent_mode">အသံဖမ်းယူနေစဥ်၊ အသံစက်ကို အသံဖျောက်ထားပါ</string>
@@ -231,6 +235,9 @@
     <string name="service_instructions">iflyrec.com အကြောင်း</string>
     <string name="share">မျှဝေခြင်း</string>
     <string name="share_dialog_title">သုံးပြီး မျှဝေပါ</string>
+    <string name="shortcut_records">အသံဖမ်းယူမှုများ</string>
+    <string name="shortcut_start_record">အသံဖမ်းယူခြင်းကို စတင်ပါ</string>
+    <string name="shortcut_stop_record">အသံဖမ်းယူခြင်းကို ရပ်ဆိုင်းပါ</string>
     <string name="sound_recorder_settings">ဆက်တင်များ</string>
     <string name="speech_recognition_complete">စာသားသို့ ကူးပြောင်းပြီးပါပြီ</string>
     <string name="speech_recognition_running_tip">"လုပ်ဆောင်နေသည် "</string>

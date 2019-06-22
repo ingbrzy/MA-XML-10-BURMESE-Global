@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">ဖြုတ်ချမည်</string>
     <string name="pref_category_title_cleanup_white_list">ခြွင်းချက်များ</string>
     <string name="pref_title_cleanup_white_list">ခြွင်းချက်များ</string>
-    <string name="pref_summary_cleanup_white_list">ရွေးထားသော အက်ပ်များကို သန့်ရှင်းလုပ်သည့်အထဲ မပါအောင် တားဆီးပါ</string>
+    <string name="pref_summary_cleanup_white_list">ရွေးထားသော ဖိုင်များအား ရှင်းလင်းခြင်းတွင် မပါအောင် တားဆီးမည်</string>
     <string name="pref_category_title_auto_update_cleanup_db">နောက်ထပ် ဆက်တင်များ</string>
     <string name="pref_title_auto_update_cleanup_db">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="pref_summary_auto_update_cleanup_db">နောက်ဆုံးအသစ်မွမ်းမံ- %s</string>
@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -185,8 +186,6 @@
     <string name="toast_backup_uninstall_success">အရန်သိမ်းခြင်းနှင့် ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
     <string name="activity_title_cache_data">အက်ပ်ဒေတာ</string>
     <string name="deepclean_cache_header_left">ဒေတာဖိုင်များ − %d</string>
-    <string name="notification_title_of_garbage_cleanup">အမှိုက်ဖိုင် %s</string>
-    <string name="notification_summary_of_garbage_cleanup">နေရာလွတ်ရှင်းရန် ထိနှိပ်ပါ။</string>
     <string name="notification_summary_after_auto_cleanup">%s ကို ရှင်းပစ်ထားသည်။</string>
     <string name="toast_uninstall_success">ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
     <string name="toast_app_no_residual_on_sdcard">အက်ပ်သည် မည်သည့်ဖိုင်များကိုမှ သင်၏ SD ကဒ်၌ သိုလှောင်ထားခြင်း မရှိပါ</string>
@@ -299,13 +298,14 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">ထည့်သွင်းနေသည်</string>
     <string name="start_install">ယခု ထည့်သွင်းမည်</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
     <string name="clear_bigfiles">ကြီးမားသောဖိုင်များ၊တူနေသောဓါတ်ပုံများနှင့် အခြားအတားအဆီး အိုင်တမ်များအား ဖျက်ပစ်ပါ</string>
     <string name="clear_immediately">ယခုရှင်းလင်း</string>
-    <string name="clear_safe_notify">အသိပေးချက်ရှိတ်ဝီဂျက်</string>
-    <string name="nb_clear_set">ယာယီမှတ်ဉာဏ်အားရှင်းလင်းမှု၊ ဘက်ထရီဒေတာကြည့်မှုနှင့် ဘလော့စာရင်းများအား အသိပေးချက်ဘားထဲတွင် ကြည့်ပါ</string>
+    <string name="clear_safe_notify">အသိပေးချက်ရှိတ် ဝစ်ဂတ်</string>
+    <string name="nb_clear_set">အသိပေးချက်ရှိတ်ထဲတွင် ကက်ချ် ရှင်းလင်းခြင်း၊ ဘက်ထရီအခြေအနေ ပြသခြင်းနှင့် အိုင်တမ် ဘလော့လုပ်ခြင်း</string>
     <string name="seton_immediately">ဖွင့်ပါ</string>
     <string name="notify_when">အမှိုက် 100MB သို့ရောက်ပါက အသိပေးချက်ပေးပါ</string>
     <string name="goto_set">သတ်မှတ်</string>
@@ -321,7 +321,7 @@
     <string name="title_of_app_manage">အက်ပ်များ</string>
     <string name="tips_of_app_manage">သိုလှောင်မှု ချွေတာနိုင်ရန် အသုံးနည်းသော အက်ပ်များအား ဖျက်ပစ်ပါ</string>
     <string name="title_of_traffic_notification">ဒေတာအခြေနေပြဘား</string>
-    <string name="tips_of_traffic_notification">အသိပေးချက်ဘားတွင် မိုဘိုင်းဒေတာအခြေအနေအားကြည့်ရှုပါ</string>
+    <string name="tips_of_traffic_notification">အသိပေးချက်ရှိတ်တွင် မိုဘိုင်းဒေတာ အခြေအနေအား ပြပါ</string>
     <string name="title_of_package_set">ဒေတာအစီအစဉ် ဆက်တင်များ</string>
     <string name="tips_of_package_set">ဒေတာအစီစဉ်အားသတ်မှတ်ပြီး သင်အသုံးပြုသည့် ဒေတာအား ထိန်ချုပ်ပါ</string>
     <string name="title_of_garbage_cloud_scan">ကလောက် စကန်</string>
@@ -329,8 +329,8 @@
     <string name="title_of_operators_set">ဖုန်းလိုင်းကုမ္ပဏီဆိုင်ရာ ဆက်တင်များ</string>
     <string name="tips_of_operators_set">ဒေတာသုံးစွဲမှု အခြေအနေအား အလိုအလျောက် ညှိပါ</string>
     <string name="set_immediately">သတ်မှတ်</string>
-    <string name="title_of_network_speed_set">အခြေအနေပြဘားတွင် ကွန်ရက်အခြေအနေအား ပြသပါ</string>
-    <string name="tips_of_network_speed_set">အခြေအနေပြဘားတွင် ကွန်ရက်အမြန်နှုန်းအာ ပြသပါ</string>
+    <string name="title_of_network_speed_set">အခြေအနေပြ ဘားတန်းတွင် ကွန်ရက်အခြေအနေအား ပြပါ</string>
+    <string name="tips_of_network_speed_set">အခြေအနေပြ ဘားတန်းတွင် ကွန်ရက်အမြန်နှုန်းအား ပြပါ</string>
     <string name="title_of_garbage_data_set">ဒေတာဘေ့စ်အသစ်မွမ်းမံမှုများအား ရှင်းလင်းပါ</string>
     <string name="tips_of_garbage_data_set">Cleanerဒေတာဘေ့စ် အားသင့်စက်ပေါ်တွင် အမှိုက်များပိုမိုရှာဖွေရန် အသစ်မွမ်းမံပါ</string>
     <string name="title_of_cloud_service">ကလောက်ဝန်ဆောင်မှုများ</string>
@@ -565,4 +565,10 @@
     <string name="one_tap_clean_M">%dMB</string>
     <string name="one_tap_clean_GB">%sGB</string>
     <string name="security_center_slogan">လုံခြုရေး။ သင့်ဖုန်း၏ ကိုယ်ရံတော်။</string>
+    <string name="notification_garbage_cleanup_title">အမှိုက်ဖိုင်များအား ရှင်းလင်းပါ</string>
+    <string name="notification_garbage_cleanup_summary">အမှိုက် အရွယ်အစား %s ရှိပြီ</string>
+    <string name="notification_low_memory_cache_title">ကက်ချ်အား ရှင်းလင်းပါ</string>
+    <string name="notification_low_memory_cache_summary">သိုလှောင်ခန်း နေရာလွတ် ၁.၅ GB ထက် နည်းနေပြီ</string>
+    <string name="notification_low_memory_deepclean_title">သိုလှောင်ခန်းနေရာ နည်းနေပြီ</string>
+    <string name="notification_low_memory_deepclean_summary">သိုလှောင်ခန်း နေရာအတွက် အတွင်းကျကျ ရှင်းပစ်ပါ</string>
 </resources>

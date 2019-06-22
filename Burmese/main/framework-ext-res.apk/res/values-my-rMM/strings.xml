@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">အလိုအလျှောက်စတင်ရန်အတွက် %s ခွင့်ပြုလိုသလား။</string>
     <string name="auto_start_warning_allow">ခွင့်ပြုပါ</string>
     <string name="auto_start_warning_deny">ငြင်းပယ်ပါ</string>
-    <string name="call_record_sample_prefix_miui">ဖုန်းခေါ်ပါ</string>
     <string name="call_record_or">" သို့မဟုတ် "</string>
     <string name="caller_info_name_delimiter">" သို့မဟုတ် "</string>
     <string name="first_back_long_press_message">စိတ်ကြိုက်နှိပ်ခြင်း &amp; လမ်းညွှန်ခလုတ်များတွင် နှိပ်နိုင်ခြင်းတို့အား သတ်မှတ်ရန်၊ ဆက်တင်များ>ထပ်ဆောင်းဆက်တင်များ> ခလုတ်များသို့ သွားပါ</string>
@@ -198,6 +197,7 @@
     <string name="popup_camera_front_failed">အရှေ့ကင်မရာအား ဖွင့်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="takeback_camera_front_failed">အရှေ့ကင်မရာအား ပိတ်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="stop_operate_camera_frequently">အရှေ့ကင်မရာအား ခဏခဏ ဖွင့်နေသည်။</string>
+    <string name="popup_camera_front_when_use">ကင်မရာအက်ပ်မှ အရှေ့ကင်မရာအား ပြန်ဖွင့်ရန် လိုအပ်သည်။ ယခု ဖွင့်မလား?</string>
     <string name="popup_camera_popup_falied_times_calibrate">အရှေ့ကင်မရာ ဖွင့်ရာတွင် မအောင်မြင်ပါ။ ချိန်ညှိပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="popup_camera_takeback_falied_times_calibrate">အရှေ့ကင်မရာ ပိတ်ရာတွင် မအောင်မြင်ပါ။ ချိန်ညှိပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="popup_camera_calibrate_now">ချိန်ညှိပါ</string>

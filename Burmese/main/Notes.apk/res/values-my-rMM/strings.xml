@@ -127,6 +127,7 @@
     <string name="note_sort_way">သင့်မှတ်စုများအား မည်သို့ စီစဉ်လိုသည်ကို ရွေးချယ်ပါ</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">မှတ်စု သတိပေးချက်</string>
     <string name="permdesc_accessNote">အမျိုးအမည်မသိအက်ပ်များမှ ဤအရာကိုသုံးပြီး သင့်ကိုယ်ရေးဒေတာများအား ရယူနိုင်သည်။</string>
     <string name="permission_intro_contact">ဖုန်းခေါ်ဆိုမှု အတွင်း မှတ်စုမှတ်နိုင်ရန်</string>
@@ -134,13 +135,13 @@
     <string name="permission_intro_phone">ဖုန်းခေါ်ဆိုမှု အတွင်း မှတ်စုမှတ်နိုင်ရန်</string>
     <string name="permission_intro_storage">မှတ်စုများနှင့် ပူးတွဲဖိုင်များအား သိမ်းဆည်းနိုင်ရန်</string>
     <string name="permlab_accessNote">မှတ်စုများ ဝင်ကြည့်ပါ</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">လက်ဟန်ဖြင့် မှတ်စုတစ်ခုအား ဖျက်လိုက်ပါက အတည်ပြုရန် မမေးပါနှင့်။</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">လက်ချောင်း နှစ်ချောင်းဖြင့် အပေါ်သို့ ပွတ်ဆွဲ၍ မှတ်စုအား ဖျက်ပါက အတည်ပြုရန် မလိုပါ</string>
     <string name="pref_title_cloud_trash_bin">Mi Cloud တွင် ဖျက်ထားသော မှတ်စုများ</string>
     <string name="pref_title_common">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="pref_title_font_size">ဖောင့်အရွယ်အစား</string>
     <string name="pref_title_note_style">စတိုင်လ်</string>
     <string name="pref_title_show_root_folder_in_homepage">အစစာမျက်နှာတွင် မှတ်စုတိုများကိုသာ ပြပါ</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">အမြန်ဖျက်</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">အမြန် ဖျက်နည်း</string>
     <string name="recover_notes_hint">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့သည်၊ i.mi.com သို့သွား၍ မှတ်စုများအား ပြန်လည်ရယူပါ။</string>
     <string name="redo">ပြန်လုပ်</string>
     <string name="refuse_to_open_as_pic_because_of_loading">မှတ်ချက် လုဒ်တင်ပြီးသည်အထိစောင့်၍ ပြန်ကြိုးစားကြည့်ပါ။</string>
@@ -208,6 +209,7 @@
     <string name="toast_notes_hidden_edit">ဤမှတ်စုအား ကွယ်ဝှက်ထားပြီးပြီ။ ပြန်ကြည့်ရန် အောက်သို့ ဆွဲချပါ။</string>
     <string name="toast_notes_hidden_home">ဤမှတ်စုအား ကွယ်ဝှက်ထားပြီးပြီ။ ပြန်ကြည့်ရန် အောက်သို့ ဆွဲချပါ။</string>
     <string name="toast_notes_unhidden">ဖော်ထုတ်ပြီးပါပြီ</string>
+    <string name="toast_pic_is_not_really">ပုံအား သိမ်းနေသည်…</string>
     <string name="toast_reach_text_limit_attachment">မှတ်ချက်က ရှည်လွန်းသောကြောင့်၊ ၎င်းကို ပူးတွဲဖိုင်သစ်များအဖြစ် ပေါင်းထည့်လို့မရပါ</string>
     <string name="toast_reach_text_limit_checkbox">မှတ်ချက်သည် ရှည်လွန်းသောကြောင့် ၎င်းကို checkbox အဖြစ် ပေါင်းထည့်၍မရပါ</string>
     <string name="toast_reach_text_limit_truncate">ဤမှတ်စုမှာ ရှည်လွန်းနေသည်။ အဆုံးတွင် စာသားတစ်ချို့အား ဖြတ်ပစ်လိုက်သည်။</string>

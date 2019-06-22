@@ -69,7 +69,7 @@
     <string name="button_emoji_symbol">သင်္ကေတ အီမိုဂျီ</string>
     <string name="button_emoji_text">စာသား အီမိုဂျီ</string>
     <string name="button_fold">ခေါက်ပါ</string>
-    <string name="button_next_slide">ရှေ့သို့</string>
+    <string name="button_next_slide">နောက်တစ်ဆင့်</string>
     <string name="button_pre_slide">နောက်သို့</string>
     <string name="button_resend_message">ထပ်မံပေးပို့ပါ</string>
     <string name="button_unfold">ဖြန့်ပါ</string>
@@ -98,16 +98,7 @@
     <string name="cm_privacy_dialog_tips">စမတ် မက်ဆေ့ချ် ဝန်ဆောင်မှုသည် ဖုန်းလိုင်းကုမ္ပဏီမှ ပံ့ပိုးထားခြင်းဖြစ်သည်။ ဤဝန်ဆာင်မှုအတွက် မက်ဆေ့ချ်မှ အင်တာနက်သို့ ချိတ်ဆက်၍ သင်၏ တည်နေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ မသုံးစွဲမီ ဖုန်းလိုင်းကုမ္ပဏီ၏ %1s အား ဦးစွာ သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
     <string name="cm_privacy_dialog_title">သတိပြုရန်</string>
     <string name="cmcc_privacy">China Mobile ဖုန်းလိုင်းကုမ္ပဏီ ကိုယ်ရေးအချက်အလက်ဆိုင်ရာ သဘောတူညီချက်</string>
-    <string name="complain_input_number">သင်၏ ဖုန်းနံပါတ်အား ရိုက်ထည့်ပါ</string>
-    <string name="complain_jump">ကျော်သွားရန်</string>
     <string name="complain_message_title">သတင်းပို့မည်</string>
-    <string name="complain_ok">အိုကေ</string>
-    <string name="complain_phone_number">ဖုန်းနံပါတ် (ရွေးချယ်နိုင်သော)</string>
-    <string name="complain_reason">သင် ဘာကြောင့် သတင်းပို့ပါသလဲ?</string>
-    <string name="complain_success">တုံ့ပြန်အကြံပြုချက်အတွက် အထူးကျေးဇူးတင်ရှိပါသည်။</string>
-    <string name="complain_tips">"သင့်ဖုန်းနံပါတ်နှင့်အတူ သင် သတင်းပို့ထားသော အကြောင်းအရာများအား ကျွန်ုပ်တို့၏ ဆာဗာသို့ တင်ပို့ပါမည်။ ဝန်ဆောင်မှု ပံ့ပိုးသူများမှ သတင်းပို့ထားသော မက်ဆေ့ချ်အား ပြန်လည်သုံးသပ်ပါလိမ့်မည်။
-"</string>
-    <string name="complain_upload">တိုင်ကြားချက်အား ပေးပို့ပြီးပါပြီ</string>
     <string name="compressing">ပုံသည်အလွန်ကြီးသည်။ ချုံ့နေသည်…</string>
     <string name="confirm">အိုကေ</string>
     <string name="confirm_add_blacklist_dialog_dspt">ဤနံပါတ်ကို သင့် ဘလော့လုပ်ထားသော စာရင်းထဲသို့ ထည့်မလား?</string>
@@ -172,8 +163,8 @@
     <string name="dialog_message_mx">Mi မက်ဆေ့ချ်ဖြင့် အခြား MIUI သုံးစွဲသူများထံ မက်ဆေ့ချ်များကို အခမဲ့ ပေးပို့နိုင်ပါသည်။ Mi မက်ဆေ့ချ်အား အသက်သွင်းရန် SMS တစ်စောင် ပေးပို့ရမည်။ ထို့သို့ပေးပို့ခြင်းကြောင့် ဖုန်းလိုင်းကုမ္ပဏီမှ အခကြေးငွေ ကောက်ခံလိမ့်သည်။ Mi မက်ဆေ့ချ်အား မသုံးစွဲမီ \"%1$s\" နှင့် \"%2$s\"အား ဦးစွာ သဘောတူရပါမည်။</string>
     <string name="dialog_message_networking">မက်ဆေ့ချ်မှ ပေးပို့သူ ID အား သိရှိနိုင်ရန် ဖုန်းလမ်းညွှန်ကို သုံးရပါမည်။ ပုံမှန် အလုပ်လုပ်နိုင်ရန်အတွက် မက်ဆေ့ချ်နှင့် ဖုန်းလမ်းညွှန်မှ အင်တာနက်သို့ ချိတ်ဆက်၍ သင်၏တည်နေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ ခွင့်ပြုမလား?</string>
     <string name="dialog_message_rcs">တရုတ်ပြည်မကြီးတွင် China Mobile မက်ဆေ့ချ်ဖြင့် အခြား China Mobile သုံးစွဲသူများထံ မက်ဆေ့ချ်များကို အခမဲ့ ပေးပို့နိုင်ပါသည်။ China Mobile မက်ဆေ့ချ်အား မသုံးစွဲမီ \"%1$s\"အား ဦးစွာ သဘောတူရပါမည်။</string>
-    <string name="dialog_sim_locked_confirm">OK</string>
-    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
+    <string name="dialog_sim_locked_confirm">အိုကေ</string>
+    <string name="dialog_sim_locked_message">မှာယူမှု စည်းကမ်းသတ်မှတ်ချက်များနှင့် မဆီလျော်သောကြောင့် သင်၏ ဆင်းမ်ကဒ်သည် ဤဖုန်းတွင် မသုံးနိုင်ပါ။ နောက်ထပ်သိလိုပါက Xiaomi ဝန်ဆောင်မှု စင်တာ သို့မဟုတ် သင်ဝယ်ယူသော ဆိုင်သို့ စုံစမ်းမေးမြန်းနိုင်ပါသည်။</string>
     <string name="dialog_title_fake_cell_detect_error">အမှားပြင်ဆင်ချက်</string>
     <string name="dialog_title_mx_rcs">Mi မက်ဆေ့ခ်ျ</string>
     <string name="dialog_title_networking">စည်းကမ်းသတ်မှတ်ချက်များ</string>
@@ -230,6 +221,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_message_select_title">မက်ဆေ့ချ် တစ်ဆင့်ပို့မည်</string>
@@ -684,6 +676,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>

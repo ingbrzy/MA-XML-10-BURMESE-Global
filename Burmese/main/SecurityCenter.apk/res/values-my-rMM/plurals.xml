@@ -98,11 +98,47 @@
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d မိနစ် ပေါင်းထည့်မည်</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ရက်</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s နာရီ</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s မိနစ်</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s ရက် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s နာရီ ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s မိနစ် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s ရက် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s နာရီ ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s မိနစ် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">အားပြည့်ရန် %s ရက် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">အားပြည့်ရန် %s နာရီ ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">အားပြည့်ရန် %s မိနစ် ကျန်သေးသည်</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="other">%1$s အပါအဝင် အက်ပ် %2$d ခုကြောင့် ဘက်ထရီ သုံးစွဲမှုများနေသည်</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
+        <item quantity="other">အက်ပ် %d ခုကြောင့် ဘက်ထရီ သုံးစွဲမှုများနေသည်</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">လူ %1$d ယောက်မှ ဒေါင်းလုဒ်လုပ်ထားသည်</item>

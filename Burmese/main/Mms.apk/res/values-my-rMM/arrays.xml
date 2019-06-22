@@ -31,13 +31,6 @@
         <item>အသံတိတ်မုဒ်တွင်သာ</item>
         <item>ဘယ်တော့မှ</item>
     </string-array>
-    <string-array name="reason_type">
-        <item>လိမ်ညာမှု</item>
-        <item>အတိအလင်း သို့မဟုတ် တရားမဝင်သော အကြောင်းအရာ</item>
-        <item>စပန်</item>
-        <item>အခြား</item>
-        <item>ပယ်ဖျက်မည်</item>
-    </string-array>
     <string-array name="recv_type">
         <item>接收并通知</item>
         <item>只接收</item>

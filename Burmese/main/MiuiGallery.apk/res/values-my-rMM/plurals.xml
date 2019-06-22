@@ -54,6 +54,15 @@
     <plurals name="backuping_desc_normal">
         <item quantity="other">ဓါတ်ပုံနှင့် ဗီဒီယို %1$d ခု</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">ဓါတ်ပုံ %d ပုံ</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">ရွေးထားသော ဓာတ်ပုံ %d ပုံအား သိမ်းပြီး ကျန်ပုံများအား ဖျက်မလား?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">ရွေးထားသော ဓာတ်ပုံ %d ပုံအား သိမ်းမည်</item>
+    </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">ဓါတ်ပုံ %d ပုံ</item>
     </plurals>
@@ -68,6 +77,15 @@
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">အိုင်တမ် %dခုရွေးချယ်ထားသော</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Mi ကလောက် အပါအဝင် ဆင့်ခ်လုပ်ထားသော စက်များမှ တရစပ် ရိုက်ချက် %d ပုံအား ဖျက်မလား?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">တရစပ် ရိုက်ချက် %d ပုံအား ဖျက်မလား?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Mi ကလောက်နှင့် ဤစက်မှ တရစပ် ရိုက်ချက် %d ပုံအား ဖျက်မလား?</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">ဤအိုင်တမ် %dခုကို စက်အားလုံးနှင့် Mi Cloud မှ ဖျက်ပစ်မလား?</item>
@@ -86,6 +104,9 @@
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">ဤဓာတ်ပုံ %dပုံကို အယ်လ်ဘမ်နှင့် Mi Cloud မှ ဖျက်ပစ်မလား?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">သင့်စက်မှ တရစပ် ရိုက်ချက် %d ပုံအား ဖျက်မလား?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">ဤဗီဒီယို %dခုကို စက်အားလုံးနှင့် Mi Cloud မှ ဖျက်ပစ်မလား?</item>

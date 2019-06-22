@@ -128,9 +128,14 @@
     <string name="msim_select_default_time_left">(%d စက္ကန့်)</string>
     <string name="select_sim_hint">ဆင်းမ်%1$d အသုံးပြုနေစဉ်တွင် ဆင်းမ်%2$d အား အသုံးပြု၍မရနိုင်ပါ။</string>
     <string name="select_one_sim_title">ဆင်းမ်%1$d ကိုသာအသုံးပြုနိုင်ပါသည်</string>
+    <string name="select_sim_hint_for_heduohao">ဆင်းမ်%1$d ဒုကဒ် %2$d အား အသုံးပြုနေစဉ်၊ အခြား ကဒ်အား အသုံးပြု၍ မရနိုင်ပါ။</string>
+    <string name="select_one_sim_title_for_heduohao">ဆင်းမ်%1$d ဒုကဒ် %2$d ကိုသာ သုံးနိုင်သည်</string>
     <string name="can_not_use">အသုံးမပြုနိုင်ပါ</string>
     <string name="sim1_description">ဆင်းမ် ၁</string>
     <string name="sim2_description">ဆင်းမ် ၂</string>
+    <string name="sim1_heduohao_card">ဒုကဒ် ၁</string>
+    <string name="sim2_heduohao_card">ဒုကဒ် ၂</string>
+    <string name="sim3_heduohao_card">ဒုကဒ် ၃</string>
     <string name="call_description_recording">အသံဖမ်းယူနေ…</string>
     <string name="call_recording_error_privacy">ဧည့်သည်ပုံစံတွင်ဖြစ်နေပါက မှတ်တမ်းမတင်ပါနှင့်</string>
     <string name="call_recording_error_sd_access">SD ကဒ်ကို ဝင်ရောက်သုံးမရပါ</string>

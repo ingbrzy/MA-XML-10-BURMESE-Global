@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">အလုပ်နေရာသို့ ပေါင်းထည့်မည်</string>
     <string name="activity_not_found">သင့်စက်တွင် အက်ပ် မထည့်ထားပါ</string>
+    <string name="activity_not_unlocked">ပိတ်ပြီးပြန်ဖွင့်သောအခါ ခဏစောင့်ရပါမည်</string>
     <string name="add_screen">မျက်နှာပြင်အား ပေါင်းထည့်ပါ</string>
     <string name="announce_for_app_move_in_folder">ဖိုလ်ဒါ၏ %1$d နေရာသို့ ရွေ့ပါ</string>
     <string name="announce_for_checked">%1$s၊ စစ်ဆေးပြီး</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">ပင်မမျက်နှာပြင် ဆက်တင်အား ဖွင့်ထားသည်</string>
     <string name="announce_for_open_folder">ဖိုလ်ဒါ %1$s အား ဖွင့်ပါ</string>
     <string name="announce_for_open_launcher_menu">မီနူးအား ဖွင့်ထားသည်</string>
+    <string name="announce_for_search_bar">ရှာဖွေရေး ဘားတန်း</string>
     <string name="announce_for_show_uninstall_dialog">ဖြုတ်ချရန် အတည်ပြုပါ သို့မဟုတ် ပယ်ဖျက်ပါ။</string>
     <string name="announce_for_unchecked">%1$s၊ မစစ်ဆေးရသေးပါ</string>
     <string name="announce_for_widget_span">အနံ %1$d၊ အမြင့် %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">အက်ပ်မှာ ရှိပြီးသားဖြစ်သည်</string>
     <string name="app_being_backup_message">အက်ပ်ကို အရန်သိမ်းခဲ့သည်</string>
     <string name="app_being_restored_message">အက်ပ်ကို ပြန်လည်ရယူခဲ့သည်</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">နဂိုမူလ အစပျိုးစက်</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">ဂိမ်းများ</string>
+    <string name="default_folder_title_meitu">Meitu အက်ပ်</string>
     <string name="default_folder_title_microsoft">မိုက်ခရိုဆော့ဖ်</string>
     <string name="default_folder_title_recommend">နောက်ထပ် အက်ပ်များ</string>
     <string name="default_folder_title_security">စက်စနစ်</string>
@@ -288,6 +292,8 @@
     <string name="preferences_general_title">ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="preferences_title">အစပျိုးစက် ဆက်တင်များ</string>
     <string name="preferred_app_settings_not_selected">မရွေးထားပါ</string>
+    <string name="privacy_thumbnail_blur_summary">မကြာသေးမီကများမှ အစမ်းကြည့် မြင်ကွင်းများအား မှုန်ဝါးစေပါ</string>
+    <string name="privacy_thumbnail_blur_title">အစမ်းကြည့် မြင်ကွင်း အဝါး</string>
     <string name="quick_app">အမြန်အက်ပ်များ</string>
     <string name="recents_config_title">မကြာသေးမီကများ</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -315,6 +321,9 @@
     <string name="setting_wallpaper_tip">ချိန်ညှိရန် လက်ချောင်းများဖြင့် ဖိနှိပ်ပါ (သို့) ပွတ်ဆွဲပါ</string>
     <string name="settings">ဆက်တင်များ</string>
     <string name="settings_shortcut">ဆက်တင်များ</string>
+    <string name="shake_to_align_icons">လွတ်နေသော ဆဲလ်များအား အိုင်ကွန်ဖြင့် နေရာဖြည့်ရန် စက်အား လှုပ်ခါပါ</string>
+    <string name="shake_to_align_icons_summary">တည်းဖြတ်မုဒ်တွင် လွတ်နေသော ဆဲလ်များအား အိုင်ကွန်ဖြင့် အလိုအလျောက် နေရာဖြည့်ရန် စက်အား လှုပ်ခါပါ</string>
+    <string name="shake_to_align_icons_title">လွတ်နေသော ဆဲလ်များအား နေရာဖြည့်ရန် လှုပ်ခါပါ</string>
     <string name="share">မျှဝေမည်</string>
     <string name="show_all">အားလုံး ပြပါ</string>
     <string name="show_mem_info_title">မှတ်ဉာဏ် အခြေအနေအား ပြပါ</string>
@@ -329,6 +338,7 @@
     <string name="status_installing">ထည့်သွင်းနေသည်</string>
     <string name="status_paused">ခေတ္တရပ်ထားသည်</string>
     <string name="status_pending">စောင့်နေသည်</string>
+    <string name="system_shortcuts_more_operation">အက်ပ် အချက်အလက်</string>
     <string name="title_jeejen">Jeejen ပင်မမျက်နှာပြင်</string>
     <string name="title_select_live_folder">ဖိုလ်ဒါ ရွေးပါ</string>
     <string name="title_select_shortcut">ရှော့ကဒ် ရွေးပါ</string>
@@ -367,9 +377,4 @@
     <string name="widget_global_search">ရှာ​ဖွေမည်</string>
     <string name="widget_quick_function">အမြန် လုပ်ဆောင်ချက်များ</string>
     <string name="widgets_preview_title">ဝစ်ဂျက်အား ပေါင်းထည့်ပါ</string>
-    <string name="activity_not_unlocked">ပိတ်ပြီးပြန်ဖွင့်သောအခါ ခဏစောင့်ရပါမည်</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">မကြာသေးမီကများမှ အစမ်းကြည့် မြင်ကွင်းများအား မှုန်ဝါးစေပါ</string>
-    <string name="privacy_thumbnail_blur_title">အစမ်းကြည့် မြင်ကွင်း အဝါး</string>
-    <string name="system_shortcuts_more_operation">အက်ပ် အချက်အလက်</string>
 </resources>

@@ -35,6 +35,9 @@
     <plurals name="comment_count">
         <item quantity="other">မှတ်ချက် %d ခု</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d ရက် အကြာက</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">အိုင်တမ် %d ခုကို ဖျက်မည်လား?</item>
     </plurals>

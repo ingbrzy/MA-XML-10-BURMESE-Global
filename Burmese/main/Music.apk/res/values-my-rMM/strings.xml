@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="April">ဧပြီ</string>
+    <string name="August">သြဂုတ်</string>
+    <string name="December">ဒီဇင်ဘာ</string>
+    <string name="February">ဖေဖော်ဝါရီ</string>
+    <string name="January">ဇန်နဝါရီ</string>
+    <string name="July">ဇူလိုင်</string>
+    <string name="June">ဇွန်</string>
+    <string name="March">မတ်</string>
+    <string name="May">မေ</string>
+    <string name="November">နိုဝင်ဘာ</string>
+    <string name="October">အောက်တိုဘာ</string>
+    <string name="September">စက်တင်ဘာ</string>
+    <string name="Updated_at">"အပ်ဒိတ်လုပ်ထားသော- "</string>
     <string name="account_and_cloud">အကောင့်-</string>
     <string name="action_item_add">အောက်ပါသို့ ပေါင်းထည့်ပါ</string>
     <string name="action_item_add_song">စာရင်းသို့ပေါင်းထည့်ရန်</string>
@@ -71,6 +84,7 @@
     <string name="available_playlist_name_format">ဖွင့်ရန်စာရင်းသစ်%d</string>
     <string name="avoid_to_use_traffic_summary">သီချင်းနားထောင်ရန် မိုဘိုင်းလ်ကွန်ရက်ကို မသုံးပါနှင့်</string>
     <string name="avoid_to_use_traffic_title">သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာသုံးထားပါက အသိပေးပါ</string>
+    <string name="back">နောက်သို့</string>
     <string name="back_confirm">အက်ပ်အား နောက်ခံသို့တွင်းပို့ရန် ထပ်မံထိနှိပ်ပါ</string>
     <string name="bluetooth_device">ဘလူးတုသ်အသံစက်</string>
     <string name="buffering">ဘက်ဖာရင်း…</string>
@@ -114,7 +128,7 @@
     <string name="desktop_lyric_dialog_msg">အိမ်မျက်နှာပြင် စာသားများအား တေးဂီတ>ဆက်တင်များ>အဆင့်မြင့်ဆက်တင်များ တွင်ဖွင့်ပါနှင့် ပိတ်ပါ</string>
     <string name="desktop_lyric_dialog_positive_button">အခု စမ်းကြည့်ပါ</string>
     <string name="desktop_lyric_dialog_title">အခု စမ်းကြည့်ပါ</string>
-    <string name="desktop_lyric_lock_toast">သော့ခတ်ခဲ့သည်။ အသိပေအချက်ပြမှုရှိတ်တွင် တေးဂီတအား သော့ဖြည်နိုင်ပါသည်</string>
+    <string name="desktop_lyric_lock_toast">လော့ခ်ချထားသည်။ အသိပေးချက်ရှိတ်တွင် သီချင်းအား လော့ခ်ဖြည်နိုင်ပါသည်။</string>
     <string name="desktop_lyric_setting_summary">အိမ်မျက်နှာပြင်တွင် စာသားများအား ပြသပါ</string>
     <string name="desktop_lyric_setting_title">အိမ်မျက်နှာပြင် စာသားများ</string>
     <string name="desktop_lyric_textsize">စာသား</string>
@@ -188,6 +202,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
@@ -293,6 +308,9 @@
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">ပရိုအဖွဲ့ဝင်သာ သီချင်းအများအပြား ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ယခု ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
     <string name="hungama_free_download_out_summary">သီချင်းများအား အခမဲ့ ဒေါင်းလုဒ်လုပ်၍ မရတော့ပါ။ သီချင်းများအား အကန့်အသတ်မရှိ ဒေါင်းလုဒ်လုပ်နိုင်ရန် ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
+    <string name="hungama_privacy_desc">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (ရွေးနိုင်သော)</string>
+    <string name="hungama_privacy_tips_content">အွန်လိုင်း အကြောင်းအရာအား ရယူလိုပါက <a href="/link/click">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</a>အား သဘောတူရပါမည်။</string>
+    <string name="hungama_privacy_tips_title">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="hungama_subscribe_message">သီချင်းများကို အရည်အသွေးမြင့်မြင့် ဒေါင်းလုဒ်လုပ်ရန် ပရိုအဖွဲ့ဝင် ဝယ်ယူပါ။</string>
     <string name="hungama_subscribe_positive_button">ပရိုအဖွဲ့ဝင် ဝယ်ယူပါ</string>
     <string name="hungama_subscribe_title">ပရို အဖွဲ့ဝင်</string>
@@ -422,7 +440,7 @@
     <string name="notification_download_success_more">%1$d ခုဒေါင်းလုဒ်လုပ်ပြီး</string>
     <string name="notification_need_wifi_for_size">ဤဒေါင်းလုဒ်အရွယ်အစားသည် Wi-Fi လိုအပ်ပါသည်။</string>
     <string name="notification_play_summary">လက်ရှိနှင့် နောက်သီချင်းအား ကြည့်ရှု့ပါ၊ အိမ်မျက်နှာပြင်တွင် စာသားများအား ပြသပါ</string>
-    <string name="notification_play_title">အသိပေးချက်ရှိတ်ဝီဂျက်</string>
+    <string name="notification_play_title">အသိပေးချက်ရှိတ် ဝစ်ဂတ်</string>
     <string name="notification_recommend_summary">တေးဂီတာအလားအလာနှင့် အက်ပ်ပရိုမိုးရှင်းများကြောင်း သင်ယူပါ</string>
     <string name="notification_recommend_title">အရေးကြီးသော အသိပေးချက်များ</string>
     <string name="notification_setting">အသိပေးချက် ဆက်တင်များ</string>
@@ -432,14 +450,29 @@
     <string name="nowplaying_dialog_title_delete_tracks">ဤသီချင်းအား တန်းစီထားရာမှ ဖယ်ရှားမလား?</string>
     <string name="nowplaying_menu_item_delete">တန်းစီထားရာမှ ဖယ်ရှားမည်</string>
     <string name="ok">အိုကေ</string>
+    <string name="online_apk_acquired">ရယူပြီးပါပြီ %d%%</string>
+    <string name="online_apk_acquiring">ရယူနေသည်… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">နေရာလွတ် မလုံလောက်သောကြောင့် ဒေါင်းလုဒ်လုပ်၍ မရပါ။</string>
     <string name="online_apk_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…%d%%</string>
     <string name="online_apk_install_alert_confirm">ဒေါင်းလုဒ်လုပ်မည်</string>
+    <string name="online_apk_install_alert_continue">ပြန်စပါ</string>
+    <string name="online_apk_install_alert_failed_text">ဒေါင်းလုဒ် လုပ်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="online_apk_install_alert_message">Yandex.Music ပလက်အင်အား ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="online_apk_install_alert_mobile_net_text">မိုဘိုင်းဒေတာအား သုံးနေသည်။ မိုဘိုင်းဒေတာဖြင့် အိုင်တမ်များအား ဒေါင်းလုဒ်လုပ်ခြင်းသည် ကုန်ကျစရိတ်များ ရှိနိုင်ပါသည်။</string>
     <string name="online_apk_install_alert_note">ဤဝန်ဆောင်မှုအား Yandex.Music မှ ပံ့ပိုးသည်</string>
+    <string name="online_apk_install_alert_note_new">အွန်လိုင်း အကြောင်းအရာအား %s မှ ပံ့ပိုးသည်</string>
+    <string name="online_apk_install_alert_pause">ခေတ္တရပ်ဆိုင်းပါ</string>
+    <string name="online_apk_install_alert_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="online_apk_install_alert_start">စတင်ပါ</string>
+    <string name="online_apk_install_completed">အွန်လိုင်း အကြောင်းအရာအား ရယူပြီးပါပြီ။ ကြည့်ရှုရန် %s အား ထိနှိပ်ပါ။</string>
     <string name="online_apk_install_error_no_enough_space">နေရာလွတ် မလုံလောက်သောကြောင့် ထည့်သွင်း၍ မရပါ။</string>
     <string name="online_apk_install_error_with_reason">ထည့်သွင်း၍ မရပါ (အမှား %d)</string>
+    <string name="online_apk_install_failed_with_reason" formatted="false">အွန်လိုင်း အကြောင်းအရာအား ရယူ၍ မရပါ။ ပြန်ကြိုးစားကြည့်ရန် %s အား ထိနှိပ်ပါ။ အမှားကုဒ်- %d။</string>
+    <string name="online_apk_install_in_background">အွန်လိုင်း အကြောင်းအရာအား နောက်ခံတွင် ရယူနေသည်…</string>
+    <string name="online_apk_install_network_change_paused">မိုဘိုင်းဒေတာအား သုံးနေသည်။ အိုင်တမ် ရယူခြင်းအား ခေတ္တရပ်ဆိုင်းထားသည်။ ကြည့်ရှုရန် %s အား ထိနှိပ်ပါ။</string>
+    <string name="online_apk_install_network_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="online_list_delete_message">ဖွင့်စာရင်းထဲရှိဒေါင်းလုဒ်လုပ်ထားသော သီချင်းအားလုံးအား အတွင်းသိုလှောင်မှုမှနေ၍ ဖျက်ပစ်လိမ့်မည်။</string>
+    <string name="online_playlist_category">သီချင်းစာရင်း</string>
     <string name="online_recommend">ဖွင့်စာရင်း</string>
     <string name="online_service_open_tip">အွန်လိုင်းဂီတဝန်ဆောင်မှု ဖွင့်ထားသည်</string>
     <string name="online_service_title">အွန်လိုင်းဝန်ဆောင်မှုများ</string>
@@ -494,6 +527,7 @@
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -521,6 +555,8 @@
     <string name="save_changes">ပြောင်းလဲမှုများကို သိမ်းဆည်းပါ</string>
     <string name="search_album_and_lyric">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားကို ရှာဖွေမည်</string>
     <string name="search_empty">အမည်သည့် ရလဒ်မှ ရှာမရပါ</string>
+    <string name="search_empty_subtitle_online_music">%s အား ဖွင့်ရန် အောက်မှ ခလုတ်အား ထိနှိပ်ပါ။</string>
+    <string name="search_empty_title_online_music">ဤနေရာတွင် အိုင်တမ် မရှိသေးပါ။</string>
     <string name="search_for_album">အယ်လ်ဘမ်</string>
     <string name="search_for_artist">အနုပညာရှင်</string>
     <string name="search_hint">အနုပညာရှင်များ၊သီချင်းများ၊အယ်လ်ဘမ်များနှင့် အကြံပြုချက်များကို ရှာဖွေပါ</string>
@@ -638,6 +674,8 @@
     <string name="toast_not_pro">ဤအင်္ဂါရပ်ကို ပရိုအဖွဲ့ဝင်များသာ ရရှိနိုင်သည်။</string>
     <string name="toast_uhd_songs_for_download">ဒေါင်းလုဒ် အရည်အသွေးအား အမြင့်သို့ သတ်မှတ်လိုက်သည်</string>
     <string name="toast_uhd_songs_for_stream">နားဆင်အရည်အသွေးအား အမြင့်သို့ သတ်မှတ်လိုက်သည်</string>
+    <string name="today">ယနေ့</string>
+    <string name="top_chart_title">ပုံစံကားချပ်</string>
     <string name="ultra_high_quality">အမြင့်ဆုံး</string>
     <string name="unknown_album_name">အမည်မသိ အယ်လ်ဘမ်</string>
     <string name="unknown_artist_name">အမည်မသိ အနုပညာရှင်</string>
@@ -648,6 +686,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
@@ -656,11 +695,8 @@
     <string name="vip_required">ဤသီချင်းကို ဖွင့်ရန် ပရီမီယံပက်ကေ့ချ်ကို ရယူပါ။ ယခုတော့ ဤသီချင်းကို ကျော်သွားပါ။</string>
     <string name="vip_required_with_song">%s သည် ပရိုအဖွဲ့ဝင် အတွက်သာ ဖြစ်သည်။ ဤသီချင်းအား ကျော်သွားမည်။</string>
     <string name="voice_search_first_hint">အသံဖြင့် ရှာဖွေကြည့်ပါ။</string>
-    <string name="wifi_required_body" formatted="false">"\"အောက်ပါတို့အား ပြီးမြောက်ရန် Wi-Fi အားသုံးပြုသင့်ပါသည်−
-        %s
-         download. 
+    <string name="wifi_required_body" formatted="false">"ဤ%sကို ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi လိုအပ်သည်။ 
 
-Tap %s
-         နောင် Wi-Fi ချိတ်မိချိန်တွင် ဒေါင်းလုဒ်စတင်ရန်။\""</string>
+ဤဒေါင်းလုဒ်ကို နောင်တွင် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သောအခါမှ စတင်ရန် %sကို ထိနှိပ်ပါ။"</string>
     <string name="wifi_required_title">ဤဖိုင်အား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်သင့်သည်</string>
 </resources>

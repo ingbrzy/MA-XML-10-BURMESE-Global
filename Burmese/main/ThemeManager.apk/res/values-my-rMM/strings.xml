@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">မူလနေရာကို သွားရန်</string>
-    <string name="abc_action_bar_home_description_format">%1$s၊ %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s ၊ %2$s ၊ %3$s</string>
-    <string name="abc_action_bar_up_description">အပေါ်သို့သွားရန်</string>
-    <string name="abc_action_menu_overflow_description">ပိုမိုရွေးချယ်စရာများ</string>
-    <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
-    <string name="abc_activity_chooser_view_see_all">အားလုံးကို ကြည့်ရန်</string>
-    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုခုကို ရွေးချယ်ပါ</string>
-    <string name="abc_capital_off">ပိတ်</string>
-    <string name="abc_capital_on">ဖွင့်</string>
-    <string name="abc_search_hint">ရှာဖွေပါ...</string>
-    <string name="abc_searchview_description_clear">ရှာစရာ အချက်အလက်များ ဖယ်ရှားရန်</string>
-    <string name="abc_searchview_description_query">ရှာစရာ အချက်အလက်နေရာ</string>
-    <string name="abc_searchview_description_search">ရှာဖွေရန်</string>
-    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
-    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာဖွေခြင်း</string>
-    <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
-    <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
-    <string name="search_menu_title">ရှာဖွေပါ</string>
+    <string name="about_app_name">သင်းမ် အကြောင်း</string>
+    <string name="about_version_update">ဘာတွေ ထူးခြားသလဲ</string>
     <string name="accessibility_setting_hint">"ဤဝန်ဆောင်မှုအား ဖွင့်ရန် ညာဘက် အပေါ်ပိုင်းရှိ ခလုတ်ကို ထိနှိပ်ပါ။
 နောက်ခံပုံ အကြည်သုံးရန် ရွေးထားသော အက်ပ်များကို သင်းမ်မှ ရှာဖွေလိမ့်မည်။"</string>
     <string name="accessibiliy_description_content_account">ပရိုဖိုင်</string>
@@ -49,6 +31,7 @@
     <string name="ad_downloading_tip">ဤအိုင်တမ်အား ဒေါင်းလုဒ်လုပ်နေသည်။ အသိပေးချက်ရှိတ်တွင် လုပ်ဆောင်ချက်အား ကြည့်နိုင်ပါသည်။</string>
     <string name="add_resource_detail_fail">အရင်းအမြစ်ပေါင်းထည့်၍မရနိုင်ပါ</string>
     <string name="all_resources">အားလုံး</string>
+    <string name="already_latest_version">နောက်ဆုံးပေါ်</string>
     <string name="app_disable_transparent_wallpaper">နောက်ခံပုံ အကြည်အား ပိတ်ထားသည်</string>
     <string name="app_enable_transparent_wallpaper">နောက်ခံပုံ အကြည်အား ဖွင့်ထားသည်</string>
     <string name="app_name">သင်းမ်များ</string>
@@ -77,8 +60,13 @@
     <string name="card_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="change_host_hint">host ပြောင်း</string>
     <string name="change_wallpaper">ဖန်သားပြင်နောက်ခံပုံ</string>
+    <string name="check_has_new_version">အပ်ဒိတ်လုပ်နိုင်ပါပြီ</string>
     <string name="classification_more_understand_you">သင်၏စိတ်ကြိုက်အမျိုးအစား ရွေးချယ်ပါ</string>
     <string name="close">ပိတ်ပါ</string>
+    <string name="common_applying">အသုံးချနေသည်…</string>
+    <string name="common_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="common_format_date_no_year">dd/MM</string>
+    <string name="common_skip">ကျော်သွားမည်</string>
     <string name="component_backup_preference_title">သင်းမ်အား အရန်သိမ်းပါ</string>
     <string name="component_category_finest_title">အထွေထွေ</string>
     <string name="component_category_more_title">အဆင့်မြင့်</string>
@@ -89,6 +77,7 @@
     <string name="count_down_tip">%d စက္ကန့် ကျန်သေးသည်</string>
     <string name="current_using_desktop_wallpaper_text">အိမ်မျက်နှာပြင်</string>
     <string name="current_using_lockscreen_wallpaper_text">သော့ခတ် မျက်နှာပြင်</string>
+    <string name="current_version">လက်ရှိဗားရှင်း- %1$s</string>
     <string name="current_version_incompatible">ကိုက်ညီမှု မရှိပါ</string>
     <string name="deleting">ဖျက်နေသည်…</string>
     <string name="description_author">စာရေးဆရာ</string>
@@ -156,6 +145,8 @@
     <string name="gift_use_fail_dlg_title">တစ်ခုခု မှားသွားခဲ့သည်</string>
     <string name="gift_used">ပို့ထားသည်</string>
     <string name="go_accessibility_setting">ရွေးပါ</string>
+    <string name="goto_purchased_list">ဝယ်ယူမှုမှတ်တမ်းကို ကြည့်ရှုရန်</string>
+    <string name="goto_wechat">ကလစ်ဘုတ်သို့ WeChat အကောင့် \"%1$s\"အား ကော်ပီကူးပြီးပါပြီ။ WeChat အား ယခု ဖွင့်မလား?</string>
     <string name="hide_free">အခမဲ့များကို မပြပါနှင့် %1$s</string>
     <string name="hide_incompatible">ကိုက်ညီမှုမရှိသည်များကို မပြပါနှင့် %1$s</string>
     <string name="home_apply_failured">အိမ်မျက်နှာပြင် နောက်ခံပုံအဖြစ် အသုံးချ၍မရပါ</string>
@@ -178,6 +169,7 @@
     <string name="incompatible_dialog_ok">နားလည်ပါပြီ</string>
     <string name="incompatible_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေ…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
     <string name="item_resource_audio_optional_color_ring">Ringback အသံ</string>
     <string name="item_resource_audio_optional_notification_ring">အသိပေးချက်များ</string>
@@ -190,6 +182,7 @@
     <string name="loading_resource_detail_info">ခဏစောင့်ပါ…</string>
     <string name="local_photos">စက်တွင်း ဓာတ်ပုံများ</string>
     <string name="local_resouce_creator_name">ဖွံ့ဖြိုးသူ−%1$s</string>
+    <string name="lock_screen_apply">သော့ခတ်မျက်နှာပြင်ဖြစ် သတ်မှတ်ပါ</string>
     <string name="lockscreen_apply_failured">သော့ခတ်မျက်နှာပြင်နောက်ခံပုံအဖြစ် အသုံးချ၍မရပါ</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">အိမ်မျက်နှာပြင် နောက်ခံပုံအဖြစ် ပြုလုပ်ခဲ့သည်။ သော့ခတ်မျက်နှာပြင် နောက်ခံပုံအဖြစ် အသုံးပြု၍ မရပါ။</string>
     <string name="lockscreen_apply_success">သော့ခတ်မျက်နှာပြင် နောက်ခံပုံ အသုံးချခဲ့သည်</string>
@@ -238,7 +231,9 @@
     <string name="my_gifts">လက်ဆောင်များ</string>
     <string name="my_gifts_purchased">ဝယ်ခဲ့သည်</string>
     <string name="my_gifts_received">ရရှိထားသည်</string>
+    <string name="network_exception">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="no_data">ကွန်ရက်သို့မချိတ်ဆက်နိုင်ပါ</string>
+    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="online_precust_abstract">Abstract</string>
     <string name="online_precust_animal">တိရိစ္ဆာန်</string>
@@ -329,7 +324,7 @@
     <string name="resource_comment_upload_not_logined">ဦးစွာ သင် ဆိုင်းအင်ဝင်ရန် လိုအပ်သည်</string>
     <string name="resource_comment_upload_success">သင့်မှတ်ချက်ကို အကျဉ်းချုံး ပြန်ဆန်းစစ်ပြီးနောက်တွင် ပြသပါလိမ့်မည်။</string>
     <string name="resource_comment_wonderful_comments">လူကြိုက်များသော မှတ်ချက်များ</string>
-    <string name="resource_continue">နောက်သို့</string>
+    <string name="resource_continue">နောက်တစ်ဆင့်</string>
     <string name="resource_current_using_title">လက်ရှိ အရင်းအမြစ်</string>
     <string name="resource_data_empty">ဤနေရာတွင် အိုင်တမ်များမရှိပါ။</string>
     <string name="resource_default">မူလသတ်မှတ် ဖုန်းမြည်သံ</string>
@@ -388,6 +383,7 @@
     <string name="resource_import_successful">ပြီးမြောက်ပါပြီ</string>
     <string name="resource_importing">တင်သွင်းနေ…</string>
     <string name="resource_is_off_shelf">မရရှိနိုင်ပါ</string>
+    <string name="resource_is_off_shelf_can_not_share">မျှဝေ၍ မရပါ။ ဤအိုင်တမ် မရှိတော့ပါ။</string>
     <string name="resource_list_title">မကြာမီက ရွေးထားသည်</string>
     <string name="resource_local_picker">ဖုန်းထဲမှ ဖုန်းမြည်သံကို ရွေးချယ်ပါ</string>
     <string name="resource_menu_refresh">ပြန်လန်းဆန်း</string>
@@ -407,6 +403,7 @@
     <string name="resource_pack_price_info">မူရင်းစျေးနှုန်း: %1$s</string>
     <string name="resource_pack_warning">ဤသင်းမ်ထဲက %1$d အစိတ်အပိုင်းများကို သင်ဝယ်ယူထားပြီးဖြစ်သည်။ အကယ်၍ ကျန်နေသော အစိတ်အပိုင်းများကို တစ်ချချင်း သင် ဝယ်ယူပါက၊ ပို၍ စျေးချိုပါသည်။</string>
     <string name="resource_present">လက်ဆောင်</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">အခမဲ့</string>
     <string name="resource_price_unit"> Mi ခရက်ဒစ်</string>
     <string name="resource_purchase_common_error">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
@@ -418,6 +415,10 @@
     <string name="resource_ranking">လူကြိုက်များသော</string>
     <string name="resource_ranking_free">အခမဲ့</string>
     <string name="resource_ranking_purchase">အခပေး</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">၁</string>
+    <string name="resource_ring_ranking_list_rank_2">၂</string>
+    <string name="resource_ring_ranking_list_rank_3">၃</string>
     <string name="resource_ringtone_default">ဖုန်းမြည်သံများ</string>
     <string name="resource_ringtone_playing_error">အမှား</string>
     <string name="resource_ringtone_volume_mute">အသံစက်ကို အသံပိတ်ထားသည်</string>
@@ -555,6 +556,7 @@
     <string name="theme_is_external_priority_storage">SD ကဒ်မှာသိမ်းဆည်းပါ</string>
     <string name="theme_is_external_priority_storage_summary">သင်းမ်အက်ပ်များသည် အကျိုးသက်ရောက်မှုရှိရန် ချက်ချင်းပြန်စတင်လိမ့်မည်</string>
     <string name="theme_multiple_button_title_customize">စိတ်ကြိုက်စီစဉ်ပါ</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">မသိမ်းပါ</string>
     <string name="theme_purchased_list_empty">မည်သည့်သင်းမ်များမှ သင်မဝယ်ရသေးပါ.</string>
     <string name="theme_purchased_non_local">အွန်လိုင်း</string>
@@ -572,7 +574,7 @@
     <string name="theme_user_agreement_remind_never">ထပ်မပြပါနှင့်</string>
     <string name="theme_user_agreement_remind_summary">သင်းမ်များအားဖွင့်သည့်အကြိမ်တိုင်း အသုံးပြုမှုဆိုင်ရာစည်းကမ်းချက်များကို ပြပါ။ ဤကြိုတင်ပြင်ဆက်ချက်သည် သင့်ရဲ့စက်ပစ္စည်းအား ပိတ်ပြီး တဖန်ပြန်ဖွင့်ပြီးနောက် အကျိုးသက်ရောက်ပေလိမ့်မည်။</string>
     <string name="theme_user_agreement_title">အသုံးပြုမှုဆိုင်ရာစည်းကမ်းချက်များ</string>
-    <string name="theme_yes">သိမ်းမည်</string>
+    <string name="theme_yes">ဟုတ်ပါသည်</string>
     <string name="third_party_pickers_activity_title">%1$s ပေါင်းထည့်</string>
     <string name="tips_theme_gate_transfer_fail">ဤစာမျက်နှာအား ဖွင့်၍ မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="title_component">သင်းမ်ကိုစိတ်ကြိုက်စီစဉ်ပါ</string>
@@ -627,6 +629,7 @@
     <string name="using_theme_next_automatic_update">အလိုအလျောက် မွမ်းမံမှုများ</string>
     <string name="using_theme_next_automatic_update_summary">မျက်နှာပြင် လော့ခ်ချထားစဥ် ဒေါင်းလုဒ်ထားသော သင်းမ်များကို Wi-Fi ဖြင့် အလိုအလျောက် အပ်ဒိတ်လုပ်မည်</string>
     <string name="using_theme_show_ad">အကြံပြုချက်များ</string>
+    <string name="version_update">အပ်ဒိတ်များအား စစ်ကြည့်ပါ</string>
     <string name="video_ad_click">ယခု စမ်းသုံးကြည့်မည်</string>
     <string name="video_ad_try_for_free">အခမဲ့ စမ်းသုံးနိုင်သည်</string>
     <string name="video_ad_uncomplete_tip">သင်းမ် ရရှိရန် ဗီဒီယိုအား ပြီးဆုံးသည့်အထိ ကြည့်ပါ။</string>
@@ -673,6 +676,8 @@
     <string name="wallpaper_settings_no_history">မှတ်တမ်း မရှိပါ</string>
     <string name="wallpaper_settings_pad_more_page_title">နောက်ထပ် နောက်ခံပုံများ</string>
     <string name="wallpaper_settings_page_title">နောက်ခံပုံ</string>
+    <string name="wechat_not_found">WeChat အား ဦးစွာထည့်သွင်းပါ</string>
+    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">ပယ်ဖျက်မည်</string>
     <string name="wifi_check_confirm">အတည်ပြုသည်</string>
     <string name="wifi_check_message">မိုဘိုင်းဒေတာဖြင့် အက်ပ်ဒိတ်များအား ဒေါင်းလုဒ်လုပ်မလား?</string>

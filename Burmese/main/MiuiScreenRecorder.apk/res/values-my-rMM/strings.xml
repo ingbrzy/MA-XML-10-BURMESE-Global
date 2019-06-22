@@ -12,7 +12,7 @@
     <string name="button_clear_storage">နေရာရှင်းလင်းလိုက်</string>
     <string name="button_confirm">အိုကေ</string>
     <string name="button_goon_recorder">ပြန်စပါ</string>
-    <string name="cancel_edit">ဖျက်သိမ်း</string>
+    <string name="cancel_edit">ပယ်ဖျက်မည်</string>
     <string name="cannot_change_frames">ပုံသေ ဖရိန်နှုန်းကို ပိတ်လိုက်ပါက ဖရိန်နှုန်းအား ပြောင်း၍ရမည် မဟုတ်ပါ။</string>
     <string name="cannot_change_parames">မှတ်တမ်းတင်နေစဉ် ပါရာမီတာများကို မပြောင်းလဲနိုင်ပါ</string>
     <string name="cannot_record">မှတ်တမ်း မတင်နိုင်ခဲ့ပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
@@ -54,7 +54,7 @@
     <string name="no_recorder_info">မည်သည့်ဗီဒီယိုမှ မမျှဝေထားပါ</string>
     <string name="no_recorder_info2">စတင်မှတ်တမ်းတင်ရန် ခလုတ်ကို ထိနှိပ်ပါ</string>
     <string name="no_sound">အသံတိတ်</string>
-    <string name="operation_delete">ဖျက်ပါ</string>
+    <string name="operation_delete">ဖျက်ပစ်မည်</string>
     <string name="operation_send">ပေးပို့</string>
     <string name="permission_intro_microphone">အသံသွင်းသောအခါ အသံအား မိုက်ခရိုဖုန်းမှ ဖမ်းနိုင်ရန်</string>
     <string name="permission_intro_storage">မျက်နှာပြင် မှတ်တမ်းတင်မှုအား သိမ်းနိုင်ရန်</string>

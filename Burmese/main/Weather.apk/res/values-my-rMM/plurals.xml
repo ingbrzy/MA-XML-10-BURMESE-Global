@@ -27,6 +27,18 @@
     <plurals name="total_voted_num_text">
         <item quantity="other">"လူ &lt;font color='#20a7ff'>%1$s&lt;/font> ယောက် မဲပေးထားသည်"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">အမြင့်ဆုံး အပူချိန်- %1$s ဒီဂရီ စင်တီဂရိတ်</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">အမြင့်ဆုံး အပူချိန်- %1$s ဒီဂရီ ဖာရင်ဟိုက်</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">အနိမ့်ဆုံး အပူချိန်- %1$s ဒီဂရီ စင်တီဂရိတ်</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">အနိမ့်ဆုံး အပူချိန်- %1$s ဒီဂရီ ဖာရင်ဟိုက်</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">နေသာသည်</item>
     </plurals>

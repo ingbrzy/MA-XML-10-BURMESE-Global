@@ -35,13 +35,6 @@
     <string name="dialog_revoke_privacy_info_new2">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းပါက အက်ပ်မှ ဒေတာစုဆောင်းခြင်းကို ရပ်တန့်စေမည်၊ ကျွန်ုပ်တို့၏ ဆာဗာများမှ သက်ဆိုင်ရာဒေတာ အားလုံးကိုလည်း ဖျက်ပစ်လိမ့်မည်။ ဤလုပ်ရပ်ကြောင့် အက်ပ်ကို အသုံးပြု၍ ရတော့မည် မဟုတ်ပါ။ ပြန်ရုပ်သိမ်းမလား?</string>
     <string name="dialog_revoke_privacy_title">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းနေသည်</string>
     <string name="exit">ထွက်မည်</string>
-    <string name="exo_controls_fastforward_description">ရှေ့သို့ သွားရန်</string>
-    <string name="exo_controls_next_description">နောက် တစ်ပုဒ်</string>
-    <string name="exo_controls_pause_description">ခဏရပ်ရန်</string>
-    <string name="exo_controls_play_description">ဖွင့်ရန်</string>
-    <string name="exo_controls_previous_description">ယခင် တစ်ပုဒ်</string>
-    <string name="exo_controls_rewind_description">ပြန်ရစ်ရန်</string>
-    <string name="exo_controls_stop_description">ရပ်ရန်</string>
     <string name="explore_on_mi_video">Mi ဗီဒီယိုတွင် ထပ်ကြည့်ကြည့်ပါ</string>
     <string name="failed_to_fetch_data">အချက်အလက်များ မရယူနိုင်ပါ။</string>
     <string name="find_psw">စကားဝှက် မေ့သွားသည်</string>
@@ -172,7 +165,7 @@
     <string name="need_update_app">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် Mi ဗီဒီယိုအား အပ်ဒိတ်လုပ်ပါ</string>
     <string name="network_connect_info">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="network_failed">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
-    <string name="next">ရှေ့သို့</string>
+    <string name="next">နောက်တစ်ဆင့်</string>
     <string name="nick_name">အမည်</string>
     <string name="no_recommend_data">အကြံပြုထားသော ဗီဒီယို မရှိသေးပါ</string>
     <string name="not_show">ထပ်မပြပါနှင့်</string>
@@ -247,7 +240,7 @@
     <string name="ovp_start_error_msg">ဤဗီဒီယိုအား ဖွင့်၍မရပါ</string>
     <string name="ovp_video_bad_network_condition">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။</string>
     <string name="ovp_video_create_video_error_info">ပလက်အင်အား စတင်၍ မရပါ။ ခေတ္တစောင့်၍ ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="ovp_video_invalid_cp_info">အချက်အလက် မရယူနိုင်ပါ။ %1$s အက်ပ်အား ပြန်လည်စတင်ပါ။</string>
+    <string name="ovp_video_invalid_cp_info">အချက်အလက် မရယူနိုင်ပါ။ အက်ပ်အား ပြန်လည်စတင်ပါ။.</string>
     <string name="ovp_video_loading">မကြာမီ %1$s ထုတ်လွှင့်ပါတော့မည်…</string>
     <string name="ovp_video_plugin_installation">ထည့်သွင်းနေသည် %1$s…</string>
     <string name="ovp_video_plugin_installation_failure">%1$s ကို ထည့်သွင်း၍ မရပါ</string>
@@ -395,13 +388,22 @@
     <string name="empty_channels">ချန်နယ်များအား စီမံမည်</string>
     <string name="empty_subscribe">မည်သည့်အရာမှ မမှာယူရသေးပါ။</string>
     <string name="hidden_channels">အောက်ပါ ချန်နယ်များကို ပင်မစာမျက်နှာတွင် မဖော်ပြပါ။</string>
+    <string name="history">သမိုင်း</string>
     <string name="init_channels">မူလသတ်မှတ်ချက်များအတိုင်း ပြန်ထားရှိမည်</string>
     <string name="isSubscribed">မှာယူထားသော</string>
+    <string name="later">နောက်မှ</string>
+    <string name="lv_content_null">ဤနေရာတွင် အိုင်တမ် မရှိပါ</string>
     <string name="my_favorite_channels">ကျွန်ုပ်၏ ချန်နယ်များ</string>
     <string name="ovp_navigation_subscribe">မှာယူမည်</string>
     <string name="ovp_player_plugin_dlg_neg_btn">ပိတ်မည်</string>
     <string name="ovp_player_plugin_dlg_no_content">ဗီဒီယို ပလေရာ ပလက်အင်များ မထည့်သွင်းရသေးပါ။</string>
     <string name="ovp_player_plugin_dlg_title">ဗီဒီယို ပလေရာ ပလက်အင်များ</string>
+    <string name="ovp_player_update_dialog_info">ဤဗီဒီယိုအား ဖွင့်ရန် Mi ဗီဒီယို ပလက်အင်အား နောက်ဆုံး ဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။ အပ်ဒိတ်လုပ်မလား?</string>
+    <string name="ovp_player_update_info">"ဤဗီဒီယိုအား ဖွင့်၍ မရပါ။
+Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။"</string>
+    <string name="ovp_resolution_auto">အော်တို</string>
+    <string name="ovp_resolution_not_support">ဤဗီဒီယို၏ ရီဆိုလူးရှင်းအား ပြောင်း၍ မရပါ</string>
+    <string name="ovp_resolution_title">ရီဆိုလူးရှင်း</string>
     <string name="permission_phone">ဖုန်း</string>
     <string name="permission_phone_desc">ဖုန်းခေါ်ဆိုနေစဉ် ဗီဒီယို ပြသမှုအား ခေတ္တရပ်ဆိုင်းနိုင်ရန် စက် အခြေအနေသို့ ဝင်ရောက်မည်</string>
     <string name="permission_storage">သိုလှောင်ခန်း</string>

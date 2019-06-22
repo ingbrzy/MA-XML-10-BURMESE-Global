@@ -27,4 +27,7 @@
     <plurals name="pw_comment_view_all_comment">
         <item quantity="other">မှတ်ချက် %d ခုကို ကြည့်မည်</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">မှာယူမှု ခု</item>
+    </plurals>
 </resources>

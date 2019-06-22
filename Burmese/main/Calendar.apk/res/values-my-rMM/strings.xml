@@ -21,6 +21,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">သက်တမ်းကုန်နေသည်</string>
     <string name="alert_title">ပြက္ခဒိန်အသိပေးချက်များ</string>
+    <string name="all_events">လုပ်ငန်းစဉ် အားလုံး</string>
     <string name="anniversary_event_title">နှစ်ပတ်လည်နေ့−%1$s</string>
     <string name="anniversary_secondary_tag">နှစ်ပတ်လည်နေ့</string>
     <string name="app_label">ပြက္ခဒိန်</string>
@@ -92,6 +93,7 @@
     <string name="date_interval_text_to">သို့ %1$s</string>
     <string name="date_jump_hint">လိုသောနေ့အထိ တိုက်ရိုက်ကျော်ပါ</string>
     <string name="date_jump_title">လိုသောနေ့အထိ ကျော်ပါ</string>
+    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="day_view_new_event_hint">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="default_reminder_mode">သတိပေးချက်များ</string>
@@ -301,6 +303,7 @@
     <string name="preferences_default_reminder_title">မူလသတ်မှတ် သတိပေးသူအချိန်</string>
     <string name="preferences_home_tz_title">ဒေသစံတော်ချိန်</string>
     <string name="preferences_notification_ringtone_title">အသံ</string>
+    <string name="preferences_show_indic_date_title">ဟိန္ဒီ ပြက္ခဒိန်အား ပြပါ</string>
     <string name="preferences_title">ပြက္ခဒိန်</string>
     <string name="preferences_use_home_tz_descrip">ခရီးသွားသည့်အခါ ပြက္ခဒိန်များနှင့် လုပ်ငန်းစဥ်ကို သင်၏ဒေသစံတော်ချိန်ဖြင့် ပြသမည်</string>
     <string name="preferences_use_home_tz_title">ဒေသစံတော်ချိန်ကို သုံးမည်</string>
@@ -360,10 +363,12 @@
     <string name="setting_others">နောက်ထပ်</string>
     <string name="setting_title_about">အကြောင်းအရာ</string>
     <string name="setting_title_holiday_display">အားလပ်ရပ်များအား ပြပါ</string>
+    <string name="setting_title_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="share_image">မျှဝေမည်</string>
     <string name="share_image_label">အောက်ပါဖြင့် မျှဝေမည်</string>
     <string name="share_title">မျှဝေမည်</string>
     <string name="show_day_view">ရက်စွဲပြပါ</string>
+    <string name="show_indic_date_summary">ဟိန္ဒီ ပြက္ခဒိန်ကို စနစ် ဘာသာစကားအား အိန္ဒိယ အဖြစ် သတ်မှတ်ထားသောအခါတွင် ရရှိနိုင်သည်</string>
     <string name="start_date_calculate">တွက်ချက်</string>
     <string name="storage_permission_denied">သိုလှောင်ခန်းသို့ ဦးစွာ ဝင်ရောက်ခွင့်ပြုပါ</string>
     <string name="subscribe_card">ယခုမှာယူပါ</string>

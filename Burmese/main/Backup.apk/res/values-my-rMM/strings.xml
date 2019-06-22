@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -46,6 +49,7 @@
     <string name="restore_launcher_layout_hit">စတင်ကိရိယာ ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
     <string name="settings_summary">ဖုန်းနှင့်မက်ဆေ့ချ်ပို့ခြင်း ဆက်တင်များ</string>
     <string name="camera_summary">ကင်မရာဆက်တင်များ (ဓာတ်ပုံများ မပါဝင်ပါ)</string>
+    <string name="gallery_summary">ပြခန်း ဆက်တင်များ (ဓာတ်ပုံများ မပါဝင်ပါ)</string>
     <string name="account_summary">Google အကောင့်၊ Mi အကောင့်နှင့် အခြားဒေတာကို အရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="cloud_app_name">Mi Cloud အရန်သိမ်းခြင်း</string>
     <string name="cloud_home_title">Mi Cloud</string>
@@ -194,7 +198,7 @@
     <string name="already_enable_encrypt">လျှို့ဝှက်ကုဒ်ခံသိမ်းတည်းခြင်းကို ဖွင့်ထားပြီးသားပါ</string>
     <string name="enable_encrypt_summery1">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းထားသော အရန်သိမ်းခြင်းများကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="enable_encrypt_summery2">သင့်အရန်သိမ်းခြင်းများကို အလိုအလျောက် လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းလိမ့်မည်။ ၎င်းတို့ကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ဖို့ လိုအပ်သည်။</string>
-    <string name="enable_encrypt_xiaomi_account">ဒီအရန်သိမ်းခြင်းကို %1$s ဖြင့် ဖန်တီးခဲ့သည်။ နဂိုနေရာပြန်ထားရန်၊ လက်ရှိ အကောင့်ကို ဖျက်ပစ်ပြီး၊ %2$s အဖြစ် ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="enable_encrypt_xiaomi_account">ဤအရန်သိမ်းခြင်းအား %1$s မှ ဖန်တီးခဲ့သည်။ နဂိုနေရာ ပြန်ထားရန် လက်ရှိ အကောင့်ကို ဖျက်ပစ်ပြီး %2$s ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="button_got_it">အိုကေ</string>
     <string name="no_encrypt_password">စကားဝှက် မရှိပါ</string>
     <string name="enable_encrypt_fail">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းမှုအမှား</string>
@@ -226,6 +230,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -234,6 +239,7 @@
     <string name="feature_title_contacts">အဆက်အသွယ်</string>
     <string name="feature_title_sms">မက်ဆေ့ချ်</string>
     <string name="feature_title_mms">MMS</string>
+    <string name="feature_title_mms_setting">မက်ဆေ့ချ် ဆက်တင်</string>
     <string name="feature_title_account">Mi အကောင့်</string>
     <string name="feature_title_antispam">ဘလော့စာရင်း</string>
     <string name="summary_err_backup_encrypting">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -389,9 +395,10 @@
     <string name="button_clean_garbage">နေရာလွတ် ရှင်းလင်းပါ</string>
     <string name="button_quit">ထွက်မည်</string>
     <string name="soft_ap_creating">ဟော့စ်ပေါ့ ဖန်တီးနေသည်…</string>
-    <string name="wait_link">"သင်၏ စက်အဟောင်းအား ဤဟော့စ်ပေါ့သို့ ချိတ်ဆက်ပါ။
-ချိတ်ဆက်မှု မအောင်မြင်သေးမီ ဤစာမျက်နှာမှ မထွက်သွားပါနှင့်။"</string>
-    <string name="old_way">QR ကုဒ်ဖြင့်လည်း ချိတ်ဆက်နိုင်ပါသည်။ ကုဒ် ရယူရန် ထိနှိပ်ပါ။</string>
+    <string name="wait_link">"စက်အဟောင်းထဲရှိ Mi Mover အား ဖွင့်ပါ၊
+\"ကျွန်ုပ်သည် ပေးပို့သူ ဖြစ်သည်\"အား ထိနှိပ်ပြီး ချိတ်ဆက်ရန် ဟော့စ်ပေါ့ တစ်ခု ရွေးပါ။
+ချိတ်ဆက်မှု ပြီးဆုံးသည်အထိ ဤစာမျက်နှာအား ဖွင့်ထားပါ။"</string>
+    <string name="old_way">စက်အသစ်တွင် QR ကုဒ် တစ်ခု ဖန်တီး၍ စက်အဟောင်းဖြင့် စကန်ဖတ်နိုင်သည်။</string>
     <string name="soft_ap_create_failed">ဟော့စ်ပေါ့ မဖန်တီးနိုင်ခဲ့ပါ</string>
     <string name="scan_soft_ap_label">စက်အဟောင်းသို့ ချိတ်ဆက်ပါ</string>
     <string name="scan_soft_ap">စက်အသစ်အား ရှာနေသည်…</string>
@@ -562,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>
@@ -637,8 +645,14 @@ Wi-Fi ကို မပိတ်ပါနှင့်"</string>
     <string name="dialog_app_upgrade_message">Mi Mover ဗားရှင်းအသစ် ရနိုင်ပါပြီ။ Mi Mover အား ယခု အပ်ဒိတ်လုပ်မလား?</string>
     <string name="dialog_app_upgrade_exit">ထွက်မည်</string>
     <string name="dialog_app_upgrade_download">အပ်ဒိတ်လုပ်မည်</string>
-    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
-    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
-    <string name="dialog_backup_password_cancel">Cancel</string>
-    <string name="dialog_backup_password_to_settings">Settings</string>
+    <string name="dialog_backup_password_change_machine_tips">စကားဝှက်ဖြင့် ကာကွယ်ထားသော အရန်သိမ်းခြင်းများအား လွှဲပြောင်း၍ မရပါ။ Mi Mover မသုံးမီ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
+    <string name="dialog_backup_password_backup_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက အိုင်တမ်များကို အရန်သိမ်း၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
+    <string name="dialog_backup_password_cancel">ပယ်ဖျက်မည်</string>
+    <string name="dialog_backup_password_to_settings">ဆက်တင်</string>
+    <string name="user_feedback">တုန့်ပြန်အကြံပြုချက်</string>
+    <string name="iCloud_ID_verification_tip">သင်၏ Apple အိုင်ဒီနှင့် တွဲချိတ်ထားသော ဖုန်းသို့ ပေးပို့သော SMS အတည်ပြုကုဒ်အား ရိုက်ထည့်ပါ။ သင့် iPhone မျက်နှာပြင်တွင် ပေါ်လာသော ပေါ့ပ်-အပ် ကုဒ်အား လစ်လျူရှုပါ။</string>
+    <string name="trans_complete_restoring">လွှဲပြောင်းပြီးပါပြီ။ အက်ပ်ဒေတာအား ပြန်ရယူနေသည်…</string>
+    <string name="dialog_backup_password_auto_backup_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက အိုင်တမ်များကို အလိုအလျောက် အရန်သိမ်း၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
+    <string name="dialog_backup_password_change_device_restore_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက Mi Mover အား သုံး၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
+    <string name="dialog_backup_password_restore_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက အိုင်တမ်များအား ပြန်ရယူ၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
 </resources>

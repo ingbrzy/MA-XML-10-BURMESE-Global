@@ -80,7 +80,9 @@
     <string name="hour_unit">နာရီ +</string>
     <string name="install_weather_app_error">အက်ပ်ကို ဖွင့်၍မရပါ</string>
     <string name="install_weather_app_loading">ခဏစောင့်ပါ…</string>
-    <string name="invalid_time">မမှန်ကန်သောအချိန်- %3$s %1$d- %2$d</string>
+    <string name="invalid_time">"မမှန်ကန်သောအချိန်-
+%3$s %1$d-
+%2$d "</string>
     <string name="invalid_timer_length">တိုင်မာ ကြာချိန် မမှန်ပါ</string>
     <string name="keep_screen_on">မျက်နှာပြင် ဖွင့်ထားပါ</string>
     <string name="korea_permission_calendar">ပြက္ခဒိန်</string>
@@ -167,11 +169,15 @@
     <string name="setting_alarm_arriving_summary">ဖုန်းသံမြည်မှီ အသိပေးချက်ပေးပို့ပါ</string>
     <string name="setting_alarm_arriving_title">ဖုန်းသံမြည်မှီ အသိပေးချက်</string>
     <string name="settings">ဆက်တင်များ</string>
+    <string name="shortcut_new_alarm">Set alarm</string>
+    <string name="shortcut_start_timer">Start timer</string>
+    <string name="shortcut_stop_watch">Start stopwatch</string>
     <string name="shut_down_keep_screen">စခရင်အား သိမ်းမထားပါ</string>
     <string name="shutdown_alarm_disable_summary">ဖုန်း ပါဝါပိတ်သွားသော်လည်း နှိုးစက် မပိတ်ပါ</string>
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၅ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
@@ -190,6 +196,7 @@
     <string name="start_up">စတင်ပါ</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">℃</string>
@@ -243,6 +250,7 @@
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="upcoming_alarm">နောက်မြည်မည့်နှိုးစက် %s</string>
     <string name="upcoming_alarm_hint">ဤနှိုးစက်အား ကြိုတင်ပိတ်ထားနိုင်ပါသည်</string>
+    <string name="update_notification_info">နောက်ခံတွင် ဒေတာအား အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="vibrate_pref_summary">နှိုးစက်အသံမြည်ချိန်မှာ တုန်ခါပါ</string>
     <string name="vibrate_when_ringing">ဖုန်းမြည်ချိန်မှာ တုန်ခါပါ</string>
