@@ -601,11 +601,8 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ်များအား ချိတ်ဆက်၍ မရပါ။ ဤအက်ပ်မှ တောင်းဆိုထားသော ခွင့်ပြုချက် အားလုံး ရှိမရှိ ဆက်တင် > ထည့်သွင်းထားသော အက်ပ်များတွင် စစ်ကြည့်ပါ။</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မရရှိပါ။ SD ကဒ်အား စစ်ဆေးပါ။</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
 အရွယ်အစား- %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
