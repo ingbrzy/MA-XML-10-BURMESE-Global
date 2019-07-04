@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">အသိပေးချက်များ</string>
+    <string name="default_list_type">လက်ခံရရှိသည့် အချိန်အလိုက် စီပါ</string>
+    <string name="disable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား မခွင့်ပြုပါ</string>
+    <string name="disable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား မခွင့်ပြုပါ</string>
+    <string name="disable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား မခွင့်ပြုပါ</string>
+    <string name="enable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား ခွင့်ပြုထားသည်</string>
+    <string name="enable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား ခွင့်ပြုထားသည်</string>
+    <string name="enable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား ခွင့်ပြုထားသည်</string>
+    <string name="expandable_under_keyguard">သော့ခတ်မျက်နှာပြင်တွင် အသိပေးချက်ရှိတ်အား ဖွင့်ပါ</string>
+    <string name="float_notifications">အရှင်ထားနိုင်သော အသိပေးချက်များ</string>
+    <string name="hint_search_all">အက်ပ်များအား ရှာဖွေရန်</string>
+    <string name="hint_search_in_disabled_apps">အသိပေးချက်များ မပြနိုင်သည့် အက်ပ်များအား ရှာဖွေရန်</string>
+    <string name="hint_search_in_enabled_apps">အသိပေးချက်များ ဖော်ပြနိုင်သည့် အက်ပ်များအား ရှာဖွေရန်</string>
+    <string name="list_title_disable_notification">အသိပေးချက်များအား မခွင့်ပြုပါ</string>
+    <string name="loading">ခဏစောင့်ပါ…</string>
+    <string name="lock_screen_display_rules">ပုံစံချရန်</string>
+    <string name="lock_screen_tip_toast">\"အက်ပ် အသိပေးချက်\"ရှိ အသိပေးချက်များအား ဦးစွာ ခွင့်ပြုမည်</string>
+    <string name="lockscreen_notifications">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
+    <string name="not_sent_recently">မပို့ရသေးသော</string>
+    <string name="notification_display_setting">အသိပေးချက်ရှိတ်</string>
+    <string name="notification_display_style">အသိပေးချက် ပုံစံ</string>
+    <string name="notification_fold_summary">အရေးမကြီးသော အသိပေးချက် အားလုံးကို သီးခြား ဖိုလ်ဒါ တစ်ခုတွင် ထည့်ထားမည်။</string>
+    <string name="notification_fold_title">အသိပေးချက် ဖိုလ်ဒါ</string>
+    <string name="notification_manager">အက်ပ် အသိပေးချက်များ</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">ပိတ်မည်</string>
+    <string name="on">ဖွင့်မည်</string>
+    <string name="show_badge_notifications">အသိပေးချက် တံဆိပ်</string>
+    <string name="summary_disable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား မခွင့်ပြုပါ</string>
+    <string name="summary_disable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား မခွင့်ပြုပါ</string>
+    <string name="summary_disable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား မခွင့်ပြုပါ</string>
+    <string name="summary_enable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား ခွင့်ပြုထားသည်</string>
+    <string name="summary_enable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား ခွင့်ပြုထားသည်</string>
+    <string name="summary_enable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား ခွင့်ပြုထားသည်</string>
+    <string name="summary_float_enable_notification_first">အသိပေးချက်အား အရှင်ထားနိုင်သော အသိပေးချက်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
+    <string name="summary_lock_screen_enable_notification_first">အသိပေးချက်အား သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
+    <string name="summary_show_badge_enable_notification_first">အသိပေးချက်အား အသိပေးချက် တံဆိပ်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
+</resources>
