@@ -33,13 +33,4 @@
     <plurals name="numSelectedFile">
         <item quantity="other">" %1$d  ကို ရွေးထားပြီးပြီ"</item>
     </plurals>
-    <plurals name="search_head_hint_app">
-        <item quantity="other">အက်ပ် \"%1$s\" ဆက်စပ်နေသော ဖိုင်များ(အိုင်တမ် %2$d ခု)</item>
-    </plurals>
-    <plurals name="search_head_hint_file">
-        <item quantity="other">\"%1$s\" နှင့်ဆက်စပ်ဖိုင်များ (%2$d ခု)</item>
-    </plurals>
-    <plurals name="search_head_hint_tag">
-        <item quantity="other">တက်ဂ် \"%1$s\" နှင့်ဆက်စပ်ဖိုင်များ (%2$d ခု)</item>
-    </plurals>
 </resources>

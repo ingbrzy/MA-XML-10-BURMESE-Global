@@ -6,13 +6,16 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_home_title">စက်အတွင်းတွင် အရန်သိမ်းပါ</string>
     <string name="button_backup">အရန်သိမ်းပါ</string>
     <string name="start_backup">အရန်သိမ်းခြင်းလုပ်ပါ</string>
-    <string name="button_cancel">ပယ်ဖျက်မည်</string>
+    <string name="button_cancel">ပယ်ဖျက်ပါ</string>
     <string name="button_send">ပို့ပါ</string>
     <string name="backup_empty">အရန်သိမ်းများမရှိပါ</string>
     <string name="data_detail_description">အသေးစိတ်များ</string>
@@ -27,11 +30,11 @@
     <string name="backup_hint">သင့်ကိရိယာကို ပါဝါဖွင့်ထားပါ</string>
     <string name="backup_hint_onpad">သင့်ကိရိယာကို ပါဝါဖွင့်ထားပါ</string>
     <string name="delete_backup_title">အရန်သိမ်းအားဖျက်ပါ</string>
-    <string name="delete">ဖျက်ပစ်မည်</string>
-    <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="delete">ဖျက်ပစ်ပါ</string>
+    <string name="cancel">ပယ်ဖျက်ပါ</string>
     <string name="reconnect">ပြန်ချိတ်ဆက်ပါ</string>
     <string name="pause">ခေတ္တရပ်ဆိုင်းပါ</string>
-    <string name="delete_backup_process">ဖျက်နေသည်…</string>
+    <string name="delete_backup_process">ဖျက်ပစ်နေဆဲ…</string>
     <string name="backup_error">အရန်သိမ်းဆည်းမှု မရနိုင်ခဲ့</string>
     <string name="delete_failed_backup_confirm">ဤအရန်သိမ်းထားမှုတွင် အမှားများရှိပါသည်</string>
     <string name="batch_delete_backup_confirm">ရွေးထားသော အရန်သိမ်းများကို ဖျက်ပစ်မည်လား?</string>
@@ -48,26 +51,26 @@
     <string name="camera_summary">ကင်မရာဆက်တင်များ (ဓာတ်ပုံများ မပါဝင်ပါ)</string>
     <string name="gallery_summary">ပြခန်း ဆက်တင်များ (ဓာတ်ပုံများ မပါဝင်ပါ)</string>
     <string name="account_summary">Google အကောင့်၊ Mi အကောင့်နှင့် အခြားဒေတာကို အရန်သိမ်းခြင်းလုပ်ပါ</string>
-    <string name="cloud_app_name">Mi Cloud အရန်သိမ်းခြင်း</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="cloud_app_name">Xiaomi ကလောက် အရန်သိမ်းစနစ်</string>
+    <string name="cloud_home_title">Xiaomi ကလောက်</string>
     <string name="prompt_reading">ဖတ်နေဆဲ…</string>
     <string name="prompt_sending">အပ်လုပ်တင်နေဆဲ…</string>
     <string name="prompt_writing">သိမ်းဆည်းနေဆဲ…</string>
     <string name="backup_new">အသစ်:</string>
     <string name="backup_update">အသစ်မွမ်းမံ</string>
-    <string name="backup_delete">ဖျက်ပစ်မည်-</string>
+    <string name="backup_delete">ဖျက်ပစ်ပါ:</string>
     <string name="findlost_contact">အဆက်အသွယ်များ နဂိုနေရာပြန်ထားပါ</string>
-    <string name="findlost_contact_online">Mi Cloud မှ အဆက်အသွယ်များ နဂိုနေရာပြန်ထားပါ</string>
+    <string name="findlost_contact_online">ကလောက်ရှိ အဆက်အသွယ်များကို ပြန်ယူရန်</string>
     <string name="cloud_backup_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="cloud_backup_hint">သင့်အရန်သိမ်းခြင်းများကို ဝင်ကြည့်ရန်၊ ယခု ဆိုင်းအင်ဝင်ပါ</string>
-    <string name="cloud_backup_window_title">Mi Cloud အရန်သိမ်းခြင်း</string>
-    <string name="cloud_restore_window_title">Mi Cloud နဂိုနေရာပြန်ထားခြင်း</string>
+    <string name="cloud_backup_window_title">Xiaomi ကလောက် အရန်သိမ်းဆည်းခြင်းများ</string>
+    <string name="cloud_restore_window_title">Xiaomi ကလောက်မှ ပြန်ယူရန်</string>
     <string name="cloud_restore_title">အရန်သိမ်းခြင်းဒေတာ နဂိုနေရာပြန်ထားပါ</string>
     <string name="local_backup_window_title">စက်အတွင်း အရန်သိမ်းထားသော ဒေတာ</string>
     <string name="local_restore_window_title">နေရာကွက်၍ နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="account_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="miliao_account_login">Mi Talk ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
-    <string name="miliao_account_guide">Mi Cloud သို့ ဆိုင်းအင်ဝင်ရန် သင်၏ Mi အကောင့်ကို သုံးပါ။</string>
+    <string name="miliao_account_guide">Xiaomi ကလောက်၊ MIUI အပြင်အဆင်များနှင့် အခြား Mi ဝန်ဆောင်မှုများသို့ မည်သည့်နေရာမှမဆို ဝင်နိုင်ရန် သင်၏ Mi အကောင့်ကို သုံးပါ။</string>
     <string name="auto_backup">ပုံမှန် အရန်သိမ်းခြင်းအတွက် အချိန်သတ်မှတ်ပါ</string>
     <string name="contact_title">အဆက်အသွယ်များ</string>
     <string name="call_title">ဖုန်းခေါ်မှတ်တမ်း</string>
@@ -75,7 +78,7 @@
     <string name="mms_title">မာတီမီဒီယာ မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="wifi_title">Wi-Fi ဆက်တင်များ</string>
     <string name="phone_title">ဖုန်း ဆက်တင်</string>
-    <string name="note_title">မှတ်စု</string>
+    <string name="note_title">မှတ်ချက်များ</string>
     <string name="compute_backup_info">အရန်သိမ်းခြင်းအချက်အလက်ရယူနေဆဲ…</string>
     <string name="compute_delete_contact_info">အင်ဖို… ကို ရယူနေဆဲ</string>
     <string name="unknown_hint">အမည်မသိ</string>
@@ -87,7 +90,7 @@
     <string name="task_canceled">အရန်သိမ်းခြင်း ပယ်ဖျက်ခဲ့သည်</string>
     <string name="task_failed">အရန်သိမ်းခြင်းလုပ်လို့ မရပါ</string>
     <string name="task_canceled_local">အရန်သိမ်းခြင်း မပြီးမြောက်ပါ (%s)</string>
-    <string name="task_canceled_all_local">ပယ်ဖျက်ခဲ့သည်</string>
+    <string name="task_canceled_all_local">ပယ်ဖျက်ပြီး</string>
     <string name="task_failed_local">အရန်သိမ်းခြင်း မပြီးမြောက်ပါ (%s)</string>
     <string name="task_failed_all_local">အရန်သိမ်းခြင်းလုပ်လို့ မရပါ</string>
     <string name="task_backup_finished_local">အရန်သိမ်းခြင်းလုပ်ထားသည်</string>
@@ -98,11 +101,11 @@
     <string name="sdcard_no_enough_space_message">သင်၏ SD ကဒ်၌ နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="data_no_enough_space_message">သင်၏စက်အတွင်းနေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="task_running_hint">ဤလုပ်ငန်းစဉ်က နောက်ခံတွင် အလုပ်လုပ်နေပြီးသား ဖြစ်သည်</string>
-    <string name="task_running_dialog">အရန်သိမ်းခြင်းနှင့် ပြန်လည်ရယူခြင်းတို့အား လုပ်ဆောင်နေသည်။ ကြည့်ရှုရန် အိုကေအား ထိနှိပ်ပါ။</string>
+    <string name="task_running_dialog">အရန်သိမ်းခြင်းနှင့် နဂိုနေရာပြန်ထားခြင်းတို့က လုပ်ဆောင်ဆဲ ဖြစ်သည်</string>
     <string name="task_running_backup_hint">ဤလုပ်ငန်းက နောက်ခံတွင် အလုပ်လုပ်နေပြီးသား ဖြစ်သည်</string>
     <string name="task_running_restore_hint">ဤလုပ်ငန်းက နောက်ခံတွင် အလုပ်လုပ်နေပြီးသား ဖြစ်သည်</string>
-    <string name="task_running_backup_dialog">အရန်သိမ်းခြင်းအား လုပ်ဆောင်နေသည်။ ကြည့်ရှုရန် အိုကေအား ထိနှိပ်ပါ။</string>
-    <string name="task_running_restore_dialog">ပြန်လည်ရယူခြင်းအား လုပ်ဆောင်နေသည်။ ကြည့်ရှုရန် အိုကေအား ထိနှိပ်ပါ။</string>
+    <string name="task_running_backup_dialog">အရန်သိမ်းခြင်း လုပ်ဆောင်ဆဲ ဖြစ်သည်။ ကြည့်ရန် အိုကေအား တို့ထိပါ။</string>
+    <string name="task_running_restore_dialog">နဂိုနေရာပြန်ထားခြင်းကို လုပ်ဆောင်ဆဲ ဖြစ်သည်။ ကြည့်ရန် အိုကေအား တို့ထိပါ။</string>
     <string name="task_service_not_launched">လုပ်ငန်းကို မစတင်ရသေးပါ</string>
     <string name="task_local_backup_cancel_dialog">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
     <string name="task_cloud_backup_cancel_dialog">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -115,7 +118,7 @@
     <string name="sc_network_unavailable">သင်၏ ချိတ်ဆက်မှုကို စစ်ဆေးပြီး၊ ထပ်ကြိုးစားပါ။</string>
     <string name="sc_bad_request">မခိုင်လုံသော တောင်းဆိုချက်</string>
     <string name="sc_unaccess_password_file">Wi-Fiကွန်ရက် စကားဝှက်ကို ရှာမတွေ့ပါ</string>
-    <string name="sc_service_unavailable">Mi Cloud မရနိုင်ပါ</string>
+    <string name="sc_service_unavailable">Xiaomi ကလောက် မရရှိနိုင်ပါ</string>
     <string name="sc_unauthorized">ထပ်မံ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="sc_request_timeout">တောင်းဆိုချိန် ကုန်သွားပါပြီ</string>
     <string name="sc_precondition_failed">အီးမေးလ်တစ်ခုကို သင်၏ Mi အကောင့်သို့ ဦးစွာ ပေါင်းထည့်ရန် လိုအပ်သည်။</string>
@@ -124,7 +127,7 @@
     <string name="succeed">ပြီးမြောက်ပါပြီ</string>
     <string name="fail">မအောင်မြင်ပါ</string>
     <string name="button_return">ယခင်သို့</string>
-    <string name="button_next">နောက်တစ်ဆင့်</string>
+    <string name="button_next">နောက်ထပ်</string>
     <string name="button_finish">ပြီးပါပြီ</string>
     <string name="progress_backup_hint">အရန်သိမ်းဆည်းနေ…</string>
     <string name="cancel_backup">ရပ်ဆိုင်းပါ</string>
@@ -173,13 +176,13 @@
     <string name="deselect_all">အားလုံး ဖြုတ်ပါ</string>
     <string name="reverse_all">အားလုံး ရှင်းပစ်ပါ</string>
     <string name="refresh">ရီဖရက်ရှ်လုပ်ပါ</string>
-    <string name="cloud_item_info_summary">" (ဒေသခံကွန်ရက်: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">(စက်ထဲတွင် - %1$s | Xiaomi ကလောက်တွင် - %2$s)</string>
     <string name="cloud_restore_guide">%s အတွက် သုံးသူဒေတာကို နဂိုနေရာပြန်ထားရန်၊ နဂိုနေရာပြန်ထားပါကို တို့ထိပါ</string>
     <string name="import_from_xiaomi_account_hint1">"၁။\u0009Mi Talk အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပြီး၊ ဆိုင်းအင်ဝင်ပါ။
 \u0009http://www.miliao.com
 
 ၂။\u0009Mi Talk ဆက်တင်များသို့ သွား၍၊ “အဆက်အသွယ်များကို Mi အကောင့်သို့ အရန်သိမ်းခြင်းလုပ်ပါ” ကို ရွေးပါ"</string>
-    <string name="import_from_xiaomi_account_hint2">သင့်တွင် အရန်သိမ်းခြင်း တစ်ခု ရှိနေပြီးသားဖြစ်ပါက နောက်တစ်ဆင့်ကို ထိနှိပ်ပါ။</string>
+    <string name="import_from_xiaomi_account_hint2">အကယ်၍ သင်၌ အရန်သိမ်းခြင်းတစ်ခု ရှိနေပြီးသားဖြစ်ပါက၊ နောက်သို့ကို တို့ထိပါ။</string>
     <string name="import_from_xiaomi_account_hint_title">သင့်အဆက်အသွယ်များကို ကိရိယာများအနှံ့ အရန်သိမ်းခြင်းလုပ်ရန်၊ Mi Talk ကို သုံးပါ။</string>
     <string name="guarded_mode_dialog_title">သင်သည် ဧည့်သုံးနည်းပုံစံ၌ ရှိနေသည်</string>
     <string name="guarded_mode_dialog_backup_message">ဧည့်သည်မုဒ်တွင် အရန်သိမ်းခြင်းအား ခွင့်ပြုပါ</string>
@@ -195,7 +198,7 @@
     <string name="already_enable_encrypt">လျှို့ဝှက်ကုဒ်ခံသိမ်းတည်းခြင်းကို ဖွင့်ထားပြီးသားပါ</string>
     <string name="enable_encrypt_summery1">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းထားသော အရန်သိမ်းခြင်းများကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="enable_encrypt_summery2">သင့်အရန်သိမ်းခြင်းများကို အလိုအလျောက် လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းလိမ့်မည်။ ၎င်းတို့ကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ဖို့ လိုအပ်သည်။</string>
-    <string name="enable_encrypt_xiaomi_account">ဤအရန်သိမ်းခြင်းအား %1$s မှ ဖန်တီးခဲ့သည်။ နဂိုနေရာ ပြန်ထားရန် လက်ရှိ အကောင့်ကို ဖျက်ပစ်ပြီး %2$s ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="enable_encrypt_xiaomi_account">ဒီအရန်သိမ်းခြင်းကို %1$s ဖြင့် ဖန်တီးခဲ့သည်။ နဂိုနေရာပြန်ထားရန်၊ လက်ရှိ အကောင့်ကို ဖျက်ပစ်ပြီး၊ %2$s အဖြစ် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="button_got_it">အိုကေ</string>
     <string name="no_encrypt_password">စကားဝှက် မရှိပါ</string>
     <string name="enable_encrypt_fail">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းမှုအမှား</string>
@@ -204,7 +207,7 @@
     <string name="system_backup">အရန်သိမ်းခြင်း</string>
     <string name="backup_empty_info">" သင့်ဒေတာ၊ ဆက်တင်များနှင့် အက်ပ်များကို အရန်သိမ်းခြင်းလုပ်ပါ"</string>
     <string name="backup_empty_info_onpad">" သင့်ဒေတာ၊ ဆက်တင်များနှင့် အက်ပ်များကို အရန်သိမ်းခြင်းလုပ်ပါ"</string>
-    <string name="system_backup_info">စက်စနစ် ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် ဖွဲ့စည်းပုံ</string>
+    <string name="system_backup_info">စက်စနစ်ဆက်တင်များနှင့် အိမ်မျက်နှာပြင် အဆင်အပြင်</string>
     <string name="software_backup_info">အက်ပ်ဒေတာ</string>
     <string name="account_contact_backup_info">Google အကောင့်၊ Mi အကောင့်နှင့် အဆက်အသွယ်များ ဒေတာ</string>
     <string name="files_backup_info">SD ကဒ်ထဲရှိဖိုင်အားလုံး (ဓါတ်ပုံများ၊ သီချင်းများ၊ ဗီဒီယိုများနှင့် အက်ပ်ဒေတာ စသည်တို့ ပါဝင်သည်)</string>
@@ -227,6 +230,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -247,7 +251,7 @@
     <string name="err_unknown">အမည်မသိ အမှား</string>
     <string name="err_version_too_old">အရန်သိမ်းခြင်းဖိုင်က ဟောင်းလွန်းသည်။</string>
     <string name="err_version_unsupported">အရန်သိမ်းခြင်းဗားရှင်းကို ပံ့ပိုးမှုမပေးပါ။</string>
-    <string name="err_bakfile_broken">ဤအရန်သိမ်းခြင်းအား သုံး၍ မရပါ။</string>
+    <string name="err_bakfile_broken">ဒီအရန်သိမ်းခြင်းကို သုံးလို့ မရပါ။</string>
     <string name="err_filesystem_mount">ရောက်တာ၏သိုလှောင်မှုသို့ မဝင်ရောက်နိုင်</string>
     <string name="err_router_disconnected">သင့်ရောက်တာ၏ ကော်နက်ရှင်အား စစ်ဆေးပြီး၊ ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="err_router_files_delete">သင့်ရောက်တာပေါ်ရှိ အရန်သိမ်းဖိုင်များအား ဖျက်၍မရနိုင်ခဲ့ပါ။</string>
@@ -257,7 +261,7 @@
     <string name="err_pkg_not_exist">အက်ပ်ကို ရှာမတွေ့ပါ။</string>
     <string name="err_user_abort">သုံးစွဲသူမှ ပယ်ဖျက်ခဲ့သည်။</string>
     <string name="err_binder_died">အက်ပ်သည် မမျှော်လင့်ဘဲ ရပ်တန့်သွားသည်။</string>
-    <string name="err_no_gms">အက်ပ် ဗားရှင်း မကိုက်ညီပါ။ ဤအက်ပ်အား သီးခြား ထည့်သွင်းပါ။</string>
+    <string name="err_no_gms">အက်ပ် ဗားရှင်း မကိုက်ညီပါ။ ဤအက်ပ်အား သီးခြား ထည့်သွင်းပါ</string>
     <string name="backup_is_running">ကိရိယာကို အရန်သိမ်းခြင်းလုပ်နေဆဲ</string>
     <string name="restore_is_running">ကိရိယာကို နဂိုနေရာပြန်ထားနေဆဲ</string>
     <string name="notif_backup_title">ဒေတာ အရန်သိမ်းခြင်းလုပ်ပါ</string>
@@ -276,7 +280,7 @@
     <string name="remote_receive">လက်ခံရရှိ</string>
     <string name="click_to_view">ကြည့်ရန် နှိပ်ပါ</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_main_tutor">ဆက်သွယ်မှုများ၊ ခေါ်ဆိုမှတ်တမ်းများ၊ မက်ဆေ့ချ်များ၊ ပင်မမျက်နှာပြင်ဖွဲ့စည်းပုံ၊ အက်ပ်များနှင့် ဆက်တင်များ စသည်တို့အား စက်အသစ်ဆီသို့ လွှဲပြောင်းပါ</string>
+    <string name="trans_main_tutor">ဆက်သွယ်မှုများ၊ ခေါ်ဆိုမှတ်တမ်းများ၊ မက်ဆေ့ချ်များ၊ အိမ်မျက်နှာပြင်ဖွဲ့စည်းပုံ၊ အက်ပ်များနှင့် ဆက်တင်များ စသည်တို့အား စက်အသစ်ဆီသို့ လွှဲပြောင်းပါ</string>
     <string name="trans_sender">ကျွန်ုပ်မှာ ပေးပို့သူဖြစ်သည်</string>
     <string name="trans_receiver">ကျွန်ုပ်မှာ လက်ခံသူဖြစ်သည်</string>
     <string name="trans_waiting_for_sender">စက်အဟောင်းအား ချိတ်ဆက်ရန် စောင့်နေ…</string>
@@ -311,9 +315,7 @@
     <string name="trans_detail_item_app_data_too_large_tip">ဤအိုင်တမ်မှာ ကြီးလွန်းသောကြောင့် လွှဲပြောင်း၍ မရနိုင်ပါ။</string>
     <string name="trans_detail_item_app_data_skip_data">အက်ပ် ဒေတာအား လွှဲပြောင်း၍ မရပါ</string>
     <string name="trans_detail_item_app_data_selected_tip">သက်ဆိုင်ရာ အက်ပ်များကို ရွေးပြီးပါပြီ။</string>
-    <string name="trans_detail_list_footer">"၁။ လွှဲပြောင်းလိုသော အက်ပ်များအား တစ်ခုချင်း ရွေးနိုင်ပါသည်။
-၂။ အက်ပ်ဒေတာများအား ရွေးချယ်ပြီးနောက် သက်ဆိုင်ရာ အက်ပ်ကိုလည်း ရွေးလိမ့်မည်။
-၃။ လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် WeChat နှင့် QQ ၏ အက်ပ်ဒေတာများသည် လွှဲပြောင်းရာတွင် မအောင်မြင်မှုများ ရှိနိုင်သည်။ WeChat တွင် ပါရှိသော လွှဲပြောင်းမှု အင်္ဂါရပ်အား အသုံးပြုရန် အကြံပြုပါသည်။"</string>
+    <string name="trans_detail_list_footer">၁။ လွှဲပြောင်းလိုသော အက်ပ်များအား တစ်ခုချင်း ရွေးနိုင်ပါသည်။ ၂။ အက်ပ်ဒေတာများအား ရွေးချယ်ပြီးနောက် သက်ဆိုင်ရာ အက်ပ်ကိုလည်း ရွေးလိမ့်မည်။ ၃။ လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် WeChat နှင့် QQ ၏ အက်ပ်ဒေတာများသည် လွှဲပြောင်းရာတွင် မအောင်မြင်မှုများ ရှိနိုင်သည်။ WeChat တွင် ပါရှိသော လွှဲပြောင်းမှု အင်္ဂါရပ်အား အသုံးပြုရန် အကြံပြုပါသည်။</string>
     <string name="trans_detail_page_tip">လွှဲပြောင်းမှု ကြာရှည်ချိန်သည် သင် ရွေးချယ်သောအိုင်တမ်များအပေါ် မူတည်ပါသည်။</string>
     <string name="trans_detail_sys_data_list_title">စနစ် အက်ပ်များ</string>
     <string name="trans_detail_app_data_list_title">အက်ပ်ဒေတာ</string>
@@ -372,9 +374,7 @@
     <string name="trans_wait_trans_data">"စက်ဟောင်းသို့ ချိတ်ဆက်ခဲ့သည်။ 
 လွှဲပြောင်းမှုအတွက် စ​ောင့်စားနေ…"</string>
     <string name="trans_select_data">ပေးပို့ရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
-    <string name="trans_select_data_tips">"လွှဲပြောင်းရန် အိုင်တမ်များ ရွေးချယ်ပါ။
-စက် အသစ်ထဲရှိ ဆင်တူ အိုင်တမ်များ အပေါ် ဖျက်ပြီးပြန်ရေးပါမည်။
-(လွှဲပြောင်းမည့် အိုင်တမ် အရွယ်အစားသည် ခန်းမှန်းခြေ ဖြစ်သည်။)"</string>
+    <string name="trans_select_data_tips">လွှဲပြောင်းရန် အိုင်တမ်များ ရွေးချယ်ပါ။ စက် အသစ်ထဲရှိ ဆင်တူ အိုင်တမ်များ အပေါ် ဖျက်ပြီးပြန်ရေးပါမည်။ (လွှဲပြောင်းမည့် အိုင်တမ် အရွယ်အစားသည် ခန်းမှန်းခြေ ဖြစ်သည်။)</string>
     <string name="trans_select_data_no_space">"စက်အသစ်တွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ (%s ရရှိနိုင်သည်)။
 နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။"</string>
     <string name="trans_select_data_too_large">"လွှဲပြောင်းရန် ရွေးထားသော အိုင်တမ် အလွန်များနေသည်။
@@ -391,9 +391,7 @@
     <string name="button_clean_garbage">နေရာလွတ် ရှင်းလင်းပါ</string>
     <string name="button_quit">ထွက်မည်</string>
     <string name="soft_ap_creating">ဟော့စ်ပေါ့ ဖန်တီးနေသည်…</string>
-    <string name="wait_link">"စက်အဟောင်းထဲရှိ Mi Mover အား ဖွင့်ပါ၊
-\"ကျွန်ုပ်သည် ပေးပို့သူ ဖြစ်သည်\"အား ထိနှိပ်ပြီး ချိတ်ဆက်ရန် ဟော့စ်ပေါ့ တစ်ခု ရွေးပါ။
-ချိတ်ဆက်မှု ပြီးဆုံးသည်အထိ ဤစာမျက်နှာအား ဖွင့်ထားပါ။"</string>
+    <string name="wait_link">စက်အဟောင်းထဲရှိ Mi Mover အား ဖွင့်ပါ၊ ကျွန်ုပ်သည် ပေးပို့သူ ဖြစ်သည်အား ထိနှိပ်ပြီး ချိတ်ဆက်ရန် ဟော့စ်ပေါ့ တစ်ခု ရွေးပါ။ ချိတ်ဆက်မှု ပြီးဆုံးသည်အထိ ဤစာမျက်နှာအား ဖွင့်ထားပါ။</string>
     <string name="old_way">စက်အသစ်တွင် QR ကုဒ် တစ်ခု ဖန်တီး၍ စက်အဟောင်းဖြင့် စကန်ဖတ်နိုင်သည်။</string>
     <string name="soft_ap_create_failed">ဟော့စ်ပေါ့ မဖန်တီးနိုင်ခဲ့ပါ</string>
     <string name="scan_soft_ap_label">စက်အဟောင်းသို့ ချိတ်ဆက်ပါ</string>
@@ -435,12 +433,12 @@
     <string name="trans_intro_desc_1">Mi ဖုန်းအား Wi-Fiသို့ ချိတ်ဆက်၍ \"ကျွန်ုပ်သည် လက်ခံသူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ သင်၏ iOS စက်ပစ္စည်းကို ရွေးပြီး iCloud သို့ ဆိုင်းအင်ဝင်၍ ဒေတာ တင်သွင်းပါ။</string>
     <string name="trans_intro_question_2">%d။ Android စက်ပစ္စည်းမှ ဒေတာများကို Mi Mover ဖြင့် ဘယ်လိုပြောင်းရွှေ့ရမလဲ?</string>
     <string name="trans_intro_title_new">ဖုန်းအသစ်တွင်-</string>
-    <string name="trans_intro_desc_new">\"ကျွန်ုပ်သည် လက်ခံသူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ QR ကုဒ် တစ်ခု ထွက်ပေါ်လာမည်။</string>
+    <string name="trans_intro_desc_new">ကျွန်ုပ်သည် လက်ခံသူဖြစ်သည်ကို ထိနှိပ်ပါ။ QR ကုဒ် တစ်ခု ထွက်ပေါ်လာမည်။</string>
     <string name="trans_intro_title_old">ဖုန်းအဟောင်းတွင်-</string>
     <string name="trans_intro_desc_old">\"ကျွန်ုပ်သည် ပေးပို့သူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
     <string name="trans_intro_desc_old_market">\"စတင်ပါ\"အား ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
     <string name="trans_intro_question_10">%d။ စက်အဟောင်းတွင် ဟော့စ်ပေါ့အား ရှာမတွေ့ပါသလား?</string>
-    <string name="trans_intro_desc_10">စက်အသစ်တွင် \"QR ကုဒ်ဖြင့် ချိတ်ဆက်မည်\"အား ထိနှိပ်ပြီး ချိတ်ဆက်မှုအတွက် QR ကုဒ်ကို စကန်ဖတ်ပါ။</string>
+    <string name="trans_intro_desc_10">စက်အသစ်တွင် QR ကုဒ်ဖြင့် ချိတ်ဆက်မည်အား ထိနှိပ်ပြီး ချိတ်ဆက်မှုအတွက် QR ကုဒ်ကို စကန်ဖတ်ပါ။</string>
     <string name="trans_intro_question_3">%d။ Mi Moverသည် တစ်နေရာရာတွင် ရှေ့ဆက်၍မရပါက ဘယ်လိုလုပ်ရမလဲ?</string>
     <string name="trans_intro_desc_3">လွှဲပြောင်းမှုအား ဖျက်သိမ်း၍ Mi Mover မှ ထွက်ပြီး ပြန်စပါ။ လွှဲပြောင်းမှုအသစ်တွင် တူညီသောဖိုင်များ ထပ်နေမည် မဟုတ်ပါ။</string>
     <string name="trans_intro_question_4">%d။ အဘယ်ကြောင့် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi သုံး၍မရသနည်း?</string>
@@ -458,7 +456,7 @@
     <string name="trans_intro_title_account">အကောင့်များ နှင့် စကားဝှက်များ</string>
     <string name="trans_intro_desc_account">လုံခြုရေးအတွက် သင်၏အကောင့်များ (ဥပမာ- Mi အကောင့်၊ Exchange အကောင့်၊ Google အကောင့်)ကို စက်အသစ်ပေါ်တွင် ထပ်မံဆိုင်းအင်ဝင်ရမည်။</string>
     <string name="trans_intro_title_private">ဝှက်ထားသော အယ်လ်ဘမ်-</string>
-    <string name="trans_intro_desc_private">ဝှက်ထားသော အယ်လ်ဘမ်ရှိ ဓာတ်ပုံများသည် လျှို့ဝှက်ကုဒ်သွင်းထားသဖြင့် Mi Mover မှ ဖတ်ယူ၍မရပါ။ ထိုဓာတ်ပုံများကို Mi Cloud မှတဆင့် စက်အသစ်ထဲတွင် ပြန်လည်သိမ်းဆည်းနိုင်ပါသည်။</string>
+    <string name="trans_intro_desc_private">ဝှက်ထားသော အယ်လဘမ်ရှိ ဓာတ်ပုံများတွင် လျှို့ဝှက်ကုဒ်သွင်းထားသဖြင့် Mi Mover က ဖတ်မရပါ။ ၎င်းဓာတ်ပုံများကို Xiaomi ကလောက်မှတစ်ဆင့် စက်အသစ်ထဲသို့ ပြန်ယူနိုင်ပါသည်။</string>
     <string name="trans_intro_title_multiuser">ဒုတိယနေရာ ဒေတာ-</string>
     <string name="trans_intro_desc_multiuser">ဒုတိယနေရာရှိ အိုင်တမ်များကို Mi Mover မှ ဖတ်ယူ၍မရပါ။ ထိုအိုင်တမ်များကို ပထမနေရာသို့ရွှေ့ပြီး Mi Mover အား ပထမနေရာတွင် စတင်ဆောင်ရွက်စေပါ။</string>
     <string name="trans_intro_title_multiapp">နှစ်ခုတွဲအက်ပ် ဒေတာ-</string>
@@ -472,7 +470,7 @@
     <string name="trans_intro_desc_9_method_2_dec">သင်၏အကြံပြုချက်များအား miui-mover@xiaomi.comသို့ ပေးပို့ပါ။</string>
     <string name="trans_intro_desc_9_method_3_title">၃။ ပြဿနာများအား QQတွင် အစီရင်ခံပါ</string>
     <string name="trans_intro_desc_9_method_3_dec">Mi Mover၏ QQအုပ်စု- ၆၈၇၃၃၈၃၇၈</string>
-    <string name="btn_got_it">နားလည်ပါပြီ</string>
+    <string name="btn_got_it">ရပြီ</string>
     <string name="backup_security_tips_title">အရန်သိမ်းခြင်း အလုပ်မလုပ်ပါ</string>
     <string name="backup_security_tips_message">အချို့အက်ပ်များသည် အရန်သိမ်းဆည်းခြင်းနှင့် ပြန်လည်ရယူခြင်း လုပ်နိုင်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="trans_security_tips_title">Mi Mover လိုက်ဖက်မှု</string>
@@ -550,8 +548,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="hsa_sending">ပေးပို့နေသည်…</string>
     <string name="hsa_send_failed">အတည်ပြုကုဒ် ပေးပို့၍မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="hsa_tip_title">အကြံပြုချက်များ-</string>
-    <string name="hsa_tip_message">"၁။ အတည်ပြုကုဒ်ပါသော မက်ဆေ့ချ်တစ်စောင်ကို သင်၏ Apple ID နှင့်တွဲချိတ်ထားသော စက်သို့ ပေးပို့ထားသည်။
-၂. အတည်ပြုကုဒ် မအောင်မြင်ပါက လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ။"</string>
+    <string name="hsa_tip_message">၁။ အတည်ပြုကုဒ်မရနိုင်လျှင် သင့် Apple စက်ရှိ iCloud တွင် သင့်အကောင့်ဝင်ထားမထား ပြန်စစ်ပါ။ အတည်ပြုကုဒ်ထည့်ပြီးနောက်လည်း မပြေလည်ပါက နှစ်ဆင့်အတည်ပြုစနစ်ကို ပိတ်ပါ။</string>
     <string name="hsa_tip_message_with_device">"၁။ အတည်ပြုကုဒ်ပါသော မက်ဆေ့ချ်တစ်စောင်ကို သင်၏ Apple ID နှင့်တွဲချိတ်ထားသော \"%s\"သို့ ပေးပို့ထားသည်။
 ၂. အတည်ပြုကုဒ် မအောင်မြင်ပါက လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ။"</string>
     <string name="hsa_tip_message_shutdown_hsa">လုံခြုံရေးနှစ်ထပ် စနစ်ကို ဘယ်လိုပိတ်ရမလဲ</string>
@@ -565,6 +562,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>
@@ -645,9 +643,10 @@ Wi-Fi ကို မပိတ်ပါနှင့်"</string>
     <string name="dialog_backup_password_cancel">ပယ်ဖျက်မည်</string>
     <string name="dialog_backup_password_to_settings">ဆက်တင်</string>
     <string name="user_feedback">တုန့်ပြန်အကြံပြုချက်</string>
-    <string name="iCloud_ID_verification_tip">သင်၏ Apple အိုင်ဒီနှင့် တွဲချိတ်ထားသော ဖုန်းသို့ ပေးပို့သော SMS အတည်ပြုကုဒ်အား ရိုက်ထည့်ပါ။ သင့် iPhone မျက်နှာပြင်တွင် ပေါ်လာသော ပေါ့ပ်-အပ် ကုဒ်အား လစ်လျူရှုပါ။</string>
+    <string name="iCloud_ID_verification_tip">အတည်ပြုကုဒ်ပေါ်လာရန် သင့် Apple စက်တွင် ခွင့်ပြုရန် ကို တို့ပါ။ အတည်ပြုကုဒ်ကို ဤနေရာတွင် ထည့်ပါ။</string>
     <string name="trans_complete_restoring">လွှဲပြောင်းပြီးပါပြီ။ အက်ပ်ဒေတာအား ပြန်ရယူနေသည်…</string>
     <string name="dialog_backup_password_auto_backup_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက အိုင်တမ်များကို အလိုအလျောက် အရန်သိမ်း၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
     <string name="dialog_backup_password_change_device_restore_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက Mi Mover အား သုံး၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
     <string name="dialog_backup_password_restore_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက အိုင်တမ်များအား ပြန်ရယူ၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
+    <string name="trans_cancel_dialog_survey_title">လွှဲပြောင်းမှုအား အဘယ်ကြောင့် ဖြတ်တောက်သနည်း?</string>
 </resources>

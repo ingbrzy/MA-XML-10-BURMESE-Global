@@ -14,19 +14,19 @@
     <string name="DesAvast">Avast</string>
     <string name="tencent_dialog_title">Tencent ၏ ကိုယ်ရေးမူဝါဒ</string>
     <string name="tencent_dialog_header">ဒီအင်္ဂါရပ်သည် သင့်ကိရိယာ၏ ID ကို Tencent ၏ ဆာဗာများ (%s) ဆီသို့ လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းပေးပြီး အပ်လုတ်တင်ပေးသည်။</string>
-    <string name="tencent_dialog_policy">ကိုယ်ရေးသီးသန့်ပေါ်လစီကို ကြည့်ပါ</string>
+    <string name="tencent_dialog_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒ</string>
     <string name="tencent_dialog_cloudscan">အက်ပ်အမည်များနှင့် အသေးစိတ်များကို အွန်လိုင်းဗိုင်းရပ်စ်ဆိုင်ရာ သတ်မှတ်ချက်များအား သုံး၍ အပ်လုတ်တင်ပြီး စကန်ဖတ်ပါ။</string>
     <string name="tencent_dialog_dbupdate">ဗိုင်းရပ်စ်သတ်မှတ်ချက်ကိုအလိုအလျောက်မွမ်းမံမည်</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">AVL၏ကိုယ်ရေးမူဝါဒ</string>
     <string name="avl_dialog_header">ဒီအင်္ဂါရပ်သည် သင့်ကိရိယာ၏ ID ကို Tencent ၏ ဆာဗာများ (%s) ဆီသို့ လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းပေးပြီး အပ်လုတ်တင်ပေးသည်။</string>
-    <string name="avl_dialog_policy">ကိုယ်ရေးသီးသန့်ပေါ်လစီကို ကြည့်ပါ</string>
+    <string name="avl_dialog_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒ</string>
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">"Avast's ၏ကိုယ်ရေးမူဝါဒ"</string>
     <string name="avast_dialog_header">ဤလုပ်ဆောင်ချက်သည် သင့်စက်IDအား ကုဒ်ဖွဲ့လိုက်ပြီး Avast ဆာဗာသို့ တင်လိုက်သည်(%s)</string>
-    <string name="avast_dialog_policy">ကိုယ်ရေးသီးသန့်ပေါ်လစီကို ကြည့်ပါ</string>
+    <string name="avast_dialog_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒ</string>
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>

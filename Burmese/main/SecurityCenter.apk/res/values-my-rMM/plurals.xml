@@ -134,6 +134,18 @@
     <plurals name="pc_main_power_manager_minute">
         <item quantity="other">အားပြည့်ရန် %s မိနစ် ကျန်သေးသည်</item>
     </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">နောက်ဆုံးအားသွင်းပြီးစဉ်ကတည်းက %d မိနစ်</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">နောက်ဆုံးအားသွင်းပြီးစဉ်ကတည်းက %d စက္ကန့်</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d မိနစ် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d နာရီ ကျန်သေးသည်</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%1$s အပါအဝင် အက်ပ် %2$d ခုကြောင့် ဘက်ထရီ သုံးစွဲမှုများနေသည်</item>
     </plurals>
@@ -173,17 +185,17 @@
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">အက်ပ် %s ခုကို ကာကွယ်မထားပါ</item>
     </plurals>
-    <plurals name="menu_text_antivirus_2">
-        <item quantity="other">အိုင်တမ် %dခု</item>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d အက်(ပ်)တွင် ဗိုင်းရပ် သို့မဟုတ် မဲလဝဲပါနေသည်</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d ရက်</item>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">စက်ကို စကန်မလုပ်သည်မှာ %d ရက် ရှိပါပြီ</item>
     </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">အိုင်တမ် %d ခု</item>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">မက်ဆေ့(ချ်) သို့မဟုတ် ဖုန်းခေါ်ဆိုမှု %d ခု ကို ပိတ်ထားသည်</item>
     </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">အက်ပ် %d ခု</item>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">အပ်ပဒိတ် %d ခု ရှိသည်</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">အိုင်တမ် %1$d ခု လုံခြုံ</item>
@@ -324,16 +336,16 @@
         <item quantity="other">    +နောက်ထပ် အက္ခရာ %1$dလုံး</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">အက်ပ် %d ခု ကွယ်ဝှက်နိုင်သည်</item>
+        <item quantity="other">%d အက်ပ်အိုင်ကွန်များကို ကွယ်ဝှက်မထားပါ</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">အက်ပ် %d ခု ကွယ်ဝှက်ထားသည်</item>
+        <item quantity="other">%d အက်ပ် အိုင်ကွန်ကို ကွယ်ဝှက်ထားသည်</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">ပြဿနာ %1$dခု ဖြေရှင်းရန် ရှိသည်</item>
     </plurals>
     <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
+        <item quantity="other">%1$s -</item>
     </plurals>
     <plurals name="game_booster_incoming_call_duration_p2">
         <item quantity="other">%1$s</item>

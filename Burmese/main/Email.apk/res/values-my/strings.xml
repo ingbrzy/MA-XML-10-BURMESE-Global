@@ -24,7 +24,7 @@
     <string name="account_settings_enforced_summary">ဘာမှမရှိ</string>
     <string name="account_settings_incoming_summary">အသုံးပြုသူအမည်၊ စကားဝှက်နှင့် အခြားဆာဗာဆက်တင်များ</string>
     <string name="account_settings_login_dialog_content_fmt">%s အတွက်စကားဝှက် သို့မဟုတ် အသုံးပြုသူအမည် မမှန်ကန်ပါ။ သင်ယခုအသစ်မွမ်းမံလိုပါသလား?</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s သို့ ဆိုင်းအင်မဝင်ရောက်နိုင်ခဲ့ပါ။ ဆာဗာမှ တုန့်ပြန်မှု− %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">%1$s သို့ ဆိုင်းအင်မဝင်ရောက်နိုင်ခဲ့ပါ။ ဆာဗာမှ တုန့်ပြန်မှု− %2$s</string>
     <string name="account_settings_login_dialog_title">အကောင့်ထဲ ဝင်၍မရနိုင်ပါ</string>
     <string name="account_settings_mail_check_frequency_label">ကြိမ်နှုန်း</string>
     <string name="account_settings_mibill_resolve_label">ပြေစာများအား အလိုလျောက်စီမံ</string>
@@ -187,6 +187,7 @@
     <string name="auto_advance_summary">မက်ဆေ့ချ်တစ်ခုဖျက်လိုက်ပြီးနောက် အစားထိုးတက်လာမည့် မက်ဆေ့ချ်အား ရွေးပါ</string>
     <string name="auto_sync_off">အော်တို−ဆင့်ခ် ပိတ်ထား</string>
     <string name="bcc">Bcc</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">သင်တုန့်ပြန်မှုပေးပို့ရန် လိုအပ်ပါသည်</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">အီးမေးလ်ရေးသား</string>
@@ -201,6 +202,7 @@
     <string name="cancel_action">ပယ်ဖျက်</string>
     <string name="cant_move_or_change_labels">ရွေးချယ်မှုတွင် အကောင့်အများစု ပါဝင်နေသည့်အတွက် ရွှေ့၍မရနိုင်ပါ</string>
     <string name="cc">Cc</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">ဖိုင်တွဲများကို ပြောင်းပါ</string>
@@ -215,6 +217,7 @@
     <string name="clear_display_images_whitelist_title">ရုပ်ပုံပြုပြင်မှုများအား ရှင်းလင်း</string>
     <string name="click_download_all_content">[အကြောင်းအရာများအား ဒေါင်းလုဒ်လုပ်ရန် ထိနှိပ်ပါ]</string>
     <string name="collapse_recipient_details">လက်ခံသူအသေးစိတ်မျာအား မကြည့်တော့</string>
+    <string name="colon">:</string>
     <string name="compose">စာရေးသား</string>
     <string name="compose_attachment_number_limit">တွဲချိတ် ၁၀ ခုထက်ပို၍ ပေါင်းထည့်၍မရပါ</string>
     <string name="compose_picturesexceedlimits">မက်ဆေ့ချ်တွင် အတန်းလိုက်ဓါတ်ပုံ ၅ ပုံထက်ပို၍မရပါ</string>
@@ -378,6 +381,7 @@
     <string name="gmail_web_login_go">အိုကေ</string>
     <string name="gmail_web_login_required_message">Gmail သို့ဆိုင်းအင်ဝင်ပါ</string>
     <string name="header_category_account">အကောင့်များ</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">တုန့်ပြုန်မှုပို့</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
@@ -390,13 +394,14 @@
     <string name="invalid_recipient">လိပ်စာ %s မှာ ဘောင်မဝင်ပါ။</string>
     <string name="invalid_recipient_title">လက်ခံသူ အမှား</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
+    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">ဆာဗာတွင် မေးလ်သေတ္တာအား ရှာဖွေ</string>
     <string name="load_more">ထပ်ရှာ</string>
     <string name="loading_conversation">ရယူနေသည်…</string>
     <string name="loading_conversations">ရယူနေသည်…</string>
     <string name="loading_from_remote">ရှာဖွေနေ…</string>
     <string name="local_search">အတွင်းပိုင်းရှာဖွေ</string>
-    <string name="local_search_result">ဆင့်ခ်မက်ဆေ့ချ် ရလဒ် %s ခု</string>
     <string name="login">ဆိုင်းအင်ဝင်</string>
     <string name="login_failed_ticker">%s ဆိုင်းအင်ဝင်ရောက်မှု အောင်မြင်ခဲ့။</string>
     <string name="login_failed_title">ဆိုင်းအင်မဝင်ရောက်နိုင်ခဲ့ပါ။</string>
@@ -552,7 +557,7 @@
     <string name="permission_read_attachment_label">တွဲချိတ်များအား ဖတ်ပါ</string>
     <string name="phone">ဖုန်း</string>
     <string name="photo_load_failed">ရုပ်ပုံအား လုဒ်မတင်နိုင်ခဲ့ပါ</string>
-    <string name="photo_view_count" formatted="false">%d ၏ %d</string>
+    <string name="photo_view_count">%2$d ၏ %1$d</string>
     <string name="please_fill_in_your_mailbox_information2">သင့်မေးလ်ဘောက်စ် အချက်အလက်အား ထည့်သွင်းပါ</string>
     <string name="policy_app_blacklist">သတ်မှတ်လိုက်သော အက်ပ်များအား ခွင့်မပြု</string>
     <string name="policy_app_whitelist">သတ်မှတ်ထားသော အက်ပ်များကိုသာ ခွင့်ပြု</string>
@@ -642,7 +647,7 @@
     <string name="reply">ပြန်ကြား</string>
     <string name="reply_add_bodycontent">မက်ဆေ့အကြောင်းအရာများသို့ အမြန်ပေးမှုမှု စာသားအား ပေါင်းထည့်မည်လား?</string>
     <string name="reply_all">အားလုံးပြန်ကြား</string>
-    <string name="reply_attribution" formatted="false">%s, %s တွင့် ရေးခဲ့သည်−</string>
+    <string name="reply_attribution">%1$s, %2$s တွင့် ရေးခဲ့သည်−</string>
     <string name="report_phishing">အနှောက်အယှက်ဟု သတင်းပေး</string>
     <string name="report_spam">spam ဟုသတင်းပို့</string>
     <string name="request_entity_large">ဖိုင်ကြီးလွန်းနေ</string>
@@ -699,12 +704,14 @@
     <string name="silent_ringtone">တိတ်ဆိတ်</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">အထွက်ဆာဗာအတွက် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="sort_attachment">အားဖြင့်စီပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="storage">သိုလှောင်မှု</string>
     <string name="str_select_all">အားလုံးကိုရွေးချယ်ပါ</string>
     <string name="str_select_none">အားလုံးမရွေး</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
+    <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">အကြောင်းအရာ</string>
     <string name="sync_error">ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="sync_error_message">သင့်စက်တွင် ဆင့်ခ်လုပ်ရန် နေရာအလုံအလောက်မရှိပါ</string>

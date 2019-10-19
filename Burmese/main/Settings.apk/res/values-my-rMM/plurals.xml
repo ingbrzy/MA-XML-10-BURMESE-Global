@@ -24,6 +24,12 @@
     <plurals name="free_wifi_connected_count">
         <item quantity="other">လူ %1$d ဦး ချိတ်ဆက်ထားသည်</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">အက္ခရာအများဆုံး %d ထည့်နိုင်သည်</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">အက္ခရာအနည်းဆုံး %d လုံး ထည့်ပါ</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN သည် ဂဏန်း %d ခု ဖြစ်ရမည်</item>
     </plurals>

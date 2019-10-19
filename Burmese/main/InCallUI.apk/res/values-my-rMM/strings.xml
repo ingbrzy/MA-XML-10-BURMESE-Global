@@ -78,7 +78,6 @@
     <string name="respond_via_sms_custom_message">စိတ်ကြိုက် SMS</string>
     <string name="manageConferenceLabel">ကွန်ဖရင့်ခေါ်ဆိုခြင်း ကို စီမံမည်</string>
     <string name="emergency_call_dialog_number_for_display">အရေးပေါ်နံပါတ်</string>
-    <string name="volte_call">VoLTE ခေါ်ဆိုမှု</string>
     <string name="notification_dialing">ခေါ်ဆိုခြင်း</string>
     <string name="notification_ongoing_call">ပြောနေသောဖုန်း</string>
     <string name="notification_on_hold">ကိုင်ထား</string>
@@ -114,10 +113,10 @@
     <string name="description_target_answer">အဖြေ</string>
     <string name="description_message_list_title">အမြန် ပြန်ကြားချက် စာရင်း</string>
     <string name="ok">အိုကေ</string>
-    <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="cancel">မလုပ်</string>
     <string name="wait_prompt_str">"အောက်ပါမြည်သံကို ပို့မည်လော
 "</string>
-    <string name="pause_prompt_yes">ဟုတ်ပါသည်</string>
+    <string name="pause_prompt_yes">ဟုတ်ပါတယ်</string>
     <string name="pause_prompt_no">မဟုတ်ပါ</string>
     <string name="waiting_close_airplane_mode">ခဏစောင့်ပါ…</string>
     <string name="unlock_phone">ကိရိယာကို လော့ခ်ဖွင့်မည်</string>
@@ -128,14 +127,9 @@
     <string name="msim_select_default_time_left">(%d စက္ကန့်)</string>
     <string name="select_sim_hint">ဆင်းမ်%1$d အသုံးပြုနေစဉ်တွင် ဆင်းမ်%2$d အား အသုံးပြု၍မရနိုင်ပါ။</string>
     <string name="select_one_sim_title">ဆင်းမ်%1$d ကိုသာအသုံးပြုနိုင်ပါသည်</string>
-    <string name="select_sim_hint_for_heduohao">ဆင်းမ်%1$d ဒုကဒ် %2$d အား အသုံးပြုနေစဉ်၊ အခြား ကဒ်အား အသုံးပြု၍ မရနိုင်ပါ။</string>
-    <string name="select_one_sim_title_for_heduohao">ဆင်းမ်%1$d ဒုကဒ် %2$d ကိုသာ သုံးနိုင်သည်</string>
     <string name="can_not_use">အသုံးမပြုနိုင်ပါ</string>
     <string name="sim1_description">ဆင်းမ် ၁</string>
     <string name="sim2_description">ဆင်းမ် ၂</string>
-    <string name="sim1_heduohao_card">ဒုကဒ် ၁</string>
-    <string name="sim2_heduohao_card">ဒုကဒ် ၂</string>
-    <string name="sim3_heduohao_card">ဒုကဒ် ၃</string>
     <string name="call_description_recording">အသံဖမ်းယူနေ…</string>
     <string name="call_recording_error_privacy">ဧည့်သည်ပုံစံတွင်ဖြစ်နေပါက မှတ်တမ်းမတင်ပါနှင့်</string>
     <string name="call_recording_error_sd_access">SD ကဒ်ကို ဝင်ရောက်သုံးမရပါ</string>
@@ -169,7 +163,6 @@
     <string name="onscreen_message_text">မက်ဆေ့ချ်များ</string>
     <string name="onscreen_close_preview_camera">ပိတ်</string>
     <string name="upgrade_vt_prompt">ဗီဒီယိုခေါ်ဆိုမှုသို့ ပြောင်းလဲမည်လား?</string>
-    <string name="incoming_answer_voice_text">အသံဖြင့်ဖြေဆို</string>
     <string name="picking_participant">အဆက်အသွယ်အချက်အလက် ရယူနေသည်…</string>
     <string name="conference_caller_info_name">%1$s၏ကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
     <string name="video_conference_caller_info_name">%1$s၏ဗီဒီယိုကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
@@ -191,8 +184,8 @@
     <string name="incoming_circle_text_reject">ပြန်လွှတ်</string>
     <string name="incoming_circle_text_answer_p">ဆွဲတင်</string>
     <string name="incoming_circle_text_answer">ပြန်လွှတ်</string>
-    <string name="incoming_circle_text_message_p">ဆွဲတင်</string>
-    <string name="incoming_circle_text_message">ပြန်လွှတ်</string>
+    <string name="incoming_circle_text_video_answer_p">ဗီဒီယိုဖြင့်ဖြေရန် အပေါ်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="incoming_circle_text_video_answer">ဗီဒီယိုဖြင့်ဖြေရန် လက်ကို လွှတ်ပါ</string>
     <string name="dialpad_zero">0</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_two">2</string>
@@ -206,4 +199,9 @@
     <string name="prompt_no_volte_when_failed">ခေါ်ဆို၍ မရပါ။ သင်၏စက်သည် VoLTE အား ထောက်ပံ့သော 4G ကွန်ရက်သို့ ချိတ်ဆက်ထားခြင်း ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="volume_boost_text">အသံ မြှင့်တင်ပြီးပါပြီ</string>
     <string name="supp_service_notification_call_waiting">လူကြီးမင်း ခေါ်ဆိုသော ဖုန်းနံပါတ်မှာ မအားသေးပါ။ ခေတ္တ ကိုင်ထားပါ…</string>
+    <string name="incall_bubble_hangup_click_hint">ဖုန်းခေါ်ဆိုရန်နေရာသို့ ပြန်သွားရန် ထပ်တို့ပါ</string>
+    <string name="manager_conference_done">ပြီးပါပြီ</string>
+    <string name="incoming_answer_voice_text">အသံဖြင့်ဖြေဆို</string>
+    <string name="incoming_circle_text_message_p">ဆွဲတင်</string>
+    <string name="incoming_circle_text_message">ပြန်လွှတ်</string>
 </resources>

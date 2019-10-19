@@ -24,6 +24,18 @@
     <plurals name="second">
         <item quantity="other">%d စက္ကန့်</item>
     </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">တစ်မှေးအိပ် ကြာချိန်အား %d မိနစ်သို့ ပြောင်းထားသည်</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">%1$s မိနစ်လျှင် တစ်ကြိမ်မြည်ပါ</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">%1$s မိနစ် တစ်ကြိမ် %2$s ကြိမ် မြည်ပါ</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">%1$s မိနစ်လျှင် တစ်ကြိမ်</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">%2$s ကြိမ် (တစ်ကြိမ်လျှင် %1$s မိနစ်) အကြာတွင် နှိုးစက် ပိတ်သွားလိမ့်မည်</item>
     </plurals>

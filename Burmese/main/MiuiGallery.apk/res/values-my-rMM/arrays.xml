@@ -11,12 +11,17 @@
     </string-array>
     <string-array name="backup_automatically_key_words">
         <item>ဓါတ်ပုံများအား အရန်သိမ်းမည်</item>
-        <item>Mi ကလောက်ဖြင့် ဓာတ်ပုံများအား ဆင့်ခ်လုပ်မည်</item>
+        <item>ဤ Cloud ဖြင့် ဓာတ်ပုံများကို ဆင့်ခ်လုပ်ပါ</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>ကျွန်ုပ်၏ အားလပ်ရက်များ</item>
         <item>ဘဝ အပိုင်းအစများ</item>
         <item>အားလပ်ရက် အမှတ်တရများ</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ရွှေ့ရန်</item>
+        <item>ကော်ပီကူးမည်</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>ဇန်နဝါရီ</item>

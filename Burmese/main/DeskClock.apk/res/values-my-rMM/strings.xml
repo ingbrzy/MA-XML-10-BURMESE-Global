@@ -15,6 +15,7 @@
     <string name="alarm_notify_snooze_label">%s တစ်မှေးအိပ်</string>
     <string name="alarm_notify_text">တစ်မှေးအိပ် သို့မဟုတ် နှိုးစက်အားပိတ်ပါ</string>
     <string name="alarm_repeat">ထပ်ခါလုပ်ပါ</string>
+    <string name="alarm_ringtone">နှိုးစက်သံများ</string>
     <string name="alarm_settings">နှိုးစက် ဆက်တင်များ</string>
     <string name="alarm_settings_category_title">နှိုးစက် ဆက်တင်များ</string>
     <string name="alarm_vibrate">တုန်ခါခြင်း</string>
@@ -40,6 +41,7 @@
     <string name="clock_bg_button_setting_title">နောက်ခံအရောင်</string>
     <string name="close_alarm">ပိတ်</string>
     <string name="common_settings">ဆက်တင်များ</string>
+    <string name="confirm">အတည်ပြုရန်</string>
     <string name="confirm_abort">ဖယ်ပစ်ပါ</string>
     <string name="content_desc_keep_screen">\"စခရင် ဖွင့်ထားပါ\" ခလုတ်</string>
     <string name="control_set_alarm">နှိုးစက်သတ်မှတ်</string>
@@ -54,10 +56,17 @@
     <string name="delete_timer_item_title">စံချိန်စက်အလုပ်ပုံစံ ဖျက်ပစ်ပါ</string>
     <string name="delete_timezone_title">ဒေသစံတော်ချိန် ဖျက်ပစ်ပါ</string>
     <string name="dialog_confirm_abort">အပြောင်းအလဲများ ဖယ်ပစ်မလား။</string>
+    <string name="dialog_legal_off_day">&lt;Data>သင်သည် အားလပ်ရက်နှိုးစက်များ သုံးနေပုံရသည်။ ဤအင်္ဂါရပ် ပုံမှန်အလုပ်လုပ်ရန် အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="dialog_legal_off_day_desc">အားလပ်ရက်အချက်အလက်များ အပ်ပဒိတ်လုပ်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ခွင့်မပြုထားပါ။ အားလပ်ရက်နှိုးစက်များ စနေနှင့် တနင်္ဂနွေတွင် မြည်ပါမည်။</string>
+    <string name="dialog_legal_workday">&lt;Data>သင်သည် အပတ်စဉ်နှိုးစက်များ သုံးနေပုံရသည်။ ဤအင်္ဂါရပ် ပုံမှန်အလုပ်လုပ်ရန် အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data>သင်သည် အပတ်စဉ်အားလပ်ရက်နှိုးစက်များ သုံးနေပုံရသည်။ ဤအင်္ဂါရပ် ပုံမှန်အလုပ်လုပ်ရန် အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day_desc">အားလပ်ရက်အချက်အလက်များ အပ်ပဒိတ်လုပ်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ခွင့်မပြုထားပါ။ အပတ်စဉ်နှိုးစက်များ တနင်္လာမှ သောကြာနေ့ထိ မြည်ပါမည်။ အားလပ်ရက်နှိုးစက်များက စနေနှင့် တနင်္ဂနွေတွင် မြည်ပါမည်။</string>
+    <string name="dialog_legal_workday_desc">ရုံးတက်ရက်အချက်အလက်များ အပ်ပဒိတ်လုပ်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ခွင့်မပြုထားပါ။ အပတ်စဉ်နှိုးစက်များ တနင်္လာမှ သောကြာနေ့ထိ မြည်ပါမည်။</string>
     <string name="dialog_message_agree">သဘောတူပါသည်</string>
     <string name="dialog_message_for_contact_permission">မွေးနေ့အသိပေးချက်များရရှိနိုင်ရန် နာရီသည် သင့်အဆက်အသွယ်သို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်။ သဘောတူပါသလား?</string>
     <string name="dialog_message_negative">သဘောမတူပါ</string>
     <string name="dialog_message_not_remind">ထပ်မပြပါနှင့်</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data>ဤအင်္ဂါရပ် ပုံမှန်အလုပ်လုပ်ရန် အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="dialog_privacy_content">အစိုးရ ရုံးပိတ်ရက်နှင့် ပတ်သက်သော အချက်အလက်များအား ရယူနိုင်ရန်၊ နှိုးစက်များအား ချိန်ညှိနိုင်ရန် နှင့် ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
     <string name="dialog_privacy_content_global">ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
     <string name="dialog_privacy_content_news">ဝန်ဆောင်မှုအား စိတ်ကြိုက်စီမံနိုင်ရန် နှင့် နှိုးစက်သို့ နံနက်ခင်း သတင်းများ ပေါင်းထည့်နိုင်ရန် နာရီမှ အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ နာရီအား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား?</string>
@@ -67,10 +76,11 @@
     <string name="dynamic_alarm_speech">စမတ်နှိုးစက်</string>
     <string name="edit_alarm">နှိုးစက် ပြုပြင်မည်</string>
     <string name="edit_systemtime">စက်စနစ်အချိန်ကို တည်းဖြတ်ပါ</string>
+    <string name="edit_systemtime_setting_summary">ရက်စွဲ၊ အချိန် နှင့် နှစ်ခုတွဲ နာရီ</string>
     <string name="every_day">နေ့တိုင်း</string>
     <string name="expired_timers_dismissed">တိုင်မာ ဖယ်ထုတ်ပြီးပါပြီ</string>
     <string name="force_touch_add_alarm">နှိုးစက်ထည့်ရန်</string>
-    <string name="force_touch_enter_stopwatch">စမတ်နာရီ</string>
+    <string name="force_touch_enter_stopwatch">စံချိန်ယူနာရီ</string>
     <string name="force_touch_enter_timer">အချိန်တွက်စက်</string>
     <string name="go_back">နောက်သို့</string>
     <string name="holiday_update">အစိုးရ ရုံးပိတ်ရက်အတွက် အပ်ဒိတ် ရှိသည်</string>
@@ -80,9 +90,7 @@
     <string name="hour_unit">နာရီ +</string>
     <string name="install_weather_app_error">အက်ပ်ကို ဖွင့်၍မရပါ</string>
     <string name="install_weather_app_loading">ခဏစောင့်ပါ…</string>
-    <string name="invalid_time">"မမှန်ကန်သောအချိန်-
-%3$s %1$d-
-%2$d "</string>
+    <string name="invalid_time">မမှန်ကန်သောအချိန်- %3$s %1$d- %2$d</string>
     <string name="invalid_timer_length">တိုင်မာ ကြာချိန် မမှန်ပါ</string>
     <string name="keep_screen_on">မျက်နှာပြင် ဖွင့်ထားပါ</string>
     <string name="korea_permission_calendar">ပြက္ခဒိန်</string>
@@ -104,8 +112,11 @@
     <string name="life_post_setting">နံနက်ခင်းအစီရင်ခံချက်</string>
     <string name="life_post_setting_FBE_remind">စနစ်၏ ကန့်သတ်မှုကြောင့် စက်အား ပိတ်ပြီးပြန်စလျှင် နံနက်ခင်း မိုးလေဝသ သတင်းအချက်အလက်များ မှားနိုင်ခြေရှိသည်။</string>
     <string name="life_post_setting_close_title">နံနက်ခင်းအစီရင်ခံချက်များကို ပိတ်ပါ</string>
+    <string name="life_post_setting_open_background_subtitle">သက်ဆိုင်ရာ နှိုးစက်များအတွက် နောက်ခံပုံများ ပြရန်</string>
+    <string name="life_post_setting_open_background_title">နောက်ခံပုံပြရန်</string>
     <string name="life_post_setting_open_desc">မိုးလေဝသ သတင်း နားထောင်ရန် နံနက် ၄း၀၀ မှ ၁၀း၀၀ အကြားရှိ ထပ်ခါထပ်ခါမြည်သည့် နှိုးစက်အား ပိတ်ပါ</string>
     <string name="life_post_setting_open_subtitle">4:00 နာရီနှင့် 9:30 အကြားသင်နှိုးစက်များ ပိတ်ထားစဉ် ရာသီဥတုအချက်အလက်များအား လက်ခံရယူပါ</string>
+    <string name="life_post_setting_open_summary">ပထမဆုံးနှိုးစက်တွင် မိုးလေဝသသတင်းထည့်ခြင်းကို ၄း၀၀ နာရီနှင့် ၁၀း၀၀ နာရီကြားတွင် ပိတ်ထားပါသည်။</string>
     <string name="life_post_setting_open_title">နံနက်ခင်းအစီရင်ခံချက်များ ရယူပါ</string>
     <string name="life_post_setting_wake_up_list_title">နှိုးထသည့် သမိုင်း</string>
     <string name="life_post_wake_up_acumu_day_title">ရက်အရေအတွက်</string>
@@ -118,6 +129,7 @@
     <string name="life_post_weather_invalid">ရာသီဥတု အချက်အလက် ရယူရန် ထိနှိပ်ပါ</string>
     <string name="life_post_weather_no_network">ရာသီဥတု အချက်အလက်အား အပ်ဒိတ်လုပ်ရန် အင်တာနက် ချိတ်ပါ</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
+    <string name="listen_news_privacy">&lt;Data>စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်နှင့် သင့်နှိုးစက်တွင် နံနက်ခင်းသတင်းများ ထည့်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="loading_ringtone">မြည်သံ ဆွဲချနေ…</string>
     <string name="menu_add_worldclock">နာရီပေါင်းထည့်</string>
     <string name="menu_desk_clock">နာရီ</string>
@@ -125,25 +137,54 @@
     <string name="menu_item_dock_settings">Dock ဆက်တင်များ</string>
     <string name="menu_item_sort_by_gmt_offset">အချိန်ဖြင့် မျိုးတူစုပါ</string>
     <string name="menu_item_sort_by_name">အမည်ဖြင့် မျိုးတူစုပါ</string>
+    <string name="module_dialog_negative">သဘောမတူပါ</string>
+    <string name="module_dialog_neutral">နားလည်ပါပြီ</string>
+    <string name="module_dialog_positive">သဘောတူသည်</string>
     <string name="module_download_cancel">မလိုအပ်ပါ</string>
     <string name="module_download_data_msg">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ စမတ် နှိုးစက်တွင် လက်ရှိ ရာသီဥတု အချက်အလက်အား နှိုးစက်သို့ ပေါင်းထည့်ထားသည်။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_data_msg_golbal">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_data_msg_replace">MIUI စမတ် နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယိုများ ရရှိနိုင်ပါပြီ။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_data_msg_timer">နာရီမှ ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာအတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဤဒေါင်းလုဒ်အတွက် မိုဘိုင်းဒေတာ ၂၀ MB ခန့် ကုန်ဆုံးမည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_fail">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
+    <string name="module_download_failure">အသံဖိုင်ဒေါင်းလုဒ်လုပ်၍မရပါ။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="module_download_msg">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ စမတ် နှိုးစက်တွင် လက်ရှိ ရာသီဥတု အချက်အလက်အား နှိုးစက်သို့ ပေါင်းထည့်ထားသည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_msg_golbal">နာရီမှ MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_msg_replace">MIUI စမတ် နှိုးစက် အတွက် အပ်ဒိတ်လုပ်ထားသော အော်ဒီယိုများ ရရှိနိုင်ပါပြီ။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="module_download_msg_timer">နာရီမှ ပတ်ဝန်းကျင် ဆူညံသံ တိုင်မာအတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခု ဒေါင်းလုဒ်လုပ်မလား?</string>
-    <string name="module_download_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="module_download_no_network">နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="module_download_ok">ခွင့်ပြုမည်</string>
-    <string name="module_download_success">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
+    <string name="module_download_success">အသံဖိုင်ကို အောင်မြင်စွာဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="module_download_title">အပိုအသံဖိုင် လိုအပ်သည်</string>
-    <string name="module_downloading">အပိုအသံဖိုင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="module_downloading">အသံဖိုင်ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="module_update_success">MIUI စမတ် နှိုးစက်အတွက် အော်ဒီယိုဖိုင်များ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။ နာရီ ဆက်တင်တွင် MIUI စမတ် နှိုးစက်အား သတ်မှတ်နိုင်ပါပြီ။</string>
+    <string name="module_update_success_control">နားလည်ပါပြီ</string>
+    <string name="module_weather_ringtone_download_data">မိုးလေဝသသတိပေးချက်နှိုးစက်သည် လက်ရှိမိုးလေဝသအခြေအနေကို လိုက်၍ နှိုးစက်သံပြောင်းပါသည်။ ၎င်းဝန်ဆောင်မှုအလုပ်လုပ်နိုင်ရန်အတွက် နာရီသည် ≈30MB စာ အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရပါမည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>မိုးလေဝသသတိပေးချက်နှိုးစက်သည် လက်ရှိမိုးလေဝသအခြေအနေကိုလိုက်၍ နှိုးစက်သံပြောင်းပါသည်။ နာရီသည် ≈30MB စာ အသံဖိုင်ကို ဒေါင်းလုဒ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi">မိုးလေဝသသတိပေးချက်နှိုးစက်သည် လက်ရှိမိုးလေဝသအခြေအနေကို လိုက်၍ နှိုးစက်သံပြောင်းပါသည်။ ၎င်းဝန်ဆောင်မှုအလုပ်လုပ်နိုင်ရန်အတွက် နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရပါမည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>မိုးလေဝသသတိပေးချက်နှိုးစက်သည် လက်ရှိမိုးလေဝသအခြေအနေကိုလိုက်၍ နှိုးစက်သံပြောင်းပါသည်။ နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="module_weather_ringtone_introduce">မိုးလေဝသသတိပေးချက်နှိုးစက်သည် လက်ရှိမိုးလေဝသအခြေအနေကို လိုက်၍ နှိုးစက်သံပြောင်းပါသည်။ လက်ရှိ မိုးလေဝသတင်းကိုလည်း နံနက်ပိုင်းတွင် နားဆင်နိုင်ပါသည်။</string>
+    <string name="module_weather_ringtone_introduce_global">မိုးလေဝသသတိပေးချက်နှိုးစက်သည် လက်ရှိမိုးလေဝသအခြေအနေကို လိုက်၍ နှိုးစက်သံပြောင်းပါသည်။</string>
+    <string name="module_weather_ringtone_update_data">ယခုအခါ မိုးလေဝသ သတိပေးချက်နှိုးစက်တွင် နောက်ခံအသံများပါဝင်ပြီး ကြေငြာသည့်အသံလည်း ပိုကောင်းလာပါသည်။ ၎င်းဝန်ဆောင်မှုအလုပ်လုပ်ရန်အတွက် နာရီသည် ≈30MB စာ အသံဖိုင်ကို ဒေါင်းလုဒ်လုပ်ရပါမည်။ ယခု ဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_weather_ringtone_update_success">ယခုအခါ မိုးလေဝသ သတိပေးချက်နှိုးစက်တွင် နောက်ခံတေးဂီတပါဝင်ပြီး ကြေငြာသည့်အသံလည်းပိုကောင်းပါသည်။ဤဝန်ဆောင်မှုကို သုံးကြည့်ရန် နှိုးစက်အသစ်တစ်ခု ပေးနိုင်သည်။</string>
+    <string name="module_week_ringtone_download_data">အပတ်စဉ် သတိပေးချက်နှိုးစက်သည် တစ်ပတ်လုံး နေ့စဉ် သဘာဝအသံတစ်မျိုးစီ ပြောင်းပါသည်။ ၎င်းဝန်ဆောင်မှုအလုပ်လုပ်ရန်အတွက် နာရီသည် ≈30MB စာ အသံဖိုင်ကို ဒေါင်းလုဒ်လုပ်ရပါမည်။ ယခု ဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>အပတ်စဉ် သတိပေးချက်နှိုးစက်သည် တစ်ပတ်လုံး နေ့စဉ် သဘာဝအသံတစ်မျိုးစီ ပြောင်းပါသည်။ နာရီသည် ≈30MB စာ အသံဖိုင် ဒေါင်းလုဒ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">အပတ်စဉ် သတိပေးချက်နှိုးစက်သည် တစ်ပတ်လုံး နေ့စဉ် သဘာဝအသံတစ်မျိုးစီ ပြောင်းပါသည်။ ၎င်းဝန်ဆောင်မှုအလုပ်လုပ်ရန်အတွက် နာရီသည် အသံဖိုင် ဒေါင်းလုဒ်လုပ်ရပါမည်။ ယခု ဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>အပတ်စဉ် သတိပေးချက်နှိုးစက်သည် တစ်ပတ်လုံး နေ့စဉ် သဘာဝအသံတစ်မျိုးစီ ပြောင်းပါသည်။ နာရီသည် အသံဖိုင် ဒေါင်းလုဒ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">အပတ်စဉ် သတိပေးချက်နှိုးစက်သည် တစ်ပတ်လုံး နေ့စဉ် သဘာဝအသံတစ်မျိုးစီ ပြောင်းပါသည်။</string>
+    <string name="module_week_ringtone_update_data">အပတ်စဉ် သတိပေးချက်နှိုးစက်သည် တစ်ပတ်လုံး နေ့စဉ် သဘာဝအသံတစ်မျိုးစီ ပြောင်းပါသည်။ ၎င်းဝန်ဆောင်မှုအလုပ်လုပ်ရန်အတွက် နာရီသည် ≈30MB စာ အသံဖိုင်ကို ဒေါင်းလုဒ်လုပ်ရပါမည်။ ယခု ဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_week_ringtone_update_success">အပတ်စဉ် သတိပေးချက်နှိုးစက်တွင် တစ်ပတ်လုံး နေ့စဉ် နောက်ခံဂီတ ပါဝင်သည်။ ဤဝန်ဆောင်မှုကို သုံးကြည့်ရန် နှိုးစက်အသစ်တစ်ခု ပေးနိုင်သည်။</string>
+    <string name="module_white_noise_download_data">ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန်အတွက် နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဤဒေါင်းလုဒ်အတွက် သင်၏ မိုဘိုင်းဒေတာထဲမှ ≈30MB အသုံးပြုပါမည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် (≈30MB) နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင်သည် ယခု မိုဘိုင်းဒေတာကို သုံးပါတော့မည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="module_white_noise_download_wifi">ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန်အတွက် နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန်နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="monday_to_friday">တနင်္လာ မှ သောကြာ</string>
     <string name="more_setting">နောက်ထပ် ဆက်တင်များ</string>
     <string name="more_settings">ဆက်တင်များ</string>
+    <string name="network_privacy">&lt;Data>Iဒေသတွင်းအများသူငါရုံးပိတ်ရက်ဆိုင်ရာ အချက်အလက်များရယူရန်၊ နှိုးစက်များ ချိန်ဆနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href= %1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="never">တစ်ခါ</string>
+    <string name="no_alarm_setting">နှိုးစက်များ မရှိသေးပါ</string>
+    <string name="no_worldclock">နာရီများ မရှိသေးပါ</string>
     <string name="oneshot_alarm">ပိတ်သွားပြီးနောက် ဖျက်လိုက်ပါ</string>
     <string name="open_keep_screen">စခရင်အား သိမ်းထားမည်</string>
     <string name="other_category_title">အခြား</string>
@@ -151,6 +192,7 @@
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">အကြောင်းအရာ စိတ်ကြိုက်လုပ်ခြင်း အကြံပြုချက်</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_policy_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="remind_ringtone">ဖုန်းမြည်သံ</string>
     <string name="repeat_count">အချိန်များ</string>
     <string name="repeat_count_value_five">၅</string>
@@ -160,27 +202,41 @@
     <string name="repeat_count_value_two">၂</string>
     <string name="reset">ပြန်သတ်မှတ်ပါ</string>
     <string name="revert">ပြောင်းပြန်ပြန်</string>
+    <string name="ringtone_all">နှိုးစက်သံများအားလုံး</string>
+    <string name="ringtone_dew">မိုးသောက်နှင်းစက်</string>
+    <string name="ringtone_dream">နေ့ခင်းအိပ်မက်</string>
+    <string name="ringtone_firefly">ပုစဉ်းများ</string>
+    <string name="ringtone_other">အခြားဖုန်းမြည်သံများ</string>
+    <string name="ringtone_weather">မိုးလေဝသ သတိပေးချက်</string>
+    <string name="ringtone_week">အပတ်စဉ် နှိုးစက်</string>
     <string name="search_alarm_clock_keywords">နှိုးစက်၊နှိုးစက်နာရီ၊</string>
-    <string name="search_stopwatch_keywords">အချိန်မှတ်နာရီ</string>
+    <string name="search_stopwatch_keywords">စံချိန်ယူနာရီ</string>
     <string name="search_timer_keywords">တိုင်မာ</string>
     <string name="search_worldclock_keywords">အချိန်၊ ကမ္ဘာ့အချိန်၊ နာရီ</string>
     <string name="set_alarm">အချိန် ရွေးပါ</string>
+    <string name="set_alarm_choose_ringtone">နှိုးစက်သံရွေးရန်</string>
     <string name="set_alarm_done">ပြီးပါပြီ</string>
+    <string name="set_alarm_other">အခြား</string>
+    <string name="setting_alarm_arriving_subtitle">နှိုးစက်မမြည်မီ အသိပေးချက်များပြသရန်</string>
     <string name="setting_alarm_arriving_summary">ဖုန်းသံမြည်မှီ အသိပေးချက်ပေးပို့ပါ</string>
     <string name="setting_alarm_arriving_title">ဖုန်းသံမြည်မှီ အသိပေးချက်</string>
     <string name="settings">ဆက်တင်များ</string>
-    <string name="shortcut_new_alarm">Set alarm</string>
-    <string name="shortcut_start_timer">Start timer</string>
-    <string name="shortcut_stop_watch">Start stopwatch</string>
+    <string name="shortcut_new_alarm">နှိုးစက် သတ်မှတ်မည်</string>
+    <string name="shortcut_start_timer">တိုင်မာ စတင်ပါ</string>
+    <string name="shortcut_stop_watch">စံချိန်ယူနာရီ စတင်ပါ</string>
     <string name="shut_down_keep_screen">စခရင်အား သိမ်းမထားပါ</string>
+    <string name="shutdown_alarm_alert_enable_summary">သင့်စက်ကို ပါဝါပိတ်ပြီးနောက် အနည်းဆုံး ၁၀ မိနစ်အကြာတွင် အပိတ်နှိုးစက်သံ မြည်ပါမည်</string>
+    <string name="shutdown_alarm_alert_title">အပိတ်နှိုးစက်</string>
     <string name="shutdown_alarm_disable_summary">ဖုန်း ပါဝါပိတ်သွားသော်လည်း နှိုးစက် မပိတ်ပါ</string>
-    <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၅ မိနစ်ထက်မနည်း ခြားရမည်</string>
+    <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၁၀ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="slider_text">ပိတ်ရန် အပေါ်သို့ပွတ်တင်လိုက်ပါ</string>
     <string name="snooze_confirm_cancel">နှိုးသံရပ်လိုက်ပါ</string>
     <string name="snooze_duration">တစ်မှေးအိပ်</string>
+    <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_title">တစ်မှေးအိပ်</string>
     <string name="snooze_duration_value">တစ်မှေးအိပ် ကြာချိန် (မိနစ်)</string>
     <string name="snooze_duration_value_fifteen">၁၅</string>
@@ -193,8 +249,13 @@
     <string name="star_wy_alarm_speech">Roy Wang နှင့် တွေ့ဆုံခြင်း</string>
     <string name="start">စတင်ပါ</string>
     <string name="start_up">စတင်ပါ</string>
+    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
+    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
+    <string name="system_permission_purpose">ရုံးဖွင့်ရက်နှိုးစက်များပြုလုပ်ခြင်းနှင့် စိတ်ကြိုက်ဖုန်းသံများ သတ်မှတ်ခြင်း</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>
     <string name="temperature_unit">℃</string>
@@ -215,6 +276,7 @@
     <string name="timer_alert_type_forest">သစ်တော</string>
     <string name="timer_alert_type_mute">မူလ</string>
     <string name="timer_alert_type_rain">မိုး</string>
+    <string name="timer_alert_type_spring_rain">နွေရာသီမိုး</string>
     <string name="timer_alert_type_stove_fire">မီးဖို</string>
     <string name="timer_alert_type_summer_night">နွေည</string>
     <string name="timer_can_continue_in_timer">ပြန်စရန် တိုင်မာအား ဖွင့််ပါ</string>
@@ -246,21 +308,26 @@
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="turn_off_a_repeat_alarm">ထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
-    <string name="upcoming_alarm">နောက်မြည်မည့်နှိုးစက် %s</string>
-    <string name="upcoming_alarm_hint">ဤနှိုးစက်အား ကြိုတင်ပိတ်ထားနိုင်ပါသည်</string>
+    <string name="upcoming_alarm">နောက်လာမည့် နှိုးစက်- %s</string>
+    <string name="upcoming_alarm_hint">ဤနှိုးစက်ကို ပိတ်နိုင်ပါပြီ</string>
     <string name="update_notification_info">နောက်ခံတွင် ဒေတာအား အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="vibrate_pref_summary">နှိုးစက်အသံမြည်ချိန်မှာ တုန်ခါပါ</string>
     <string name="vibrate_when_ringing">ဖုန်းမြည်ချိန်မှာ တုန်ခါပါ</string>
+    <string name="volume_button_setting_desc">ပါဝါခလုတ်နှင့် အသံ +/- ခလုတ်များအတွက် လုပ်ဆောင်ချက် သတ်မှတ်ရန်</string>
     <string name="volume_button_setting_summary">နှိုးစက်အတွင်း အသံအတိုးအကျယ်ခလုတ်မှတ်များ၏ လုပ်ဆောင်ချက်များအား သတ်မှတ်</string>
     <string name="volume_button_setting_title">အသံတိုးကျယ်ခလုတ်များ</string>
     <string name="workday_alarm_clock">အလုပ်ဆင်းရက် နှိုးစက်</string>
     <string name="worldclock_empty_text">အချိန်နာရီများ မရှိပါ</string>
     <string name="worldclock_input_hint_text">နိုင်ငံ သို့မဟုတ် မြို့များ ရှာရန်</string>
+    <string name="worldclock_resident_city_text">ဒုတိယ နာရီ- %s</string>
+    <string name="worldclock_resident_city_text_detail">နှစ်ခုတွဲ နာရီအား ဖွင့်ထားသည်</string>
     <string name="worldclock_search_city">မြို့တစ်မြို့ ရွေးပါ</string>
     <string name="worldclock_title">နာရီ</string>
     <string name="worldclock_world_time">ဒေသစံတော်ချိန်</string>
+    <string name="worldcolock_date_display_prefix">လက်ရှိ- </string>
     <string name="worldcolock_timezone_current">လက်ရှိ- %1$s</string>
+    <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_date">MMM dd</string>
     <string name="worldcolock_timezone_gap">%s နာရီ</string>
     <string name="worldcolock_timezone_local">ဒေသစံတော်ချိန်နှင့် တူညီသည်</string>

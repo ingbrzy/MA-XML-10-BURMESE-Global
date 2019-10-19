@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="feed_back_home">
+        <item quantity="other">ပင်မစာမျက်နှာသို့ %1$d စက္ကန့်အတွင်း ပြန်သွားပါမည်…</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">စာတန်းအား %.1f စက္ကန့် ရှေ့တိုးမည်</item>
     </plurals>
@@ -10,24 +13,39 @@
         <item quantity="other">အရွယ်အစား- %.2f KB</item>
     </plurals>
     <plurals name="lv_video_count">
-        <item quantity="other">ဗီဒီယို %d ခု</item>
+        <item quantity="other">ဗီဒီယို %dခု</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">ဗီဒီယို %d ခု</item>
     </plurals>
     <plurals name="ovp_home_item_unit">
-        <item quantity="other">ဗီဒီယို %d ခု</item>
+        <item quantity="other">ဗီဒီယို %dခု</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">မှတ်ချက် %d ခု</item>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">ယခု %s ခု ဖျက်လိုသလား။</item>
     </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">စာပြန်မှု %d ခု</item>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s ခု ရွေးထားသည်</item>
     </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">မှတ်ချက် %d ခုကို ကြည့်မည်</item>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">ဖိုင်အရွယ်အစား - %.2f KB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">\"%1$s\" အတွက် ရလဒ် %2$s ခု</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">ပုံ %d ပုံ</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">ဗီဒီယို %d ကား</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other">မှာယူမှု ခု</item>
+        <item quantity="other">စာရင်းသွင်းသူ  %s</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">စာတန်းများကို ရှေ့သို့ %.1fစက္ကန့် ရွေ့ထားသည်</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">စာတန်းများ နောက်သို့ %.1fစက္ကန့် ရွေ့ထားသည်</item>
     </plurals>
 </resources>

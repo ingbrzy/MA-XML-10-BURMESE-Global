@@ -26,13 +26,16 @@
     <string name="other_settings_user_experience_summary_index">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="other_settings_upload_debug_log_title">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာအား အလိုအလျောက်ပေးပို့ပါ</string>
     <string name="other_settings_upload_debug_log_summary">တည်နေရာရယူခြင်းနှင့် ပြဿနာဖြေရှင်းခြင်းအတွက် သုံးစွဲမှုအခြေအနေတွင် သင်၏ကိုယ်ရေးအချက်အလက်များ ပါဝင်နိုင်သည်</string>
-    <string name="other_settings_auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
-    <string name="other_settings_auto_update_summary">MIUI သည် အသစ်မွမ်းမံမှုများတပ်ဆင်ရန် အကောင်းဆုံးလှုပ်ရှားမှုအချိန်ကို ရွေးလိမ့်မည်</string>
-    <string name="other_settings_ad_enable">စိတ်ကြိုက်ကြော်ငြာ အကြံပြုချက်</string>
-    <string name="other_settings_ad_enable_summary">သင်၏အပြုအမူဒေတာပေါ်အခြေခံ၍ စိတ်ကြိုက်ကြော်ငြာများအား အကြံပြုထားသည်</string>
+    <string name="other_settings_auto_update">အလိုအလျောက်ပြုလုပ်သော စနစ်သစ်မွမ်းမံမှုများ</string>
+    <string name="other_settings_auto_update_summary">MIUI သည် ဒေါင်းလုဒ်လုပ်ရန်နှင့် အပ်ဒိတ်များ တပ်ဆင်ရန်အတွက် အကောင်းဆုံးအချိန်ကို ရွေးချယ်ပေးသွားပါမည်။ ထိုပြောင်းလဲမှုများ အသက်ဝင်စေရန်အတွက် သင့်စက်အား အလိုအလျောက် ပြန်လည်စတင်ပေးသွားပါမည်။</string>
+    <string name="other_settings_ad_enable">စိတ်ကြိုက်ကြော်ငြာများ</string>
+    <string name="other_settings_ad_enable_summary">သင့်စိတ်ဝင်စားမှုအလိုက် စိတ်ကြိုက်ကြော်ငြာများ</string>
+    <string name="other_settings_ad_disable_summary">စိတ်ကြိုက်ကြော်ငြာများကို ဖွင့်ရန်</string>
+    <string name="other_settings_ad_dialog_content">ဤအင်္ဂါရပ်ကိုပိတ်လိုက်ပါက သင်သည်စိတ်ကြိုက်ဝန်ဆောင်မှုများကို ရရှိတော့မည်မဟုတ်ပါ။ သို့သော် သင့်စိတ်ဝင်စားမှုနှင့်ဆိုင်သော ကြော်ငြာများကို ရရှိပါဦးမည်။ Xiaomi ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတွင် စိတ်ကြိုက်ကြော်ငြာများအကြောင်း ပိုမိုလေ့လာနိုင်သည်။ စိတ်ကြိုက်ကြော်ငြာများကို မဖြစ်မနေပိတ်လိုပါသလား။</string>
     <string name="other_settings_enhanced_lockscreen">နောက်ခံပုံ လှည့်ပြခြင်း</string>
-    <string name="other_settings_enhanced_lockscreen_summary">လှပကောင်းမွန်သော ရုပ်ပုံနှင့် ပုံပြင်များအား သော့ခတ်မျက်နှာပြင်သို့ နေ့စဥ် ပေးပို့နိုင်သည်။ စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">စည်းကမ်းသတ်မှတ်ချက်များ</string>
+    <string name="other_settings_enhanced_lockscreen_summary">သင်ကြိုက်တတ်သောဓာတ်ပုံများနှင့် ဇာတ်လမ်းများအား သင့်သော့ခတ်မျက်နှာပြင်သို့ နေ့စဉ်ပို့ပေးမှုကို ရယူပါ။ %1$s နှင့် %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">တစ်ဦးချင်းအသုံးပြုသူ လိုင်စင်သဘောတူညီချက်</string>
+    <string name="other_settings_enhanced_lockscreen_privacy_index">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="back">နောက်သို့</string>
     <string name="next">နောက်တစ်ဆင့်</string>
     <string name="skip_underline">ဤအဆင့်ကို ကျော်ပါ</string>
@@ -51,12 +54,17 @@
     <string name="terms_of_use_label">"သင့်ကိုယ်ရေးကိုယ်တာသည် ကျွန်ုပ်တို့အတွက် အလွန် အရေးကြီးပါသည်။ ကျွန်ုပ်တို့မှ မည်သည့်အချက်အလက်မျိုးကို ကောက်ယူပြီး၊ ၎င်းတို့အား အသုံးပြုပုံနှင့် သင့်တွင် မည်သည့်ရွေးပိုင်ခွင့်မျိုး ရှိသည်ကို သိနားလည်ရန်အတွက် ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့် ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို ကျေးဇူးပြု၍ ဖတ်ရှုပါ။ 
 
  သင့်အနေနှင့် MIUI အား အသုံးမပြုမီ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့် ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို သဘောတူရပါမည်။%sနှင့် Mi အကောင့်အစိတ်အပိုင်းများသည် အင်တာနက်သို့ချိတ်ဆက်ပြီး တည်နေရာယူပါလိမ့်မည်။"</string>
-    <string name="terms_of_use_lable_apps">Mi ဝန်ဆောင်မှု၊ Mi ဆင်းမ် အသက်သွင်းခြင်း ဝန်ဆောင်မှု၊ Mi Cloud၊ စက်ကို ရှာပါ၊ ပင်မ မျက်နှာပြင်၊ ဂိမ်းစင်တာ၊ MAB၊ MIUI Daemonနှင့် MSA စနစ်အစိတ်အပိုင်း၊ ဘာသာပြန် ဝန်ဆောင်မှု၊ အမြန်အက်ပ်များ၊ အက်ပ် မီးခံသေတ္တာ၊ စာရင်းအင်း၊ Mi Link</string>
+    <string name="terms_of_use_lable_apps">Mi services, Mi SIM activation services, Xiaomi Cloud, Find device, Home screen, Games, MIUI Daemon, MSA system components, translation services, Quick apps, App vault, statistics, Mi Link</string>
+    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="terms_of_use_label_Mistore">, Mi Store system plug-in</string>
     <string name="terms_of_use_lable_gms">၊ Google Play ဝန်ဆောင်မှု</string>
     <string name="terms_of_use_label_systemhelper">၊ ကိုယ်တိုင် မှတ်ပုံတင်ခြင်း ဝန်ဆောင်မှု</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused တည်နေရာရှာသူဝန်ဆောင်မှု၊ HTMLViewer</string>
     <string name="terms_of_use_lable_smart_cards">၊ စမတ် ကဒ်များ</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_label_updater">၊ အပ်ဒိတ်လုပ်ခြင်း</string>
+    <string name="terms_of_use_label_package">, Packageinstaller</string>
+    <string name="terms_of_use_label_phrase">, Frequent phrases</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 ဤအင်္ဂါရပ်အား မသုံးမီ Facemoji ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို သဘောတူရမည်။"</string>
@@ -88,7 +96,7 @@
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">သင့်စက်အား သော့ဖြည်ရန် သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ရန် လက်ဗွေအား အသုံးပြုပါ</string>
     <string name="content_description_start">စတင်</string>
-    <string name="start_up_slogan">မျက်နှာပြင်အပြည့်အတွက် ရေးဆွဲထားသောဒီဇိုင်း</string>
+    <string name="start_up_slogan">ဘဝကို ပိုလွယ်ကူစေသည်</string>
     <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">ပြည့်စုံသော</string>
     <string name="language_picker_other_languages_title">ဘာသာစကားပိုမို၍</string>

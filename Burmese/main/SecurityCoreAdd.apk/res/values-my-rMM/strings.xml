@@ -60,19 +60,19 @@
     <string name="wating">ခဏစောင့်ပါ…</string>
     <string name="Active">သက်ဝင်လှုပ်ရှားသည်</string>
     <string name="ok_button">အိုကေ</string>
-    <string name="remove_button">ဖယ်ရှားပြီး ပိတ်၍ပြန်စပါ</string>
-    <string name="remove_button_time">ဖယ်ရှားပြီး ပိတ်၍ပြန်စပါ (%d)</string>
+    <string name="remove_button">ဖျက်ပစ်မည်</string>
+    <string name="remove_button_time">ဖျက်ပစ်မည် (%dစက္ကန့်)</string>
     <string name="cancel_button">ပယ်ဖျက်မည်</string>
     <string name="list_empty_text">မရှိသော</string>
-    <string name="list_empty_text_xspace">WeChat/QQ/Weibo အား ထည့်သွင်းပါ၊ နှစ်ခုတွဲအက်ပ်များကို ဖန်တီးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="list_empty_text_xspace">နှစ်ခုတွဲအက်ပ်များအား ဖန်တီးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
     <string name="xspace_account">နှစ်ခုတွဲအက်ပ် အကောင့်များ</string>
     <string name="xspace_remove">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
     <string name="declare_dialog_title">နှစ်ခုတွဲအက်ပ်အကြောင်း</string>
     <string name="menu_item_about_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="stop_xspace_alert_title">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်နေသည်</string>
-    <string name="stop_xspace_alert_content">နှစ်ခုတွဲအက်ပ် အားလုံးနှင့် ဒေတာများအား အပြီးအပိုင် ဖျက်ပစ်ပါမည်။ ဤပြောင်းလဲမှုအား အသုံးချရန် စက်ကို ပိတ်၍ပြန်စရပါမည်။ အကောင့်များအား ယခု ဖျက်မလား?</string>
+    <string name="stop_xspace_alert_title">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
+    <string name="stop_xspace_alert_content">နှစ်ခုတွဲအက်ပ် အကောင့်နှင့် ဒေတာ အားလုံးကို ဖျက်မလား? စက်အား ပိတ်၍ပြန်စ ရမည်။</string>
     <string name="xspace_loading_msg">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="xspace_header">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_introduce">အကြံပြုထားသော</string>
@@ -295,15 +295,23 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">ဆိုင်းအင်ဝင်၍ မျှဝေမည်</string>
-    <string name="use_xiaoai_open">အသံလက်ထောက် သုံးမည်</string>
+    <string name="use_xiaoai_open">Mi AI ဖြင့် ဖွင့်ပါ</string>
+    <string name="use_google_open">Google လက်ထောက်ဖြင့် ဖွင့်ပါ</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">Weibo သို့ ပို့ပါ</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">QQ သူငယ်ချင်းများ/ကွန်ပျူတာသို့ ပေးပို့ပါ</string>
     <string name="qq_login">QQ သို့ ဆိုင်းအင်ဝင်မည်</string>
-    <string name="xspace_default_setting_label">ပုံသေအက်ပ်</string>
-    <string name="xspace_default_app_title">ပုံသေအက်ပ်</string>
-    <string name="xspace_default_app_summary">ပေးချေမှု၊ မျှဝေမှု၊ အကြိုက်ဆုံးများနှင့် အခြားအရာများအတွက် မူလအက်ပ်တစ်ခု သတ်မှတ်မည်။</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
+    <string name="whatsapp_send">WhatsApp သို့ မျှဝေမည်</string>
+    <string name="xspace_facebook_title">Facebook</string>
+    <string name="facebook_send">Facebook သို့ မျှဝေမည်</string>
+    <string name="facebook_login">Facebook ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
+    <string name="xspace_instagram_title">Instagram</string>
+    <string name="instagram_send">Instagram သို့ မျှဝေမည်</string>
+    <string name="xspace_default_setting_label">စိတ်ကြိုက်ပြုလုပ်ခြင်း</string>
+    <string name="xspace_default_app_title">စိတ်ကြိုက်ပြုလုပ်ခြင်း</string>
+    <string name="xspace_default_app_summary">အသံလက်ထောက်ဖြင့် ဆိုင်းအင်၊ မျှဝေခြင်း လုပ်ရန် အက်ပ်များ ရွေးပါ</string>
     <string name="xspace_default_setting_dialog_title"> မူရင်း</string>
     <string name="xspace_default_guide_notification_content">ပြောင်းလဲရန် ထိနှိပ်ပါ</string>
     <string name="xspace_default_guide_notification_main_title">မူလအက်ပ်ကို သုံးမည်</string>
@@ -393,7 +401,7 @@
     <string name="second_space_desktop_tips_dialog_title">အရေးကြီးသော မွမ်းမံမှု</string>
     <string name="second_space_desktop_tips_dialog_positive_text">နားလည်ပါပြီ</string>
     <string name="second_space_desktop_tips_dialog_message">အပ်ဒိတ်လုပ်ပြီးနောက် ဒေတာပြောင်းရွှေ့ရန်နှင့် ဒုတိယနေရာစီမံရန် အိုင်ကွန်များသည် ပင်မမျက်နှာပြင်ပေါ်တွင် ရှိတော့မည်မဟုတ်ပါ။ သက်ဆိုင်ရာ အင်္ဂါရပ်များအား ဆက်တင်မှ ဝင်ရောက်နိုင်ပါသည်။</string>
-    <string name="green_guard">မိဘ ထိန်းချုပ်မှု</string>
+    <string name="green_guard">မိသားစုအစောင့်အကြပ်</string>
     <string name="bind_device">စက်များကို ပေါင်းထည့်ပါ</string>
     <string name="green_guard_des1">အဝေးထိန်းစနစ်ဖြင့်စီမံရန် စက်များကို ပေါင်းထည့်ပါ</string>
     <string name="green_guard_title2">တည်နေရာအချက်အလက် ကြည့်ရှုရန်</string>
@@ -437,10 +445,12 @@
     <string name="install_error">ထည့်သွင်း၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="ent_install_dialog_content">အက်ပ်အား ထည့်သွင်းပြီး စက်ကို ယခု ပိတ်၍ ပြန်ဖွင့်မလား?</string>
     <string name="ent_disallow_running">ဤအက်ပ်အား ဖွင့်ရန် တားမြစ်ထားသည်</string>
-    <string name="greenguard_child_des_title">ကျွန်ုပ်၏ သူငယ်ချင်းနှင့် မိသားစုထံမှ အကူအညီ လိုအပ်သည်</string>
-    <string name="greenguard_child_des">မိသားစု အကာအကွယ်အား ဖွင့်ပါ</string>
-    <string name="greenguard_parent_des_title">ကျွန်ုပ်၏ သူငယ်ချင်းနှင့် မိသားစုအား ကူညီမည်</string>
-    <string name="greenguard_parent_des">ကျွန်ုပ်တို့၏ အက်ပ်အား ဒေါင်းလုဒ်လုပ်ပြီး အခြားသူ၏ စက်ကို ပေါင်းထည့်ပါ</string>
+    <string name="greenguard_child_des_title">စက်ပစ္စည်းကိုထည့်ရန် QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
+    <string name="greenguard_child_des">သင့်မိတ်ဆွေများနှင့် မိသားစု၏ စက်ပစ္စည်းများကို စီမံခန့်ခွဲပါ</string>
+    <string name="greenguard_parent_des_title">စက်ပစ္စည်းများထည့်ရန် Kite အစောင့်အကြပ်သုံးပါ</string>
+    <string name="greenguard_parent_des">သင့်မိတ်ဆွေများနှင့် မိသားစု၏ စက်ပစ္စည်းများကို စီမံခန့်ခွဲရန်</string>
+    <string name="greenguard_functional_description">"စက်ပစ္စည်းများကို အဝေးမှစီမံခန့်ခွဲပြီး၊ တည်နေရာကြည့်ပါ
+ထည့်သွင်းထားသော အက်(ပ်)များကို ထိန်းချုပ်ပြီး အသုံးပြုခြင်းကို ကန့်သတ်ပါ"</string>
     <string name="cta_declaration_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="cta_declaration_message_format" formatted="false">လုပ်ငန်းမုဒ်အား မသုံးမီ &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font>ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ လုပ်ငန်းမုဒ်အား အသက်သွင်းရန် အင်တာနက်သို့ ချိတ်ဆက်ရန် လိုအပ်သည်။ သဘောတူပါသလား?</string>
     <string name="cta_declaration_agree_and_continue">သဘောတူပါသည်</string>
@@ -466,4 +476,5 @@
     <string name="master_clear_not_available">သင်၏ ကုမ္ပဏီမှ စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်းအား ကန့်သတ်ထားသည်။</string>
     <string name="dual_animation">အန်နီမေးရှင်း ခလုတ်</string>
     <string name="dual_animation_description">နှစ်ခုတွဲအက်ပ်အား ဖွင့်သောအခါ အန်နီမေးရှင်း ပြပါ</string>
+    <string name="can_not_switch_when_super_power_active">Ultra ဓာတ်ခဲချွေတာခြင်းကို ဖွင့်ထားစဉ် နေရာတစ်ခုနှင့် တစ်ခုအကြား ပြောင်းမရပါ</string>
 </resources>

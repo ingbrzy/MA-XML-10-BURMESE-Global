@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_weather_setting">မိုးလေဝသအကြောင်း</string>
+    <string name="about_weather_setting_feedback">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="abrupt_weather_settings_summary_type">မိုးရွာနိုင်ခြေရှိမရှိ၊ လေအရည်အသွေးအပြောင်းအလဲများနှင့် အခြား ထင်ရှားသော အပြောင်းအလဲများအကြောင်း သတိပေးချက်များရယူရန်</string>
     <string name="act_find_city_hint">တည်နေရာအားထည့်သွင်းပါ</string>
     <string name="act_find_city_hot_attractions_title">အထင်ကရနေရာများ</string>
     <string name="act_find_city_hot_city_title">အထင်ကရမြို့တော်များ</string>
@@ -29,6 +32,8 @@
     <string name="add_city">ထည့်ပါ</string>
     <string name="alert_detail_title">သတိပေးချက်အသေးစိတ်များ</string>
     <string name="alert_warning">ရာသီဥတု သတိပေးချက်များ</string>
+    <string name="alert_weather_enable_settings_summary">တရားဝင် မိုးလေဝသသတိပေးချက်များကို ရယူရန်</string>
+    <string name="alert_weather_enable_settings_title">မိုးလေဝသသတိပေးချက်များ</string>
     <string name="already_voted_toast">သင်ယနေ့အတွက် မဲပေးပြီးသွားပြီ</string>
     <string name="app_name">မိုးလေဝသ</string>
     <string name="aqi_data_source">Colorful Clouds မှ ပံ့ပိုးသည်</string>
@@ -96,14 +101,17 @@
     <string name="daily_forecast_add_city_message">အသေးစိတ်ခန့်မှန်းချက်အတွက် %1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်။</string>
     <string name="daily_forecast_add_city_title">%1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်</string>
     <string name="daily_forecast_detail_date">M/d</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"မိုးလေဝသ အချက်အလက်ရယူ၍ မရပါ
 အောက်သို့ဆွဲပြီး ရီဖရှက်ရ်လုပ်ပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="data_provided_by">ဒေတာ ပံ့ပိုးသူ</string>
     <string name="edit_city">မြို့များကို စီမံမည်</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="empty_view_net_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="empty_view_refresh">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="eu_region_version_first_start_network_msg">ဤထုတ်ကုန်အား အသုံးပြုခြင်းဖြင့် အင်တာနက်သို့ ချိတ်ဆက်၍ သင်ရှာ​ဖွေသောမြို့များ၏ ကိုသြဒီနိတ်၊ ကိုယ်ရေးအချက်အလက်ပေါ်လစီမှ သတ်မှတ်ထားသော အခြားအချက်အလက်များအပါအဝင် သင်၏ကိုယ်ရေးအချက်အလက်အား စုဆောင်းခြင်း၊ အသုံးပြုခြင်းကို သဘောတူရပါမည်။ စုဆောင်းပုံနှင့် အသုံးပြုပုံအား သိရှိနားလည်ရန် ကျွန်ုပ်တို့၏ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို ဖတ်ရှုပါ။ \"သဘောတူပါသည်\"အား ရွေးပါက Xiaomi ၏ %1$sနှင့် %2$sကို သင် သဘောတူလက်ခံသည်။</string>
+    <string name="feedback">မိုးလေဝသသတင်းအမှားကို တိုင်းကြားရန်</string>
     <string name="feedback_cloudy">တိမ်ထူမည်</string>
     <string name="feedback_foggy">မြူထူထပ်မည်</string>
     <string name="feedback_haze">မီးခိုးမြူဆိုင်းမည်</string>
@@ -112,12 +120,16 @@
     <string name="feedback_overcast">တိမ်ထူထပ်</string>
     <string name="feedback_report_privacy_msg">သင်၏ တည်နေရာ အချက်အလက်သည် အစီရင်ခံစာတွင် ပါဝင်မည်</string>
     <string name="feedback_result_fail_no_choice">လက်ရှိ ရာသီဥတုအခြေနေကို ရွေးချယ်ပါ</string>
+    <string name="feedback_result_fail_no_reason">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါတယ်။</string>
+    <string name="feedback_result_fail_same_type">သင့်အစီရင်ခံချက်သည် လက်ရှိ ရာသီဥတုနှင့် အတူတူပင် ဖြစ်သည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="feedback_result_success">တင်သွင်းမှုအောင်မြင်ခဲ့၊ သင့်တုန့်ပြန်မှုအတွက် ကျေးဇူးတင်ပါသည်</string>
     <string name="feedback_sandy">သဲထူမည်</string>
     <string name="feedback_sunny">နေသာသည်</string>
     <string name="first_start_network_title">အင်တာနက်နှင့် တည်နေရာဝင်ရောက်နိုင်မှု</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ယခု</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="hourly_forecast_title_24_hours_desc">၂၄နာရီအတွက် ခန့်မှန်းချက်</string>
     <string name="hourly_forecast_title_hourly_desc">နာရီအလိုက် ခန့်မှန်းချက်</string>
@@ -133,11 +145,15 @@
     <string name="indices_title_feel">တကယ့် ခံစားမှု</string>
     <string name="indices_title_pressure">လေထုဖိအား</string>
     <string name="install">ထည့်သွင်းမည်</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="international_details_title">အသေးစိတ်များ</string>
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">လေ</string>
     <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
  မြို့အား ပြန်လည်သတ်မှတ်ရန် သို့မဟုတ် ကိုယ်တိုင်ပေါင်းထည့်ရန် မျက်နှာပြင်ပေါ်တွင် ထိနှိပ်ပါ။"</string>
     <string name="location_provider_btn_text">တည်နေရာဝန်ဆောင်မှုကို ဖွင့်ပါ</string>
@@ -160,7 +176,7 @@
     <string name="more_details">နောက်ထပ် အသေးစိတ်များ</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ.</string>
-    <string name="night_not_disturb_settings_summary">၂၃း၀၀မှ ၇း၀၀အကြား သတိပေးချက်များအား ပိတ်ထားပါ</string>
+    <string name="night_not_disturb_settings_summary">၂၃း၀၀မှ ၇း၀၀အကြား သတိပေးချက်များကို ပိတ်ထားပါ</string>
     <string name="night_not_disturb_settings_title">ညတွင် မနှောင့်ယှက်ပါနှင့်</string>
     <string name="no_data">ဒေတာ မရှိပါ</string>
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
@@ -219,6 +235,7 @@
     <string name="share_menu_title">မျှဝေပါ</string>
     <string name="share_subject">မျှဝေပါ</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
     <string name="shortcut_short_label_24_hour_forecast">၂၄ နာရီအတွက် ခန့်မှန်းချက်</string>
@@ -226,6 +243,7 @@
     <string name="some_where_on_earth">ကမ္ဘာပေါ်ရှိတစ်နေရာရာ</string>
     <string name="sunrise">နေထွက်ချိန်</string>
     <string name="sunset">နေဝင်ဆည်းဆာ</string>
+    <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
@@ -265,6 +283,8 @@
     <string name="view_forecast_item_yesterday">မနေ့က</string>
     <string name="view_indexes_item_today">ဒီနေ့</string>
     <string name="view_indexes_item_tommorrow">မနက်ဖြန်</string>
+    <string name="warning_weather_day_and_night_settings_summary">၇း၀၀ နာရီနှင့် ၁၉း၀၀ နာရီအကြား မိုးလေဝသအချက်အလက်များပါဝင်သော နေ့စဉ်အကျဉ်းချုပ် ရယူရန်</string>
+    <string name="warning_weather_day_and_night_settings_title">နေ့စဉ်အကျဉ်းချုပ်များ</string>
     <string name="weather_alert_channel_name">သတိပေးချက်</string>
     <string name="weather_introduce">နေပူ မိုးရွာ မရွေး သင်နှင့်အတူ အမြဲ ရှိနေမည်။</string>
     <string name="weather_permission_agree">လက်ခံမည်</string>

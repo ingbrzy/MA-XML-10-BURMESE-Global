@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">အားသွင်းဘူးပေါ်ရှိ ခလုတ်အား %1$d စက္ကန့်ကြာ ဖိနှိပ်ထားပါ</item>
+    </plurals>
+</resources>

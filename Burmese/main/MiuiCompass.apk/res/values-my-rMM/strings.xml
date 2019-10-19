@@ -55,6 +55,8 @@
     <string name="mobiledata_alert_dialog_title">ဒေတာအသုံးပြမှု သတိပေးချက်</string>
     <string name="open_perm_msg">သံလိုက်အိမ်မြှောင်သည် တည်နေရာအချက်အလက်နှင့် ကင်မရာသို့ ဝင်ရောက်ခွင့် လိုအပ်သည်။ ကိုသြဒီနိတ်ဆုံးဖြတ်ရန်နှင့် တိုက်ရိုက်ကြည့်ရှုမှုများအတွက် ဖြစ်သည်။ ခွင့်ပြုမလား?</string>
     <string name="open_perm_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="permission_camera_desc">ပြင်ညီညှိကိရိယာသုံးထားသည်</string>
+    <string name="permission_location_desc">မျက်နှာပြင်ဖိအားနှင့် လေထုဖိအား ပြသခြင်း</string>
     <string name="preference_other">အခြား</string>
     <string name="preference_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="pressure">%.1f</string>

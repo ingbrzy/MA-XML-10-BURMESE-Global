@@ -126,6 +126,28 @@
         <item>ချိတ်ဆက်မှုကွာလတီ မြှင့်တင်မည် (330kbps/303kbps)</item>
         <item>အကောင်းဆုံး ဖန်တီးချက် (bitနှုန်းအလိုက်)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Short latency</item>
+        <item>Middle latency</item>
+        <item>Long latency</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Short latency (50~100ms)</item>
+        <item>Middle latency (150~200ms)</item>
+        <item>Long latency (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimized for connection quality</item>
+        <item>Balanced audio and connection quality</item>
+        <item>Optimized for audio quality</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimized for connection quality (400kbps)</item>
+        <item>Balanced audio and connection quality (500/560kbps)</item>
+        <item>Optimized for audio quality (900kbps)</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
         <item>44.1 kHz</item>
@@ -148,8 +170,9 @@
         <item>Qualcomm® aptX™ HD အော်ဒီယို</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
+        <item>LHDC</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
@@ -159,8 +182,9 @@
         <item>Qualcomm® aptX™ HD အော်ဒီယို</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
+        <item>LHDC</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -485,6 +509,31 @@
         <item>ပါရာမာရီဘို</item>
         <item>ကွီတို</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>တိုးမြှင့်ထားသော အရောင်</item>
         <item>မျက်စိဖြင့် မြင်ရသော သဘာဝအရောင်</item>
@@ -533,11 +582,6 @@
         <item>ပိတ်မည်</item>
         <item>ကျော်လွန်ဧရိယာများ ပြရန်</item>
         <item>Deuteranomaly (အနီ-အစိမ်း မသဲကွဲသူ) အတွက် ဧရိယာများကို ပြပါ</item>
-    </string-array>
-    <string-array name="drip_battery_indicator_style_entries">
-        <item>ဂရပ်ဖစ်ဆိုင်ရာ</item>
-        <item>ရာခိုင်နှုန်း (အိုင်ကွန်ထဲတွင်)</item>
-        <item>ရာခိုင်နှုန်း (အိုင်ကွန်ဘေးတွင်)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>မရှိပါ</item>
@@ -597,10 +641,19 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
-        <item>မျက်နှာပြင်ကို လင်းစေပါ</item>
-        <item>သက်ဝင်လှုပ်ရှားမှုကို ပြပါ</item>
-        <item>မျက်နှာပြင်အား မလင်းစေပါနှင့်</item>
+        <item>မျက်နှာပြင်ကို မနှိုးရန်</item>
+        <item>မျက်နှာပြင်ကို နှိုးရန်</item>
+        <item>လှုပ်ရှားမှုပုံများပြရန်</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>အပြာ</item>
@@ -629,6 +682,43 @@
         <item>၅ မိနစ်နောက်</item>
         <item>ဘယ်တော့မှ</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_volume_down_action">
         <item>မရှိ</item>
         <item>အမြန်ရိုက်ချက်မုဒ် (ဓာတ်ပုံ)</item>
@@ -692,6 +782,14 @@
         <item>"စက်ကို ဖြုတ်မည်- fusermount -u /media/mtp
 သတိ- Ubuntu 8.04 အတွက်သာ!"</item>
     </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>Mi PC Suite အား ပြန်ထည့်သွင်းပါ</item>
@@ -703,7 +801,8 @@
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>ဂရပ်ဖစ်ဆိုင်ရာ</item>
-        <item>ရာခိုင်နှုန်း</item>
+        <item>ရာခိုင်နှုန်း (သင်္ကေတဖြင့်)</item>
+        <item>ရာခိုင်နှုန်း (သင်္ကေတဘေးတွင်)</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>ရှာဖွေရန်</item>
@@ -784,6 +883,97 @@
         <item>မိုက်-ဆားကစ်တစ်ခုတည်း ဆူညံသံထိန်းချုပ်ခြင်း</item>
         <item>မိုက်-ဆားကစ်နှစ်ခု ဆူညံသံထိန်းချုပ်ခြင်း</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>စွမ်းဆောင်ရည်</item>
         <item>ဟန်ချက်ညီညီ</item>
@@ -833,14 +1023,19 @@
         <item>မီးနူးကို ပြပါ</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>လက်ရှိ အလင်းအတွက် အသင့်တော်ဆုံး ဖြူမဲ့တိုးလျှော့</item>
-        <item>ပြကွက်၏ ဖြူမဲတိုးလျှော့ကို မြှင့်တင်ပါ</item>
+        <item>လက်ရှိအလင်းရောင်အပေါ်မူတည်ပြီး အရောင်ချိန်ပါ</item>
+        <item>အရောင်များကို အမြဲအားမြှင့်ပါ</item>
         <item>ဖြူမဲတိုးလျှော့သည် မပြောင်းမလဲ ဆက်ရှိနေလိမ့်မည်</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>အလိုအလျောက် ဖြူမဲတိုးလျှော့</item>
-        <item>ဖြူမဲတိုးလျှော့ကို မြှင့်တင်ထားသည်</item>
+        <item>အလိုအလျောက် (အကြံပြုပါသည်)</item>
+        <item>အားမြှင့်ထားသည်</item>
         <item>ပုံမှန်</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -904,6 +1099,10 @@
         <item>စတုဂံမဟုတ်သောပိုင်းဖြတ်ဒေသကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
         <item>စမ်းသပ်ပုံဆွဲရန် အမိန့်ကို အစိမ်းရောင်ဖြင့် ဟိုက်လိုက်လုပ်ပါ</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>အမြဲတမ်း</item>
         <item>၃၀ မိနစ်</item>
@@ -926,6 +1125,31 @@
         <item>ခွင့်ပြုသည်</item>
         <item>ငြင်းပယ်သည်</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>၁၂ နာရီ ပုံစံ ညနေ ၁း၀၀</item>
         <item>၂၄ နာရီ ပုံစံ ၁၃း၀၀</item>
@@ -1032,6 +1256,15 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>ကိန်းဂဏန်းဖြင့်</item>
+        <item>ရာခိုင်နှုန်း (သင်္ကေတဖြင့်)</item>
+        <item>ရာခိုင်နှုန်း (သတိပေးအသိပေးချက်အတန်းရှိ သင်္ကေတဘေးတွင်)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>

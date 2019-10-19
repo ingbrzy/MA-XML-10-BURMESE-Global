@@ -36,6 +36,7 @@
     <string name="accessibility_camera_button">ကင်မရာ</string>
     <string name="accessibility_carrier_network_change_mode">ဖုန်းလိုင်းကုမ္ပဏီ ကွန်ရက်အား ပြောင်းနေသည်။</string>
     <string name="accessibility_cast_name">%s သို့ ချိတ်ဆက်ပြီးပါပြီ။</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">မျက်နှာပြင်ကာစ်တင်အား ရပ်လိုက်သည်။</string>
     <string name="accessibility_cell_data">မိုဘိုင်းဒေတာ</string>
     <string name="accessibility_cell_data_off">မိုဘိုင်းဒေတာ ပိတ်ထားသည်</string>
@@ -317,14 +318,12 @@
     <string name="block_notification_content_text">%1$s ၏ အသိပေးချက်များသည် ထပ်မံပြသတော့မည်မဟုတ်ပါ။ ဤအရာအား ဆက်တင်များထဲတွင် ဝင်ပြောင်းနိုင်ပါသည်</string>
     <string name="block_notification_desc">အက်ပ်အသိပေးချက်များသည် ထပ်မံပြသတော့မည်မဟုတ်ပါ။ ဤအရာအား ဆက်တင်များထဲတွင် ဝင်ပြောင်းနိုင်ပါသည်</string>
     <string name="block_notification_text">ကွယ်ဝှက်</string>
-    <string name="block_record_notification_text">%1$sမှ　အသိပေးအချက်ပြချက်များအား　ကွယ်ဝှက်နေ</string>
-    <string name="block_record_notification_title">အသိပေးအချက်ပြချက်များအား　ကွယ်ဝှက်ထား</string>
     <string name="bluetooth_a2dp_profile_summary_connected">မီဒီယာအော်ဒီယိုသို့ ချိတ်ဆက်ထားသည်</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">မီဒီယာအော်ဒီယို အတွက် သုံးမည်</string>
     <string name="bluetooth_active_battery_level">အသုံးပြုနေသည်၊ ဘက်ထရီ- %1$s</string>
     <string name="bluetooth_active_no_battery_level">အသုံးပြုနေသည်</string>
     <string name="bluetooth_battery_level">ဘက်ထရီ- %1$s</string>
-    <string name="bluetooth_connected">%1$sသို့ ချိတ်ဆက်ထားသည်</string>
+    <string name="bluetooth_connected">%1$s ကို ချိတ်ပြီးပါပြီ</string>
     <string name="bluetooth_connected_battery_level">ချိတ်ဆက်ထားသည် | ဘက်ထရီ %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">ချိတ်ဆက်ထားသည် (မီဒီယာလိုင်း မရှိ) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">ချိတ်ဆက်ထားသည်(မီဒီယာ မရှိ) | ဘက်ထရီ %1$s%2$s</string>
@@ -516,6 +515,7 @@
     <string name="description_direction_left">%s အတွက် ဘယ်သို့ ပွတ်ဆွဲပါ။</string>
     <string name="description_direction_up">%s အတွက် အထက်သို့ ပွတ်တင်ပါ။</string>
     <string name="description_image_button_answer">ဖြေဆိုမည်</string>
+    <string name="description_image_button_bubble_answer">စပီကာ</string>
     <string name="description_image_button_reject">ငြင်းဆိုမည်</string>
     <string name="description_image_icon_sim_card">ဆင်းမ် %1$d</string>
     <string name="description_target_search">ရှာဖွေပါ</string>
@@ -530,7 +530,6 @@
     <string name="development_settings_title">ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများ</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">မှတ်ချက်- ဤကီးဘုတ်အား ဖုန်းပိတ်၍ပြန်စပြီးမှသာ အသုံးပြုနိုင်ပါမည်။</string>
-    <string name="disable_notification_summary">ရွေးထားသောအက်ပ်များ၏ အသိပေးချက်များအားမပြပါနှင့်</string>
     <string name="disable_notification_title">အသိပေးချက်များအား ကွယ်ဝှက်ပါ</string>
     <string name="disable_overlays">HW ထပ်ဆင့်လွှာအား ပိတ်မည်</string>
     <string name="disable_overlays_summary">မျက်နှာပြင်ပေါင်းစပ်ရန် GPU ကို အမြဲတမ်းသုံးမည်</string>
@@ -589,30 +588,31 @@
     <string name="enable_terminal_title">ဒေသတွင်း တာမီနယ်</string>
     <string name="enabled_by_admin">စီမံအုပ်ချုပ်သူမှ ဖွင့်လိုက်သည်</string>
     <string name="ethernet_label">အီသာနက်</string>
-    <string name="expanded_confirm_disable_notification">ကွယ်ဝှက်</string>
     <string name="expanded_header_battery_charged">အားသွင်းပြီးပြီ</string>
     <string name="expanded_header_battery_charging">အားသွင်းနေသည်</string>
     <string name="expanded_header_battery_charging_with_time">အားပြည့်ရန် %s ကျန်သေးသည်</string>
     <string name="expanded_header_battery_not_charging">အားသွင်းမှုမရှိပါ</string>
     <string name="expanded_notification_manager">အကြောင်းကြားစာများ စီမံပါ</string>
     <string name="experimental">စမ်းသပ်</string>
-    <string name="ext_media_badremoval_notification_message">ဒေတာပျောက်ဆုံးမှုကို ရှောင်ရန်အတွက်၊ SD ကဒ်ကို မဖယ်ရှားမီ စက်ဖြင့်တွဲသုံးနေသည်ကို ရပ်လိုက်ပါ။</string>
-    <string name="ext_media_badremoval_notification_title">SD ကဒ်ကို မမျှော်လင့်ဘဲ ဖယ်ရှားခဲ့သည်</string>
+    <string name="ext_media_badremoval_notification_message">ဒေတာပျောက်ဆုံးမှုကို ရှောင်ရန်အတွက်၊ USB သိုလှောင်ခန်းကို မဖယ်ရှားမီ စက်ဖြင့်တွဲသုံးနေသည်ကို ရပ်လိုက်ပါ။</string>
+    <string name="ext_media_badremoval_notification_title">USB သိုလှောင်ခန်းကို မမျှော်လင့်ဘဲ ဖယ်ရှားခဲ့သည်</string>
     <string name="ext_media_checking_notification_message">အမှားများအတွက် စစ်ဆေးနေသည်။</string>
-    <string name="ext_media_checking_notification_title">SD ကဒ် ပြင်ဆင်ခြင်း</string>
+    <string name="ext_media_checking_notification_title">USB သိုလှောင်ခန်း ပြင်ဆင်ခြင်း</string>
     <string name="ext_media_mountable_notification_message">ဖိုင်မန်နေဂျာအား ဖွင့်ရန် ထိနှိပ်ပါ</string>
     <string name="ext_media_mountable_notification_title">USB သိုလှောင်စက်သို့ ချိတ်ဆက်ထားသည်</string>
-    <string name="ext_media_nofs_notification_message">SD ကဒ်၌ ဘာမှမရှိပါ (သို့) ပံ့ပိုးမှုမပေးသော ဖိုင်စနစ်မျိုး ရှိနေသည်။</string>
-    <string name="ext_media_nofs_notification_title">SD ကဒ်၌ ဘာမှမရှိအောင် ရှင်းပါ</string>
-    <string name="ext_media_nomedia_notification_message">SD ကဒ်ကို ဖယ်ရှားပြီးပြီ။ အသစ်တစ်ခု ထည့်သွင်းပါ။</string>
-    <string name="ext_media_nomedia_notification_title">SD ကဒ်ကို ဖယ်ရှားခဲ့ပြီးပြီ</string>
+    <string name="ext_media_nofs_notification_message">USB သိုလှောင်ခန်း၌ ဘာမှမရှိပါ (သို့) ပံ့ပိုးမှုမပေးသော ဖိုင်စနစ်မျိုး ရှိနေသည်။</string>
+    <string name="ext_media_nofs_notification_title">USB သိုလှောင်ခန်း၌ ဘာမှမရှိအောင် ရှင်းပါ</string>
+    <string name="ext_media_nomedia_notification_message">USB သိုလှောင်ခန်းကို ဖယ်ရှားပြီးပြီ။ မီဒီယာအသစ် ထည့်သွင်းပါ။</string>
+    <string name="ext_media_nomedia_notification_title">USB ကို ဖယ်ရှားခဲ့ပြီးပြီ</string>
     <string name="ext_media_safe_remove">လုံခြုံစွာ ဖယ်ရှားပါ</string>
-    <string name="ext_media_safe_unmount_notification_message">SD ကဒ်ကို ယခု ဘေးကင်းစွာ ဖယ်ရှားနိုင်သည်။</string>
-    <string name="ext_media_safe_unmount_notification_title">SD ကဒ် ဖြုတ်ဖို့ စိတ်ချရပါပြီ</string>
-    <string name="ext_media_unmountable_notification_message">SD ကဒ် ပျက်စီးနေသည်။ ၎င်းကို သင် ဖောမတ်ပြန်လုပ်ရမည့်ဟန် ရှိသည်။</string>
-    <string name="ext_media_unmountable_notification_title">ပျက်စီးနေသော SD ကဒ်</string>
+    <string name="ext_media_safe_unmount_notification_message">USB သိုလှောင်ခန်းကို ယခု ဘေးကင်းစွာ ဖယ်ရှားနိုင်သည်။</string>
+    <string name="ext_media_safe_unmount_notification_title">USB ဖြုတ်ဖို့ စိတ်ချရပါပြီ</string>
+    <string name="ext_media_unmountable_notification_message">USB သိုလှောင်ခန်း ပျက်စီးနေသည်။ ၎င်းကို သင် ဖောမတ်ပြန်လုပ်ရမည့်ဟန် ရှိသည်။</string>
+    <string name="ext_media_unmountable_notification_title">ပျက်စီးနေသော USB သိုလှောင်ခန်း</string>
     <string name="external_source_trusted">ခွင့်ပြုထားသည်</string>
     <string name="external_source_untrusted">ခွင့်မပြုပါ</string>
+    <string name="face_data_apply_for_category_title">မျက်နှာဒေတာဖြင့် သော့ဖြည်မည်</string>
+    <string name="face_data_apply_for_keyguard_title">သော့ခတ်မျက်နှာပြင်</string>
     <string name="face_data_input_camera_fail">ကင်မရာကို ဖွင့်၍မရပါ</string>
     <string name="face_data_input_camera_ok">ကင်မရာကို ဖွင့်နေသည်…</string>
     <string name="face_data_input_cancel">ပယ်ဖျက်မည်</string>
@@ -644,6 +644,7 @@
     <string name="face_unlock_be_on_the_screen">သင့်မျက်နှာရှေ့တွင် စက်ကို ကိုင်ထားပါ</string>
     <string name="face_unlock_by_notification_screen_on_msg">အသိပေးချက်များဝင်လာ၍ မျက်နှာပြင်လင်းသောအခါ မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်နိုင်သည်။ သို့သော် ဘက်ထရီအားကုန်မှု ပိုမြန်စေသည်။</string>
     <string name="face_unlock_by_notification_screen_on_title">မျက်နှာပြင်လင်းသောအခါ မျက်နှာသော့ဖြည်ခြင်းကို ခွင့်ပြုမည်</string>
+    <string name="face_unlock_category_title">သော့ခတ်မျက်နှာပြင်ရွေးချယ်စရာများ</string>
     <string name="face_unlock_check_failed">သင့်ကို အသိအမှတ်မပြုနိုင်ပါ</string>
     <string name="face_unlock_close_screen">မျက်နှာပြင်အနားသို့ ကပ်ပါ</string>
     <string name="face_unlock_down">သင့်ခေါင်းကို မော့ပါ</string>
@@ -740,6 +741,26 @@
     <string name="gxzw_area">လက်ဗွေ စကန်နာ</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">အားနှင့်ဖိထားပါ</string>
+    <string name="gxzw_quick_open_add_event">အချိန်ဇယား ပေါင်းထည့်မည်</string>
+    <string name="gxzw_quick_open_add_event_sub">ပြက္ခဒိန်</string>
+    <string name="gxzw_quick_open_alipay_pay">ပေးချေမှု ကုဒ်</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
+    <string name="gxzw_quick_open_alipay_scan">စကန်နာ</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
+    <string name="gxzw_quick_open_qr_code">QR ကုဒ်</string>
+    <string name="gxzw_quick_open_qr_code_sub">စကန်နာ</string>
+    <string name="gxzw_quick_open_search">ရှာဖွေရန်</string>
+    <string name="gxzw_quick_open_search_sub">ဘရောက်ဇာ</string>
+    <string name="gxzw_quick_open_skip_teach">ကျူတိုရီရယ်အား ကျော်သွားမည်</string>
+    <string name="gxzw_quick_open_wechat_pay">ပေးချေမှု ကုဒ်</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">စကန်နာ</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_title1">သင် ဖွင့်လိုသော အက်ပ်၏ အမည်ကို ပြောပါ</string>
+    <string name="gxzw_quick_open_xiaoai_title2">သင် သုံးလိုသော အင်္ဂါရပ်၏ အမည်ကို ပြောပါ</string>
+    <string name="gxzw_quick_tip_press">ဆက်လက် ဖိထားပါ…</string>
+    <string name="gxzw_quick_tip_slide">လက်မလွှတ်ဘဲ အပေါ်သို့ ပွတ်ဆွဲပြီး ရွေးပါ။</string>
     <string name="gxzw_try_again">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="gxzw_try_more_again">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="gxzw_use_password">စကားဝှက်ဖြင့် လော့ခ်ဖြည်ပါ</string>
@@ -758,7 +779,7 @@
     <string name="high_temp_notif_message">ဖုန်းအား အပူချိန်လျော့ချနေစဥ် အချို့ လုပ်ဆောင်ချက်များသည် အလုပ်မလုပ်ပါ</string>
     <string name="high_temp_title">ဖုန်း ပူလာပြီ</string>
     <string name="home">ပင်မမျက်နှာပြင် ဆက်တင်များ</string>
-    <string name="how_to_back_home">ဟုမ်းစခရင်သို့ သွားပါ</string>
+    <string name="how_to_back_home">ပင်မမျက်နှာပြင်သို့ သွားပါ</string>
     <string name="how_to_switch_recents">မကြာသေးမီက ကို ဖွင့်ပါ</string>
     <string name="how_to_use_drawer">ဆလိုက်မီနူးအား ဘယ်လို ဖွင့်ရမလဲ</string>
     <string name="how_to_use_drawer_summary">မျက်နှာပြင်၏အပေါ်ပိုင်းတွင် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
@@ -778,6 +799,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် နေရာနှစ်ခုအကြား ကူးပြောင်း၍မရပါ</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">မိဘ ထိန်းချုပ်မှုအား ဖွင့်ထားပါက နေရာတစ်ခုနှင့်တစ်ခုကြား ကူးပြောင်း၍ မရပါ</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Ultra ဓာတ်ခဲချွေတာခြင်းကို ဖွင့်ထားစဉ် နေရာတစ်ခုနှင့် တစ်ခုအကြား ပြောင်းမရပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်အားရီဘုလုပ်ပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_hint_text">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="input_pattern_hint_text">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ</string>
@@ -858,6 +880,10 @@
     <string name="keyguard_charged">အားသွင်းပြီးပြီ</string>
     <string name="keyguard_charging_back_to_lockscreen">သော့ခတ်မျက်နှာပြင်သို့ ပြန်သွားပါ</string>
     <string name="keyguard_charging_info_battery_used_time_text">သုံးစွဲချိန်</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">အားကုန်သွားခဲ့သော</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
@@ -885,6 +911,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ် ပျောက်နေသည် သို့မဟုတ် ဖတ်၍မရပါ။ ဆင်းမ်ကဒ် တစ်ခု ထည့်သွင်းပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက် လော့ခ်ကျနေသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">PIN ကုဒ် ရိုက်ထည့်ပါ</string>
@@ -968,6 +995,7 @@
     <string name="left_keycode">ဘယ်ကီးကုဒ်</string>
     <string name="left_nav_bar_button_type">အခြား ဘယ်ခလုတ် အမျိုးအစား</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက်ကို ပြောင်းလဲရန် သို့မဟုတ် ဖယ်ရှားရန် ထိနှိပ်ပါ</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မသတ်မှတ်ရသေးပါ</string>
     <string name="local_backup_password_title">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်းစကားဝှက်</string>
@@ -1041,17 +1069,18 @@ MMMM d"</string>
     <string name="miui_guide_dialog_message">မီဒီယာအသံများ(သီချင်း၊ ဗီဒီယိုစသည်တို့)အား အသံတိတ်မုဒ်တွင် ဖွင့်နိုင်သည်။ ဆက်တင်သို့သွား၍ ပြောင်းနိုင်ပါသည်။</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ဘလူးတုသ်စက်ဖြင့် လော့ခ်ဖြည်လိုက်သည်</string>
     <string name="miui_ringer_count_down">အချိန်သတ်မှတ်မည်</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">အသံတိတ်</string>
     <string name="miui_ringer_standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
     <string name="miui_ringer_total">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="miui_ringer_total_description">နှိုးစက်သံမှတစ်ပါး အခြားအသံများနှင့် တုန်ခါမှုအားလုံး ပိတ်မည်</string>
     <string name="miui_screen_rotation_freeze_message">အလိုအလျောက် ဖုန်းလှည့်ခြင်းကို ပိတ်ထားသည်။</string>
-    <string name="miui_toast_zen_dnd_to_off">အသံနှင့် တုန်ခါမှုကို ပုံမှန်အတိုင်း ပြန်ထားပါ</string>
-    <string name="miui_toast_zen_standard_to_off">ဖုန်းမြည်သံကို ပုံမှန်အတိုင်း ပြန်ထားပါ</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">ဖုန်းမြည်သံ၊ သတိပေးချက်အသံနှင့် မီဒီယာအသံများအားလုံးကို ဖွင့်ထားမည်။</string>
-    <string name="miui_toast_zen_to_dnd">အသံတိတ်၍ တုန်ခါမှု ပိတ်ထားသည်</string>
-    <string name="miui_toast_zen_to_standard">ခေါ်ဆိုမှုနှင့် အသိပေးချက်များအသိပေးချက်များအတွက် ဖုန်းမြည်သံအား ပိတ်ထားသည်</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">ဖုန်းမြည်သံ၊ သတိပေးချက်အသံနှင့် မီဒီယာအသံများအားလုံးကို ပိတ်ထားမည်။</string>
+    <string name="miui_toast_zen_dnd_to_off">DND ပိတ်လိုက်ပါပြီ။ အသံနှင့် တုန်ခါမှု နဂိုအတိုင်း ပြန်ဖြစ်သွားပါမည်။</string>
+    <string name="miui_toast_zen_standard_to_off">အသံတိတ်မုဒ်ကို ပိတ်လိုက်ပါပြီ။ ဖုန်းသံများ နဂိုအတိုင်း ပြန်ဖြစ်သွားပါမည်။</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">အသံတိတ်မုဒ်ကို ပိတ်လိုက်ပါပြီ။ ဖုန်းသံများ၊ အသိပေးချက်များနှင့် မီဒီယာအသံများ ပြန်ပွင့်ပါမည်။</string>
+    <string name="miui_toast_zen_to_dnd">DND စနစ်သို့ ပြောင်းထားသည်။ အသံနှင့် တုန်ခါမှုကို ပိတ်ထားလိုက်ပါပြီ။</string>
+    <string name="miui_toast_zen_to_standard">အသံတိတ်မုဒ်သို့ ပြောင်းထားသည်။ ဖုန်းခေါ်သံများနှင့် အသိပေးချက်အသံများကို ပိတ်ထားလိုက်ပါပြီ။</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">အသံတိတ်မုဒ်သို့ ပြောင်းထားသည်။ ဖုန်းသံများ၊ အသိပေးချက်များနှင့် မီဒီယာအသံများကို ပိတ်ထားလိုက်ပါပြီ။</string>
     <string name="mobile_data">မိုဘိုင်းဒေတာ</string>
     <string name="mobile_data_always_on">မိုဘိုင်းဒေတာကို အမြဲဖွင့်ထားမည်</string>
     <string name="mobile_data_always_on_summary">Wi‑Fi သုံးနေလျှင်လည်း မိုဘိုင်းဒေတာကွန်ရက်ကို အမြဲဖွင့်ထားပါ (မြန်ဆန်သောကွန်ရက်သို့ ပြောင်းနိုင်ရန်အတွက်)။</string>
@@ -1068,12 +1097,14 @@ MMMM d"</string>
 
 အသေးစိတ် သိလိုပါက စီမံအုပ်ချုပ်သူထံ ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်ရသော အထောက်အထားများကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာအား ဤစက်ပေါ်တွင် တပ်ဆင်ထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_do_body">အုပ်ချုပ်သူသည် ဆက်တင်၊ သက်ဆိုင်သော ဝင်ရောက်မှု၊ အက်ပ်များ၊ သင်၏စက်နှင့်အတူတွဲထားသော ဒေတာ၊ သင့်စက်၏တည်နေရာအချက်လက် စသည်တို့ကို စောင့်ကြည့်ပြီး စီမံခန့်ခွဲနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">သင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_do_header_generic">သင်၏စက်အား %1$sမှ စီမံခန့်ခွဲသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$sသည် %2$sဖြင့် သင်၏စက်ကို စီမံသည်။</string>
     <string name="monitoring_description_do_learn_more">နောက်ထပ် လေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏အဖွဲ့အစည်းမှ သင့်အလုပ် ပရိုဖိုင်တွင် အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာကို ထည့်သွင်းထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ် ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ကို သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်။
@@ -1105,6 +1136,7 @@ MMMM d"</string>
 
 သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော VPN တစ်ခုနှင့်လည်း ချိတ်ဆက်ထားသည်။"</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်ကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက် မှတ်တမ်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1119,6 +1151,7 @@ MMMM d"</string>
     <string name="nav_guide_message">ဆော့ဖ်ခလုတ်များအား ဝှက်/ဖော်ရန် လက်ဟန်များအား အသုံးပြုပါ။</string>
     <string name="nav_guide_ok">သတ်မှတ်</string>
     <string name="nav_guide_title">ဆော့ဖ်ခလုတ်များ ကွယ်ဝှက်ပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိပါ</string>
     <string name="no_multi_window_app">မျက်နှာပြင်ခွဲခြင်းလုပ်နိုင်သည့် အက်ပ်မရှိသေးပါ။</string>
     <string name="no_notification_tips">အသိပေးချက်များ မရှိပါ</string>
@@ -1190,10 +1223,10 @@ MMMM d"</string>
     <string name="okay">အိုကေ</string>
     <string name="oldman_airplane_mode_text">လေယာဉ်မုဒ်</string>
     <string name="oldman_incall_text">ခေါ်ဆိုမှုသို့ ပြန်သွားပါ</string>
-    <string name="open_camera_hint_text">ကင်မရာဖွင့်ရန် ဘယ်ဘက်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="open_camera_hint_text">ကင်မရာဖွင့်ရန် သင်္ကေတပုံကို ဖိဆွဲပါ</string>
     <string name="open_extreme_power_save_mode_title">အကြီးမားဆုံး ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
     <string name="open_lock_screen_magazine_hint_text">နောက်ထပ် ရွေးချယ်မှုများအတွက် ညာသို့ ပွတ်ဆွဲပါ</string>
-    <string name="open_remote_center_hint_text">ထိန်းချုပ်မှု စင်တာအား ဖွင့်ရန် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="open_remote_center_hint_text">ထိန်းချုပ်မှုများကို ကြည့်ရန် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
     <string name="other">အခြား</string>
     <string name="overlay_display_devices_title">ဒုတိယပြသခြင်းများကို တူအောင်ဖန်တီးသည်</string>
     <string name="overview">ခြုံငုံကြည့်ခြင်း</string>
@@ -1202,11 +1235,11 @@ MMMM d"</string>
     <string name="phone_locked_foget_password">စကားဝှက် မေ့နေသလား?</string>
     <string name="phone_locked_foget_password_mehod_back">နောက်သို့</string>
     <string name="phone_locked_foget_password_method">စကားဝှက် မေ့နေသလား?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data>သင့်စက်တွင်ရှိသောဒေတာအားလုံး &lt;font color=#a5220e>ကိုဖျက်ရမည်&lt;/font> ဓာတ်ပုံများနှင့်အဆက်အသွယ်များအပါအဝင်၊ထို့နောက်သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ်တစ်ခု သတ်မှတ်ပါ။;&lt;/Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data>သင့်စက်တွင်ရှိသောဒေတာအားလုံး &lt;font color=#a5220e>ကိုဖျက်ရမည်&lt;/font> ဓာတ်ပုံများနှင့်အဆက်အသွယ်များအပါအဝင်၊ထို့နောက်သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ်တစ်ခု သတ်မှတ်ပါ။&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">နောက်တစ်ဆင့်</string>
     <string name="phone_locked_foget_password_ok">နားလည်ပါပြီ</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>သင့်စက်ကို ပါဝါပိတ်ပြီး၊ &lt;font color=#a5220e>ပါဝါခလုတ် &lt;/font> နှင့် &lt;font color=#a5220e>အသံမြှင့်ခလုတ် &lt;/font>ကို Mi လိုဂိုတွေ့သည်အထိ တစ်ပြိုင်တည်းဖိနှိပ်ထားပါ။;&lt;/Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>ရွေးချယ်မည် &lt;font color=#a5220e>\"ရှင်းလင်းမည် &amp;amp; ပြန်လည်သတ်မှတ်မည်\"&lt;/font> စက်ပိတ်ပြီးပြန်ဖွငိ့ခြင်းကို စောင့်မည်;&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>သင့်စက်ကို ပါဝါပိတ်ပြီး၊ &lt;font color=#a5220e>ပါဝါခလုတ် &lt;/font> နှင့် &lt;font color=#a5220e>အသံမြှင့်ခလုတ် &lt;/font>ကို Mi လိုဂိုတွေ့သည်အထိ တစ်ပြိုင်တည်းဖိနှိပ်ထားပါ။&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>ရွေးချယ်မည် &lt;font color=#a5220e>\"ရှင်းလင်းမည် &amp;amp; ပြန်လည်သတ်မှတ်မည်\"&lt;/font> စက်ပိတ်ပြီးပြန်ဖွငိ့ခြင်းကို စောင့်မည်&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ဒေတာအား မည်သို့ဖျက်မည်နည်း?</string>
     <string name="phone_locked_string">ဖုန်း လော့ခ်ကျသွားသည်</string>
     <string name="picture_color_mode">ပုံအရောင်မုဒ်</string>
@@ -1282,6 +1315,7 @@ MMMM d"</string>
     <string name="private_dns_mode_provider">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည်</string>
     <string name="private_dns_mode_provider_failure">မချိတ်ဆက်နိုင်ခဲ့ပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည် ရိုက်ထည့်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ပရိုဖိုင်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="prompt_danger">အန္တရာယ်</string>
     <string name="prompt_detecting">ရှာဖွေနေသည်</string>
@@ -1295,6 +1329,7 @@ MMMM d"</string>
     <string name="qs_dnd_replace">အစားထိုးမည်</string>
     <string name="qs_dnd_until">%s အထိ</string>
     <string name="qs_edit">ပြုပြင်ရန်</string>
+    <string name="qs_open_night_mode_alert_summary">ပြသမှုဆက်တင်အချို့ကို အရောင်ရင့်မုဒ်ဖြင့် သုံးမရပါ။ သို့သော် အရောင်ရင့်မုဒ်ကို ပြန်ပိတ်ပါက ၎င်းဆက်တင်များ ပြန်ရမည်ဖြစ်သည်။</string>
     <string name="qs_rearrange">အမြန်ဆက်တင်အား ပြန်လည်စီစဉ်မည်</string>
     <string name="quick_settings">အမြန်ဆက်တင်</string>
     <string name="quick_settings_autobrightness_label">အော်တို တောက်ပမှု</string>
@@ -1363,6 +1398,7 @@ MMMM d"</string>
     <string name="quick_settings_night_secondary_label_on_at">%s တွင်</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">နေဝင်ချိန်တွင်</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">နေဝင်ချိန်အထိ</string>
+    <string name="quick_settings_nightmode_label">အရောင်ရင့်မုဒ်</string>
     <string name="quick_settings_notifications_label">အသိပေးချက်များ</string>
     <string name="quick_settings_papermode_label">ဖတ်ရှုမုဒ်</string>
     <string name="quick_settings_powermode_label">လုပ်ဆောင်ရည်မုဒ်</string>
@@ -1413,11 +1449,13 @@ MMMM d"</string>
     <string name="recents_accessibility_split_screen_top">မျက်နှာပြင်အား ထိပ်ပိုင်းသို့ ခွဲပါ</string>
     <string name="recents_app_info_button_label">အက်ပ် အချက်အလက်</string>
     <string name="recents_caption_resize">လုပ်ငန်းသစ်၏အပြင်အဆင်ကိုရွေးချယ်ပါ။</string>
+    <string name="recents_dimiss_task">ရှင်းလင်းရန်</string>
     <string name="recents_drag_hint_message">အက်ပ်တစ်ခုခုအား ဖိပြီးထိနှိပ်ထားပါ၊ ထို့နောက် ဤနေရာသို့ ဆွဲချပါ။</string>
     <string name="recents_empty_message">မကြာသေးမီကအိုင်တမ်များ မရှိပါ။</string>
     <string name="recents_empty_message_dismissed_all">အားလုံး ရှင်းပစ်လိုက်ပြီ</string>
     <string name="recents_empty_message_multi_window">ပင်မမျက်နှာပြင်သို့ သွား၍ အက်ပ်များကို ဖွင့်ပါ</string>
     <string name="recents_exit_multi_window_mode">ထွက်မည်</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">လွှင့်တင်နေစဉ် မျက်နှာပြင်ကို နှစ်ခြမ်းခွဲ၍ မရပါ</string>
     <string name="recents_incompatible_app_message">ဤအက်ပ်သည် မျက်နှာပြင်ခွဲခြင်းကို မပံ့ပိုးထားပါ။</string>
     <string name="recents_launch_disabled_message">%s သည်လုံခြုံရေးမုဒ်အောက်တွင် ပိတ်ထားသည်။</string>
     <string name="recents_launch_error_message">%s ကို ဖွင့်၍ မရပါ။</string>
@@ -1428,6 +1466,7 @@ MMMM d"</string>
     <string name="recents_multistack_add_stack_dialog_split_vertical">ဒေါင်လိုက် ခွဲမည်</string>
     <string name="recents_search_bar_label">ရှာဖွေရန်</string>
     <string name="recents_stack_action_button_label">အားလုံး ရှင်းပစ်ပါ</string>
+    <string name="recents_task_screening">လွှင့်တင်နေသည်</string>
     <string name="recents_title_app_manager">အက်ပ် စီမံမှု</string>
     <string name="recents_title_game">ဂိမ်းများ</string>
     <string name="recents_title_garbage_cleanup">သန့်ရှင်းစက်</string>
@@ -1779,8 +1818,8 @@ MMM d"</string>
     <string name="usb_preference_title">USB ဖိုင်လွှဲပြောင်းခြင်း ရွေးချယ်မှုများ</string>
     <string name="usb_ptp_text">ဓာတ်ပုံများ</string>
     <string name="usb_share_net_info">ကွန်ပြူတာ၏ အင်တာနက်ချိုတ်ဆက်မှုကို သုံးပါ</string>
-    <string name="usb_storage_error_message">သင့် SD ကဒ်ဖြင့် ပြဿနာတစ်ခု ရှိနေသည်။</string>
-    <string name="usb_storage_message">သင့်ကွန်ပြူတာကို USB မှ တဆင့် ချိတ်ဆက်ထားသည်။ သင့်ကွန်ပြူတာနှင့် သင့် Android‘s SDကဒ်တို့ အကြားတွင် ဖိုင်များ ကော်ပီကူးလိုလျှင်၊ အောက်က ခလုတ်ကို တို့ထိပါ။</string>
+    <string name="usb_storage_error_message">သင့်ကိရိယာကို USB ဒေတာအများအပြား သိုလှောင်ခန်းအဖြစ် ကြည့်ရန် ကြိုးစားနေစဉ်မှာ၊ အမှား ဖြစ်ခဲ့သည်။</string>
+    <string name="usb_storage_message">သင့်ကွန်ပျူတာကို USB မှ တဆင့် ချိတ်ဆက်ထားသည်။ သင့်ကွန်ပျုတာနှင့် သင့် Android‘s USB သိုလှောင်ခန်းတို့ အကြားတွင် ဖိုင်များ ကော်ပီကူးလိုလျှင်၊ အောက်ရှိခလုတ်ကို တို့ထိပါ။</string>
     <string name="usb_storage_notification_message">ဖိုင်များကို သင့်ကွန်ပြူတာသို့/မှ ကော်ပီကူးရန် ရွေးပါ။</string>
     <string name="usb_storage_notification_title">USB ချိတ်ဆက်နေသည်</string>
     <string name="usb_storage_stop_message">USB သိုလှောင်ခန်းကို မပိတ်မီ၊ သင်၏ Android‘s USB သိုလှောင်ခန်းကို သင့်ကွန်ပျူတာနှင့် (“ejected”) တွဲသုံးနေသည်မှ ရပ်ထားပြီးဖြစ်ကြောင်း သေချာပါစေ။</string>
@@ -1857,6 +1896,7 @@ MMM d"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">ဆယ့်ခြောက်လီစနစ်</string>
     <string name="wapi_yes">ဟုတ်ပါသည်</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">ချိတ်ဆက်သောပွိုင့် ယာယီ ပြည့်သွားပြီ</string>
     <string name="wifi_auto_sel_wapi_cert">အလိုအလျောက် ရွေးချယ်ပါ</string>
@@ -1890,12 +1930,14 @@ MMM d"</string>
     <string name="wifi_security_none">မရှိပါ</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>

@@ -16,9 +16,10 @@
     <string name="list_title_disable_notification">အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="lock_screen_display_rules">ပုံစံချရန်</string>
-    <string name="lock_screen_tip_toast">\"အက်ပ် အသိပေးချက်\"ရှိ အသိပေးချက်များအား ဦးစွာ ခွင့်ပြုမည်</string>
+    <string name="lock_screen_tip_toast">\"ဖောမတ်\"တွင် သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ ပြရန် ခွင့်ပြုပါ</string>
     <string name="lockscreen_notifications">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
     <string name="not_sent_recently">မပို့ရသေးသော</string>
+    <string name="notch_and_status_bar_setting">မျက်နှာပြင်ထိပ်ပိုင်း &amp; အခြေအနေပြ ဘားတန်း</string>
     <string name="notification_display_setting">အသိပေးချက်ရှိတ်</string>
     <string name="notification_display_style">အသိပေးချက် ပုံစံ</string>
     <string name="notification_fold_summary">အရေးမကြီးသော အသိပေးချက် အားလုံးကို သီးခြား ဖိုလ်ဒါ တစ်ခုတွင် ထည့်ထားမည်။</string>
@@ -28,7 +29,9 @@
     <string name="notification_style_miui">MIUI</string>
     <string name="off">ပိတ်မည်</string>
     <string name="on">ဖွင့်မည်</string>
+    <string name="settings_guide_title">အခြား ဆက်တင်များ လိုအပ်ပါသလား?</string>
     <string name="show_badge_notifications">အသိပေးချက် တံဆိပ်</string>
+    <string name="status_bar_setting">အခြေအနေပြ ဘားတန်း</string>
     <string name="summary_disable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="summary_disable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="summary_disable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား မခွင့်ပြုပါ</string>

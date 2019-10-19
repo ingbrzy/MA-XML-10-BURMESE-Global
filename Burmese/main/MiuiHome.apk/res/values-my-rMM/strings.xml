@@ -4,6 +4,19 @@
     <string name="activity_not_found">သင့်စက်တွင် အက်ပ် မထည့်ထားပါ</string>
     <string name="activity_not_unlocked">ပိတ်ပြီးပြန်ဖွင့်သောအခါ ခဏစောင့်ရပါမည်</string>
     <string name="add_screen">မျက်နှာပြင်အား ပေါင်းထည့်ပါ</string>
+    <string name="all_apps">အက်ပ်အားလုံး</string>
+    <string name="all_apps_no_search_results">ရလဒ်များ ရှာမတွေ့ပါ</string>
+    <string name="all_apps_search_app">အက်ပ်များ ရှာဖွေရန်</string>
+    <string name="all_apps_search_market_message">အွန်လိုင်းတွင် ရှာပါ</string>
+    <string name="all_apps_setting_desktop_desc">ပင်မမျက်နှာပြင်ပေါ်တွင် တပ်ဆင်ထားသော အက်ပ်များအားလုံးကို ပြသပါ။ ရရှိနိုင်သော ရှော့ကဒ်များကိုကြည့်ရန်အတွက် အက်ပ်တစ်ခု၏ အိုင်ကွန်ပေါ်တွင် ဖိနှိပ်ထားပါ သို့မဟုတ် ထိုအက်ပ်ကို စီမံပါ သို့မဟုတ် ဖြုတ်ပါ။</string>
+    <string name="all_apps_setting_desktop_title">ပုံမှန်</string>
+    <string name="all_apps_setting_drawer_desc">တပ်ဆင်ထားသော အက်ပ်များအားလုံးအား မူလမျက်နှာပြင်ပေါ်တွင် အပေါ်သို့ဆွဲတင်ခြင်းအားဖြင့် ဖွင့်နိုင်သည့် အက်ပ်အံဆွဲအတွင်းသို့ ထည့်သွင်းပါ။ ဤအက်ပ်အံဆွဲအတွင်းရှိ မူလမျက်နှာပြင်သို့ သင်ရွှေ့ပြောင်းထားသည့် ဤအက်ပ်အား သင်ရှာဖွေနိုင်ပါသေးသည်။</string>
+    <string name="all_apps_setting_drawer_tips_desc">အက်ပ်အံဆွဲအား မူလမျက်နှာပြင်ပေါ်တွင် အပေါ်သို့ဆွဲတင်ခြင်းအားဖြင့် ဖွင့်နိုင်ပါသည်။ အက်ပ်အံဆွဲကိုအသုံးပြု၍ မူလမျက်နှာပြင်မုဒ်သို့ ပြောင်းခြင်းသည် အကြောင်းအရာစင်တာကို ရရှိစေနိုင်တော့မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ပြောင်းမလား။</string>
+    <string name="all_apps_setting_drawer_tips_title">အက်ပ် အံဆွဲကို အသုံးပြုခြင်း</string>
+    <string name="all_apps_setting_drawer_title">အက်ပ် အံဆွဲနှင့်</string>
+    <string name="all_apps_setting_title">ပင်မမျက်နှာပြင်</string>
+    <string name="all_apps_slide_up_tips">အပေါ်သို့ဆွဲတင်ခြင်းအား အက်ပ်အံဆွဲကို ဖွင့်ခြင်းအတွက် သီးသန့်ထားရှိခြင်း ဖြစ်ပါသည်။ ပုံမှန်မူလမျက်နှာပြင်မုဒ်သို့ပြောင်း၍ ထပ်မံကြည့်စားကြည့်ပါ။</string>
+    <string name="all_apps_suggestions">အက်ပ် အကြံပြုချက်များ</string>
     <string name="announce_for_app_move_in_folder">ဖိုလ်ဒါ၏ %1$d နေရာသို့ ရွေ့ပါ</string>
     <string name="announce_for_checked">%1$s၊ စစ်ဆေးပြီး</string>
     <string name="announce_for_choose_default_screen">မျက်နှာပြင် %1$d အား မူလ ပင်မ မျက်နှာပြင်အဖြစ် သတ်မှတ်မည်</string>
@@ -251,6 +264,7 @@
     <string name="multi_selecting_tips">အက်ပ်တစ်ခုကို ရွေးချယ်ရန် ယင်းအိုင်ကွန်အား ဆွဲ၍ ဤနေရာတွင် ချပါ။</string>
     <string name="no_detail_page">အသေးစိတ် စာမျက်နှာ မရှိပါ</string>
     <string name="no_space_toast">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
+    <string name="no_space_toast_when_click_widget">ဤစာမျက်နှာပေါ်တွင် နေရာလွတ် အလုံအလောက်မရှိပါ။ ဤပစ္စည်းအား အခြားစာမျက်နှာတစ်ခုသို့ ဆွဲသွင်းရန် ကြိုးစားပါ။</string>
     <string name="normal_wallpaper">နောက်ခံပုံ</string>
     <string name="notification_installed">ထည့်သွင်းပြီးပါပြီ</string>
     <string name="notification_open_button">ဖွင့်ပါ</string>
@@ -295,6 +309,7 @@
     <string name="privacy_thumbnail_blur_summary">မကြာသေးမီကများမှ အစမ်းကြည့် မြင်ကွင်းများအား မှုန်ဝါးစေပါ</string>
     <string name="privacy_thumbnail_blur_title">အစမ်းကြည့် မြင်ကွင်း အဝါး</string>
     <string name="quick_app">အမြန်အက်ပ်များ</string>
+    <string name="recent_apps">လတ်တလော</string>
     <string name="recents_config_title">မကြာသေးမီကများ</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">အလွတ်</string>
@@ -307,6 +322,7 @@
     <string name="recommend_loading">လုပ်ဆောင်နေသည်</string>
     <string name="recommend_refresh">ရီဖရှက်ရ်လုပ်ပါ</string>
     <string name="recommend_xout">မပြပါနှင့်</string>
+    <string name="remove_invalidate_gadget_tips">သင်သုံးသော ဝိဂျက်တစ်ခု မရရှိနိုင်တော့ပါ။ နောက်တစ်ခု ထည့်နိုင်ပါသည်။</string>
     <string name="reset_description_first_time">အပြင်အဆင်အား %1$s မှ နှစ်နာရီအတွင်း ပြန်လည်ရယူနိုင်ပါသည်</string>
     <string name="reset_description_others">အပြင်အဆင်အား %1$s မှ ပြန်လည်ရယူနိုင်ပါသည်</string>
     <string name="reset_fail">ပြန်လည်ရယူ၍ မရပါ</string>
@@ -325,6 +341,9 @@
     <string name="shake_to_align_icons_summary">တည်းဖြတ်မုဒ်တွင် လွတ်နေသော ဆဲလ်များအား အိုင်ကွန်ဖြင့် အလိုအလျောက် နေရာဖြည့်ရန် စက်အား လှုပ်ခါပါ</string>
     <string name="shake_to_align_icons_title">လွတ်နေသော ဆဲလ်များအား နေရာဖြည့်ရန် လှုပ်ခါပါ</string>
     <string name="share">မျှဝေမည်</string>
+    <string name="shortcut_share_dialog_content">သင့်ဖုန်းမှ ပို့သောဖိုင်များနှင့် ၎င်းတို့ကို လက်ခံသူများအား သင်ကိုယ်တိုင် ရွေးချယ်ဆုံးဖြတ်ပါသည်။ ပို့မည့်ဖိုင်နှင့် လက်ခံသူကို ဂရုတစိုက်ရွေးပါ။ ဗိုင်းရပ်များ၊ မဲလ်ဝဲများ၊ ထရိုဂျန်များ၊ ချိန်ကိုက်ဗုံးများနှင့် အခြားအန္တရာယ်ရှိနိုင်သော အရာများကို အခြားသူများထံ ပို့လွှတ်ရန်အတွက် သင့်ဖုန်းကို မသုံးပါနှင့်။ လက်ခံသူ၏ ပုံမှန်ဖုန်းအသုံးပြုမှုကို ထိခိုက်နိုင်မည့် ဆော့(ဖ်)ဝဲများ သို့မဟုတ် မိုဘိုင်းစက်ထဲရှိ စနစ်ဒေတာများ၊ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ဝင်ရောက်နှောင့်ယှက်၊ ဖျက်ဆီးစေပြီး ပေါက်ကြားစေနိုင်မည့် မည်သည့်အရာများကို မဆို ပို့လွှတ်ရန်အတွက် သင့်ဖုန်းကို မသုံးပါနှင့်။ မျှဝေခြင်းလုပ်ဆောင်ချက်၊ နည်းပညာနှင့် ပါဝင်သောအချက်အလက်များ လုံခြုံ၊ တိကျ၊ စိတ်ချရပြီး ထိရောက်မှုရှိစေရန် Xiaomi မှ တာဝန်ယူပါသည်။ သို့သော် လက်ရှိ နည်းပညာအကန့်အသတ်ကြောင့် မျှဝေခြင်း လုပ်ဆောင်ချက်သည် စင်းလုံးချောဖြစ်ရမည် သို့မဟုတ် သင့်လိုအပ်ချက်အလုံးစုံနှင့် ကိုက်ညီပါမည်ဟု Xiaomi မှ အာမမခံနိုင်ပါ။</string>
+    <string name="shortcut_share_dialog_positive_button">ရပါပြီ</string>
+    <string name="shortcut_share_dialog_title">မသက်ဆိုင်ကြောင်းရှင်းလင်းချက်</string>
     <string name="show_all">အားလုံး ပြပါ</string>
     <string name="show_mem_info_title">မှတ်ဉာဏ် အခြေအနေအား ပြပါ</string>
     <string name="show_recents_recommend_title">အကြံပြုချက်များအား ပြပါ</string>

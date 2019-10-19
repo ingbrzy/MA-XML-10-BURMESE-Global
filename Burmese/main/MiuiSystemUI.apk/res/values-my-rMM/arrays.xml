@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>၀%</item>
         <item>၅၀%</item>
@@ -92,8 +110,9 @@
         <item>Qualcomm® aptX™ HD အော်ဒီယို</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
+        <item>LHDC</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
@@ -103,8 +122,9 @@
         <item>Qualcomm® aptX™ HD အော်ဒီယို</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
+        <item>LHDC</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

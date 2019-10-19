@@ -31,7 +31,7 @@
     <string name="cant_call_due_to_ongoing_calls">နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။ %1$s ခေါ်ဆိုမှုအား ဦးစွာ အဆုံးသတ်ပါ။</string>
     <string name="cant_call_due_to_ongoing_unknown_call">အခြားအက်ပ်တွင် ဖုန်းခေါ်ဆိုနေသောကြောင့် နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။</string>
     <string name="change_default_dialer_dialog_affirmative">မူလ ဖုန်းအက်ပ်အဖြစ် အသုံးပြုမည်</string>
-    <string name="change_default_dialer_dialog_negative">ပယ်ဖျက်မည်</string>
+    <string name="change_default_dialer_dialog_negative">ပယ်ဖျက်မည်။</string>
     <string name="change_default_dialer_dialog_title">%s အား မူလဖုန်းအက်ပ်အဖြစ် အသုံးပြုမလား?</string>
     <string name="change_default_dialer_warning_message">%s သည် ဖုန်းခေါ်ဆိုမှုနှင့်ထိန်းချုပ်မှုအားလုံးကို လုပ်ဆောင်နိုင်မည်ဖြစ်သည်။ သင်ယုံကြည်စိတ်ချရသော အက်ပ်ကိုသာ ပုံသေဖုန်းအက်ပ်အဖြစ် သတ်မှတ်ပါ။</string>
     <string name="close">ပိတ်ပါ</string>

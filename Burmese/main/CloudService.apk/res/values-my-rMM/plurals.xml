@@ -46,7 +46,7 @@
         <item quantity="other">ဝှက်ထားသော ဓာတ်ပုံ %d ပုံ ဆင့်ခ်မလုပ်ရသေးပါ။ အိုင်တမ်အားလုံး ဆင့်ခ်လုပ်ပြီးမှ ဆိုင်းအောက်ထွက်ပါ၊ သို့မဟုတ်ပါက အိုင်တမ်များကို ဖျက်ပစ်လိမ့်မည်။</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">ဆင့်ခ်အား ရပ်တန့်ထားသည်။ %d မိနစ် အကြာတွင် ပြန်စမည်…</item>
+        <item quantity="other">ဆင့်ခ်လုပ်ခြင်းကို %d မိနစ်အတွင်း ပြန်စပါ</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s မိနစ် အကြာက</item>
@@ -55,6 +55,6 @@
         <item quantity="other">%s နာရီ အကြာက</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">ဝန်ဆောင်မှု %s ခုအား Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်မည်</item>
+        <item quantity="other">%s ဝန်ဆောင်မှုများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါမည်</item>
     </plurals>
 </resources>

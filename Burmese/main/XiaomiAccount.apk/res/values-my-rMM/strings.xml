@@ -30,7 +30,7 @@
     <string name="passport_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_relogin">ထပ်မံ ဝင်ပါ</string>
     <string name="passport_skip_login">ကျော်</string>
-    <string name="passport_skip_setup_account_title">Mi Cloud ကို မသုံးဘူးလား?</string>
+    <string name="passport_skip_setup_account_title">Xiaomi ကလောက် မသုံးဘူးလား။</string>
     <string name="passport_skip_setup_account_msg">ကြိုတင်ပြင်ဆင်ချက်များမှာ Mi အကောင့်ကို မကြာမီ သတ်မှတ်တည်ဆောက်နိုင်သည်။</string>
     <string name="passport_confirm_login">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="passport_find_password_on_web_msg">သင့်စကားဝှက်အား ပြန်သတ်မှတ်ရန် account.mi.com သို့ ဝင်လည်ပါ။</string>
@@ -160,10 +160,7 @@
     <string name="passport_querying_phone_info">အကောင့်အချက်အလက် တောင်းဆိုနေသည်…</string>
     <string name="passport_area_code_title">နိုင်ငံကုဒ်</string>
     <string name="passport_area_code_hot">ကြိမ်ဖန်များစွာအသုံးပြုသော</string>
-    <string name="passport_user_agreement_p1">သဘောတူသည်</string>
-    <string name="passport_user_agreement_p2">အသုံးပြုသူ သဘောတူညီမှု</string>
-    <string name="passport_user_agreement_p3">နှင့်</string>
-    <string name="passport_user_agreement_p4">ကိုယ်ရေးလုံခြုံမှုဝါဒ</string>
+    <string name="passport_user_agreement_link">&lt;Data>ကျွန်ုပ်သည် Xiaomi ၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး၍ သဘောတူပါသည်။&lt;/Data></string>
     <string name="passport_privacy_policy">ကိုယ်ရေးလုံခြုံမှုဝါဒ</string>
     <string name="passport_user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="passport_license_host_unreachable">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။ ဤစာမျက်နှာကို %s ၌ သင် ကြည့်နိုင်ပါသည်။.</string>
@@ -233,21 +230,22 @@
     <string name="passport_get_innetdate_msg">&lt;font color=Red>နံပါတ်%s &lt;/font> အား ဖုန်းလိုင်းဆက်သွယ်ရေးဝန်ဆောင်မှုဌာနမှ ပြန်သိမ်းလိုက်ပုံရသည်။ ဤနံပါတ် ကွန်ရက်စသုံးသောအချိန်ကို စစ်ဆေးကြည့်မလား?</string>
     <string name="passport_get_innetdate_agree">စစ်ဆေးပါ</string>
     <string name="passport_get_innetdate_disagree">မစစ်ပါနှင့်</string>
-    <string name="passport_extra_gdpr_license">Mi အကောင့်တစ်ခု ဖန်တီးခြင်းဖြင့် သင်သည် Xiaomi မှ အတည်ပြုဒေတာ (ဥပမာ- အတည်ပြုကုဒ်များ)၊ ဒုတိယနေရာဒေတာ (ဥပမာ- ဒုတိယနေရာအား အသုံးပြုပုံ၊ ပထမနှင့် ဒုတိယနေရာ၏ IDများ) နှင့် ကျွန်ုပ်တို့ကိုယ်ရေးအချက်အလက် ပေါ်လစီမှ သတ်မှတ်ထားသော အခြားဒေတာအပါအဝင် သင်၏ကိုယ်ရေးအချက်အလက်အား စုဆောင်းခြင်း၊ အသုံးပြုခြင်းတို့ကို သဘောတူပြီးဖြစ်ပါသည်။ စုဆောင်းပုံနှင့် အသုံးပြုပုံအား သိရှိနားလည်ရန် ကျွန်ုပ်တို့၏ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို ဖတ်ရှုပါ။</string>
     <string name="passport_talkback_image_captcha">ရုပ်ပုံ အတည်ပြုကုဒ်</string>
     <string name="passport_talkback_voice_captcha">အသံ အတည်ပြုကုဒ်အား ဖွင့်ပါ</string>
     <string name="passport_talkback_switch_voice_captcha">အသံ အတည်ပြုကုဒ်သို့ ပြောင်းပါ</string>
     <string name="passport_talkback_switch_image_captcha">ရုပ်ပုံ အတည်ပြုကုဒ်သို့ ပြောင်းပါ</string>
-    <string name="passport_license_info_open">အသေးစိတ်များ</string>
-    <string name="passport_license_info_collapse">ချုံ့မည်</string>
     <string name="passport_first_login_prompt">ပထမအကြိမ် ဆိုင်းအင်ဝင်သောအခါ Mi အကောင့်အား အလိုအလျောက် ဖန်တီးမည်။</string>
     <string name="passport_wx_bind_account_limit">ယခု အကောင့် ဖန်တီး၍ မရပါ။ အခြား ဆိုင်းအင်ဝင်သည့် နည်းလမ်းဖြင့် ကြိုးစားကြည့်ပါ။</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
+    <string name="passport_ticket_login_select_sim_card">SIM ကတ် ရွေးပါ</string>
+    <string name="passport_ticket_login_select_sim_card_cancel">ဖျက်သိမ်းရန်</string>
+    <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
     <string name="search_app_name">Mi အကောင့်</string>
     <string name="search_mi_account">Mi အကောင့်</string>
-    <string name="search_mi_account_key_words">Mi Cloud၊အကောင့်ဆက်တင်၊Mi PayMi Pay၊အချက်အလက်၊ဆိုင်းအောက်</string>
+    <string name="search_mi_account_key_words">Xiaomi ကလောက်၊အကောင့်ဆက်တင်များ၊Mi Pay၊အချက်အလက်၊အကောင့်ထွက်ရန်</string>
     <string name="search_mi_account_desc">Mi အကောင့်</string>
     <string name="search_mi_account_path">ဆက်တင်များ/Mi အကောင့်</string>
     <string name="search_user_detail">ကိုယ်ရေးအချက်အလက်များ</string>
@@ -274,15 +272,21 @@
     <string name="bind_sns_description">%s ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
     <string name="add_account">အကောင့်ကို ချိတ်ဆက်ပါ</string>
     <string name="qq">QQ</string>
+    <string name="weixin">WeChat</string>
     <string name="bind_qq">QQ</string>
+    <string name="bind_weixin">သင်၏ WeChat အကောင့်ကို ချိတ်ဆက်ပါ</string>
+    <string name="need_install_wechat">WeChat အား ဦးစွာ ထည့်သွင်းပါ</string>
     <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
     <string name="bind_facebook">သင်၏ Facebook အကောင့်ကို ချိတ်ဆက်ပါ</string>
+    <string name="bind_google">သင်၏ Google အကောင့်ကို ချိတ်ဆက်ပါ</string>
     <string name="binded">ချိတ်ဆက်နေသည်</string>
     <string name="nobind">ချိတ်ဆက်မနေပါ</string>
     <string name="button_unbind">ချိတ်ဆက်ဖြတ်ပါ</string>
     <string name="unbind_sns_description">ချိတ်ဆက်ဖြတ်ပြီးနောက်မှာ၊ သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ရန် သင်၏ %s ကိုစအသုံးပြုနိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="confirm_unbind">ဒီအကောင့်ကို ချိတ်ဆက်ဖြတ်မလား။</string>
-    <string name="binded_description" formatted="false">%s ကို သင်၏ Mi အကောင့်သို့ ချိတ်ဆက်ထားသည်။ သင့်ပရိုဖိုင်ကို သင်၏ %s အကောင့်ဖြင့် အိပ်ဒိတ်လုပ်ထားသည်။</string>
+    <string name="binded_description" formatted="false">"%s အား Mi အကောင့်ဖြင့် ချိတ်ဆက်ထားပြီ။
+ယခု Mi အကောင့်သို့ %sဖြင့် ဆိုင်းအင်ဝင်နိုင်ပါပြီ။"</string>
     <string name="access_token_expired_warning">Weibo အကောင့်က သက်တမ်းကုန်နေပါပြီ</string>
     <string name="access_token_invalid_warning">Weibo အကောင့်က မမှန်ပါ</string>
     <string name="service_error">ဝန်ဆောင်မှု အမှား</string>
@@ -366,7 +370,7 @@
     <string name="account_mibi_charge">ငွေဖြည့်မည်</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">ဝန်ဆောင်မှုများ</string>
-    <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service">Xiaomi ကလောက်</string>
     <string name="vip_account_settings">VIP ဆက်တင်များ</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">အခွင့်ထူးများအား ကြည့်မည်</string>
@@ -378,8 +382,11 @@
     <string name="activity_not_found_notice">အက်ပ်ကို ရှာမတွေ့ပါ</string>
     <string name="scan_barcode_title">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ရန်၊ QR ကုဒ်ကို စကင်ဖတ်ပါ။</string>
     <string name="talkback_scan_barcode">QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
-    <string name="scan_barcode">ဆိုင်းအင်လုပ်ရန် QR ကုဒ်အား စကန်ဖတ်ပါ</string>
     <string name="agreement_and_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ နှင့် အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="system_ad">စနစ်အက်(ပ်)များရှိ ကြော်ငြာများ</string>
+    <string name="system_ad_switch">စနစ်အက်(ပ်)များရှိ ကြော်ငြာများ</string>
+    <string name="system_ad_summary">"စနစ်အက်(ပ်)များတွင် ကြော်ငြာအနည်းငယ် ပြသခွင့်ပြုရန် ဤအင်္ဂါရပ်ကို ဖွင့်ပါ။ ဤကြော်ငြာများသည် ကျွန်ုပ်တို့၏ ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများကို ပိုကောင်းစေရန် ကူညီနိုင်ပါသည်။ ဤအင်္ဂါရပ်ကို အချိန်မရွေး ပြန်ပိတ်နိုင်သည်။ ပံ့ပိုးမှုအတွက် ကျေးဇူးတင်ပါသည်။ "</string>
+    <string name="system_ad_list">သက်ဆိုင်ရာအက်(ပ်)များကို ကြည့်ရန်။</string>
     <string name="authorize_title">လုပ်ပိုင်ခွင့်ပေးခြင်း</string>
     <string name="my_device_title">လက်ရှိ ကိရိယာ</string>
     <string name="device_list_title">ကျွန်ုပ်ကိရိယာများ</string>
@@ -391,6 +398,13 @@
     <string name="device_delete_success_title">ဆိုင်းအောက်ထွက်ထားသည်</string>
     <string name="device_delete_success_message">အကယ်၍ ဒီကိရိယာပေါ်၌ သင် ဆိုင်းအင်မဝင်ခဲ့ပါက၊ သင့်စကားဝှက်ကို ချက်ချင်း ပြောင်းပါ။</string>
     <string name="change_password">စကားဝှက် ပြောင်းပါ</string>
+    <string name="two_factor_auth">လုံခြုံရေးနှစ်ထပ် စနစ်</string>
+    <string name="two_factor_auth_summary">စက်အသစ်တစ်လုံး သို့မဟုတ် နေရာအသစ်တစ်ခုမှ အကောင့်ဝင်လျှင် အခြားချိတ်ဆက်ထားသော စက်များတွင် သတိပေးစာပို့ပါမည်။ ၎င်း အကောင့်ဝင်ခြင်းများသည် သင့်ခွင့်ပြုချက်နှင့် ပြုလုပ်ခြင်းမဟုတ်မဟုတ် သင်က အတည်ပြုရပါမည်။</string>
+    <string name="two_factor_auth_method">အတည်ပြုနည်းလမ်း</string>
+    <string name="two_factor_auth_click_confirm">အကောင့်ဝင်ရန် အတည်ပြုပါ</string>
+    <string name="two_factor_auth_click_confirm_summary">ချိတ်ဆက်ထားသော အခြား Mi စက်များတွင် သတိပေးစာတွေ့ရမည်။ စက်အသစ်တွင် အကောင့်ဝင်ခြင်းကို ခွင့်ပြုရန် ၎င်းသတိပေးစာကို တို့ပါ။</string>
+    <string name="two_factor_auth_need_code">ကုဒ်ထည့်ပါ</string>
+    <string name="two_factor_auth_need_code_summary">ချိတ်ဆက်ထားသော အခြား Mi စက်များတွင် ကုဒ်တစ်ခုတွေ့မည်။ ၎င်းကုဒ်ကို အကောင့်ဝင်လိုသော စက်အသစ်တွင် ထည့်ပါ။</string>
     <string name="completed">အားလုံး သတ်မှတ်ပြီးပြီ!</string>
     <string name="no_network_title">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။</string>
     <string name="no_network_btn">ရီဖရှက်ရ်လုပ်</string>
@@ -399,9 +413,9 @@
     <string name="empty_device_list_notice">ကိရိယာများ မရှိပါ</string>
     <string name="device_name">ကိရိယာအမည်</string>
     <string name="sim_card">ဆင်းမ်ကဒ်</string>
-    <string name="multi_user_not_show_sync_activity_title">Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ခြင်းအား မဖွင့်ပါနှင့်</string>
+    <string name="multi_user_not_show_sync_activity_title">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်းကို မဖွင့်ပါနှင့်</string>
     <string name="multi_user_not_show_sync_activity_message_1">သင့် ပထမဆုံး Mi အကောင့်အား အသုံးပြုနေပုံရပါသည်</string>
-    <string name="multi_user_not_show_sync_activity_message_2">ဤအခြေနေတွင်၊ ဒေတာအားလုံးသည် သင်၏ဒုတိယနေရာသို့ ဆင့်ခ်လုပ်လိုက်လိမ့်မည်။ ဤအရာအား ရှောင်ရှားရန်၊ Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ခြင်းအား မဖွင့်ပါနှင့်။</string>
+    <string name="multi_user_not_show_sync_activity_message_2">ဤအခြေနေတွင် ဒေတာအားလုံးကို သင်၏ဒုတိယနေရာသို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်။ ၎င်းကိုရှောင်လိုက ကလောက်နှင့်ဆင့်(ခ်)လုပ်ခြင်းကို မဖွင့်ပါနှင့်။</string>
     <string name="find_device_access_denied">အခြေအနေအား မရရှိနိုင်ပါ၊ ဝင်ရောက်မှုအား ပယ်ချခဲ့သည်</string>
     <string name="find_device_account_error">အကောင့်အမှားကြောင့် အခြေအနေအား မရရှိနိုင်ခဲ့ပါ</string>
     <string name="find_device_null_credential_error">စက်အချက်အလက်အား မရရှိနိုင်ခဲ့ပါ၊ Xiaomi အသုံးပြုသူဝန်ဆောင်မှုသို့ ဆက်သွယ်ပါ</string>
@@ -489,7 +503,7 @@
     <string name="exit">ထွက်မည်</string>
     <string name="passport_privacy_policy_required">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="passport_user_agreement_required">အသုံးပြုသူ သဘောတူညီမှု (မဖြစ်မနေ)</string>
-    <string name="kr_license_desc">Mi အကောင့် နှင့် Mi ကလောက် ဝန်ဆောင်မှုများအား မသုံးမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီမှုနှင့် ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား သဘောတူရပါမည်။</string>
+    <string name="kr_license_desc">Mi အကောင့်နှင့် Xiaomi ကလောက်ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ တို့ကို သဘောတူရပါမည်။</string>
     <string name="kr_permission_desc">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="optional_permissions">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
     <string name="permission_group_contacts">အဆက်အသွယ်များ</string>
@@ -500,4 +514,6 @@
     <string name="kr_permission_phone_desc">သင့်အကောင့်အား ကာကွယ်နိုင်ရန်</string>
     <string name="kr_permission_storage_desc">ချို့ယွင်းမှုပြင်ဆင်ချက်များ သိမ်းဆည်းနိုင်ရန်</string>
     <string name="kr_permission_sms_desc">အတည်ပြုကုဒ်အား အော်တို ဖြည့်နိုင်ရန်</string>
+    <string name="system_ad_switch_failed">ဆက်တင်သတ်မှတ်မရပါ</string>
+    <string name="ep_unsupported">သင့်စက်ရှိ Mi အကောင့်ကို ဝင်မရပါ</string>
 </resources>

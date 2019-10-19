@@ -18,6 +18,7 @@
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="children_education">ကလေး ပညာရေး</string>
     <string name="choose_currency">ငွေကြေး ရွေးချယ်ပါ</string>
+    <string name="choose_radix">ဂဏန်းစနစ် ရွေးပါ</string>
     <string name="choose_unit">ယူနစ်ရွေးချယ်ပါ</string>
     <string name="city">မြို့</string>
     <string name="clearDesc">ရှင်းလင်း</string>
@@ -28,6 +29,7 @@
     <string name="convertion_unit">ယူနစ် ပြောင်းခြင်း</string>
     <string name="convertion_unit_area">ဧရိယာ ပြောင်းခြင်း</string>
     <string name="convertion_unit_length">အလျား ပြောင်းခြင်း</string>
+    <string name="convertion_unit_radix">ဂဏန်းစနစ်</string>
     <string name="convertion_unit_temperature">အပူချိန် ပြောင်းခြင်း</string>
     <string name="convertion_unit_time">အချိန် ပြောင်းခြင်း</string>
     <string name="convertion_unit_velocity">အရှိန် ပြောင်းခြင်း</string>
@@ -112,6 +114,7 @@
     <string name="item_title_dress_size">အဝတ် အရွယ်အစား</string>
     <string name="item_title_length_conversion">အလျား</string>
     <string name="item_title_mortgage">အိမ် ချေးငွေ</string>
+    <string name="item_title_radix">ဂဏန်းစနစ်</string>
     <string name="item_title_scientific_calculator">သိပ္ပံ</string>
     <string name="item_title_tax">အခွန်</string>
     <string name="item_title_temprature_conversion">အပူချိန်</string>
@@ -174,6 +177,7 @@
     <string name="mortgage_item_years">ချေးငွေသက်တမ်း</string>
     <string name="mortgage_loans_amount">ပေါင်နှံမှု ပမာဏ</string>
     <string name="mortgage_provident_found_interest_rate">အတိုးနှုန်း</string>
+    <string name="mortgage_provider_east_money">ဒေတာများအား East Money မှ ပံ့ပိုးသည်</string>
     <string name="mortgage_repayment_amount">ပြန်ပေးချေရန် ပမာဏ</string>
     <string name="mortgage_result">ရလဒ်များ</string>
     <string name="mortgage_show_details">အသေးစိတ် ကြည့်ရန်</string>
@@ -186,6 +190,7 @@
     <string name="negDesc">သုညအောက်နှင့် သုညအထက် အပူချိန် ကူးပြောင်းပါ</string>
     <string name="network_confirm_content">ငွေစျေး၊ အခွန်နှင့် ပေါင်နှံငွေများ ပုံမှန်တွက်ချက်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ခွင့်နှင့် တည်နေရာသို့ ဝင်ရောက်ခွင့်များ လိုအပ်ပါသည်။</string>
     <string name="network_confirm_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
+    <string name="network_purpose">ဂဏန်းပေါင်းစက်သို့ ကြိုဆိုပါသည်။ ဂဏန်းပေါင်းစက်ဖြင့် ငွေလဲနှုန်းများတွက်ပေးခြင်း၊ အိမ်ပေါင်ကြွေးတွက်ချက်ပေးခြင်းနှင့် အခြားအရာများကို လုပ်နိုင်ပါသည်။</string>
     <string name="none">မရှိ</string>
     <string name="not_supported_due_to_language">ဤအင်္ဂါရပ်သည် တရုတ်ဘာသာတွင်သာ ရရှိနိုင်သည်</string>
     <string name="ok">အိုကေ</string>
@@ -318,11 +323,13 @@
     <string name="unit_data_display_currency_aed">ယူအေအီး ဒီရင်</string>
     <string name="unit_data_display_currency_ars">အာဂျင်တီးနား ပီဆို</string>
     <string name="unit_data_display_currency_aud">သြစတြေးလျဒေါ်လာ</string>
+    <string name="unit_data_display_currency_bdt">ဘင်္ဂလားဒေ့ရှ် တာကာ</string>
     <string name="unit_data_display_currency_bgn">ဘူဂေးရီးယား လိဖ်</string>
     <string name="unit_data_display_currency_bhd">ဘာရိန်း ဒီးနား</string>
     <string name="unit_data_display_currency_bnd">ဘရူနိုင်းဒေါ်လာ</string>
     <string name="unit_data_display_currency_brl">ဘရာဇီးရီးယား</string>
     <string name="unit_data_display_currency_byn">ဘီလာရုရူဘယ်</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ကနေဒါ ဒေါ်လာ</string>
     <string name="unit_data_display_currency_chf">ဆွစ် ဖရန့်</string>
     <string name="unit_data_display_currency_clp">ချီလီပီဆို</string>
@@ -408,6 +415,10 @@
     <string name="unit_data_display_length_um">မိုက်ခရိုမီတာ</string>
     <string name="unit_data_display_length_yd">ကိုက်</string>
     <string name="unit_data_display_length_zhang">Zhang</string>
+    <string name="unit_data_display_radix_10">ဆယ်လီစနစ်</string>
+    <string name="unit_data_display_radix_16">ဆယ့်ခြောက်လီစနစ်</string>
+    <string name="unit_data_display_radix_2">ဒွိစုံ</string>
+    <string name="unit_data_display_radix_8">ရှစ်လီစနစ်</string>
     <string name="unit_data_display_temperature_c">စင်တီဂရိတ်</string>
     <string name="unit_data_display_temperature_f">ဖာရင်ဟိုက်</string>
     <string name="unit_data_display_temperature_k">Kelvin</string>
@@ -601,8 +612,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ်များအား ချိတ်ဆက်၍ မရပါ။ ဤအက်ပ်မှ တောင်းဆိုထားသော ခွင့်ပြုချက် အားလုံး ရှိမရှိ ဆက်တင် > ထည့်သွင်းထားသော အက်ပ်များတွင် စစ်ကြည့်ပါ။</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မရရှိပါ။ SD ကဒ်အား စစ်ဆေးပါ။</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
 အရွယ်အစား- %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
@@ -610,5 +624,9 @@
     <string name="xiaomi_update_dialog_title">%1$s အပ်ဒိတ်အသစ်</string>
     <string name="year" />
     <string name="preference_use_voice">အသံထွက်</string>
+    <string name="preference_use_voice_summary">တွက်ချက်မှုများပြုလုပ်စဉ် စကားပြောထွက်လာခြင်းသုံးရန် ဖွင့်ပါ</string>
+    <string name="preference_use_voice_title">စကားပြောထွက်လာခြင်း</string>
+    <string name="preference_user_feedback_title">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="voice_guide_text">စကားပြောထွက်လာရန် ဤနေရာတွင် ဖွင့်နိုင်သည်</string>
     <string name="warn_locale_unsupport_for_voice">ဤဘာသာစကားအတွက် အသံထွက် မပံ့ပိုးသေးပါ။</string>
 </resources>

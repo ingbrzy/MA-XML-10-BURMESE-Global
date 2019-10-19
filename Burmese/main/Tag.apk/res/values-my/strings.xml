@@ -12,4 +12,6 @@
     <string name="import_vcard">Import ^1 ကို ထည့်သွင်းသည်</string>
     <string name="mime_display_name">NFC မှတ်သားမှု မှ ဒေတာ</string>
     <string name="vcard_title">^1မှ လိပ်စာအချက်အလက်</string>
+    <string name="call_phone_permission_denied">ဤအပလီကေးရှင်းများသည် ဖုန်းခေါ်ရန်အတွက် တယ်လီဖုန်းကို အသုံးပြုခွင့် လိုအပ်ပါသည်။ ဆက်တင်များထဲတွင် တဂ်ခွင့်ပြုချက်ကို စီမံခန့်ခွဲနိုင်ပါသည်</string>
+    <string name="external_storage_permission_denied">"ဤအပလီကေးရှင်းသည် ဖိုင်များကို အသုံးပြုခွင့်ရရှိရန် 'ပြင်ပသိုလှောင်ခန်း' ခွင့်ပြုချက် လိုအပ်ပါသည်။ 'တဂ်' ခွင့်ပြုချက်ကို 'ဆက်တင်များ' ထဲတွင် စီမံနိုင်သည်"</string>
 </resources>

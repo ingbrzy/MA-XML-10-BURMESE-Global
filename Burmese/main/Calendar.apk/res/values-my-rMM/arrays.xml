@@ -3,12 +3,12 @@
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>ကုမ်ရာသီဖွား</item>
-        <item>1/20 - 2/18</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
         <item>aries</item>
         <item>မဿိရာသီဖွား</item>
-        <item>3/21 - 4/19</item>
+        <item>21/3 - 19/4</item>
     </string-array>
     <string-array name="bundesliga">
         <item>၂</item>
@@ -17,12 +17,12 @@
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>ကရကဋ်ရာသီဖွား</item>
-        <item>6/22 - 7/22</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
         <item>capricorn</item>
         <item>မကာရရာသီဖွား</item>
-        <item>12/22 - 1/19</item>
+        <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>ဤလုပ်ငန်းစဉ်သာ</item>
@@ -81,10 +81,14 @@
         <item>ယခုနှင့် နောင်လုပ်ငန်းစဉ်များ</item>
         <item>လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>မေထုန်ရာသီဖွား</item>
-        <item>5/21 - 6/21</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="la_liga">
         <item>၃</item>
@@ -93,21 +97,30 @@
     <string-array name="leo_info">
         <item>leo</item>
         <item>သိဟ်ရာသီဖွား</item>
-        <item>7/23 - 8/22</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>တူရာသီဖွား</item>
-        <item>9/23 - 10/23</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="ligue_1">
         <item>၅</item>
         <item>လီဂူး ၁</item>
     </string-array>
+    <string-array name="panchang_weeks">
+        <item>တနင်္ဂနွေ</item>
+        <item>တနင်္လာ</item>
+        <item>အင်္ဂါ</item>
+        <item>ဗုဒ္ဓဟူး</item>
+        <item>ကြာသပတေး</item>
+        <item>သောကြာ</item>
+        <item>စနေ</item>
+    </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>မိန်ရာသီဖွား</item>
-        <item>2/19 - 3/20</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>အမြဲတမ်း</item>
@@ -204,6 +217,43 @@
         <item>လ</item>
         <item>ခုနှစ်</item>
     </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>ပထမ တနင်္လာ</item>
+        <item>ပထမ အင်္ဂါ</item>
+        <item>ပထမ ဗုဒ္ဓဟူး</item>
+        <item>ပထမ ကြာသပတေး</item>
+        <item>ပထမ သောကြာ</item>
+        <item>ပထမ စနေ</item>
+        <item>ပထမ တနင်္ဂနွေ</item>
+        <item>ဒုတိယ တနင်္လာ</item>
+        <item>ဒုတိယ အင်္ဂါ</item>
+        <item>ဒုတိယ ဗုဒ္ဓဟူး</item>
+        <item>ဒုတိယ ကြာသပတေး</item>
+        <item>ဒုတိယ သောကြာ</item>
+        <item>ဒုတိယ စနေ</item>
+        <item>ဒုတိယ တနင်္ဂနွေ</item>
+        <item>တတိယ တနင်္လာ</item>
+        <item>တတိယ အင်္ဂါ</item>
+        <item>တတိယ ဗုဒ္ဓဟူး</item>
+        <item>တတိယ ကြာသပတေး</item>
+        <item>တတိယ သောကြာ</item>
+        <item>တတိယ စနေ</item>
+        <item>တတိယ တနင်္ဂနွေ</item>
+        <item>စတုတ္ထ တနင်္လာ</item>
+        <item>စတုတ္ထ အင်္ဂါ</item>
+        <item>စတုတ္ထ ဗုဒ္ဓဟူး</item>
+        <item>စတုတ္ထ ကြာသပတေး</item>
+        <item>စတုတ္ထ သောကြာ</item>
+        <item>စတုတ္ထ စနေ</item>
+        <item>စတုတ္ထ တနင်္ဂနွေ</item>
+        <item>နောက်ဆုံး တနင်္လာ</item>
+        <item>နောက်ဆုံး အင်္ဂါ</item>
+        <item>နောက်ဆုံး ဗုဒ္ဓဟူး</item>
+        <item>နောက်ဆုံး ကြာသပတေး</item>
+        <item>နောက်ဆုံး သောကြာ</item>
+        <item>နောက်ဆုံး စနေ</item>
+        <item>နောက်ဆုံး တနင်္ဂနွေ</item>
+    </string-array>
     <string-array name="response_labels1">
         <item>တုံ့ပြန်မှု မရှိပါ</item>
         <item>ဟုတ်ပါသည်</item>
@@ -213,12 +263,12 @@
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>ဓနုရာသီဖွား</item>
-        <item>11/23 - 12/21</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>ဗြိစ္ဆာရာသီဖွား</item>
-        <item>10/24 - 11/22</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="serie_a">
         <item>၁</item>
@@ -227,7 +277,7 @@
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>ပြဿိ</item>
-        <item>4/20 - 5/20</item>
+        <item>20/4 - 20/5</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>မာရှယ် ကျွန်းများ</item>
@@ -327,7 +377,7 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>ကန်ရာသီဖွား</item>
-        <item>8/23 - 9/22</item>
+        <item>23/8 - 22/9</item>
     </string-array>
     <string-array name="week_header_name">
         <item>နွေ</item>
@@ -341,42 +391,5 @@
     <string-array name="widget_style_list">
         <item>ဖောက်ထွင်းမြင်သော</item>
         <item>အဖြူနောက်ခံ</item>
-    </string-array>
-    <string-array name="repeat_monthly_on_day_count_values">
-        <item>ပထမ တနင်္လာ</item>
-        <item>ပထမ အင်္ဂါ</item>
-        <item>ပထမ ဗုဒ္ဓဟူး</item>
-        <item>ပထမ ကြာသပတေး</item>
-        <item>ပထမ သောကြာ</item>
-        <item>ပထမ စနေ</item>
-        <item>ပထမ တနင်္ဂနွေ</item>
-        <item>ဒုတိယ တနင်္လာ</item>
-        <item>ဒုတိယ အင်္ဂါ</item>
-        <item>ဒုတိယ ဗုဒ္ဓဟူး</item>
-        <item>ဒုတိယ ကြာသပတေး</item>
-        <item>ဒုတိယ သောကြာ</item>
-        <item>ဒုတိယ စနေ</item>
-        <item>ဒုတိယ တနင်္ဂနွေ</item>
-        <item>တတိယ တနင်္လာ</item>
-        <item>တတိယ အင်္ဂါ</item>
-        <item>တတိယ ဗုဒ္ဓဟူး</item>
-        <item>တတိယ ကြာသပတေး</item>
-        <item>တတိယ သောကြာ</item>
-        <item>တတိယ စနေ</item>
-        <item>တတိယ တနင်္ဂနွေ</item>
-        <item>စတုတ္ထ တနင်္လာ</item>
-        <item>စတုတ္ထ အင်္ဂါ</item>
-        <item>စတုတ္ထ ဗုဒ္ဓဟူး</item>
-        <item>စတုတ္ထ ကြာသပတေး</item>
-        <item>စတုတ္ထ သောကြာ</item>
-        <item>စတုတ္ထ စနေ</item>
-        <item>စတုတ္ထ တနင်္ဂနွေ</item>
-        <item>နောက်ဆုံး တနင်္လာ</item>
-        <item>နောက်ဆုံး အင်္ဂါ</item>
-        <item>နောက်ဆုံး ဗုဒ္ဓဟူး</item>
-        <item>နောက်ဆုံး ကြာသပတေး</item>
-        <item>နောက်ဆုံး သောကြာ</item>
-        <item>နောက်ဆုံး စနေ</item>
-        <item>နောက်ဆုံး တနင်္ဂနွေ</item>
     </string-array>
 </resources>
