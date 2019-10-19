@@ -14,7 +14,6 @@
     <string name="collapse_handle">ခေါက်ရန် လက်</string>
     <string name="connectio_delay_content">ပရင်တာရှိ အင်တာနက်ချိတ်ဆက်မှုကို အတည်ပြုရန်လိုနိုင်သည်။</string>
     <string name="connectio_help_title">ပရင်တာကို ချိတ်နေသည်</string>
-    <string name="current_page_template">%1$d /%2$d</string>
     <string name="delete_saved_printer_content">ရွေးထားသောပရင်တာများကို ယခုဖျက်လိုပါသလား။</string>
     <string name="expand_handle">ချဲ့ရန် လက်</string>
     <string name="failed_notification_title_template">စာထုတ်စက်မှ အမှား %1$s</string>

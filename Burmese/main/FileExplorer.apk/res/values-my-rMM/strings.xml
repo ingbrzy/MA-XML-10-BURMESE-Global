@@ -116,7 +116,6 @@
     <string name="dialog_type_image">ရုပ်ပုံများ</string>
     <string name="dialog_type_text">စာရွက်စာတမ်း</string>
     <string name="dialog_type_video">ဗီဒီယိုများ</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">အမည် ပြပါ</string>
     <string name="domain">ဒိုမိန်း</string>
     <string name="download_success">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -163,7 +162,6 @@
     <string name="favorite_ringtone">ဖုန်းမြည်သံများ</string>
     <string name="favorite_screen_cap">မျက်နှာပြင်ပုံများ</string>
     <string name="feedback_send_email_body_extra_info">အောက်ပါအချက်အလက်များကို မဖျက်ပါနှင့်။ ကျွန်ုပ်တို့အား တည်နေရာရှာဖွေရာ၌ အထောက်အကူပြုနိုင်သည်။</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ဖတ်နိုင်သော−</string>
     <string name="file_info_canwrite">ရေးနိုင်သည်−</string>
     <string name="file_info_ishidden">ဝှက်ထားသော−</string>
