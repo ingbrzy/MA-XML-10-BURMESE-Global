@@ -104,7 +104,6 @@
     <string name="choose_stream_quality">တိုက်ရိုက်ကြည့်ခြင်းအရည်အသွေးရွေးပါ</string>
     <string name="click_to_shuffle">ရှက်ဖ်ဖယ်လုပ်ရန် ထိနှိပ်ပါ</string>
     <string name="close_music_time">"ကျန်သောအချိန်: "</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="confirm">အိုကေ</string>
     <string name="confirm_exit">ပြောင်းလဲမှုများကို သိမ်းမလား?</string>
     <string name="connect_now">ချိတ်ဆက်ပါ</string>
@@ -114,6 +113,7 @@
     <string name="current_album">လက်ရှိ အယ်လ်ဘမ်အဖုံး</string>
     <string name="current_lyric">လက်ရှိ သီချင်းစာသား</string>
     <string name="current_version">လက်ရှိဗားရှင်း</string>
+    <string name="daily_recommendation">နေ့စဉ်အရော</string>
     <string name="dark_mode">အရောင်ရင့်မုဒ်</string>
     <string name="data_usage_warning">ဒေတာအသုံးပြုမှု</string>
     <string name="data_usage_warning_summary">မိုဘိုင်းလ်ဒေတာ ဆက်သွယ်ခြင်းကို အသုံးပြုပြီး အဆင့်မြင့်သီချင်းများကို တိုက်ရိုက်နားထောင်ပါက ဒေတာခများကို ပိုကုန်စေနိုင်ပါသည်။</string>
@@ -158,6 +158,10 @@
     <string name="dialog_renew_free_end">အခမဲ့ စမ်းသုံးချိန် ကုန်ဆုံးပါပြီ။ Hungama PRO ဆက်သုံးရန် ပိုက်ဆံဖြည့်မလား?</string>
     <string name="dialog_renew_positive_text">ပရိုဖြစ်ရန် သက်တမ်းတိုးပါမည်</string>
     <string name="dialog_renew_success">အတည်ပြုခြင်းအတွက် ကျေးဇူးတင်ပါသည်</string>
+    <string name="dialog_score_btn_good">အဆင့်သတ်မှတ်ရန်</string>
+    <string name="dialog_score_prompt_bad">တုံ့ပြန်အကြံပြုမှုအတွက် ကျေးဇူးတင်ပါသည်။ ကျွန်ုပ်တို့၏ အက်(ပ်)နှင့် ဝန်ဆောင်မှုများကို အကောင်းဆုံးဖြစ်စေရန် ကြိုးစားပါမည်။</string>
+    <string name="dialog_score_prompt_good">ပံ့ပိုးမှုအတွက် ကျေးဇူးတင်ပါသည်။ Google ပလေးရှိ ကျွန်ုပ်တို့၏ အက်(ပ်)ကိုလည်း အဆင့်သတ်မှတ်လိုပါသလား။</string>
+    <string name="dialog_score_title">ကျွန်ုပ်တို့ အက်(ပ်)ကို အဆင့်သတ်မှတ်ပါ</string>
     <string name="dialog_song_sort_type">သီချင်းများအား စီစဉ်ပါ</string>
     <string name="dialog_song_sort_type_name">အမည်ဖြင့်</string>
     <string name="dialog_song_sort_type_playing_times">ဖွင့်လိုက်သည့် အကြိမ်အရေအတွက်အားဖြင့်</string>
@@ -175,6 +179,7 @@
     <string name="dialog_title_remove_tracks">ဖယ်ရှားပါ</string>
     <string name="disallow_add_to_fm">FM ရေဒီယိုထဲသို့ သီချင်းများပေါင်းထည့်၍မရပါ</string>
     <string name="do_not_remind_this_version">ဤဗားရှင်းအကြောင်း သတိမပေးပါနှင့်</string>
+    <string name="do_not_support_google_voice_search">Google အသံဖြင့် ရှာဖွေမှုကို သင့်စက်တွင် သုံးမရပါ။</string>
     <string name="download">ဒေါင်းလုဒ်</string>
     <string name="download_added_to_list">ဒေါင်းလုဒ်စာရင်းသို့ ပေါင်းထည့်ခဲ့သည်</string>
     <string name="download_apk_desktop_installing">ထည့်သွင်းနေသည်</string>
@@ -294,11 +299,8 @@
     <string name="filter_by_folder">ဖိုလ်ဒါအားဖြင့်</string>
     <string name="filter_by_folder_summary">ပြသရန်ဖိုလ်ဒါရွေး</string>
     <string name="filter_by_size">အရွယ်အစားအရ</string>
-    <string name="filter_by_size_max">%dMB</string>
-    <string name="filter_by_size_min">%dKB</string>
     <string name="filter_by_size_prefix">"ထက်သေးသောဖိုင်များကို ဖွက် "</string>
     <string name="filter_by_size_summary">အော်ဒီယိုဖိုင်သေးများကို ဖွက်</string>
-    <string name="filter_size_unit">%dKB</string>
     <string name="floating_view_dialog_desc">ဤစာမျက်နှာမှ ထွက်လိုက်လျှင် ဖွင့်ထားသော သီချင်းရပ်သွားပါမည်။ မဖြစ်မနေထွက်လိုသလား။</string>
     <string name="floating_view_dialog_leave">ထွက်ရန်</string>
     <string name="floating_view_dialog_stay">ဆက်နေရန်</string>
@@ -324,9 +326,10 @@
     <string name="home_tab_more_music">အခြားသီချင်းများ</string>
     <string name="home_tab_online">အွန်လိုင်းသီချင်း</string>
     <string name="home_tab_search">ရှာရန်</string>
-    <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">ပရိုအဖွဲ့ဝင်သာ သီချင်းအများအပြား ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ယခု ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
+    <string name="hungama_batch_download_alert_summary_toast">သီချင်းစာရင်းတစ်ခုလုံးကို ဒေါင်းလုဒ်လုပ်နိုင်ရန် စာရင်းသွင်းဝယ်ယူပါ။</string>
     <string name="hungama_free_download_out_summary">သီချင်းများအား အခမဲ့ ဒေါင်းလုဒ်လုပ်၍ မရတော့ပါ။ သီချင်းများအား အကန့်အသတ်မရှိ ဒေါင်းလုဒ်လုပ်နိုင်ရန် ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
+    <string name="hungama_free_download_out_summary_toast">သင်သည် သီချင်း အပုဒ်ရေ %d ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။ ထပ်မံဒေါင်းလုဒ်လုပ်နိုင်ရန် စာရင်းသွင်းဝယ်ယူပါ။</string>
     <string name="hungama_privacy_desc">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (ရွေးနိုင်သော)</string>
     <string name="hungama_privacy_tips_content">အွန်လိုင်း အကြောင်းအရာအား ရယူလိုပါက <a href="/link/click">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</a>အား သဘောတူရပါမည်။</string>
     <string name="hungama_privacy_tips_title">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
@@ -421,6 +424,7 @@
     <string name="more_settings">အဆင့်မြင့်ဆက်တင်များ</string>
     <string name="more_settings_summary">အိပ်ချိန် တိုင်မာ၊ ဖိုင် စစ်ထုတ်ကိရိယာ စသည်တို့</string>
     <string name="more_share">မျှဝေခြင်း</string>
+    <string name="more_splendid_contents">နောက်ထပ်</string>
     <string name="mulit_choice_management">အိုင်တမ်များအား စီမံမည်</string>
     <string name="music_browser_label">တေးဂီတ</string>
     <string name="music_filter">အော်ဒီယိုဖိုင်များကို စစ်ပါ</string>
@@ -545,7 +549,6 @@
     <string name="playlist_type_album">အယ်လ်ဘမ်များ</string>
     <string name="playlist_type_artist">အနုပညာရှင်</string>
     <string name="playlist_type_billboard">ပုံစံကားချပ်များ</string>
-    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">ကျွန်ုပ်၏ ဖွင့်ရန်စာရင်း</string>
     <string name="playlist_type_recommend">နှစ်သက်ရာ သီချင်းစာရင်း</string>
     <string name="please_download_first">သီချင်းကိုဖုန်းမြည်သံအဖြစ်သုံးနိုင်ရန်ဒေါင်းလုဒ်လုပ်ထားရန်လိုပါသည်</string>
@@ -556,6 +559,7 @@
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -677,6 +681,7 @@
     <string name="tab_album_list">အယ်လ်ဘမ်များ</string>
     <string name="tab_artist">အနုပညာရှင်များ</string>
     <string name="tab_artist_list">အနုပညာရှင်များ</string>
+    <string name="tab_chart">ပုံစံကားချပ်များ</string>
     <string name="tab_folder">ဖိုလ်ဒါများ</string>
     <string name="tab_playlist">သီချင်းစာရင်း</string>
     <string name="tab_top_results">ထိပ်တန်းရလဒ်</string>
@@ -739,6 +744,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
@@ -752,4 +758,5 @@
 ဤဒေါင်းလုဒ်ကို နောင်တွင် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သောအခါမှ စတင်ရန် %sကို ထိနှိပ်ပါ။"</string>
     <string name="wifi_required_title">ဤဖိုင်အား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်သင့်သည်</string>
     <string name="you_can_switch_mode_in_settings">ဆက်တင်များထဲတွင် မုဒ်တစ်ခုမှ တစ်ခုသို့ ပြောင်းနိုင်သည်</string>
+    <string name="you_may_like">အခြားသင်ကြိုက်နိုင်သည်များ</string>
 </resources>

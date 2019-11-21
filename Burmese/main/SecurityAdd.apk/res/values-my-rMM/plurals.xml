@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးရန် %d ရက်သာ ကျန်ပါသည်။ ကွန်ရက်နှေးသော ပြဿနာများကို ရှောင်ရှားရန် သက်တမ်းတိုးလိုက်ပါ။</item>
+    </plurals>
+</resources>

@@ -17,6 +17,7 @@
     <string name="dialog_market_score_title_step2">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါတယ်။</string>
     <string name="dual_app_title">နှစ်ခုတွဲအက်ပ်</string>
     <string name="dual_app_words">အကောင့်တိုင်းအတွက် အက်ပ်ကိုယ်စီ</string>
+    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">Fastboot မှာ Mi စက်များကို ဖလက်ရှ်လုပ်ရန် ရိုးရာနည်းလမ်းဖြစ်ပါသည်။ စက်သည် Fastboot မုတ်တွင် ရှိနေပါက၊ သိုလှောင်ထားသော ဒေတာအားလုံးကို ကြည့်၍ရပြီး တိုက်ရိုက်ဖျက်ပစ်လို့လည်း ရပါသည်။ ကျွန်ုပ်တို့မှ Fastboot ကိုသော့ခတ်ထားရခြင်းမှာ အကယ်၍သင့်စက်ပျောက်သွားပါက သင့်ဒေတာများကို လုံခြုံစေရန်အတွက် ဖြစ်ပြီး၊ \"စက်ကို ရှာပါ\" လုပ်ဆောင်ချက်ကို အာမခံနိုင်ရန်အတွက် ဖြစ်ပါသည်။</string>
     <string name="fastboot_locked_answer_2">အကယ်၍ သင့်စက်ပျောက်သွားပါက၊ Fastbootသည် ၄င်းပေါ်တွင် သိမ်းထားသော ဒေတာများအားလုံး၏ လုံခြုံရေးကို တာဝန်ယူပါသည်။ Fastbootကို သော့ဖြည်ထားပါက၊ သင်သည် စက်ကို အဝေးမှ သော့ချခြင်း သို့မဟုတ် \"စက်ကို ရှာပါ\" ကိုသုံးပြီး ဒေတာများဖျက်ပစ်ခြင်း တို့ကို ပြုလုပ်နိုင်တော့မည် မဟုတ်ပါ။ ထို့ကြောင့် Fastbootကို သော့ခတ်ထားရန် ကျွန်ုပ်တို့မှ အကြံပြုအပ်ပါသည်။</string>
     <string name="fastboot_locked_answer_3">MIUIဝက်ဘ်ဆိုက်မှ သော့ဖြည်ကိရိယာကို အသုံးပြုသင့်ပါသည်။ စက်ကို သော့ဖြည်ရန်၊ စက်မှာ သင့်စက်ဖြစ်ကြောင်း သေချာရန် လိုအပ်ပါသည်။ ထို့အတွက်ကြောင့် Mi အကောင့် သို့ဆိုင်းအင်ဝင်ရန်နှင့် \"စက်ကို ရှာပါ\"ကို ဖွင့်ရန် လိုအပ်ပါသည်။</string>
@@ -60,7 +61,7 @@
     <string name="superpower_progress_battery_last">%s ကျန်သည်</string>
     <string name="superpower_progress_left_time">%1$d နာရီ %2$d မိနစ်</string>
     <string name="superpower_search_hint">အက်(ပ်)များရှာရန်</string>
-    <string name="superpower_select_app_title">ပင်မမျက်နှာပြင်အပြင်အဆင်</string>
+    <string name="superpower_select_app_title">အသုံးများသော အက်(ပ်)များ</string>
     <string name="superpower_settings">Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်</string>
     <string name="superpower_system">အကြံပြုထားသောအရာများ</string>
     <string name="superpower_third">ပြင်ပကုမ္ပဏီအက်(ပ်)များ</string>
@@ -69,4 +70,23 @@
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
     <string name="xunyou_pay_webview">Xunyou ဝန်ဆောင်မှုများ</string>
+    <string name="cancel">ဖျက်သိမ်းရန်</string>
+    <string name="fingerprint_not_remind">ထပ်မမေးပါနှင့်</string>
+    <string name="free_send_net_booster">အခမဲ့ ကွန်ရက်အရှိန်မြှင့်စနစ်</string>
+    <string name="free_send_net_booster_busniess">အခမဲ့ Xunlei အရှိန်မြှင့်စနစ် ရယူပါ</string>
+    <string name="free_send_net_booster_busniess_tip">လက်ခံရန် တို့ပါ</string>
+    <string name="free_send_net_booster_tip">အခမဲ့ ကွန်ရက်အရှိန်မြှင့်စနစ်သုံးပြီး ချောမွေ့စွာ ဂိမ်းကစားလိုက်ပါ။</string>
+    <string name="net_booster_expire_notification">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်</string>
+    <string name="net_booster_overdue_notification">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်</string>
+    <string name="net_booster_overdue_notification_tip">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်။ သက်တမ်းတိုးလိုပါသလား။</string>
+    <string name="renew_now">သက်တမ်းတိုးရန်</string>
+    <string name="superpower_app_contact">အဆက်အသွယ်များ</string>
+    <string name="superpower_app_delete">ဖျက်ရန်</string>
+    <string name="superpower_app_edit">တည်းဖြတ်ရန်</string>
+    <string name="superpower_app_exit">ထွက်ရန်</string>
+    <string name="superpower_app_isadded">ထည့်ပြီးပါပြီ</string>
+    <string name="superpower_app_mms">စာပို့ခြင်း</string>
+    <string name="superpower_app_phone">ဖုန်း</string>
+    <string name="superpower_settings_launcher">Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်</string>
+    <string name="superpower_toast_app_select_full">အသုံးများသော အက်(ပ်)များစာရင်းတွင် ၆ ခုအထိ ထည့်နိုင်သည်</string>
 </resources>

@@ -37,6 +37,8 @@
         <item>တခြား</item>
         <item>မိမိစိတ်ကြိုက်</item>
     </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -57,9 +59,5 @@
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>သင်၏ ဝန်ဆောင်မှုပေးသူဖြင့် Wi‑Fi ခေါ်ဆိုမှုကို မှတ်ပုံတင်ရာတွင် ပြဿနာရှိနေသည်− %1$s</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>"%s Wi-Fi  ခေါ်ဆိုမှု"</item>
     </string-array>
 </resources>

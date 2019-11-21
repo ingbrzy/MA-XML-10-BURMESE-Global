@@ -50,6 +50,8 @@
     <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -133,6 +135,7 @@
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="loading_user_backup">သုံးစွဲသူ အရန်သိမ်းခြင်းများကို ရယူနေသည်…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">အရွယ်အစား တွက်ချက်နေသည်…</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>

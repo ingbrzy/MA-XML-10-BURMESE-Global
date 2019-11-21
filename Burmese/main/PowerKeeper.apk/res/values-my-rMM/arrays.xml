@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pc_manage_active_app_items">
-        <item>အက်ပ်များအား အိပ်စက်စေပါ</item>
-        <item>ပါဝါ ချွေတာမည်</item>
+    <string-array name="emode_app_groups">
+        <item>စနစ် အက်ပ်များ</item>
+        <item>အခြားအက်ပ်များ</item>
+        <item>ရွေးထားသော အက်ပ်များ</item>
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>စိတ်ကြိုက်စီမံမည်</item>
@@ -12,10 +13,13 @@
         <item>အသုံးများသော အက်ပ်များ</item>
         <item>အသုံးနည်းသော အက်ပ်များ</item>
     </string-array>
-    <string-array name="emode_app_groups">
-        <item>စနစ် အက်ပ်များ</item>
-        <item>အခြားအက်ပ်များ</item>
-        <item>ရွေးထားသော အက်ပ်များ</item>
+    <string-array name="pc_manage_active_app_items">
+        <item>အက်ပ်များအား အိပ်စက်စေပါ</item>
+        <item>ပါဝါ ချွေတာမည်</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>စွမ်းဆောင်ရည်</item>
+        <item>ဟန်ချက်</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>ပုံသေ အပူထိန်းမုဒ်</item>
@@ -25,9 +29,5 @@
         <item>အပူချိန်ထိန်းချုပ်မှုအား ဦးစားပေးမည်</item>
         <item>လုပ်ဆောင်ရည်အား ဦးစားပေးမည်</item>
         <item>အကြီးမားဆုံး ဘက်ထရီချွေတာသူတွင် မပံ့ပိုးထားပါ</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>စွမ်းဆောင်ရည်</item>
-        <item>ဟန်ချက်</item>
     </string-array>
 </resources>

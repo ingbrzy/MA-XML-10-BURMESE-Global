@@ -5,7 +5,7 @@
     <string name="calendar_sound">ဖြစ်စဉ်အသိပေးချက်အသံများ</string>
     <string name="calendar_tip">ဖြစ်စဉ်အသိပေးချက်အသံများကို ပြက္ခဒိန်အသိပေးချက်များ၊ မှတ်စုများနှင့် လုပ်ငန်းစဉ်များအတွက် သုံးသည်။</string>
     <string name="follow_sim1">SIM ၁ ဆက်တင်များကို သုံးရန်</string>
-    <string name="intelligent_recognition_item_summary">ဝန်ဆောင်မှုပေးသူများ (ဥပမာ - အစားအစာပို့ဆောင်ရေး) ထံမှ အဝင်ဖုန်းများကို စိစစ်ပြီး ၎င်းတို့အတွက် သီးခြားဖုန်းမြည်သံသုံးပါ</string>
+    <string name="intelligent_recognition_item_summary">ကုန်ပို့နှင့် တက္ကစီဝန်ဆောင်မှုများထံမှ အဝင်ဖုန်းများအတွက် သတ်မှတ် ဖုန်းခေါ်သံသုံးပါ။ %s ကို သင့်အမြဲသုံး ဖုန်းသံအဖြစ် သတ်မှတ်ထားစဉ်တွင် ဤဝန်ဆောင်မှု အလုပ်လုပ်ပါမည်။</string>
     <string name="intelligent_recognition_item_title">ဝန်ဆောင်မှုများစိစစ်ရန်</string>
     <string name="mms">မက်ဆေ့(ချ်)ပို့ခြင်း</string>
     <string name="more_ringtone">ဖုန်းမြည်သံအားလုံး</string>

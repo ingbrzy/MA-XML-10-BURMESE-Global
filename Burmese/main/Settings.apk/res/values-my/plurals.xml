@@ -12,6 +12,10 @@
         <item quantity="other">ပြီးခဲ့သော %dနှစ်</item>
         <item quantity="one">ပြီးခဲ့သော %dနှစ်</item>
     </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">အက်ပ် %1$d ခုသည် သင့်ကိရိယာကို အပြည့်အဝ အသုံးပြုခွင့်ရှိသည်</item>
+        <item quantity="one">အက်ပ် ၁ ခု သည် သင့်ကိရိယာကို အပြည့်အဝ အသုံးပြုခွင့်ရှိသည်</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">အလွန်တိုတောင်းသည့် နှောင့်နှေးမှု (%1$d ms)</item>
         <item quantity="one">အလွန်တိုတောင်းသည့် နှောင့်နှေးမှု (%1$d ms)</item>
@@ -65,8 +69,8 @@
         <item quantity="one">%d ရက် ကျန်သည်</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">ဒေတာချွေတာမှုဖွင့်ထားချိန်တွင် ဒေတာကို အကန့်အသတ်မရှိ အသုံးပြုရန် အက်ပ် %1$d ခုကို ခွင့်ပြုထားသည်</item>
-        <item quantity="one">ဒေတာချွေတာမှုဖွင့်ထားချိန်တွင် ဒေတာကို အကန့်အသတ်မရှိ အသုံးပြုရန် အက်ပ် ၁ ခုကိုခွင့်ပြုထားသည်</item>
+        <item quantity="other">"'ဒေတာချွေတာမှု' ဖွင့်ထားချိန်တွင် ဒေတာကို အကန့်အသတ်မရှိ အသုံးပြုရန် အက်ပ် %1$d ခုကို ခွင့်ပြုထားသည်"</item>
+        <item quantity="one">"'ဒေတာချွေတာမှု' ဖွင့်ထားချိန်တွင် ဒေတာကို အကန့်အသတ်မရှိ အသုံးပြုရန် အက်ပ် ၁ ခုကိုခွင့်ပြုထားသည်"</item>
     </plurals>
     <plurals name="default_camera_app_title">
         <item quantity="other">ကင်မရာအက်ပ်များ</item>
@@ -112,6 +116,14 @@
         <item quantity="other">%s နာရီ</item>
         <item quantity="one">၁ နာရီ</item>
     </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">အက်ပ် %2$d ခုအနက် %1$d ခုက တည်နေရာ ဝင်သုံးခွင့်ရှိပါသည်</item>
+        <item quantity="one">အက်ပ် %2$d ခုအနက် %1$d ခုက တည်နေရာ ဝင်သုံးခွင့်ရှိပါသည်</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">ဖွင့်ထားသည် - အက်ပ် %1$d ခုက တည်နေရာ ဝင်သုံးခွင့်ရှိပါသည်</item>
+        <item quantity="one">ဖွင့်ထားသည် - အက်ပ် %1$d ခုက တည်နေရာ ဝင်သုံးခွင့်ရှိပါသည်</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">အနည်းဆုံး စကားလုံး %d လုံးပါဝင်ရမည်</item>
         <item quantity="one">အနည်းဆုံး စကားလုံး ၁ လုံးပါဝင်ရမည်</item>
@@ -136,13 +148,29 @@
         <item quantity="other">အနည်းဆုံး စာလုံးကြီး %d လုံး ပါဝင်ရမည်</item>
         <item quantity="one">အနည်းဆုံး စာလုံးကြီး ၁ လုံး ပါဝင်ရမည်</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">အက္ခရာ %d လုံးထက် နည်းရမည်</item>
+        <item quantity="one">အက္ခရာ %d လုံးထက် နည်းရမည်</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">အနည်းဆုံး အက္ခရာ %d လုံး ပါရမည်</item>
+        <item quantity="one">အနည်းဆုံး အက္ခရာ %d လုံး ပါရမည်</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">ဂဏန်း %d လုံးထက် နည်းရမည်</item>
+        <item quantity="one">ဂဏန်း %d လုံးထက် နည်းရမည်</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">ပင်နံပါတ်တွင် အနည်းဆုံး ဂဏန်း %d လုံး ပါရမည်</item>
+        <item quantity="one">ပင်နံပါတ်တွင် အနည်းဆုံး ဂဏန်း %d လုံး ပါရမည်</item>
+    </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">app %d ခုသည် သတိပေးချက်များကို ဖတ်နိုင်သည်</item>
         <item quantity="one">app %d ခုသည် သတိပေးချက်များကို ဖတ်နိုင်သည်</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">ပွင့်နေသော ယုံကြည်စိတ်ချရသည့် ကိုယ်စားလှယ် %d ခု</item>
-        <item quantity="one">ပွင့်နေသော ယုံကြည်စိတ်ချရသည့် ကိုယ်စားလှယ် ၁ ခု</item>
+        <item quantity="other">သတ်မှတ်အေးဂျင့် %d ဦး</item>
+        <item quantity="one">သတ်မှတ်အေးဂျင့် ၁ ဦး</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">အက်ပ် %1$d ခုသည် မှတ်ဉာဏ်ကို လွန်ခဲ့သော %2$s က သုံးခဲ့သည်</item>
@@ -152,9 +180,17 @@
         <item quantity="other">%s မိနစ်</item>
         <item quantity="one">၁ မိနစ်</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">ဆင်းမ်ကတ် %1$d ခု</item>
+        <item quantity="one">ဆင်းမ်ကတ် %1$d ခု</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">ကန့်သတ်ချက် %1$d ခု</item>
         <item quantity="one">ကန့်သတ်ချက် ၁ ခု</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">အကြောင်းကြားချက် ချန်နယ် %1$d ခု။</item>
+        <item quantity="one">အကြောင်းကြားချက် ချန်နယ် %1$d ခု။</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">အမျိုးအစား %d ခု</item>
@@ -168,9 +204,21 @@
         <item quantity="other">အမျိုးအစား %d ခုကို ပိတ်ထားသည်</item>
         <item quantity="one">အမျိုးအစား %d ခုကို ပိတ်ထားသည်</item>
     </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">တစ်နေ့လျှင် အကြောင်းကြားချက်~%d ခု</item>
+        <item quantity="one">တစ်နေ့လျှင် အကြောင်းကြားချက်~%d ခု</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">တစ်ပတ်လျှင် အကြောင်းကြားချက်~%d ခု</item>
+        <item quantity="one">တစ်ပတ်လျှင် အကြောင်းကြားချက်~%d ခု</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">ဖွင့်ထားသည့်အက်ပ် %d ခု</item>
         <item quantity="one">ဖွင့်ထားသည့်အက်ပ် %d ခု</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">အက်ပ် %s ခု</item>
+        <item quantity="one">အက်ပ် ၁ ခု</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">ခွင့်ပြုချက် %d ခုပေးထားသည်</item>
@@ -215,6 +263,10 @@
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">ဖျောက်ထားသည့် %d ခုကို ပြပါ</item>
         <item quantity="one">ဖျောက်ထားသည့် %d ခုကို ပြပါ</item>
+    </plurals>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">စက်ပစ္စည်း %1$d ခု ချိတ်ဆက်ထားသည်</item>
+        <item quantity="one">စက်ပစ္စည်း %1$d ခု ချိတ်ဆက်ထားသည်</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">သင်သည် ယခု ဆောဖ့်ဝဲရေးသားသူထံမှ %1$d အဆင့်အကွာအဝေးတွင် ရှိနေပါသည်။</item>
@@ -268,6 +320,14 @@
         <item quantity="other">ကွန်ရက် %d ခု</item>
         <item quantity="one">ကွန်ရက် ၁ ခု</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">ကွန်ရက်နှင့် စာရင်းသွင်းမှု %d ခု</item>
+        <item quantity="one">ကွန်ရက်နှင့် စာရင်းသွင်းမှု ၁ ခု</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">စာရင်းသွင်းမှု %d ခု</item>
+        <item quantity="one">စာရင်းသွင်းမှု ၁ ခု</item>
+    </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">စက် %1$d ခု ချိတ်ဆက်ထားသည်</item>
         <item quantity="one">စက် %1$d ခု ချိတ်ဆက်ထားသည်</item>
@@ -276,17 +336,21 @@
         <item quantity="other">ဆင်းမ်ကဒ်၏ ပင်နံပါတ် မှားနေပါသည်၊ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
         <item quantity="one">ဆင်းမ်ကဒ်၏ ပင်နံပါတ် မှားနေပါသည်၊ သင့်ကိရိယာကို ဖွင့်ရန် မိုဘိုင်းဖုန်းဆက်သွယ်ရေးဝန်ဆောင်မှုဌာနသို့ မဆက်သွယ်မီ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">"အက်ပ် %1$d ခုထံမှ အကြောင်းကြားချက်များသည် 'မနှောင့်ယှက်ရ' ကို အစားထိုးနိုင်သည်"</item>
+        <item quantity="one">"အက်ပ် ၁ ခုထံမှ အကြောင်းကြားချက်များသည် 'မနှောင့်ယှက်ရ' ကို အစားထိုးနိုင်သည်"</item>
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d နာရီ (အလိုအလျောက် ဖွင့်မထားလျှင်)</item>
-        <item quantity="one">၁ နာရီ (အလိုအလျောက် ဖွင့်မထားလျှင်)</item>
+        <item quantity="other">%d နာရီ</item>
+        <item quantity="one">၁ နာရီ</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">စည်းမျဉ်း %d ခု</item>
-        <item quantity="one">စည်းမျဉ်း ၁ ခု</item>
+        <item quantity="other">%d ခု ဖွင့်ထားသည်</item>
+        <item quantity="one">၁ ခု ဖွင့်ထားသည်</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">စည်းမျဉ်း %d ခုကို အလိုလိုဖွင့်နိုင်သည်</item>
-        <item quantity="one">စည်းမျဉ်း ၁ ခုကို အလိုလိုဖွင့်နိုင်သည်</item>
+        <item quantity="other">အချိန်ဇယား %d ခုကို အလိုအလျောက် ဖွင့်နိုင်သည်</item>
+        <item quantity="one">အချိန်ဇယား ၁ ခုကို အလိုအလျောက် ဖွင့်နိုင်သည်</item>
     </plurals>
     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
         <item quantity="other">အခြား %d ယောက်</item>

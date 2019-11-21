@@ -72,6 +72,10 @@
         <item quantity="other">%dနှစ်အတွင်း</item>
         <item quantity="one">%dနှစ်အတွင်း</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d ဖိုင်</item>
+        <item quantity="one">%1$s + %2$d ဖိုင်</item>
+    </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">%d စက္ကန့် အကြာတွင် ထပ်လုပ်ကြည့်ပါ</item>
         <item quantity="one">၁ စက္ကန့် အကြာတွင် ထပ်လုပ်ကြည့်ပါ</item>

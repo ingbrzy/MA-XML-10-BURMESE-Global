@@ -108,6 +108,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>ပိတ်ထားသည်</item>
+        <item>စစ်ထုတ်ထားသည်များကို ဖွင့်ထားသည်</item>
+        <item>ဖွင့်ထားသည်</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ထားသည့် အရောင်များ</item>
         <item>မျက်လုံးမှတွေ့ရသည့် သဘာဝအရောင်</item>
@@ -124,7 +129,7 @@
         <item>အရောင်ရောနှောသောဧရိယာများပြရန်</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>လော့ဂ်ကက်</item>
         <item>စနစ်ခြေရာခံခြင်း (ရုပ်ပုံများ)</item>
         <item>glGetError အမှားတက်လျှင်ခေါ်သောလုပ်ငန်းစဉ်</item>
@@ -140,7 +145,7 @@
         <item>အမြဲစစ်ဆေးရန်</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>480p</item>
         <item>480p (secure)</item>
         <item>720p</item>

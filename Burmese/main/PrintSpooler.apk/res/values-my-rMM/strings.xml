@@ -14,6 +14,7 @@
     <string name="collapse_handle">ခေါက်ရန် လက်</string>
     <string name="connectio_delay_content">ပရင်တာရှိ အင်တာနက်ချိတ်ဆက်မှုကို အတည်ပြုရန်လိုနိုင်သည်။</string>
     <string name="connectio_help_title">ပရင်တာကို ချိတ်နေသည်</string>
+    <string name="current_page_template">%1$d /%2$d</string>
     <string name="delete_saved_printer_content">ရွေးထားသောပရင်တာများကို ယခုဖျက်လိုပါသလား။</string>
     <string name="expand_handle">ချဲ့ရန် လက်</string>
     <string name="failed_notification_title_template">စာထုတ်စက်မှ အမှား %1$s</string>
@@ -53,7 +54,7 @@
     <string name="print_forget_printer">စာထုတ်စက်ကို မေ့လိုက်ရန်</string>
     <string name="print_help_label">အကူအညီ</string>
     <string name="print_help_tip">ဖုန်းနှင့် ပရင်တာနှစ်ခုစလုံးသည် Wi-Fi ကွန်ရက်တစ်ခုတည်းနှင့် ချိတ်ထားရမည် သို့မဟုတ် Wi-Fi တိုက်ရိုက်ကို ဖွင့်ထားရပါမည်။ %1$s။</string>
-    <string name="print_help_tip_reg">အကူအညီ ကို ကြည့်ရန်</string>
+    <string name="print_help_tip_reg">\"အကူအညီ\" ကို ကြည့်ရန်</string>
     <string name="print_no_printers">စာထုတ်စက် တစ်ခုမှ မတွေ့ရှိပါ</string>
     <string name="print_options_collapsed">ပရင့်ထုတ် ရွေးစရာများကို ခေါက်ထား</string>
     <string name="print_options_expanded">ပရင့်ထုတ် ရွေးစရာများကို ချဲ့ထား</string>

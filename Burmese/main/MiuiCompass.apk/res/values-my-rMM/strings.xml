@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="allow">ခွင့်ပြုမည်</string>
-    <string name="altitude">%.1f</string>
-    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">ပင်လယ်ပြင်ထက်အမြင့်</string>
     <string name="altitude_uncalibrate_cancel">ပယ်ဖျက်မည်</string>
     <string name="altitude_uncalibrate_msg">GPS သို့မဟုတ် မိုဘိုင်းဒေတာမပါဘဲ လတ္တီတွဒ်အား တိကျစွာ ချိန်ညှိ၍မရပါ</string>
     <string name="altitude_uncalibrate_refresh">နောက်တစ်ခါထပ်ကြိုးစားပါ</string>
     <string name="altitude_uncalibrate_tip">မချိန်ကိုက်ရသေးသော ဒေတာ</string>
     <string name="altitude_unit">မီတာ</string>
-    <string name="angle">%.0f</string>
     <string name="app_description_content">သံလိုက်အိမ်မြှောင်သည် သင့်အားလမ်းညွှန်နိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
     <string name="app_description_title">သံလိုက်အိမ်မြှောင်အကြောင်း</string>
     <string name="app_label">သံလိုက်အိမ်မြှောင်</string>
@@ -21,8 +18,8 @@
     <string name="calibrate_tip">စက်ဝန်းပတ်လည်တွင် ဘောလုံးလိမ့်နေစေရန်၊ သင့်ကိရိယာကို တိမ်းစောင်းပေးပါ</string>
     <string name="calibrate_title">သံလိုက်အိမ်မြှောင်ကို စံချိန်ကိုက်ညှိပါ</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
-    <string name="cannot_get_location">--</string>
     <string name="compass_settings">ဆက်တင်</string>
+    <string name="cta_v2_app_purpose">လမ်းညွှန်များ၊ မျက်နှာပြင်ဖိအားများ၊ လေထုဖိအားနှင့် လက်ရှိ ပင်လယ်ရေမျက်နှာပြင် အမြင့်တို့ကို ပြသခြင်း</string>
     <string name="dialog_body_no_network">Wi-Fi သို့ ချိတ်ဆက်ပါ သို့မဟုတ် မိုဘိုင်းဒေတာအား ဖွင့်ပါ။</string>
     <string name="dialog_calibrat_altitude">စံချိန်ကိုက်ညှိနေဆဲ…</string>
     <string name="dialog_title_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍မရပါ</string>
@@ -59,7 +56,6 @@
     <string name="permission_location_desc">မျက်နှာပြင်ဖိအားနှင့် လေထုဖိအား ပြသခြင်း</string>
     <string name="preference_other">အခြား</string>
     <string name="preference_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="pressure">%.1f</string>
     <string name="pressure_title">လေထုဖိအား</string>
     <string name="pressure_unit">လေထုဖိအားအမြင့်</string>
     <string name="shake_enter_tip">စံချိန်ကိုက်ညှိရန် လှုပ်ခါပါ</string>

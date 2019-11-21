@@ -51,6 +51,9 @@
     <plurals name="backup_pause_desc">
         <item quantity="other">%d မိနစ်အတွင်း ပြန်စပါမည်</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">ဓာတ်ပုံများ၊ ဗီဒီယိုများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားအရာများကို ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်းအား %d မိနစ် ရပ်ထားရန်။</item>
+    </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">ဓါတ်ပုံနှင့် ဗီဒီယို %1$d | %2$s</item>
     </plurals>
@@ -145,28 +148,28 @@
         <item quantity="other">%1$d ဖိုင်</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">အရန်သိမ်းရန် အိုင်တမ်%1$d ခုစောင့်နေ</item>
+        <item quantity="other">ဆင့်ခ်လုပ်ရန်အတွက် ဖိုင် %1$d ခု ရှိနေပါသည်</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">ဓါတ်ပုံ%1$dပုံ</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">အရန်သိမ်းရန် ဓါတ်ပုံ %1$d ပုံစောင့်နေ</item>
+        <item quantity="other">ဆင့်ခ်လုပ်ရန်အတွက် ဓာတ်ပုံ %1$d ပုံ ရှိနေပါသည်</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">ဓါတ်ပုံ %1$d ပုံအား အရန်သိမ်းဆည်းနေ…</item>
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံကို ဆင့်ခ်လုပ်နေပါသည်…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">အိုင်တမ် %1$d ခုအရန်သိမ်းနေ…</item>
+        <item quantity="other">ဖိုင် %1$d ခုကို ဆင့်ခ်လုပ်နေပါသည်…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">ဗီဒီယို %1$d ခုအား အရန်သိမ်းဆည်းနေ…</item>
+        <item quantity="other">ဗီဒီယို %1$d ခုကို ဆင့်ခ်လုပ်နေပါသည်…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">ဗီဒီယို %1$d ခု</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">အရန်သိမ်းရန် ဗီဒီယို %1$d ခုစောင့်နေ</item>
+        <item quantity="other">ဆင့်ခ်လုပ်ရန်အတွက် ဗီဒီယို %1$d ခု ရှိနေပါသည်</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">စုစုပေါင်း အိုင်တမ် %1$d ခု</item>

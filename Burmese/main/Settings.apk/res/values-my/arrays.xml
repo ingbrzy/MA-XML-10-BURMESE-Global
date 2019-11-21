@@ -59,7 +59,7 @@
         <item>ဆက်တင်များ ပြင်ဆင်ရန်</item>
         <item>အပေါ်မှ ဆွဲရန်</item>
         <item>အကြောင်းကြားချက်များအား အသုံးပြုခွင့်</item>
-        <item>ကင်မရာ</item>
+        <item>Camera</item>
         <item>အသံဖမ်းရန်</item>
         <item>အသံဖွင့်ရန်</item>
         <item>နောက်ခံမှတ်တမ်း ဖတ်ရန်</item>
@@ -174,10 +174,15 @@
         <item>အများဆုံးလုပ်ငန်းစဉ်(၃)ခု</item>
         <item>အများဆုံးလုပ်ငန်းစဉ်(၄)ခု</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>ပိတ်ထားသည်</item>
+        <item>အမှားရှာပြင်ခြင်း</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
-        <item>ရက်ပေါင်း ၃၀ ထက်ကျော်နေပါပြီ</item>
-        <item>ရက်ပေါင်း ၆၀ ထက်ကျော်နေပါပြီ</item>
-        <item>ရက်ပေါင်း ၉၀ ထက်ကျော်နေပါပြီ</item>
+        <item>ရက်ပေါင်း ၃၀ ထက်ကျော်သော</item>
+        <item>ရက်ပေါင်း ၆၀ ထက်ကျော်သော</item>
+        <item>ရက်ပေါင်း ၉၀ ထက်ကျော်သော</item>
     </string-array>
     <string-array name="battery_labels">
         <item>၀%</item>
@@ -302,6 +307,11 @@
         <item>၁ နာရီ</item>
         <item>ဘယ်တော့မှ ပိတ်မပစ်ရန်</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>ပိတ်ထားသည်</item>
+        <item>စစ်ထုတ်ထားသည်များကို ဖွင့်ထားသည်</item>
+        <item>ဖွင့်ထားသည်</item>
+    </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>ပုံသေ</item>
         <item>မရှိ</item>
@@ -342,6 +352,14 @@
         <item>Cursiv</item>
         <item>စာလုံးကြီး ဆိုဒ်သေးများ</item>
     </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>အိမ်ကိုသာ</item>
+        <item>အလိုအလျောက်</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ထားသည့် အရောင်များ</item>
         <item>မျက်လုံးမှတွေ့ရသည့် သဘာဝအရောင်</item>
@@ -361,9 +379,8 @@
         <item>အနီ</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>အလိုအလျောက် (တစ်နေ့တာ၏ အချိန်အပေါ် မူတည်သည်)</item>
-        <item>အမြဲတမ်း ဖွင့်ထားခြင်း</item>
-        <item>အမြဲပိတ်ခြင်း</item>
+        <item>အမှောင်</item>
+        <item>အလင်း</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>နောက်ဆုံး ရက် ၃၀</item>
@@ -384,14 +401,8 @@
         <item>၁၀ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
     </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>လော့ဂ်ကက်</item>
         <item>စနစ်ခြေရာခံခြင်း (ရုပ်ပုံများ)</item>
         <item>glGetError အမှားတက်လျှင်ခေါ်သောလုပ်ငန်းစဉ်</item>
@@ -429,14 +440,14 @@
         <item>အရှည်</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
         <item>ICCID</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>480p</item>
         <item>480p (secure)</item>
         <item>720p</item>
@@ -449,6 +460,36 @@
         <item>4K (upscaled, secure)</item>
         <item>720p, 1080p (dual screen)</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA သုံးလိုပါသည်</item>
+        <item>GSM သာ</item>
+        <item>WCDMA သာ</item>
+        <item>GSM/WCDMA အလိုအလျောက်ပြောင်းရန်</item>
+        <item>CDMA/EvDo အလိုအလျောက်ပြောင်းရန်</item>
+        <item>EvDo မပါသည့် CDMA</item>
+        <item>EvDo သာ</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>ကမ္ဘာအနှံ့</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>TDSCDMA သာ</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>ကမ္ဘာအနှံ့</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
     <string-array name="proc_stats_memory_states">
         <item>ပုံမှန်</item>
         <item>အတော်အသင့်</item>
@@ -460,7 +501,7 @@
         <item>အသုံး အများဆုံး</item>
         <item>အရေးကြီး (ရှေ့ပိုင်း)</item>
         <item>အရေးကြီး (နောက်ခံ)</item>
-        <item>ဘက်အာပ်</item>
+        <item>အရန်သိမ်းရန်</item>
         <item>အထူး ကြီးလေး</item>
         <item>ဝန်ဆောင်မှု (ဖွင့်ထား)</item>
         <item>ဝန်ဆောင်မှု (ပြန်ဖွင့်နေ)</item>
@@ -531,6 +572,10 @@
         <item>စတုဂံမဟုတ်သော ဖောက်ရန်အပိုင်းကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
         <item>စမ်းသပ်ထားသော ပုံဆွဲရန်ညွှန်ကြားချက်များကို အစိမ်းရောင်ဖြင့် အသားပေး ဖော်ပြပါ</item>
     </string-array>
+    <string-array name="swipe_direction_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>အမေရိကား</item>
         <item>ဥရောပ</item>
@@ -578,6 +623,10 @@
         <item>အသံ ရင်းမြစ်</item>
         <item>MIDI</item>
     </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>မရှိ</item>
+        <item>ကိုယ်တိုင်</item>
+    </string-array>
     <string-array name="vpn_states">
         <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
         <item>စတင်နေသည်</item>
@@ -594,11 +643,6 @@
         <item>အသိအမှတ်ပြုလက်မှတ်နှင့်Xauthစစ်မှန်ကြောင်းပါရှိသောIPSec VPN</item>
         <item>အသိအမှတ်ပြုလက်မှတ်များနှင့် ရောနှောထားတဲ့ စစ်မှန်ကြောင်းပါရှိသောIPSec VPN</item>
     </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>ဝိုင်ဖိုင်အား ပိုနှစ်သက်သော</item>
-        <item>မိုဘိုင်းကို အသုံးပြုလိုပါသည်</item>
-        <item>ကြိုးမဲ့အင်တာနက် သာလျှင်</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>မိုဘိုင်း</item>
@@ -608,33 +652,11 @@
         <item>Wi-Fi</item>
         <item>မိုဘိုင်း</item>
     </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Wi-Fi ကိုပိုနှစ်စက်သည်</item>
-        <item>မိုဘိုင်းကို အသုံးပြုလိုပါသည်</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>၂</item>
-        <item>၁</item>
-        <item>၀</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>၂</item>
-        <item>၁</item>
-    </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAPနည်းလမ်း</item>
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>No</item>
@@ -662,7 +684,7 @@
         <item>ဤစက်မှပင်နံပါတ်</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -675,21 +697,25 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>ကျပန်း MAC ကို အသုံးပြုရန် (မူရင်း)</item>
+        <item>ကိရိယာ၏ MAC သုံးရန်</item>
+    </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>တစ်ခုမျှ မဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>ကိုယ်တိုင်ထည့်သွင်းခြင်း</item>
         <item>ပရောက်စီ အော်တို-စီစဉ်</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>ညံ့သည်</item>
         <item>ညံ့သည်</item>
-        <item>အတင့်အသင့်</item>
+        <item>အတန်အသင့်</item>
         <item>ကောင်းသည်</item>
         <item>အလွန်ကောင်းသည်</item>
     </string-array>
@@ -720,10 +746,6 @@
         <item>မအောင်မြင်ပါ</item>
         <item>ပိတ်ထားသည်</item>
         <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
-    </string-array>
-    <string-array name="wifi_tether_security_values">
-        <item>4</item>
-        <item>0</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>

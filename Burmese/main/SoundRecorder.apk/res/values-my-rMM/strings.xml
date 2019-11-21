@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">အားလုံး</string>
     <string name="call_record_list_group_connected">ချိတ်ဆက်ထားသော</string>
     <string name="call_record_list_group_unconnected">ချိတ်ဆက်မထားပါ</string>
+    <string name="cancel_rename">ဖျက်သိမ်းရန်</string>
     <string name="clear_records">ဆင့်ခ်မှတ်တမ်းများအား ဖျက်ပါ</string>
     <string name="cloud_record_open">မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်လုပ်နေ</string>
     <string name="cloud_record_tip">သွင်းထားသောအသံဖိုင်များကို Xiaomi Cloud အသုံးပြု၍ ဆင့်ခ်လုပ်မည်</string>
@@ -73,6 +74,7 @@
     <string name="korea_permission_record_resc">အသံဖမ်းနိုင်ရန် အတွက်</string>
     <string name="korea_permission_storage">သိုလှောင်ခန်း</string>
     <string name="korea_permission_storage_desc">အသံသွင်းမှုအား သိမ်းဆည်းနိုင်ရန် အတွက်</string>
+    <string name="loading_more">ခဏစောင့်ပါ…</string>
     <string name="loading_order_list">ခဏစောင့်ပါ…</string>
     <string name="loading_order_list_empty">အော်ဒါ မရှိပါ။</string>
     <string name="low_battery_error">ဘက်ထရီ 5% ထက်နည်းနေသည်။ သင်မှတ်တမ်းတင်မှုအား မဆုံးရှုံးရအောင် ရပ်ပြီး သိမ်းလိုက်ပါ။</string>
@@ -105,7 +107,6 @@
     <string name="online_recognize_duration_limite">(၁၀ မိနစ်မှ စတွက်မည်)</string>
     <string name="online_recognize_fail">ကူးပြောင်း၍ မရပါ</string>
     <string name="online_recognize_login_fail">ဆိုင်းအင်ဝင်၍ မရပါ</string>
-    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">ဆိုင်းအင်၀င်ပါ</string>
     <string name="online_recognize_order_duration_key">ကြာချိန်</string>
     <string name="online_recognize_order_pay">ရလဒ်ကြည့်ရန် ပေးချေပါ</string>
@@ -121,11 +122,11 @@
     <string name="online_recognize_order_upload">အတည်ပြု၍ အပ်လုဒ်တင်မည်</string>
     <string name="online_recognize_order_uploading">အပ်လုဒ်တင်နေသည် %s…</string>
     <string name="online_recognize_other_order_upload">လက်ရှိ အပ်လုဒ်များ ပြီးသည်အထိ စောင့်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="online_recognize_progress">စာသားသို့ ကူးပြောင်းနေသည် %s…</string>
     <string name="online_recognize_running">စာသားသို့ ကူးပြောင်းနေသည်</string>
     <string name="online_recognize_service_unavailable">ဝန်ဆောင်မှု မရရှိနိုင်ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="order_item_duration">ကြာချိန်- %s</string>
     <string name="order_item_number">အော်ဒါ နံပါတ်- %s</string>
-    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">စနစ်အက်ပ်များ/မှတ်တမ်းတင်သူ</string>
     <string name="pause">တန့်ရပ်ပါ</string>
     <string name="pay_error_cancel">ပေးချေမှုအား ပယ်ဖျက်ခဲ့သည်</string>
@@ -190,15 +191,12 @@
     <string name="record_format_preference_title">မှတ်တမ်းတင် ဖောမတ်</string>
     <string name="record_list">အသံဖမ်းယူမှုများ</string>
     <string name="record_list_call">အသံဖမ်းထားသော ခေါ်ဖုန်းများ</string>
-    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">အသံဖမ်းယူမှုများကို ဆင့်ခ်လုပ်ထားသည်</string>
     <string name="record_list_cloud_call">အသံဖမ်းယူထားသော ခေါ်ဖုန်းများကို ဆင့်ခ်လုပ်ထားသည်</string>
     <string name="record_list_cloud_fm">FM အသံဖမ်းယူမှုများကို ဆင့်ခ်လုပ်ထားသည်</string>
     <string name="record_list_fm">FM အသံဖမ်းယူမှုများ</string>
     <string name="record_list_item_recognize_text">စာသား</string>
     <string name="record_mark_point">အမှတ် %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">အသံဖမ်း အရည်အသွေး</string>
     <string name="record_resotre">အသံသွင်းမှု ပြန်လည်ရယူပါ</string>
     <string name="recording">အသံဖမ်းယူခြင်း</string>
@@ -225,7 +223,9 @@
     <string name="retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="runtime_permission_ungranted">မှတ်တမ်းတင်သူအား အာမခံမရှိသော ခွင့်ပြုချက်များကြောင့် အသုံးပြု၍မရနိုင်ပါ</string>
     <string name="search_app">ရီကော်တာ</string>
+    <string name="search_empty">ရလဒ်များ ရှာမတွေ့ပါ</string>
     <string name="search_enable_earpiece_title">အော်ဒီယိုဖွင့်ရန် အသံလက်ခံကိရိယာကို သုံးပါ</string>
+    <string name="search_hint">ရှာဖွေမည်</string>
     <string name="search_led_indicator">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
     <string name="search_led_indicator_prompt">အသံဖမ်းယူနေစဥ်၊ အခြေအနေပြ ဘားတန်တွင် ပြစေပြီး၊ သော့ခတ်မျက်နှာပြင်မှ အကြောင်းကြားစာမီးပွင့်ကို တန့်ရပ်ပါ</string>
     <string name="search_quliaty_title">အသံဖမ်း အရည်အသွေး</string>
@@ -261,9 +261,6 @@
     <string name="text_play_speed_1_0">ပုံမှန် အမြန်နှုန်ူး</string>
     <string name="text_play_speed_1_5">အမြန်နှုန်ူး ၁.၅ ဆ</string>
     <string name="text_play_speed_2_0">အမြန်နှုန်ူး ၂ ဆ</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s က %2$s အကြာခန့် အသံဖမ်းယူနိုင်သည်</string>
     <string name="toast_uninstall_fileexplorer">ဖိုင်မန်နေဂျာအား မထည့်သွင်းရသေးပါ</string>
     <string name="usage_description">ကလောက်ဖြင့် အသံကို စာပြန်ရိုက်ခြင်းနှင့် အရာဝတ္ထုများ ဆင့်(ခ်)လုပ်ခြင်း</string>

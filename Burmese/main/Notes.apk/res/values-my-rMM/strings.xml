@@ -23,6 +23,8 @@
     <string name="app_notification_info">မှတ်စုများ နောက်ခံ၌ အလုပ်လုပ်နေသည်</string>
     <string name="app_widget">မှတ်စု</string>
     <string name="application_icon">အက်ပ်အိုင်ကွန်</string>
+    <string name="audio_create_normal_state">ပြုလုပ်ရန် လက်လွှတ်ပါ။ ဖျက်သိမ်းရန် အပေါ်သို့ ဆွဲပါ။</string>
+    <string name="audio_create_will_cancel_state">ဖျက်သိမ်းရန် လက်လွှတ်ပါ</string>
     <string name="audio_panel_time_counter_default">၀၀:၀၀</string>
     <string name="audio_toast_file_invalid">အသံဖိုင်များ တရားမဝင်ပါ</string>
     <string name="audio_toast_file_undownload">အသံဖိုင်အား ဒေါင်းလုဒ်အပြည့် မဆွဲထားပါ သို့မဟုတ် ပျောက်ဆုံးနေသည်</string>
@@ -40,9 +42,6 @@
     <string name="cta_dialog_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="cta_reminder">မှတ်စုမှ ပုံမှန် အလုပ်လုပ်နိုင်ရန် အင်တာနက် ချိတ်ဆက်ခြင်း၊ အသံသွင်းခြင်းနှင့် တည်နေရာ ရယူခြင်းတို့အတွက် ခွင့်ပြုချက် လိုအပ်သည်။ ခွင့်ပြုမလား?</string>
     <string name="date_calculate_today">၀ ရက်</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_time_picker_alarm_reminder">နှိုးစက်</string>
     <string name="date_time_picker_dialog_title">အချိန်နှင့် ရက်စွဲ သတ်မှတ်ပါ</string>
     <string name="date_time_picker_has_not_set_alarm">နှိုးစက် မသတ်မှတ်ရသေးပါ</string>
@@ -89,8 +88,6 @@
     <string name="error_widget_exist_for_send_to_desktop">ဒီမှတ်ချက်က သင်၏ အိမ်မျက်နှာပြင်ပေါ်၌ ရှိနေပြီးသားဖြစ်သည်</string>
     <string name="exceed_todo_text_limitation">လုပ်ငန်းစဥ်ဖော်ပြချက် ရှည်လွန်းသည်။</string>
     <string name="first_enter_custom_folder_hint">ဤနေရာတွင် ဖိုလ်ဒါများအား အမည်ပြန်ပေးခြင်း သို့မဟုတ် ဖျက်ပစ်ခြင်းများ ဆောင်ရွက်နိုင်ပါသည်</string>
-    <string name="fmt_chinese_date">N e</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">အမည်တူသော ဖိုင်တစ်ခု ရှိနေပြီးသား ဖြစ်သည်</string>
     <string name="folder_operation_delete">ဖျက်ပစ်မည်</string>
     <string name="folder_operation_rename">အမည်ပြန်ပေးမည်</string>
@@ -130,6 +127,10 @@
     <string name="menu_todo_show_finished_todo">ပြီးဆုံးသော လုပ်ငန်းစဥ်များအား ပြသပါ</string>
     <string name="menu_unhide">ဖော်ပါ</string>
     <string name="menu_unstick">ဆွဲဖြုတ်ပါ</string>
+    <string name="new_audio_create_cancel_talkback_des">ဖျက်သိမ်းပြီးပါပြီ</string>
+    <string name="new_audio_create_done_talkback_des">လုပ်ပြီးပါပြီ</string>
+    <string name="new_audio_create_guide_tip">အသံမှတ်စုပြုလုပ်ရန် ဖိပြီးနှိပ်ထားပါ</string>
+    <string name="new_audio_create_talkback_des">စာသားမှတ်စုပြုလုပ်ရန် တို့ပါ။ အသံမှတ်စုပြုလုပ်ရန် ဖိပြီးနှိပ်ထားပါ။ အသံသွင်းခြင်းကိုရပ်ပြီး မှတ်စုပြုလုပ်ရန် ခလုတ်ကို လက်လွှတ်ပါ၊ ဖျက်သိမ်းရန် အပေါ်သို့ဆွဲပါ။</string>
     <string name="not_now">အခု မဟုတ်ပါ</string>
     <string name="note_description_content">မှတ်စုအက်(ပ်)သည် သင့်စိတ်ကူးများကို မှတ်တမ်းထားရှိရန် အသင့်တော်ဆုံးဖြစ်သည်။ ၎င်းတွင် အသိပေးချက်ဝန်ဆောင်မှုများ အသင့်ပါရှိပြီး သင့်မှတ်စုများကို ကလောက်နှင့် ဆင့်(ခ်)လုပ်သောကြောင့် အချိန်နေရာမရွေး ဝင်သုံးနိုင်သည်။ အက်(ပ်)ကို မဖျက်မီ ၎င်းဝန်ဆောင်မှုများ မရှိဘဲနေနိုင်ကြောင်းသေချာပါစေ။</string>
     <string name="note_description_title">မှတ်စုအကြောင်း</string>
@@ -165,6 +166,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">အမြန် ဖျက်နည်း</string>
     <string name="pref_title_todo_float_mode">လုပ်ငန်းစဥ် ကိရိယာဘောက်စ် သုံးပါ</string>
     <string name="pref_title_todo_shorcut">ကိရိယာဘောက်စ်</string>
+    <string name="privacy_note_content_empty">ဤနေရာတွင်မည်သည့်အရာမျှ မရှိသေးပါ။</string>
     <string name="recover_notes_hint">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့သည်၊ i.mi.com သို့သွား၍ မှတ်စုများအား ပြန်လည်ရယူပါ။</string>
     <string name="redo">ပြန်လုပ်</string>
     <string name="refuse_to_open_as_pic_because_of_loading">မှတ်ချက် လုဒ်တင်ပြီးသည်အထိစောင့်၍ ပြန်ကြိုးစားကြည့်ပါ။</string>
@@ -284,8 +286,6 @@
     <string name="todo_module_name">လုပ်ငန်းစဥ်</string>
     <string name="todo_notify_alarm_title">လုပ်ငန်းစဥ် သတိပေးချက်</string>
     <string name="todo_schedule_time_expired">" (သက်တမ်းကုန်လွန်သော)"</string>
-    <string name="todo_schedule_time_for_picker_hm">H mm</string>
-    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_today">ယနေ့</string>

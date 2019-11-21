@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d ရက်</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">ရည်မှန်းချက် - ခြေလှမ်း %1$d လှမ်း</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">"  လှမ်း"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d ရက် ဓမ္မတာ</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d လှမ်း</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">သင် မမှတ်သားသည်မှာ %1$d ရက်ရှိပါပြီ။ လာချိန်များကိုပိုမိုတိကျစွာ ခန့်မှန်းနိုင်ရန် ဓမ္မတာများကို မှတ်ထားပါ။</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">ဤဓမ္မတာသည် စုစုပေါင်း %1$d ရက် ကြာသည်</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">ဤဓမ္မတာစက်ဝန်း၏ %1$d မြောက်နေ့</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d ရက် စက်ဝန်း</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d ကြိမ်</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">ဓမ္မတာ၏ %1$d ရက်မြောက်နေ့</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">နောက်တစ်ကြိမ် ဓမ္မတာလာရန် %1$d လိုသည်</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">ဓမ္မတာလာရန် ခန့်မှန်းရက် - %1$d</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">"  ရက်"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">အသက် %1$d နှစ်</item>
+    </plurals>
+</resources>

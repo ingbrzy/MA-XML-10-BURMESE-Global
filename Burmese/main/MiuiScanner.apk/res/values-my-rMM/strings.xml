@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Approval">လျှောက်ထားမည်</string>
+    <string name="Xiaomi_account_pending_approval">လျှောက်ထားမှုကို သုံးသပ်နေသည်</string>
     <string name="about_title">အကြောင်း</string>
     <string name="access_sd_fail">SD ကဒ်ကို ရယူသုံးစွဲ၍ မရပါ။</string>
     <string name="accessibility_shutter_button">ရှတ္တာ</string>
@@ -30,6 +32,7 @@
     <string name="call_anyone">ဖုန်းခေါ်မည်</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="check_for_updates">အစမ်းသုံးဗားရှင်းအတွက် အပ်ဒိတ်များကို စစ်ကြည့်ပါ</string>
     <string name="choose_open_code_app">အက်(ပ်)တစ်ခု ရွေးပါ</string>
     <string name="choose_pay_title">ငွေပေးချေမှု နည်းလမ်း ရွေးပါ</string>
     <string name="choose_picture">QR ကုဒ်ပုံအား ရွေးချယ်ပါ</string>
@@ -43,6 +46,7 @@
     <string name="contact_details">QR ကုဒ်အကြောင်းအရာ−</string>
     <string name="continue_access_web_url">ဝက်ဘ်ဆိုက်သို့သွားပါ</string>
     <string name="continue_to_website">ဝက်ဘ်ဆိုက်သို့သွားပါ</string>
+    <string name="continue_waiting">ဆက်လက်စောင့်ဆိုင်းမည်</string>
     <string name="copy_text">စာကို ကူးပါ</string>
     <string name="copy_text_success">စာသားကို ကော်ပီကူးထားသည်</string>
     <string name="crop_cancel_description">ပယ်ဖျက်မည်</string>
@@ -67,6 +71,8 @@
     <string name="document_title">ဖိုင်စု၏ ပုံတစ်ပုံရိုက်ထည့်ပါ</string>
     <string name="document_top_panel_title">ဖိုင်စုဓါတ်ပုံ</string>
     <string name="done">ပြီးပြီ</string>
+    <string name="download_stable_version">တည်ငြိမ်သောဗားရှင်းကို အသုံးပြုမည်</string>
+    <string name="download_use_stable_version">တည်ငြိမ်သောဗားရှင်းကို ဒေါင်းလုတ်ရယူမည်</string>
     <string name="drag_barcode_into_frame">ကုဒ်ကို ခွင်ကျစေရန် ဘောင်ကို ဆွဲလိုက်ပါ</string>
     <string name="drag_crop_to_business_card">ဖြတ်ထုတ်ဘောင်သို့ ရွှေ့ပါ</string>
     <string name="email">အီးမေးလ်-</string>
@@ -77,11 +83,28 @@
     <string name="error_media_storage_failure">ဓါတ်ပုံအား မသိမ်းဆည်းနိုင်ခဲ့ပါ</string>
     <string name="error_permissions">စကန်နာသည် ပုံမှန်အလုပ်လုပ်ဆောင်ရန် လိုအပ်သော ခွင့်ပြုချက်မရှိပါ။ ဆက်တင်များသို့သွား၍ ခွင့်ပြုချက်များအား စစ်ဆေးကြည့်ပါ။</string>
     <string name="error_server_error">ဆာဗာ မှားယွင်းမှုတစ်ခု ဖြစ်ပွားသည်။</string>
+    <string name="experience_new_feature_tips">အစမ်းသုံးဗားရှင်းအသုံးပြုရန် ခွင့်ပြုချက်များကို လျှောက်ထားရန်အတွက် သင့် Mi အကောင့်အတွင်းသို့ ဆိုင်းအင်ဝင်ပါ။ သင့်လျှောက်ထားမှုကို ကျွန်ုပ်တို့ ပြန်လည်သုံးသပ်ပြီးနောက်တွင် အစမ်းသုံးဗားရှင်းကို သင်အသုံးပြုနိုင်ပါမည်။ အစမ်းသုံးဗားရှင်းတွင် ချွတ်ယွင်းမှုများ ပါဝင်နိုင်ပါသည်။</string>
+    <string name="experience_new_features">အစမ်းသုံးဗားရှင်း</string>
+    <string name="experiential_version_of_the_prompt_content">Scanner Beta သုံးခွင့်ရရန်အတွက် သင်၏ Mi အကောင့်အတွင်းသို့ ဆိုင်းအင်ဝင်ပါ။ ယခုပင် ဆိုင်းအင်ဝင်မလား။</string>
+    <string name="failed_to_get_xiaomi_account">ဆိုင်းအင်ဝင်လို့ မရပါ</string>
     <string name="fax">ဖက်စ်</string>
     <string name="feed_search_fail">ရလဒ်မရှိပါ၊ ပြန်လုပ်ကြည့်ပါ</string>
+    <string name="feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="feedback_description_camera_access">ကင်မရာသို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="feedback_description_save_photo">ဓါတ်ပုံသို့ ဗီဒီယိုအား မသိမ်းဆည်းနိုင်ခဲ့ပါ</string>
+    <string name="feedback_title">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="flight_mode_connecting_to_wifi">လေယာဉ်မုဒ် ဖွင့်ထားစဥ် Wi-Fi ကို ကိုယ်တိုင်ဖွင့်ရန်</string>
+    <string name="food_identification_fail_tips">သစ်သီး၊ ဟင်းသီးဟင်းရွက်များနှင့် အခြားအစားအစာများကို စကန်ဖတ်ပါ။ ဤအင်္ဂါရပ်သည် ဓာတ်ပုံဖြင့်လည်း စကန်ဖတ်သည်။</string>
+    <string name="food_identification_tip_msg">အစားအစာကို စိစစ်နေသည်…</string>
+    <string name="food_make_complaints_hint">ဤနေရာတွင် တုံ့ပြန်အကြံပြုချက်ထည့်ပါ</string>
+    <string name="food_module_feedback_str">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="food_module_get_more_info">နောက်ထပ် အချက်အလက်များ</string>
+    <string name="food_module_identification_failure">ဤအရာကို မသိပါ</string>
+    <string name="food_module_send_feedback">ပို့ရန်</string>
+    <string name="food_module_step_on">မကြိုက်ပါ</string>
+    <string name="food_module_thumbs_up">ကြိုက်သည်</string>
+    <string name="food_module_tip">အစားအစာကို ဘောင်အတွင်း၌ နေရာချပါ</string>
+    <string name="food_module_title_food">ကယ်လိုရီ</string>
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gps">ဂျီပီအက်စ် လမ်းညွှန်</string>
     <string name="import_contact">အဆက်အသွယ်ကိုထည့်ပါ</string>
@@ -116,6 +139,8 @@
     <string name="name">အမည်−</string>
     <string name="new_schedule">အချိန်ဇယား အသစ် ဖန်တီးမည်</string>
     <string name="nickname">အမည်ပြောင်−</string>
+    <string name="no_has_experience_version_permission">Scanner Beta အသုံးပြုရန် ခွင့်ပြုချက်များ သင့်တွင်မရှိပါ။ တည်ငြိမ်သောဗားရှင်းအတွက် ခွင့်ပြုချက်များ ရယူရန် သို့မဟုတ် ဒေါင်းလုတ်ရယူရန် လျှောက်ထားပါ။</string>
+    <string name="no_inner_version">အစမ်းသုံးဗားရှင်းကို မရနိုင်သေးပါ</string>
     <string name="no_network">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="no_storage">အတွင်းသိုလှောင်မှု မရှိ</string>
     <string name="no_support_to_translate_type">ဤဘာသာစကားကို မပံ့ပိုးထားပါ</string>
@@ -136,9 +161,11 @@
     <string name="plant_title">သင် ခွဲခြားဖော်ထုတ်လိုသော အပင်အား စကန်ဖတ်ပါ</string>
     <string name="preparing_sd">အတွင်းသိုလှောင်မှုအား ပြင်ဆင်နေ…</string>
     <string name="previous">နောက်သို့</string>
+    <string name="prompt">သတိပြုရန်</string>
     <string name="qr_code_details">QR ကုဒ် အသေးစိတ်များ−</string>
     <string name="recognize">စကန်</string>
     <string name="recognize_fail">ကုဒ်ဖတ်လို့ မရပါ</string>
+    <string name="request_server_failed">ဆာဗာသို့ချိတ်ဆက်၍ မရခဲ့ပါ</string>
     <string name="scan_result">ရလဒ်</string>
     <string name="scan_support_type">WeChat၊ Alipay၊ QR ကုဒ်၊ ဘား ကုဒ်</string>
     <string name="sdk_not_ready">SDK ပြင်ဆင်နေသည်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
@@ -163,6 +190,7 @@
     <string name="study_searching">ရလဒ်များအား ရှာဖွေနေသည်…</string>
     <string name="study_title">ဖြေရှင်းလိုသော မေးခွန်းအား စကန်ဖတ်ပါ</string>
     <string name="study_vendor_info">Zuoyebang မှ ပံ့ပိုးသည်</string>
+    <string name="suggested_submission_success">သင့်တုံ့ပြန်အကြံပြုချက်ကို အောင်မြင်စွာ တင်ပြီးပါပြီ</string>
     <string name="switch_open">ဖွင့်ပါ</string>
     <string name="tel">ဖုန်း</string>
     <string name="title">ဂုဏ်ရာထူး−</string>
@@ -198,6 +226,7 @@
     <string name="translation_see_more">ဖွင့်ဆိုချက်အား ကြည့်ပါ</string>
     <string name="translation_type_sentence">စကားစု</string>
     <string name="translation_type_word">Word ဖိုင်</string>
+    <string name="uninstall_prompt">တပ်ဆင်နေစဉ် အခက်အခဲ ကြုံတွေ့ရပါက ဆက်တင်များ > အက်ပ်များ > အက်ပ်များကို စီမံရန် > Scanner သို့သွား၍ \"ဖြုတ်ချမည်\" ကို တို့နှိပ်ပြီး အပ်ပ်ကို နောက်တစ်ကြိမ် ပြန်လည်တပ်ဆင်ရန် ကြိုးစားကြည့်ပါ။</string>
     <string name="url_is_phish">ငါးမြှားဝက်ဘ်ဆိုက်တစ်ခု ဖြစ်နိုင်ပါသည်</string>
     <string name="url_is_safety">ဤဝက်ဘ်ဆိုက်က လုံခြုံစိတ်ချရသည်။</string>
     <string name="url_is_unknown">ဤဝက်ဘ်ဆိုက်အား လုံခြုံမှုရှိမရှိ စစ်ဆေး၍မရပါ</string>
@@ -206,6 +235,7 @@
     <string name="web">ဝက်ဘ်ဆိုက်−</string>
     <string name="website_details">ဝက်ဘ်ဆိုက်−</string>
     <string name="weixin_code_tip">WeChatဖြင့် ဤQR ကုဒ်အား စကန်ဖတ်မည်</string>
+    <string name="welcome_to_thesweepversion">Scanner Beta မှ ကြိုဆိုပါသည်။</string>
     <string name="wifi_details">Wi-Fi</string>
     <string name="wifi_exist_fail">ဟော့စပေါ့ \"%1$s\" ရှိထားပြီးဖြစ်သည်။ ချိတ်ဆက်ရန်အတွက် ၎င်းကို ဖျက်ပြီး ကုဒ်ကို စကန်ပြန်ဖတ်ပါ။</string>
     <string name="wifi_open_fail">Wi-Fi ဖွင့်၍မရနိုင်ခဲ့ပါ</string>
@@ -213,5 +243,9 @@
     <string name="wifi_pwd">စကားဝှက်−</string>
     <string name="wifi_security">လုံခြုံမှု−</string>
     <string name="wifi_ssid">SSID:</string>
+    <string name="will_be_sent_tothe_background_review">" (သင့်လျှောက်ထားမှုကို သုံးသပ်ရန်အတွက် မကြာမီ ပေးပို့သွားပါမည်။)"</string>
     <string name="wx_not_installed_toast">ဤဝန်ဆောင်မှုက WeChat သုံးရန်လိုအပ်သည်။ WeChat ကို ဦးစွာထည့်ပါ။</string>
+    <string name="you_have_permission_to_download">အစမ်းသုံးဗားရှင်းကို ဒေါင်းလုတ်ရယူရန် တို့နှိပ်ပါ</string>
+    <string name="you_id">"သင့် ID - "</string>
+    <string name="your_application_is_under_review">" (သင့်လျှောက်ထားမှုကို ပြန်လည်သုံးသပ်နေပါသည်။)"</string>
 </resources>
