@@ -80,7 +80,6 @@
     <string name="date_interval_tab">ကြားပိုင်း</string>
     <string name="date_interval_text_to">သို့ %1$s</string>
     <string name="date_jump_title">လိုသောနေ့အထိ ကျော်ပါ</string>
-    <string name="date_time_fmt">%1$s၊ %2$s</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="day_view_new_event_hint">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="default_reminder_later_time">နဂိုသတ်မှတ်ထားသော \"နောက်မှ သတိပေးပါ\" အချိန်</string>
