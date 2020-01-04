@@ -41,5 +41,4 @@
     <string name="download_queued">တန်းစီထားသည်</string>
     <string name="download_running">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="download_error">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
-    <string name="download_running_percent">ဒေါင်းလုဒ်လုပ်နေသည်- %s</string>
 </resources>
