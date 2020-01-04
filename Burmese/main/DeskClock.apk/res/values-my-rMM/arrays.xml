@@ -52,6 +52,17 @@
         <item>၂၅ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>တနင်္လာမှ သောကြာအထိ</item>
+        <item>နေ့စဥ်နေ့တိုင်း</item>
+        <item>ရုံးဖွင့်ရက်များ</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>နေ့စဥ်နေ့တိုင်း</item>
+        <item>တနင်္လာမှ သောကြာအထိ</item>
+        <item>ရုံးဖွင့်ရက်များ</item>
+        <item>ထုံးစံအတိုင်း</item>
+    </string-array>
     <string-array name="cities_names_miui">
         <item>အဘစ်ဂျန်</item>
         <item>အက်ကရာ</item>
@@ -633,6 +644,22 @@
         <item>ဆူရာနမ်</item>
         <item>အီကွေဒေါ</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>တနင်္ဂနွေ</item>
+        <item>တနင်္လာ</item>
+        <item>အင်္ဂါ</item>
+        <item>ဗုဒ္ဓဟူး</item>
+        <item>ကြာသပတေး</item>
+        <item>သောကြာ</item>
+        <item>စနေ</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>သတ်မှတ်ထားသောအချိန်တွင်</item>
+        <item>၁၅ မိနစ် ကြိုတင်၍</item>
+        <item>မိနစ် ၃၀ ကြိုတင်၍</item>
+        <item>၁ နာရီ ကြိတင်၍</item>
+        <item>တစ်ခုမျှမရှိ</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>၁ မိနစ်</item>
         <item>၅ မိနစ်</item>
@@ -641,6 +668,15 @@
         <item>၂၀ မိနစ်</item>
         <item>၂၅ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
     </string-array>
     <string-array name="time">
         <item>%1$s</item>
@@ -664,5 +700,10 @@
         <item>ဘာမှမလုပ်</item>
         <item>တစ်မှေးအိပ်</item>
         <item>ရပ်နား</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

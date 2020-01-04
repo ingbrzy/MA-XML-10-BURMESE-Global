@@ -11,5 +11,6 @@
     <string name="pop_up_allow_notify_dialog">ခွင့်ပြုမည်</string>
     <string name="pop_up_deny_notify_dialog">ငြင်းပယ်မည်</string>
     <string name="sync_notification_title_format">လက်ရှိဟန်ချက်ညီညီလုပ်ဆောင်နေသည့်အမျိုးအစား-%1$s</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">XMSF အသက်သွင်းသတင်းအချက်အလက်</string>
 </resources>

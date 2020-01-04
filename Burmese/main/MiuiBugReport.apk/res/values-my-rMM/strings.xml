@@ -82,6 +82,7 @@
     <string name="err_type_system_summary">မှတ်ဉာဏ်၊ စွမ်းဆောင်ရည်၊ စသည်ဖြင့်</string>
     <string name="err_type_systemapp">MIUI အက်ပ်များ</string>
     <string name="err_type_translate">ဘာသာစကား</string>
+    <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_xiaomi_family">Mi အိမ်</string>
     <string name="err_type_xiaomi_service">ဖောက်သည်အတွက် ဝန်ဆောင်မှု</string>
     <string name="error_no_connection">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရနိုင်ခဲ့ပါ</string>
@@ -187,6 +188,7 @@
     <string name="feedback_version_label">ဗားရှင်း</string>
     <string name="feesback_list">အစီရင်ခံပါ</string>
     <string name="first_position">၂#</string>
+    <string name="floor">%1$s#</string>
     <string name="from">%1$s မှ</string>
     <string name="goon_feedback_main">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="hint_feedback_main">အကြောင်းကိစ္စ ဖော်ပြပါ</string>
@@ -217,6 +219,7 @@
     <string name="mi_service_dialog_content">တုံ့ပြန်အကြံပြုချက်အင်္ဂါရပ်အားလုံးကို \"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" အက်(ပ်)သို့ ရွှေ့ထားပါသည်။ တုံ့ပြန်အကြံပြုချက် အက်(ပ်)ကို သင့်ပင်မစာမျက်နှာမှ ဖျက်လိုက်ပါမည်။ \"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို စမ်းသုံးရန် \"ဖွင့်ရန်\" ကို တို့ပါ။</string>
     <string name="mi_service_dialog_title">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို မိတ်ဆက်ခြင်း</string>
     <string name="michat_app_name">အွန်းလိုင်းထောက်ပံ့မှု</string>
+    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">400 hotline သို့ခေါ်ဆို၍မနိုင်ပါက၊ အခြားဖုန်းနှင့် %1$sအား ခေါ်ဆိုပါ</string>
     <string name="michat_artificial_customer_text">တစ်ဦးချင်း ထောက်ပံ့</string>
     <string name="michat_attach_image">ရုပ်ပုံ</string>
@@ -322,6 +325,7 @@
     <string name="network_unavailable_dialog_content">သင့်ရီပို့ကို သင့်၌ ဒေတာချိတ်ဆက်မှုတစ်ခု ရှိလာချိန်မှာ ပို့ပါလိမ့်မည်။</string>
     <string name="network_unavailable_dialog_title">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="non_system_app_select">ဒေါင်းလုဒ်လုပ်ထာသော အက်ပ်များ</string>
+    <string name="nothing">--</string>
     <string name="open_feedback_main">နောက်ထပ်</string>
     <string name="packaging_dialog_content">ရီပို့ ဖန်တီးနေဆဲ…</string>
     <string name="passport_access_denied">ဝင်သုံးစွဲခွင့်ကို ငြင်းပယ်ထားသည်</string>
@@ -359,6 +363,7 @@
     <string name="passport_error_device_id">စက်ရဲ့ id မရရှိနိုင်ပါ</string>
     <string name="passport_error_dup_email">သင်ရိုက်သွင်းလိုက်သော အီးမေးလ်မှာ အ ခြားအကောင့်တစ်ခုနှင့် ချိတ်ဆက်ပြီးဖြစ်ပါသည်။</string>
     <string name="passport_error_email">သင်ထည့်သွင်းသော အီးမေးလ်လိပ်စာသည် မမှန်ကန်ပါ</string>
+    <string name="passport_error_empty_captcha_code">Enter captcha</string>
     <string name="passport_error_empty_email">သင်၏အီးမေးလ်လိပ်စာကို ထည့်သွင်းပါ</string>
     <string name="passport_error_empty_phone_num">ဖုန်းနံပါတ်ထည့်သွင်းပါ</string>
     <string name="passport_error_empty_pwd">သင့် စကားဝှက်ကိုထည့်သွင်းပါ</string>
@@ -452,6 +457,7 @@
     <string name="passport_send_too_many_code">အတည်ပြုကုဒ် အများအပြားကို ဒီနံပါတ်သို့ ပို့ထားသည်။ ၂၄ နာရီခန့် စောင့်ပြီးနောက်၊ ထပ်ကြိုးစားပါ။</string>
     <string name="passport_setting">သတ်မှတ်နေ…</string>
     <string name="passport_skip_login">ကျော်</string>
+    <string name="passport_skip_register">Skip sign-up</string>
     <string name="passport_skip_setup_account_msg">ကြိုတင်ပြင်ဆင်ချက်များမှာ Mi အကောင့်ကို မကြာမီ သတ်မှတ်တည်ဆောက်နိုင်သည်။</string>
     <string name="passport_skip_setup_account_title">သတ်မှတ်ဖွဲ့စည်းမှုကို ကျော်ပါ</string>
     <string name="passport_title_reg">အကောင့်တစ်ခု ဖန်တီးပါ</string>
@@ -477,6 +483,7 @@
     <string name="passport_wrong_phone_number_format">သင်ထည့်သွင်းခဲ့သော ဖုန်းနံပါတ်ဖွဲ့စည်းမှုပုံစံ မမှန်ကန်ပါ</string>
     <string name="passport_wrong_vcode">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">အမှားလော့များနှင့်အတူ သင့်တုံ့ပြန်ချက်အား Mi ဆာဗာသို့ ပေးပို့ပါလိမ့်မည်။</string>
     <string name="plus_one_submit_dialog_not_show_again">ဦးစားပေးချက်ကို မှတ်ထားပါ</string>
     <string name="post_miui_bbs_failed">MIUI ဖိုရမ်သို့ ပို့စ်မတင်နိုင်ခဲ့ပါ</string>

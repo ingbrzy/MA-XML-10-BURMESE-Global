@@ -25,6 +25,8 @@
     <string name="notification_fold_summary">အရေးမကြီးသော အသိပေးချက် အားလုံးကို သီးခြား ဖိုလ်ဒါ တစ်ခုတွင် ထည့်ထားမည်။</string>
     <string name="notification_fold_title">အသိပေးချက် ဖိုလ်ဒါ</string>
     <string name="notification_manager">အက်ပ် အသိပေးချက်များ</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
     <string name="off">ပိတ်မည်</string>
     <string name="on">ဖွင့်မည်</string>
     <string name="settings_guide_title">အခြား ဆက်တင်များ လိုအပ်ပါသလား?</string>

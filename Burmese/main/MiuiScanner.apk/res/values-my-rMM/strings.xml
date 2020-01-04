@@ -32,6 +32,13 @@
     <string name="call_anyone">ဖုန်းခေါ်မည်</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="carsHome_title">ကား</string>
+    <string name="cars_is_public">စတင်ဆောင်ရွက်ပြီးပါပြီ</string>
+    <string name="cars_no_public">စတင်ဆောင်ရွက်ရခြင်း မရှိသေးပါ</string>
+    <string name="cars_solution">"ဖြေရှင်းချက် - "</string>
+    <string name="cars_suitability">"တူရာတွဲမည် - "</string>
+    <string name="cars_title">ကားတစ်စီး သို့မဟုတ် ကားအစိတ်အပိုင်းတစ်ခုကို စကန်ဖတ်မည်</string>
+    <string name="carshome_data">နည်းပညာ အကူအညီအား Autohome Inc. က ဖော်ဆောင်ပေးထားသည်။</string>
     <string name="check_for_updates">အစမ်းသုံးဗားရှင်းအတွက် အပ်ဒိတ်များကို စစ်ကြည့်ပါ</string>
     <string name="choose_open_code_app">အက်(ပ်)တစ်ခု ရွေးပါ</string>
     <string name="choose_pay_title">ငွေပေးချေမှု နည်းလမ်း ရွေးပါ</string>
@@ -49,6 +56,7 @@
     <string name="continue_waiting">ဆက်လက်စောင့်ဆိုင်းမည်</string>
     <string name="copy_text">စာကို ကူးပါ</string>
     <string name="copy_text_success">စာသားကို ကော်ပီကူးထားသည်</string>
+    <string name="copy_tracknum">ခြေရာခံစောင့်ကြည့်ရေးကုဒ်နံပါတ်ကို ကူးယူမည်</string>
     <string name="crop_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="crop_done_description">ပြီးပြီ</string>
     <string name="crop_title_study">ဓာတ်ပုံ ဖြတ်ထုတ်ပါ</string>
@@ -108,10 +116,12 @@
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gps">ဂျီပီအက်စ် လမ်းညွှန်</string>
     <string name="import_contact">အဆက်အသွယ်ကိုထည့်ပါ</string>
-    <string name="impunity_declaration_content">ဤအက်(ပ်)သုံးစဉ်က ရိုက်ထားသော ပုံများကို အသုံးပြုရန်အတွက် စကန်နာသည် သင့်ကင်မရာကို သုံးရပါမည်။ သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များပါဝင်သော အရာများကို စကန်နာသုံးပြီး မရိုက်ပါနှင့်။ \"သဘောတူသည်\" ကို တို့ခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> ကို လက်ခံပြီး စကန်နာကို အင်တာနက်ချိတ်ခွင့် ပေးရာရောက်ပါသည်။</string>
+    <string name="impunity_declaration_content">စကန်နာသည် သင့်ကင်မရာကို အသုံးပြုရန် လိုအပ်သကဲ့သို့ ဤအက်ပ်ကို အသုံးပြုစဉ်က ရိုက်ထားသော ပုံများကို စီမံရန်လည်း လိုအပ်ပါသည်။ သင့်ကိုယ်ရေးအချက်အလက်များပါဝင်သော အရာများကို စကန်နာသုံးပြီး မရိုက်ပါနှင့်။ \"သဘောတူသည်\" ကို တို့နှိပ်ခြင်းအားဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> ကို လက်ခံပြီး စကန်နာကို အင်တာနက်ချိတ်ခွင့် ပေးရာရောက်ပါသည်။</string>
     <string name="impunity_declaration_negative_text">ထွက်</string>
     <string name="impunity_declaration_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="jd_shopping_title">JD တွင် ရှာရန်</string>
+    <string name="jingdong">JD</string>
+    <string name="kuaidi100_data">Kuaidi 100 က ပံ့ပိုးပေးထားသည်</string>
     <string name="label_choose_picture">ပုံ ရွေးပါ</string>
     <string name="label_flash_light">ဖလက်ရှ်မီး</string>
     <string name="language_entry_chinese_cn">တရုတ်စာအသစ်</string>
@@ -121,6 +131,7 @@
     <string name="language_entry_japanese">ဂျပန်လူမျိုး</string>
     <string name="language_entry_korean">ကိုရီးယားလူမျိုး</string>
     <string name="language_entry_spanish">စပိန်လူမျိုး</string>
+    <string name="logistics">အမြန်ပို့ဆောင်မှု</string>
     <string name="low_version_tip">စကန်နာအား အသုံးပြုနိုင်ရန် MIUI အား နောက်ဆုံးပေါ်ဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။</string>
     <string name="miracast_connect">ကာစ်တ်လုပ်မည်</string>
     <string name="miracast_connect_fail">ကာစ်တ်လုပ်၍ မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -129,6 +140,7 @@
     <string name="miracast_message">%s သို့ ကာစ်တ်လုပ်မလား?</string>
     <string name="miracast_switch_off">ကြိုးမဲ့ပြသမှုအား ပိတ်ထားသည်</string>
     <string name="miracast_switch_tip">ဤအင်္ဂါရပ်ကိုသုံးရန် ကြိုးမဲ့ပြသမှုကို ဖွင့်ပါ</string>
+    <string name="mishop">Mi စတိုး</string>
     <string name="module_title_business_card">လိပ်စာကဒ်</string>
     <string name="module_title_code">QR ကုဒ်</string>
     <string name="module_title_document">စာရွက်စာတမ်း</string>
@@ -147,6 +159,7 @@
     <string name="not_insert_contact">အဆက်အသွယ် ထည့်လို့မရပါ</string>
     <string name="not_recommend_access_web_url">အမည်သို့မဆိုသွားပါ</string>
     <string name="note">မှတ်ချက်−</string>
+    <string name="now_state">"လက်ရှိ အခြေအနေ − "</string>
     <string name="once">တစ်ကြိမ်သာ</string>
     <string name="open_url">URL ဖွင့်ပါ</string>
     <string name="pay_no_tip">နောက်ထပ် မပြပါနှင့်</string>
@@ -159,10 +172,16 @@
     <string name="plant_reg_fail_2">ဤအရာအား အသိအမှတ်ပြု၍ မရပါ။ အပင်ကိုသာ စကန်ဖတ်နိုင်သည်။</string>
     <string name="plant_support">" (နည်းပညာပိုင်းဆိုင်ရာ ပံ့ပိုးမှု)"</string>
     <string name="plant_title">သင် ခွဲခြားဖော်ထုတ်လိုသော အပင်အား စကန်ဖတ်ပါ</string>
+    <string name="please_try_again_later">ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="preparing_sd">အတွင်းသိုလှောင်မှုအား ပြင်ဆင်နေ…</string>
     <string name="previous">နောက်သို့</string>
     <string name="prompt">သတိပြုရန်</string>
     <string name="qr_code_details">QR ကုဒ် အသေးစိတ်များ−</string>
+    <string name="queryNum">မှာယူမှုကို စစ်ဆေးမည်</string>
+    <string name="query_faile">မှာယူမှု အခြေအနေနှင့် အသေးစိတ်အချက်အလက်များကို ဆင့်ခ်မလုပ်ရသေးပါ။ သင့်မှာယူမှုအား သင်ကိုယ်တိုင် စစ်ဆေးလိုက်ပါ။</string>
+    <string name="query_inai">Mi AI အား သင့်ကို ကူညီခွင့်ပေးလိုက်ပါ</string>
+    <string name="query_more">နောက်ထပ် အချက်အလက်များ</string>
+    <string name="query_tracknum">အမြန်ပို့ရန် မှာယူမှုကို စစ်ဆေးမည်</string>
     <string name="recognize">စကန်</string>
     <string name="recognize_fail">ကုဒ်ဖတ်လို့ မရပါ</string>
     <string name="request_server_failed">ဆာဗာသို့ချိတ်ဆက်၍ မရခဲ့ပါ</string>
@@ -171,6 +190,7 @@
     <string name="sdk_not_ready">SDK ပြင်ဆင်နေသည်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
     <string name="secure_access_web_url">ဝက်ဘ်ဆိုက်သို့သွားပါ</string>
     <string name="see_app_details">အက်ပ်အသေးစိတ် ကြည့်ရှုရန်</string>
+    <string name="see_details">အသေးစိတ်ကြည့်ရန် ထိနှိပ်ပါ</string>
     <string name="select_dialog_confirm">အိုကေ</string>
     <string name="send_mail">အီးမေးလ် ပို့ပါ</string>
     <string name="setting_alipay">Alipay</string>
@@ -185,6 +205,13 @@
     <string name="shopping_title">ကုန်ပစ္စည်း၏ပုံအား ရိုက်ယူပါ</string>
     <string name="shopping_vendor_info">Taobao မှအားဖြည့်ထားသော</string>
     <string name="spaceIsLow_content">အတွင်းပိုင်းသိုလှောင်ခန်း နေရာမလုံလောက်ပါ။ နေရာတစ်ချို့အား ရှင်းလင်းပါ။</string>
+    <string name="store_feedback_prompt">ဦးစွာ တုံ့ပြန်အကြံပြုချက်ထည့်ပါ။</string>
+    <string name="store_location_dialog">ဤဝန်ဆောင်မှုကို Dianping မှ ဆောင်ရွက်ပေးပါသည်။ စတိုးဆိုင်ရာ အချက်အလက်များရနိုင်ရန်အတွက် သက်ဆိုင်ရာ တည်နေရာအချက်အလက်များအပါအဝင် ဤဝန်ဆောင်မှုသုံးစဉ် ရိုက်ထားသော ဓာတ်ပုံအားလုံးကို Dianping နှင့် မျှဝေပါမည်။</string>
+    <string name="store_location_fail">တည်နေရာအချက်အလက် မရရှိနိုင်ပါ</string>
+    <string name="store_location_prompt">စတိုးများကို ခွဲခြားသိနိုင်ရန် စကန်နာအား သင့်တည်နေရာကို ဖတ်ခွင့်ပြုပါ</string>
+    <string name="store_module_title">စတိုး</string>
+    <string name="store_no_date">စတိုးကို ခွဲခြားမသိပါ</string>
+    <string name="store_title">စတိုးသင်္ကေတရှာပါ</string>
     <string name="study_rotate_picture">ဓာတ်ပုံအား ဖန်တီးနေသည်…</string>
     <string name="study_scan_result">အဖြေ</string>
     <string name="study_searching">ရလဒ်များအား ရှာဖွေနေသည်…</string>
@@ -192,6 +219,7 @@
     <string name="study_vendor_info">Zuoyebang မှ ပံ့ပိုးသည်</string>
     <string name="suggested_submission_success">သင့်တုံ့ပြန်အကြံပြုချက်ကို အောင်မြင်စွာ တင်ပြီးပါပြီ</string>
     <string name="switch_open">ဖွင့်ပါ</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">ဖုန်း</string>
     <string name="title">ဂုဏ်ရာထူး−</string>
     <string name="to_install_title">ဤ QR ကုဒ်မှတစ်ဆင့် ထည့်မထားသော အက်(ပ်)များထံသို့ ရောက်သွားပါမည်။ ဤအက်(ပ်)ကို ယခု ဒေါင်းလုဒ်လုပ်လိုသလား။</string>
@@ -232,6 +260,7 @@
     <string name="url_is_unknown">ဤဝက်ဘ်ဆိုက်အား လုံခြုံမှုရှိမရှိ စစ်ဆေး၍မရပါ</string>
     <string name="url_is_unsafety">ဤဝက်ဘ်ဆိုက်မှာ မလုံခြုံပါ</string>
     <string name="vender_info_translation_kingsoft">Kingsoft မှအားဖြည့်ထားသော</string>
+    <string name="waybill_num">"မှာယူမှု −  "</string>
     <string name="web">ဝက်ဘ်ဆိုက်−</string>
     <string name="website_details">ဝက်ဘ်ဆိုက်−</string>
     <string name="weixin_code_tip">WeChatဖြင့် ဤQR ကုဒ်အား စကန်ဖတ်မည်</string>
@@ -245,6 +274,8 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (သင့်လျှောက်ထားမှုကို သုံးသပ်ရန်အတွက် မကြာမီ ပေးပို့သွားပါမည်။)"</string>
     <string name="wx_not_installed_toast">ဤဝန်ဆောင်မှုက WeChat သုံးရန်လိုအပ်သည်။ WeChat ကို ဦးစွာထည့်ပါ။</string>
+    <string name="xiaoai_dialog">"သင်
+စကန်ဖတ်လိုသောအရာအား Mi AI သို့ ပြောပြရန် ကြိုးစားကြည့်ပါ"</string>
     <string name="you_have_permission_to_download">အစမ်းသုံးဗားရှင်းကို ဒေါင်းလုတ်ရယူရန် တို့နှိပ်ပါ</string>
     <string name="you_id">"သင့် ID - "</string>
     <string name="your_application_is_under_review">" (သင့်လျှောက်ထားမှုကို ပြန်လည်သုံးသပ်နေပါသည်။)"</string>

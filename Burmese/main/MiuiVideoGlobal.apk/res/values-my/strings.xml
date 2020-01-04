@@ -43,6 +43,7 @@
     <string name="cast_forward">အရှေ့သို့ရစ်ပါ</string>
     <string name="cast_forward_10">အရှေ့သို့ ဆယ်စက္ကန့် ရစ်ပါ</string>
     <string name="cast_forward_30">အရှေ့သို့ စက္ကန့်သုံးဆယ် ရစ်ပါ</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">အသံပိတ်ပါ</string>
     <string name="cast_notification_connected_message">%1$s သို့ ချိတ်ဆက်ပြီးပါပြီ</string>
     <string name="cast_notification_connecting_message">%1$s သို့ချိတ်ဆက်နေသည်</string>
@@ -116,6 +117,7 @@
     <string name="exo_track_surround_5_point_1">5.1 ပတ်လည် အသံစနစ်</string>
     <string name="exo_track_surround_7_point_1">7.1 ပတ်လည် အသံစနစ်</string>
     <string name="exo_track_unknown">အမည်မသိ</string>
+    <string name="fcm_fallback_notification_channel_label">အထွေထွေ</string>
     <string name="mr_button_content_description">ကာစ်တ်လုပ်ရန် ခလုတ်</string>
     <string name="mr_cast_button_connected">ကာစ်ခလုတ်။ ချိတ်ဆက်ထားသည်</string>
     <string name="mr_cast_button_connecting">ကာစ်ခလုတ်။ ချိတ်ဆက်နေသည်</string>
@@ -145,4 +147,5 @@
     <string name="s6">ကြော်ငြာအား ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းခွင့် ပြုပါသလား။</string>
     <string name="s7">စမ်းသပ်ကြော်ငြာ</string>
     <string name="search_menu_title">ရှာဖွေပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
 </resources>

@@ -52,6 +52,10 @@
 "</item>
         <item>အဝင်ပုံး</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>အားလုံး</item>
+        <item>ပေးပို့သူများသာ</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>လိပ်စာ−</item>
         <item>တယ်လီဖုန်း−</item>

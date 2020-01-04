@@ -79,6 +79,27 @@
     <string name="collect_diagnosis_log">မှတ်တမ်းများ စုဆောင်းမည်</string>
     <string name="com_permission_desc">Mi ဗီဒီယိုသည် သင်၏စက်ထဲရှိ ဗီဒီယိုများသို့ ဝင်ရောက်၍ မရပါ။ ဆက်တင်သို့သွား၍ ဝင်ရောက်ခွင့်ပြုပါ။</string>
     <string name="com_permission_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
+    <string name="comment_model_add_comment">မှတ်ချက်ရေးရန်</string>
+    <string name="comment_model_bg_add_comment">သင့်အမြင်ကို ကျွန်ုပ်တို့ ကွန်မြူနတီတွင် မျှဝေပါ</string>
+    <string name="comment_model_bg_deleted_comment">ဤမှတ်ချက်ကို ဖျက်ထားသည်</string>
+    <string name="comment_model_comment">မှတ်ချက်များ</string>
+    <string name="comment_model_confirm_delete">မှတ်ချက်ကို ယခုဖျက်လိုသလား။</string>
+    <string name="comment_model_copy">ကူးယူရန်</string>
+    <string name="comment_model_copy_fail">ကူးယူမရပါ</string>
+    <string name="comment_model_copy_success">အောင်မြင်စွာ ကူးယူပြီးပါပြီ</string>
+    <string name="comment_model_delete">ဖျက်ရန်</string>
+    <string name="comment_model_delete_fail">ဖျက်မရပါ</string>
+    <string name="comment_model_delete_success">အောင်မြင်စွာ ဖျက်လိုက်ပါပြီ</string>
+    <string name="comment_model_reply">ပြန်စာများ</string>
+    <string name="comment_model_reply_comment">"%s ကို ပြန်ဖြေရန် -  "</string>
+    <string name="comment_model_report">တိုင်ကြားရန်</string>
+    <string name="comment_model_report_fail">တိုင်ကြားမရပါ</string>
+    <string name="comment_model_report_success">အောင်မြင်စွာ တိုင်ကြားပြီးပါပြီ</string>
+    <string name="comment_model_send_fail">ပို့မရပါ</string>
+    <string name="comment_model_send_fail_frequently">အမြန်မလုပ်ပါနှင့်။ တစ်မိနစ်၊ နှစ်မိနစ် စောင့်ပြီးမှ ပြန်လုပ်ပါ။</string>
+    <string name="comment_model_send_forbid_desc">သင်သည် ကျွန်ုပ်တို့၏ ကွန်မြူနတီ စံနှုန်းများကို ချိုးဖောက်သည့် အရာများပါဝင်သော မှတ်ချက်အမြောက်အမြား တင်ထားသည်။ ယခုအခါ သင့်အကောင့်ကို ရာသက်ပန် ရပ်ဆိုင်းလိုက်ပါပြီ။ ကျွန်ုပ်တို့၏ ဆုံးဖြတ်ချက်အပေါ် ကျေနပ်မှုမရှိပါက အက်(ပ်)၌ပါသော တုံ့ပြန်အကြံပြုချက်ကို သုံးပြီး မေတ္တာရပ်ခံနိုင်သည်။</string>
+    <string name="comment_model_send_forbid_tips">အကောင့်ရပ်ဆိုင်းထားသည်</string>
+    <string name="comment_model_send_success">အောင်မြင်စွာ ပို့ပြီးပါပြီ</string>
     <string name="common_cancel">ပယ်ဖျက်မည်</string>
     <string name="confirm_activate_email">အတည်ပြုပြီးပါပြီ</string>
     <string name="confirm_bundled_phone_dialog_title">ဆက်စပ်ဖုန်းနံပါတ်ကို အတည်ပြုပါ</string>
@@ -92,7 +113,7 @@
     <string name="diagnosis_log_sent_format">"မှတ်တမ်းများကို အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ။
 ID -
 ကြီးကြပ်သူထံ ဤကုဒ်ကို ပေးပို့မည်။"</string>
-    <string name="dialog_privacy_info_new2">%1$s ၏ဝန်ဆောင်မှုများကို သုံးနိုင်ရန်အတွက် ၎င်းက သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူဆောင်ရွက် အသုံးပြုမည်ဖြစ်ကြောင်း သဘောတူရပါမည်။ အောက်ပါ \"သဘောတူသည်\" ကို တို့ခြင်းအားဖြင့် သင်သည်ကျွန်ုပ်တို့၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။</string>
+    <string name="dialog_privacy_info_new2">%1$s ၏ဝန်ဆောင်မှုများကို သုံးနိုင်ရန်အတွက် ၎င်းက သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူဆောင်ရွက် အသုံးပြုမည်ဖြစ်ကြောင်း သဘောတူရပါမည်။ အောက်ပါ \"သဘောတူသည်\" ကို တို့ခြင်းအားဖြင့် သင်သည်ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။</string>
     <string name="dialog_privacy_title">ခွင့်ပြုချက်</string>
     <string name="dialog_revoke_privacy_info_new2">ခွင့်ပြုချက်ရုတ်သိမ်းပြီးပါက အက်(ပ်)သည် ဒေတာကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး အခြား သက်ဆိုင်ရာဒေတာများကို ကျွန်ုပ်တို့၏ ဆာဗာများမှ ဖျက်လိုက်ပါမည်။ ဤလုပ်ရပ်ကြောင့် အက်(ပ်)ကို သုံး၍ ရတော့မည်မဟုတ်ပါ။ ခွင့်ပြုချက်ကို မဖြစ်မနေ ရုတ်သိမ်းလိုပါသလား။</string>
     <string name="dialog_revoke_privacy_title">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းနေသည်</string>
@@ -292,7 +313,7 @@ ID -
     <string name="lv_subtitle_onlinesub_loading">စာတန်းများကို ရယူနေသည်…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">စာတန်းများကို ရယူနေသည်…</string>
     <string name="lv_subtitle_onlinesub_right_declare">မသက်ဆိုင်ကြောင်းရှင်းလင်းချက်</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">စာတန်းများကို &lt;br/>&lt;br/> &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>မှ ရယူပါ။ &lt;br/>&lt;br/>အွန်လိုင်းစာတန်းအားလုံးကို &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>မှ ပံ့ပိုးသည်။</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">စာတန်းများကို &lt;br/>&lt;br/> &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>မှ ရယူပါ။ &lt;br/>&lt;br/>အွန်လိုင်းစာတန်းအားလုံးကို &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>မှ ပံ့ပိုးသည်။</string>
     <string name="lv_subtitle_onlinesub_save_failed">စာတန်း မပေါင်းထည့်နိုင်ပါ</string>
     <string name="lv_subtitle_onlinesub_save_success">စာတန်းများကို ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="lv_subtitle_onlinesub_search_keyword">အဓိကစာလုံး ရိုက်ထည့်ပြီး ရှာဖွေပါ</string>
@@ -341,8 +362,15 @@ ID -
     <string name="no_recommend_data">အကြံပြုလိုသော ဗီဒီယိုများ မရှိသေးပါ</string>
     <string name="no_subscriptions">ဤနေရာတွင် အိုင်တမ်မရှိပါ</string>
     <string name="not_show">နောက်ထပ် မပြပါနှင့်</string>
+    <string name="notice_comment_action">%s ဦးက သင့်ပို့တွင် မှတ်ချက်ပေးထားသည်</string>
+    <string name="notice_comment_action_deleted">ဤမှတ်ချက်ကို ဖျက်ထားသည်</string>
+    <string name="notice_feedback_content">သင့်တုံ့ပြန်အကြံပြုချက်အပေါ် အသစ်တက်လာသည်။ ကြည့်ရှုရန် တို့ပါ။</string>
+    <string name="notice_like_action">%s ဦးက သင့်မှတ်ချက်ကို လိုက်(ခ်)လုပ်ထားသည်</string>
+    <string name="notice_message_title">အသိပေးချက်များ</string>
+    <string name="notice_title">မက်ဆေ့(ချ်)များ</string>
     <string name="notify_apk_installed">အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="ok">အိုကေ</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="ovp_alert_dialog_download_install_task">HD ပလက်အင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
@@ -350,6 +378,7 @@ ID -
     <string name="ovp_category">အမျိုးအစား</string>
     <string name="ovp_confirm_delete_favor">ရွေးထားသော အိုင်တမ်များကို အကြိုက်ဆုံးများမှ ဖယ်ရှားမလား?</string>
     <string name="ovp_default_plugin_name">HD ပလက်အင်</string>
+    <string name="ovp_detail_back_to_watch_more">ပင်မစာမျက်နှာပေါ်တွင် နောက်ထပ်အိုင်တမ်များကို ရှာဖွေလိုက်ပါ</string>
     <string name="ovp_detail_collapse_summary">ဝှက်ထားပါ</string>
     <string name="ovp_detail_collect">အကြိုက်ဆုံးသို့ ပေါင်းထည့်မည်</string>
     <string name="ovp_detail_comment">မှတ်ချက်</string>
@@ -392,12 +421,14 @@ ID -
     <string name="ovp_loading_video_netplay_label_v5">ခဏစောင့်ပါ…</string>
     <string name="ovp_local_videos_title">ဖုန်းထဲရှိ ဗီဒီယို</string>
     <string name="ovp_navigation_category">အမျိုးအစား</string>
+    <string name="ovp_navigation_content">အကြောင်းအရာပိုင်းဆိုင်ရာ ပူးပေါင်းဆောင်ရွက်မှု</string>
     <string name="ovp_navigation_favorites">နှစ်သက်သည်များ</string>
     <string name="ovp_navigation_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="ovp_navigation_history">သမိုင်း</string>
     <string name="ovp_navigation_home">အိမ်</string>
     <string name="ovp_navigation_language">ဘာသာစကား</string>
     <string name="ovp_navigation_localvideo">ဖုန်းထဲရှိ ဗီဒီယို</string>
+    <string name="ovp_navigation_notice">သတိပေးချက်များ</string>
     <string name="ovp_navigation_setting">ဆက်တင်</string>
     <string name="ovp_navigation_subscribe">စာရင်းသွင်းခြင်း</string>
     <string name="ovp_player_plugin_dlg_neg_btn">ပိတ်မည်</string>
@@ -505,8 +536,8 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="passport_unknow_error">အမည်မသိသော ချို့ယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="passport_unknow_host_network_error">ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="passport_unknow_network_error">ကွန်ယက်ချို့ယွင်းမှု ဖြစ်ပေါ်ခဲ့သည်</string>
-    <string name="passport_user_agreement_link">&lt;Data>ကျွန်ုပ်သည် Xiaomi ၏ &lt;a href=%1$s>သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=%2$s>ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>ကျွန်ုပ်သည် အောက်ဖော်ပြပါ မှတ်တမ်းများ ဖြစ်ကြသော Xiaomi ၏ &lt;a href=%1$s>သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=%4$s>ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>ကျွန်ုပ်သည် Xiaomi ၏ &lt;a href=\"%1$s\">သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>ကျွန်ုပ်သည် အောက်ဖော်ပြပါ မှတ်တမ်းများ ဖြစ်ကြသော Xiaomi ၏ &lt;a href=\"%1$s\">သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%4$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
     <string name="passport_user_id_intro">%1$s အတွက် စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="passport_v_code_error">အတည်ပြုကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_vcode_notification_title">သင်၏ အကောင့်ဝင်ရန် အတည်ပြုမှု မပြီးသေးပါ</string>
@@ -543,6 +574,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="playlist_title">ဖွင့်စာရင်း</string>
     <string name="plus_add_shortcut">ပင်မမျက်နှာပြင် ဖြတ်လမ်းဖိုင် ပြုလုပ်ရန်</string>
     <string name="plus_change_poster">အယ်လ်ဘမ်မျက်နှာဖုံး ပြောင်းရန်</string>
+    <string name="plus_continue_watching">ဆက်ကြည့်မည်</string>
     <string name="plus_deleting_wait">ဖျက်နေသည်</string>
     <string name="plus_fallback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="plus_gallery_allvideos">ဗီဒီယို အားလုံး</string>
@@ -561,6 +593,12 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="plus_gallery_video_title_mediatype">ဗီဒီယိုအမျိုးအစားများ</string>
     <string name="plus_gallery_video_title_othergallery">အခြားဗီဒီယိုများ</string>
     <string name="plus_loading_text">အကြောင်းအရာများ တင်နေသည်…</string>
+    <string name="plus_menu_delete">ဖျက်ပစ်မည်</string>
+    <string name="plus_menu_delete_popup_text">ယခုပင် ဖျက်ပစ်မလား။</string>
+    <string name="plus_menu_properties">ဂုဏ်သတ္တိများ</string>
+    <string name="plus_menu_rename">အမည်ပြန်ပေးမည်</string>
+    <string name="plus_menu_rename_fail">ဖိုင်အမည်တွင် \"/\" မပါရပါ</string>
+    <string name="plus_menu_share">မျှဝေမည်</string>
     <string name="plus_mine_gallery">ကျွန်ုပ်အယ်လ်ဘမ်များ</string>
     <string name="plus_mine_videos">ကျွန်ုပ်ဗီဒီယိုများ</string>
     <string name="plus_player_8k_video_not_support">ဤစက်တွင် 8K ဗီဒီယိုများ ဖွင့်မရပါ</string>
@@ -599,7 +637,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="plus_player_subtitle_local_add_success">စာတန်းထိုးများ အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="plus_player_subtitle_no_file">ဤနေရာတွင် စာတန်းထိုးများ မရှိပါ။</string>
     <string name="plus_player_subtitle_online">အွန်လိုင်း စာတန်းထိုးများ</string>
-    <string name="plus_player_subtitle_online_declare_content">သင်သည် &lt;br/> စာတန်းထိုးကို &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> ဒေတာဘေ့(စ်)တွင် ရှာပါတော့မည်။ &lt;br/>စာတန်းထိုးအားလုံးကို &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>မှ ပံ့ပိုးပါသည်။</string>
+    <string name="plus_player_subtitle_online_declare_content">သင်သည် &lt;br/> စာတန်းထိုးကို &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> ဒေတာဘေ့(စ်)တွင် ရှာပါတော့မည်။ &lt;br/>စာတန်းထိုးအားလုံးကို &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>မှ ပံ့ပိုးပါသည်။</string>
     <string name="plus_player_subtitle_online_declare_title">မသက်ဆိုင်ကြောင်းကြေငြာချက်</string>
     <string name="plus_player_subtitle_online_download_fail">စာတန်းထိုးများ ဒေါင်းလုဒ်လုပ်မရပါ</string>
     <string name="plus_player_subtitle_online_download_start">စာတန်းထိုးများ ဒေါင်းလုဒ်လုပ်နေသည်…</string>
@@ -611,6 +649,31 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="plus_player_unhide">ဖော်ရန်</string>
     <string name="plus_player_video_not_support">ဤဗီဒီယိုဖောမတ်ကို ပံ့ပိုးမပေးပါ။</string>
     <string name="plus_poster_reset_default">မူလမျက်နှာဖုံး ပြန်ထားရန်</string>
+    <string name="plus_properties_bit_rate">ဘစ်နှုန်း</string>
+    <string name="plus_properties_codec">Codec</string>
+    <string name="plus_properties_date">နေ့စွဲ</string>
+    <string name="plus_properties_file">ဖိုင်</string>
+    <string name="plus_properties_file_name">ဖိုင်အမည်</string>
+    <string name="plus_properties_finished">ပြီးဆုံးပါပြီ</string>
+    <string name="plus_properties_format">ဖောမတ်ချမည်</string>
+    <string name="plus_properties_frame_rate">ဖရိန်နှုန်း</string>
+    <string name="plus_properties_last_playback_position">နောက်ဆုံးနေရာ</string>
+    <string name="plus_properties_last_playback_time">နောက်ဆုံးဖွင့်ခဲ့သောအချိန်</string>
+    <string name="plus_properties_length">ကြာချိန်</string>
+    <string name="plus_properties_media">မီဒီယာ</string>
+    <string name="plus_properties_path">တည်နေရာ</string>
+    <string name="plus_properties_playback_history">ပြသမှုမှတ်တမ်း</string>
+    <string name="plus_properties_resolution">မြင်ကွင်းပြတ်သားမှု</string>
+    <string name="plus_properties_sample_rate">နမူနာနှုန်း</string>
+    <string name="plus_properties_size">အရွယ်အစား</string>
+    <string name="plus_properties_status">အခြေအနေ</string>
+    <string name="plus_properties_stream">ပြသကြည့်ရှုမှု</string>
+    <string name="plus_properties_stream_title">ခေါင်းစဥ်</string>
+    <string name="plus_properties_type">အမျိုးအစား</string>
+    <string name="plus_properties_type_audio">အော်ဒီယို</string>
+    <string name="plus_properties_type_subtitle">စာတန်းများ</string>
+    <string name="plus_properties_type_video">ဗီဒီယို</string>
+    <string name="plus_properties_unfinish">မပြီးသေးပါ</string>
     <string name="plus_search_barhint">ဖုန်းတွင်းဗီဒီယိုများရှာရန်</string>
     <string name="plus_search_guide">ဗီဒီယိုများရှာရန်</string>
     <string name="plus_search_result_empty">ရလဒ်များ မတွေ့ပါ</string>
@@ -650,6 +713,11 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="reload_sub_title">ထပ်လုပ်ကြည့်ရန် နှိပ်ပါ။</string>
     <string name="reload_title">ကွန်ရက်ချိတ်မရပါ။</string>
     <string name="report">အစီရင်ခံပါ</string>
+    <string name="report_content_fakement">စပမ်း သို့မဟုတ် အယောင်ဆောင်</string>
+    <string name="report_content_illegal">တရားမဝင် ကြေငြာချက်များ</string>
+    <string name="report_content_other">အခြားအရာများ</string>
+    <string name="report_content_sexy">လိင်မှုကိစ္စများ အထင်အရှားပါဝင်သည်</string>
+    <string name="report_content_violence">အမုန်းစကား</string>
     <string name="report_fail">တိုင်ကြား၍မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="report_success">အောင်မြင်စွာတိုင်စာပို့ပြီးပါပြီ</string>
     <string name="resend_active_email">ပြန်ပို့ပြီးပါပြီ</string>

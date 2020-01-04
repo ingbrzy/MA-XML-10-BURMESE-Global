@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_nfc_enabled">NFC ရရှိသည်</string>
+    <string name="android_beam">Android Beam</string>
     <string name="app_name">Nfc ဆားဗစ်</string>
     <string name="ask_nfc_tap">ပြီးဆုံးစေရန် နောက်ထပ်စက်ကို တို့ထိပါ</string>
     <string name="beam_busy">Beam လောလောဆယ် အလုပ်များနေ၏။ ယခင် ကူးပြောင်းမှုပြီးမှ ထပ်မံကြိုးစားပါ။</string>
@@ -27,6 +28,8 @@
     <string name="disconnecting_peripheral">%1$sအားချိတ်ဆက်မှုဖြတ်တောက်နေ၏</string>
     <string name="failed_to_enable_bt">ဘလူးတုသ်ကို မရရှိနိုင်ပါ</string>
     <string name="nfcUserLabel">NFC</string>
+    <string name="pair_no">No</string>
+    <string name="pair_yes">Yes</string>
     <string name="pairing_peripheral">%1$sနှင့်တွဲချိတ်နေ၏</string>
     <string name="pairing_peripheral_failed">%1$sနှင့်မတွဲချိတ်နိုင်ပါ</string>
     <string name="pay_with">ဖြင့် ငွေပေးချမေည်</string>

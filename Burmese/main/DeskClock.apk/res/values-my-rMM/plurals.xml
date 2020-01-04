@@ -24,6 +24,18 @@
     <plurals name="second">
         <item quantity="other">%d စက္ကန့်</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s နာရီ</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s နာရီ</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s မိနစ်</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s မိနစ်</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">တစ်မှေးအိပ် ကြာချိန်အား %d မိနစ်သို့ ပြောင်းထားသည်</item>
     </plurals>

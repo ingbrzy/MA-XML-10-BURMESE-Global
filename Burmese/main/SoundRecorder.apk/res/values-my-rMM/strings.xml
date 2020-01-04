@@ -25,6 +25,7 @@
     <string name="data_connection_button_text">အိုကေ</string>
     <string name="data_connection_title">ဒေတာအသုံးပြုမှု သတိပေးချက်</string>
     <string name="delete">ဖျက်ပစ်မည်</string>
+    <string name="delete_cloud_data_at_same_time">ကလောက်မှလည်း ဖျက်ရန်</string>
     <string name="delete_dialog_message">အသံဖမ်းယူမှုကို ဖျက်ပစ်မလား။</string>
     <string name="deleting_message">ဖျက်နေသည်…</string>
     <string name="details">အသေးစိတ်များ</string>
@@ -107,6 +108,7 @@
     <string name="online_recognize_duration_limite">(၁၀ မိနစ်မှ စတွက်မည်)</string>
     <string name="online_recognize_fail">ကူးပြောင်း၍ မရပါ</string>
     <string name="online_recognize_login_fail">ဆိုင်းအင်ဝင်၍ မရပါ</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">ဆိုင်းအင်၀င်ပါ</string>
     <string name="online_recognize_order_duration_key">ကြာချိန်</string>
     <string name="online_recognize_order_pay">ရလဒ်ကြည့်ရန် ပေးချေပါ</string>
@@ -127,6 +129,7 @@
     <string name="online_recognize_service_unavailable">ဝန်ဆောင်မှု မရရှိနိုင်ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="order_item_duration">ကြာချိန်- %s</string>
     <string name="order_item_number">အော်ဒါ နံပါတ်- %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">စနစ်အက်ပ်များ/မှတ်တမ်းတင်သူ</string>
     <string name="pause">တန့်ရပ်ပါ</string>
     <string name="pay_error_cancel">ပေးချေမှုအား ပယ်ဖျက်ခဲ့သည်</string>
@@ -141,6 +144,8 @@
     <string name="preference_online_orders">အွန်လိုင်း အော်ဒါ</string>
     <string name="preference_recog_faqs">အွန်လိုင်း စာသား ကူးပြောင်းခြင်းနှင့် ပတ်သက်၍ မေးလေ့ရှိသော မေးခွန်းများ</string>
     <string name="preference_recog_terms">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
+    <string name="preference_record_desktop_indicator_summary">နောက်ကွယ်တွင် အသံဖမ်းမှုအလုပ်လုပ်နေစဉ် ပင်မမျက်နှာပြင်တွင် အပြာရောင် ညွှန်ပြချမ်က ပြသပါ</string>
+    <string name="preference_record_desktop_indicator_title">ပင်မမျက်နှာပြင် ညွှန်ပြချက်</string>
     <string name="preference_record_scenes_dialog_title">အသံဖမ်းယူမှု အမျိုးအစားကို ရွေးပါ</string>
     <string name="preference_scenes">အသံဖမ်းယူမှု အမျိုးအစား</string>
     <string name="preference_silent_mode">အသံဖမ်းယူနေစဥ်၊ အသံစက်ကို အသံဖျောက်ထားပါ</string>
@@ -191,12 +196,15 @@
     <string name="record_format_preference_title">မှတ်တမ်းတင် ဖောမတ်</string>
     <string name="record_list">အသံဖမ်းယူမှုများ</string>
     <string name="record_list_call">အသံဖမ်းထားသော ခေါ်ဖုန်းများ</string>
+    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">အသံဖမ်းယူမှုများကို ဆင့်ခ်လုပ်ထားသည်</string>
     <string name="record_list_cloud_call">အသံဖမ်းယူထားသော ခေါ်ဖုန်းများကို ဆင့်ခ်လုပ်ထားသည်</string>
     <string name="record_list_cloud_fm">FM အသံဖမ်းယူမှုများကို ဆင့်ခ်လုပ်ထားသည်</string>
     <string name="record_list_fm">FM အသံဖမ်းယူမှုများ</string>
     <string name="record_list_item_recognize_text">စာသား</string>
     <string name="record_mark_point">အမှတ် %s</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">အသံဖမ်း အရည်အသွေး</string>
     <string name="record_resotre">အသံသွင်းမှု ပြန်လည်ရယူပါ</string>
     <string name="recording">အသံဖမ်းယူခြင်း</string>
@@ -261,6 +269,9 @@
     <string name="text_play_speed_1_0">ပုံမှန် အမြန်နှုန်ူး</string>
     <string name="text_play_speed_1_5">အမြန်နှုန်ူး ၁.၅ ဆ</string>
     <string name="text_play_speed_2_0">အမြန်နှုန်ူး ၂ ဆ</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s က %2$s အကြာခန့် အသံဖမ်းယူနိုင်သည်</string>
     <string name="toast_uninstall_fileexplorer">ဖိုင်မန်နေဂျာအား မထည့်သွင်းရသေးပါ</string>
     <string name="usage_description">ကလောက်ဖြင့် အသံကို စာပြန်ရိုက်ခြင်းနှင့် အရာဝတ္ထုများ ဆင့်(ခ်)လုပ်ခြင်း</string>

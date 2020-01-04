@@ -14,6 +14,7 @@
     <string name="September">စက်တင်ဘာ</string>
     <string name="Updated_at">"အပ်ဒိတ်လုပ်ထားသော- "</string>
     <string name="account_and_cloud">အကောင့်-</string>
+    <string name="account_logout">အကောင့်ထွက်ရန်</string>
     <string name="action_item_add">အောက်ပါသို့ ပေါင်းထည့်ပါ</string>
     <string name="action_item_add_song">စာရင်းသို့ပေါင်းထည့်ရန်</string>
     <string name="action_item_add_to_current_playlist">တန်းစီမည်</string>
@@ -41,6 +42,8 @@
     <string name="agreement_desc">အသုံးပြုသူ သဘောတူညီမှု (မဖြစ်မနေ)</string>
     <string name="alaka_required">ဤသီချင်းအား နားထောင်ရန် အခကြေးငွေပေးဆောင်ရပါမည်</string>
     <string name="alarm_clock_ringtones_successful">နှိုးစက်သံအား သတ်မှတ်ပြီးပါပြီ</string>
+    <string name="album_cover">အယ်(လ်)ဘမ် အဖုံးပုံ</string>
+    <string name="album_is_empty">အယ်လ်ဘမ်အမည် ဗလာဖြစ်၍မရပါ။</string>
     <string name="album_label">အယ်လ်ဘမ် အဖုံး</string>
     <string name="album_name">အယ်လ်ဘမ်</string>
     <string name="all_album_count">အယ်လ်ဘမ်အားလုံး (%d)</string>
@@ -80,6 +83,7 @@
     <string name="artist_is_empty">အနုပညာရှင်အမည် ဗလာဖြစ်၍မရပါ</string>
     <string name="artist_name">အနုပညာရှင်</string>
     <string name="audio_picker_title">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
+    <string name="auto_recommend">အလိုအလျောက် (အကြံပြုသည်)</string>
     <string name="auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="auto_update_tip">စနစ်အက်ပ်များအား မိုဘိုင်းဒေတာဖြင့် အပ်ဒိတ်လုပ်နိုင်သည်။ သို့သော် အပိုငွေများ ကုန်ကျနိုင်ခြေရှိသည်။</string>
     <string name="available_playlist_name_format">ဖွင့်ရန်စာရင်းသစ်%d</string>
@@ -102,8 +106,10 @@
     <string name="choose_download_quality">ဒေါင်းလုဒ်အရည်အသွေးရွေးပါ</string>
     <string name="choose_music_lang_pref">သီချင်းများအတွက် နှစ်သက်ရာဘာသာစကားများ</string>
     <string name="choose_stream_quality">တိုက်ရိုက်ကြည့်ခြင်းအရည်အသွေးရွေးပါ</string>
+    <string name="click_to_add_album_cover_and_lyric">အယ်(လ်)ဘမ် အဖုံးပုံနှင့် စာသားများ ရယူရန် တို့ပါ</string>
     <string name="click_to_shuffle">ရှက်ဖ်ဖယ်လုပ်ရန် ထိနှိပ်ပါ</string>
     <string name="close_music_time">"ကျန်သောအချိန်: "</string>
+    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="confirm">အိုကေ</string>
     <string name="confirm_exit">ပြောင်းလဲမှုများကို သိမ်းမလား?</string>
     <string name="connect_now">ချိတ်ဆက်ပါ</string>
@@ -215,13 +221,16 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
     <string name="download_running">လုပ်ဆောင်နေ</string>
     <string name="download_running_percent">လုပ်ဆောင်နေ၊ %d%%</string>
     <string name="download_share_dialog">သုံးပြီး မျှဝေပါ</string>
+    <string name="download_song_quality_title">ဒေါင်းလုတ်ရယူထားသော သီချင်းများ၏ အရည်အသွေး</string>
     <string name="download_start">ဒေါင်းလုဒ်စလုပ်မည်…</string>
     <string name="download_start_apk">ဒေါင်းလုဒ်စလုပ်မည်… အသိပေးချက်ရှိတ်တွင် လုပ်ဆောင်ချက်ကို ကြည့်ရှုနိုင်သည်။</string>
     <string name="download_start_btn">ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -299,8 +308,11 @@
     <string name="filter_by_folder">ဖိုလ်ဒါအားဖြင့်</string>
     <string name="filter_by_folder_summary">ပြသရန်ဖိုလ်ဒါရွေး</string>
     <string name="filter_by_size">အရွယ်အစားအရ</string>
+    <string name="filter_by_size_max">%dMB</string>
+    <string name="filter_by_size_min">%dKB</string>
     <string name="filter_by_size_prefix">"ထက်သေးသောဖိုင်များကို ဖွက် "</string>
     <string name="filter_by_size_summary">အော်ဒီယိုဖိုင်သေးများကို ဖွက်</string>
+    <string name="filter_size_unit">%dKB</string>
     <string name="floating_view_dialog_desc">ဤစာမျက်နှာမှ ထွက်လိုက်လျှင် ဖွင့်ထားသော သီချင်းရပ်သွားပါမည်။ မဖြစ်မနေထွက်လိုသလား။</string>
     <string name="floating_view_dialog_leave">ထွက်ရန်</string>
     <string name="floating_view_dialog_stay">ဆက်နေရန်</string>
@@ -310,6 +322,8 @@
     <string name="format_not_support">ဤပုံစံကို မထောက်ပံ့ပါ.</string>
     <string name="format_unsupported_or_corrupted">ဖိုင်ပျက်စီးနေသည် သို့မဟုတ် ဖောမတ်အား မထောက်ပံ့ထားပါ</string>
     <string name="fragment_title_artist_album">အယ်လဘမ်များ</string>
+    <string name="get_more_favorite_content_after_login">အခြားသီချင်းနှင့် ဗီဒီယိုများ ရှာရန် အကောင့်ဝင်ပါ။</string>
+    <string name="google_account_login">Google ဖြင့် အကောင့်ဝင်ပါ</string>
     <string name="goto_local_search">စက်ထဲတွင် ရှာ​ပါ</string>
     <string name="goto_online_search">အွန်လိုင်းတွင် ရှာပါ</string>
     <string name="handle_later">ယခုမလုပ်သေး</string>
@@ -319,6 +333,7 @@
     <string name="headset_and_audio_effect_title">နားကြပ် &amp; အော်ဒီယို အထူးပြုလုပ်ချက်များ</string>
     <string name="hide_album">အယ်လ်ဘမ်အဖုံးအား ကွယ်ဝှက်ပါ</string>
     <string name="hide_lyric">သီချင်းစာသားအား ကွယ်ဝှက်ပါ</string>
+    <string name="high_sound_quality">မြင့်သည်</string>
     <string name="higher_quality_music">အဆင့်မြင့် သီချင်းအရည်အသွေး</string>
     <string name="higher_quality_music_summary">ကြီးသောဖိုင်များကို တိုက်ရိုက်ကြည့်ခြင်းနှင့်ဒေါင်းလုဒ်လုပ်ခြင်း</string>
     <string name="home_tab_home">ပင်မစာမျက်နှာ</string>
@@ -326,6 +341,7 @@
     <string name="home_tab_more_music">အခြားသီချင်းများ</string>
     <string name="home_tab_online">အွန်လိုင်းသီချင်း</string>
     <string name="home_tab_search">ရှာရန်</string>
+    <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">ပရိုအဖွဲ့ဝင်သာ သီချင်းအများအပြား ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ယခု ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
     <string name="hungama_batch_download_alert_summary_toast">သီချင်းစာရင်းတစ်ခုလုံးကို ဒေါင်းလုဒ်လုပ်နိုင်ရန် စာရင်းသွင်းဝယ်ယူပါ။</string>
     <string name="hungama_free_download_out_summary">သီချင်းများအား အခမဲ့ ဒေါင်းလုဒ်လုပ်၍ မရတော့ပါ။ သီချင်းများအား အကန့်အသတ်မရှိ ဒေါင်းလုဒ်လုပ်နိုင်ရန် ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
@@ -378,7 +394,10 @@
     <string name="local_page_artist_more">%s၏ အခြားသီချင်းများ</string>
     <string name="local_page_playlist">သီချင်းစာရင်း</string>
     <string name="local_page_song_download_history">ဒေါင်းလုဒ်များ</string>
+    <string name="login_instantly">အကောင့်ဝင်ရန်</string>
+    <string name="login_mi_account_and_gain_more_rights">အခြားအင်္ဂါရပ်များ သုံးနိုင်ရန် Mi အကောင့်ဖြင့် အကောင့်ဝင်ပါ။</string>
     <string name="long_press_to_select_lyric">ဖုန်းတွင်းရှိ သီချင်းစာသားဖိုင်ကို ရွေးရန် ဖိ&amp;နှိပ်ထားပါ</string>
+    <string name="low_sound_quality">နိမ့်သည်</string>
     <string name="lrc_search_failed">သီချင်းစားသာ ရှာမတွေ့ပါ</string>
     <string name="lrc_searching">ရှာဖွေနေဆဲ…</string>
     <string name="lyric_is_empty">သီချင်းစာသားမရနိုင်</string>
@@ -403,6 +422,7 @@
     <string name="metered_serious_alert_msg_with_beyond_data">မိုဘိုင်းဒေတာကန့်သတ်ချက်ကို %s ကျော်သွားပြီ။ သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာကို သုံးမည်လား?</string>
     <string name="metered_serious_alert_msg_with_data">သင့်တွင် မိုဘိုင်းဒေတာ %s မျှသာကျန်တော့သည်။ သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာအား အသုံးပြုမည်လား?</string>
     <string name="metered_serious_allow">မည်သို့ပင်မဆို ဖွင့်ပါ</string>
+    <string name="middle_sound_quality">ပုံမှန်</string>
     <string name="milink_unavaliable_please_update">Mi Link မရရှိနိုင်ပါ။ MIUIအား အသစ်မွမ်းမံပါ။</string>
     <string name="missing_title">&lt;မသိသော></string>
     <string name="miuishare_account_login_ok">ဆိုင်းအင်ဝင်ခြင်း</string>
@@ -428,6 +448,7 @@
     <string name="mulit_choice_management">အိုင်တမ်များအား စီမံမည်</string>
     <string name="music_browser_label">တေးဂီတ</string>
     <string name="music_filter">အော်ဒီယိုဖိုင်များကို စစ်ပါ</string>
+    <string name="music_recommendation">သီချင်းအကြံပြုချက်များ</string>
     <string name="music_service">သီချင်းဝန်ဆောင်မှု</string>
     <string name="music_settings">သီချင်း</string>
     <string name="mv_metered_play_summary">ဒေတာသုံးစွဲမှု သတိပေးချက်အား မပြပါနှင့်</string>
@@ -444,6 +465,7 @@
     <string name="network_settings_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_traffic">ဒေတာအသုံးပြုမှု</string>
     <string name="next_time">ယခုမလုပ်သေး</string>
+    <string name="next_to_play">နောက်လာမည့်အရာ</string>
     <string name="no_album_info">အယ်လ်ဘမ်အချက်လက်မရှိ</string>
     <string name="no_artist_info">အနုပညာရှင်အချက်လက်မရှိ</string>
     <string name="no_downloads">ဒေါင်းလုဒ်များ မရှိပါ</string>
@@ -452,6 +474,7 @@
     <string name="no_local_songs">တစ်ခုမှမရှိပါ</string>
     <string name="no_local_songs_selected">ဒေါင်းလုဒ်မလုပ်ရသေးသဖြင့် သီချင်းများကို ပေးပို့မရနိုင်ပါ</string>
     <string name="no_local_source_find">သီချင်းရှာမတွေ့</string>
+    <string name="no_longer_prompt">နောက်ထပ် မပြပါနှင့်</string>
     <string name="no_results_return">ရလဒ် ရှာမတွေ့</string>
     <string name="no_scanned_songs">မရှိသော</string>
     <string name="no_song_downloaded">ဒေါင်းလုဒ်လုပ်ရန် သီချင်း ရှာမတွေ့ပါ</string>
@@ -507,8 +530,10 @@
     <string name="online_service_open_tip">အွန်လိုင်းဂီတဝန်ဆောင်မှု ဖွင့်ထားသည်</string>
     <string name="online_service_title">အွန်လိုင်းဝန်ဆောင်မှုများ</string>
     <string name="online_switch">အွန်လိုင်းအကြောင်းအရာဝန်ဆောင်မှုများ</string>
+    <string name="online_switch_confirm_title">အွန်လိုင်းအကြောင်းအရာဆိုင်ရာ ဝန်ဆောင်မှုများကို ပိတ်ထားခြင်းကြောင့် အွန်လိုင်းအင်္ဂါရပ်များအားလုံးကို ရရှိနိုင်မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ပိတ်ထားမည်။</string>
     <string name="online_switch_message">အွန်လိုင်းဝန်ဆောင်မှုများကို ပိတ်လိုက်ခြင်းဖြင့် VIP ဝန်ဆောင်မှုနှင့် အကြံပြုချက်များကိုလည်း သက်ရောက်မှုရှိနိုင်ပါသည်။ မည်သို့ပင်မဆို ပိတ်မည်လား?</string>
     <string name="online_switch_setting">အွန်လိုင်းအကြောင်းအရာဆက်တင်များ</string>
+    <string name="only_pro_can_choose_hd_sound_quality">HD အသံများကို PRO အဖွဲ့ဝင်များသာ ရရှိနိုင်သည်</string>
     <string name="open_online_service">ဤလုပ်ဆောင်ချက်ကို အသုံးပြုရန် အွန်လိုင်းဝန်ဆောင်မှုကို အသုံးပြုရန် လိုအပ်ပါသည်။ ယခုဖွင့်မည်လား?</string>
     <string name="open_service">ဖွင့်</string>
     <string name="operation_done_close">ပိတ်မည်</string>
@@ -535,6 +560,7 @@
     <string name="pick_recent_song">မကြာမီက ဖွင့်ထားသော</string>
     <string name="play_all_song">အားလုံးကိုဖွင့်</string>
     <string name="play_empty_playlist">သီချင်းများအား ဖွင့်၍ မရပါ။ သီချင်းစာရင်းမှာ ဗလာဖြစ်နေသည်။</string>
+    <string name="play_history">ပြန်ပြမှတ်တမ်း</string>
     <string name="play_mode_all_loop">အားလုံးကို ထပ်ခါဖွင့်ပါ</string>
     <string name="play_mode_one_loop">လည်ပတ်မှု</string>
     <string name="play_mode_play_all">အားလုံးဖွင့်ပါ</string>
@@ -549,6 +575,7 @@
     <string name="playlist_type_album">အယ်လ်ဘမ်များ</string>
     <string name="playlist_type_artist">အနုပညာရှင်</string>
     <string name="playlist_type_billboard">ပုံစံကားချပ်များ</string>
+    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">ကျွန်ုပ်၏ ဖွင့်ရန်စာရင်း</string>
     <string name="playlist_type_recommend">နှစ်သက်ရာ သီချင်းစာရင်း</string>
     <string name="please_download_first">သီချင်းကိုဖုန်းမြည်သံအဖြစ်သုံးနိုင်ရန်ဒေါင်းလုဒ်လုပ်ထားရန်လိုပါသည်</string>
@@ -559,6 +586,7 @@
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -569,6 +597,7 @@
     <string name="ready_to_play">နောက်လာမည့်အရာ</string>
     <string name="recently_played">မကြာမီက ဖွင့်ထားသော</string>
     <string name="recently_played_songs">မကြာသေးမီက</string>
+    <string name="recommend_songs_when_playing_audio_files">သီချင်းနားထောင်စဉ် သီချင်းအကြံပြုချက်များ ရယူရန်</string>
     <string name="recommended_file_size_download_in_mobile">ဤဖိုင်အား အသုံးပြုရန် မိုဘိုင်းဒေတာထဲမှ %s အား အသုံးပြုမည်လား?</string>
     <string name="recommended_no_file_size_download_in_mobile">ဤဖိုင်အား ဒေါင်းလုတ်လုပ်ရန် မိုဘိုင်းဒေတာချိတ်ဆက်မှုအား အသုံးပြုမည်လား?</string>
     <string name="remove">ဖယ်ရှားပါ</string>
@@ -590,6 +619,7 @@
     <string name="ringtones_successful">ဖုန်းမြည်သံအား သတ်မှတ်ပြီးပါပြီ</string>
     <string name="root_downloads">ဒေါင်းလုဒ်များ</string>
     <string name="save_changes">ပြောင်းလဲမှုများကို သိမ်းဆည်းပါ</string>
+    <string name="save_image">ပုံသိမ်းရန်</string>
     <string name="search_album_and_lyric">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားကို ရှာဖွေမည်</string>
     <string name="search_empty">အမည်သည့် ရလဒ်မှ ရှာမရပါ</string>
     <string name="search_empty_subtitle_online_music">%s အား ဖွင့်ရန် အောက်မှ ခလုတ်အား ထိနှိပ်ပါ။</string>
@@ -614,7 +644,9 @@
     <string name="select_desc_sub">အများဆုံး ဘာသာစကား ၃ မျိုး ရွေးနိုင်သည်</string>
     <string name="select_device">ကိရိယာကိုရွေးပါ</string>
     <string name="select_displayed_folders">ပြသရန်ဖိုလ်ဒါရွေး</string>
+    <string name="select_local_album_cover">ပုံရွေးရန်</string>
     <string name="select_local_cover">ဖုန်းတွင်းရှိ အယ်လ်ဘမ်အဖုံး ရွေးပါ</string>
+    <string name="select_local_lyric">ဖိုင်ရွေးရန်</string>
     <string name="select_local_lyric_file">ဖုန်းတွင်းရှိ သီချင်းစာသားဖိုင်ကို ရွေးပါ</string>
     <string name="select_none">အားလုံး ဖြုတ်ပါ</string>
     <string name="select_one_language">အနည်းဆုံး ဘာသာစကား ၁ မျိုး ရွေးပါ</string>
@@ -664,6 +696,7 @@
     <string name="song_not_find">ဤသီချင်းမရနိုင်ပါ။</string>
     <string name="song_offline">ဤသီချင်းမှာ မရရှိနိုင်တော့ပါ။</string>
     <string name="song_picker_complete">ပြီးပါပြီ</string>
+    <string name="song_quality_category">တေးဂီတ</string>
     <string name="songgroup_pick_album">အယ်လ်ဘမ်များ</string>
     <string name="songgroup_pick_playlist">သီချင်းစာရင်း</string>
     <string name="sort_by_name">အမည်</string>
@@ -676,11 +709,13 @@
     <string name="storage_sd_card">SD ကဒ်</string>
     <string name="storage_usb">USB သိုလှောင်မှု</string>
     <string name="streamloadingtext">%s သို့ချိတ်ဆက်နေပါသည်</string>
+    <string name="switch_success">အောင်မြင်စွာ ပြောင်းပြီးပါပြီ</string>
     <string name="tab_album">အယ်လ်ဘမ်များ</string>
     <string name="tab_album_list">အယ်လ်ဘမ်များ</string>
     <string name="tab_artist">အနုပညာရှင်များ</string>
     <string name="tab_artist_list">အနုပညာရှင်များ</string>
     <string name="tab_chart">ပုံစံကားချပ်များ</string>
+    <string name="tab_flow">ကြည့်ရန်</string>
     <string name="tab_folder">ဖိုလ်ဒါများ</string>
     <string name="tab_playlist">သီချင်းစာရင်း</string>
     <string name="tab_top_results">ထိပ်တန်းရလဒ်</string>
@@ -733,6 +768,7 @@
     <string name="toast_uhd_songs_for_stream">နားဆင်အရည်အသွေးအား အမြင့်သို့ သတ်မှတ်လိုက်သည်</string>
     <string name="today">ယနေ့</string>
     <string name="top_chart_title">ပုံစံကားချပ်</string>
+    <string name="track_play_history_after_login">ပြန်ပြမှတ်တမ်းကို ကြည့်ရန် အကောင့်ဝင်ပါ</string>
     <string name="ultra_high_quality">အမြင့်ဆုံး</string>
     <string name="unknown_album_name">အမည်မသိ အယ်လ်ဘမ်</string>
     <string name="unknown_artist_name">အမည်မသိ အနုပညာရှင်</string>
@@ -743,6 +779,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>

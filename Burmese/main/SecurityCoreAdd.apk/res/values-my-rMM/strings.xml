@@ -307,6 +307,7 @@
     <string name="sdcradfs_dialog_in_sec_message">"အပ်ဒိတ်လုပ်ရန် ဒုတိယနေရာကို ဖျက်၍ ပြန်ဖန်တီးပါ။ ဒုတိယနေရာမှ ဒေတာများကို ပထမနေရာသို့ ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ။
 အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
     <string name="sdcradfs_dialog_in_sec_title">အရေးကြီးသော မွမ်းမံမှု</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ။</string>
     <string name="secondSpace">ဒုတိယနေရာ</string>
     <string name="second_owner_finger_print">ဒုတိယနေရာ လက်ဗွေ</string>
@@ -437,6 +438,7 @@
     <string name="use_xiaoai_open">Mi AI ဖြင့် ဖွင့်ပါ</string>
     <string name="wating">ခဏစောင့်ပါ…</string>
     <string name="weibo_send">Weibo သို့ ပို့ပါ</string>
+    <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">ဆိုင်းအင်ဝင်၍ မျှဝေမည်</string>
     <string name="whatsapp_send">WhatsApp သို့ မျှဝေမည်</string>
     <string name="xpsace_guide_button">ဖန်တီး</string>
@@ -453,9 +455,11 @@
     <string name="xspace_description">"နှစ်ခုတွဲအက်ပ်သည် ကွဲပြားသောအကောင့်ဖြင့် သီးခြား အသုံးပြုနိုင်သည့် အက်ပ်ကော်ပီများဖြစ်သည်။
 
 အချို့သော နှစ်ခုတွဲအက်ပ်များသည် Google ဝန်ဆောင်မှုဖွဲ့စည်းဘောင်များ၏ထောက်ပံ့မှုကို လိုအပ်ပါသည်။ ထိုသို့သောအခြေအနေမျိုးတွင် နှစ်ခုတွဲ Google ဝန်ဆောင်မှုဖွဲ့စည်းဘောင်တစ်ခု ဖန်တီးလိမ့်မည်။"</string>
+    <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">အကောင့်နှစ်ခုအား ပြောင်းလဲခြင်းမလုပ်ဘဲ အသုံးပြုပါ</string>
     <string name="xspace_guide_title">နှစ်ခုတွဲအက်ပ် ဖန်တီးမည်</string>
     <string name="xspace_header">နှစ်ခုတွဲအက်ပ်</string>
+    <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_completed">အိုင်ကွန်အား ပင်မမျက်နှာပြင်သို့ ပေါင်းထည့်ခဲ့သည်</string>
     <string name="xspace_install_completed_global">ပုံဆွဲကိရိယာသို့ အိုင်ကွန်အား ပေါင်းထည့်ပြီးပြီ</string>
     <string name="xspace_install_failed">မဖန်တီးနိုင်ခဲ့ပါ</string>
@@ -463,10 +467,14 @@
     <string name="xspace_introduce">အကြံပြုထားသော</string>
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_loading_msg">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
+    <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
     <string name="xspace_uninstall_completed">နှစ်ခုတွဲအက်ပ်အား အောင်မြင်စွာ ဖြုတ်ချပြီးပြီ</string>
     <string name="xspace_uninstall_dialog_content">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
     <string name="xspace_uninstall_dialog_title">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချ</string>
     <string name="xspace_uninstalling">ဖြုတ်ချနေသည်…</string>
+    <string name="xspace_weibo_title">Weibo</string>
+    <string name="xspace_weixin_title">WeChat</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

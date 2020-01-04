@@ -92,6 +92,7 @@
     <string name="scenario_policies_summary">မတူသော မြင်ကွင်းများအတွက် ကွဲပြားသော ပါဝါချွေတာမှုကို သုံးမည်။</string>
     <string name="scenario_policies_title">စမတ် မြင်ကွင်းများ</string>
     <string name="scenario_policies_warmcontrol">အပူချိန်ထိန်းချုပ်မှု</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ</string>
     <string name="show_system_app">စနစ် အက်ပ်များ ကို ပြသပါ</string>
     <string name="sleep_config_enhance_description">MIUI သည် သင်အိပ်စက်နေသည်ကို သိရှိပါက နောက်ခံအက်ပ်များကို ပိတ်ပြီး NFC၊ ဘလူးတုသ်၊ GPS၊ မိုဘိုင်းဒေတာနှင့် Wi-Fi သုံးစွဲမှုကို ကန့်သတ်လိမ့်မည်။ အသိပေးချက်များအတွက်မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
