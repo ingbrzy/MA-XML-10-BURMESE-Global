@@ -79,7 +79,7 @@
         <item quantity="other">အချက်အလက် တစ်စိတ်တစ်ပိုင်း ဆင်တူဖြစ်နေသော အဆက်အသွယ် %1$d ဦး</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">ပေါင်းစပ်မထားပါ%1$d ရင်းမြစ်များမှ ပေါင်းစပ်ထားသည်</item>
+        <item quantity="other">ပေါင်းစပ်မထားပါ%0$d ရင်းမြစ်များမှ ပေါင်းစပ်ထားသည်</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">အသံမေးလ် %1$d ခု</item>
@@ -91,7 +91,7 @@
         <item quantity="other">%2$s မှ %1$d ဦး</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">အုပ်စု %1$d စု</item>
+        <item quantity="other">အုပ်စု %0$d စု</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">အိုင်တမ် %1$d ခုကျန်ရှိနေ</item>

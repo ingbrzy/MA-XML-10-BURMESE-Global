@@ -100,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">သတိထားအဆင့်</string>
     <string name="aqi_quality_index_moderate">အသင့်အတင့်</string>
     <string name="aqi_quality_index_unhealthy">ဖောက်ပြန်နိုင်သည်</string>
-    <string name="auto_add_app_shortcut">新安装应用添加到桌面</string>
     <string name="auto_delete_category_dialog_content">လက်ရှိအက်ပ်များအား ဤအမျိုးအစားအုပ်စုအတွင်းမှ ဖယ်ရှားသွားမည်ဖြစ်ပြီး ဤအမျိုးအစားအုပ်စုကိုလည်း ဖျက်ပစ်ပါတော့မည်။ ဤအမျိုးအစားအုပ်စုကို ယခုပင် ဖျက်ပစ်မလား။</string>
     <string name="auto_delete_category_dialog_title">အမျိုးအစားအုပ်စုကို ဖျက်နေသည်</string>
     <string name="backup_fail">အစပျိုးစက်အား အရန်သိမ်း၍ မရပါ</string>
