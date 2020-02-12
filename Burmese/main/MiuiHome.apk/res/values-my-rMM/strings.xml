@@ -29,7 +29,6 @@
     <string name="all_apps_setting_drawer_tips_desc">အက်ပ်အံဆွဲအား မူလမျက်နှာပြင်ပေါ်တွင် အပေါ်သို့ဆွဲတင်ခြင်းအားဖြင့် ဖွင့်နိုင်ပါသည်။ အက်ပ်အံဆွဲကိုအသုံးပြု၍ မူလမျက်နှာပြင်မုဒ်သို့ ပြောင်းခြင်းသည် အကြောင်းအရာစင်တာကို ရရှိစေနိုင်တော့မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ပြောင်းမလား။</string>
     <string name="all_apps_setting_drawer_tips_title">အက်ပ် အံဆွဲကို အသုံးပြုခြင်း</string>
     <string name="all_apps_setting_drawer_title">အက်ပ် အံဆွဲနှင့်</string>
-    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">မူရင်းပုံစံ</string>
     <string name="all_apps_setting_scroll_bar">အပေါ်-အောက် လိမ့်ရန်ဘား</string>
     <string name="all_apps_setting_title">ပင်မမျက်နှာပြင်</string>
@@ -66,7 +65,6 @@
     <string name="announce_for_show_uninstall_dialog">ဖြုတ်ချရန် အတည်ပြုပါ သို့မဟုတ် ပယ်ဖျက်ပါ။</string>
     <string name="announce_for_unchecked">%1$s၊ မစစ်ဆေးရသေးပါ</string>
     <string name="announce_for_widget_span">အနံ %1$d၊ အမြင့် %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">အက်ပ်မှာ ရှိပြီးသားဖြစ်သည်</string>
     <string name="app_being_backup_message">အက်ပ်ကို အရန်သိမ်းခဲ့သည်</string>
     <string name="app_being_restored_message">အက်ပ်ကို ပြန်လည်ရယူခဲ့သည်</string>
@@ -86,7 +84,6 @@
     <string name="app_category_sport">အားကစားများ</string>
     <string name="app_category_tools">ကိရိယာများ</string>
     <string name="app_category_travel">ခရီးသွား</string>
-    <string name="app_category_vr">VR</string>
     <string name="application_name">စက်စနစ် အစပျိုးစက်</string>
     <string name="apply">သတ်မှတ်မည်</string>
     <string name="apply_action">သတ်မှတ်မည်</string>
@@ -100,6 +97,7 @@
     <string name="aqi_quality_index_light_pollution">သတိထားအဆင့်</string>
     <string name="aqi_quality_index_moderate">အသင့်အတင့်</string>
     <string name="aqi_quality_index_unhealthy">ဖောက်ပြန်နိုင်သည်</string>
+    <string name="auto_add_app_shortcut">အက်(ပ်)အသစ်များကို ပင်မမျက်နှာပြင်တွင် ထားရန်</string>
     <string name="auto_delete_category_dialog_content">လက်ရှိအက်ပ်များအား ဤအမျိုးအစားအုပ်စုအတွင်းမှ ဖယ်ရှားသွားမည်ဖြစ်ပြီး ဤအမျိုးအစားအုပ်စုကိုလည်း ဖျက်ပစ်ပါတော့မည်။ ဤအမျိုးအစားအုပ်စုကို ယခုပင် ဖျက်ပစ်မလား။</string>
     <string name="auto_delete_category_dialog_title">အမျိုးအစားအုပ်စုကို ဖျက်နေသည်</string>
     <string name="backup_fail">အစပျိုးစက်အား အရန်သိမ်း၍ မရပါ</string>
@@ -138,7 +136,6 @@
     <string name="current_wallpaper">လက်ရှိ</string>
     <string name="custom_wallpaper_picker">ရှာဖွေပါ</string>
     <string name="defalut_launcher_title">နဂိုမူလ အစပျိုးစက်</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">ဂိမ်းများ</string>
     <string name="default_folder_title_meitu">Meitu အက်ပ်</string>
     <string name="default_folder_title_microsoft">မိုက်ခရိုဆော့ဖ်</string>
@@ -146,10 +143,8 @@
     <string name="default_folder_title_recommend">နောက်ထပ် အက်ပ်များ</string>
     <string name="default_folder_title_security">စက်စနစ်</string>
     <string name="default_folder_title_services">ဝန်ဆောင်မှုများ</string>
-    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">ကိရိယာများ</string>
     <string name="default_screen_preview_title">မူလမျက်နှာပြင် သတ်မှတ်မည်</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">ဖျက်ပစ်မည်</string>
     <string name="delete_category_dialog_content">ဤအမျိုးအစားအုပ်စုကို ဖျက်ပစ်ပါက ပြန်ဖော်ထုတ်၍ မရတော့ပါ။ မည်သို့ပင်ဆိုစေ ဖျက်ပစ်မလား။</string>
     <string name="delete_category_dialog_title">ဤအမျိုးအစားအုပ်စုကို ဖျက်ပစ်မလား။</string>
@@ -158,8 +153,6 @@
     <string name="deselect_all">အားလုံး မရွေးတော့ပါ</string>
     <string name="disable_wallpaper_scroll">ဘေး-အထက်အောက်ရွှေ့ခြင်းကို ပိတ်ပါ</string>
     <string name="download_action">ဒေါင်းလုဒ်လုပ်မည်</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="drawer_background">နောက်ခံ</string>
     <string name="drawer_background_dark">အမှောင်</string>
     <string name="drawer_background_light">အလင်း</string>
@@ -236,7 +229,6 @@
     <string name="gadget_weather_loading">ဒေတာ မရှိပါ</string>
     <string name="gadget_weather_low_temp">အပူချိန် အနိမ့်</string>
     <string name="gadget_weather_theme_type">ဂတ်ဂျက် အမျိုးအစား</string>
-    <string name="gadget_weather_time_format">EEEE, MMMM d</string>
     <string name="gadget_weather_title">ရာသီဥတု</string>
     <string name="gadget_weather_title_14">ရာသီဥတု</string>
     <string name="gadget_weather_title_24">ရာသီဥတု</string>
@@ -254,6 +246,7 @@
     <string name="home_pull_down_action">ပင်မမျက်နှာပြင်တွင် အောက်သို့ ဆွဲချပါ</string>
     <string name="home_screen">ပင်မ မျက်နှာပြင်</string>
     <string name="home_slide_up_action">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ဆွဲတင်ပါ</string>
+    <string name="home_switch_personal_assistant">-၁ မျက်နှာပြင်</string>
     <string name="icon_reorganize_channel">အိုင်ကွန်များကို စီစဉ်မည်</string>
     <string name="icon_size">အိုင်ကွန်အရွယ်အစား</string>
     <string name="image_too_small_message">မူရင်းရုပ်ပုံမှာ သေးလွန်းသည်။</string>
@@ -263,6 +256,9 @@
     <string name="is_system_wallpaper_message">စက်စနစ် အရင်းမြစ်များအား ဖျက်၍မရပါ</string>
     <string name="launcher_not_exist">မှားယွင်းမှု တစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ပင်မမျက်နှာပြင်သို့ ပြန်သွား၍ ထပ်ကြိုးစားကြည့်ပါ။</string>
     <string name="launcher_pull_down_title">ပင်မမျက်နှာပြင်တွင် အောက်သို့ ဆွဲချပါ</string>
+    <string name="launcher_search_bar_title">ပင်မမျက်နှာပြင်မှ ရှာဖွေရေး ဘားတန်း</string>
+    <string name="launcher_search_bar_value_disable">ပိတ်</string>
+    <string name="launcher_search_bar_value_enable">ဖွင့်</string>
     <string name="launcher_slide_up_title">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ဆွဲတင်ပါ</string>
     <string name="launcher_sliding_up_gesture">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ပွတ်ဆွဲ၍ ရှာ​ဖွေရေးကို ဖွင့်ပါ</string>
     <string name="launcher_title">ပင်မမျက်နှာပြင် &amp; မကြာသေးမီကများ</string>
@@ -313,6 +309,7 @@
     <string name="notification_installed">ထည့်သွင်းပြီးပါပြီ</string>
     <string name="notification_open_button">ဖွင့်ပါ</string>
     <string name="notification_reset_title">အိုင်ကွန်များကို စီစဉ်ပြီးပါပြီ</string>
+    <string name="one_key_call_title">ဖုန်းခေါ်ရန် တို့ပါ</string>
     <string name="online_wallpaper">အွန်လိုင်း</string>
     <string name="open_personal_assistant_dialog_btn_cancel">ပယ်ဖျက်မည်</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ပိတ်မည်</string>
@@ -355,7 +352,6 @@
     <string name="quick_app">အမြန်အက်ပ်များ</string>
     <string name="recent_apps">လတ်တလော</string>
     <string name="recents_config_title">မကြာသေးမီကများ</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">အက်ပ် အကြံပြုချက်များ</string>
     <string name="recommend_apps_default_title">အလွတ်</string>
     <string name="recommend_apps_no_data">ဒေတာ မရှိပါ</string>
@@ -407,7 +403,10 @@
     <string name="status_installing">ထည့်သွင်းနေသည်</string>
     <string name="status_paused">ခေတ္တရပ်ထားသည်</string>
     <string name="status_pending">စောင့်နေသည်</string>
+    <string name="switch_personal_assistant_app_vault">အက်(ပ်)ပေါင်းစု</string>
+    <string name="switch_personal_assistant_none">တစ်ခုမျှမဟုတ်</string>
     <string name="system_shortcuts_more_operation">အက်ပ် အချက်အလက်</string>
+    <string name="system_shortcuts_remove">ဖယ်ရှားရန်</string>
     <string name="system_text">စနစ်</string>
     <string name="title_jeejen">Jeejen ပင်မမျက်နှာပြင်</string>
     <string name="title_select_live_folder">ဖိုလ်ဒါ ရွေးပါ</string>

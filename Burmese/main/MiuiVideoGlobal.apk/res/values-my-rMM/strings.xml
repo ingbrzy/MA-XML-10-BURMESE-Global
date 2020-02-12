@@ -158,6 +158,7 @@ ID -
     <string name="fw_loading">ခဏစောင့်ပါ…</string>
     <string name="fw_reload_sub_title">ပြန်ကြိုးစားကြည့်ရန် မျက်နှာပြင်ကို ထိနှိပ်ပါ</string>
     <string name="fw_reload_title">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။</string>
+    <string name="gallery_fold_tags">အမှတ်များကို ဖျောက်ထားပါ</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">ကင်မရာ</string>
     <string name="gallery_folder_alias_download">ဒေါင်းလုတ်များ</string>
@@ -190,6 +191,7 @@ ID -
     <string name="gallery_video_operate_text">အနှေးပြကွက် ချိန်ညှိခြင်းများ</string>
     <string name="gallery_video_save_video">ဗီဒီယိုပြုလုပ်နေသည်…</string>
     <string name="gallery_video_slow_edit">အနှေးရိုက်ချက်</string>
+    <string name="gallery_view_tags">အမှတ်များကို ပြပါ</string>
     <string name="get_back_pwd">စကားဝှက်ကို ပြန်လည်သတ်မှတ်နေသည်</string>
     <string name="get_ph_ticket">ကုဒ်နံပါတ် ရယူပါ</string>
     <string name="get_phone_bind_exceed_limit">ဖုန်းနံပါတ်တစ်ခုဖြင့် Mi အကောင့်သုံးခုအထိသာ တွဲသုံးနိုင်ပါသည်။ အကောင့်အသစ် ထည့်သွင်း၍ မရတော့ပါ။</string>
@@ -217,11 +219,16 @@ ID -
     <string name="language_setting_tips_dialog">ပါဝင်အရာများအတွက် ဘာသာစကားကို အကောင့် > ဘာသာစကား ထဲတွင် ရွေးနိုင်သည်။</string>
     <string name="later">နောက်မှ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
+    <string name="local_push_title">ယနေ့လူကြိုက်များသော</string>
     <string name="login">ဆိုင်းအင်ဝင်မည်</string>
     <string name="login_tip">သင့်တုံ့ပြန်အကြံပြုချက်အတွက် ကျွန်ုပ်တို့၏ ပြန်စာရရှိရန် အကောင့်ဝင်ပါ။</string>
     <string name="logout">ဆိုင်းအောက်ထွက်မည်</string>
     <string name="logout_account">ဆိုင်းအောက်လုပ်မည်</string>
     <string name="lp_base_folder">SD ကဒ်</string>
+    <string name="lp_play_mode_list_loop">အားလုံး ပြန်ကျော့ရန်</string>
+    <string name="lp_play_mode_pause">တစ်ခုပြရန်</string>
+    <string name="lp_play_mode_single_loop">တစ်ခု ပြန်ကျော့ရန်</string>
+    <string name="lp_play_mode_title">ပြသမှုမုဒ်</string>
     <string name="lp_speed_title">အမြန်ပြသမှု</string>
     <string name="lp_speed_toast">%s X အမြန်နှုန်းဖြင့် ပြသနေသည်…</string>
     <string name="lp_videoView_error_button">နားလည်ပါပြီ</string>
@@ -242,6 +249,7 @@ ID -
     <string name="lv_audio_track">အော်ဒီယို</string>
     <string name="lv_auto_update">နောက်မှ အပ်ဒိတ်လုပ်မည်</string>
     <string name="lv_brightness">တောက်ပမှု</string>
+    <string name="lv_cast">လွှင့်တင်ရန်</string>
     <string name="lv_check_delete_file">ဖျက်ရန် အိုင်တမ်များ ရွေးပါ</string>
     <string name="lv_check_send_file">တစ်ကြိမ်တွင် ဖိုင်တစ်ခုသာ ပေးပို့နိုင်သည်</string>
     <string name="lv_confirm_delete_history">ရွေးထားသော အိုင်တမ်များအား ဖျက်ပစ်မလား?</string>
@@ -357,6 +365,7 @@ ID -
     <string name="next">နောက်တစ်ဆင့်</string>
     <string name="nick_name">ချစ်စနိုးအမည်</string>
     <string name="no_account">အကောင့်ဝင်မထားပါ</string>
+    <string name="no_more_content">လောလောဆယ်ဤမျှသာ</string>
     <string name="no_network_tips">ဤဝန်ဆောင်မှုကို ယခု သုံး၍မရပါ။ ကွန်ရက်ကန့်သတ်ထားပါသည်။</string>
     <string name="no_phone">ဖုန်းနံပါတ် မရှိပါ</string>
     <string name="no_recommend_data">အကြံပြုလိုသော ဗီဒီယိုများ မရှိသေးပါ</string>
@@ -370,6 +379,7 @@ ID -
     <string name="notice_title">မက်ဆေ့(ချ်)များ</string>
     <string name="notify_apk_installed">အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="ok">အိုကေ</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="ovp_alert_dialog_download_install_task">HD ပလက်အင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>

@@ -7,7 +7,7 @@
     <string name="accessibility_shutter_button">ရှတ္တာ</string>
     <string name="action_search">ရှာဖွေပါ</string>
     <string name="address">လိပ်စာ−</string>
-    <string name="agree_app_use">QR ကုဒ်များစကန်ဖတ်ခြင်းနှင့် ၎င်းတို့ကို အခြားပုံများတွင်ပါလာလျှင် မှတ်မိနိုင်ခြင်း</string>
+    <string name="agree_app_use">QR ကုဒ်နှင့် အခြားပုံများ စကန်ဖတ်ခြင်း (အချို့အင်္ဂါရပ်များတွင် သင့်တည်နေရာကို ဖတ်ခွင့်လိုအပ်နိုင်သည်)</string>
     <string name="agree_btn">သဘောတူပါသည်</string>
     <string name="agree_camera_permission">ဓာတ်ပုံနှင့် ဗီဒီယိုရိုက်ခြင်းများအတွက်</string>
     <string name="agree_storage_permission">စက်ထဲတွင်သိမ်းထားသော ဓာတ်ပုံများနှင့် ဖိုင်များကို ဖတ်ခြင်းအတွက်</string>
@@ -20,7 +20,6 @@
     <string name="back">ဘက်ပြန်</string>
     <string name="barcode_into_rectangle">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
     <string name="birthday">မွေးနေ့−</string>
-    <string name="blog">Weibo</string>
     <string name="business_card">လိပ်စာကဒ်</string>
     <string name="business_card_result_title">လိပ်စာကဒ်</string>
     <string name="business_card_title">လိပ်စာကဒ်အား ဖရိန်အတွင်း ဝင်အောင်ထားပါ</string>
@@ -30,6 +29,8 @@
     <string name="business_no_result">လိပ်စာကဒ်ကို အသိအမှတ် မပြုနိုင်ပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="calender">ပြက္ခဒိန်</string>
     <string name="call_anyone">ဖုန်းခေါ်မည်</string>
+    <string name="calories_logo_text">Health Hope မှ ပံ့ပိုးသော AI အထောက်အကူ</string>
+    <string name="calories_request_interface_text">AI အထောက်အကူ</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="carsHome_title">ကား</string>
@@ -66,7 +67,6 @@
     <string name="document_crop_title">ဖိုင်စုအား ဖြတ်ပါ</string>
     <string name="document_grayscale">ဂရေးစကေး</string>
     <string name="document_grayscale_tip_msg">ဂရေးစကေးသို့ပြောင်းလဲနေသည်…</string>
-    <string name="document_ocr">OCR</string>
     <string name="document_ocr_result_copy">စာကို ကူးပါ</string>
     <string name="document_ocr_result_save">မှတ်စုများတွင် သိမ်းဆည်းပါ</string>
     <string name="document_ocr_result_title">ဖိုင်စုဓါတ်ပုံ</string>
@@ -120,7 +120,6 @@
     <string name="impunity_declaration_negative_text">ထွက်</string>
     <string name="impunity_declaration_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="jd_shopping_title">JD တွင် ရှာရန်</string>
-    <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Kuaidi 100 က ပံ့ပိုးပေးထားသည်</string>
     <string name="label_choose_picture">ပုံ ရွေးပါ</string>
     <string name="label_flash_light">ဖလက်ရှ်မီး</string>
@@ -193,14 +192,12 @@
     <string name="see_details">အသေးစိတ်ကြည့်ရန် ထိနှိပ်ပါ</string>
     <string name="select_dialog_confirm">အိုကေ</string>
     <string name="send_mail">အီးမေးလ် ပို့ပါ</string>
-    <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">အမြဲတမ်း မေးပါ</string>
     <string name="setting_default_function">မူလ သတ်မှတ်ချက်</string>
     <string name="setting_function_sort">အင်္ဂါရပ်များကို ပြန်စီပါ</string>
     <string name="setting_preference_pay">ပိုလိုလားသော ငွေပေးချေမှု နည်းလမ်း</string>
     <string name="setting_title">ဆက်တင်</string>
     <string name="setting_use_last_choose">ယခင်က ရွေးချယ်မှုကို မှတ်ထားပါ</string>
-    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">ရှာနေဆဲ…</string>
     <string name="shopping_title">ကုန်ပစ္စည်း၏ပုံအား ရိုက်ယူပါ</string>
     <string name="shopping_vendor_info">Taobao မှအားဖြည့်ထားသော</string>
@@ -219,7 +216,6 @@
     <string name="study_vendor_info">Zuoyebang မှ ပံ့ပိုးသည်</string>
     <string name="suggested_submission_success">သင့်တုံ့ပြန်အကြံပြုချက်ကို အောင်မြင်စွာ တင်ပြီးပါပြီ</string>
     <string name="switch_open">ဖွင့်ပါ</string>
-    <string name="taobao">Taobao</string>
     <string name="tel">ဖုန်း</string>
     <string name="title">ဂုဏ်ရာထူး−</string>
     <string name="to_install_title">ဤ QR ကုဒ်မှတစ်ဆင့် ထည့်မထားသော အက်(ပ်)များထံသို့ ရောက်သွားပါမည်။ ဤအက်(ပ်)ကို ယခု ဒေါင်းလုဒ်လုပ်လိုသလား။</string>
@@ -271,7 +267,6 @@
     <string name="wifi_psd_toolong">စကားဝှက်အလွန်ရှည်နေသည်။ စကားဝှက်ကို ကိုယ်တိုင်ရိုက်ထည့်ပါ။</string>
     <string name="wifi_pwd">စကားဝှက်−</string>
     <string name="wifi_security">လုံခြုံမှု−</string>
-    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (သင့်လျှောက်ထားမှုကို သုံးသပ်ရန်အတွက် မကြာမီ ပေးပို့သွားပါမည်။)"</string>
     <string name="wx_not_installed_toast">ဤဝန်ဆောင်မှုက WeChat သုံးရန်လိုအပ်သည်။ WeChat ကို ဦးစွာထည့်ပါ။</string>
     <string name="xiaoai_dialog">"သင်

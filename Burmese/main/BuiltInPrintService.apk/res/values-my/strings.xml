@@ -17,11 +17,13 @@
     <string name="fix">ခွင့်ပြုချက် စစ်ရန်</string>
     <string name="forget">မေ့ပစ်ရန်</string>
     <string name="hostname_or_ip">အင်တာနက်လက်ခံဝန်ဆောင်ပေးသူအမည် သို့မဟုတ် အိုင်ပီလိပ်စာ</string>
+    <string name="ip_hint">၁၉၂.၁၆၈.၀.၄</string>
     <string name="media_size_4x6in">၄x၆ လက်မ</string>
     <string name="media_size_54x86mm">၅၄x၈၆ မီလီမီတာ</string>
     <string name="media_size_5x7in">၅x၇ လက်မ</string>
     <string name="media_size_89x119mm">၈၉x၁၁၉ မီလီမီတာ</string>
     <string name="media_size_8x10in">၈x၁၀ လက်မ</string>
+    <string name="media_size_l">ကြီး</string>
     <string name="no_printer_found">ဤလိပ်စာတွင် ပုံနှိပ်စက်တစ်ခုမျှ မတွေ့ပါ</string>
     <string name="not_encrypted_request">ဤပုံနှိပ်ထုတ်စက်က အသွင်ဝှက်ထားသော အလုပ်များကို လက်ခံတော့မည် မဟုတ်ပါ။ ဆက်လက် ပုံနှိပ်ထုတ်လိုသလား။</string>
     <string name="printer_bad_certificate">အသိအမှတ်ပြုလက်မှတ် မမှန်ကန်ပါ</string>
@@ -44,7 +46,6 @@
     <string name="title_activity_add_printer">ပုံနှိပ်စက် ထည့်ရန်</string>
     <string name="unreadable_input">စာရွက်စာတမ်းကို ဖတ်၍မရပါ</string>
     <string name="waiting_to_send">ပို့ရန် စောင့်နေသည်</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_permission_rationale">"'ပုံသေ ပုံနှိပ်ပေးမှု ဝန်ဆောင်မှု' သည် အနီးရှိ စက်ပစ္စည်းများကို ရှာရန် တည်နေရာ ခွင့်ပြုချက်များ လိုအပ်ပါသည်။"</string>
     <string name="wifi_direct_printers">Wi-Fi Direct သုံး ပရင်တာများ</string>
     <string name="wifi_direct_printing">"'တိုက်ရိုက် Wi-Fi' ပုံနှိပ်ခြင်း"</string>

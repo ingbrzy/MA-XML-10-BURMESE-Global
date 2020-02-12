@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">အသံဖမ်းယူနေစဥ် အခြေအနေပြ ဘားတန်းအား ပြပါ</string>
     <string name="preference_tip_rename">အသံဖမ်းယူထားသည်များကို ကိုယ်တိုင် အမည်ပြန်ပေးပါ</string>
     <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="recognition_button_add_to_queue">တန်းစီစာရင်းသို့ ထည့်ရန်</string>
+    <string name="recognition_button_cancel">ယခုမထည့်ပါ</string>
+    <string name="recognition_button_start">စာသားပြောင်းရန်</string>
+    <string name="recognition_confirm_dialog_body">စာသားပြောင်းခြင်းက အချိန်ကြာနိုင်သည်။ လုပ်ပြီးလျှင် အသိပေးချက် ရရှိပါမည်။ ယခု စာသားပြောင်းလိုသလား။</string>
     <string name="recognition_error_cancel">ပယ်ဖျက်ခဲ့သည်</string>
     <string name="recognition_error_code">ကုဒ်အမှား- %d</string>
     <string name="recognition_error_download_cancel">နောက်မှ</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">အတွင်းပိုင်းအမှား</string>
     <string name="recognition_error_stopped">စာသားသို့ ကူးပြောင်းခြင်းမှ ရပ်လိုက်သည်</string>
     <string name="recognition_error_unknown">အမည်မသိ အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ကျွန်ုပ်တို့ထံ သတင်းပို့ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="recognition_interrupt_current_dialog_body">စာသားပြောင်းခြင်းက အချိန်ကြာနိုင်သည်။ လုပ်ပြီးလျှင် အသိပေးချက် ရရှိပါမည်။ ယခု \"%s\" ကို စာသားပြောင်းနေသည်။ ဤအလုပ်ကို စာသားပြောင်းရန် တန်းစီစာရင်းသို့ ထည့်လိုသလား။</string>
+    <string name="recognition_notification_channel">စာသားပြောင်းနေသည်</string>
+    <string name="recognition_notification_complete_success">\"%s\" ကို အောင်မြင်စွာ စာသားပြောင်းပြီးပါပြီ။ ကြည့်ရန် တို့ပါ။</string>
+    <string name="recognition_notification_error">\"%s\" ကို စာသားပြောင်းမရပါ</string>
+    <string name="recognition_notification_running">\"%s\" ကို စာသားပြောင်းနေသည် …</string>
     <string name="recognition_process_dialog_body">ယခု အခြား အသံသွင်းမှု (%s) အား စာသားသို့ ကူးပြောင်းနေသည်။ လုပ်ဆောင်ဆဲများအား ရပ်တန့်ပြီး အသစ် တစ်ခု စတင်မလား?</string>
     <string name="recognition_process_dialog_cancel">တန်းစီမည်</string>
     <string name="recognition_process_dialog_confirm">မရမက စတင်ပါ</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">စာသား ကူးပြောင်းခြင်း အင်ဂျင်အား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="recognition_status_downloading">"ဒေါင်းလုဒ်လုပ်နေသည် "</string>
     <string name="recognition_status_init">"ပြင်ဆင်နေသည် "</string>
+    <string name="recognition_stop_current">လက်ရှိ အလုပ်ကို ရပ်ရန်</string>
     <string name="recognize_choose_dialog_offline">အခမဲ့ စာသား ကူးပြောင်းမည်</string>
     <string name="recognize_choose_dialog_offline_desp">အင်တာနက်မသုံးဘဲ ကူးပြောင်းမည်</string>
     <string name="recognize_choose_dialog_online">ကလောက်တွင် စာသား ကူးပြောင်းမည်</string>

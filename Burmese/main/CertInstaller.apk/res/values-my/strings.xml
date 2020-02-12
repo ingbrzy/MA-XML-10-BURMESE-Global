@@ -54,8 +54,6 @@ Auth method: EAP-%5$s
     <string name="wifi_installer_fail_title">မထည့်သွင်းနိုင်ပါ</string>
     <string name="wifi_installing_label">တပ်ဆင်နေ</string>
     <string name="wifi_no_config">မရှိ</string>
-    <string name="wifi_sim_config_text">"SIM: %s
-"</string>
     <string name="wifi_title">"Wi-Fi  ပရိုဖိုင်"</string>
     <string name="wifi_tls_config_text">"အသုံးပြုသူ လက်မှတ်:
 %1$s

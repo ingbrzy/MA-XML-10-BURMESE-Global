@@ -27,6 +27,7 @@
     <string name="action_item_hifi">နားကြပ် &amp; အော်ဒီယို အထူးပြုလုပ်ချက်များ</string>
     <string name="action_item_play_all">အားလုံး ရှက်ဖ်ဖယ်လုပ်မည်</string>
     <string name="action_item_play_next">နောက်တစ်ပုဒ်တွင် ဖွင့်မည်</string>
+    <string name="action_item_play_video">သီချင်းဗီဒီယို ဖွင့်မည်</string>
     <string name="action_item_remove">ဖယ်ရှားပါ</string>
     <string name="action_item_remove_from_favorite">အကြိုက်မဟုတ်</string>
     <string name="action_item_share">မျှဝေခြင်း</string>
@@ -84,6 +85,7 @@
     <string name="artist_name">အနုပညာရှင်</string>
     <string name="audio_picker_title">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
     <string name="auto_recommend">အလိုအလျောက် (အကြံပြုသည်)</string>
+    <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="auto_update_tip">စနစ်အက်ပ်များအား မိုဘိုင်းဒေတာဖြင့် အပ်ဒိတ်လုပ်နိုင်သည်။ သို့သော် အပိုငွေများ ကုန်ကျနိုင်ခြေရှိသည်။</string>
     <string name="available_playlist_name_format">ဖွင့်ရန်စာရင်းသစ်%d</string>
@@ -101,11 +103,13 @@
     <string name="button_wait_for_wifi">စောင့်ပါ</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="cancel_running_download">ပယ်ဖျက်မည်</string>
+    <string name="cannot_download_to_sdcard_hint">မူပိုင်ခွင့်ဆိုင်ရာ ကန့်သတ်ချက်များကြောင့် ဤအိုင်တမ်များအား SD ကတ်အတွင်းသို့ ဒေါင်းလုတ်ရယူ၍ မရနိုင်ပါ။ အိုင်တမ်များအား စက်အတွင်းပိုင်း သိုလှောင်ခန်းအတွင်းသို့ ဒေါင်းလုတ်ဆွဲပေးပါမည်။</string>
     <string name="change_download_quality">ဒေါင်းလုဒ်အရည်အသွေးကို ပြောင်းလဲပါ</string>
     <string name="checking_new_version">အပ်ဒိတ် ရှိမရှိ စစ်ဆေးနေသည်…</string>
     <string name="choose_download_quality">ဒေါင်းလုဒ်အရည်အသွေးရွေးပါ</string>
     <string name="choose_music_lang_pref">သီချင်းများအတွက် နှစ်သက်ရာဘာသာစကားများ</string>
     <string name="choose_stream_quality">တိုက်ရိုက်ကြည့်ခြင်းအရည်အသွေးရွေးပါ</string>
+    <string name="click_and_watch_video_tip">သီချင်းဗီဒီယိုဖွင့်ရန် တို့နှိပ်ပါ</string>
     <string name="click_to_add_album_cover_and_lyric">အယ်(လ်)ဘမ် အဖုံးပုံနှင့် စာသားများ ရယူရန် တို့ပါ</string>
     <string name="click_to_shuffle">ရှက်ဖ်ဖယ်လုပ်ရန် ထိနှိပ်ပါ</string>
     <string name="close_music_time">"ကျန်သောအချိန်: "</string>
@@ -116,6 +120,7 @@
     <string name="connecting_apk">ချိတ်ဆက်နေသည်…</string>
     <string name="create_playlist">ဖွင့်ရန်စာရင်း ဖန်တီးမည်</string>
     <string name="create_playlist_failure">သီချင်းစာရင်းအား မဖန်တီးနိုင်ခဲ့ပါ</string>
+    <string name="create_playlist_input_hint">သီချင်းစာရင်းအမည်ကို ထည့်ပါ</string>
     <string name="current_album">လက်ရှိ အယ်လ်ဘမ်အဖုံး</string>
     <string name="current_lyric">လက်ရှိ သီချင်းစာသား</string>
     <string name="current_version">လက်ရှိဗားရှင်း</string>
@@ -221,7 +226,9 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
@@ -298,6 +305,7 @@
     <string name="favorites">အကြိုက်ဆုံးများ</string>
     <string name="feed_back">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="file_not_found">ဖိုင် မရှိ</string>
+    <string name="filter_by_MP4">MP4 ဖိုင်ပါသော ဖိုင်တွဲများကို ပြသရန်</string>
     <string name="filter_by_duration">အရှည်အရ</string>
     <string name="filter_by_duration_max">%d မိနစ်</string>
     <string name="filter_by_duration_min">%d စက္ကန့်</string>
@@ -338,6 +346,7 @@
     <string name="home_tab_local">ကျွန်ုပ်၏သီချင်း</string>
     <string name="home_tab_more_music">အခြားသီချင်းများ</string>
     <string name="home_tab_online">အွန်လိုင်းသီချင်း</string>
+    <string name="home_tab_recommend">အွန်လိုင်း</string>
     <string name="home_tab_search">ရှာရန်</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">ပရိုအဖွဲ့ဝင်သာ သီချင်းအများအပြား ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ယခု ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
@@ -522,6 +531,7 @@
     <string name="online_apk_install_in_background">အွန်လိုင်း အကြောင်းအရာအား နောက်ခံတွင် ရယူနေသည်…</string>
     <string name="online_apk_install_network_change_paused">မိုဘိုင်းဒေတာအား သုံးနေသည်။ အိုင်တမ် ရယူခြင်းအား ခေတ္တရပ်ဆိုင်းထားသည်။ ကြည့်ရှုရန် %s အား ထိနှိပ်ပါ။</string>
     <string name="online_apk_install_network_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="online_apk_install_tips">ဤအကြောင်းအရာ ဖန်တီးသူ၏ ပလက်အင်အား တစ်ကြိမ်မျှ ဒေါင်းလုတ်ရယူရန် လိုအပ်ပါသည်။ နောက်တစ်ကြိမ်တွင် သီချင်းများအားလုံးကို တိုက်ရိုက်ဝင်ရောက်နားဆင်နိုင်ပေလိမ့်မည်။</string>
     <string name="online_list_delete_message">ဖွင့်စာရင်းထဲရှိဒေါင်းလုဒ်လုပ်ထားသော သီချင်းအားလုံးအား အတွင်းသိုလှောင်မှုမှနေ၍ ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="online_playlist_category">သီချင်းစာရင်း</string>
     <string name="online_recommend">ဖွင့်စာရင်း</string>
@@ -584,6 +594,7 @@
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -653,6 +664,8 @@
     <string name="service_and_settings">ဝန်ဆောင်မှုနှင့် ဆက်တင်များ</string>
     <string name="set_as_alarm_clock_ringtone">နှိုးစက်သံ</string>
     <string name="set_as_ring">ဖုန်းမြည်သံအဖြစ်သတ်မှတ်မည်</string>
+    <string name="set_online_home_subtitle">ဤအက်ပ် စတင်သောအခါ အွန်လိုင်းအကြံပြုချက်များ ဖွင့်ပါ</string>
+    <string name="set_online_home_title">စတင်သောအခါ အွန်လိုင်းအကြံပြုချက်များကို ပြသပါ</string>
     <string name="set_ringtones_failed">ဖုန်းမြည်သံကို မသတ်မှတ်နိုင်ပါ</string>
     <string name="set_ringtones_successful">%s ဖုန်းမြည်သံအဖြစ်သတ်မှတ်ပြီးပါပြီ</string>
     <string name="setting_feature_setting">အသွင်ပြင်ဆက်တင်များ</string>
@@ -776,6 +789,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
@@ -790,4 +804,5 @@
     <string name="wifi_required_title">ဤဖိုင်အား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်သင့်သည်</string>
     <string name="you_can_switch_mode_in_settings">ဆက်တင်များထဲတွင် မုဒ်တစ်ခုမှ တစ်ခုသို့ ပြောင်းနိုင်သည်</string>
     <string name="you_may_like">အခြားသင်ကြိုက်နိုင်သည်များ</string>
+    <string name="youtube_play_history">ဖွင့်ထားသော မှတ်တမ်း</string>
 </resources>
