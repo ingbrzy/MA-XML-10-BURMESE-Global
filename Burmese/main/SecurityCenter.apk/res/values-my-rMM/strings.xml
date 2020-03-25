@@ -557,7 +557,6 @@
     <string name="card_main_private_space_summary">ဒုတိယနေရာအား အသုံးပြုခြင်းသည် စက်နှစ်လုံးရှိနေသည်နှင့် တူပါသည်</string>
     <string name="card_main_private_space_title">ဒုတိယနေရာ</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ဖန်တီး</string>
     <string name="card_main_xspace_summary">မည်သည့်အက်ပ်အတွက် မဆို အကောင့်နှစ်ခုတွဲ ဖန်တီးပါ</string>
     <string name="card_main_xspace_title">နှစ်ခုတွဲအက်ပ်</string>
@@ -750,7 +749,6 @@
     <string name="doze_optimization_title">အကောင်းဆုံး ထိနှိပ် ထိန်းချုပ်မှု</string>
     <string name="dual_setting_simcard1">ဆင်းမ်1</string>
     <string name="dual_setting_simcard2">ဆင်းမ်2</string>
-    <string name="ellipsis">…</string>
     <string name="email">အီးမေးလ်</string>
     <string name="empty_app">အက်ပ်များ မရှိပါ</string>
     <string name="empty_title_auto_start_list">မည်သည့်အက်ပ်စ်မှအလိုအလျောက်မစရ။</string>
@@ -1397,11 +1395,9 @@
     <string name="menu_text_antispam">ပိတ်ဆို့စာရင်း</string>
     <string name="menu_text_antivirus">လုံခြုရေးစကန်</string>
     <string name="menu_text_garbage_cleanup">သန့်ရှင်းစက်</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">ခွင့်ပြုချက်များ</string>
     <string name="menu_text_networkassistants">ဒေတာ သုံးစွဲမှု</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1409,7 +1405,6 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">အရှိန်မြှင့်တင်မည်။</string>
     <string name="menu_text_power_manager">ဓာတ်ခဲ &amp; လုပ်ဆောင်ရည်</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ခြွင်းချက်များမှ ဖယ်ရှားပါ</string>
     <string name="menu_white">ခြွင်းချက်များသို့ ပေါင်းထည့်မည်</string>
     <string name="mi_service_app_detail">ဒေတာသုံးစွဲမှု အသေးစိတ်များ</string>
@@ -1736,11 +1731,6 @@
     <string name="power_center_dialog_msg_top">ဘက်ထရီချွေတာသူအား ဖွင့်ထားပါက MIUI မှ အောက်ပါတို့ကို လုပ်ဆောင်ပါမည်-</string>
     <string name="power_center_hints_scan_danger_result">ယခု ဘက်ထရီ ပြဿနာများအား ဖြေရှင်းနိုင်ပါပြီ</string>
     <string name="power_center_list_item_auto_brightness">မျက်နှာပြင်တောက်ပမှုအား အလိုအလျောက် ချိန်ညှိပါ</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">နာရီ</string>
     <string name="power_center_list_item_close_bluetooth">ဘလူးတုသ်အား ပိတ်ပါ</string>
     <string name="power_center_list_item_deep_save_title">အဆင့်မြင့် ဆက်တင်များ</string>
@@ -1887,7 +1877,6 @@
     <string name="pref_normal_traffic_limit">သတ်မှတ်ထားသော ဒေတာအစီအစဉ် ကုန်သွားပါက</string>
     <string name="pref_open_adjust_traffic">သင့်ဖုန်းကာရီယာမှ ​ဒေတာသုံးစွဲမှုအား နေ့တိုင်း အသစ်မွမ်းမံပါ။</string>
     <string name="pref_operator_not_set">ကာရီယာ မသတ်မှတ်ထားပါ</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">ဒေတာအစီစဉ်ထက် ကျော်သွားပါက</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_pkg_begin_date">အသုံးပြမှုပြန်သတ်မှတ်ခြင်းရက်စွဲ</string>
@@ -1956,7 +1945,6 @@
 
  ချိန်ညှိနေစဉ်၊MIUI သည် ချိန်ညှိပုံစံခွက်ရယူရန် သင့် ကာရီယာထံသို့ မက်ဆေ့ချ်များ ပေးပို့နိုင်ပါသည်။"</string>
     <string name="privacy_prompt_upload">လုဒ်တင်ပါ</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="promotion">ကြော်ငြာ</string>
     <string name="prompt_all">အားလုံးကိုမေးပါ။</string>
