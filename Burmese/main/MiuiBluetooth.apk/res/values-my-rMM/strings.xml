@@ -24,14 +24,13 @@
     <string name="fast_connect_device_connect_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="fast_connect_device_connect_setup">ဆက်တင်</string>
     <string name="fast_connect_device_connect_success">ပြီးပါပြီ</string>
-    <string name="fast_connect_device_headset">ဓာတ်ခဲ</string>
     <string name="fast_connect_device_headset_l">ဘယ်</string>
     <string name="fast_connect_device_headset_r">ညာ</string>
     <string name="fast_connect_device_headset_reset">သေတ္တာပေါ်ရှိ ခလုတ်အား ဖိပြီးနှိပ်ထားပါ</string>
     <string name="fast_connect_device_title_connect_fail">ချိတ်ဆက်၍ မရပါ %1$s</string>
     <string name="fast_connect_device_title_connecting">ချိတ်ဆက်နေသည်…</string>
-    <string name="fast_connect_device_title_find_headset">%1$s နားကြပ် တွေ့ရှိသည်</string>
-    <string name="fast_connect_device_title_find_headset_others">%1$s နားကြပ်နှင့် အခြား တွေ့ရှိသည်</string>
+    <string name="fast_connect_device_title_find_headset">%1$s ခု ရှာရန်</string>
+    <string name="fast_connect_device_title_find_headset_others">ဤစက်သည် သင့်စက်ဟုတ်ပုံမရပါ - %1$s</string>
     <string name="goto_package">%1$s ကို ဖွင့်ပါ</string>
     <string name="install_package">နောက်ထပ် လုပ်ဆောင်ချက်များအတွက် %1$s ကို တပ်ဆင်ပါ</string>
     <string name="mi_band_vibrate_alarm">နှိုးစက်အသံ မြည်သောအခါ တုန်ခါပါ</string>

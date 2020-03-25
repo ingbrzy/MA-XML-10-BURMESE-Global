@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>၀%</item>
         <item>၅၀%</item>
@@ -129,9 +147,9 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>ပိတ်ထားသည်</item>
         <item>စစ်ထုတ်ခြင်း ဖွင့်ထားသည်</item>
-        <item>စစ်ထုတ်ခြင်း ဖွင့်ထားသည်</item>
-        <item>မီဒီယာဒေတာ စစ်ထုတ်ခြင်း ဖွင့်ထားသည်</item>
-        <item>အသုံးပြုမည်</item>
+        <item>ဖွင့်ထားပါသည်</item>
+        <item>ခေါင်းစဉ်များဖြင့် စစ်ထုတ်ခြင်း ကို ဖွင့်ထားသည်</item>
+        <item>မီဒီယာပက်ကတ်များဖြင့် စစ်ထုတ်ခြင်း ကို ဖွင့်ထားသည်</item>
     </string-array>
     <string-array name="clock_options">
         <item>နာရီ၊ မိနစ်နှင့် စက္ကန့်ပြပါ</item>

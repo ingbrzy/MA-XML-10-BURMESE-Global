@@ -10,7 +10,6 @@
     <string name="retry">ပြန်ကြိုးစားပါ</string>
     <string name="cloud_app_current_device">လက်ရှိ ကိရိယာ</string>
     <string name="cloud_app_other_devices">အခြား ကိရိယာများ</string>
-    <string name="cloud_app_restore_app_and_data">သင့်ကိရိယာကို သတ်မှတ်ပါ</string>
     <string name="cloud_app_restore_data">ကိုယ်ရေးဒေတာနှင့် မကြာမီက တပ်ဆင်ထားသော အက်ပ်များက သင့်ကိရိယာပေါ်၌ အလိုလို ပေါ်လာပါမည်</string>
     <string name="cloud_app_dont_restore">ကိရိယာအသစ်အဖြစ် သတ်မှတ်ပါ</string>
     <string name="cloud_app_restore_wifi_prompt">ကလောက်အရန်သိမ်းစနစ်မှ ပြန်ယူရန်။</string>
@@ -50,6 +49,8 @@
     <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -222,4 +223,5 @@
     <string name="restore_task_unfinished">ပြန်လည်ရယူ၍ မရပါ</string>
     <string name="restore_failed_reason_network_error">ကွန်ရက် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="restore_failed_reason_disk_space_not_enough">နေရာလွတ် မလုံလောက်ပါ။ သိုလှောင်ခန်းအား ဦးစွာ ရှင်းလင်းပါ။</string>
+    <string name="cloud_app_restore_app_and_data">သင့်ကိရိယာကို သတ်မှတ်ပါ</string>
 </resources>

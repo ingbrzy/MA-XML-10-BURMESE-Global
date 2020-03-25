@@ -20,6 +20,8 @@
     <string name="app_name_downloadedrom">ပက်ကေ့ချ်များ</string>
     <string name="app_name_downloads">ဒေါင်းလုဒ်များ</string>
     <string name="app_name_market">အက်ပ်စတိုး</string>
+    <string name="app_name_midrop">Mi Drop</string>
+    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">တေးဂီတ</string>
     <string name="app_name_miuiringtone">ဖုန်းမြည်သံ</string>
     <string name="app_name_miuiwallpaper">နောက်ခံပုံ</string>
@@ -30,6 +32,7 @@
     <string name="auto_save_extend">တိုးမည်</string>
     <string name="auto_upgrade">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="big5_summary">တရုတ်စာလုံးရှည် ဝင်းဒိုးများ၏ သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
+    <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">အိုင်တမ်အများအပြားအား တစ်ကြိမ်တည်း ပေးပို့၍မရပါ</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="cancel_auto_save">မလိုအပ်ပါ</string>
@@ -113,6 +116,7 @@
     <string name="dialog_type_image">ရုပ်ပုံများ</string>
     <string name="dialog_type_text">စာရွက်စာတမ်း</string>
     <string name="dialog_type_video">ဗီဒီယိုများ</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">အမည် ပြပါ</string>
     <string name="domain">ဒိုမိန်း</string>
     <string name="download_success">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -159,6 +163,7 @@
     <string name="favorite_ringtone">ဖုန်းမြည်သံများ</string>
     <string name="favorite_screen_cap">မျက်နှာပြင်ပုံများ</string>
     <string name="feedback_send_email_body_extra_info">အောက်ပါအချက်အလက်များကို မဖျက်ပါနှင့်။ ကျွန်ုပ်တို့အား တည်နေရာရှာဖွေရာ၌ အထောက်အကူပြုနိုင်သည်။</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ဖတ်နိုင်သော−</string>
     <string name="file_info_canwrite">ရေးနိုင်သည်−</string>
     <string name="file_info_ishidden">ဝှက်ထားသော−</string>
@@ -182,6 +187,7 @@
     <string name="ftp_username_and_passworld">ဆိုင်းအင်ဝင်မည်</string>
     <string name="ftp_username_hint">သုံးသူအမည်</string>
     <string name="gbk_summary">တရုတ်စာလုံးတို ဝင်းဒိုးများ၏ သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
+    <string name="gigabyteShort">GB</string>
     <string name="homepage_tab_recent">မကြာမီက</string>
     <string name="host">ဟို့စ်</string>
     <string name="hot_sticker">စတစ်ကာများ</string>
@@ -197,15 +203,18 @@
     <string name="info_system_version">စနစ်ဗားရှင်း-</string>
     <string name="invalid_name_or_password">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="just_now">အခုလေးတင်</string>
+    <string name="kilobyteShort">KB</string>
     <string name="load_more">နောက်ထပ် ကြည့်ပါ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="local_image">ရုပ်ပုံများ</string>
     <string name="local_music">အသံဖိုင်များ</string>
+    <string name="local_network">LAN</string>
     <string name="local_video">ဗီဒီယိုဖိုင်များ</string>
     <string name="make_private">ကွယ်ဝှက်</string>
     <string name="make_private_msg_1">ဤဖိုင်အားဝှက်မည်လား?</string>
     <string name="make_private_msg_2">ဤဖိုင်များအား ဝှက်မည်လား?</string>
     <string name="make_private_msg_3">ဤဖိုလ်ဒါထဲရှိ ဖိုင်အားလုံးအား ဝှက်လိုက်လိမ့်မည်။</string>
+    <string name="megabyteShort">MB</string>
     <string name="menu_item_deep_clean">အတွင်းကျကျ ရှင်းလင်းခြင်း</string>
     <string name="menu_item_ftp">ကွန်ပျူတာသို့ ချိတ်ဆက်ပါ</string>
     <string name="menu_item_midrop">ဖိုင်များ လွှဲပြောင်းမည်</string>
@@ -215,8 +224,10 @@
     <string name="menu_item_sort_date">နေ့စွဲ မွမ်းမံပြီးပြီ</string>
     <string name="menu_item_sort_name">အမည်</string>
     <string name="menu_item_sort_type">အမျိုးအစား</string>
+    <string name="menu_item_usb">USB</string>
     <string name="mi_router_label">ရောင်တာ</string>
     <string name="mode">မုဒ်</string>
+    <string name="month_day_format">MMM dd</string>
     <string name="more">နောက်ထပ်</string>
     <string name="move_failed">ရွှေ့၍မရပါ</string>
     <string name="move_icon_to_desktop_hint">ဖိုင်များအား ပိုမိုသက်ရောက်စွာ လုပ်ဆောင်နိုင်ရန် ဖိုင်မန်နေဂျာ အတွက် ပင်မမျက်နှာပြင်တွင် ရှော့ကဒ်တစ်ခု ဖန်တီးပါ။</string>
@@ -297,6 +308,7 @@
     <string name="permission_required">ဖိုင်များအား ဖွင့်၍မရပါ။ ဆက်တင်သို့သွား၍ ဖိုင်မန်နေဂျာကို ဖိုင်သုံးခွင့်ပေးပါ။</string>
     <string name="permission_storage">သိုလှောင်ခန်း</string>
     <string name="permission_storage_desc">ဖိုင်များအား ရယူ/ဖန်တီးမည်၊ သိုလှောင်ခန်းသို့ ဝင်ရောက်၍ ဖိုင်များအား သိမ်းဆည်းမည်</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone">အတွင်းသိုလှောင်ခန်း</string>
     <string name="phone_storage">သိုလှောင်ခန်း</string>
     <string name="phone_storage_apk_title">APK: </string>
@@ -359,6 +371,7 @@
     <string name="search_empty_view_hint">တစ်ခုမှရှာမတွေ့ပါ</string>
     <string name="search_error_hint">ရှာ​ဖွေ</string>
     <string name="search_file_type_apk">APK</string>
+    <string name="search_file_type_doc">Doc</string>
     <string name="search_file_type_music">သီချင်း</string>
     <string name="search_file_type_picture">ဓာတ်ပုံ</string>
     <string name="search_file_type_video">ဗီဒီယို</string>
@@ -383,6 +396,7 @@
     <string name="settings_about">အကြောင်း</string>
     <string name="settings_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="settings_score">ဖိုင်မန်နေဂျာအား အမှတ်ပေးပါ</string>
+    <string name="share_facebook">Facebook</string>
     <string name="share_file_manger">ဖိုင်မန်နေဂျာအား မျှဝေမည်</string>
     <string name="share_via_qr_code">QR ကုဒ်ဖြင့် မျှဝေမည်</string>
     <string name="skip_file">ကျော်သွား</string>
@@ -404,6 +418,7 @@
     <string name="str_clean">ရှင်းပစ်ရန်</string>
     <string name="tab_common_app">အက်ပ်များ&amp;ဖိုလ်ဒါများ</string>
     <string name="tab_more">နောက်ထပ်</string>
+    <string name="terabyteShort">TB</string>
     <string name="terms_conditions">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="terms_conditions_desc">အောက်ပါ အိုင်တမ်များအား သေချာစွာ ဖတ်ရှုပြီး သဘောတူ/မတူ ရွေးပါ။</string>
     <string name="time_am">နံနက်</string>
@@ -436,6 +451,7 @@
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
     <string name="wechat_video">%s က ဗီဒီယို</string>
     <string name="wifi_state">Wi-Fi အခြေအနေ</string>
+    <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yes">ဟုတ်ပါသည်</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

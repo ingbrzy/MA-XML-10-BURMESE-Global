@@ -87,6 +87,9 @@
     <plurals name="songs_count">
         <item quantity="other">သီချင်း %d ပုဒ်</item>
     </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">သီချင်းတစ်ပုဒ်နှင့် တစ်ပုဒ်အကြား မှေးမှိန်ချိန် - %d စက္ကန့်</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">ဗီဒီယိုများ</item>
     </plurals>

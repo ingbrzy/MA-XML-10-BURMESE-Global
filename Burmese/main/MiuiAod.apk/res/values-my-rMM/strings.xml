@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="above_image">အပေါ်</string>
     <string name="accessibility_battery_level">ဘက်ထရီ %d ရာခိုင်နှုန်း။</string>
     <string name="accessibility_battery_level_charging">ဘက်ထရီ အားသွင်းနေသည်၊ %d ရာခိုင်နှုန်း။</string>
     <string name="align_type">ချိန်ရန်</string>
@@ -14,19 +15,22 @@
     <string name="aod_mode_summary">မျက်နှာပြင် ပိတ်သွားသောအခါ နာရီ၊ ရက်စွဲ၊ အသိပေးချက်များနှင့် နောက်ခံပုံများအား ပြပါ</string>
     <string name="aod_mode_time_summary">အမြဲဖွင့် မုဒ်ကို အဖွင့်အပိတ်လုပ်ရန် အချိန်သတ်မှတ်ပါ</string>
     <string name="aod_mode_time_title">အချိန်ဇယား</string>
-    <string name="aod_mode_title">အမြဲ ဖွင့်ထားမည်</string>
+    <string name="aod_mode_title">အမြဲပြသမျက်နှာပြင်</string>
+    <string name="aod_show_date_and_time">ရက်စွဲနှင့် အချိန်ပြပါ</string>
     <string name="aod_show_style_title">အိုင်တမ်များအား ပြပါ</string>
     <string name="aod_style">အပြင်အဆင်</string>
     <string name="aod_to_close">ပိတ်မည်</string>
     <string name="apply">သုံးရန်</string>
     <string name="apply_succeed">အောင်မြင်စွာသတ်မှတ်လိုက်ပါပြီ</string>
     <string name="background_icon">နောက်ခံ</string>
+    <string name="below_image">အောက်</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="choose_aod_style">အပြင်အဆင်ရွေးပါ</string>
     <string name="chosen_picture">နောက်ခံပုံရွေးရန်</string>
     <string name="clock_panel_icon">နာရီမျက်နှာပြင်</string>
     <string name="color_change_with_time_description">အချိန်ကိုလိုက်၍ စာလုံးအရောင်ကို အလိုအလျောက်ပြောင်းပါ</string>
     <string name="color_change_with_time_title">အရောင်ကို အလိုအလျောက်ပြောင်းပါ</string>
+    <string name="custom_image">စိတ်ကြိုက်ပုံ</string>
     <string name="deep_space_planet">အာကာသပုံ</string>
     <string name="deep_space_planet_des">ဤအပြင်အဆင်သည် သင့်အနီးနားရှိ နေ့ဘက်အလင်းရောင်အပေါ်မူတည်ပြီး အရောင်ပြောင်းပါသည်။ ဤအပြင်အဆင်၏ နေထွက်ချိန်နှင့် နေဝင်ချိန်တို့ကို သင့်တည်နေရာနှင့် ချိတ်ထားပါသည်။</string>
     <string name="digital_clock">ဒစ်ဂျစ်တယ်</string>
@@ -56,18 +60,20 @@
     <string name="show_battery_status">ဓာတ်ခဲအခြေအနေကို ပြပါ</string>
     <string name="show_notification">အသိပေးချက်များကို ပြပါ</string>
     <string name="show_notificaton">သတိပေးချက်များပြပါ</string>
+    <string name="shownone_arround_image">တစ်ခုမျှမရှိပါ</string>
     <string name="signature">လက်မှတ်</string>
     <string name="signature_default_content">"ကောင်းသောအရာတစ်ခုခုဖြစ်ကာနီးပြီဟု
 အမြဲယုံကြည်တွေးတောပါ"</string>
     <string name="standard_clock_panel">ပုံမှန်</string>
     <string name="standard_style">စံတော်ချိန်</string>
-    <string name="summary">"ပါဝါသုံးစွဲမှု လျော့ကျစေရန် အောက်ပါ အခြေအနေများတွင် အိုင်တမ်ကို မပြပါ-
-၁။ သင့်စက်သည် အမှောင်ထဲတွင် ကြာရှည်စွာ ရှိနေသောအခါ။
-၂။ မနှောင့်ယှက်ပါနှင့် မုဒ်အား ဖွင့်ထားသောအခါ။"</string>
+    <string name="summary">သင့်စက်ကို အမှောင်ထဲတွင် အချိန်အကြာကြီး ထားချိန်၌ ဓာတ်ခဲချွေတာနိုင်ရန်အတွက် ဟိုဟိုသည်သည်များ ဖွင့်မပြပါနှင့်။</string>
     <string name="temporary_style">မျက်နှာပြင်အား ထိနှိပ်ပြီးနောက် ၁၀ စက္ကန့် လင်းမည်</string>
     <string name="text_color">စာလုံးအရောင်</string>
     <string name="text_length_exceed_limit_alert">*ထည့်ထားသောစာသား အလွန်ရှည်သည်</string>
     <string name="text_size">စာသားအရွယ်</string>
+    <string name="time_location">နာရီအနေအထား</string>
     <string name="time_style">ဟန်</string>
     <string name="time_style_layout">နေရာချရန်</string>
+    <string name="disable_aod_in_power_save_mode">ဓာတ်ခဲချွေတာစနစ် ဖွင့်ထားစဉ် ပိတ်ရန်</string>
+    <string name="disable_aod_in_power_save_mode_summary">ဓာတ်ခဲချွေတာရန် ဟိုဟိုသည်သည်များ မဖော်ပြပါနှင့်</string>
 </resources>

@@ -83,6 +83,7 @@
     <string name="handy_mode_summary">ပိတ်ရန်မှောင်နေသောနေရာအား ထိနှိပ်ပါ</string>
     <string name="handy_mode_title">လက်တစ်ဖက်နည်းပုံစံ</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">သင့်လက်ချောင်းကို ဟုမ်းခလုတ်ပေါ်တွင် တင်ထားပါ</string>
+    <string name="input_method_clipboard_tips">ကူးယူထားသော အိုင်တမ်များအား ၄၈ နာရီအကြာတွင် ကလစ်ဘုတ်အတွင်းမှ ဖျက်ပစ်ပါမည်</string>
     <string name="input_method_edit_phrase_text">သုံးနေကျ စကားစုများများကို တည်းဖြတ်ရန်</string>
     <string name="input_method_no_content_text">ဤနေရာတွင် မည်သည့်အရာမျှ မရှိသေးပါ</string>
     <string name="input_method_switch_settings_text">ကီးဘုတ်ဆက်တင်များ</string>

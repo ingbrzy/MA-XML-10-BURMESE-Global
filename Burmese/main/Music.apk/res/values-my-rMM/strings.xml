@@ -85,7 +85,7 @@
     <string name="artist_name">အနုပညာရှင်</string>
     <string name="audio_picker_title">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
     <string name="auto_recommend">အလိုအလျောက် (အကြံပြုသည်)</string>
-    <string name="auto_sound_quality">Auto</string>
+    <string name="auto_sound_quality">အလိုအလျောက်</string>
     <string name="auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="auto_update_tip">စနစ်အက်ပ်များအား မိုဘိုင်းဒေတာဖြင့် အပ်ဒိတ်လုပ်နိုင်သည်။ သို့သော် အပိုငွေများ ကုန်ကျနိုင်ခြေရှိသည်။</string>
     <string name="available_playlist_name_format">ဖွင့်ရန်စာရင်းသစ်%d</string>
@@ -226,7 +226,9 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
@@ -572,6 +574,7 @@
     <string name="play_mode_play_all">အားလုံးဖွင့်ပါ</string>
     <string name="play_mode_shuffle_all">ရှက်ဖ်ဖယ်</string>
     <string name="play_next">နောက်တစ်ပုဒ်ဖွင့်</string>
+    <string name="play_setting">ပြန်ဖွင့်ရန်</string>
     <string name="play_video_with_traffic">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="play_video_with_traffic_toast">မိုဘိုင်းဒေတာအား အသုံးပြုနေသည်။</string>
     <string name="playlist_empty">အဖွင့်စာရင်းမတွေ့ရှိပါ</string>
@@ -592,6 +595,7 @@
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -708,6 +712,7 @@
     <string name="songgroup_pick_playlist">သီချင်းစာရင်း</string>
     <string name="sort_by_name">အမည်</string>
     <string name="sort_by_time">ရက်စွဲ</string>
+    <string name="sound_fade_in_and_out_when_change_song_automatically">သီချင်းတစ်ပုဒ်နှင့် တစ်ပုဒ်အကြား မှေးမှိန်ခြင်းကို သုံးကြည့်ပါ</string>
     <string name="start_to_check_new_version">အပ်ဒိတ် ရှိမရှိ စစ်ဆေးနေသည်…</string>
     <string name="start_to_download">ဒေါင်းလုဒ်လုပ်နေ…</string>
     <string name="start_to_play">ဖွင့်ပါ</string>
@@ -786,6 +791,7 @@
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>

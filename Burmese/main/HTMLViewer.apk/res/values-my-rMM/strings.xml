@@ -14,6 +14,8 @@
     <string name="open_wifi_connect_summary">အသေးစိတ်ကိုကြည့်ရန်ထိနှိပ်ပါ</string>
     <string name="open_wifi_connect_title">%1$sသို့ ချိတ်ဆက်ထားသော</string>
     <string name="permdesc_accessDrm">အက်ပ်ကို DRM-ကာကွယ်ထားသော အကြောင်းအရာများကို ဝင်ရောက်ရန် ခွင့်ပြုပါ။</string>
+    <string name="poco_launcher_privacy_policy">POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="poco_launcher_user_agreement">POCO Launcher အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="poco_privacy_policy">POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ &amp; POCO Launcher အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="policy_name">ပရိုတိုခေါ−%s</string>
     <string name="pre_installed_apps">ကြိုတင်ထည့်သွင်းထားသော အက်ပ်များ</string>

@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_sent_time_day">
+        <item quantity="other">%d ရက်အကြာက</item>
+    </plurals>
+    <plurals name="last_sent_time_hour">
+        <item quantity="other">%d နာရီအကြာက</item>
+    </plurals>
+    <plurals name="last_sent_time_minute">
+        <item quantity="other">%d မိနစ်အကြာက</item>
+    </plurals>
+    <plurals name="last_sent_time_month">
+        <item quantity="other">%d လ အကြာက</item>
+    </plurals>
+    <plurals name="last_sent_time_week">
+        <item quantity="other">%d ပတ် အကြာက</item>
+    </plurals>
     <plurals name="sent_frequency_per_day">
         <item quantity="other">တစ်နေ့တွင် အသိပေးချက် %d ခု</item>
     </plurals>

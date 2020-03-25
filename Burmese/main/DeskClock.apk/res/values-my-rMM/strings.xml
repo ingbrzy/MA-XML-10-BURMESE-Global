@@ -286,6 +286,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၁၀ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_date_provider_text">Mi Health က ပံ့ပိုးပေးထားသည့် အိပ်စက်ချိန် အချက်အလက်</string>
@@ -329,6 +330,7 @@
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">လှုပ်ရှားအချိန်ပိုင်းများ မရှိပါ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_purpose">ရုံးဖွင့်ရက်နှိုးစက်များပြုလုပ်ခြင်းနှင့် စိတ်ကြိုက်ဖုန်းသံများ သတ်မှတ်ခြင်း</string>
     <string name="system_time_setting">ဆက်တင်များ</string>
     <string name="system_time_settings_category_title">အချိန်ဆက်တင်များ</string>

@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">ဗီဒီယို စတင် ရိုက်ကူးမည်</string>
     <string name="accessibility_camera_record_stop">ဗီဒီယို ရိုက်ကူးခြင်း ရပ်တန့်မည်</string>
     <string name="accessibility_camera_shutter_finish">ဓာတ်ပုံ ရိုက်ပြီးပါပြီ</string>
+    <string name="accessibility_camera_switch_capture_recording">ဓာတ်ပုံမုဒ်နှင့် ဗီဒီယိုမုဒ်ကို အကူးအပြောင်းလုပ်ရန်</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">တစ်ကိုယ်လုံး မုဒ်အား ပိတ်ထားသည်</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">တစ်ကိုယ်လုံး မုဒ်အား ဖွင့်ထားသည်</string>
     <string name="accessibility_camera_video_960fps_120">120FPS</string>
@@ -71,14 +72,17 @@
     <string name="accessibility_video_pause_button">ဗီဒီယို ရိုက်ကူးခြင်း ခေတ္တရပ်မည်</string>
     <string name="accessibility_video_resume_button">ဗီဒီယို ဆက်လက် ရိုက်ကူးမည်</string>
     <string name="accessibility_zoom_button">ချုံ့ချဲ့မုဒ်</string>
-    <string name="ai_scene_mode_use_hint_text">"AI ကင်မရာသည် မြင်ကွင်းများကို အလိုအလျောက်ထုတ်ဖေါ်
-ပြီး ထိုအချက်အလက်ပေါ်မူတည်၍ ဓာတ်ပုံများကို အဆင့်မြှင့်တင်ပေးပါမည်"</string>
+    <string name="ai_scene_mode_use_hint_text">"AI သုံးပြီး မြင်ကွင်းများကို မှတ်မိစေရန်နှင့်
+ စိတ်ကြိုက်များကို အလိုအလျောက် ညှိနိုင်ရန်"</string>
     <string name="ai_scene_top_moon_off">အလင်းမှိန် မုဒ်</string>
     <string name="ai_scene_top_tip">လ မုဒ်</string>
     <string name="audio_focus_exit_button_text">အော်ဒီယိုဆုံချက် ပိတ်ပါ</string>
     <string name="autozoom_click_hint">လှုပ်ရှားနေစဥ် ဆုံချက်ချိန်ညှိရန် ထိုအရာဝတ္ထုအား ထိနှိပ်ပါ။ အနည်းဆုံး ၃ မီတာ အကွာတွင် နေပါ။</string>
     <string name="autozoom_disabled_hint">လှုပ်ရှားနေသော အရာများကို ခြေရာမခံတော့ပါ</string>
     <string name="autozoom_hint">လှုပ်ရှားနေသော အရာများကို ခြေရာခံမည်</string>
+    <string name="auxiliary_close_status">ထပ်ဆောင်းအထူးပြုလုပ်ချက်များကို ပိတ်ထားသည်</string>
+    <string name="auxiliary_exposure_feedback_status">အလင်းရောင် အတည်ပြုခြင်း ဖွင့်ထားသည်</string>
+    <string name="auxiliary_focus_peak_status">ဆုံချက် အထွတ်အထိပ် ဖွင့်ထားသည်</string>
     <string name="back_bokeh_use_hint">ဓာတ်ပုံ အကောင်းဆုံးဖြစ်ပေါ်စေရန် ရိုက်ကူးမည့်အရာအား ၁.၅ မီတာအတွင်း ထားပါ။</string>
     <string name="beauty_body">ကိုယ်ကာယ</string>
     <string name="beauty_body_body">သွယ်လျသော ခန္ဓာကိုယ်</string>
@@ -112,6 +116,7 @@
     <string name="camera_liveshot_on_tip">လှုပ်လှုပ်ရှားရှား ဓာတ်ပုံ</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="camera_setting">ကင်မရာ</string>
+    <string name="camera_settings_category_development">စမ်းသပ်ဆဲ အင်္ဂါရပ်များ</string>
     <string name="camera_settings_label">ကင်မရာ</string>
     <string name="camera_snap_mode_title">အမြန်ရိုက်ချက်မုဒ်</string>
     <string name="camera_snap_mode_title_detail">အသေးစိတ်ကိုကြည့်ရန် ထိနှိပ်ပါ</string>
@@ -159,7 +164,7 @@
     <string name="confirm_install_scanner_message">စကန်နာဖြင့် QRကုဒ်၊ ဘားကုဒ်များအား စကန်ဖတ်နိုင်သည်။ စကန်နာထည့်သွင်းတပ်ဆင်ရန် အင်တာနက်မလိုပါ။</string>
     <string name="confirm_install_scanner_title">စကန်နာ ထည့်သွင်းမည်</string>
     <string name="confirm_location_alert">ဓာတ်ပုံတည်နေရာများကို မှတ်ထားပါ</string>
-    <string name="confirm_location_message">ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ရိုက်ကူးသော နေရာများဖြင့် တဂ်လုပ်မလား။ အခြားအက်ပ်များက သင်သိမ်းဆည်းထားသော ပုံများနှင့်အတူ ဤအချက်အလက်ကို ဝင်ကြည့်နိုင်သည်။</string>
+    <string name="confirm_location_message">&lt;Data>ကင်မရာမှ ကြိုဆိုပါသည်။ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ရိုက်ထားသော တည်နေရာနှင့် တွဲတဂ်ပါက သင့်ရုပ်သံပြတိုက်ကို ပိုစနစ်ကျစေပြီး ရှာဖွေရလွယ်စေသည်။ တည်နေရာအချက်အလက်ကို ကန့်သတ်ပါက အချို့အင်္ဂါရပ်များကို လုပ်မရနိုင်ပါ။&lt;br/>&lt;br/>ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;/Data></string>
     <string name="confirm_location_title">ဓာတ်ပုံတည်နေရာများကို မှတ်ထားမလား။</string>
     <string name="confirm_recording_fail_calling_alert">ဖုန်းပြောနေစဉ် ရိုက်ကူး၍ မရပါ။</string>
     <string name="confirm_recording_fail_recorder_busy_alert">အခြားအက်ပ်တစ်ခုခုမှ ဤစက်၏မိုက်ခရိုဖုန်းအား အသံသွင်းရန် သုံးနေပြီးဖြစ်လိမ့်မည်။</string>
@@ -298,9 +303,11 @@
     <string name="live_sticker_fragment_tab_name">TikTok ဖန်တီးချက်များ</string>
     <string name="live_sticker_network_error_hint">ကွန်ရက် အမှား</string>
     <string name="live_sticker_updating">အပ်ဒိတ်လုပ်နေသည်…</string>
+    <string name="location_access_allow">ခွင့်ပြုရန်</string>
     <string name="location_permission_des">ဓာတ်ပုံနှင့် ဗီဒီယိုများအတွက် တည်နေရာ မှတ်ပါ</string>
     <string name="location_permission_not_ask_again">ဆက်တင်များထဲတွင် ကင်မရာအား သင့်တည်နေရာကို ဖတ်ခွင့်ပြုပါ။</string>
     <string name="location_permission_not_ask_again_go_to_settings">ခွင့်ပြုရန်</string>
+    <string name="log_format">မှတ်တမ်း</string>
     <string name="lying_direct_hint">လက်ရှိ အနေအထား</string>
     <string name="macro_mode">မက်ခရို</string>
     <string name="macro_mode_tip">မှန်ဘီးလူးနှင့် အရာဝတ္ထုအကြား ၁၀ စင်တီမီတာထက် မကျော်လွန်ပါစေနှင့်</string>
@@ -381,6 +388,7 @@
     <string name="module_name_professional">ပရို</string>
     <string name="module_name_square">စတုရန်းပုံ</string>
     <string name="module_name_video">ဗီဒီယို</string>
+    <string name="moive_frame">ရုပ်ရှင်ဘောင်</string>
     <string name="multi_window_mode_not_supported">ကင်မရာသည် မျက်နှာပြင်ခွဲတွင် အလုပ်မလုပ်ပါ</string>
     <string name="network_access_user_notice_agree">သဘောတူရန်</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>ဗီဒီယိုအတိုများအတွက် အထူးပြုလုပ်ချက်များ၊ တေးဂီတနှင့် အခြားအင်္ဂါရပ်များ ဆောင်ရွက်ပေးနိုင်ရန် ကင်မရာကို အင်တာနက်နှင့် ချိတ်ရပါမည်။&lt;br/>&lt;br/>အောက်ပါ သဘောတူသည် ကို တို့ခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;a href =%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href =%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို သဘောတူပြီး ကင်မရာအား အင်တာနက်နှင့် ချိတ်ခွင့်ပေးရာ ရောက်ပါသည်။&lt;/Data></string>
@@ -395,8 +403,47 @@
     <string name="pano_how_to_use_prompt_slow_down">အရှိန်လျော့နေသည်…</string>
     <string name="pano_how_to_use_prompt_start">ဦးတည်ရာပြောင်းရန် မြှားကိုထိနှိပ်ပါ၊ ဖုန်းကို ရေပြင်ညီအတိုင်းဖြည်းညင်းစွာ ရွေ့လျားပါ။</string>
     <string name="pano_how_to_use_prompt_to_move">အလျဉ်မပြတ် ဖြည်းညင်းစွာ ရွေ့လျားပါ</string>
+    <string name="parameter_description_pro_capture_title">ဓာတ်ပုံရိုက်ရန်အတွက် အဆင့်မြင့်အင်္ဂါရပ်များ</string>
+    <string name="parameter_description_pro_video_title">ဗီဒီရိုရိုက်ရန်အတွက် အဆင့်မြင့်အင်္ဂါရပ်များ</string>
+    <string name="parameter_description_sub_title">သင့် ဓာတ်ပုံနှင့် ဗီဒီယိုများအပေါ် ပိုကောင်းသော ထိန်းချုပ်ဖန်တီးမှု ရယူပါ</string>
+    <string name="parameter_ef_split_description">အလင်းကွင်းကို ဆုံချက်ကွင်းနေရာအနီးမှ ဆွဲယူပြီး ပါရာမီတာနှစ်ခုကို သီးခြား ချိန်နိုင်သည်။</string>
+    <string name="parameter_ef_split_title">ဆုံချက်နှင့် အလင်းအတိုင်းအတာများကို ခွဲခြားရန်</string>
+    <string name="parameter_et_description">အလိုအလျောက်အလင်းပေါက်အရှိန်ကို ကင်မရာ၏ အလင်းရောင်မီတာက ဆုံးဖြတ်သည်။ အလင်းပေါက်အရှိန်ကို ကိုယ်တိုင်ရွေးပါက အလင်းပေါက်ကြာကြာပွင့်လျှင် ဆင်ဆာကတွင် အလင်းရောင်ပိုကျပြီး ပုံကို ပိုတောက်ပစေကြောင်း သတိပြုပါ။</string>
+    <string name="parameter_exposure_description">မီတာက အကြံပြုသည်ထက် တောက်ပလိုလျှင် သို့မဟုတ် မှောင်လိုလျှင် ဤအင်္ဂါရပ်က အလင်းရောင်ကို အစားပြန်ပေးသည်။</string>
+    <string name="parameter_exposure_feecback_description">မှန်ကန်စွာ အလင်းရောင်ချိန်နိုင်ရန် အလင်းရောင်နည်းသော နေရာများကို အပြာဖြင့်ပြီး အလင်းရောင်များသော နေရာများကို အနီဖြင့်ပြပါ။</string>
+    <string name="parameter_exposure_feecback_title">အလင်းရောင် အတည်ပြုခြင်း</string>
+    <string name="parameter_exposure_title">အလင်း စုစည်းချက်</string>
+    <string name="parameter_focus_description">ကိုယ်တိုင် သို့မဟုတ် အလိုအလျောက် ဆုံချက်ဖမ်းနိုင်သည်။ ဆုံချက်ကို တန်ဖိုးအမြင့်ထားလေလေ ဆုံချက်ဧရိယာသည် မှန်ဘီလူးများနှင့် ပိုဝေလေဖြစ်သည်။</string>
+    <string name="parameter_focus_title">ဆုံချက်</string>
+    <string name="parameter_histogram_description">Histogram သည် ဘယ်ဘက်အမှောင်ဆုံးနေရာများမှ ညာဘက် အလင်းဆုံးနေရာများတစ်လျှောက် အချိန်နှင့် တစ်ပြေးညီ အလင်းညွှန်ပြခြင်း စနစ်ဖြစ်သည်။ ချိန်မှတ်ရှိ ထောင်လိုက်အပိုင်းက ရိုက်ကွင်း၏ အလင်းအမှောင် ပမာဏကို ဖော်ပြသည်။</string>
+    <string name="parameter_histogram_title">Histogram</string>
+    <string name="parameter_iso_description">ISO တန်ဖိုးများကို အလင်းရောင်မီတာက အလိုအလျောက် ဆုံးဖြတ်သည်။ ၎င်းတန်ဖိုးကို ကိုယ်တိုင်လည်း ပြောင်းနိုင်သည်။ ISO မြင့်လျှင် ကင်မရာက အလင်းဒဏ်ခံနိုင်မှုနည်းပြီး ပုံတွင် ဒစ်ဂျစ်တယ်မညီမျှမှုများ ဖြစ်ပေါ်စေသည်။</string>
+    <string name="parameter_lens_description">ရရှိနိုင်သော မှန်ဘီလူးများ အကူးအပြောင်းလုပ်နိုင်သည် -</string>
+    <string name="parameter_lens_marco">၊ မက်ခရို (မက်ခရို မှန်ဘီလူးများ)</string>
+    <string name="parameter_lens_st">၊ S-TELE (ဇုမ်းဆွဲ မှန်ဘီလူးများ)</string>
+    <string name="parameter_lens_t">၊ TELE (တယ်လီဓာတ်ပုံ မှန်ဘီလူးများ)</string>
+    <string name="parameter_lens_tele_2x">၊ TELE-2X (တယ်လီဓာတ်ပုံ မှန်ဘီလူးများ)</string>
+    <string name="parameter_lens_tele_5x">၊ TELE-5X (တယ်လီဓာတ်ပုံ မှန်ဘီလူးများ)</string>
+    <string name="parameter_lens_title">မှန်ဘီလူးများ</string>
+    <string name="parameter_lens_uw">၊ UW (တယ်လီဓာတ်ပုံ မှန်ဘီလူးများ)</string>
+    <string name="parameter_lens_w">အကျယ် (ဒေါင့်ကျယ် မှန်ဘီလူးများ)</string>
+    <string name="parameter_log_format_description">ထင်ရှားသောအရာများနှင့် အရိပ်များကို အသေးစိတ်ဖမ်းယူနိုင်ရန်အတွက် ဤဖောမတ်သည် ဗီဒီယိုကို အလင်းကွေးစနစ်သုံးသော လော်ဂရီသမ်လုပ်ဆောင်ချက်ဖြင့် ရိုက်ကူးသည်။ ထို့ကြောင့် ရိုက်ပြီးနောက် ရွေးချယ်စရာ ပိုရသည်။</string>
+    <string name="parameter_log_format_title">မှတ်တမ်းဖောမတ်</string>
+    <string name="parameter_metering_description">ပျမ်းမျှမီတာသည် သင့်ဓာတ်ပုံ၏ ဧရိယာအားလုံးအတွက်ထည့်စဉ်းစားပြီး ရိုက်ကွင်းနေရာအားလုံးကို အလင်းရောင် အညီအမျှကျစေသည်။ ဗဟိုအသားပေးမီတာ သုံးခြင်းဖြင့် ဘောင်အတွင်းရှိ ဗဟိုနေရာကို ဆုံချက်များယူပြီး ပတ်ဝန်းကျင်နေရာများအတွက် ဘောင်ဗဟိုရှိ ရိုက်လိုသောအရာနှင့် လိုက်ဖက်သောအလင်းရောင်ကို ပေးသည်။ နေရာအတိအကျမီတာသုံးပါက တစ်နေရာတည်းအတွက်သာ အလင်းရောင်ကို အတိအကျ ချိန်နိုင်သည်။</string>
+    <string name="parameter_metering_title">အတိုင်းအတာမုဒ်များ</string>
+    <string name="parameter_peak_focus_description">ကိုယ်တိုင်ဆုံချက်ဖမ်းစဉ် ဆုံချက်ဖမ်းလိုသော နေရာတွင် အနီရောင်ပြစေရန်အတွက် ဆုံချက်အထွတ်အထိပ်ကို သုံးပါ</string>
+    <string name="parameter_peak_focus_title">ဆုံချက် အထွတ်အထိပ်</string>
+    <string name="parameter_peak_raw_description">ဤဓာတ်ပုံဖောမတ်က ဓာတ်ပုံရိုက်စဉ် ဆင်ဆာတွင်မိသော ပုံအချက်အလက်အားလုံးကို ဖမ်းယူသည်။ ဒေတာဖြည်ခြင်းဖြင့် ရိုက်ပြီးနောက် ရွေးချယ်စရာ ပိုရသည်။</string>
+    <string name="parameter_peak_raw_title">အကြမ်းဖောမတ်</string>
+    <string name="parameter_wb_description">အဖြူခံညှိခြင်း ကြိုတင်သတ်မှတ်ချက်များ (အလင်းရောင်ထွက်ခြင်း၊ နေ့အလင်းရောင်၊ မီးချောင်းအလင်း၊ တိမ်ထူ) အပြင် အဖြူခံညှိခြင်းကို စိတ်ကြိုက်တန်ဖိုး 2000–8000 Kelvin ကြား သတ်မှတ်နိုင်သည်။</string>
+    <string name="parameter_wb_title">အဖြူခံညှိခြင်း</string>
+    <string name="parameter_zoom_slider_description">အဝေးရိုက်မှ အနီးရိုက်သို့ ချော့မွေ့စွာ ပြောင်းနိုင်စေရန် ဇုမ်းကို အောက်သို့ ဆွဲချပါ။</string>
+    <string name="parameter_zoom_slider_title">ဇုမ်း</string>
     <string name="path_settings">စနစ်အက်ပ်များ/ကင်မရာ/ဆက်တင်များ</string>
     <string name="photo_assistance_tips_title">တိုက်ရိုက်အကြံပြုချက်များ</string>
+    <string name="pic_flaw_blink_more">ဘောင်ထဲရှိလူတစ်ဦးဦး မျက်စိပိတ်နေပုံရသည်</string>
+    <string name="pic_flaw_blink_one">ဘောင်ထဲရှိလူ မျက်စိပိတ်နေပုံရသည်</string>
+    <string name="pic_flaw_cover">မှန်ဘီလူးကွယ်နေပုံရသည်</string>
     <string name="popup_tip_3d_beauty_intro_text">3D အလှ</string>
     <string name="portait_effect_entry_blackwhite">B&amp;W</string>
     <string name="portait_effect_entry_cool">ဆန်းသစ်</string>
@@ -418,6 +465,17 @@
 လူပုံမုဒ်အား သုံးပါ"</string>
     <string name="portrait_bokeh_text">လူပုံမုဒ်</string>
     <string name="portrait_bokeh_tips">၁.၅ မီတာအတွင်းတွင် ထားပါ</string>
+    <string name="portrait_india_effect_entry_memory">အမှတ်တရ</string>
+    <string name="portrait_india_effect_entry_mono">မိုနို</string>
+    <string name="portrait_india_effect_entry_pink">ပန်းရောင်</string>
+    <string name="portrait_india_effect_entry_portrait">ပုံတူ</string>
+    <string name="portrait_india_effect_entry_retro">ရှေးဖက်ရှင်</string>
+    <string name="portrait_india_effect_entry_romantic">စိတ်ကူးယဉ်ဆန်</string>
+    <string name="portrait_india_effect_entry_strong">အပြင်းအထန်</string>
+    <string name="portrait_india_effect_entry_sunny">နေသာသော</string>
+    <string name="portrait_india_effect_entry_sweet">သကြားညို</string>
+    <string name="portrait_india_effect_entry_warm">နွေးထွေးသော</string>
+    <string name="portrait_india_effect_entry_young">လူငယ်ဆန်ဆန်</string>
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_lowlight_hint">ယခု အလွန်မှောင်နေသည်</string>
     <string name="portrait_mode_too_close_hint">အဝေးသို့ ရွှေ့ပေးပါ</string>
@@ -427,7 +485,6 @@
     <string name="portrait_mode_use_hint_for_bokeh">"လူပုံမုဒ်အား သုံးကြည့်ပါ။
 လူပုံမုဒ်သည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီးအရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
     <string name="pref_960_watermark_title">960FPS ရေစာ</string>
-    <string name="pref_advance_settings">ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="pref_ai_detect">AI ရှာဖွေခြင်း</string>
     <string name="pref_audio_focus_entry_front">အရှေ့</string>
     <string name="pref_audio_focus_entry_general">ပုံမှန်</string>
@@ -452,6 +509,10 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">ဖရိန် ပုံမှန်စံနှုန်း</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">အစက်အပြောက် တွက်ချက်ခြင်း</string>
     <string name="pref_camera_autoexposure_title">အော်တို အလင်းဖွင့်ချိန် ဆက်တင်များ</string>
+    <string name="pref_camera_auxiliary_close">ပိတ်ရန်</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">အလင်းရောင် အတည်ပြုခြင်း</string>
+    <string name="pref_camera_auxiliary_focus_peak">ဆုံချက် အထွတ်အထိပ်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
@@ -476,6 +537,7 @@
     <string name="pref_camera_coloreffect_entry_vsco_a4">လှပသောအဆင်း</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">သတ္တုအရောင်</string>
     <string name="pref_camera_coloreffect_title">အရောင်စစ်မှန်ပြားများ</string>
+    <string name="pref_camera_common_settings">အထွေထွေ ဆက်တင်များ</string>
     <string name="pref_camera_contrast_title">ဖြူမဲတိုးလျော့</string>
     <string name="pref_camera_delay_capture_entry_10s">၁၀ စက္ကန့် နောက်ပြန်ရေ</string>
     <string name="pref_camera_delay_capture_entry_3s">၃ စက္ကန့်</string>
@@ -484,12 +546,10 @@
     <string name="pref_camera_delay_capture_title">တိုင်မာ</string>
     <string name="pref_camera_device_watermark_title">စက် အမှတ်အသား</string>
     <string name="pref_camera_exposuretime_entry_0_5">၂ စက္ကန့်</string>
-    <string name="pref_camera_exposuretime_entry_1">1s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
     <string name="pref_camera_exposuretime_entry_125">1/125s</string>
     <string name="pref_camera_exposuretime_entry_15">1/15s</string>
     <string name="pref_camera_exposuretime_entry_16s">၁၆စက္ကန့်</string>
-    <string name="pref_camera_exposuretime_entry_2">1/2s</string>
     <string name="pref_camera_exposuretime_entry_250">1/250s</string>
     <string name="pref_camera_exposuretime_entry_30">1/30s</string>
     <string name="pref_camera_exposuretime_entry_32s">32s</string>
@@ -526,6 +586,8 @@
     <string name="pref_camera_hdr_entry_live">တိုက်ရိုက်</string>
     <string name="pref_camera_hdr_entry_normal">အားသာချက်</string>
     <string name="pref_camera_hdr_entry_off">ပိတ်</string>
+    <string name="pref_camera_heic_image_format_description">ထိရောက်မှုမြင့်ဖိုင်ဖောမတ်နှင့်ပုံများက နေရာယူမှုနည်းသော်လည်း အချို့အက်(ပ်)များတွင် ပံ့ပိုးမပေးပါ</string>
+    <string name="pref_camera_heic_image_format_title">HEIF ဖောမတ်</string>
     <string name="pref_camera_hfr_entry_2x">၆၀</string>
     <string name="pref_camera_hfr_entry_3x">၉၀</string>
     <string name="pref_camera_hfr_entry_4x">၁၂၀</string>
@@ -548,6 +610,7 @@
     <string name="pref_camera_lying_summary">မြေပြင်နှင့် မျဥ်းပြိုင်အနေအထားတွင် ရှိနေသောအခါ ဓာတ်ပုံ၏ ဒေါင်လိုက်/အလျားလိုက်အား အသိပေးပါ</string>
     <string name="pref_camera_lying_title">ဒေါင်လိုက်/အလျားလိုက် အသိပေးချက်</string>
     <string name="pref_camera_magic_mirror_title">မှော်မှန်</string>
+    <string name="pref_camera_manual_description_title">အဆင့်မြင့်အင်္ဂါရပ်များအကြောင်း</string>
     <string name="pref_camera_manual_mode_title">ကိုယ်တိုင်သတ်မှတ်မှု</string>
     <string name="pref_camera_movie_solid_title">ရုပ်ပုံ ငြိမ်သက်စေခြင်း</string>
     <string name="pref_camera_multilevel_entry_high">မြင့်သော</string>
@@ -571,6 +634,7 @@
     <string name="pref_camera_portrait_mode_title">လူပုံမုဒ်</string>
     <string name="pref_camera_proximity_lock_summary">အိတ်ထဲတွင် ထည့်ထားစဉ် ထိနှိပ်မှုလက်ဟန်များအား သော့ခတ်ပါ</string>
     <string name="pref_camera_proximity_lock_title">အိတ်ထောင်မုဒ်</string>
+    <string name="pref_camera_quick_settings">အမြန်ဆက်တင်များ</string>
     <string name="pref_camera_recordlocation_entry_off">ပိတ်မည်</string>
     <string name="pref_camera_recordlocation_entry_on">ဖွင့်မည်</string>
     <string name="pref_camera_recordlocation_title">တည်နေရာအချက်အလက်ကို သိမ်းထားပါ</string>
@@ -675,6 +739,9 @@
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_photo_assistance_tips_off">ပိတ်ရန်</string>
     <string name="pref_photo_assistance_tips_on">ဖွင့်ရန်</string>
+    <string name="pref_pic_flaw_tip_summary">ဘောင်ထဲရှိလူများ မျက်စိပိတ်နေလျှင် သို့မဟုတ် ရိုက်ကူးစဉ် မှန်ဘီလူးကွယ်နေလျှင် အချိန်နှင့်တစ်ပြေးညီ အသိပေးချက်ရယူပါ</string>
+    <string name="pref_pic_flaw_tip_title">အမှားများအကြောင်း အသိပေးပါ</string>
+    <string name="pref_popup_camera_title">ပေါ်တက် ကင်မရာ</string>
     <string name="pref_priority_storage_title">SD ကဒ်သို့ သိမ်းဆည်းပါ</string>
     <string name="pref_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="pref_qc_focus_position_title">F</string>
@@ -813,7 +880,7 @@
     <string name="video_effect_entry_polaroid">ပိုလာရိုက်</string>
     <string name="video_reach_size_limit">အရွယ်အစားကန့်သတ်ချက်သို့ ရောက်နေပြီ။</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား ကြည့်ရှုရန်</string>
     <string name="vv_duartion_hint">%1$s | အစိတ်အပိုင်း %2$d | %3$ss</string>
     <string name="vv_hint">အလျားလိုက်မုဒ်တွင်သာ vlog ရိုက်၍ရပါသည်</string>

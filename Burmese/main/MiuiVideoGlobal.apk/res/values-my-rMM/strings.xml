@@ -76,12 +76,16 @@
     <string name="choose_to_signup">မဟုတ်ပါ၊ အသစ်တစ်ခု ဖန်တီးမည်</string>
     <string name="click_to_reload_more">ပိုမိုသိရှိနိုင်ရန် ထိနှိပ်ပါ</string>
     <string name="click_to_retry">ထပ် စမ်းပါ</string>
+    <string name="cloud_online_switch">စိတ်ကြိုက် အကြံပြုချက်များ</string>
+    <string name="cloud_online_switch_close_time">%s အတွင်းတွင် စိတ်ကြိုက် အကြောင်းအရာ အကြံပြုချက်များကို ဖွင့်နိုင်ပါသည်</string>
+    <string name="cloud_online_switch_open_time">စိတ်ကြိုက် အကြောင်းအရာ အကြံပြုချက်များကို ပြပါ</string>
     <string name="collect_diagnosis_log">မှတ်တမ်းများ စုဆောင်းမည်</string>
     <string name="com_permission_desc">Mi ဗီဒီယိုသည် သင်၏စက်ထဲရှိ ဗီဒီယိုများသို့ ဝင်ရောက်၍ မရပါ။ ဆက်တင်သို့သွား၍ ဝင်ရောက်ခွင့်ပြုပါ။</string>
     <string name="com_permission_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="comment_model_add_comment">မှတ်ချက်ရေးရန်</string>
     <string name="comment_model_bg_add_comment">သင့်အမြင်ကို ကျွန်ုပ်တို့ ကွန်မြူနတီတွင် မျှဝေပါ</string>
     <string name="comment_model_bg_deleted_comment">ဤမှတ်ချက်ကို ဖျက်ထားသည်</string>
+    <string name="comment_model_close">မှတ်ချက်ပေး၍ မရသေးပါ။ ဆက်စောင့်ပေးပါ။</string>
     <string name="comment_model_comment">မှတ်ချက်များ</string>
     <string name="comment_model_confirm_delete">မှတ်ချက်ကို ယခုဖျက်လိုသလား။</string>
     <string name="comment_model_copy">ကူးယူရန်</string>
@@ -218,6 +222,7 @@ ID -
     <string name="language_setting_tips">ပိုမိုထိရောက်သော အကြံပြုချက်များရယူရန် နှစ်သက်ရာဘာသာစကားရွေးပါ။ ဘာသာစကားကို ပရိုဖိုင် > ဘာသာစကား ထဲတွင် ရွေးပြောင်းနိုင်သည်။</string>
     <string name="language_setting_tips_dialog">ပါဝင်အရာများအတွက် ဘာသာစကားကို အကောင့် > ဘာသာစကား ထဲတွင် ရွေးနိုင်သည်။</string>
     <string name="later">နောက်မှ</string>
+    <string name="live_tv_title">Live TV</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="local_push_title">ယနေ့လူကြိုက်များသော</string>
     <string name="login">ဆိုင်းအင်ဝင်မည်</string>
@@ -371,6 +376,7 @@ ID -
     <string name="no_recommend_data">အကြံပြုလိုသော ဗီဒီယိုများ မရှိသေးပါ</string>
     <string name="no_subscriptions">ဤနေရာတွင် အိုင်တမ်မရှိပါ</string>
     <string name="not_show">နောက်ထပ် မပြပါနှင့်</string>
+    <string name="not_support_share">ဤအရာကို မျှဝေမရသေးပါ</string>
     <string name="notice_comment_action">%s ဦးက သင့်ပို့တွင် မှတ်ချက်ပေးထားသည်</string>
     <string name="notice_comment_action_deleted">ဤမှတ်ချက်ကို ဖျက်ထားသည်</string>
     <string name="notice_feedback_content">သင့်တုံ့ပြန်အကြံပြုချက်အပေါ် အသစ်တက်လာသည်။ ကြည့်ရှုရန် တို့ပါ။</string>
@@ -379,6 +385,7 @@ ID -
     <string name="notice_title">မက်ဆေ့(ချ်)များ</string>
     <string name="notify_apk_installed">အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="ok">အိုကေ</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="ovp_alert_dialog_download_install_task">HD ပလက်အင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
@@ -744,6 +751,10 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="save_cancel_toast">ဗီဒီယိုသိမ်းဆည်းခြင်းကို ဖျက်သိမ်းရန် \"နောက်သို့\" ကို ထပ်နှိပ်ပါ</string>
     <string name="screenrecord_cancel">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများ</string>
     <string name="screenrecord_nosupport_record">မျက်နှာပြင်ရီကော်တာအား ဤစက်မှ လက်ရှိတွင် မပံ့ပိုးသေးပါ။</string>
+    <string name="screenshot_8k">8K မျက်နှာပြင်ရိုက်ချက်</string>
+    <string name="screenshot_8k_save_toast">8K မျက်နှာပြင်ရိုက်ချက်ကို %s သို့ သိမ်းပြီးပါပြီ</string>
+    <string name="screenshot_8k_saving">8K မျက်နှာပြင်ရိုက်ချက်ကို သိမ်းနေသည်…</string>
+    <string name="screenshot_8k_share">ဖိုင်ပို့ရမည့်နေရာ -</string>
     <string name="search">ရှာရန်</string>
     <string name="search_choose_language">ဘာသာစကားကို ရွေးပါ</string>
     <string name="search_choose_voice_language">အသံ ရှာဖွေခြင်း အတွက် ဘာသာစကား ရွေးပါ</string>

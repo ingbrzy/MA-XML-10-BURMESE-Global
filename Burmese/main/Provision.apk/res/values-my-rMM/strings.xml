@@ -35,6 +35,7 @@
     <string name="content_description_start">စတင်</string>
     <string name="content_introduction">ပါဝင်ပစ္စည်းများစင်တာတွင် ရုပ်သံလိုင်းအမြောက်အမြားမှ ပါဝင်ပစ္စည်းများနှင့် ဝန်ဆောင်မှုများကို စုစည်းပေးသည်။ ဤနေရာတွင် သတင်းဖတ်ခြင်း၊ ဗီဒီယိုကြည့်ခြင်း၊ နေစဉ်ဝန်ဆောင်မှုအသစ်များကြည့်ခြင်းများကို ပြုလုပ်နိုင်ပြီး ပါဝင်ပစ္စည်းဆိုင်ရာအကြံပြုချက်များ ရယူနိုင်သည်။</string>
     <string name="continue_to_enable_accessibility">ဝင်သုံးခွင့် ဖွင့်ရန် လက်ချောင်းနှစ်ချောင်းဖြင့် ဖိထားပါ။</string>
+    <string name="data_traffic_enable_dialog_title">သင်သည် ယခု Wi-Fi ချိတ်မထားပါက သင့်စက်သည် မိုဘိုင်းဒေတာကို သုံးပါမည်။ မိုဘိုင်းဒေတာကို သုံးခြင်းဖြင့် လိုင်းကြေး အပိုကုန်နိုင်ပါသည်။</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">သင့်စက်အား သော့ဖြည်ရန် လက်ဗွေအား အသုံးပြုပါ၊ Mi Pay လွှဲပြောင်းမှုများအား အတည်ပြုပါ၊ သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -59,7 +60,7 @@
     <string name="font_hint_large">ပုံမှန် စာသား အရွယ်အစား</string>
     <string name="font_hint_normal">စာသား အရွယ်အစား ကြီးမည်</string>
     <string name="framework_introduction">Mi ဝန်ဆောင်မှုများ စနစ်ဖွဲ့စည်းပုံတွင် Mi အကောင့်၊ Mi တွန်းအား၊ Mi ကိန်းဂဏန်းများနှင့် MIUI BI တို့ကို သုံးနိုင်သည်။</string>
-    <string name="framwork_base_service">သင့်အား ဤဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် Mi ဝန်ဆောင်မှုများစနစ်ဖွဲ့စည်းပုံ (Mi အကောင့်၊ Mi တွန်းအား၊ Mi ကိန်းဂဏန်း MIUI BI) တို့သည် ကွန်ရက်နှင့်ချိတ်ဆက်ပြီး သင့်ဖုန်းနံပါတ်၊ IMEI နှင့် IMSI တို့ကို ဖတ်ရှုခွင့်နှင့် သင့်စက်တွင်အသိပေးချက်များပေးပို့ ရယူခွင့်လိုအပ်သည်</string>
+    <string name="framwork_base_service">သင့်အား ဤဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် Mi ဝန်ဆောင်မှုများစနစ်ဖွဲ့စည်းပုံ (Mi အကောင့်၊ Mi Push၊ Mi ကိန်းဂဏန်း၊ MIUI BI) တို့သည် ကွန်ရက်နှင့်ချိတ်ဆက်ပြီး သင့်တည်နေရာ၊ ဖုန်းနံပါတ်၊ IMEI နှင့် IMSI တို့ကို ဖတ်ရှုခွင့်နှင့် သင့်စက်တွင်အသိပေးချက်များပေးပို့ရယူခွင့် လိုအပ်သည်</string>
     <string name="game_introduction">ဂိမ်းများပလပ်အင်ဖြင့် အကောင့်ဝင်ခြင်း၊ အစီအစဉ်ချခြင်း၊ ငွေချေခြင်း၊ ကူပွန်သုံးခြင်းနှင့် ပရိုမိုးရှင်းပွဲများပါဝင်ခွင့်ပြုခြင်းတို့ကို ပြုလုပ်နိုင်သည်။</string>
     <string name="google_service_introduction">Google ပလေးသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ဆက်ခြင်း၊ သင့်တည်နေရာကို ရယူခြင်း၊ အသံသွင်းခြင်း၊ ဖုန်းခေါ်ခြင်းအပြင် သင့်ပြက္ခဒိန်အစီအစဉ်များ၊ ဖုန်းခေါ်မှတ်တမ်း၊ ဆင်ဆာများ၊ သိုလှောင်ခန်း၊ ကင်မရာ၊ စက်၏အချက်အလက်များနှင့် အကောင့်များအား ဖတ်ခြင်းတို့ကို ပြုလုပ်ရပါမည်။</string>
     <string name="ime_privacy_policy">ရွေးထားသော ကီးဘုတ်အတွက် ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
@@ -146,6 +147,8 @@
     <string name="permission_virusscan_introduction">ဗိုင်းရပ်စကန်ဖတ်ခြင်းနှင့် စက်ကို ပိုကောင်းအောင်ပြုလုပ်ခြင်းတို့အတွက်</string>
     <string name="permission_xunlei_introduction">Xunlei ဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် စက်စနစ်အကောင့်များသို့ ဝင်ခြင်းနှင့် စီမံခန့်ခွဲခြင်းတို့အတွက်</string>
     <string name="poco_agree_terms_other">(POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ နှင့် POCO Launcher အသုံးပြုသူ သဘောတူညီမှု အပါအဝင်)</string>
+    <string name="poco_launcher_privacy_policy">POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="poco_launcher_user_agreement">POCO Launcher အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="pref_title_data_slot">ဒေတာ ဆင်းမ်ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
     <string name="pref_title_voice_slot">အသံ ဆင်းမ်ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
     <string name="privacy_policy">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
@@ -214,11 +217,11 @@
     <string name="terms_of_use_label_systemhelper">၊ ကိုယ်တိုင် မှတ်ပုံတင်ခြင်း ဝန်ဆောင်မှု</string>
     <string name="terms_of_use_label_updater">၊ အပ်ဒိတ်လုပ်ခြင်း</string>
     <string name="terms_of_use_lable_apps">Mi ဝန်ဆောင်မှုများ၊ Mi SIM ကတ် စဖွင့်ခြင်းဝန်ဆောင်မှုများ၊ Xiaomi ကလောက်၊ စက်ကိုရှာရန်၊ ပင်မမျက်နှာပြင်၊ ဂိမ်းများ၊ MIUI Daemon၊ MSA စနစ် အစိတ်အပိုင်းများ၊ ဘာသာပြန်ဝန်ဆောင်မှုများ၊ အမြန်အက်(ပ်)များ၊ အက်(ပ်)ပေါင်းစုစနစ်၊ စာရင်းဇယားများ၊ Mi လင့်</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
-r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
 ဤအင်္ဂါရပ်အား မသုံးမီ Facemoji ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို သဘောတူရမည်။"</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 ဤအင်္ဂါရပ်အား မသုံးမီ Kika ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို သဘောတူရမည်။"</string>
     <string name="terms_of_use_lable_gms">၊ Google Play ဝန်ဆောင်မှု</string>
     <string name="terms_of_use_lable_smart_cards">၊ စမတ် ကဒ်များ</string>
@@ -227,7 +230,7 @@ r
     <string name="terms_privacy_policy_input_method_kika">Kika ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="title_fingerprint">စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီချက်</string>
-    <string name="user_agreement_declare">MIUI ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင့်စက်ကို အသုံးပြုရန် စဖွင့်နေစဉ် Mi SIM အသက်သွင်းစနစ်ဝန်ဆောင်မှု၊ ပင်မစာမျက်နှာ၊ သက်ဆိုင်ရာအဆင့်များ၊ ဘာသာပြန်ဝန်ဆောင်မှု၊ MIUI Daemon နှင့် အပ်ပဒိတ်လုပ်စက်တို့က ကွန်ရက်နှင့် ချိတ်ဆက်ပါမည်။ MSA က ကွန်ရက်နှင့်ချိတ်ဆက်ပြီး သင့်တည်နေရာကို ရယူပါမည်။</string>
+    <string name="user_agreement_declare">MIUI ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင့်စက်ကို အသုံးပြုရန် စဖွင့်နေစဉ် Mi SIM အသက်သွင်းစနစ်ဝန်ဆောင်မှု၊ Xiaomi ကလောက်၊ စက်ရှာဖွေစနစ်၊ ပင်မစာမျက်နှာ၊ အသုံးများသော စကားစုများ၊ ဘာသာပြန်ဝန်ဆောင်မှု၊ MIUI Daemon၊ HTML Viewer၊ AI Assistant ဓာတ်ခဲနှင့် စွမ်းဆောင်ရည်၊ ပါဝါစမ်းသပ်စနစ်၊ Joyese၊ OS AI ဆက်တင်နှင့် အပ်ပဒိတ်လုပ်စနစ်တို့က ကွန်ရက်နှင့် ချိတ်ဆက်ပါမည်။ Smart ဝန်ဆောင်မှုများက ကွန်ရက်နှင့်ချိတ်ဆက်ပြီး သင့်တည်နေရာကို ရယူပါမည်။</string>
     <string name="voice_assist_advice">Mi AI သည် အသံထိန်းချုပ်မှုအား သုံးရန် ခွင့်ပြုသည်၊ သို့သော် ဘက်ထရီ ပိုကုန်စေနိုင်သည် (၁ နာရီလျှင် ၁%)။</string>
     <string name="voice_assist_condition">"Mi AI အား အောက်ပါ အခြေအနေများတွင် သုံးနိုင်သည်-r
 ၁။ မျက်နှာပြင် လင်းနေသောအခါ၊r
