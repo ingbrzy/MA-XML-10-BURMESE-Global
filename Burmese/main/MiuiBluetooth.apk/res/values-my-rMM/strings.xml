@@ -17,6 +17,7 @@
     <string name="bluetooth_search_for_devices">ကိရိယာများကို ရှာပါ</string>
     <string name="device_picker">ဘလူးတုသ်ကိရိယာ ဆက်တင်များ</string>
     <string name="disconnect">အတွဲဖြုတ်ပါ</string>
+    <string name="fast_connect_device_battery">ဓာတ်ခဲ</string>
     <string name="fast_connect_device_box">သေတ္တာ</string>
     <string name="fast_connect_device_box_name">%1$s သေတ္တာ</string>
     <string name="fast_connect_device_connect_cancel">ပယ်ဖျက်မည်</string>

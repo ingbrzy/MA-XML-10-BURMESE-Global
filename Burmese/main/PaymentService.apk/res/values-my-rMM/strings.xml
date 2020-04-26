@@ -23,7 +23,7 @@
     <string name="passport_account_hint_text">အီးမေးလ်လိပ်စာ၊ ဖုန်းနံပါတ် သို့မဟုတ် Mi အကောင့် ID</string>
     <string name="passport_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
     <string name="passport_account_label">Mi အကောင့်</string>
-    <string name="passport_account_name">အကောင့်- %1$s</string>
+    <string name="passport_account_name">"အကောင့်- %1$s "</string>
     <string name="passport_account_not_activated">အကောင့်ကို အသက်မသွင်းရသေးပါ</string>
     <string name="passport_account_not_actived">သင်၏အကောင့်အသက်မသွင်းရသေးပါ</string>
     <string name="passport_account_set_password">စကားဝှက်သတ်မှတ်ပါ</string>
@@ -214,4 +214,5 @@
     <string name="passport_wrong_phone_number_format">သင်ထည့်သွင်းခဲ့သော ဖုန်းနံပါတ်ဖွဲ့စည်းမှုပုံစံ မမှန်ကန်ပါ</string>
     <string name="passport_wrong_vcode">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_yes">ဟုတ်ပါတယ်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
 </resources>

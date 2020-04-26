@@ -95,6 +95,7 @@
     <string name="other_settings_auto_update">အလိုအလျောက်ပြုလုပ်သော စနစ်သစ်မွမ်းမံမှုများ</string>
     <string name="other_settings_auto_update_summary">MIUI သည် ဒေါင်းလုဒ်လုပ်ရန်နှင့် အပ်ဒိတ်များ တပ်ဆင်ရန်အတွက် အကောင်းဆုံးအချိန်ကို ရွေးချယ်ပေးသွားပါမည်။ ထိုပြောင်းလဲမှုများ အသက်ဝင်စေရန်အတွက် သင့်စက်အား အလိုအလျောက် ပြန်လည်စတင်ပေးသွားပါမည်။</string>
     <string name="other_settings_enhanced_lockscreen">နောက်ခံပုံ လှည့်ပြခြင်း</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Mi အတွက် Glance</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="other_settings_enhanced_lockscreen_summary">သင်ကြိုက်တတ်သောဓာတ်ပုံများနှင့် ဇာတ်လမ်းများအား သင့်သော့ခတ်မျက်နှာပြင်သို့ နေ့စဉ်ပို့ပေးမှုကို ရယူပါ။ %1$s နှင့် %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">တစ်ဦးချင်းအသုံးပြုသူ လိုင်စင်သဘောတူညီချက်</string>
@@ -160,7 +161,7 @@
     <string name="require_authority_statement">သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန် ကျွန်ုပ်တို့က သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်ပေးရပါမည် -</string>
     <string name="require_network_authority_statement">သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် သင်သည်အင်တာနက်နှင့်ချိတ်ရမည်ဖြစ်ပြီး ကျွန်ုပ်တို့က သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်ပေးရပါမည် -</string>
     <string name="screen_recording_introduction">ဤအက်(ပ်)ဖြင့် သင့်ဖန်သားပြင်တွင် ဖြစ်ပေါ်နေသည်များကို ဗီဒီယိုမှတ်တမ်းယူနိုင်သည်။</string>
-    <string name="security_introduction">ဤအက်(ပ်)ဖြင့် သင့်စက်ရှိ အမှိုက်ပုံးကိုရှင်းခြင်း၊ ဗိုင်းရပ်များရှာပြီး သတ်ခြင်း၊ ဂိမ်းကစားစဉ် လုပ်ဆောင်ရည်မြင့်စေခြင်း၊ ဓာတ်ခဲချွေတာခြင်း၊ အက်(ပ်)များကို စီမံခန့်ခွဲခြင်းနှင့် အခြားအရာများကို ပြုလုပ်နိုင်ပါသည်။</string>
+    <string name="security_introduction">သင့်စက်ပေါ်ရှိ အမှိုက်များကို ရှင်းရန်၊ ဗိုင်းရပ်စ်ရှာ၍ သတ်ရန်၊ ဂိမ်းကစားခြင်းအတွက် စွမ်းဆောင်မှုကို အစွမ်းကုန်မြှင့်တင်ရန်၊ အက်ပ်များကို စီမံရန်၊ ခွင့်ပြုချက်များပေးရန်နှင့် အစရှိသည်တို့အတွက် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်ပါသည်။</string>
     <string name="security_mobile_account_introduction">စနစ်အကောင့်များသို့ ဝင်ခြင်းနှင့် စီမံခန့်ခွဲခြင်းတို့အတွက်</string>
     <string name="service_agreement">ကျွန်ုပ်သည် စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</string>
     <string name="service_name_album">ပြခန်း</string>
@@ -206,7 +207,7 @@
     <string name="summary_not_set">မသတ်မှတ်ထား</string>
     <string name="system_navigation_mode">စနစ်အညွှန်းမုဒ်</string>
     <string name="terms_of_use">စည်းမျဉ်းစည်းကမ်းများ</string>
-    <string name="terms_of_use_ble_htmlViewer">, Fused တည်နေရာရှာသူဝန်ဆောင်မှု၊ HTMLViewer</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTML Viewer</string>
     <string name="terms_of_use_label">"ကျွန်ုပ်တို့သည် မည်သည့်အချက်အလက်များကိုကောက်ယူသည်၊ ၎င်းတို့ကိုမည်သို့အသုံးပြုသည်နှင့် သင်က မည်သို့ရွေးချယ်နိုင်သည်ကို နားလည်နိုင်ရန် အသုံးပြုသူသဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကိုဖတ်ပါ။
 သင်သည် MIUI ကို မသုံးမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူသဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောတူရပါမည်။
 %s နှင့် Mi အကောင့်အစိတ်အပိုင်းများသည် အင်တာနက်နှင့်ချိတ်ဆက်မည်ဖြစ်ပြီး သင့်တည်နေရာကို လိုအပ်ပါသည်။"</string>

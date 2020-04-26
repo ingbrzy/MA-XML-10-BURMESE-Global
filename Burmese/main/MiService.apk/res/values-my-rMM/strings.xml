@@ -3,8 +3,12 @@
     <string name="mi_service_app_name">ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်</string>
     <string name="miservice_channel_update_notification_info">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" က အွန်လိုင်းရှိသောဒေတာများကိုတောင်းနေသည်…</string>
     <string name="miservice_notification_boot_content">MIUI လုပ်နိုင်သော အရာများကို လေ့လာပါ</string>
+    <string name="miservice_notification_huanji_content">Mi ရွှေ့ပြောင်းသူကို သုံးပြီး ၎င်းတို့ကို ရွှေ့ပါ</string>
+    <string name="miservice_notification_huanji_title">ဖုန်းအဟောင်းတွင် အရေးကြီးသောအရာများ ရှိသလား။</string>
     <string name="miservice_notification_open_feedback_content">တုံ့ပြန်အကြံပြုမှုအင်္ဂါရပ်အားလုံးကို အက်(ပ်)အသစ်သို့ ရွှေ့လိုက်ပါပြီ</string>
     <string name="miservice_notification_open_feedback_title">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို မိတ်ဆက်ခြင်း</string>
+    <string name="miservice_notification_scan_content">စကားလုံးများနှင့် စကားများကို ဘာသာပြန်ရန် Scanner ကို သုံးပါ</string>
+    <string name="miservice_notification_scan_title">တစ်ခဏအတွင်း ဘာသာပြန်ပါ</string>
     <string name="miui_feedback_answer_detail_community">သင့်မေးခွန်းများအတွက် အဖြေကို Mi ကွန်မြူနတီတွင် မတွေ့ပါ</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">အသုံးဝင်ပါသည်</string>
     <string name="miui_feedback_answer_detail_feedback_result">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါသည်။</string>
@@ -19,6 +23,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">သင်တိုင်ကြားလိုသော ပြဿနာသည် ကင်မရာရုပ်ထွက်နှင့် သက်ဆိုင်ပါက ပြဿနာကို ကျွန်ုပ်တို့ ဖြေရှင်းပေးနိုင်ရန်အတွက် နမူနာပုံမူရင်းတစ်ခုကို မဖြတ်တောက်ဘဲ ထည့်ပေးပါ။ ပုံကို ယခုထည့်လိုပါသလား။</string>
     <string name="miui_feedback_edit_choose_module">အကြောင်းအရာရွေးရန်</string>
     <string name="miui_feedback_edit_choose_module_hint">လိုအပ်သည်များ</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">အချိန်</string>
     <string name="miui_feedback_edit_choose_reproductivity">ဖြစ်နိုင်ခြေ</string>
     <string name="miui_feedback_edit_choose_third_app_name">အက်(ပ်)အမည် ရွေးရန်</string>
     <string name="miui_feedback_edit_contact_info_hint">ဖုန်းနံပါတ်/အီးမေး(လ်)</string>
@@ -31,6 +36,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">စာကြမ်းကို ဖျက်လိုပါသလား။</string>
     <string name="miui_feedback_edit_hint">ချွတ်ယွင်းချက်များကို အမြန်ဆုံး ဖြေရှင်းပေးနိုင်ရန်အတွက် ချွတ်ယွင်းချက်များကြုံရတိုင်း သတင်းပို့ပါ</string>
     <string name="miui_feedback_edit_hint_gone">ပိတ်ထားသော မက်ဆေ့(ချ်)</string>
+    <string name="miui_feedback_edit_hint_optional">ရွေးပါ</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi ကို စောင့်ရန်</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">တင်ရန်</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">သင်သည် အခပေးရသော ကွန်ရက်နှင့် ချိတ်ဆက်ထားပုံရသည်။ မှတ်တမ်းများ တင်ခြင်းဖြင့် အပိုငွေများကုန်ကျနိုင်ပါသည်။</string>
@@ -65,6 +71,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">ထပ်မပြပါနှင့်</string>
     <string name="miui_feedback_edit_submit_dialog_title">တိုင်စာပို့ရန်</string>
     <string name="miui_feedback_edit_submit_directly">တင်ရန်</string>
+    <string name="miui_feedback_edit_title_occurrence_time">အချိန်ရွေးပါ</string>
     <string name="miui_feedback_edit_title_reproductivity">ဖြစ်နိုင်ခြေရွေးပါ</string>
     <string name="miui_feedback_edit_toast_description_required">ရှင်းလင်းချက်ရေးရပါမည်</string>
     <string name="miui_feedback_edit_toast_module_required">အကြောင်းအရာရွေးရန်</string>
@@ -112,7 +119,7 @@
     <string name="permission_first_start_network_title">စည်းမျဉ်းစည်းကမ်းများ</string>
     <string name="permission_main_purpose">အစမ်းသုံး MIUI အင်္ဂါရပ်များပြသခြင်း၊ တုံ့ပြန်အကြံပြုချက်တင်ခြင်းနှင့် ရောင်းချပြီးနောက်ပိုင်းဝန်ဆောင်မှုမျာ းလျှောက်ထားခြင်း။</string>
     <string name="permission_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ (မဖြစ်မနေ)</string>
-    <string name="permission_region_version_msg">&lt;Data>\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက် ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data>\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
     <string name="permission_select_all">အားလုံးရွေးရန်</string>
     <string name="permission_storage">သိုလှောင်ခန်း</string>
     <string name="permission_storage_introduce">သင့်စက်တွင်အမယ်များသိမ်းဆည်းခြင်းအတွက်</string>

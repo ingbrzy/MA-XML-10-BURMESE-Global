@@ -36,6 +36,7 @@
     <string name="accessibility_camera_button">ကင်မရာ</string>
     <string name="accessibility_carrier_network_change_mode">ဖုန်းလိုင်းကုမ္ပဏီ ကွန်ရက်အား ပြောင်းနေသည်။</string>
     <string name="accessibility_cast_name">%s သို့ ချိတ်ဆက်ပြီးပါပြီ။</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">မျက်နှာပြင်ကာစ်တင်အား ရပ်လိုက်သည်။</string>
     <string name="accessibility_cell_data">မိုဘိုင်းဒေတာ</string>
     <string name="accessibility_cell_data_off">မိုဘိုင်းဒေတာ ပိတ်ထားသည်</string>
@@ -285,6 +286,8 @@
     <string name="available_via_carrier">%1$s မှတစ်ဆင့် ရရှိနိုင်သည်</string>
     <string name="available_via_passpoint">%1$s မှတစ်ဆင့် ရရှိနိုင်သည်</string>
     <string name="back">နောက်သို့</string>
+    <string name="band_24G">" (2.4 GHz ဘန်း)"</string>
+    <string name="band_5G">" (5 GHz ဘန်း)"</string>
     <string name="battery">ဘက်ထရီ</string>
     <string name="battery_can_use_time">ခန့်မှန်းခြေအားဖြင့် %s ကျန်သေးသည်</string>
     <string name="battery_detail_charging_summary">အားသွင်းနေစဥ် ဘက်ထရီချွေတာသူအား သုံး၍မရပါ</string>
@@ -327,13 +330,13 @@
     <string name="bluetooth_battery_level_untethered">ဘယ်- %1$s ဘက်ထရီ၊ ညာ- %2$s ဘက်ထရီ</string>
     <string name="bluetooth_connected">%1$s ကို ချိတ်ပြီးပါပြီ</string>
     <string name="bluetooth_connected_battery_level">ချိတ်ဆက်ထားသည် | ဘက်ထရီ %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">ချိတ်ဆက်ထားသည် (မီဒီယာလိုင်း မရှိ)%1$s</string>
+    <string name="bluetooth_connected_no_a2dp">ချိတ်ဆက်ထားသည် (မီဒီယာလိုင်း မရှိ) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">ချိတ်ဆက်ထားသည်(မီဒီယာ မရှိ) | ဘက်ထရီ %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">ချိတ်ဆက်ထားသည် (ဖုန်းလိုင်း မရှိ)%1$s</string>
+    <string name="bluetooth_connected_no_headset">ချိတ်ဆက်ထားသည် (ဖုန်း မရှိ) %1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">ချိတ်ဆက်ထားသည်(ဖုန်း မရှိ) | ဘက်ထရီ %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">ချိတ်ဆက်ထားသည် (ဖုန်းလိုင်း သို့မဟုတ် မီဒီယာလိုင်း မရှိ)%1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">ချိတ်ဆက်ထားသည် (ဖုန်း သို့မဟုတ် မီဒီယာ မရှိ) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">ချိတ်ဆက်ထားသည်(ဖုန်း သို့မဟုတ် မီဒီယာ မရှိ) | ဘက်ထရီ %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">ချိတ်ဆက်ထားသည် (မက်ဆေ့ချ်သို့ ဝင်ရောက်ခွင့် မရှိ)%1$s</string>
+    <string name="bluetooth_connected_no_map">ချိတ်ဆက်ထားသည် (မက်ဆေ့ချ်သို့ ဝင်ရောက်ခွင့် မရှိ) %1$s</string>
     <string name="bluetooth_connecting">ချိတ်ဆက်နေသည်…</string>
     <string name="bluetooth_disable_absolute_volume">အကြွင်းမဲ့ အသံအတိုးအကျယ်ကို ပိတ်မည်</string>
     <string name="bluetooth_disable_absolute_volume_summary">ဘလူးတုသ်အတွက် အကြွင်းမဲ့ အသံအတိုးအကျယ်အား ပိတ်ခြင်းဖြင့် အဝေးထိန်းကိရိယာများနှင့်ချိတ်ဆက်သောအခါ ဖြစ်ပေါ်တတ်သော အသံအတိုးအကျယ်ပြဿနာများ (ဥပမာ-လက်မခံနိုင်အောင် ကျယ်လောင်သောအသံ သို့မဟုတ် အတိုးအကျယ်ထိန်းချုပ်မရသောအခြေအနေ) ကို ရှောင်ရှားနိုင်ပါသည်။</string>
@@ -415,7 +418,7 @@
     <string name="branded_vpn_footer">ကွန်ရက်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="broadcast_tile">အသံလွှင့်ဘလောက်</string>
     <string name="bt_hci_snoop_log">ဘလူးတုသ် HCI snoop မှတ်တမ်းကို ဖွင့်ထားပါ</string>
-    <string name="bt_hci_snoop_log_summary">ဘလူးတုသ် ပက်ကက်များကို ရိုက်ကူးထားပါ။ (ဤဆက်တင်အား ပြင်ပြီးနောက် ဘလူးတုသ်ခလုတ်ကို ပြောင်းပါ)</string>
+    <string name="bt_hci_snoop_log_summary">ဘလူးတုပက်ကက်များ ဖမ်းယူပါ။ (ဤဆက်တင်ကိုပြောင်းပြီးနောက် ဘလူးတုခလုတ်ကို အဖွင့်အပိတ်လုပ်ပါ)</string>
     <string name="bt_is_off">ဘလူးတုသ် ပိတ်ထားသည်</string>
     <string name="btn_camera">သင့်မျက်နှာကို ထည့်သွင်းပါ</string>
     <string name="bugreport_in_power">အမှား သတင်းပို့ရေး ရှော့ကဒ်</string>
@@ -741,26 +744,6 @@
     <string name="gxzw_area">လက်ဗွေ စကန်နာ</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">အားနှင့်ဖိထားပါ</string>
-    <string name="gxzw_quick_open_add_event">အချိန်ဇယား ပေါင်းထည့်မည်</string>
-    <string name="gxzw_quick_open_add_event_sub">ပြက္ခဒိန်</string>
-    <string name="gxzw_quick_open_alipay_pay">ပေးချေမှု ကုဒ်</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
-    <string name="gxzw_quick_open_alipay_scan">စကန်နာ</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
-    <string name="gxzw_quick_open_qr_code">QR ကုဒ်</string>
-    <string name="gxzw_quick_open_qr_code_sub">စကန်နာ</string>
-    <string name="gxzw_quick_open_search">ရှာဖွေရန်</string>
-    <string name="gxzw_quick_open_search_sub">ဘရောက်ဇာ</string>
-    <string name="gxzw_quick_open_skip_teach">ကျူတိုရီရယ်အား ကျော်သွားမည်</string>
-    <string name="gxzw_quick_open_wechat_pay">ပေးချေမှု ကုဒ်</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">စကန်နာ</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
-    <string name="gxzw_quick_open_xiaoai_title1">သင် ဖွင့်လိုသော အက်ပ်၏ အမည်ကို ပြောပါ</string>
-    <string name="gxzw_quick_open_xiaoai_title2">သင် သုံးလိုသော အင်္ဂါရပ်၏ အမည်ကို ပြောပါ</string>
-    <string name="gxzw_quick_tip_press">ဆက်လက် ဖိထားပါ…</string>
-    <string name="gxzw_quick_tip_slide">လက်မလွှတ်ဘဲ အပေါ်သို့ ပွတ်ဆွဲပြီး ရွေးပါ။</string>
     <string name="gxzw_try_again">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="gxzw_try_more_again">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="gxzw_use_password">စကားဝှက်ဖြင့် လော့ခ်ဖြည်ပါ</string>
@@ -882,6 +865,10 @@
     <string name="keyguard_charging_back_to_lockscreen">သော့ခတ်မျက်နှာပြင်သို့ ပြန်သွားပါ</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">သုံးစွဲချိန်</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">အားကုန်သွားခဲ့သော</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
@@ -909,6 +896,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ် ပျောက်နေသည် သို့မဟုတ် ဖတ်၍မရပါ။ ဆင်းမ်ကဒ် တစ်ခု ထည့်သွင်းပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက် လော့ခ်ကျနေသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">PIN ကုဒ် ရိုက်ထည့်ပါ</string>
@@ -992,6 +980,7 @@
     <string name="left_keycode">ဘယ်ကီးကုဒ်</string>
     <string name="left_nav_bar_button_type">အခြား ဘယ်ခလုတ် အမျိုးအစား</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">လုပ်ဆောင်နေသည်…</string>
     <string name="local_backup_password_summary_change">မျက်နှာပြင်အပြည့် အရန်သိမ်းခြင်းအတွက် စကားဝှက်ကို ပြောင်းလဲရန် သို့မဟုတ် ဖယ်ရှားရန် ထိနှိပ်ပါ</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့် အရန်သိမ်းခြင်းများအား မကာကွယ်ထားပါ</string>
@@ -1067,6 +1056,7 @@ MMMM d"</string>
     <string name="miui_guide_dialog_message">မီဒီယာအသံများ(သီချင်း၊ ဗီဒီယိုစသည်တို့)အား အသံတိတ်မုဒ်တွင် ဖွင့်နိုင်သည်။ ဆက်တင်သို့သွား၍ ပြောင်းနိုင်ပါသည်။</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ဘလူးတုသ်စက်ဖြင့် လော့ခ်ဖြည်လိုက်သည်</string>
     <string name="miui_ringer_count_down">အချိန်သတ်မှတ်မည်</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">အသံတိတ်</string>
     <string name="miui_ringer_standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
     <string name="miui_ringer_total">မနှောင့်ယှက်ပါနှင့်</string>
@@ -1094,12 +1084,14 @@ MMMM d"</string>
 
 အသေးစိတ် သိလိုပါက စီမံအုပ်ချုပ်သူထံ ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်ရသော အထောက်အထားများကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာအား ဤစက်ပေါ်တွင် တပ်ဆင်ထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_do_body">အုပ်ချုပ်သူသည် ဆက်တင်၊ သက်ဆိုင်သော ဝင်ရောက်မှု၊ အက်ပ်များ၊ သင်၏စက်နှင့်အတူတွဲထားသော ဒေတာ၊ သင့်စက်၏တည်နေရာအချက်လက် စသည်တို့ကို စောင့်ကြည့်ပြီး စီမံခန့်ခွဲနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">သင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_do_header_generic">သင်၏စက်အား %1$sမှ စီမံခန့်ခွဲသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$sသည် %2$sဖြင့် သင်၏စက်ကို စီမံသည်။</string>
     <string name="monitoring_description_do_learn_more">နောက်ထပ် လေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏အဖွဲ့အစည်းမှ သင့်အလုပ် ပရိုဖိုင်တွင် အသိအမှတ်ပြုလက်မှတ် အခွင့်အာဏာကို ထည့်သွင်းထားသည်။ သင်၏လုံခြုံရေးကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်သည် သို့မဟုတ် ပြုပြင်နိုင်သည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ် ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်များနှင့် ဝက်ဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော %1$sနှင့် ချိတ်ဆက်ထားသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ကို သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်။
@@ -1131,6 +1123,7 @@ MMMM d"</string>
 
 သင်၏ကွန်ရက်အခြေအနေကို စောင့်ကြည့်နိုင်သော VPN တစ်ခုနှင့်လည်း ချိတ်ဆက်ထားသည်။"</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်ကို ဖွင့်ပါ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက် မှတ်တမ်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1145,6 +1138,7 @@ MMMM d"</string>
     <string name="nav_guide_message">ဆော့ဖ်ခလုတ်များအား ဝှက်/ဖော်ရန် လက်ဟန်များအား အသုံးပြုပါ။</string>
     <string name="nav_guide_ok">သတ်မှတ်</string>
     <string name="nav_guide_title">ဆော့ဖ်ခလုတ်များ ကွယ်ဝှက်ပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိပါ</string>
     <string name="no_multi_window_app">မျက်နှာပြင်ခွဲခြင်းလုပ်နိုင်သည့် အက်ပ်မရှိသေးပါ။</string>
     <string name="no_notification_tips">အသိပေးချက်များ မရှိပါ</string>
@@ -1221,7 +1215,7 @@ MMMM d"</string>
     <string name="open_lock_screen_magazine_hint_text">နောက်ထပ် ရွေးချယ်မှုများအတွက် ညာသို့ ပွတ်ဆွဲပါ</string>
     <string name="open_remote_center_hint_text">ထိန်းချုပ်မှုများကို ကြည့်ရန် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
     <string name="osu_completing_sign_up">မှတ်ပုံတင်ခြင်း ပြီးဆုံးပါပြီ</string>
-    <string name="osu_connect_failed">ချိတ်ဆက်၍ မရပါ</string>
+    <string name="osu_connect_failed">ချိတ်မရပါ</string>
     <string name="osu_opening_provider">%1$s အား ဖွင့်နေသည်</string>
     <string name="osu_sign_up_complete">မှတ်ပုံတင် ပြီးပါပြီ။ ချိတ်ဆက်နေသည်…</string>
     <string name="osu_sign_up_failed">မှတ်ပုံတင်ခြင်း မပြီးသေးပါ။ ပြန်ကြိုးစားကြည့်ရန် ထိနှိပ်ပါ။</string>
@@ -1296,7 +1290,7 @@ MMMM d"</string>
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့် ကျန်သေးသည်</string>
     <string name="power_remaining_duration_only_enhanced">သင့်သုံးစွဲမှုအရ %1$sခန့် ကျန်သေးသည်</string>
-    <string name="power_remaining_duration_only_short">%1$s ကျန်သေးသည်</string>
+    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">ဖုန်းသည် မကြာမီ ပိတ်တော့မည်</string>
     <string name="power_remaining_duration_shutdown_imminent">ဖုန်းသည် မကြာမီ ပိတ်တော့မည် (%1$s)</string>
     <string name="power_remaining_less_than_duration">%1$s နှင့်အောက်သာ ကျန်တော့သည် (%2$s)</string>
@@ -1315,6 +1309,7 @@ MMMM d"</string>
     <string name="private_dns_mode_provider">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည်</string>
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည် ရိုက်ထည့်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ပရိုဖိုင်အခြေအနေသည် စောင့်ကြည့်ခံရနိုင်သည်</string>
     <string name="prompt_danger">အန္တရာယ်</string>
     <string name="prompt_detecting">ရှာဖွေနေသည်</string>
@@ -1431,6 +1426,7 @@ MMMM d"</string>
     <string name="quick_settings_wifi_not_connected">မချိတ်ဆက်ထားပါ</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi ပိတ်ထားသည်</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi ဖွင့်ထားသည်</string>
+    <string name="quick_settings_wireless_label">ကြိုးမဲ့အားသွင်းခြင်းကို ပြောင်းရန်</string>
     <string name="quick_settings_work_mode_label">အလုပ်မုဒ်</string>
     <string name="rapid_charge_mode_tip">အမြန် အားသွင်းမှု</string>
     <string name="recent_cannot_dock">ဒုတိယနေရာတွင် မျက်နှာပြင်ခွဲအား သုံး၍မရပါ</string>
@@ -1516,7 +1512,9 @@ MMMM d"</string>
     <string name="screenshot_edit">တည်းဖြတ်</string>
     <string name="screenshot_failed_title">မျက်နှာပြင်ပုံ ရိုက်၍မရပါ။</string>
     <string name="screenshot_failed_to_capture_text">မျက်နှာပြင်ရိုက်ချက်အား ခွင့်ပြုမထားပါ</string>
+    <string name="screenshot_failed_to_capture_title">ဤအက်(ပ်)တွင် မျက်နှာပြင်ပုံရိုက်ခြင်း ခွင့်မပြုပါ</string>
     <string name="screenshot_failed_to_save_text">သိုလှောင်ခန်းနေရာလွတ် အကန့်အသတ်ကြောင့် မျက်နှာပြင်ရိုက်ချက်အား သိမ်းဆည်း၍မရပါ။</string>
+    <string name="screenshot_failed_to_save_title">မျက်နှာပြင်ပုံ အသစ်များအတွက် နေရာလွတ် မလုံလောက်ပါ</string>
     <string name="screenshot_failed_to_save_unknown_text">မျက်နှာပြင်ရိုက်ချက်အား သိမ်းနေစဥ် အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။</string>
     <string name="screenshot_feedback_txt">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="screenshot_insert_failed">မျက်နှာပြင်ရိုက်ချက်အား ရယူ၍ မရပါ။ ပုံအသစ် ပြန်ရိုက်ပါ သို့မဟုတ် ပြခန်းတွင် ပုံအား စစ်ကြည့်ပါ။</string>
@@ -1896,6 +1894,7 @@ MMM d"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">ဆယ့်ခြောက်လီစနစ်</string>
     <string name="wapi_yes">ထည့်သွင်းမည်</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">ချိတ်ဆက်သောပွိုင့် ယာယီ ပြည့်သွားပြီ</string>
     <string name="wifi_auto_sel_wapi_cert">အလိုအလျောက် ရွေးချယ်ပါ</string>
@@ -1919,12 +1918,12 @@ MMM d"</string>
     <string name="wifi_is_off">Wi-Fi ပိတ်ထားသည်</string>
     <string name="wifi_limited_connection">ကန့်သတ်ထားသော ချိတ်ဆက်မှု</string>
     <string name="wifi_metered_label">ကျသင့်ငွေအား ဒေတာအလိုက် ကောက်မည်</string>
-    <string name="wifi_no_internet">အင်တာနက် မရှိပါ</string>
+    <string name="wifi_no_internet">အင်တာနက်သို့ ချိတ်ဆက်၍မရပါ</string>
     <string name="wifi_no_internet_no_reconnect">အင်တာနက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="wifi_not_in_range">အကွာအဝေးအတွင်း မရှိ</string>
     <string name="wifi_remembered">သိမ်းပြီးပြီ</string>
     <string name="wifi_scan_throttling">Wi‑Fi စကန် ပိတ်ထားခြင်း</string>
-    <string name="wifi_scan_throttling_summary">ဓာတ်ခဲကုန်ခြင်းကို လျော့စေပြီး &amp; ကွန်ရက်လုပ်ဆောင်ရည် မြင့်စေသည်</string>
+    <string name="wifi_scan_throttling_summary">ဓာတ်ခဲကုန်ခြင်းကို လျော့စေပြီး ကွန်ရက်လုပ်ဆောင်ရည် မြင့်စေသည်</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_none">မရှိ</string>
@@ -1959,6 +1958,15 @@ MMM d"</string>
     <string name="wireless_charge_reset_device">အားသွင်းမှု နှေးနေသည်။ သင်၏ဖုန်းအား ချိန်ညှိပါ။</string>
     <string name="wireless_charge_reset_device_detail">ဖုန်းအားသွင်းစက်ပေါ်တွင် ဖုန်းအနေအထား မှန်ကန်စေပါ</string>
     <string name="wireless_charge_stop">ကြိုးမဲ့ အားသွင်းမှုအား ရပ်လိုက်သည်</string>
+    <string name="wireless_charging_connected_message">သင့်စက်ကို ကြိုးမဲ့အားသွင်းထားချိန်တွင် ကြိုးမဲ့အားသွင်းစနစ်ကို ပြောင်းသုံး၍ မရပါ။</string>
+    <string name="wireless_charging_low_battery_level_message">ဓာတ်ခဲအား ၃၀% ထက် နည်းလျှင် ကြိုးမဲ့အားသွင်းစနစ်ကို ပြောင်းသုံး၍ မရပါ။</string>
+    <string name="wireless_charging_ok">ရပါပြီ</string>
+    <string name="wireless_charging_saver_cancel">ပိတ်ရန်</string>
+    <string name="wireless_charging_saver_message">ဓာတ်ခဲချွေတာခြင်းစနစ် ဖွင့်ထားပါသည်။ ကြိုးမဲ့အားသွင်းစနစ်ကို ပြောင်းသုံးခြင်းကို ဆက်ဖွင့်ထားလိုပါသလား။</string>
+    <string name="wireless_charging_saver_ok">ဆက်ဖွင့်ရန်</string>
+    <string name="wireless_charging_tips_disable">ထပ်မပြပါနှင့်</string>
+    <string name="wireless_charging_tips_message">Qi ကြိုးမဲ့အားသွင်းစနစ်ပံ့ပိုးသော စက်များ (ဖုန်း၊ ဆက်စပ်ပစ္စည်းများ စသည်) ကို ဤစက်၏ ကျောဘက်တွင် ထားပါ။</string>
+    <string name="wireless_charging_tips_title">ကြိုးမဲ့အားသွင်းခြင်းကို ပြောင်းရန်</string>
     <string name="wrong_password">စကားဝှက် မှားနေသည်</string>
     <string name="zen_alarm_warning">လာမည့် %1$s နှိုးစက်ကို ကြားရမည် မဟုတ်ပါ</string>
     <string name="zen_alarm_warning_indef">ထိုမတိုင်ခင် ဤမုဒ်အား မပိတ်ပါက လာမည့် %1$s နှိုးစက်ကို ကြားရမည် မဟုတ်ပါ</string>

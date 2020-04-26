@@ -91,7 +91,6 @@
     <string name="description_image_button_four">လေး</string>
     <string name="description_image_button_hangup">အဆုံးသတ်ပါ</string>
     <string name="description_image_button_message_enter">မက်ဆေ့ချ်ပြန်</string>
-    <string name="description_image_button_message_exit">ဖွက်ထားသော　မက်ဆေ့ချ်များ</string>
     <string name="description_image_button_nine">ကိုး</string>
     <string name="description_image_button_one">တစ်</string>
     <string name="description_image_button_pound">ပေါင်</string>
@@ -207,4 +206,5 @@
     <string name="wait_prompt_str">"အောက်ပါမြည်သံကို ပို့မည်လော
 "</string>
     <string name="waiting_close_airplane_mode">ခဏစောင့်ပါ…</string>
+    <string name="wifi_call">VoWifi ခေါ်ဆိုမှု</string>
 </resources>

@@ -97,7 +97,7 @@
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">ငြင်းပယ်ရန်နှင့် နောက်တစ်ကြိမ် မမေးခိုင်းရန်</string>
     <string name="location_settings">တည်နေရာ ဆက်တင်များ</string>
     <string name="location_warning">%1$s မှာ ဤစက်၏ တည်နေရာဝန်ဆောင်မှု ထောက်ပံ့ပေးသူ ဖြစ်ပါသည်၊ တည်နေရာဝင်ရောက်မှုအား တည်နေရာ ဆက်တင်များတွင် မွမ်းမံနိုင်ပါသည်။</string>
-    <string name="never_ask_again">ထပ်မမေးပါနှင့်</string>
+    <string name="never_ask_again">ကန့်သတ်မှုပြုပြီး ထပ်မမေးပါနှင့်</string>
     <string name="ok">အိုကေ</string>
     <string name="permdesc_camera">ဓာတ်ပုံနှင့် ဗီဒီယိုများ ရိုက်ရန်</string>
     <string name="permdesc_in_calls">အဝင်ခေါ်ဆိုမှုများကို စောင့်ကြည့်ရန်</string>

@@ -49,6 +49,8 @@
     <string name="self_device_second_space">ဤဖုန်း၏ ဒုတိယနေရာ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
@@ -57,6 +59,7 @@
     <string name="start_backup_to_micloud">အက်(ပ်)များကို Xiaomi ကလောက်သို့ အရန်သိမ်းရန်</string>
     <string name="backing_up_to_micloud">အရန်သိမ်းခြင်းလုပ်နေဆဲ…</string>
     <string name="restore_from_cloud">ကလောက်အရန်သိမ်းစနစ်မှ ပြန်ယူရန်</string>
+    <string name="restore_from_mimover">စက်ဟောင်းမှ အရာများကို Mi Mover ဖြင့် ပြောင်းရွှေ့ခြင်း</string>
     <string name="backup_to_cloud">အက်ပ်ကို အရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="restoring_file_title_no_progress">ဖိုင်များအား ပြန်လည်ရယူနေသည်…</string>
     <string name="menu_item_sort">ဖြင့် မျိုးတူစုပါ</string>
@@ -80,7 +83,7 @@
     <string name="download_settings">ပင်မဖုန်းမျက်နှာပြင်ဆက်တင်− %s%% ကို ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">ပင်မမျက်နှာပြင် ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
-    <string name="cancel_recover_settings"><u>ပယ်ဖျက်မည်</u></string>
+    <string name="cancel_recover_settings">ပယ်ဖျက်မည်</string>
     <string name="recover_settings_description">သင့်ကိရိယာကို ပါဝါဖွင့်ထားပါ</string>
     <string name="recover_miui_settings">စနစ်ဆက်တင်များအား ပြန်ရယူပါ</string>
     <string name="wait_icon_download">အက်ပ်အိုင်ကွန်အား ဒေါင်းလုဒ်လုပ်နေသည်</string>
@@ -106,6 +109,7 @@
     <string name="restore_data_summary">ဤလုပ်ဆောင်ချက်သည် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်</string>
     <string name="query_restore_summary">ဤစက်အတွက် Xiaomi ကလောက် အရန်သိမ်းဖိုင်တစ်ခုတွေ့သည်။ ပင်မမျက်နှာပြင်အက်(ပ်)များနှင့် ဆက်တင်များကို ပြန်ယူလိုသလား သို့မဟုတ် ၎င်းကို စက်အသစ်အဖြစ်သုံးပြီး Xiaomi ကလောက်ရှိ ယခင်အရန်သိမ်းဖိုင်များကို ဖျက်လိုပါသလား။</string>
     <string name="restore_home_screen_apps">ကလောက်အရန်သိမ်းစနစ်မှ ပြန်ယူရန်</string>
+    <string name="restoring_home_screen_apps">Xiaomi Cloud မှ ပြန်ယူနေ…</string>
     <string name="query_restore_description">ပင်မမျက်နှာပြင်အက်ပ်များနှင့် ဆက်တင်များအား ဤအရန်သိမ်းအားအသုံးပြုပြီး ပြန်လည်ရယူပါ။ ဤသို့လုပ်ဆောင်ခြင်းသည် လက်ရှိရှိပြီးသားအက်ပ်များအား အရန်သိမ်းနှင့် တူညီမှု ရှိပါက အစားထိုးလိုက်လိမ့်မည်။ ဤအရန်သိမ်းတွင် မပါဝင်သော အက်ပ်များအား နောက်မျက်နှာပြင် တစ်ခုသို့ ရွေ့လိုက်လိမ့်မည်။</string>
     <string name="restore_from_this_device">ဤအရန်သိမ်းခြင်းအား သုံးပြီး ပြန်လည်ရယူပါ</string>
     <string name="confirm_cancel_restore_title">ပြန်လည်ရယူနေသည်ကို ပယ်ဖျက်မလား?</string>
@@ -132,7 +136,7 @@
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="loading_user_backup">သုံးစွဲသူ အရန်သိမ်းခြင်းများကို ရယူနေသည်…</string>
-    <string name="loading_progress_num">(%s%%)</string>
+    <string name="loading_progress_num">%s%% တင်ပြီးပြီ</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">အရွယ်အစား တွက်ချက်နေသည်…</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
@@ -165,7 +169,7 @@
     <string name="cloud_backup">ကလောက်အရန်သိမ်းစနစ်များ</string>
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="restore_cloud_backup_to_phone">ကလောက်ရှိ အရာများကို ပြန်ယူရန်</string>
-    <string name="cloud_backup_in_process">အရန်သိမ်းနေသည်…</string>
+    <string name="cloud_backup_in_process">အရန်သိမ်းနေသည်</string>
     <string name="cloud_backup_in_cancel">ပယ်ဖျက်မည်</string>
     <string name="dialog_cancel_backup_title">အရန်သိမ်းနေသည်ကို ဖျက်သိမ်းမလား?</string>
     <string name="dialog_cancel_backup_msg">အလိုအလျောက်အရန်သိမ်းခြင်းကို ပိတ်လိုက်ပါက လက်ရှိလုပ်နေသော အရန်သိမ်းခြင်းလည်း ရပ်စဲသွားမည်။</string>
@@ -221,5 +225,6 @@
     <string name="restore_task_unfinished">ပြန်လည်ရယူ၍ မရပါ</string>
     <string name="restore_failed_reason_network_error">ကွန်ရက် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="restore_failed_reason_disk_space_not_enough">နေရာလွတ် မလုံလောက်ပါ။ သိုလှောင်ခန်းအား ဦးစွာ ရှင်းလင်းပါ။</string>
-    <string name="cloud_app_restore_app_and_data">သင့်ကိရိယာကို သတ်မှတ်ပါ</string>
+    <string name="storage_unit_mb">%s MB</string>
+    <string name="storage_unit_gb">%s GB</string>
 </resources>

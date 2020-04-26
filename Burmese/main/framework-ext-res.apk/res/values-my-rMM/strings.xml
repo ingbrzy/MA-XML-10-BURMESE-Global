@@ -47,6 +47,7 @@
     <string name="content_description_web_url">အင်တာနက်တွင်ရှာရန်</string>
     <string name="copy">ကော်ပီကူးပါ</string>
     <string name="cut">ဖြတ်ပါ</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">မသိသောစက်</string>
     <string name="default_name">မူလသတ်မှတ်ချက်</string>
     <string name="description_title">အသံတိတ်မုဒ်</string>
@@ -71,7 +72,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">ယခုမလုပ်သေး</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">ဖွင့်</string>
     <string name="fp_nav_center_action_choose_dlg_title">မြန်နှိပ်ခြင်းအား ဖွင့်ပါ</string>
-    <string name="frequent_email">ပို့နေကျအီးမေး(လ်)</string>
+    <string name="frequent_email">အသုံးများသော အီးမေး(လ်)</string>
     <string name="frequent_phrases">သုံးနေကျ စကားစုများ</string>
     <string name="functions_are_being_developed">ဤအင်္ဂါရပ် မကြာမီရပါမည်။ စောင့်မျှော်ပါ။</string>
     <string name="global_actions_airplane_mode">လေယာဉ်သုံး နည်းပုံစံ</string>
@@ -202,6 +203,7 @@
     <string name="sim_added_reboot_title">သင်၏စက်အား ပြန်လည်စဖွင့်ပြီးနောက် ဆင်းမ်ကဒ် အသက်ဝင်ပါလိမ့်မည်။</string>
     <string name="sim_lock_non_ais_msg">မှာယူမှု စည်းကမ်းသတ်မှတ်ချက်များနှင့် မဆီလျော်သောကြောင့် သင်၏ ဆင်းမ်ကဒ်သည် ဤဖုန်းတွင် မသုံးနိုင်ပါ။ နောက်ထပ်သိလိုပါက Xiaomi ဝန်ဆောင်မှု စင်တာ သို့မဟုတ် သင်ဝယ်ယူသော ဆိုင်သို့ စုံစမ်းမေးမြန်းနိုင်ပါသည်။</string>
     <string name="sim_lock_now_ais_title">ဆင်းမ်%1$d</string>
+    <string name="slatoast">အရှိန်မြှင့်ရန် မိုဘိုင်းဒေတာသုံးခြင်းဖြင့် မိုဘိုင်းဒေတာ ကုန်နိုင်သည်</string>
     <string name="slavewifi">နှစ်ခုတွဲ ဘန်း Wi-Fi</string>
     <string name="slavewifi_disconnect">ဖြုတ်ရန်</string>
     <string name="slavewifi_notification_title">နှစ်ခုတွဲ ဘန်း Wi-Fi သုံးထားသည်</string>
@@ -279,7 +281,7 @@
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_8">Mi 8</string>
-    <string name="xiaomi_8_exp">Mi 8 စွန့်စားသူ အထူးထုတ်</string>
+    <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
     <string name="xiaomi_8_se">Mi 8 SE</string>
     <string name="xiaomi_8_ud">Mi 8 Pro</string>
     <string name="xiaomi_8_young">Mi 8 Lite</string>

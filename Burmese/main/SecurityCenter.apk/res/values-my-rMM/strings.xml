@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_CallLog_Desc">ခေါ်ဆိုမှုမှတ်တမ်း ရေးရန်နှင့် ဖျက်ရန်</string>
+    <string name="HIPS_Perm_Call_Desc">ဖုန်းနံပါတ်များကို တိုက်ရိုက်ခေါ်ရန်</string>
+    <string name="HIPS_Perm_Contact_Desc">အဆက်အသွယ်များကို ပြင်ရန်နှင့် ဖျက်ရန်</string>
+    <string name="HIPS_Perm_PhoneID_Desc">ဖုန်းနံပါတ်၊ IMEI နှင့် IMSI တို့ကို ဖတ်ခွင့်ရရန်</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">ဖုန်းနံပါတ်နှင့် စက်ပစ္စည်း အခြေအနေကို ဝင်ရောက်ကြည့်ရှုပါ</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">ခေါ်ဆိုမှုမှတ်တမ်း ဖတ်ရန်</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">သင့်အဆက်အသွယ်များကို ဖတ်ရန်</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">သင့် SMS မက်ဆေ့(ချ်)များ ဖတ်ရန်</string>
+    <string name="HIPS_Perm_SendSMS_Desc">SMS မက်ဆေ့(ချ်)များ တိုက်ရိုက်ပို့ရန်</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">စနစ်ပါအသံမက်ဆေ့(ချ်)များ ထည့်ရန်</string>
+    <string name="HIPS_Perm_get_accounts_Desc">စက်တွင်သိမ်းထားသော အကောင့်အားလုံးကို ဝင်ရန်</string>
+    <string name="HIPS_Perm_use_sip_Desc">ဗီဒီယိုလွှင့်ရန် ဆက်ရှင်အစပြု ပရိုတိုကောသုံးပါ</string>
     <string name="Phonepass">ခေါ်ဆိုမှုများခွင့်ပြု</string>
     <string name="SMS_and_MMS">SMS နှင့် MMS</string>
     <string name="SMSpass">SMS ခွင့်ပြု</string>
@@ -13,16 +25,20 @@
     <string name="ac_enter_applock">အက်ပ်သော့ခတ်သို့ ဝင်ရောက်ပါ</string>
     <string name="ac_firstUseApplock_subTitle">ပိုမိုကောင်းမွန်သော စနစ်အဆင့် လုံခြုံရေးကိရိယာများအား အသုံးပြုပါ</string>
     <string name="ac_firstUseApplock_title">သင့်အက်ပ်များအား ကာကွယ်ရန် စကားဝှက်သတ်မှတ်ပါ</string>
-    <string name="ac_mask_all_apps">အက်ပ်အားလုံးကို ကွယ်ဝှက်မည်</string>
+    <string name="ac_mask_all_apps">အားလုံးအတွက် ဖုံးရန်</string>
     <string name="ac_notification_contentText">ဖွင့်ရန် ထိနှိပ်ပါ</string>
     <string name="ac_notification_contentTitle">အက်ပ်များအား အက်ပ်လော့ခ်ဖြင့် ကာကွယ်ပါ</string>
     <string name="ac_post_notification_contentText">စနစ်အဆင့် ကာကွယ်မှုကို ရယူပါ</string>
     <string name="ac_post_notification_contentTitle">အက်ပ်လော့ခ်အား ဖွင့်ပါ</string>
     <string name="ac_pre_notification_contentText">သင့်ကိုယ်ရေးအချက်အလက်များအား ကာကွယ်ပါ</string>
     <string name="ac_pre_notification_contentTitle">အက်ပ်လော့ခ်အား သုံးကြည့်ပါ</string>
+    <string name="ac_recommend_guide_dialog_app_content">Use App lock with this app in order to protect your personal info and avoid data leaks.</string>
+    <string name="ac_recommend_guide_dialog_content">You can protect your personal info and avoid data leaks using App lock.</string>
+    <string name="ac_recommend_guide_dialog_ignore">"Don't show again"</string>
+    <string name="ac_recommend_guide_dialog_open">Turn on</string>
     <string name="ac_summaryOff">ပိတ်လိုက်သည်၊ အက်ပ်များဖွင့်ရန် စကားဝှက်များ မလိုအပ်ပါ</string>
     <string name="ac_summaryOn">ကာကွယ်ထားသော အက်(ပ်)များကို ဖွင့်ရန် စကားဝှက်ထည့်ပါ</string>
-    <string name="ac_unmask_all_apps">အက်ပ်အားလုံးကို ဖော်ပြမည်</string>
+    <string name="ac_unmask_all_apps">အားလုံးအတွက် ပြရန်</string>
     <string name="access_control_app_is_launching">အက်ပ် စတင်နေသည်</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">လက်ဗွေအသစ်ဖြင့် သော့မဖြည်မီ စကားဝှက်ကို ရိုက်ထည့်ပါ။</string>
     <string name="access_control_fingerprint_not_identified_msg">လက်ဗွေအား မဖတ်နိုင်ပါ။</string>
@@ -126,8 +142,10 @@
     <string name="antivirus_update_btn_contiue">ဆက်လက်လုပ်ဆောင်မည်။</string>
     <string name="antivirus_update_btn_open">ခွင့်ပြုမည်။</string>
     <string name="antivirus_update_btn_update">အပ်ဒိတ်လုပ်မည်။</string>
+    <string name="apn_exception_modify_summary">မူလဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူဝင်ရောက်မှတ်ကို သုံးမရပါ သို့မဟုတ် ပြင်မရပါ</string>
     <string name="apn_exception_summary">ဖုန်းကာရီယာ၏ ရယူသုံးစွဲမည့်ပွိုင့်အမည် စီစဉ်ထားရှိမှုကို စမ်းသပ်ပါ</string>
     <string name="apn_exception_title">APN စီစဉ်ထားရှိမှုကို စစ်ဆေးပါ</string>
+    <string name="apn_exception_wap_summary">WAP မငြိမ်သေးပါ။ NET သို့ ပြောင်းပါ။</string>
     <string name="app_bg_restrict_dialog_message">နောက်ခံကွန်ရက်ချိတ်ဆက်မှုကို ကန့်သတ်ခြင်းသည် အက်ပ်အား ပုံမှန်အလုပ်လုပ်ခြင်းမှ တားဆီးနိုင်သည်။ ဥပမာ- မက်ဆေ့ချ်များ သို့မဟုတ် အပ်ဒိတ်အကြောင်းအရာများ မလက်ခံရရှိနိုင်တော့ပါ။</string>
     <string name="app_check_no_issue">ဘက်ထရီပြဿနာရှိပုံမရပါ။ ကောင်းပါတယ်!</string>
     <string name="app_detail">အသေးစိတ်များ</string>
@@ -288,6 +306,7 @@
     <string name="applock_add_account">ပေါင်းထည့်</string>
     <string name="applock_add_account_info">စကားဝှက် မေ့သွားပါက ပြန်လည်သတ်မှတ်နိုင်ရန် သင်၏ Mi အကောင့်ကို ပေါင်းထည့်ပါ။</string>
     <string name="applock_add_account_setting">အကောင့်&amp;ကိုယ်ရေးကိုယ်တာ</string>
+    <string name="applock_app_recommend_lock_title">အောက်ပါအက်(ပ်)များကို သော့ခတ်နိုင်သည်</string>
     <string name="applock_bind_account_title">စကားဝှက် မေ့သွားသည်</string>
     <string name="applock_close_dialog_summary">ဝှက်ထားသော အက်ပ်အားလုံးအား ပြန်ဖော်မည်၊ ၎င်းတို့၏ ပင်မမျက်နှာပြင် ရှော့ကဒ်များကို ပြန်လည်ရယူမည်။ အက်ပ်လော့ခ် စကားဝှက်ကိုလည်း ဖျက်ပစ်မည်။ အက်ပ်လော့ခ်အား ပိတ်မလား?</string>
     <string name="applock_close_dialog_title">အက်ပ်သော့ခတ်ကို ပိတ်မည်လား ?</string>
@@ -296,11 +315,29 @@
     <string name="applock_face_unlock_title">မျက်နှာဖြင့် လော့ခ်ဖြည်ခြင်း</string>
     <string name="applock_function_base_settings">အက်ပ် သော့</string>
     <string name="applock_function_pwd_settings">စကားဝှက်</string>
+    <string name="applock_go_to">ဆက်တင်များ</string>
+    <string name="applock_guide_open_applock">ဖွင့်ရန်</string>
+    <string name="applock_guide_tip1">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။ အက်(ပ်)များကို လက်ဗွေ၊ မျက်နှာတို့ဖြင့် သော့ဖွင့်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
+    <string name="applock_guide_tip1_global">အက်(ပ်)များကို လက်ဗွေ၊ မျက်နှာတို့ဖြင့် သော့ဖွင့်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
+    <string name="applock_guide_tip1_global_without_face">အက်(ပ်)များကို လက်ဗွေဖြင့် သော့ဖြည်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
+    <string name="applock_guide_tip1_global_without_finger">အက်(ပ်)များကို မျက်နှာဖြင့် သော့ဖွင့်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
+    <string name="applock_guide_tip1_global_without_finger_face">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။</string>
+    <string name="applock_guide_tip1_without_face">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။ အက်(ပ်)များကို လက်ဗွေဖြင့် သော့ဖွင့်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
+    <string name="applock_guide_tip1_without_finger">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။ အက်(ပ်)များကို မျက်နှာဖြင့် သော့ဖွင့်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
+    <string name="applock_guide_tip1_without_finger_face">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။</string>
+    <string name="applock_guide_tip2">စကားဝှက်ပြန်သတ်မှတ်ရန် Mi အကောင့် ထည့်ပါ။</string>
+    <string name="applock_guide_tip3">အသိပေးချက်တွင် ပါဝင်သောအရာများကို ဖုံးထားပါ။</string>
+    <string name="applock_guide_tip3_global">အသိပေးချက်တွင် ပါဝင်သောအရာများကို ဖုံးထားပါ</string>
+    <string name="applock_guide_title">အက်(ပ်)သော့ချစနစ်ဖြင့် သင့်ဒေတာကို ကာကွယ်ပါ</string>
     <string name="applock_header_text_less_than_half">သေးလွန်းသည်။ ပိုကြီးသောနေရာသို့ ရွေ့ပါ။</string>
+    <string name="applock_lock_all">အားလုံးကို သော့ခတ်ရန်</string>
     <string name="applock_login_and_add_account">ဆိုင်းအင်ဝင်ပြီး &amp; ပေါင်းထည့်ပါ</string>
     <string name="applock_not_add_account"><u>ယခုမလုပ်</u></string>
     <string name="applock_not_login_account">သင်ဆိုင်းအင်ဝင်မထားပါ</string>
+    <string name="applock_set_password_title">စကားဝှက်အမျိုးအစား ပြောင်းရန်</string>
+    <string name="applock_settings_unlock_all_toast">အက်(ပ်)အားလုံးကို သော့ပြန်ဖွင့်ထားသည်</string>
     <string name="applock_toast_tip">အက်ပ်လော့ခ်အား အတည်ပြုပြီးပါပြီ</string>
+    <string name="applock_unlock_all">အားလုံးကို သော့ဖွင့်ရန်</string>
     <string name="apps_item_sign_dialog_content">%s ၏ လက်မှတ်သည် အက်ပ်စတိုးရှိ ဗားရှင်းနှင့် ကွဲပြားနေပါသည်။ ဤအက်ပ်ကို ဖျက်ပြီး တရားဝင်ဗားရှင်းကို ထည့်သွင်းလိုပါသလား။ မှတ်ချက်- လက်မှတ်အရှုပ်အရှင်းရှိသည့် အက်ပ်တစ်ခုကို ထည့်သွင်းခြင်းဖြင့် ဒေတာဆုံးရှုံးမှုများကို ဖြစ်လာစေနိုင်သည်။</string>
     <string name="apps_item_sign_dialog_title">တရားဝင်အက်ပ်ကို ထည့်သွင်းရန်</string>
     <string name="apps_item_sign_install_button_text">အစားထိုးရန်</string>
@@ -557,6 +594,7 @@
     <string name="card_main_private_space_summary">ဒုတိယနေရာအား အသုံးပြုခြင်းသည် စက်နှစ်လုံးရှိနေသည်နှင့် တူပါသည်</string>
     <string name="card_main_private_space_title">ဒုတိယနေရာ</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ဖန်တီး</string>
     <string name="card_main_xspace_summary">မည်သည့်အက်ပ်အတွက် မဆို အကောင့်နှစ်ခုတွဲ ဖန်တီးပါ</string>
     <string name="card_main_xspace_title">နှစ်ခုတွဲအက်ပ်</string>
@@ -749,6 +787,7 @@
     <string name="doze_optimization_title">အကောင်းဆုံး ထိနှိပ် ထိန်းချုပ်မှု</string>
     <string name="dual_setting_simcard1">ဆင်းမ်1</string>
     <string name="dual_setting_simcard2">ဆင်းမ်2</string>
+    <string name="ellipsis">…</string>
     <string name="email">အီးမေးလ်</string>
     <string name="empty_app">အက်ပ်များ မရှိပါ</string>
     <string name="empty_title_auto_start_list">မည်သည့်အက်ပ်စ်မှအလိုအလျောက်မစရ။</string>
@@ -1219,6 +1258,7 @@
     <string name="load_only_under_wlan">Wi-Fi ကိုသာသုံးပြီး လုဒ်တင်ပါ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="local_ip_exception_summary">ဖုန်းလိုကယ် IP လိပ်စာ မရယူနိုင်ခဲ့ပါ။ ဤကိစ္စကို MIUI သို့အစီရင်ခံရန်၊ တုံ့ပြန်အကြံပြုချက်အက်ပ်သို့ သွားရောက်ပြီး သင့်စက်မှ လော့တစ်ခုကို ပေးပို့ပါ။</string>
+    <string name="lock_all_title">အက်(ပ်)အားလုံးကို သော့ချထားရန်</string>
     <string name="lock_mode_title">သော့ဆက်တင်များ</string>
     <string name="lock_screen_traffic_guide_notification_summary">သော့ခတ်ထားသောမျက်နှာပြင်မှာ %sကိုအသုံးပြုထားသည်</string>
     <string name="lock_screen_traffic_guide_notification_title">ဒေတာသုံးစွဲမှု စီမံရန် ထိပါ။</string>
@@ -1395,9 +1435,11 @@
     <string name="menu_text_antispam">ပိတ်ဆို့စာရင်း</string>
     <string name="menu_text_antivirus">လုံခြုရေးစကန်</string>
     <string name="menu_text_garbage_cleanup">သန့်ရှင်းစက်</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">ခွင့်ပြုချက်များ</string>
     <string name="menu_text_networkassistants">ဒေတာ သုံးစွဲမှု</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1405,6 +1447,7 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">အရှိန်မြှင့်တင်မည်။</string>
     <string name="menu_text_power_manager">ဓာတ်ခဲ &amp; လုပ်ဆောင်ရည်</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ခြွင်းချက်များမှ ဖယ်ရှားပါ</string>
     <string name="menu_white">ခြွင်းချက်များသို့ ပေါင်းထည့်မည်</string>
     <string name="mi_service_app_detail">ဒေတာသုံးစွဲမှု အသေးစိတ်များ</string>
@@ -1427,6 +1470,11 @@
     <string name="more_lock">နောက်ထပ်</string>
     <string name="more_settings">နောက်ထပ်</string>
     <string name="name">အမည်</string>
+    <string name="nd_result_button_optimize">အဆင့်မြှင့်ရန်</string>
+    <string name="nd_result_summary_optimize">လိုင်းမငြိမ်လျှင် အဆင့်မြှင့်ထားသော ကွန်ရက်စနစ်ကို သုံးပါ</string>
+    <string name="nd_result_title_auxiliary">ကွန်ရက်စိစစ်မှု</string>
+    <string name="nd_result_title_network">ကွန်ရက်ချိတ်ဆက်မှု</string>
+    <string name="nd_result_title_optimize">ကွန်ရက်အဆင့်မြှင့်ခြင်း</string>
     <string name="net_booster">ကွန်ရက် အရှိန်မြှင့်တင်မှု</string>
     <string name="net_booster_expire_notification">ကွန်ရက်အရှိန်မြှင့်တင်မှု သက်တမ်းကုန်ဆုံးတော့မည်</string>
     <string name="net_booster_overdue_notification">ကွန်ရက်အရှိန်မြှင့်တင်မှု သက်တမ်းကုန်ဆုံးတော့မည်</string>
@@ -1507,8 +1555,8 @@
     <string name="notification_garbage_cleanup_title">အမှိုက်ဖိုင်များကို ရှင်းပါ</string>
     <string name="notification_mask_summary">ကာကွယ်ထားသော အက်(ပ်)များအတွက် အသိပေးချက်တွင် ပါဝင်သောအရာများကို မပြပါနှင့်</string>
     <string name="notification_mask_title">အသိပေးချက်တွင် ပါဝင်သောအရာများကို ဖုံးထားပါ</string>
-    <string name="notification_masked_item">အသိပေးချက်များအား ကွယ်ဝှက်မည်</string>
-    <string name="notification_masked_subtitle">အက်ပ်လော့ခ်ဖြင့် သော့ခတ်ထားသော အက်ပ်များ၏အသိပေးချက်များကို ကွယ်ဝှက်မည်</string>
+    <string name="notification_masked_item">အသိပေးချက်ပါအကြောင်းအရာကို မည်သို့ဖုံးမည်နည်း။</string>
+    <string name="notification_masked_subtitle">ရွေးထားသောအက်(ပ်)များအတွက် အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားရန် အက်(ပ်)သော့ ကို သုံးပါ</string>
     <string name="notification_summary_cmcc_app_check">အသေးစိတ်ကို ကြည့်ရန်ထိပါ။</string>
     <string name="notify_channel_mipush">အချိန်နှင့် တပြေးညီ လုံခြုရေး မက်ဆေ့ချ်</string>
     <string name="notify_channel_name_security">စနစ်လုံခြုံရေး</string>
@@ -1570,7 +1618,7 @@
     <string name="operator_number_unicom">10010</string>
     <string name="optimize_manage_title">အရှိန်မြှင့်</string>
     <string name="optimize_result_available_memory_info">ရရှိနိုင်သောမှတ်ဉာဏ်</string>
-    <string name="optimize_result_button_cloudspace">ကလောက်သိုလှောင်မှု</string>
+    <string name="optimize_result_button_cloudspace">ကလောက်သိုလှောင်ခန်းနေရာလွတ်များ ပိုမိုရယူရန်</string>
     <string name="optimize_result_button_consume_power_analysis">ဘက်ထရီစကန်ဖတ်ပါ</string>
     <string name="optimize_result_button_cooldown_now">အအေးခံ</string>
     <string name="optimize_result_button_correct_now">ချိန်ညှိပါ</string>
@@ -1665,6 +1713,8 @@
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">အပူလွန်ခြင်းနှင့် ဟာ့ဒ်ဝဲလ်ဆိုင်ရာ ပြဿနာများအား ရှောင်ရှားနိုင်သည်</string>
     <string name="perfermance_optimization_title">စွမ်းဆောင်ရည် မြှင့်တင်ခြင်း</string>
+    <string name="permdesc_in_calls">Monitor incoming calls</string>
+    <string name="permdesc_out_calls">Monitor outgoing calls</string>
     <string name="permgroupdesc_calendar">ပြက္ခဒိန်ဖြစ်စဉ်များ ဖတ်ခွင့်ပြုရန်</string>
     <string name="permgroupdesc_calllog">ဖုန်းခေါ်မှတ်တမ်းတွင် အချက်အလက်များ ဖတ်ခွင့် သိမ်းခွင့်ပြုရန်</string>
     <string name="permgroupdesc_camera">ဓာတ်ပုံနှင့် ဗီဒီယိုများ ရိုက်ရန်</string>
@@ -1731,6 +1781,11 @@
     <string name="power_center_dialog_msg_top">ဘက်ထရီချွေတာသူအား ဖွင့်ထားပါက MIUI မှ အောက်ပါတို့ကို လုပ်ဆောင်ပါမည်-</string>
     <string name="power_center_hints_scan_danger_result">ယခု ဘက်ထရီ ပြဿနာများအား ဖြေရှင်းနိုင်ပါပြီ</string>
     <string name="power_center_list_item_auto_brightness">မျက်နှာပြင်တောက်ပမှုအား အလိုအလျောက် ချိန်ညှိပါ</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">နာရီ</string>
     <string name="power_center_list_item_close_bluetooth">ဘလူးတုသ်အား ပိတ်ပါ</string>
     <string name="power_center_list_item_deep_save_title">အဆင့်မြင့် ဆက်တင်များ</string>
@@ -1743,6 +1798,7 @@
     <string name="power_center_power_save_summary_text">လက်ကျန်အချိန်အား %1$dနာရီ %2$dမိနစ် အထိ တိုးမည်</string>
     <string name="power_center_power_save_title_text">ဘက်ထရီချွေတာသူ</string>
     <string name="power_center_repeat">ထပ်ခါလုပ်ပါ</string>
+    <string name="power_center_scan_item_title_5g">5G ကွန်ရက်ချိတ်ဆက်မှု</string>
     <string name="power_center_scan_item_title_GPS">GPS တိကျမှုအား ချိန်ညှိမည်</string>
     <string name="power_center_scan_item_title_abnormal">ဘက်ထရီ ပြဿနာများ</string>
     <string name="power_center_scan_item_title_abnormal_apps">ဘက်ထရီစားသော အက်ပ်များ</string>
@@ -1773,6 +1829,7 @@
     <string name="power_dialog_cancel">ဖျက်သိမ်း</string>
     <string name="power_dialog_ok">အိုကေ</string>
     <string name="power_dialog_super_save_msg">အစွန်းရောက် ဘက်ထရီချွေတာသူသည် ပါဝါ အလွန်ကုန်စေသော အင်္ဂါရပ်များအား ကန့်သတ်ပြီး စက် စွမ်းဆောင်ရည်ကို လျော့နည်းစေ၍ အခြေခံ လုပ်ဆောင်ချက်များ (ဥပမာ- ခေါ်ဆိုမှု၊ SMS နှင့် ကွန်ရက်သို့ ချိတ်ဆက်ခြင်း) ကိုသာ သုံးခွင့်ပြုခြင်းဖြင့် ဖုန်းဘက်ထရီအား ပိုအသုံးခံအောင် ပြုလုပ်ပေးပါမည်။ အစွန်းရောက် ဘက်ထရီချွေတာသူအား ဖွင့်မလား?</string>
+    <string name="power_dialog_super_save_msg_5g">Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်သည် (5G ကွန်ရက်ချိတ်ဆက်မှု ကဲ့သို့ ) ဓာတ်ခဲကုန်စေသော အင်္ဂါရပ်များကို ကန့်သတ်ပြီး သင့်စက်၏ လုပ်ဆောင်ချက်ကို လျှော့လိုက်ပါသည်။ ဖုန်းခေါ်ဆိုခြင်းများ၊ မက်ဆေ့(ချ်)ပို့ခြင်းများနှင့် ကွန်ရက်ချိတ်ဆက်မှုတို့ကို ထိခိုက်ခြင်းမရှိပါ။ Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်ကို ဖွင့်လိုပါသလား။</string>
     <string name="power_dialog_super_save_title">အစွန်းရောက် ဘက်ထရီချွေတာသူ</string>
     <string name="power_idle">ဖုန်းအလုပ်မလုပ်သည့်အချိန်</string>
     <string name="power_main_battery_last_day_hour">%1$s ရက် %2$s နာရီ ကျန်သေးသည်</string>
@@ -1784,6 +1841,7 @@
     <string name="power_optimize_btn_text_fixed">အဆင့်မြှင့်တင်ခဲ့သော</string>
     <string name="power_optimize_catagory_fixed_title">အဆင့်မြှင့်တင်ခဲ့သော</string>
     <string name="power_optimize_close_app">ပါဝါစားသုံးမှုများနေသော အက်ပ်များအား ပိတ်ပါ</string>
+    <string name="power_optimize_disable_5g">5G ကွန်ရက်ချိတ်ဆက်မှုကို ကန့်သတ်ရန်</string>
     <string name="power_optimize_disable_app_autostart">အက်ပ်များအား အလိုအလျောက် ဖွင့်ခြင်းမှ တားဆီးပါ</string>
     <string name="power_optimize_disable_gps">GPS အား ပိတ်ပါ</string>
     <string name="power_optimize_disable_start_other_app">အခြားအက်ပ်များမှ ဖွင့်ခြင်းအား တားမြစ်ပါ</string>
@@ -1805,7 +1863,8 @@
     <string name="power_save_on_time_end_time_summary_na">သို့</string>
     <string name="power_save_on_time_start_time_summary_na">မှ</string>
     <string name="power_save_ps_clean">စက်ကို လော့ခ်ချထားစဉ် ကက်ချ်အား အလိုအလျောက်ရှင်းလင်းမည်</string>
-    <string name="power_save_ps_close_setting">ဘက်ထရီ ချွေတာရန် နောက်ခံ ဝန်ဆောင်မှုများ (ဆင့်ခ်လုပ်ခြင်း၊ GPS) တို့အား ပိတ်ပါ</string>
+    <string name="power_save_ps_close_setting">ဘက်ထရီချွေတာရန်အတွက် ပါဝါအသုံးပြုမှုမြင့်မားသော ဝန်ဆောင်မှုများနှင့် အင်္ဂါရပ်များ (ဆင့်ခ်၊ GPS၊ ထိတွေ့မျက်နှာပြင်ဆိုင်ရာ တုံ့ပြန်အကြံပြုမှု၊ \"နှိုးရန် မ လိုက်ပါ\"၊ \"မျက်နှာပြင်အား ဖွင့်ရန်/ပိတ်ရန် နှစ်ချက် ထိနှိပ်ပါ\"၊ \"မျက်နှာပြင် ပိတ်သွားသောအခါ လက်ဗွေအိုင်ကွန်အား ပြပါ\") ကို ပိတ်လိုက်ပါ</string>
+    <string name="power_save_ps_close_setting_5g">ဘက်ထရီချွေတာရန်အတွက် ပါဝါအသုံးပြုမှုမြင့်မားသော ဝန်ဆောင်မှုများနှင့် အင်္ဂါရပ်များ (ဆင့်ခ်၊ 5G ကွန်ရက် ချိတ်ဆက်နိုင်မှု၊ GPS၊ ထိတွေ့မျက်နှာပြင်ဆိုင်ရာ တုံ့ပြန်အကြံပြုမှု၊ \"နှိုးရန် မ လိုက်ပါ\"၊ \"မျက်နှာပြင်အား ဖွင့်ရန်/ပိတ်ရန် နှစ်ချက် ထိနှိပ်ပါ\"၊ \"မျက်နှာပြင် ပိတ်သွားသောအခါ လက်ဗွေအိုင်ကွန်အား ပြပါ\") ကို ပိတ်လိုက်ပါ</string>
     <string name="power_save_ps_freeze">နောက်ခံတွင် အက်ပ်များအား အလုပ်လုပ်ခြင်းမှ ရပ်စေမည်</string>
     <string name="power_save_ps_limit">စနစ် အက်ပ်များ၏ လှုပ်ရှားမှုအား ကန့်သတ်မည်</string>
     <string name="power_save_settings">ဓာတ်ခဲဆက်တင်များ</string>
@@ -1877,6 +1936,7 @@
     <string name="pref_normal_traffic_limit">သတ်မှတ်ထားသော ဒေတာအစီအစဉ် ကုန်သွားပါက</string>
     <string name="pref_open_adjust_traffic">သင့်ဖုန်းကာရီယာမှ ​ဒေတာသုံးစွဲမှုအား နေ့တိုင်း အသစ်မွမ်းမံပါ။</string>
     <string name="pref_operator_not_set">ကာရီယာ မသတ်မှတ်ထားပါ</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">ဒေတာအစီစဉ်ထက် ကျော်သွားပါက</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_pkg_begin_date">အသုံးပြမှုပြန်သတ်မှတ်ခြင်းရက်စွဲ</string>
@@ -1945,6 +2005,9 @@
 
  ချိန်ညှိနေစဉ်၊MIUI သည် ချိန်ညှိပုံစံခွက်ရယူရန် သင့် ကာရီယာထံသို့ မက်ဆေ့ချ်များ ပေးပို့နိုင်ပါသည်။"</string>
     <string name="privacy_prompt_upload">လုဒ်တင်ပါ</string>
+    <string name="privacyapp_number_masked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားသည်</string>
+    <string name="privacyapp_number_unmasked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားနိုင်သည်</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="promotion">ကြော်ငြာ</string>
     <string name="prompt_all">အားလုံးကိုမေးပါ။</string>
@@ -2079,6 +2142,8 @@
     <string name="shield_keyboard_detail">ခလုတ်များအား ပြန်ဖွင့်ရန် နှစ်ချက်ဆက်တိုက် ထိနှိပ်ပါ။</string>
     <string name="shield_keyboard_summary">ခလုတ်နှင့် မျက်နှာပြင်အပြည့် လက်ဟန်များအား ဂိမ်းကစားနေစဥ် ကန့်သတ်ထားမည်</string>
     <string name="shield_keyboard_title">ခလုတ်နှင့် လက်ဟန်များအား ကန့်သတ်မည်</string>
+    <string name="shortcut_title_scan">စကန်ဖတ်ရန်</string>
+    <string name="shortcut_title_whatsapp_clean">WhatsApp သန့်ရှင်းရေး</string>
     <string name="show_system_app">စနစ် အက်ပ်များ ကို ပြသပါ</string>
     <string name="show_traffic_dialog_message">သင့်ဒေတာသုံးစွဲမှု အချက်အလက်ကို အသိပေးချက်ရှိတ်တွင် ပြသပါလိမ့်မည်။ ဤအင်္ဂါရပ်ကို ဒေတာသုံးစွဲမှု > ဆက်တင် ထဲတွင် မည်သည့်အချိန်၌မဆို ဖွင့်နိုင် (သို့) ပိတ်နိုင်သည်</string>
     <string name="show_traffic_dialog_title">သုံးစွဲမှုအား အသိပေးချက်ရှိတ်တွင် ပြပါ</string>
@@ -2086,6 +2151,8 @@
     <string name="shutdown_cancel_reminder">ပါဝါ မပိတ်ပါနှင့်</string>
     <string name="shutdown_cancel_reminder_detail">သင်ဖုန်းပြောနေစဉ် ဖြစ်နေသောကြောင့် စက်ပါဝါမပိတ်ခဲ့ပါ</string>
     <string name="shutdown_cancel_reminder_detail2">သင်ဂိမ်းကစားနေပုံရသည်။ အချိန်ဇယားဖြင့် ပါဝါပိတ်ခြင်းအား ပယ်ဖျက်ခဲ့သည်။</string>
+    <string name="signal_exception_4g_bad_rsrq">လက်ရှိလိုင်းလက်ခံအား မကောင်းပါ။ လိုင်းနှေးနိုင်ပါသည်။</string>
+    <string name="signal_exception_none_4g_5g_network">ကျွန်ုပ်တို့သည် 2G/3G မိုဘိုင်း ကွန်ရက်များ သုံးထားသည်။ လိုင်းနှေးနိုင်ပါသည်။</string>
     <string name="signal_exception_summary">ဤနေရာတွင် ကွန်ရက်သို့ချိတ်ဆက်၍မရနိုင်ပါ</string>
     <string name="signal_exception_title">လိုင်းအားကောင်းမှုကို စမ်းသပ်ပါ</string>
     <string name="signed_rule">စည်းမျဉ်းများ</string>
@@ -2276,7 +2343,7 @@
     <string name="still_retain_btn">သိမ်းဆည်းထားမည်</string>
     <string name="stop_milink_connect">လွှင့်တင်ခြင်းကို ရပ်လိုက်ပါပြီ</string>
     <string name="suggest_app_tolock">အကြံပြုချက်များ</string>
-    <string name="suggest_app_tolock_masked">ကွယ်ဝှက်ထားသော</string>
+    <string name="suggest_app_tolock_masked">အကြောင်းအရာကို ဖုံးထားသည်</string>
     <string name="suggest_app_tolock_unmasked">မြင်နိုင်သော အသိပေးချက်များ</string>
     <string name="suggest_scan_again">လုံခြုံရေးအန္တရာယ်များကင်းရှင်းရန် စကန်ပြီးအောင်ဖတ်ပါ။</string>
     <string name="summary_app_lock_disable">သင့်ဒေတာအား အက်ပ်သော့ခတ်ဖြင့် ကာကွယ်ပါ</string>
@@ -2368,8 +2435,8 @@
     <string name="system_permission_declare_no_say_no">သင်သည် ခွင့်ပြုချက်များမပေးရန် သို့မဟုတ် ကျွန်ုပ်တို့အား ဒေတာကောက်ယူအသုံးပြုခွင့်မပေးရန် ရွေးချယ်ပါက ဤအက်(ပ်)သည် ကောင်းစွာ အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
     <string name="system_permission_declare_no_say_no_analytics">ဤခွင့်ပြုချက်များကို မပေးလိုပါက ဆက်တင်များ > ထပ်ဆောင်းဆက်တင်များ > ပုဂ္ဂိုလ်ရေးလုံခြုံမှု > အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် စာရင်းပြန်ဖြုတ်နိုင်သည်။</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">သင်သည် လိုအပ်သော ခွင့်ပြုချက်များ မပေးရန် သို့မဟုတ် ကျွန်ုပ်တို့အား သင့်၏ ဒေတာကောက်ယူအသုံးပြုခွင့်မပေးရန် ရွေးချယ်ပါက ဤအက်(ပ်)သည် ကောင်းစွာ အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
-    <string name="system_permission_declare_privacy_declare">သင်၏ ကိုယ်ရေးအချက်အလက်များအား သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ကိုယ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကျွန်ုပ်တို့က ကာကွယ်ပေးသွားပါမည်။ လုံခြုံရေးစနစ်သည် အင်တာနက်ဖြင့် ချိတ်ဆက်ရန် လိုအပ်သကဲ့သို့ သင့်ကိုယ်ရေး အချက်အလက်များကို စုဆောင်းရန် အောက်ပါအချက်အလက်များကို လိုအပ်ကြောင်းအား သတိပြုပေးပါ -</string>
-    <string name="system_permission_declare_privacy_no_permission">သင့်အတွက် ဝန်ဆောင်မှုများ ပေးအပ်ရန်အတွက် လုံခြုံရေးစနစ်သည် အင်တာနက်ဖြင့် ချိတ်ဆက်ရန် လိုအပ်သကဲ့သို့ လိုအပ်သော သင့်ကိုယ်ရေး အချက်အလက်များကို စုဆောင်းရန်လည်း လိုအပ်ကြောင်းအား သတိပြုပေးပါ။ သင်၏ ကိုယ်ရေးအချက်အလက်များအား သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ကိုယ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကျွန်ုပ်တို့က ကာကွယ်ပေးသွားပါမည်။</string>
+    <string name="system_permission_declare_privacy_declare">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပေးပါမည်။ ဤအက်(ပ်)သည် အင်တာနက်နှင့် ချိတ်ရန် လိုအပ်ပြီး သင့်ကိုယ်ရေး အချက်အလက်များကို ကောက်ယူရန် အောက်ပါခွင့်ပြုချက်များ လိုအပ်ကြောင်း သတိပြုပါ -</string>
+    <string name="system_permission_declare_privacy_no_permission">ဤအက်(ပ်)သည် သင့်အား ဝန်ဆောင်မှုပေးနိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရမည်ဖြစ်ပြီး လိုအပ်သော ကိုယ်ရေးအချက်အလက်များကို ကောက်ယူရန် လိုအပ်ကြောင်း သတိပြုပါ။ ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပေးပါမည်။</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data>ဤဝန်ဆောင်မှုကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီးသဘောတူရပါမည်။&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">ဤအက်(ပ်)မှ ထွက်လိုက်နိုင်ပါသည်။</string>
     <string name="system_permission_declare_revoke_uninstallable">သင်သည် လုံခြုရေး > အက်(ပ်) စီမံခန့်ခွဲရန် > ခွင့်ပြုချက်များ > ခွင့်ပြုချက်များတွင် အကောင့်ထွက်ခြင်း၊ ဤအက်(ပ်)ကို ဖြုတ်ခြင်း သို့မဟုတ် ခွင့်ပြုချက် ရုတ်သိမ်းခြင်းများ ပြုလုပ်နိုင်သည်။</string>
@@ -2377,6 +2444,7 @@
     <string name="system_permission_declare_use_network_no_permission">ကွန်ရက်ချိတ်ဆက်ပါ</string>
     <string name="system_permission_declare_user_agreement">&lt;Data>ဤဝန်ဆောင်မှုကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီမှု&lt;/a>ကို ဖတ်ရှုပြီးသဘောတူရပါမည်။&lt;/Data></string>
     <string name="system_permission_perm_answer_call">ဖုန်းခေါ်ဆိုမှုများပြုလုပ်ရန်</string>
+    <string name="system_permission_perm_optional">" (ချန်လှပ်နိုင်သည်)"</string>
     <string name="system_permission_perm_read_mms">MMS ဖတ်ရန်</string>
     <string name="system_permission_perm_read_numbers">ဖုန်းနံပါတ်များ ဖတ်ရန်</string>
     <string name="system_permission_perm_send_mms">MMS ပို့ရန်</string>

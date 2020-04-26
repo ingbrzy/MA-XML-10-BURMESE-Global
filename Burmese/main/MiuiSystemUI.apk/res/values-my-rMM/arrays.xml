@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>၀%</item>
         <item>၅၀%</item>
@@ -93,8 +111,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
         <item>Qualcomm® aptX™ TWS+ အော်ဒီယို</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
@@ -105,8 +126,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
         <item>Qualcomm® aptX™ TWS+ အော်ဒီယို</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
-        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
+        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -130,8 +154,8 @@
         <item>ပိတ်ထားသည်</item>
         <item>စစ်ထုတ်ခြင်း ဖွင့်ထားသည်</item>
         <item>ဖွင့်ထားပါသည်</item>
-        <item>ခေါင်းစဉ်များဖြင့် စစ်ထုတ်ခြင်း ကို ဖွင့်ထားသည်</item>
-        <item>မီဒီယာပက်ကတ်များဖြင့် စစ်ထုတ်ခြင်း ကို ဖွင့်ထားသည်</item>
+        <item>\"ခေါင်းစဉ်များဖြင့် စစ်ထုတ်ခြင်း\" ကို ဖွင့်ထားသည်</item>
+        <item>\"မီဒီယာပက်ကတ်များဖြင့် စစ်ထုတ်ခြင်း\" ကို ဖွင့်ထားသည်</item>
     </string-array>
     <string-array name="clock_options">
         <item>နာရီ၊ မိနစ်နှင့် စက္ကန့်ပြပါ</item>

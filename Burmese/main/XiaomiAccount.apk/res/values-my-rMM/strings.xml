@@ -79,6 +79,7 @@
     <string name="passport_change_phone_number">နံပါတ်ပြောင်း</string>
     <string name="passport_forget_password"><u>စကားဝှက် မေ့နေသည်</u></string>
     <string name="passport_forget_password_no_underline">စကားဝှက် မေ့နေသည်</string>
+    <string name="passport_can_not_receive_verification_code">အတည်ပြုကုဒ် မရဘူးလား။</string>
     <string name="passport_reg_type_email">အီးမေးလ်လိပ်စာ</string>
     <string name="passport_register_by_email"><u>အီးမေးလ်လိပ်စာသုံးပြီး အကောင့်တစ်ခု ဖန်တီးပါ</u></string>
     <string name="passport_international_register_by_email">အီးမေးလ်လိပ်စာဖြင့် အကောင့်တစ်ခု ဖန်တီးမည်</string>
@@ -465,7 +466,9 @@
     <string name="input_new_pwd">စကားဝှက် အသစ် ရိုက်ထည့်ပါ</string>
     <string name="confirm_new_pwd">စကားဝှက်အသစ်ကို အတည်ပြုပါ</string>
     <string name="inconsistent_pwd">စကားဝှက် မကိုက်ညီပါ</string>
-    <string name="same_new_and_old_pwd">လက်ရှိ စကားဝှက်နှင့် တူ၍မရပါ</string>
+    <string name="same_new_and_old_pwd">စကားဝှက်အသစ်နှင့် အဟောင်း မတူရပါ</string>
+    <string name="pwd_width_phone_number_or_mail_num">စကားဝှက်တွင် သင့်ဖုန်းနံပါတ်၊ အီးမေးလ် သို့မဟုတ် Mi အကောင့်အိုင်ဒီတို့ မပါဝင်ရပါ။</string>
+    <string name="risky_pwd_not_allow">စကားဝှက်အသစ်သည် လုံခြုံမှုမရှိပါ။ နောက်ထပ်တစ်ခု သတ်မှတ်ပေးပါ။</string>
     <string name="account_security_info_pref_title">လုံခြုံရေးအချက်အလက်</string>
     <string name="account_bind_settings">အကောင့်များ</string>
     <string name="account_bind_devices">ကိရိယာများ</string>

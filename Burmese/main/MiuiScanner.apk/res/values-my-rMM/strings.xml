@@ -12,7 +12,6 @@
     <string name="agree_camera_permission">ဓာတ်ပုံနှင့် ဗီဒီယိုရိုက်ခြင်းများအတွက်</string>
     <string name="agree_storage_permission">စက်ထဲတွင်သိမ်းထားသော ဓာတ်ပုံများနှင့် ဖိုင်များကို ဖတ်ခြင်းအတွက်</string>
     <string name="always">အမြဲတမ်း</string>
-    <string name="amazon_assistant_shopping_title">Amazon တွင် ရှာမည်</string>
     <string name="app_description_content">စကန်နာသည် QR ကုဒ်များ၊ လိပ်စာကဒ်များနှင့် စာရွက်စာတမ်းများကို စကန်ဖတ်နိုင်သည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
     <string name="app_description_title">စကန်နာအကြောင်း</string>
     <string name="app_details">အက်ပ်များ−</string>
@@ -45,6 +44,7 @@
     <string name="choose_open_code_app">အက်(ပ်)တစ်ခု ရွေးပါ</string>
     <string name="choose_pay_title">ငွေပေးချေမှု နည်းလမ်း ရွေးပါ</string>
     <string name="choose_picture">QR ကုဒ်ပုံအား ရွေးချယ်ပါ</string>
+    <string name="choosed_title">ရွေးထားသည်</string>
     <string name="classesNameNull_toast">အတန်းအမည်ကို ချန်လှပ်၍ မရပါ</string>
     <string name="classes_canfirmTitle">ရလဒ်များကို အတည်ပြုပြီး ထည့်သွင်းခြင်း စရန်</string>
     <string name="classes_company">ထည့်သွင်းရန်</string>
@@ -71,10 +71,16 @@
     <string name="copy_text">စာကို ကူးပါ</string>
     <string name="copy_text_success">စာသားကို ကော်ပီကူးထားသည်</string>
     <string name="copy_tracknum">ခြေရာခံစောင့်ကြည့်ရေးကုဒ်နံပါတ်ကို ကူးယူမည်</string>
+    <string name="create">QR ကုဒ်ထုတ်ရန်</string>
+    <string name="createFail">QR ကုဒ်ထုတ်မရပါ။ သင့်မက်ဆေ့(ချ်) အလွန်ရှည်နေသည်။</string>
+    <string name="createQRCode_hint">စာသားထည့်ပါ</string>
+    <string name="createQRCode_save">သိမ်းရန်</string>
+    <string name="create_again">ရီဖရက်(ရှ်)လုပ်ပါ</string>
     <string name="crop_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="crop_done_description">ပြီးပြီ</string>
     <string name="crop_title_study">ဓာတ်ပုံ ဖြတ်ထုတ်ပါ</string>
     <string name="crop_title_translation">ဘာသာပြန်ရန် စာသားအား ရွေးချယ်ပါ</string>
+    <string name="delete">ဖျက်ရန်</string>
     <string name="document_color_picture">အရောင်များ</string>
     <string name="document_color_picture_tip">အရောင်များသို့ ပြောင်းလဲနေ…</string>
     <string name="document_crop_title">ဖိုင်စုအား ဖြတ်ပါ</string>
@@ -129,6 +135,8 @@
     <string name="food_module_title_food">ကယ်လိုရီ</string>
     <string name="got_it">နားလည်ပါပြီ</string>
     <string name="gps">ဂျီပီအက်စ် လမ်းညွှန်</string>
+    <string name="history">မှတ်တမ်း</string>
+    <string name="importFailed">သွင်းမရပါ</string>
     <string name="import_contact">အဆက်အသွယ်ကိုထည့်ပါ</string>
     <string name="impunity_declaration_content">စကန်နာသည် သင့်ကင်မရာကို အသုံးပြုရန် လိုအပ်သကဲ့သို့ ဤအက်ပ်ကို အသုံးပြုစဉ်က ရိုက်ထားသော ပုံများကို စီမံရန်လည်း လိုအပ်ပါသည်။ သင့်ကိုယ်ရေးအချက်အလက်များပါဝင်သော အရာများကို စကန်နာသုံးပြီး မရိုက်ပါနှင့်။ \"သဘောတူသည်\" ကို တို့နှိပ်ခြင်းအားဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> ကို လက်ခံပြီး စကန်နာကို အင်တာနက်ချိတ်ခွင့် ပေးရာရောက်ပါသည်။</string>
     <string name="impunity_declaration_negative_text">ထွက်</string>
@@ -199,6 +207,11 @@
     <string name="recognize">စကန်</string>
     <string name="recognize_fail">ကုဒ်ဖတ်လို့ မရပါ</string>
     <string name="request_server_failed">ဆာဗာသို့ချိတ်ဆက်၍ မရခဲ့ပါ</string>
+    <string name="saveDone">အောင်မြင်စွာသိမ်းပြီးပါပြီ</string>
+    <string name="scanHistory">စကန်မှတ်တမ်း</string>
+    <string name="scanHistory_close">ပိတ်ရန်</string>
+    <string name="scanHistory_isOpen">စကန်ဖတ်ထားသောအရာများ၏ မှတ်တမ်းကို စတင်ခြေရာကောက်လိုပါသလား။</string>
+    <string name="scanHistory_open">ဖွင့်ရန်</string>
     <string name="scan_result">ရလဒ်</string>
     <string name="scan_support_type">WeChat၊ Alipay၊ QR ကုဒ်၊ ဘား ကုဒ်</string>
     <string name="sdk_not_ready">SDK ပြင်ဆင်နေသည်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>

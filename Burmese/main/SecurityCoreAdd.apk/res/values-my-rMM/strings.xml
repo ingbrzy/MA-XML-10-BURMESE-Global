@@ -174,6 +174,10 @@
     <string name="greenguard_child_des_title">စက်ပစ္စည်းကိုထည့်ရန် QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="greenguard_functional_description">"စက်ပစ္စည်းများကို အဝေးမှစီမံခန့်ခွဲပြီး၊ တည်နေရာကြည့်ပါ
 ထည့်သွင်းထားသော အက်(ပ်)များကို ထိန်းချုပ်ပြီး အသုံးပြုခြင်းကို ကန့်သတ်ပါ"</string>
+    <string name="greenguard_install_cancle">No thanks</string>
+    <string name="greenguard_install_confirm">Install</string>
+    <string name="greenguard_install_message">"Family Guard is a system app. You don't need internet to install it."</string>
+    <string name="greenguard_install_title">Install Family Guard</string>
     <string name="greenguard_parent_des">သင့်မိတ်ဆွေများနှင့် မိသားစု၏ စက်ပစ္စည်းများကို စီမံခန့်ခွဲရန်</string>
     <string name="greenguard_parent_des_title">စက်ပစ္စည်းများထည့်ရန် Kite အစောင့်အကြပ်သုံးပါ</string>
     <string name="guide_contact_sub_title_desc">"အဆက်အသွယ်များအား သီးသန့်ထားလိုက်လိမ့်မည်။

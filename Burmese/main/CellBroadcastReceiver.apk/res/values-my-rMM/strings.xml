@@ -70,7 +70,6 @@
     <string name="enable_cmas_test_alerts_summary">စီးပွားဖြစ် မိုဘိုင်း သတိပေးရေး စနစ် အတွက် စမ်းသပ်ရေး ထုတ်လွှင့်ချက်များကို ပြပါ</string>
     <string name="enable_cmas_test_alerts_title">CMAS စမ်းသပ် လွှင့်မှုများ ပြ</string>
     <string name="enable_emergency_alerts_summary">အရေးပေါ် သတိပေးရေး ထုတ်လွှင့်ချက်များကို ပြပါ</string>
-    <string name="enable_emergency_alerts_title">အကြောင်းကြားမှုများ ဖွင့်ပါ</string>
     <string name="enable_etws_test_alerts_summary">မြေငလျင် ဆူနာမီ သတိပေးရေး စနစ် အတွက် စမ်းသပ်ရေး ထုတ်လွှင့်မှုများကို ပြပါ</string>
     <string name="enable_etws_test_alerts_title">ETWS စမ်းသပ်ရေး ထုတ်လွှင့်မှု</string>
     <string name="etws_earthquake_and_tsunami_warning">မြေငလျင် နှင့် ဆူနာမီ သတိပေးရေး</string>
