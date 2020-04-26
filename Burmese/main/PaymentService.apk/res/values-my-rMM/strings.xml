@@ -214,5 +214,4 @@
     <string name="passport_wrong_phone_number_format">သင်ထည့်သွင်းခဲ့သော ဖုန်းနံပါတ်ဖွဲ့စည်းမှုပုံစံ မမှန်ကန်ပါ</string>
     <string name="passport_wrong_vcode">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_yes">ဟုတ်ပါတယ်</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
 </resources>

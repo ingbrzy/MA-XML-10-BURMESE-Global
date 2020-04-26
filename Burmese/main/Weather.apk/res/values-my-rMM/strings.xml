@@ -103,12 +103,10 @@
     <string name="daily_forecast_add_city_message">အသေးစိတ်ခန့်မှန်းချက်အတွက် %1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်။</string>
     <string name="daily_forecast_add_city_title">%1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်</string>
     <string name="daily_forecast_detail_date">M/d</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"မိုးလေဝသ အချက်အလက်ရယူ၍ မရပါ
 အောက်သို့ဆွဲပြီး ရီဖရှက်ရ်လုပ်ပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="data_provided_by">ဒေတာ ပံ့ပိုးသူ</string>
     <string name="edit_city">မြို့များကို စီမံမည်</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="empty_view_net_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="empty_view_refresh">ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -130,8 +128,6 @@
     <string name="first_start_network_title">အင်တာနက်နှင့် တည်နေရာဝင်ရောက်နိုင်မှု</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ယခု</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="hourly_forecast_title_24_hours_desc">၂၄နာရီအတွက် ခန့်မှန်းချက်</string>
     <string name="hourly_forecast_title_hourly_desc">နာရီအလိုက် ခန့်မှန်းချက်</string>
@@ -145,15 +141,11 @@
     <string name="indices_title_feel">တကယ့် ခံစားမှု</string>
     <string name="indices_title_pressure">လေထုဖိအား</string>
     <string name="install">ထည့်သွင်းမည်</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="international_details_title">အသေးစိတ်များ</string>
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">လေ</string>
     <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="life_index_title">မိုးလေဝသအညွှန်း</string>
     <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
  မြို့အား ပြန်လည်သတ်မှတ်ရန် သို့မဟုတ် ကိုယ်တိုင်ပေါင်းထည့်ရန် မျက်နှာပြင်ပေါ်တွင် ထိနှိပ်ပါ။"</string>
@@ -250,7 +242,6 @@
     <string name="share_menu_title">မျှဝေပါ</string>
     <string name="share_subject">မျှဝေပါ</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
     <string name="shortcut_short_label_24_hour_forecast">၂၄ နာရီအတွက် ခန့်မှန်းချက်</string>

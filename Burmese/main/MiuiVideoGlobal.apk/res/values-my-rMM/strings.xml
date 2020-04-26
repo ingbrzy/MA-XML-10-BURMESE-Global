@@ -385,7 +385,6 @@ ID -
     <string name="notice_title">မက်ဆေ့(ချ်)များ</string>
     <string name="notify_apk_installed">အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="ok">အိုကေ</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="ovp_alert_dialog_download_install_task">HD ပလက်အင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
