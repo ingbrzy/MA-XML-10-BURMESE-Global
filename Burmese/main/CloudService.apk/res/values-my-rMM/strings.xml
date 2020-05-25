@@ -8,7 +8,7 @@
     <string name="add_short_cut">ပေါင်းထည့်</string>
     <string name="added_successfully">အောင်မြင်စွာ ပေါင်းထည့်ခဲ့သည်</string>
     <string name="antispam_sync">ဆက်တင်များကို မနှောင့်ယှက်ပါနှင့်</string>
-    <string name="app_name">ကလောက်</string>
+    <string name="app_name">Xiaomi ကလောက်</string>
     <string name="bad_authentication">အကောင့် (သို့မဟုတ်) စကားဝှက် မှားနေသည်</string>
     <string name="btn_return">နောက်သို့</string>
     <string name="button_cancel">ပယ်ဖျက်မည်</string>
@@ -24,6 +24,7 @@
     <string name="cloud_storage_default_title">ကလောက်သိုလှောင်ခန်း</string>
     <string name="cloud_storage_info_type_drive">Mi ဒရိုက်</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
+    <string name="cloud_storage_info_type_family">မိသားစု</string>
     <string name="cloud_storage_info_type_others">အခြား</string>
     <string name="cloud_storage_info_type_pdc">စနစ်ဆက်တင်များ</string>
     <string name="cloud_storage_loading_data">ခေတ္တစောင့်ပါ…</string>
@@ -37,17 +38,18 @@
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">ဤအကောင့်ကို အခြားစက်တစ်လုံးတွင်လည်း သုံးထားသည်။ (%1$s နှင့် %2$s အပါအဝင်) အက်(ပ်)အမျိုးမျိုးမှ အရာများကို ဤစက်ရှိ အရာများနှင့် ပေါင်းစည်းလိုပါသလား။</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">ဤအကောင့်ကို အခြားစက်တစ်လုံးတွင်လည်း သုံးထားသည်။ %s မှ အရာများကို ဤစက်ရှိ အရာများနှင့် ပေါင်းစည်းလိုပါသလား။</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">ဤအကောင့်ကို အခြားစက်တစ်လုံးတွင်လည်း သုံးထားသည်။ %1$s နှင့် %2$s မှ အရာများကို ဤစက်ရှိ အရာများနှင့် ပေါင်းစည်းလိုပါသလား။</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two">ဤစက်ရှိ (%1$s နှင့် %2$s) အပါအဝင် အက်(ပ်)အမျိုးမျိုးမှ အရာများသည် ကလောက်ရှိ အရာများနှင့် ပေါင်းစည်းသွားပါမည်။ ယခုပေါင်းစည်းလိုပါသလား။</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two_pad">ဤစက်ရှိ (%1$s နှင့် %2$s) အပါအဝင် အက်(ပ်)အမျိုးမျိုးမှ အရာများသည် ကလောက်ရှိ အရာများနှင့် ပေါင်းစည်းသွားပါမည်။ ယခုပေါင်းစည်းလိုပါသလား။</string>
-    <string name="data_merge_dialog_alert_msg_one">ဤစက်ရှိ %s မှ အရာများသည် ကလောက်ရှိ အရာများနှင့် ပေါင်းစည်းသွားပါမည်။ ယခုပေါင်းစည်းလိုပါသလား။</string>
-    <string name="data_merge_dialog_alert_msg_one_pad">ဤစက်ရှိ %s မှ အရာများသည် ကလောက်ရှိ အရာများနှင့် ပေါင်းစည်းသွားပါမည်။ ယခုပေါင်းစည်းလိုပါသလား။</string>
-    <string name="data_merge_dialog_alert_msg_two">ဤစက်ရှိ %1$s နှင့် %2$s မှ အရာများသည် ကလောက်ရှိ အရာများနှင့် ပေါင်းစည်းသွားပါမည်။ ယခုပေါင်းစည်းလိုပါသလား။</string>
-    <string name="data_merge_dialog_alert_msg_two_pad">ဤစက်ရှိ %1$s နှင့် %2$s မှ အရာများသည် ကလောက်ရှိ အရာများနှင့် ပေါင်းစည်းသွားပါမည်။ ယခုပေါင်းစည်းလိုပါသလား။</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">%1$s နှင့် %2$s အပါအဝင် အရင်းအမြစ်များစွာမှ အရာများကို Xiaomi ကလောက်တွင် သိမ်းထားသည်။ ၎င်းတို့ကို ဤစက်ရှိ အရာများနှင့် ဆင့်(ခ်)လုပ်ပြီး ပေါင်းစပ်လိုပါသလား။</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">%1$s နှင့် %2$s အပါအဝင် အရင်းအမြစ်များစွာမှ အရာများကို Xiaomi ကလောက်တွင် သိမ်းထားသည်။ ၎င်းတို့ကို ဤစက်ရှိ အရာများနှင့် ဆင့်(ခ်)လုပ်ပြီး ပေါင်းစပ်လိုပါသလား။</string>
+    <string name="data_merge_dialog_alert_msg_one">%s မှ အရာများကို Xiaomi ကလောက်တွင် သိမ်းထားသည်။ ၎င်းတို့ကို ဤစက်ရှိ အရာများနှင့် ဆင့်(ခ်)လုပ်ပြီး ပေါင်းစပ်လိုပါသလား။</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">%s မှ အရာများကို Xiaomi ကလောက်တွင် သိမ်းထားသည်။ ၎င်းတို့ကို ဤစက်ရှိ အရာများနှင့် ဆင့်(ခ်)လုပ်ပြီး ပေါင်းစပ်လိုပါသလား။</string>
+    <string name="data_merge_dialog_alert_msg_two">%1$s နှင့် %2$s မှ အရာများကို Xiaomi ကလောက်တွင် သိမ်းထားသည်။ ၎င်းတို့ကို ဤစက်ရှိ အရာများနှင့် ဆင့်(ခ်)လုပ်ပြီး ပေါင်းစပ်လိုပါသလား။</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">%1$s နှင့် %2$s မှ အရာများကို Xiaomi ကလောက်တွင် သိမ်းထားသည်။ ၎င်းတို့ကို ဤစက်ရှိ အရာများနှင့် ဆင့်(ခ်)လုပ်ပြီး ပေါင်းစပ်လိုပါသလား။</string>
     <string name="data_merge_dialog_loading">ဒေတာစိစစ်နေသည်…</string>
+    <string name="data_merge_dialog_title">အမယ်များပေါင်းစပ်ရန်</string>
     <string name="data_protection_title">ဒေတာများကို ကာကွယ်ရန်</string>
     <string name="detect_sim_card">ဆင်းမ်ကဒ်အား ရှာဖွေပါ</string>
     <string name="disable_find_device_error">\"စက်ကိုရှာပါကို ပိတ်လို့မရပါ။ %1$s</string>
-    <string name="do_not_merge">မပေါင်းပါနှင့်</string>
+    <string name="do_not_merge">မလုပ်တော့ရန်</string>
     <string name="enable_find_device_error">\"စက်ကိုရှာပါကို ဖွင့်လို့မရပါ။ %1$s</string>
     <string name="enable_find_device_success">စက်ကိုရှာပါကို ဖွင့်ထားသည်</string>
     <string name="enable_micloud">Xiaomi ကလောက်သုံးရန် အကောင့်ဝင်ပါ</string>
@@ -57,8 +59,11 @@
     <string name="error_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="error_server">ဆာဗာ အမှား</string>
     <string name="error_unknown">အကောင့်ထဲသို့ မဝင်ရောက်နိုင်ပါ</string>
+    <string name="feedback_custom_hint">သင်ကြုံတွေ့ခဲ့ရသော ပြဿနာများအကြောင်းကို ဤနေရာတွင် ဖော်ပြပေးပါ။ အကြံပြုချက်များ ပေးအပ်နေခြင်းဖြစ်ပါက အသေးစိတ်အချက်အလက်များအား ကျွုန်ုပ်တို့ပိုမိုနှစ်သက်ပါသည်။</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
     <string name="find_device_dspt_provision">သင့်စက် ပျောက်သွားပါက စက်ရှာဖွေရန်၊ သော့ခတ်ရန် သို့မဟုတ် ပြန်သတ်မှတ်ရန် &lt;font color=#0097FF>%s&lt;/font>သို့ သွားပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင် အချိန်မရွေး ဖွင့်/ပိတ် လုပ်နိုင်ပါသည်။</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">သင်၏ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="find_device_error_server">ဆာဗာ အမှား</string>
     <string name="find_device_gdpr_prompt">စက်ရှာဖွေခြင်းအား ဖွင့်ထားခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ <a href="app://com.miui.cloudservice.gdpr.license"><u>ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</u></a>အား သဘောတူပြီး ဖြစ်ပါသည်။ ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်အား ပိတ်ပါ။</string>
@@ -117,6 +122,9 @@
     <string name="menu_add_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="menu_add_short_cut">ပင်မမျက်နှာပြင် ရှော့ကဒ် ဖန်တီးရန်</string>
     <string name="merge">ပေါင်းစည်းပါ</string>
+    <string name="mi_drive_not_publish_toast">Mi ဒရိုက်အား မကြာမီ အသုံးပြုနိုင်ပါတော့မည်</string>
+    <string name="mi_drive_summary">စက်မျိုးစုံပေါ်ရှိ Xiaomi Cloud မှ မှတ်တမ်းများကို ရယူသုံးစွဲလိုက်ပါ</string>
+    <string name="mi_drive_title">Mi ဒရိုက်</string>
     <string name="micloud_alert_dialog_positive">အိုကေ</string>
     <string name="micloud_all_sub_1_intl_sms">သင့်ဆင်းမ်ကဒ်အား အသက်သွင်းရန် နိုင်ငံတကာ SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
     <string name="micloud_all_sub_1_sms">သင့်ဆင်းမ်ကဒ်အား အသက်သွင်းရန်ပုံမှန် SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
@@ -197,15 +205,18 @@
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened">စက်ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် မက်ဆေ့ချ်တစ်စောင် ပေးပို့ရမည်။ ထိုအတွက် ဖုန်းလိုင်းဝန်ဆောင်မှုအား အခကြေးငွေ ပေးဆောင်းရန်လိုအပ်ပါသည်။ ဆင်းမ်ကဒ် ပြောင်းလဲပါက ဤအင်္ဂါရပ်ကို ပြန်လည်အသက်သွင်းရန် မက်ဆေ့ခ်ျတစ်စောင် အလိုအလျောက်ပေးပို့လိမ့်မည်။</string>
     <string name="micloud_find_device_verify_button">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>
     <string name="micloud_find_device_verify_close">စက်ရှာဖွေခြင်းအား ပိတ်မည်။</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်း၍မရပါ။</string>
     <string name="micloud_find_device_verify_progress">…စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းနေသည်။</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">ဆင့်ခ်လုပ်ခြင်းအား ဖျက်သိမ်းလိုက်သည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="micloud_main_head_menu_cloud_backup">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်း</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">မူလနေရာ မျက်နှာပြင် အပြင်အဆင်၊ အက်ပ်များနှင့် စနစ်ဆက်တင်များ</string>
-    <string name="micloud_main_head_menu_finddevice_summary">စက်ပျောက်သွားပါက သင်စက်၏ တည်နေရာကို ရှာဖွေ၍ သော့ခတ်ပါ</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">စနစ်ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် အပြင်အဆင်</string>
+    <string name="micloud_main_head_menu_finddevice_summary">သင့်စက်ကို ရှာဖွေ၍ သော့ခတ်ပါ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">စက်ရှာဖွေခြင်းအား ဒုတိယနေရာတွင် မရရှိနိုင်ပါ၊ ပထမနေရာတွင်သာ အသုံးပြုနိုင်ပါသည်။</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">ဖျက်ထားသော အိုင်တမ်များကို ပြန်လည်ရယူမည်</string>
     <string name="micloud_main_head_menu_recycle_bin_title">ဖျက်ထားသော အိုင်တမ်များ</string>
@@ -406,12 +417,15 @@
     <string name="soundrecorder_sync_only_in_wifi">ဆင့်ခ်လုပ်လျှင်Wi-Fiကိုသာ သုံးပါ</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">ရီကော်ဒါသည် ဖမ်းယူထားသည့်အသံအပိုင်းများကို ဒေါင်းလုဒ်လုပ်ရန် (သို့) အပ်လုဒ်တင်ရန် မိုဘိုင်းဒေတာကို သုံးလိမ့်မည်မဟုတ်ပါ။</string>
     <string name="soundrecorder_sync_records">Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</string>
+    <string name="special_func_title">အထူး အင်္ဂါရပ်များ</string>
     <string name="storage_manage_expansion">နောက်ထပ်ရယူရန်</string>
     <string name="storage_manage_list_title">Cloud ဒေတာ</string>
     <string name="storage_manage_list_title_action">နောက်ထပ် ကြည့်ရှုရန်</string>
     <string name="storage_manage_renewal">အသစ်ပြန်လုပ်ခြင်း</string>
     <string name="storage_manage_title">သိုလှောင်ခန်းအစီအစဉ်ပြောင်းရန်</string>
     <string name="storage_manage_upgrade">အဆင့်မြှင်တင်မည်</string>
+    <string name="storage_upgrade_card_summary">ကလောက်သိုလှောင်ခန်း နေရာလွတ်များ ပိုမိုရယူလိုက်ပါ</string>
+    <string name="storage_upgrade_card_title">သင့်အစီအစဉ်ကို အဆင့်မြှင့်ပါ</string>
     <string name="sub_alert_notif_content">Xiaomi ကလောက် ဖွင့်ရန်</string>
     <string name="sub_alert_notif_title">Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါ</string>
     <string name="sub_sync_item_sms_summary">ဓါတ်ပုံ၊ အော်ဒီယို (သို့) အခြားမီဒီယာများပါဝင်သော မက်ဆေ့ချ်များကို သင် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သည့်အခါ ဆင့်ခ်လုပ်ပါ</string>
@@ -428,6 +442,8 @@
     <string name="sync_dspt_entrance_provision_network">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဒေတာကို ဆင့်ခ်လုပ်လျှင် မိုဘိုင်းဒေတာချိတ်ဆက်မှုနှင့် Wi-Fi ဖွင့်ရန် လိုအပ်သည်။</string>
     <string name="sync_dspt_entrance_provision_skip">ဤအဆင့်ကို ကျော်ပါ</string>
     <string name="sync_dspt_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားသောအရာတို့ကို ဆင့်ခ်လုပ်ပါ (သို့) ၎င်းတို့ကို ဖော်ပြပါနေရာတွင် ရယူသုံးစွဲပါ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 "</string>
     <string name="sync_item_calllog_summary">ဤဖုန်းတွင် လက်ခံရရှိသောခေါ်ဆိုမှုများနှင့် ပြုလုပ်သောဖုန်းခေါ်ဆိုမှုများ၏ မှတ်တမ်းများကို ဆင့်ခ်လုပ်ပါ</string>
@@ -477,6 +493,6 @@
     <string name="wipe_data_dialog_title">အိုင်တမ်များအား ဆင့်ခ်မလုပ်ရသေးပါ</string>
     <string name="wipe_data_query_progress_title">စစ်ဆေးနေသည်…</string>
     <string name="wipe_secret_photo_dialog_title">ဝှက်ထားသော ဓာတ်ပုံများကို ဆင့်ခ်မလုပ်ရသေးပါ</string>
-    <string name="xiaomi_cloud_service">ကလောက်</string>
+    <string name="xiaomi_cloud_service">Xiaomi ကလောက်</string>
     <string name="xiaomi_cloud_service_subtitle">အရေးကြီးသော အိုင်တမ်အားလုံး တစ်နေရာတည်းတွင် စုထားမည်</string>
 </resources>

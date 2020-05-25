@@ -12,6 +12,18 @@
     <plurals name="data_item_count">
         <item quantity="other">%d အိုင်တမ်</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">အိုင်တမ် %2$d ခုအနက် %1$d ခု</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s အရန်သိမ်းခြင်း (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">အိုင်တမ် %d ကို အောင်မြင်စွာ အရန်သိမ်းဆည်းပြီးပါပြီ။</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">အောင်မြင်စွာ ပြန်လည်ရယူပြီးပါပြီ။ အိုင်တမ် %d ခုကို ပြန်လည်ရယူ၍ မရခဲ့ပါ။</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"အိုင်တမ် %dခု တင်သွင်းခဲ့သည်။ "</item>
     </plurals>

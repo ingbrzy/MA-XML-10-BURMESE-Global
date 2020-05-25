@@ -15,9 +15,6 @@
     <string name="atrace_start">atrace မှတ်တမ်းအား ရယူနေသည်…</string>
     <string name="base_info">အခြေခံ အချက်အလက်</string>
     <string name="cloud_addr_info">Cloud အချက်အလက်</string>
-    <string name="cloud_china_addr">တရုတ်ပြည်ဆာဗာမှ ဒေတာကို အပ်ဒိတ်လုပ်မည်</string>
-    <string name="cloud_international_addr">နိုင်ငံတကာဆာဗာမှ ဒေတာကို အပ်ဒိတ်လုပ်မည်</string>
-    <string name="cloud_staging_addr">Staging ဆာဗာမှ ဒေတာကို အပ်ဒိတ်လုပ်မည်</string>
     <string name="config_classify">အက်ပ် ဆက်တင်အလိုက် စီပါ</string>
     <string name="config_description">MIUI သည် အက်ပ်များအား နောက်ခံလုပ်ဆောင်ချက်အချို့ဖြင့် အက်ပ်များအား ခွဲခြမ်းစိတ်ဖြာနိုင်ပါသည် ( ဥပမာ− မက်ဆေ့ချ်ပို့ခြင်းနှင့် လမ်းညွှန်အက်ပ်များ၊ မီဒီယာပလေယာများ၊)။ ဘက်ထရီချွေတာသူအား အထက်ပါကဲ့သို့ အရေးကြီးနောက်ခံလုပ်ဆောင်မှုများအား သက်ရောက်မှု မရှိစေဘဲ အသုံးချပါ။</string>
     <string name="config_mode_title">နောက်ခံဆက်တင်များ</string>
@@ -33,7 +30,6 @@
  ဘက်ထရီချွေတာသူမှ အရေးကြီးအက်ပ်များအား လုပ်ဆောင်မြဲ လုပ်ဆောင်နေစေလိမ့်မည်"</string>
     <string name="config_suggest_suffix_title">ဘက်ထရီချွေတာသူ ( အကြံပြုထားသော)</string>
     <string name="confirm">အိုကေ</string>
-    <string name="current_cloud_addr_is">Cloud ထိန်းချုပ်မှု ဆာဗာလိပ်စာ-</string>
     <string name="empty_title_apps_container_list">အက်ပ်များ မရှိပါ</string>
     <string name="enable_sleep_mode">ဘက်ထရီသုံးစွဲမှု ပိုမိုခံနိုင်ရန် ညအချိန်တွင် အိပ်စက်မုဒ်အား ဖွင့်ထားပါ</string>
     <string name="error_filename_too_long">သင်ထည့်သွင်းသော ဖိုင်အမည် ရှည်လွန်းသည်။</string>
@@ -106,8 +102,6 @@
     <string name="sleepmode_privacy_link">ကိုယ်ရေးအချက်အလက်လုံခြုရေးအကြောင်း ပိုမိုသိရှိရန်</string>
     <string name="sleepmode_privacy_title">အိပ်စက်ခြင်းမုဒ်</string>
     <string name="sucess">ပြီးပါပြီ</string>
-    <string name="update_profile_failture_not_connect_wifi">အပ်ဒိတ်လုပ်၍ မရပါ။ Wi-Fi သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="update_profile_sucess">ဆာဗာမှ အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="vip_feedback">VIP တုံ့ပြန်အကြံပြုချက်</string>
     <string name="vip_feedback_enable">VIP တုံ့ပြန်အကြံပြုချက် ဖွင့်ပါ</string>
     <string name="warm_configure">အပူချိန်ထိန်းချုပ်မှု ဆက်တင်များ</string>

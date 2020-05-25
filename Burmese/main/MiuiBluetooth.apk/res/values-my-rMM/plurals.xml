@@ -3,4 +3,10 @@
     <plurals name="fast_connect_headset_reset">
         <item quantity="other">အားသွင်းဘူးပေါ်ရှိ ခလုတ်အား %1$d စက္ကန့်ကြာ ဖိနှိပ်ထားပါ</item>
     </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">နားကြပ်ရှိ ထိလျှင်တုံ့ပြန်သော နေရာတစ်ခုခုကို %1$d စက္ကန့်ခန့် ဖိပြီး နှိပ်ထားပါ</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">စက် %1$dလုံး ချိတ်ဆက်ထားသည်</item>
+    </plurals>
 </resources>

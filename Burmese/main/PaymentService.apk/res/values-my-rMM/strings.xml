@@ -19,11 +19,12 @@
     <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="passport_access_denied">ဝင်သုံးစွဲခွင့်ကို ငြင်းပယ်ထားသည်</string>
     <string name="passport_account_hint_text">အီးမေးလ်လိပ်စာ၊ ဖုန်းနံပါတ် သို့မဟုတ် Mi အကောင့် ID</string>
     <string name="passport_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
     <string name="passport_account_label">Mi အကောင့်</string>
-    <string name="passport_account_name">"အကောင့်- %1$s "</string>
+    <string name="passport_account_name">အကောင့်- %1$s</string>
     <string name="passport_account_not_activated">အကောင့်ကို အသက်မသွင်းရသေးပါ</string>
     <string name="passport_account_not_actived">သင်၏အကောင့်အသက်မသွင်းရသေးပါ</string>
     <string name="passport_account_set_password">စကားဝှက်သတ်မှတ်ပါ</string>

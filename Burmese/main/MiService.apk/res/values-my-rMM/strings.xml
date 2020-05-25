@@ -16,7 +16,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">အသုံးမဝင်ပါ</string>
     <string name="miui_feedback_answer_detail_menu_online_service">အွန်လိုင်းအကူအညီရယူရန်</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">ကူညီရေးရာဌာနကို ဖုန်းခေါ်ရန်</string>
-    <string name="miui_feedback_answer_detail_relative_tip">ဤအရာက အသုံးဝင်နိုင်ပါသည် -</string>
+    <string name="miui_feedback_answer_detail_relative_tip">ဤအရာက အသုံးဝင်နိုင်ပါသည်</string>
     <string name="miui_feedback_answer_detail_title">အသေးစိတ်အချက်လက်များ</string>
     <string name="miui_feedback_edit_action_submit">ပို့ရန်</string>
     <string name="miui_feedback_edit_add_original_images">ပုံထည့်ရန်</string>
@@ -84,6 +84,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">မှတ်တမ်းများ ရယူရန်</string>
     <string name="miui_feedback_main_menu_feedback_list">တုံ့ပြန်အကြံပြုချက်မှတ်တမ်းကို ကြည့်ရန်</string>
     <string name="miui_feedback_main_search_footer">သင်မေးလိုသော မေးခွန်းများ မဟုတ်ဘူးလား။</string>
+    <string name="miui_feedback_main_search_footer_submit">立即提交问题</string>
     <string name="miui_feedback_main_search_issue">အဓိကစာလုံး ရိုက်ထည့်ပြီး ရှာပါ</string>
     <string name="miui_feedback_main_start_submit">တုံ့ပြန်အကြံပြုချက်တင်ရန်</string>
     <string name="miui_feedback_main_submit_dialog_confirm">တင်ရန်</string>
@@ -108,6 +109,7 @@
     <string name="miui_main_update_start">ယခုအပ်ပဒိတ်လုပ်ရန်</string>
     <string name="miui_main_update_success_sub_title">MIUI အသစ်နှင့် တွေ့ဆုံပါ</string>
     <string name="miui_main_update_success_title">ဘဝကို ပိုလွယ်ကူစေသည်</string>
+    <string name="miui_main_update_success_title_12">Yours alone</string>
     <string name="permission_agree">သဘောတူရန်</string>
     <string name="permission_china_version_msg">&lt;Data>\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက် ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့်လည်း ချိတ်ဆက်ရပါမည်။&lt;/Data></string>
     <string name="permission_complete">ပြီးပါပြီ</string>

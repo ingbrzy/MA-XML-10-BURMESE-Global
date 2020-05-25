@@ -24,9 +24,6 @@
     <string name="blocked_numbers_number_already_blocked_message">%1$s ကိုဘလော့လုပ်ထားပြီးဖြစ်သည်။</string>
     <string name="blocked_numbers_number_blocked_message">%1$s ဘလော့လုပ်ထားသည်</string>
     <string name="blocked_numbers_number_unblocked_message">%1$s ဘလော့လုပ်ထားခြင်းမှ ဖြုတ်ပြီးပြီ။</string>
-    <string name="callFailed_simError">ဆင်းမ်ကဒ် အမှား</string>
-    <string name="can_not_dial_vt_while_voice_prompt">အသံခေါ်ဆိုမှု ပြုလုပ်နေစဉ် ဗီဒီယိုခေါ်ဆိုမှု ပြုလုပ်၍မရပါ</string>
-    <string name="can_not_dial_while_vt_prompt">ဗီဒီယိုခေါ်ဆိုမှုလုပ်နေစဉ် နံပါတ်နှိပ်ခေါ်ဆို၍မရပါ</string>
     <string name="cant_call_due_to_ongoing_call">%1$sမှ ဖုန်းခေါ်ဆိုနေသောကြောင့် နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။</string>
     <string name="cant_call_due_to_ongoing_calls">နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။ %1$s ခေါ်ဆိုမှုအား ဦးစွာ အဆုံးသတ်ပါ။</string>
     <string name="cant_call_due_to_ongoing_unknown_call">အခြားအက်ပ်တွင် ဖုန်းခေါ်ဆိုနေသောကြောင့် နောက်ထပ် ဖုန်းခေါ်ဆိုမှု မလုပ်နိုင်ပါ။</string>
@@ -34,22 +31,14 @@
     <string name="change_default_dialer_dialog_negative">ပယ်ဖျက်မည်</string>
     <string name="change_default_dialer_dialog_title">%s အား မူလဖုန်းအက်ပ်အဖြစ် အသုံးပြုမလား?</string>
     <string name="change_default_dialer_warning_message">%s သည် ဖုန်းခေါ်ဆိုမှုနှင့်ထိန်းချုပ်မှုအားလုံးကို လုပ်ဆောင်နိုင်မည်ဖြစ်သည်။ သင်ယုံကြည်စိတ်ချရသော အက်ပ်ကိုသာ ပုံသေဖုန်းအက်ပ်အဖြစ် သတ်မှတ်ပါ။</string>
-    <string name="close">ပိတ်ပါ</string>
     <string name="decline_incoming_call">ငြင်းဆိုမည်</string>
     <string name="delete_icon_description">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
-    <string name="dial_conference_fail_prompt">ကွန်းဖရန့်တိုက်ရိုက်ခေါ်ဆို၍မရပါ အဘယ့်ကြောင့်ဆိုသော် လက်ရှိကွန်ရက်သည် VoLTE အားမထောက်ပံ့ထားပါ</string>
-    <string name="dial_vt_fail_prompt">လက်ရှိကွန်ရက်သည် VoLTE အား မထောက်ပံ့ထားပါ။ ပုံမှန် အသံခေါ်ဆိုမှုသို့ပြောင်းမည်လား?</string>
     <string name="duplicate_video_call_not_allowed">နောက်ထပ်ခေါ်ဆိုမှုများ ပေါင်းထည့်၍ မရပါ</string>
     <string name="enable_account_preference_title">ခေါ်နေသော အကောင့်များ</string>
     <string name="handle_restricted">RESTRICTED</string>
-    <string name="incall_error_call_failed">ဖုန်းခေါ်၍ မရပါ။</string>
-    <string name="incall_error_power_off">ဖုန်းခေါ်ရန် လေယာဉ်မုဒ်ကို ပိတ်ပါ။</string>
-    <string name="incall_error_supp_service_unknown">ဤဝန်ဆောင်မှုကို မပံ့ပိုးထားပါ။</string>
-    <string name="missedcall_notification_public_version_title">ဖုန်း</string>
     <string name="no_vm_number">အသံမေးလ်နံပါတ် ပျောက်နေပါသည်</string>
     <string name="no_vm_number_msg">မည်သည့် အသံမေးလ် နံပါတ်ကိုမှ ဆင်းမ်ကဒ်ထဲတွင် မသိမ်းထားပါ။</string>
     <string name="non_primary_user">စက်ပိုင်ရှင်သာ ဘလော့လုပ်ထားသော နံပါတ်များကို စီမံကြည့်ရှုနိုင်သည်။</string>
-    <string name="notification_AllMissedCallTitle">လွတ်သွားသော ခေါ်ဆိုမှုအားလုံး</string>
     <string name="notification_channel_incoming_call">အဝင်ဖုန်းများ</string>
     <string name="notification_channel_missed_call">လွဲသွားသော ခေါ်ဆိုမှုများ</string>
     <string name="notification_incoming_call">%2$s မှ ခေါ်ဆိုမှု %1$s ခု</string>
@@ -57,7 +46,6 @@
     <string name="notification_missedCallTicker">%s ထံမှ မကိုင်ဖြစ်သောဖုန်းခေါ်ဆိုမှု</string>
     <string name="notification_missedCallTitle">လွဲချော်ခဲ့သော ခေါ်ဆိုမှု</string>
     <string name="notification_missedCall_call_back">ပြန်ခေါ်ဆို</string>
-    <string name="notification_missedCall_call_back_miui">ခေါ်သည်</string>
     <string name="notification_missedCall_message">မက်ဆေ့ချ်</string>
     <string name="notification_missedCallsMsg">မကိုင်ဖြစ်သောခေါ်ဆိုမှု %s ခု</string>
     <string name="notification_missedCallsTitle">လွဲသွားသော ခေါ်ဆိုမှုများ</string>
@@ -88,7 +76,4 @@
     <string name="unblock_dialog_body">ဘလော့လုပ်ထားခြင်းမှ ဖြုတ်မည်လား %1$s?</string>
     <string name="unknown">အမည်မသိ</string>
     <string name="userCallActivityLabel">ဖုန်း</string>
-    <string name="voice_dial_out">ရိုးရိုးအသံဖြင့်ခေါ်ဆို</string>
-    <string name="voice_report_incoming_call">အဝင်ဖုန်းခေါ်ဆိုမှု</string>
-    <string name="voice_report_unknown_num">အမည်မသိ နံပါတ်</string>
 </resources>

@@ -143,6 +143,9 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">ဤအရာများနှင့်အတူ နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချလိမ့်မည်။</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">ဤအရာနှင့် အတူ နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချလိမ့်မည်။</string>
     <string name="confirm_uninstall_dialog_title">ဤနှစ်ခုတွဲအက်ပ်အား ဖြုတ်ပစ်မည်</string>
+    <string name="content_description_button_add">လက်ရှိအက်(ပ်)များသို့ ထည့်ရန် တို့ပါ</string>
+    <string name="content_description_button_disable">လက်ရှိအက်(ပ်)များသို့ ထည့်မရတော့ပါ</string>
+    <string name="content_description_button_remove">လက်ရှိအက်(ပ်)များမှ ဖြုတ်ရန် တို့ပါ</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s၊ စစ်ဆေးပြီး</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s၊ မစစ်ဆေးရသေးပါ</string>
     <string name="content_description_workspace_thumbnail_item">မျက်နှာပြင် အစမ်းကြည့်ခြင်း၊ စာမျက်နှာ %1$s</string>
@@ -340,11 +343,13 @@
     <string name="open_personal_assistant_dialog_title">အက်ပ် မီးခံသေတ္တာကို ပိတ်မည်</string>
     <string name="open_personal_assistant_title">အက်ပ် မီးခံသေတ္တာ</string>
     <string name="out_of_space">ဤပင်မမျက်နှာပြင်ပေါ်တွင် နေရာလွတ် မရှိတော့ပါ</string>
+    <string name="perfect_icons_switch_summary">ပြင်ပပါတီအက်(ပ်)သင်္ကေတများတွင် ရုပ်ကြွများထည့်ရန်</string>
+    <string name="perfect_icons_switch_title">ကမ္ဘာသုံး ရုပ်ကြွသင်္ကေတများ</string>
     <string name="permdesc_install_shortcut">အက်ပ်တစ်ခုကို သုံးစွဲသူ ကြားဝင် မဆောင်ရွက်ဘဲ ရှော့ကဒ်များအား ပေါင်းထည့်ရန် ခွင့်ပြုပါ။</string>
-    <string name="permdesc_install_widget">အက်ပ်တစ်ခုကို သုံးသူ ကြားဝင်မဆောင်ရွက်ဘဲ ဝစ်ဂျက်များအား ပေါင်းထည့်ရန် ခွင့်ပြုပါ။</string>
+    <string name="permdesc_install_widget">အသုံးပြုသူထံမှ ထပ်ဆောင်းလုပ်ဆောင်ချက်များ မလိုအပ်ဘဲ ဝိဂျက်များထည့်ရန် အက်ပ်တစ်ခုကို ခွင့်ပြုပါ။</string>
     <string name="permdesc_read_settings">အက်ပ်တစ်ခုကို ပင်မမျက်နှာပြင်၏ ဆက်တင်များနှင့် ရှော့ကဒ်များအား ဖတ်ရန် ခွင့်ပြုပါ။</string>
     <string name="permdesc_uninstall_shortcut">အက်ပ်တစ်ခုကို သုံးသူ ကြားဝင်မဆောင်ရွက်ဘဲ ရှော့ကဒ်များအား ဖယ်ရှားရန် ခွင့်ပြုပါ။</string>
-    <string name="permdesc_uninstall_widget">အက်(ပ်)တစ်ခုအား သုံးသူက ကိုယ်တိုင်မလုပ်ဘဲ ဝစ်ဂျက်များ ဖြုတ်ခွင့်ပြုပါ။</string>
+    <string name="permdesc_uninstall_widget">အသုံးပြုသူထံမှ ထပ်ဆောင်းလုပ်ဆောင်ချက်များ မလိုအပ်ဘဲ ဝိဂျက်များဖယ်ရှားရန် အက်ပ်တစ်ခုကို ခွင့်ပြုပါ။</string>
     <string name="permdesc_write_settings">အက်ပ်တစ်ခုကို ပင်မမျက်နှာပြင်၏ ဆက်တင်များနှင့် ရှော့ကဒ်များအား ပြောင်းရန် ခွင့်ပြုပါ။</string>
     <string name="permlab_install_shortcut">ရှော့ကဒ်များကို ထည့်သွင်းပါ</string>
     <string name="permlab_install_widget">ဝစ်ဂျက်များအား ထည့်သွင်းပါ</string>
@@ -389,6 +394,7 @@
     <string name="recents_exit_multi_window_mode">ထွက်ရန်</string>
     <string name="recents_forbid_dock_when_screening_toast_text">လွှင့်တင်နေစဉ် မျက်နှာပြင်ခွဲ၍ မရပါ</string>
     <string name="recents_incompatible_app_message">ဤအက်(ပ်)သည် မျက်နှာပြင်ခွဲခြင်းကို မပံ့ပိုးပါ</string>
+    <string name="recents_smallwindow_text">ထည့်ရန် လက်လွှတ်ပါ</string>
     <string name="recents_task_screening">လွှင့်တင်နေသည်</string>
     <string name="recents_title_app_manager">အက်(ပ်)များစီမံခန့်ခွဲရန်</string>
     <string name="recents_title_game">ဂိမ်းများ</string>
@@ -396,6 +402,7 @@
     <string name="recents_title_garbage_deepclean">ထဲထဲဝင်ဝင်ရှင်းပါ</string>
     <string name="recents_title_market">အက်(ပ်)များရှာရန်</string>
     <string name="recents_title_security_scan">လုံခြုရေးစကန်</string>
+    <string name="recents_tv_small_window_text">မျောလွင့် အကွက်များ</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">အက်ပ် အကြံပြုချက်များ</string>
     <string name="recommend_apps_default_title">အလွတ်</string>
@@ -439,6 +446,13 @@
     <string name="show_most_popular_apps_you_used">အက်ပ် အံဆွဲအတွင်းတွင် မကြာခဏ အသုံးပြုဆုံးသော အက်ပ်များကို ပြသမည်</string>
     <string name="show_recents_recommend_title">အကြံပြုချက်များအား ပြပါ</string>
     <string name="slide_to_open_newhome">စုစည်းစင်တာကို ဖွင့်ရန် အပေါ်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="small_window_button_complete">ပြီးပါပြီ</string>
+    <string name="small_window_edit_content">အက်(ပ်) %d ခုအထိ ထည့်နိုင်သည်</string>
+    <string name="small_window_edit_title">လက်ရှိ အက်(ပ်)များ</string>
+    <string name="small_window_empty">ရရှိနိုင်သော အက်(ပ်)များထဲမှ ရွေးပါ</string>
+    <string name="small_window_select_title">ရရှိနိုင်သော အက်(ပ်)များ</string>
+    <string name="small_window_title_text">မျောလွင့်အကွက်တစ်ခု ဖွင့်ရန် တို့ပါ</string>
+    <string name="small_window_toast">အက်(ပ်) %d ခုအထိ ထည့်နိုင်သည်</string>
     <string name="sort_by_abc">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="sort_by_frequency">သုံးစွဲမှုဖြင့် မျိုးတူစုပါ</string>
     <string name="sort_by_not_defined">အော်တို-မျိုးတူစုပါ</string>

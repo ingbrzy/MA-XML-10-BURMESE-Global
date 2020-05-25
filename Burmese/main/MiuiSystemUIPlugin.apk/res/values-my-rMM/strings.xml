@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_in_small_freeform">အချို့အက်(ပ်)များက မျော့လွင့်အကွက်များတွင် ပွင့်နေသည်</string>
+    <string name="no_avaliable_application">အက်(ပ်)တစ်ခုမျှ မရှိပါ</string>
+    <string name="quick_settings_hang_label">မျောလွင့် အကွက်များ</string>
+    <string name="quick_settings_hang_on">မျောလွင့်အကွက်များကို ယခုသုံးနိုင်ပါပြီ</string>
+    <string name="quick_settings_scanner_label">စကန်နာ</string>
+</resources>

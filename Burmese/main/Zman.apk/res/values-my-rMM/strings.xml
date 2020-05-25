@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zman</string>
+    <string name="first_settings_default_camera_title">မက်တာဒေတာမပါဘဲ အမြဲမျှဝေရန်</string>
+    <string name="first_settings_default_location_subtitle">မျှဝေထားသော ပုံများမှ တည်နေရာအချက်အလက်ကို ဖယ်ရှားရန်</string>
+    <string name="first_settings_default_location_title">တည်နေရာအချက်အလက်မပါဘဲ အမြဲမျှဝေရန်</string>
+    <string name="first_settings_share_enable">\"လုံခြုံသော မျှဝေမှု\" အမှတ်သား ထည့်ရန်</string>
+    <string name="first_settings_share_enable_subtitle">WeChat တွင် သင်မျှဝေသောအရာများသည် MIUI အမှတ်အသားနှင့် ပေါ်ပါမည်</string>
+    <string name="first_settings_subtitle">သင့်အတွက် ရရှိနိုင်သည့် လုံခြုံသော မျှဝေမှုနည်းလမ်းများမှာ -</string>
+    <string name="first_settings_title">သင့်ကိုယ်ရေးကိုယ်တာကို ကာကွယ်ပါ</string>
+    <string name="once_settings_camera_ttile">မက်တာဒေတာမပါဘဲ မျှဝေရန်</string>
+    <string name="once_settings_location_title">တည်နေရာအချက်အလက်မပါဘဲ မျှဝေရန်</string>
+    <string name="once_settings_subtitle">ရွေးထားသောအရာများကို မည်သို့မျှဝေလိုသနည်း။</string>
+    <string name="once_settings_title">ကိုယ်ရေးကိုယ်တာ ကာကွယ်ခြင်း</string>
+    <string name="settings_camera_subtitle_no">မက်တာဒေတာမလိုပါ</string>
+    <string name="settings_image_camera_summary">စက်ပစ္စည်းမော်ဒယ်၊ မက်တာဒေတာ၊ စသည်။</string>
+    <string name="settings_location_subtitle_no">တည်နေရာအချက်အလက်မလိုပါ</string>
+    <string name="settings_share_enable_summary">WeChat တွင် သင်မျှဝေသောအရာများသည် MIUI အမှတ်အသားနှင့် ပေါ်ပါမည်</string>
+    <string name="settings_share_info">ပြခန်းနှင့် ဖိုင်မန်နေဂျာမှ မျှဝေသော အရာများအတွက် ရရှိနိုင်သည့် လုံခြုံသော မျှဝေမှုနည်းလမ်းများမှာ -</string>
+    <string name="settings_show_detail">အသေးစိတ်ကြည့်ရန်</string>
+    <string name="settings_tip">အခြားနည်းကို ကြည့်ရန် ပြခန်း > ဆက်တင်များ သို့သွားပါ</string>
+    <string name="settings_title">လုံခြုံသော မျှဝေမှု</string>
+    <string name="text_done">အိုကေ</string>
+    <string name="text_security">ကိုယ်ရေးလုံခြုံမှု</string>
+</resources>

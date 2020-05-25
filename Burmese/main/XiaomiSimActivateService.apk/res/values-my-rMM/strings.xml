@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">Mi အကောင့် အတည်ပြုခြင်း</string>
     <string name="activate_feature_voip">Mi မက်ဆေ့ချ် VoIP</string>
     <string name="activate_history_canceled_overview">ဆင်းမ်ကဒ်အား အသက်သွင်းခြင်းဖယ်ဖျက်ခဲ့သည်။ အသက်သွင်းခြင်းအား \"%1$s\" ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>
-    <string name="activate_history_multisim_canceled_overview">ဆင်းမ်ကဒ် %2$d အသက်သွ၍်းခြင်းအား ပယ်ဖျက် ခဲ့သည်။ အသက်သွင်းခြင်းအား %1$s\"ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>
-    <string name="activate_history_multisim_success_overview">ဆင်းမ်ကဒ်%2$d အား အသက်သွင်းခြင်းအောင်မြင်သည်။ အသက်သွင်းခြင်းအား %1$s\"ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>
+    <string name="activate_history_multisim_canceled_overview">ဆင်းမ်ကဒ် %2$d အသက်သွ၍်းခြင်းအား ပယ်ဖျက် ခဲ့သည်။ အသက်သွင်းခြင်းအား \"%1$s\"ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>
+    <string name="activate_history_multisim_success_overview">ဆင်းမ်ကဒ်%2$d အား အသက်သွင်းခြင်းအောင်မြင်သည်။ အသက်သွင်းခြင်းအား \"%1$s\"ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>
     <string name="activate_history_sms">အသက်သွင်းမှုအတွက်SMS တစ်ခုပေးပို့ပြီး ဖြစ်ပါသည်</string>
     <string name="activate_history_success_overview">ဆင်းမ်ကဒ်အား အသက်သွင်းခြင်း အောင်မြင်သည်။ အသက်သွင်းခြင်းအား \"%1$s\" ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>
     <string name="activate_history_title">ဆင်းမ်ကဒ်အသက်သွင်းခြင်း</string>

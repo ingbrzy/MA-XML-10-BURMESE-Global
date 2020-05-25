@@ -3,12 +3,16 @@
     <string name="above_image">အပေါ်</string>
     <string name="accessibility_battery_level">ဘက်ထရီ %d ရာခိုင်နှုန်း။</string>
     <string name="accessibility_battery_level_charging">ဘက်ထရီ အားသွင်းနေသည်၊ %d ရာခိုင်နှုန်း။</string>
+    <string name="add_from_album">ပြခန်းမှ ယူထည့်ရန်</string>
     <string name="align_type">ချိန်ရန်</string>
     <string name="always_style">အမြဲတမ်း</string>
     <string name="animation_clock_panel">ဝေးဒိုင်ယယ်အရောင်ပြေး</string>
     <string name="aod_close_color_inversion">ဤအင်္ဂါရပ်သည် အရောင်ပြောင်းပြန်လှန်ခြင်းနှင့် တွဲသုံး၍ မရပါ။ အရောင်ပြောင်းပြန်လှန်ခြင်းကို ဦးစွာ ပိတ်ပါ။</string>
     <string name="aod_lock_screen_date">EE၊ MMMM d</string>
     <string name="aod_lock_screen_date_12">EE၊ MMMM d</string>
+    <string name="aod_lock_screen_date_smartcover">"MM/dd
+EE"</string>
+    <string name="aod_lock_screen_date_smartcover_b">MM/dd EE</string>
     <string name="aod_mode_preview">အစမ်းကြည့်</string>
     <string name="aod_mode_style">နာရီပုံစံနှင့် နောက်ခံ</string>
     <string name="aod_mode_style_title">နောက်ထပ် ရွေးစရာများ</string>
@@ -24,6 +28,7 @@
     <string name="apply_succeed">အောင်မြင်စွာသတ်မှတ်လိုက်ပါပြီ</string>
     <string name="background_icon">နောက်ခံ</string>
     <string name="below_image">အောက်</string>
+    <string name="btn_know">နားလည်ပါပြီ</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="choose_aod_style">အပြင်အဆင်ရွေးပါ</string>
     <string name="chosen_picture">နောက်ခံပုံရွေးရန်</string>
@@ -33,12 +38,19 @@
     <string name="custom_image">စိတ်ကြိုက်ပုံ</string>
     <string name="deep_space_planet">အာကာသပုံ</string>
     <string name="deep_space_planet_des">ဤအပြင်အဆင်သည် သင့်အနီးနားရှိ နေ့ဘက်အလင်းရောင်အပေါ်မူတည်ပြီး အရောင်ပြောင်းပါသည်။ ဤအပြင်အဆင်၏ နေထွက်ချိန်နှင့် နေဝင်ချိန်တို့ကို သင့်တည်နေရာနှင့် ချိတ်ထားပါသည်။</string>
+    <string name="delete">ဖျက်ရန်</string>
     <string name="digital_clock">ဒစ်ဂျစ်တယ်</string>
+    <string name="disable_aod_in_power_save_mode">ဓာတ်ခဲချွေတာစနစ် ဖွင့်ထားစဉ် ပိတ်ရန်</string>
+    <string name="disable_aod_in_power_save_mode_summary">ဓာတ်ခဲချွေတာရန် ဟိုဟိုသည်သည်များ မဖော်ပြပါနှင့်</string>
     <string name="font_thickness">စာလုံးထူဖောင့်</string>
     <string name="large_time">နာရီအကြီး</string>
     <string name="letter_space">စာလုံးအကွာအဝေး</string>
     <string name="line_space">လိုင်းအကွာအဝေး</string>
     <string name="mini_time">နာရီအသေး</string>
+    <string name="minimalist_clock">ရိုးရိုးနာရီ</string>
+    <string name="modify_scheduled_time">အချိန်ပြောင်းရန်</string>
+    <string name="more_online_theme">အွန်လိုင်း အကြောင်းအရာများ</string>
+    <string name="my_style_title">ကျွန်ုပ်၏ အပြင်အဆင်များ</string>
     <string name="notification_anim_pulse">သွေးခုန်နှုန်း</string>
     <string name="notification_anim_rhythm">ရစ်သမ်</string>
     <string name="notification_anim_star">ကြယ်အလင်းရောင်</string>
@@ -46,10 +58,16 @@
     <string name="notification_screen_on">မျက်နှာပြင် အလင်းရောင်ထတောက်ခြင်း</string>
     <string name="only_show_bg_description">အချိန်၊ ရက်စွဲနှင့် အခြားအရာများကို မပြပါနှင့်</string>
     <string name="only_show_bg_title">နောက်ခံကိုသာ ပြရန်</string>
+    <string name="open_aod_mode">ဖွင့်ရန်</string>
     <string name="panel_clock">အန်နာလော့</string>
     <string name="paper_mode_end_time_title">ပိတ်မည်</string>
     <string name="paper_mode_start_time_title">ဖွင့်မည်</string>
+    <string name="photo_editor_saving">သိမ်းနေသည်…</string>
     <string name="please_input_signature">လက်မှတ်ထည့်ရန်</string>
+    <string name="scheduled_mode_dialog_msg">အကြောင်းအရာများကို အမြဲဖွင့်မျက်နှာပြင်တွင် ပြသမည့်ကာလ - %s။</string>
+    <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
+    <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+    <string name="scheduled_mode_msg">အသုံးပြုကာလ - %s</string>
     <string name="scheduled_style">သတ်မှတ်ထားသော အချိန်အလိုက်</string>
     <string name="scope_des">ရောင်စုံမှန်ပြောင်းတိုင်းတွင် ပုံစံကွဲ ၅ ခု ပါရှိပြီး မျက်နှာပြင် ဖွင့်ချိန်တိုင်း အလှည့်ကျ ပြသသည်။</string>
     <string name="scope_icon">ရောင်စုံမှန်ပြောင်းပုံစံ</string>
@@ -58,6 +76,8 @@
     <string name="select_notification_notify_style">အသိပေးချက်အထူးပြုလုပ်ချက်ရွေးပါ</string>
     <string name="show_battery">ဓာတ်ခဲအခြေအနေကို ပြပါ</string>
     <string name="show_battery_status">ဓာတ်ခဲအခြေအနေကို ပြပါ</string>
+    <string name="show_lunar">တရုတ်ရိုးရာပြက္ခဒိန်ကို ပြပါ</string>
+    <string name="show_lunar_desc">နှစ်ခုတွဲနာရီက တရုတ်ရိုးရာပြက္ခဒိန်ကို ပံ့ပိုးမပေးပါ</string>
     <string name="show_notification">အသိပေးချက်များကို ပြပါ</string>
     <string name="show_notificaton">သတိပေးချက်များပြပါ</string>
     <string name="shownone_arround_image">တစ်ခုမျှမရှိပါ</string>
@@ -74,6 +94,5 @@
     <string name="time_location">နာရီအနေအထား</string>
     <string name="time_style">ဟန်</string>
     <string name="time_style_layout">နေရာချရန်</string>
-    <string name="disable_aod_in_power_save_mode">ဓာတ်ခဲချွေတာစနစ် ဖွင့်ထားစဉ် ပိတ်ရန်</string>
-    <string name="disable_aod_in_power_save_mode_summary">ဓာတ်ခဲချွေတာရန် ဟိုဟိုသည်သည်များ မဖော်ပြပါနှင့်</string>
+    <string name="tip_to_open_aod_mode">မျက်နှာပြင်အမြဲပြစနစ် ပိတ်ထားသည်။ ယခုဖွင့်လိုသလား။</string>
 </resources>

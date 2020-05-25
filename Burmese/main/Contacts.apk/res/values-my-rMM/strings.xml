@@ -106,6 +106,7 @@
     <string name="call_sim_menu_title_suffix">(ဦးစားပေး)</string>
     <string name="call_telex">တယ်လက်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_tty_tdd">TTY/TDD ဖုန်းကို ခေါ်ပါ</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">အလုပ်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_work_mobile">အလုပ်မိုဘိုင်းဖုန်းကို ခေါ်ပါ</string>
@@ -125,6 +126,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">"အထွက်- "</string>
     <string name="callrecordview_item_op_video">ဗီဒီယို</string>
     <string name="callrecordview_menu_add_call_note">ခေါ်ဆိုမှုမှတ်စု ပေါင်းထည့်ပါ</string>
+    <string name="callrecordview_menu_aiphone">AI ခေါ်ဆိုမှုများ</string>
     <string name="callrecordview_menu_batch_delete">ဒေတာအားရှင်းလင်း</string>
     <string name="callrecordview_menu_blocklist">ဘလော့စာရင်း</string>
     <string name="callrecordview_menu_conference">ကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
@@ -189,7 +191,7 @@
     <string name="cloud_antispam_marked">အလံပြခဲ့သည်</string>
     <string name="cloud_antispam_title">ခေါ်သူ ID</string>
     <string name="cloud_recommend_msg">အဆက်အသွယ်များကို ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန် တို့ပါ။</string>
-    <string name="cloud_state_disabled">အဆက်အသွယ်များကို ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါ</string>
+    <string name="cloud_state_disabled">အဆက်အသွယ်များကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</string>
     <string name="cloud_state_loading">ခဏစောင့်ပါ…</string>
     <string name="cloud_state_sync_finished">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ထားသည်</string>
     <string name="cloud_state_syncing">ကလောက်နှင့် ဆင့်(ခ်)လုပ်နေသည်</string>
@@ -262,7 +264,7 @@
     <string name="contact_editor_prompt_one_account">အဆက်အသွယ်အသစ်ကို %1$s ဖြင့် ဆင့်ခ်လုပ်ပါလိမ့်မည်။</string>
     <string name="contact_editor_prompt_zero_accounts">မိုဘိုင်းထဲမှာ (သို့) အွန်လိုင်းအကောင့်သစ်တစ်ခုမှာ သိုလှောင်ပါ</string>
     <string name="contact_import_methods_dialog_bluetooth">ဘလူးတုသ်</string>
-    <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+    <string name="contact_import_methods_dialog_mi_mover">Mi Mover သုံးပြီး တင်သွင်းပါ</string>
     <string name="contact_import_methods_dialog_title">သွင်းမည့်နည်းလမ်းကို ရွေးပါ</string>
     <string name="contact_is_deleted">ဤအဆက်အသွယ်အား ဖျက်ထားသည်</string>
     <string name="contact_is_readOnly">ဖတ်ရန်-သီးသန့် အဆက်အသွယ်များကို ပြုပြင်လို့မရပါ</string>
@@ -508,6 +510,7 @@
     <string name="force_touch_new_contact">အဆက်အသွယ် အသစ်</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">မကြာခဏ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="generic_no_account_prompt">သင့်ဖုန်း ပျောက်ဆုံးသွားရင်တောင်မှ၊ သင့်အဆက်အသွယ်များ စိတ်ချစွာဖြင့် ဆက်ရှိနေအောင်: အွန်လိုင်းဝန်ဆောင်မှုတစ်ခုနှင့် ဆင့်ခ်လုပ်ထားပါ။</string>
@@ -691,6 +694,7 @@
     <string name="miprofile_contact_header">ဆက်သွယ်ကဒ်များပါဝင်သည့် အဆက်သွယ်များ</string>
     <string name="miprofile_contact_meaasge">စက်ထဲရှိအဆက်သွယ်များ</string>
     <string name="miprofile_contact_verifying">အတည်ပြုနေ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_error_accept_self">သင့်ကိုယ်ပိုင်၏ အဆက်သွယ်ကဒ်အား ဖလှယ်၍မရနိုင်ပါ</string>
     <string name="miprofile_error_no_miaccount">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -838,7 +842,10 @@
     <string name="path_wipe_data">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဒေတာရှင်းလင်း</string>
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">ဖုန်းထဲတွင် မည်သည့်ပုံမျှ မရှိပါ။</string>
@@ -1101,6 +1108,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1156,9 +1164,9 @@
     <string name="t9_search_empty_send_sms">မက်ဆေ့ချ်ပို့မည်</string>
     <string name="t9_search_empty_video_call">ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="t9_search_guide_pinyin_title1">အဆက်အသွယ်များအား ရှာဖွေရန် နံပါတ်များရိုက်ထည့်ပါ</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">\"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\" ကို ရှာရန် \"%d\" နှင့် \"%d ထည့်ပါ</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">\"<font fgcolor="">D</font>ebbie <font fgcolor="">S</font>mith\" ကို ရှာရန် \"%d\" နှင့် \"%d ထည့်ပါ</string>
     <string name="t9_search_guide_zhuyin_title1">အဆက်အသွယ်များအား ရှာဖွေရန် နံပါတ်များရိုက်ထည့်ပါ</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">\"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\" ကို ရှာရန် \"%d\" နှင့် \"%d ထည့်ပါ</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">\"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\" ကို ရှာရန် \"%d\" နှင့် \"%d\" ထည့်ပါ</string>
     <string name="take_new_photo">ဓာတ်ပုံအသစ်ရိုက်ပါ</string>
     <string name="take_photo">ဓာတ်ပုံရိုက်ပါ</string>
     <string name="three_letter">DEF</string>
@@ -1239,6 +1247,7 @@
     <string name="voip_audio_description">VoIP ခေါ်ဆိုမှု</string>
     <string name="voip_video_description">VoIP ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="websiteLabelsGroup">ဝက်ဘ်ဆိုက်</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ဒေတာရှင်းပါ</string>
     <string name="yellowPageNavigationIconLabel">ဖုန်းလမ်းညွှန်</string>
     <string name="yellowPageNavigationLabel">အဝါရောင်စာမျက်နှာများ</string>

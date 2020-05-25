@@ -3,4 +3,7 @@
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$sနာရီ %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">%d ခု ရွေးထားပါသည်</item>
+    </plurals>
 </resources>

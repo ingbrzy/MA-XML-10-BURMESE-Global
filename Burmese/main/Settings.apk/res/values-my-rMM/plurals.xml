@@ -15,6 +15,9 @@
     <plurals name="bg_network_restrict_count">
         <item quantity="other">အက်ပ် %dခု သည်ကွန်ရက်သို့ ချိတ်ဆက်ခွင့် မရှိပါ</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">စက် %d လုံး ရှိသည်</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">စက်%d ခု</item>
     </plurals>
@@ -50,6 +53,9 @@
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသည်</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT ကိုဝင်ခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>

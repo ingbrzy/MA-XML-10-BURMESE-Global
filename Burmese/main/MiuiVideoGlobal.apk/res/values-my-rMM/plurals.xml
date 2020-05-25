@@ -21,6 +21,9 @@
     <plurals name="notice_user_banned">
         <item quantity="other">သင်တင်ထားသည့်အထဲတွင် ကျွန်ုပ်တို့၏ ကွန်မြူနတီစံနှုန်းနှင့် မကိုက်ညီသော အရာ (%1$s) ခု ပါဝင်သည်။ သင့်အကောင့်ကို %2$s နေ့ထိ %3$d ရက် ရပ်ဆိုင်းထားပါမည်။</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">ဤအင်္ဂါရပ်ကို %s ရက် ပိတ်ထားပါမည်</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">ဗီဒီယို %d ခု</item>
     </plurals>

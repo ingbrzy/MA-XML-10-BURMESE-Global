@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">သိမ်းမရပါ</string>
     <string name="extra_photo_common_saving">သိမ်းဆည်းနေသည်…</string>
-    <string name="motion_photo_re_pick_title">အကောင်းဆုံး ဓာတ်ပုံအား ရွေးပါ</string>
+    <string name="motion_photo_cancel">ပယ်ဖျက်မည်</string>
+    <string name="motion_photo_re_pick_title">တိုက်ရိုက်ပြသသော ဓာတ်ပုံ</string>
+    <string name="motion_photo_save_fail">သိမ်းဆည်း၍ မရပါ</string>
+    <string name="motion_photo_save_gif">GIF အဖြစ် သိမ်းဆည်းမည်</string>
+    <string name="motion_photo_save_gif_ing">GIF ကို သိမ်းဆည်းနေ…</string>
+    <string name="motion_photo_save_image">ရုပ်ပုံအဖြစ် သိမ်းဆည်းမည်</string>
+    <string name="motion_photo_save_image_ing">အကောင်းဆုံးရုပ်ပုံကို သိမ်းဆည်းနေ…</string>
+    <string name="motion_photo_save_video">ဗီဒီယိုအဖြစ် သိမ်းဆည်းမည်</string>
+    <string name="motion_photo_save_video_ing">ဗီဒီယိုကို သိမ်းဆည်းနေ…</string>
     <string name="motion_photo_toast_default">မူရင်း</string>
+    <string name="motion_photo_toast_long_press_play">ဖွင့်ရန်အတွက် ဓာတ်ပုံပေါ်တွင် ဖိပြီးထိနှိပ်ထားပါ</string>
     <string name="motion_photo_toast_suggest">အကြံပြုထားသော</string>
     <string name="refocus_discard_confirm_message">ပြောင်းလဲခြင်းများကို သိမ်းထားမလား?</string>
     <string name="refocus_discard_negative_btn">စွန့်ပစ်မည်</string>

@@ -31,7 +31,7 @@
     <string name="congratulation_swipe">စနစ်သို့ ဝင်ရောက်ရန် အပေါ်ဆွဲတင်ပါ</string>
     <string name="congratulation_title">သတ်မှတ်မှု ပြီးပြည့်စုံပြီ</string>
     <string name="content_description_complete">ပြည့်စုံသော</string>
-    <string name="content_description_miui_version">MIUI 11</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">စတင်</string>
     <string name="content_introduction">ပါဝင်ပစ္စည်းများစင်တာတွင် ရုပ်သံလိုင်းအမြောက်အမြားမှ ပါဝင်ပစ္စည်းများနှင့် ဝန်ဆောင်မှုများကို စုစည်းပေးသည်။ ဤနေရာတွင် သတင်းဖတ်ခြင်း၊ ဗီဒီယိုကြည့်ခြင်း၊ နေစဉ်ဝန်ဆောင်မှုအသစ်များကြည့်ခြင်းများကို ပြုလုပ်နိုင်ပြီး ပါဝင်ပစ္စည်းဆိုင်ရာအကြံပြုချက်များ ရယူနိုင်သည်။</string>
     <string name="continue_to_enable_accessibility">ဝင်သုံးခွင့် ဖွင့်ရန် လက်ချောင်းနှစ်ချောင်းဖြင့် ဖိထားပါ။</string>
@@ -76,6 +76,8 @@
     <string name="locale_picker_title">သင့်နေရာကို ရွေးချယ်ပါ</string>
     <string name="location_introduction">တည်နေရာအခြေပြုဝန်ဆောင်မှုများက သင့်အနီးအနားရှိ ထုတ်ကုန်နှင့် ဝန်ဆောင်မှုများကို ရှာဖွေပေးသည်။</string>
     <string name="lockscreen_introduction">နောက်ခံပုံလှည့်ပြခြင်းသုံးခြင်းဖြင့် သင့်သော့ခတ်မျက်နှာပြင်သို့ နေ့စဉ်ပေးပို့သည့် ပုံသစ်များကို ရယူခွင့်ပြုသည်။</string>
+    <string name="mint_keyboard_oobe_checkbox">ကျွန်ုပ်သည် Mint ကီးဘုတ် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို ဖတ်ရှုပြီး သဘောတူပါသည်။</string>
+    <string name="mint_keyboard_oobe_terms">Mint ကီးဘုတ် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="miui_privacy_policy_no_network">သင့်၌ အင်တာနက်ချိတ်ဆက်မှုတစ်ခု ရှိမနေပါ။ %s ၌ ကိုယ်ရေးမူဝါဒကို ကြည့်ပါ။</string>
     <string name="miui_terms_no_network">သင့်တွင် အင်တာနက်ချိတ်ဆက်မှုမရှိပါ။ အသုံးပြုသူသဘောတူညီချက်ကို %s တွင် ကြည့်ပါ။</string>
     <string name="multisim_settings_category">ဆင်းမ်ကဒ် ဆက်တင်များ</string>
@@ -203,7 +205,7 @@
     <string name="skip_gesture_guide_dialog_positive_btn">အိုကေ</string>
     <string name="skip_gesture_guide_dialog_title">မျက်နှာပြင်အပြည့် လက်ဟန်များ</string>
     <string name="skip_underline">ဤအဆင့်ကို ကျော်ပါ</string>
-    <string name="start_up_slogan">ဘဝကို ပိုလွယ်ကူစေသည်</string>
+    <string name="start_up_slogan">Yours alone</string>
     <string name="summary_not_set">မသတ်မှတ်ထား</string>
     <string name="system_navigation_mode">စနစ်အညွှန်းမုဒ်</string>
     <string name="terms_of_use">စည်းမျဉ်းစည်းကမ်းများ</string>
@@ -224,6 +226,9 @@
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 ဤအင်္ဂါရပ်အား မသုံးမီ Kika ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို သဘောတူရမည်။"</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+ဤအင်္ဂါရပ်ကို မသုံးမီ Mint ကီးဘုတ် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောတူရပါမည်။"</string>
     <string name="terms_of_use_lable_gms">၊ Google Play ဝန်ဆောင်မှု</string>
     <string name="terms_of_use_lable_smart_cards">၊ စမတ် ကဒ်များ</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
@@ -231,7 +236,7 @@
     <string name="terms_privacy_policy_input_method_kika">Kika ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="title_fingerprint">စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီချက်</string>
-    <string name="user_agreement_declare">MIUI ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင့်စက်ကို အသုံးပြုရန် စဖွင့်နေစဉ် Mi SIM အသက်သွင်းစနစ်ဝန်ဆောင်မှု၊ Xiaomi ကလောက်၊ စက်ရှာဖွေစနစ်၊ ပင်မစာမျက်နှာ၊ အသုံးများသော စကားစုများ၊ ဘာသာပြန်ဝန်ဆောင်မှု၊ MIUI Daemon၊ HTML Viewer၊ AI Assistant ဓာတ်ခဲနှင့် စွမ်းဆောင်ရည်၊ ပါဝါစမ်းသပ်စနစ်၊ Joyese၊ OS AI ဆက်တင်နှင့် အပ်ပဒိတ်လုပ်စနစ်တို့က ကွန်ရက်နှင့် ချိတ်ဆက်ပါမည်။ Smart ဝန်ဆောင်မှုများက ကွန်ရက်နှင့်ချိတ်ဆက်ပြီး သင့်တည်နေရာကို ရယူပါမည်။</string>
+    <string name="user_agreement_declare">သင့်အနေဖြင့် MIUI ကိုအသုံးမပြုမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုလက်ခံပေးရပါမည်။ သင့်စက်ပစ္စည်းကို အသုံးပြုနေစဉ်တွင် Mi SIM အသက်သွင်း ဝန်ဆောင်မှု၊ Xiaomi Cloud၊ စက်ရှာဖွေစနစ်၊ မူလမျက်နှာပြင်၊ မကြာခဏအသုံးပြုသော စကားစုများ၊ ဘာသာပြန် ဝန်ဆောင်မှု၊ MIUI Daemon၊ HTML Viewer၊ AI Assistant၊ ဘက်ထရီနှင့် စွမ်းဆောင်မှု၊ ပါဝါဖမ်းစနစ်၊ Joyose၊ OS AI ဆက်တင်၊ Permissions Manager နှင့် Updater တို့အား အင်တာနက်နှင့် ချိတ်ဆက်ပေးရပါမည်။ စမတ်ဝန်ဆောင်မှုများကလည်း အင်တာနက်နှင့် ချိတ်ဆက်၍ သင့်တည်နေရာကို ရယူအသုံးပြုပါမည်။</string>
     <string name="voice_assist_advice">Mi AI သည် အသံထိန်းချုပ်မှုအား သုံးရန် ခွင့်ပြုသည်၊ သို့သော် ဘက်ထရီ ပိုကုန်စေနိုင်သည် (၁ နာရီလျှင် ၁%)။</string>
     <string name="voice_assist_condition">"Mi AI အား အောက်ပါ အခြေအနေများတွင် သုံးနိုင်သည်-r
 ၁။ မျက်နှာပြင် လင်းနေသောအခါ၊r

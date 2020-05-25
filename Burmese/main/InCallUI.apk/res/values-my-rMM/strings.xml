@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant">စမတ်ခေါ်ဆိုမှုများ</string>
+    <string name="ai_assistant_not_installed">AI Call Assistant ကို ဦးစွာတပ်ဆင်ပါ</string>
     <string name="antispam_local_marked">ဒေသဆိုင်ရာ အမှတ်အသားပြုထားသည်</string>
     <string name="antispam_notification_title">အမည်မသိ နံပါတ်</string>
     <string name="antispam_provider">%s မှ သတ်မှတ်ထားပါသည်</string>
@@ -50,14 +52,10 @@
     <string name="can_not_use">အသုံးမပြုနိုင်ပါ</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="card_title_answering">ဖုန်းဖြေဆိုနေသည်</string>
-    <string name="card_title_answering_time_out">ဖုန်းဖြေဆို၍မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="card_title_call_ended">"ခေါ်ဆိုခြင်းပြီးပြီ "</string>
     <string name="card_title_conf_call">ကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
     <string name="card_title_dialing">ခေါ်ဆိုခြင်း</string>
     <string name="card_title_hanging_up">"ချလိုက် "</string>
-    <string name="card_title_hanging_up_fail">ခေါ်ဆိုမှုကို အဆုံးသတ်၍မရပါ၊ ထပ်မံကြိုးစားပါ။</string>
-    <string name="card_title_hanging_up_restart">ခေါ်ဆိုမှုကို အဆုံးသတ်၍မရပါ။သင်၏စက်ကို ပိတ်၍ပြန်စပါ။</string>
-    <string name="card_title_hanging_up_weak_signal">မိုဘိုင်းကွန်ရက်လိုင်းအားမကောင်းပါ။ ဖုန်းခေါ်ဆိုမှု ရပ်တန့်သွားသည်…</string>
     <string name="card_title_in_call">ပြောနေတုန်း</string>
     <string name="card_title_in_call_short">ပြောနေတုန်း</string>
     <string name="card_title_in_video">ဗီဒီယို</string>
@@ -117,6 +115,8 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">အခြားစက်များပေါ်တွင် ဗီဒီယိုခေါ်ဆိုမှုများအား မထောက်ပံ့ထားပါ</string>
     <string name="emergency_call_dialog_number_for_display">အရေးပေါ်နံပါတ်</string>
+    <string name="enter_ai_assistant">သုံးမည်</string>
+    <string name="enter_ai_assistant_tip">သင်ပြောဆိုရန် အဆင်မပြေပါက ဤခေါ်ဆိုမှုအတွင်း သင့်မက်ဆေ့ချ်ကို အသံအဖြစ်သို့ ပြောင်းလဲရန်အတွက် AI Call Assistant ကို အသုံးပြုနိုင်ပါသည်။ AI Call Assistant ကို သုံးမလား။</string>
     <string name="inCallLabel">ဖုန်း</string>
     <string name="incall_bubble_hangup_click_hint">ဖုန်းခေါ်ဆိုရန်နေရာသို့ ပြန်သွားရန် ထပ်တို့ပါ</string>
     <string name="incall_call_type_label_sip">အင်တာနက် ခေါ်ဆိုခြင်း</string>

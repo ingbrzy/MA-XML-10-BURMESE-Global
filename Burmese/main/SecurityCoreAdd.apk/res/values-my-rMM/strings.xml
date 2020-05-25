@@ -174,10 +174,10 @@
     <string name="greenguard_child_des_title">စက်ပစ္စည်းကိုထည့်ရန် QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="greenguard_functional_description">"စက်ပစ္စည်းများကို အဝေးမှစီမံခန့်ခွဲပြီး၊ တည်နေရာကြည့်ပါ
 ထည့်သွင်းထားသော အက်(ပ်)များကို ထိန်းချုပ်ပြီး အသုံးပြုခြင်းကို ကန့်သတ်ပါ"</string>
-    <string name="greenguard_install_cancle">No thanks</string>
-    <string name="greenguard_install_confirm">Install</string>
-    <string name="greenguard_install_message">"Family Guard is a system app. You don't need internet to install it."</string>
-    <string name="greenguard_install_title">Install Family Guard</string>
+    <string name="greenguard_install_cancle">မလုပ်ပါ</string>
+    <string name="greenguard_install_confirm">ထည့်သွင်းမည်</string>
+    <string name="greenguard_install_message">Family Guard သည် စနစ်အက်ပ်တစ်ခု ဖြစ်ပါသည်။ ယင်းကို ထည့်သွင်းရန်အတွက် အင်တာနက်မလိုအပ်ပါ။</string>
+    <string name="greenguard_install_title">Family Guard ကို ထည့်သွင်းရန်</string>
     <string name="greenguard_parent_des">သင့်မိတ်ဆွေများနှင့် မိသားစု၏ စက်ပစ္စည်းများကို စီမံခန့်ခွဲရန်</string>
     <string name="greenguard_parent_des_title">စက်ပစ္စည်းများထည့်ရန် Kite အစောင့်အကြပ်သုံးပါ</string>
     <string name="guide_contact_sub_title_desc">"အဆက်အသွယ်များအား သီးသန့်ထားလိုက်လိမ့်မည်။
@@ -223,6 +223,7 @@
     <string name="master_clear_apply_step_2">အရေးကြီးသည့် အိုင်တမ်များအား သင့်ကွန်ပျူတာပေါ်တွင် အရန်သိမ်းထားပါ။ \"အိုကေ\"အား ထိနှိပ်ပြီးပါက သင်၏စက်အား စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ပါမည်။ အကောင့်၊ အဆက်အသွယ်၊ ဓာတ်ပုံနှင့် အက်ပ်အပါအဝင် ဒေတာအားလုံးကို အပြီးအပိုင် ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="master_clear_apply_title">သတိပြုရန်</string>
     <string name="master_clear_not_available">သင်၏ ကုမ္ပဏီမှ စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်းအား ကန့်သတ်ထားသည်။</string>
+    <string name="master_clear_not_available_ep">စက်ရုံထုတ်ဆက်တင်ပြန်ထားခြင်း သို့မဟုတ် ခွင့်ပြုချက်ရုတ်သိမ်းခြင်းတို့ကို ယခု လုပ်ခွင့်မပြုပါ။ သင့်ကြီးကြပ်ရေးမှူးကို ဆက်သွယ်ပါ။</string>
     <string name="menu_item_about_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="messageData">မက်ဆေ့ချ်များ</string>
     <string name="more_settings">နောက်ထပ်</string>
@@ -459,6 +460,8 @@
     <string name="xspace_description">"နှစ်ခုတွဲအက်ပ်သည် ကွဲပြားသောအကောင့်ဖြင့် သီးခြား အသုံးပြုနိုင်သည့် အက်ပ်ကော်ပီများဖြစ်သည်။
 
 အချို့သော နှစ်ခုတွဲအက်ပ်များသည် Google ဝန်ဆောင်မှုဖွဲ့စည်းဘောင်များ၏ထောက်ပံ့မှုကို လိုအပ်ပါသည်။ ထိုသို့သောအခြေအနေမျိုးတွင် နှစ်ခုတွဲ Google ဝန်ဆောင်မှုဖွဲ့စည်းဘောင်တစ်ခု ဖန်တီးလိမ့်မည်။"</string>
+    <string name="xspace_disable">မလုပ်ထားပါ</string>
+    <string name="xspace_enable">လုပ်ပြီးပါပြီ</string>
     <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">အကောင့်နှစ်ခုအား ပြောင်းလဲခြင်းမလုပ်ဘဲ အသုံးပြုပါ</string>
     <string name="xspace_guide_title">နှစ်ခုတွဲအက်ပ် ဖန်တီးမည်</string>
@@ -471,9 +474,12 @@
     <string name="xspace_introduce">အကြံပြုထားသော</string>
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_loading_msg">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
+    <string name="xspace_notification">နှစ်ခုတွဲ အက်(ပ်)အသိပေးချက်များ</string>
+    <string name="xspace_notification_error">နှစ်ခုတွဲ WeChat သို့အကောင့်ဝင်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
+    <string name="xspace_settins">သတ်မှတ်ရန်</string>
     <string name="xspace_uninstall_completed">နှစ်ခုတွဲအက်ပ်အား အောင်မြင်စွာ ဖြုတ်ချပြီးပြီ</string>
     <string name="xspace_uninstall_dialog_content">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
     <string name="xspace_uninstall_dialog_title">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချ</string>

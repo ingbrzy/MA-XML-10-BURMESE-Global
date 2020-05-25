@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="agree_description">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပါ။</string>
     <string name="alert_message_clear_records">ရွေးထားသော အသံဖမ်းယူမှုများကို ဖျက်ပစ်မလား?</string>
     <string name="alert_message_delete_local_record">ဤအသံဖမ်းယူမှုကို ဖျက်ပစ်မလား?</string>
     <string name="alert_message_delete_record">သင်စက်မှ ဤမှတ်တမ်းတင်မှုကို ဖျက်ခြင်းသည် Xiaomi Cloud မှ ဤမှတ်တမ်းတင်မှုကိုလည်း ဖျက်ပစ်ပါမည်။ ယခု ဖျက်မလား။</string>

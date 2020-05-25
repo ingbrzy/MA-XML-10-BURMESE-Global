@@ -84,6 +84,14 @@
     <string name="err_type_xiaomi_service">ဖောက်သည်အတွက် ဝန်ဆောင်မှု</string>
     <string name="error_no_connection">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရနိုင်ခဲ့ပါ</string>
     <string name="failed_to_fetch_fql">FAQ အချက်အလက်များအား မရနိုင်ပါ။ ကွန်ရက်ချိတ်ဆက်မှုကို စစ်ပါ</string>
+    <string name="feedback_answer_detail_feedback_resolved">ဝင်သည်</string>
+    <string name="feedback_answer_detail_feedback_result">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါသည်။</string>
+    <string name="feedback_answer_detail_feedback_title">အသုံးတည့်ပါသလား။</string>
+    <string name="feedback_answer_detail_feedback_unresolved">မဝင်ပါ</string>
+    <string name="feedback_answer_detail_relative_question">ဤအရာနှင့် သက်ဆိုင်နိုင်သည်</string>
+    <string name="feedback_answer_detail_submit_dialog_confirm">တင်ရန်</string>
+    <string name="feedback_answer_detail_submit_dialog_content">သင်ကြုံရသော ပြဿနာကို ဖော်ပြပေးပါက ကျွန်ုပ်တို့ ဖြေရှင်းကြည့်နိုင်ပါမည်။ တုံ့ပြန်အကြံပြုချက်တင်လိုသလား။</string>
+    <string name="feedback_answer_detail_submit_dialog_title">တုံ့ပြန်အကြံပြုချက်တင်လိုသလား။</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s ကိစ္စ \"%2$s\"</string>
     <string name="feedback_choose_app_tag">ပြဿနာတစ်ခုကို ရွေးချယ်ပါ</string>
     <string name="feedback_choose_module">အိုင်တမ်များရွေး</string>
@@ -116,6 +124,7 @@
     <string name="feedback_detail_upload_local_log">ဖိုင်တင်ရန်</string>
     <string name="feedback_detail_upload_log">မှတ်တမ်းများကို တင်နေသည်</string>
     <string name="feedback_detail_waiting">ရယူနေသည်…</string>
+    <string name="feedback_edit_popup_window_related_title">ဤအရာနှင့် သက်ဆိုင်နိုင်သည်</string>
     <string name="feedback_empty_report_list">အစီရင်ခံစာမရှိသေးပါ</string>
     <string name="feedback_guess">ကျွန်ုပ်တို့၏ ခန့်မှန်းချက်:</string>
     <string name="feedback_hint_optional">ရွေးပါ</string>

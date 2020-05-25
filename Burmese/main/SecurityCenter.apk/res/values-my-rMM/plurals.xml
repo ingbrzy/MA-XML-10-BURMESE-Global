@@ -3,6 +3,45 @@
     <plurals name="add_game_notification_title">
         <item quantity="other">ဂိမ်း %d ခုပေါင်းထည့်ခဲ့သည်</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">%3$d ကို %1$s နှင့် %2$s ကြားအချိန်တွင် ခွင့်ပြုထားသည်</item>
+    </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">%1$s တွင် %2$d ကြိမ်တိုင်တိုင် ခွင့်ပြုခဲ့သည်</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">%3$d ကို %1$s နှင့် %2$s ကြားအချိန်တွင် တားမြစ်ထားသည်</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">%1$s တွင် %2$d ကြိမ် ငြင်းပယ်ထားသည်</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">%1$s နှင့် %2$s ကြားတွင် မက်ဆေ့(ချ်)အလွတ် %3$d စောင် ပြန်ထားသည်</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">%1$s တွင် ဗလာမက်ဆေ့ချ် %2$d စောင် ပြန်ရောက်လာခဲ့သည်</item>
+    </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">%1$1s အပါအဝင် %2$d အက်ပ်သည် အသံဖမ်းနေသည်</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">%1$1s အပါအဝင် %2$d အက်ပ်သည် ဓာတ်ပုံများ ရိုက်နေသည်</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">%1$1s အပါအဝင် %2$d အက်ပ်သည် သင်၏ တည်နေရာကို ရယူအသုံးပြုနေသည်</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">%1$d အက်(ပ်)က အရေးကြီးလုပ်ဆောင်ချက်များ ဆောင်ရွက်ထားလျှင် သင့်ထံအသိပေးမည် မဟုတ်ပါ</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">%1$d အက်(ပ်)က အရေးကြီးလုပ်ဆောင်ချက်များ ဆောင်ရွက်ထားလျှင် သင့်ထံအသိပေးပါမည်</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s က အက်ပ် %2$d ခုကို စတင်ခဲ့သည်</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">ဤအက်ပ်သည် အခြားအက်ပ် %1$d ကို စတင်ခဲ့သည်</item>
+    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">ခွင့်ပြုချက် %d ခု ခွင့်ပြုခဲ့သည်</item>
     </plurals>
@@ -131,6 +170,12 @@
     <plurals name="install_game_count_title">
         <item quantity="other">%d ဂိမ်းထည့်သွင်းပြီးပြီ။</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s နာရီ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s မိနစ်</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">အနည်းဆုံးအစက် %d စက် ပါအောင်ဆွဲပါ</item>
     </plurals>
@@ -199,6 +244,12 @@
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">အက်ပ် %d ခုကြောင့် ဘက်ထရီ သုံးစွဲမှုများနေသည်</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">"  နာရီ"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">"  မိနစ်"</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s ရက်</item>
@@ -275,11 +326,23 @@
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">%s မိနစ် ကျန်သေးသည်</item>
     </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">နားလည်ပါပြီ (%dစက္ကန့်)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">စက္ကန့် %d အကြာတွင် သင့်စက် ပိတ်သွားပါမည်။ အားသွင်းကြိုးနှင့် ချိတ်ဆက်ပါ။</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d အက်ပ် အိုင်ကွန်ကို ကွယ်ဝှက်ထားသည်</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">%d အက်ပ်အိုင်ကွန်များကို ကွယ်ဝှက်မထားပါ</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s အက်(ပ်)တွင် အမြဲတမ်း ဖတ်ခွင့်ရှိသည်</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s ကြိမ်</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">ဘက်ထရီပြဿနာ %d ခု</item>

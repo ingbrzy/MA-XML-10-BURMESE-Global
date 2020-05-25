@@ -179,7 +179,7 @@
     <string name="pref_download_settings_title">ဒေါင်းလုဒ်အရွယ်အစားကန့်သတ်ချက်</string>
     <string name="pref_summary_any_bytes_popup">ဖိုင်များအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi ချိတ်ဆက်မှုအား အမြဲစောင့်ဆိုင်းပါ</string>
     <string name="pref_summary_enable_max_bytes_popup">မိုဘိုင်းဒေတာဖြင့် အကြောင်းအရာများကို ဒေါင်းလုဒ်လုပ်နေစဉ် ပေါ့ပ်အပ်အသိပေးချက်အား ပြပါ</string>
-    <string name="pref_summary_max_bytes_limit_format">ဖိုင်အရွယ်အစားသည် %s ထက်ကျော်လွန်ပါက ဝိုင်ဖိုင်ရသည့်အချိန်အထိ စောင့်ပါ</string>
+    <string name="pref_summary_max_bytes_limit_format">ဖိုင်အရွယ်အစားသည် %s ထက်ကျော်နေပါက Wi-Fi စောင့်မည်</string>
     <string name="pref_summary_no_limit_popup">အကန့်သတ်မဲ့</string>
     <string name="pref_title_enable_max_bytes_popup">ဒေတာသုံးစွဲမှု အသိပေးချက်အား ပြပါ</string>
     <string name="preferences_title">ဆက်တင်များ</string>
@@ -223,5 +223,5 @@
     <string name="toast_only_wifi_download">အိုင်တမ်များအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်ပါ</string>
     <string name="total_speedup">အရှိန်မြှင့်တင်မှု(စုစုပေါင်း)</string>
     <string name="version">ဗားရှင်း %s</string>
-    <string name="security_ui_title">Security ads</string>
+    <string name="security_ui_title">လုံခြုံရေးကြော်ငြာများ</string>
 </resources>

@@ -46,6 +46,7 @@
     <string name="account_list">အခြားအကောင့်များ</string>
     <string name="account_other">အခြားသော</string>
     <string name="account_settings_title">Google &amp; အကောင့်</string>
+    <string name="acount_data">အကောင့်များ</string>
     <string name="activating">အသက်သွင်းနေသည်…</string>
     <string name="active_input_method_subtypes">အသုံးပြုနိုင်သော စာရိုက်ထည့်နည်း</string>
     <string name="activity_title_power_manager">ဘက်ထရီချွေတာသူ;ဘက်ထရီ ချွေတာမည်</string>
@@ -82,6 +83,7 @@
     <string name="additional_system_update_settings_list_item_title">နောက်ထပ် စက်စနစ်အသစ်မွမ်းမံများ</string>
     <string name="adjust_3d_depth_title">ဂိမ်းများကိုညှိမည် 3D အနက်</string>
     <string name="advanced_settings">ဖြည့်စွက်ဆက်တင်များ</string>
+    <string name="aggregate_title">အသိပေးချက်များ အုပ်စုဖွဲ့ခြင်းအတွက် စည်းမျဉ်းများ</string>
     <string name="agps_roaming">ရွန်းမင်းလုပ်နေချိန်တွင် A-GPS</string>
     <string name="agps_roaming_dia">ရွန်းမင်းလုပ်ထားချိန်တွင် A-GPS ကိုသုံးခြင်းသည် သင့်ဒေတာသုံးခြင်းကိုပိုကုန်စေပါသည်။ သင့်အစီအစဉ်၏ဒေတာကန့်သတ်ချက်ကိုကျော်သွားပါက သင့်ကယ်ရီယာက အပိုအဖိုးအခကိုကောက်ခံမည်ဖြစ်ပါသည်။</string>
     <string name="agps_roaming_dia_title">ရွန်းမင်းလုပ်နေချိန်တွင် A-GPS ကိုသုံးမည်</string>
@@ -108,7 +110,8 @@
     <string name="allow_lights_title">LED မီး သုံးရန် ခွင့်ပြုပါ</string>
     <string name="allow_mock_location">တုပထားသော တည်နေရာအား ခွင့်ပြုပါ</string>
     <string name="allow_mock_location_summary">တုပထားသော တည်နေရာအား ခွင့်ပြုပါ</string>
-    <string name="allow_oaid_used">စက်အိုင်ဒီ သုံးစွဲရန် ခွင့်ပြုမည်</string>
+    <string name="allow_oaid_used">禁止应用获取任何身份ID</string>
+    <string name="allow_oaid_used_desc">开启后，除您手动允许的情况外，系统将不再向应用提供任何身份ID，部分应用的推荐类功能可能受到影响</string>
     <string name="allow_sound_title">အသံများအား ခွင့်ပြုပါ</string>
     <string name="allow_vibrate_title">တုန်ခါမှုအား ခွင့်ပြုပါ</string>
     <string name="alpha_build">အယ်လ်ဖာ</string>
@@ -164,6 +167,7 @@
     <string name="app_switch_key">လတ်တလောအရာများ</string>
     <string name="app_version">ဗားရှင်း</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="application_data">အက်(ပ်)များ</string>
     <string name="application_forbid_auto_startup">%s ကို နောက်ခံတွင်စတင်ခြင်းကို ရပ်ပါ</string>
     <string name="application_item_already_permission">ခွင့်ပြုပြီး</string>
     <string name="application_item_disable">ငြင်းပယ်ပါ</string>
@@ -174,6 +178,7 @@
     <string name="application_permissions">အက်ပ် ခွင့်ပြုချက်များ</string>
     <string name="applications_settings">အက်ပ်များကို စီမံပါ</string>
     <string name="applications_settings_title">အက်ပ်များ</string>
+    <string name="apply_fingerprint_to">လက်ဗွေများကို ဤအရာအတွက် သုံးပါ -</string>
     <string name="apply_fingerprint_to_category_title">အောက်ပါအတွက် လက်ဗွေသုံးမည်…</string>
     <string name="apply_now_button_text">မွမ်းမံပါ</string>
     <string name="apply_password_to_category_title">သော့ဖြည်ရန်လိုအပ်သည်</string>
@@ -210,8 +215,20 @@
     <string name="background_restrict_app_dialog_message">နောက်ခံကွန်ရက်ဝင်ရောက်မှုကို ကန့်သတ်ပါက ဤအက်ပ်သည် မက်ဆေ့ချ်လက်ခံရရှိခြင်း၊ အကြောင်းအရာဒေါင်းလုဒ်လုပ်ခြင်းစသည်တို့ကို ပုံမှန်လုပ်ဆောင်နိုင်တော့မည် မဟုတ်ပါ။ ကန့်သတ်မလား?</string>
     <string name="background_traffic">နောက်ခံ %s</string>
     <string name="backtouch_enable_title">အသံအတိုးအကျယ်ကို နောက်ကျောတွင် ချိန်ညှိပါ</string>
+    <string name="backup_at_once">အရန်သိမ်းရန်</string>
+    <string name="backup_data">အရန်သိမ်းခြင်းများ</string>
     <string name="backup_data_summary">အက်ပ်စ်ဒေတာ၊ Wi-Fi လျို့ဝှက်စကားလုံး၊ နှင့် ဂူးဂဲလ်ဆာဗာများအတွက် အခြားဆက်တင်များကို အပိုသိမ်းဆည်းထားမည်</string>
+    <string name="backup_difference_content">"စက်အတွင်းအရန်သိမ်းခြင်းများ - 
+စက်အတွင်းအရန်သိမ်းခြင်းများတွင် အက်(ပ်)ဒေတာနှင့် အခြားအရာများ ပိုပါနိုင်သည်။ အရန်သိမ်းဖိုင်များကို MIUI-backup-AllBackup တွင် သိမ်းပြီး အရန်သိမ်းပြီးသည်နှင့် ကွန်ပျူတာတွင် ကူးထားရန်လိုသည်။
+
+ကလောက်အရန်သိမ်းခြင်းများ - 
+အရန်သိမ်းခြင်းများကို Xiaomi ကလောက်တွင် သိမ်းပြီး ကြိုးမဲ့ ဝင်ရောက်နိုင်သည်။ ဤနည်းလမ်းသည် စက်အတွင်းအရန်သိမ်းခြင်းထက် ပိုမိုမြန်ဆန်လွယ်ကူသော်လည်း Xiaomi ကလောက်တွင် အက်(ပ်)ဒေတာများကို အရန်သိမ်းမရပါ။
+"</string>
+    <string name="backup_difference_title">စက်အတွင်းအရန်သိမ်းခြင်းနှင့် ကလောက်အရန်သိမ်းခြင်းများ ကွာခြားချက်။</string>
     <string name="backup_erase_dialog_message">သင့် Wi-Fi စကားဝှက်း၊ စာညှပ်၊ အခြားဆက်တင်နှင့် အက်ပ်ဒေတာများအား အရန်သိမ်းမှရပ်ပြီး Google ဆာဗာများပေါ်ရှိ မိတ္တူအားလုံးကို ဖျက်ပစ်မလား?</string>
+    <string name="backup_more_settings">ဆက်တင်များ</string>
+    <string name="backup_restore_data_content">အဆက်အသွယ်များ၊ မက်ဆေ့(ချ်)များ (SMS နှင့် MMS)၊ ဖုန်းခေါ်မှတ်တမ်း၊ ပြက္ခဒိန်ဖြစ်ရပ်များ၊ ဓာတ်ပုံများ၊ အသံဖိုင်များ၊ ဗီဒီယိုများ၊ စာရွက်စာတမ်းဖိုင်များ၊ အက်(ပ်)များ၊ အက်(ပ်)ဒေတာနှင့် ပင်မမျက်နှာပြင် အပြင်အဆင်တို့ကို အရန်သိမ်းနိုင်သည်။</string>
+    <string name="backup_restore_data_title">အရန်သိမ်းနိုင်၊ ပြန်ယူနိုင်သော အရာများ။</string>
     <string name="backup_set_clear_success">အရန် စကားဝှက်အား ပိတ်ပြီးပါပြီ</string>
     <string name="backup_set_clear_title">အရန် စကားဝှက်အား ပိတ်ပါ</string>
     <string name="backup_set_confirm">အိုကေ</string>
@@ -325,6 +342,7 @@
     <string name="bluetooth_device_address">လိပ်စာ:</string>
     <string name="bluetooth_device_misc_title">အသုံးနည်းသော စက်များ</string>
     <string name="bluetooth_device_name">အမည်:</string>
+    <string name="bluetooth_device_nearby_title">အနီးနားရှိစက်များ</string>
     <string name="bluetooth_device_searchable">တွေ့နိုင်သော</string>
     <string name="bluetooth_disable_absolute_volume">အကြွင်းမဲ့ အသံအတိုးအကျယ်ကို ပိတ်မည်</string>
     <string name="bluetooth_disable_absolute_volume_summary">ဘလူးတုသ်အတွက် အကြွင်းမဲ့ အသံအတိုးအကျယ်အား ပိတ်ခြင်းဖြင့် အဝေးထိန်းကိရိယာများနှင့်ချိတ်ဆက်သောအခါ ဖြစ်ပေါ်တတ်သော အသံအတိုးအကျယ်ပြဿနာများ (ဥပမာ-လက်မခံနိုင်အောင် ကျယ်လောင်သောအသံ သို့မဟုတ် အတိုးအကျယ်ထိန်းချုပ်မရသောအခြေအနေ) ကို ရှောင်ရှားနိုင်ပါသည်။</string>
@@ -346,6 +364,12 @@
     <string name="bluetooth_hearingaid_right_pairing_message">ညာဘက် နားကြားကိရိယာနှင့် ချိတ်တွဲနေသည်…</string>
     <string name="bluetooth_hid_profile_summary_connected">ထည့်သွင်းစက်သို့ ချိတ်ဆက်ထားသည်</string>
     <string name="bluetooth_hid_profile_summary_use_for">ရိုက်ထည့်ခြင်းအတွက် သုံးမည်</string>
+    <string name="bluetooth_inform_messgae">"%1$s သို့ မချိတ်ဆက်နိုင်ခဲ့ပါ။
+ဤချွတ်ယွင်းမှုများကြောင့် ဖြစ်နိုင်ပါသည် -
+၁။ ဤစက်ပေါ်ရှိ ဘလူးတုသ်ကို ပိတ်ထားသည် သို့မဟုတ် ဖြန့်ကျက်ဧရိယာပြင်ပတွင် ရှိနေသည်။
+၂။ ဤစက်သည် ရှာဖွေ၍မရနိုင်သောမုဒ်ကို သုံးထားသည်။
+၃။ ဤစက်သည် အခြားစက်များနှင့် ချိတ်ဆက်ထားသည်။ ဖြုတ်ချက်၍ ထပ်မံကြိုးစားကြည့်ပါ။"</string>
+    <string name="bluetooth_inform_messgae_title">မချိတ်ဆက်နိုင်ခဲ့ပါ</string>
     <string name="bluetooth_is_discoverable_always">စက်အား အနီးရှိ ဘလူးတုသ်စက်များမှာ မြင်နိုင်စွမ်းရှိ စေပါ</string>
     <string name="bluetooth_map_profile_summary_connected">MAP သို့ ချိတ်ဆက်ထားသည်</string>
     <string name="bluetooth_map_profile_summary_use_for">မြေပုံအတွက် သုံးမည်</string>
@@ -497,6 +521,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
 အထက်ပါ အတိုင်း လုပ်ဆောင်ပြီးပါက Mi အကောင့်အား ပြန်ပေါင်းထည့်ပါ။ ထိုသို့မဟုတ်လျှင် သင့်စက်အား လော့ခ်ဖြည်၍ ရမည် မဟုတ်ပါ။"</string>
     <string name="bootloader_tips_ok">နားလည်ပါပြီ</string>
     <string name="bootloader_tips_warning">ကွန်ရက်မှ ချိတ်ဆက်မှု ဖြတ်၍ သင့် Mi အကောင့်မှ ဆိုင်းအင်ထွက်ပြီး စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ပါ၊ သို့မဟုတ် စနစ် ဒေတာအား ဖျက်ပစ်ပါ။</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
+    <string name="bottom_function_settings">နောက်ထပ်ခလုတ်များ၏ လုပ်ဆောင်ချက်များ</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးခြင်းအသစ်ရချိန်တွင် အလင်းရောင်</string>
     <string name="breathing_light_freq_summary">အသိပေးခြင်းအသစ်ရှိချိန်တွင် ပိုသိသာစေသည်</string>
@@ -515,8 +541,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="bt_hci_snoop_log">ဘလူးတုသ် HCI snoop မှတ်တမ်း</string>
     <string name="bt_hci_snoop_log_summary">ဘလူးတုသ် HCI ပက်ကက်များကို ဖိုင်တစ်ခုတွင် ရိုက်ထားပါ</string>
     <string name="bt_ldac_declaration">ဘလူးတုသ်စက်မှာ LDAC အား ပံ့ပိုးထားလျှင် မူလချိတ်ဆက်မှုအဖြစ် သတ်မှတ်မည်။ LDAC သည် အရည်အသွေးမြင့်အော်ဒီယိုကို ပေးနိုင်မှာဖြစ်ပြီး ပါဝါသုံးစွဲမှုလည်း မြန်စေနိုင်သည်။ ဘလူးတုသ်ဟာ့ဒ်ဝဲလ် အကန့်အသတ်ကြောင့် ဖွင့်ရာတွင် ထစ်နိုင်သည်။</string>
-    <string name="bt_ldac_dialog_summary">"LDAC သည် အရည်အသွေးမြင့်အော်ဒီယိုကို ပေးနိုင်မှာဖြစ်ပြီး ပါဝါသုံးစွဲမှုလည်း မြန်စေနိုင်သည်။
-ဤအင်္ဂါရပ်ကို [Settings] တွင် ပိတ်နိုင်ပါသည်။"</string>
+    <string name="bt_ldac_dialog_summary">LDAC သည် အသံအရည်အသွေးမြင့်စေပြီး ဓာတ်ခဲလည်း အကုန်မြန်စေသည်။ ဤဝန်ဆောင်မှုကို ဆက်တင်များတွင် ပိတ်နိုင်သည်။</string>
     <string name="bt_ldac_dialog_title">လက်ရှိစက်မှာ LDAC အား ပံ့ပိုးထားသည်၊ မူလချိတ်ဆက်မှုအဖြစ် သတ်မှတ်မည်-</string>
     <string name="bt_ldac_open_dialog_summary">LDAC သည် အရည်အသွေးမြင့်အော်ဒီယိုကို ပေးနိုင်မှာဖြစ်ပြီး ပါဝါသုံးစွဲမှုလည်း မြန်စေနိုင်သည်။ ဘလူးတုသ် ဟာ့ဒ်ဝဲအကန့်အသတ်ကြောင့် ဖွင့်ရာတွင် ထစ်နိုင်သည်။</string>
     <string name="bt_ldac_open_dialog_title">LDAC အား ဖွင့်မလား?</string>
@@ -554,6 +579,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="calendar_remind">ပွဲစဉ်များ</string>
     <string name="calendar_sound_dialog_title">ပြက္ခဒိန်အသံရွေးပါ</string>
     <string name="calendar_sound_title">ပြက္ခဒိန်အသံ</string>
+    <string name="call_example_name">အမည်</string>
     <string name="call_records_name_1">မသန္တာထွန်း</string>
     <string name="call_records_name_2">ကိုသူရ</string>
     <string name="call_records_name_3">ဦးမျိုးအောင်</string>
@@ -583,6 +609,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="card_main_hbassistant_title">အန်ပေါင်း;ဟုန်ပေါင်း;ပိုက်ဆံ</string>
     <string name="category_personal">ကိုယ်ရေးကိုယ်တာ</string>
     <string name="category_work">အလုပ်</string>
+    <string name="change_lock_screen_password_title">မျက်နှာပြင်သော့ကို ပြောင်းမည်</string>
     <string name="change_password">မျက်နှာပြင်သော့ခတ်အားပြောင်းလဲပါ</string>
     <string name="change_security_lock">သော့ဖွင့်ရန်အခြားနည်းများကိုကြိုးစားမည်</string>
     <string name="charge_length_format">%1$s အကြာက</string>
@@ -601,6 +628,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="cleaner">သန့်ရှင်းစက်</string>
     <string name="clear_activities_summary">အချို့အော်ပရေးရှင်းအတွက် မူရင်းအားဖြင်း ဤအက်ပ်စ်ကို အသုံးပြုပါ</string>
     <string name="clear_adb_keys">USB ဒီဘာဂင်ကို ရုပ်သိမ်းမည်</string>
+    <string name="clear_all_data">ဒေတာအားလုံး ဖျက်ရန်</string>
+    <string name="clear_data_alert_info">ဤစက်ရှိ အရန်သိမ်းဖိုင်အားလုံးကို အပြီးဖျက်လိုက်ပါမည်။ ရှေ့မဆက်မီ အရေးကြီးသောအရာများကို ကွန်ပျူတာနှင့် Xiaomi ကလောက်တွင် အရန်သိမ်းပါ။</string>
+    <string name="clear_phone_data_category">အောက်ပါတို့ကို ဖျက်ရန်</string>
     <string name="close_aod">ဤအင်္ဂါရပ်သည် \"အမြဲတမ်းဖွင့်ထားမည်\"မုဒ်နှင့်တွဲ သုံး၍မရပါ။ \"အမြဲတမ်းဖွင့်ထားမည်\"မုဒ်အား ဦးစွာ ပိတ်ပါ။</string>
     <string name="close_app">လက်ရှိအက်ပ်ကို ပိတ်မည်</string>
     <string name="close_demo_mode">ပယ်ဖျက်မည်</string>
@@ -614,8 +644,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="close_slave_wifi_hint">လွှင့်တင်ခြင်းမပြုမီ အရန် Wi-Fi ကွန်ရက်မှ ဖြုတ်ပါ</string>
     <string name="cloud_backup_section_title">Xiaomi ကလောက် အရန်သိမ်းစနစ်</string>
     <string name="cloud_backup_settings_section_title">အရန်သိမ်း ဆက်တင်</string>
+    <string name="cloud_category_text">ကလောက်</string>
     <string name="cloud_restore_section_summary">စနစ် ဆက်တင်၊ ပင်မမျက်နှာပြင် အပြင်အဆင်နှင့် အက်ပ်များကို ပြန်လည်ရယူမည်</string>
+    <string name="cloud_restore_section_summary_new">ပင်မမျက်နှာပြင် အပြင်အဆင်၊ အက်(ပ်)များ၊ စနစ်ဆက်တင်များနှင့် အခြားအရာများကို အရန်သိမ်းရန်</string>
     <string name="cloud_restore_section_title">Xiaomi ကလောက်မှ ပြန်ယူရန်</string>
+    <string name="cloud_restore_section_title_new">Xiaomi ကလောက်တွင်</string>
     <string name="cmcc_hardware_version">ဟာ့ဒ်ဝဲလ် ဗားရှင်း</string>
     <string name="codec_low_latency_summary">ဂိမ်းအသံဖွင့်ထားစဉ်နှင့် ဗီဒီယိုဆင့်(ခ်)လုပ်စဉ် ပိတ်ထားနိုင်ခြင်းကို အနိမ့်ဆုံးသို့ လျှော့ပါ</string>
     <string name="codec_low_latency_title">ပိတ်ထားနိုင်ခြင်းအနိမ့်</string>
@@ -649,9 +682,12 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="color_led_start_time">စတင်ချိန်</string>
     <string name="color_led_summary">DND မုဒ်တွင် အလုပ်မဖြစ်ပါ</string>
     <string name="color_led_title">LED မီး</string>
+    <string name="common_issue">အမေးများသော မေးခွန်းများ</string>
     <string name="common_settings">အမြန်အပြင်အဆင်များ</string>
     <string name="complete_parameters">အချက်အလက်အားလုံး</string>
     <string name="complete_settings">အထွေထွေ ဆက်တင်များ</string>
+    <string name="computer_backup_summary">ကွန်ပျူတာသုံးပြီး အရန်သိမ်းခြင်းနှင့် ပြန်ယူခြင်း</string>
+    <string name="computer_backup_title">ကွန်ပျူတာ</string>
     <string name="confirm_action">အိုကေ</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">ပေါင်းထည့်မည်</string>
     <string name="confirm_device_credential_password">စကားဝှက် သုံးမည်</string>
@@ -682,7 +718,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="connected_wifi">ချိတ်ဆက်ပြီး</string>
     <string name="connecting_to_vpn">VPN သို့ချိတ်ဆက်နေ</string>
     <string name="connection_and_sharing">ချိတ်ဆက်ခြင်းနှင့် မျှဝေခြင်း</string>
+    <string name="contact_data">အဆက်အသွယ်များ</string>
     <string name="content_description_menu_button">မီနူး</string>
+    <string name="continue_reset_factory">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်း</string>
     <string name="convenience_key_category_title">စနစ်ထိန်းချုပ်မှု</string>
     <string name="convert_to_fbe_warning">"ဒေတာပိုင်ခြားခြင်းမှ လျှို့ဝှက်ကုဒ်ခံဖိုင်သို့ ပြောင်းမည်။
  သတိပေးချက်-ဤလုပ်ဆောင်ချက်သည် သင်၏ဒေတာအားလုံးကို ဖျက်ပစ်ပါမည်။
@@ -693,7 +731,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="convert_to_file_encryption_enabled">ကူးပြောင်းမည်…</string>
     <string name="cool_color">အေးမြသော</string>
     <string name="country_name">%s (စနစ်)</string>
-    <string name="credentials_configure_lock_screen_hint">ကျိန်းသေသော သိုလှောင်ခြင်းများကိုမပြုလုပ်နိုင်မီ မျက်နှာပြင်လော့ခ် ပင် သို့မဟုတ် လျို့ဝှက်စကားလုံးကို သတ်မှတ်ထားရန်လိုအပ်ပါသည်။</string>
+    <string name="credentials_configure_lock_screen_hint">ယုံကြည်စိတ်ချရသော သိုလှောင်ခြင်းများ မပြုလုပ်မီ မျက်နှာပြင်လော့ခ် PIN သို့မဟုတ် စကားဝှက်ကို သတ်မှတ်ထားရန် လိုအပ်ပါသည်။</string>
     <string name="credentials_password_too_short">စာလုံး 8 လုံးအနည်းဆုံး</string>
     <string name="credentials_title_verification">အတည်ပြုခြင်း</string>
     <string name="crypt_keeper_conditions">ကုဒ်ဖွဲ့ခြင်းသည် တစ်နာရီနှင့်အထက်ကြာနိုင်ပါသည်။ ထိုသို့လုပ်ဆောင်ခြင်းစတင်ရန် ဘက်ထရီအားဖြည့်ထားရပါမည်၊ လုပ်ဆောင်နေစဉ်လဲ အားသွင်းထားရပါမည်။ ကြားဝင်နှောက်ယှက်မှုရှိပါက သင့်ဒေတာများ ပျက်စီးသွားနိုင်ပါသည်။</string>
@@ -705,6 +743,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="crypt_keeper_decrypt_methods_title">သင့်စက်အား ကုဒ်ဖြည်နေသည်</string>
     <string name="crypt_keeper_switch_to_pattern">ပုံစံ သုံးမည်</string>
     <string name="crypt_keeper_switch_to_pin">PIN သုံးမည်</string>
+    <string name="current_password">လက်ရှိ မျက်နှာပြင်သော့</string>
     <string name="current_use_ese">မြှုပ်ထားသောလုံခြုံစေသည့်သတ္တုများကိုသုံးပြီး</string>
     <string name="current_use_ese_wallet">Mi ပိုက်ဆံအိတ်အား အသုံးပြုနေသည်။ ဤအရာသည် Mi ပေးချေမှု သုံးရန် နှင့်NFC လိုင်းကားကဒ်ကဲ့သို့ အသုံးပြုနိုင်ရန် လုပ်ဆောင်ပေးပါလိမ့်မည်။</string>
     <string name="current_use_hce_wallet">သင်သည် HCE ပိုက်ဆံအိတ်အား အသုံးပြုနေသည်</string>
@@ -712,6 +751,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="current_use_uicc_wallet">သင်သည် ဆင်းမ်ပိုက်ဆံအိတ် %1$s အားအသုံးပြုနေသည်</string>
     <string name="current_zone">(လက်ရှိ)</string>
     <string name="custom_carrier_title">ဖုန်းလိုင်းကုမ္ပဏီ အမည်အား တည်းဖြတ်မည်</string>
+    <string name="custom_color">စိတ်ကြိုက်</string>
     <string name="custom_wifi_name_title">Wi-Fi အမည် တည်းဖြတ်မည်</string>
     <string name="cutout_mode_always">မျက်နှာပြင်ထိပ်ပိုင်း အမြဲပြပါ</string>
     <string name="cutout_mode_default">အော်တို</string>
@@ -732,8 +772,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dark_color_mode">အရောင်မှိန် မုဒ်</string>
     <string name="dark_color_summary_lcd">စနစ် နောက်ခံနှင့် အက်ပ် မျက်နှာပြင် အချို့သည် အမည်းရောင်အား သုံးမည်။ အမှောင်မုဒ်သည် အမှောင်ထဲတွင် ဖုန်းသုံးသောအခါ သင့်မျက်လုံးအား ကာကွယ်ပေးနိုင်သည်။</string>
     <string name="dark_color_summary_oled">စနစ် နောက်ခံနှင့် အက်ပ် မျက်နှာပြင် အချို့သည် အမည်းရောင်အား သုံးမည်။ ပါဝါသုံးစွဲမှု လျော့ချနိုင်ပြီး မျက်လုံးအတွက်လည်း ကောင်းပါသည်။</string>
+    <string name="dark_mode_contrast">တောက်ပမှုကို အလိုအလျောက် ချိန်ညှိပါ</string>
+    <string name="dark_mode_contrast_hint">အလင်းရောင်လျှော့ထားချိန်တွင် အလိုအလျောက် အရောင်ချိန်ပြီး တောက်ပမှုကိုလျှော့ပေးပါ</string>
     <string name="dark_ui_mode_title">အပြင်အဆင်သတ်မှတ်ပါ</string>
     <string name="dark_ui_settings_light_summary">ဤဆက်တင်များကို အက်(ပ်)များအတွက်လည်း သုံးမည်</string>
+    <string name="dark_wallpaper_mode">နောက်ခံပုံကို အရောင်ရင့်မုဒ်သို့ ညှိပါ</string>
     <string name="data_usage_disable_wifi_limit">Wi-Fiဒေတာကန့်သတ်ချကိကို သတ်မှတ်မည်</string>
     <string name="data_usage_menu_show_wifi">Wi-Fiအသုံးပြုခြင်းကိုပြသပါ</string>
     <string name="data_usage_metered_body">Wi-Fiကွန်ရက်သည် သယ်သွားနိုင်သော ဟော့စ်ပေါ့ပါသည်။ အက်ပ်များကို ယင်းကွန်ရက်များကိုနောက်ခံတွင်သုံးခြင်းတားမြစ်ခံထားရနိုင်ပါသည်။ ကြီးမားသောဒေါင်းလုဒ်များအတွက် ယင်းကွန်ရက်များကိုသုံးလိုပါက အက်ပ်များကသင့်အား အသိပေးမည်ဖြစ်ပါသည်။</string>
@@ -745,6 +788,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_uninstalled_apps">ဖျက်လိုက်သော အက်ပ်များ</string>
     <string name="data_usage_uninstalled_apps_users">ဖျက်လိုက်သော အက်ပ်နှင့် သုံးစွဲသူများ</string>
+    <string name="datasize_decrease_content">"အဆက်အသွယ်များ၊ မက်ဆေ့(ချ်)များနှင့် စနစ်ဒေတာများကို အရန်သိမ်းစဉ် ချုံ့လိုက်သောကြောင့် အရွယ်သေးသွားခြင်းဖြစ်သည်။
+"</string>
+    <string name="datasize_decrease_title">အရန်သိမ်းဖိုင်အချို့သည် အဘယ်ကြောင့် မူလဖိုင်ထက် သေးရသနည်း။</string>
     <string name="date_time_select_region">ဒေသ</string>
     <string name="date_time_settings">ရက်စွဲ &amp;နှင့် အချိန်</string>
     <string name="day_of_week">ရက်သတ္တပတ်၏နေ့</string>
@@ -770,6 +816,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="default_browser_title">ဘရောက်ဇာ</string>
     <string name="default_browser_title_none">ရွေးမထားပါ</string>
     <string name="default_input_method">သတ်မှတ်ပုံစံ ကီးဘုတ်ကို ရွေးပါ</string>
+    <string name="default_keyboard">မူရင်း</string>
     <string name="default_launcher_set_jeejen_message">Jeejen သတ်မှတ်ရန် ဟုမ်းခလုတ်အား ဖိနှိပ်ပါ</string>
     <string name="default_launcher_set_system_message">နဂိုအတိုင်း ပြန်ဖြစ်စေရန် ဟုမ်းခလုတ်အား ဖိနှိပ်ပါ</string>
     <string name="default_launcher_title">နဂိုမူလ အစပျိုးစက်</string>
@@ -778,6 +825,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="default_suppression_title">မူလအတိုင်း (အကြံပြုသည်)</string>
     <string name="default_usb_mode">USB ဆက်သွယ်မှု</string>
     <string name="delete_fingerprint_confirm_msg">လက်ဗွေအား ဖယ်ရှားမလား?</string>
+    <string name="delete_fingerprint_confirm_title">သတိပြုရန်</string>
     <string name="delete_fingerprint_text">လက်ဗွေအား ဖယ်ရှားမည်</string>
     <string name="delete_legacy_fingerprint">ဖျက်ပစ်မည်</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">ဤလက်ဗွေအား ဖျက်ပစ်မလား?</string>
@@ -788,6 +836,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="demo_mode">အစမ်းမုဒ်</string>
     <string name="demo_mode_summary">အခြေအနေပြ ဘားတန်းတွင် သတ်မှတ်ထားသော အိုင်ကွန်များ ပြပါ</string>
     <string name="detail_app_button">အက်ပ် အချက်အလက်</string>
+    <string name="detail_question">အသေးစိတ်အချက်လက်များ</string>
     <string name="dev_logpersist_clear_warning_message">မှတ်တမ်းသိုလှောင်ခန်းကို မစောင့်ကြည့်စစ်ဆေးတော့ပါက သင့်စက်ထဲရှိ မှတ်တမ်းဒေတာကို အပြီးအပိုင် ဖျက်ပစ်ပါမည်။</string>
     <string name="dev_logpersist_clear_warning_title">မှတ်တမ်း သိုလှောင်ခန်းအား အပြီးအပိုင် ရှင်းပစ်မလား?</string>
     <string name="dev_settings_warning_message">ဤဆက်တင်များသည် ပြုစုသူများအတွက်သာ ဖြစ်သည်။ အသုံးပြုမည်ဆိုပါက သင့်စက်နှင့် စက်ထဲမှ အက်ပ်များအား မှားယွင်းမှုများ ဖြစ်ပေါ်စေနိုင်သည်။</string>
@@ -819,13 +868,16 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="device_miui_version">MIUI ဗားရှင်း</string>
     <string name="device_miui_version_for_POCO">MIUI ဗားရှင်း (POCO အတွက်)</string>
     <string name="device_miui_version_parameters">MIUI ဗားရှင်း</string>
-    <string name="device_miui_version_update">MIUI အပ်ဒိတ် ရနိုင်ပါပြီ</string>
+    <string name="device_miui_version_update">အပ်ဒိတ်လုပ်မည်</string>
     <string name="device_name">ကိရိယာအမည်</string>
     <string name="device_name_input_error">ကိရိယာအမည်ကို သိမ်းမရနိုင်ပါ</string>
     <string name="device_name_input_hint">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="device_name_input_overlength">အက္ခရာကန့်သတ်ချက်ထက်ကျော်သွားပြီ</string>
     <string name="device_name_usage_point">အနီးရှိအခြားစက်မှ ဤစက်အားမြင်နိုင်သော</string>
-    <string name="device_oaid">စက်အိုင်ဒီ</string>
+    <string name="device_oaid">撤回个人信息</string>
+    <string name="device_oaid_desc">MIUI将向三方应用提供虚拟的身份ID(OAID)代替您的真实身份识别，防止应用对您的行为及喜好记录进行追踪，保护您的个人隐私信息</string>
+    <string name="device_oaid_title">虚拟身份ID</string>
+    <string name="device_of_someone">%1$s ၏ %2$s</string>
     <string name="device_rear_camera">အနောက် ကင်မရာ</string>
     <string name="device_screen_resolution">မျက်နှာပြင် ရီဆိုလူးရှင်း</string>
     <string name="device_screen_size">မျက်နှာပြင် အရွယ်အစား</string>
@@ -833,6 +885,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="device_share_loading">ဓာတ်ပုံ ဖန်တီးနေသည်</string>
     <string name="device_total_memory">စုစုပေါင်း သိုလှောင်ခန်း</string>
     <string name="dial_application_title">ခေါ်ဆို</string>
+    <string name="dialog_backup_title">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်းမပြုမီ အရန်သိမ်းခြင်းများကို အပ်ပဒိတ်လုပ်လိုသလား။</string>
     <string name="dialog_chose_item">ပြသရန် အိုင်တမ်တစ်ခု ရွေးပါ</string>
     <string name="dialog_content_login">အသစ်မွမ်းမံရန်သင့် Mi အကောင့်သို့ဝင်မည်လော?</string>
     <string name="dialog_no">မဟုတ်ပါ</string>
@@ -849,6 +902,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dialog_title_hdmi_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
     <string name="dialog_title_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="dialog_yes">ဟုတ်ပါသည်</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">မှတ်ချက်- ဤကီးဘုတ်အား ဖုန်းပိတ်၍ ပြန်စပြီးမှသာ အသုံးပြုနိုင်ပါမည်။</string>
     <string name="disable_overlays">HW ထပ်ဆင့်လွှာအား ပိတ်မည်</string>
     <string name="disable_overlays_summary">မျက်နှာပြင်ပေါင်းစပ်ရန် GPU ကို အမြဲတမ်းသုံးမည်</string>
@@ -879,6 +933,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့် အား အလိုအလျောက် ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -983,30 +1038,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="enabled_authorised_apps_title">ခွင့်ပြုချက် ပေးအပ်ခဲ့သည်</string>
     <string name="enalbe_identify_iPhone">စက် မှတ်ပုံတင်အမှတ်</string>
     <string name="encryption_progress_summary">ကုဒ်ဖွဲ့နေသည်၊ သင်၏စက်ကို ပိတ်၍ပြန်မစပါနှင့်။</string>
+    <string name="enrol_fingerprint_data">လက်ဗွေထည့်ပါ</string>
     <string name="enterprise_mode">လုပ်ငန်းမုဒ်</string>
-    <string name="eq_auto">ကိုယ်တိုင်စီစဉ်မည်</string>
-    <string name="eq_blues">ဘလူးစ်ဂီတ</string>
-    <string name="eq_cancel">ပယ်ဖျက်မည်</string>
-    <string name="eq_classical">ဂန္ထဝင်ဂီတ</string>
-    <string name="eq_country">ကျေးလက်ဂီတ</string>
-    <string name="eq_dance">ဒန့်စ်</string>
-    <string name="eq_delete">ဖယ်ရှားမည်</string>
-    <string name="eq_delete_success">ပြီးပါပြီ</string>
-    <string name="eq_electronic">အီလက်ထရွန်နစ် ဂီတ</string>
-    <string name="eq_flat">ပုံသေ</string>
-    <string name="eq_hiphop">ဟစ်ဟော့ပ်</string>
-    <string name="eq_jazz">ဂျတ်ဇ်ဂီတ</string>
-    <string name="eq_metal">မက်တယ်လ် ဂီတ</string>
-    <string name="eq_ok">အိုကေ</string>
-    <string name="eq_pop">ပေါ့ပ်</string>
-    <string name="eq_preset_create">ဖန်တီးမည်</string>
-    <string name="eq_preset_format">အသုံးပြုသူ ကြိုတင်သတ်မှတ်မှု %d</string>
-    <string name="eq_preset_hint">အထူးဖန်တီးချက် အမည်</string>
-    <string name="eq_preset_rename">အမည်ပြန်ပေးမည်</string>
-    <string name="eq_preset_select">ကြိုတင်သတ်မှတ်မှု တစ်ခု ရွေးပါ</string>
-    <string name="eq_return">နောက်သို့</string>
-    <string name="eq_rock">ရော့ခ်</string>
-    <string name="equalizer">အသံထိန်းညှိစက်</string>
     <string name="erase_application">အက်ပ်စ်များကို ဖျက်ပစ်မည်</string>
     <string name="erase_application_description">ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်စ်များကို ဖျက်ပစ်မည်</string>
     <string name="erase_data">ဖျက်ပစ်မည်</string>
@@ -1022,8 +1055,62 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="expandable_under_keyguard_title">သော့ခတ်မျက်နှာပြင်တွင် ပြပါ</string>
     <string name="external_source_trusted">ခွင့်ပြုထားသည်</string>
     <string name="external_source_untrusted">ခွင့်မပြုပါ</string>
+    <string name="face_data_apply_for_category_title">မျက်နှာဒေတာဖြင့် သော့ဖွင့်ရန်</string>
+    <string name="face_data_apply_for_keyguard_title">သော့ခတ်မျက်နှာပြင်</string>
+    <string name="face_data_input_camera_fail">ကင်မရာကို ဖွင့်၍မရပါ</string>
+    <string name="face_data_input_camera_ok">ကင်မရာကို ဖွင့်နေသည်…</string>
+    <string name="face_data_input_cancel_msg">မျက်နှာဒေတာကို ပေါင်းထည့်၍ မရပါ</string>
+    <string name="face_data_input_ok">ပြီးပါပြီ</string>
+    <string name="face_data_input_ok_title">ပေါင်းထည့်ပြီးပါပြီ</string>
+    <string name="face_data_input_structure_title">3D မျက်နှာဒေတာ</string>
+    <string name="face_data_input_title">မျက်နှာဒေတာ ပေါင်းထည့်မည်</string>
+    <string name="face_data_introduction_msg">မျက်နှာဒေတာသည် သင်၏စက်သော့ဖြည်ခြင်းနှင့် သင်မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုခြင်းများ ပြုလုပ်နိုင်သည်။ သင့်မျက်နှာဒေတာကို မပေါင်းထည့်မီ မျက်နှာပြင်သော့ခတ်ရန် စကားဝှက်တစ်ခု သတ်မှတ်ပါ။</string>
+    <string name="face_data_introduction_next">ရှေ့သို့</string>
+    <string name="face_data_introduction_title">မျက်နှာ အသိအမှတ်ပြုခြင်း</string>
+    <string name="face_data_manage_delete">မျက်နှာဒေတာကို ဖျက်မလား?</string>
+    <string name="face_data_manage_delete_msg">မျက်နှာဒေတာကို ဖျက်မည်</string>
+    <string name="face_data_manage_delete_sure">သင့်မျက်နှာဒေတာကို ဖျက်ပစ်ပါက ယင်းဖြင့် စက်ကိုသော့ဖြည်၍ရမည် မဟုတ်တော့ပါ။</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">မျက်နှာပြင် လင်းလာပါက မျက်နှာဒေတာဖြင့် လော့ခ်ဖြည်ရန် အပေါ်သို့ ဆွဲတင်ပါ။</string>
+    <string name="face_data_manage_unlock_msg">သင့်မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်မည်</string>
+    <string name="face_data_manage_unlock_slide_msg">ဆလိုက်ဒါ ရှော့ကဒ်နေရာတွင် မျက်နှာဖြင့် လော့ခ်ဖြည်ခြင်းကို အစားထိုးမည်</string>
+    <string name="face_data_manage_unlock_title">မျက်နှာဒေတာဖြင့် သော့ဖြည်မည်</string>
+    <string name="face_data_siggesstion_next">ရှေ့သို့</string>
+    <string name="face_data_siggesstion_next_time">နောက်ထပ် (%d စက္ကန့်)</string>
+    <string name="face_data_suggesstion_first">လုံခြုရေး ကိစ္စရပ်များ- မျက်နှာဖြင့် သော့ဖြည်ခြင်းသည် PIN၊ စကားဝှက် သို့မဟုတ် ပုံစံဖြင့် သော့ဖြည်ခြင်းထက် လုံခြုံမှု အဆင့်နိမ့်သည်။ သင်၏စက်သည် သင့်ဓာတ်ပုံ သို့မဟုတ် သင်နှင့်ရုပ်ဆင်သောလူဖြင့် သော့ဖြည်နိုင်သည်။</string>
+    <string name="face_data_suggesstion_second">သင့်မျက်နှာတစ်ခုလုံး မည်သည့်အရာမျှ ဖုံးလွှမ်းထားခြင်းမရှိစေရ။ လုံလောက်သောအလင်းနှင့် ရှင်းလင်းစွာမြင်စေပါ။</string>
+    <string name="face_unlock">မျက်နှာဖြင့် သော့ဖွင့်ခြင်း</string>
+    <string name="face_unlock_be_on_the_screen">သင့်မျက်နှာရှေ့တွင် စက်ကို ကိုင်ထားပါ</string>
+    <string name="face_unlock_by_notification_screen_on_msg">အသိပေးချက်များဝင်လာ၍ မျက်နှာပြင်လင်းသောအခါ မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်နိုင်သည်။ သို့သော် ဘက်ထရီအားကုန်မှု ပိုမြန်စေသည်။</string>
+    <string name="face_unlock_by_notification_screen_on_title">မျက်နှာပြင်လင်းသောအခါ မျက်နှာသော့ဖြည်ခြင်းကို ခွင့်ပြုမည်</string>
+    <string name="face_unlock_category_title">သော့ခတ်မျက်နှာပြင်ရွေးချယ်စရာများ</string>
+    <string name="face_unlock_check_failed">သင့်ကို အသိအမှတ်မပြုနိုင်ပါ</string>
+    <string name="face_unlock_close_screen">မျက်နှာပြင်အနားသို့ ကပ်ပါ</string>
     <string name="face_unlock_disable">မျက်နှာဖြင့် လော့ခ်ဖြည်ခြင်းအား ပိတ်ထားသည်</string>
+    <string name="face_unlock_down">သင့်ခေါင်းကို မော့ပါ</string>
     <string name="face_unlock_enable">မျက်နှာဖြင့် လော့ခ်ဖြည်ခြင်းအား ဖွင့်ထားသည်</string>
+    <string name="face_unlock_not_found">သင့်ကို အသိအမှတ်မပြုနိုင်ပါ</string>
+    <string name="face_unlock_offset_bottom">ဖုန်းကို အောက်သို့ နည်းနည်းချပါ</string>
+    <string name="face_unlock_offset_left">ညာဘက်သို့ ရွှေ့ပါ</string>
+    <string name="face_unlock_offset_right">ဘယ်ဘက်သို့ ရွှေ့ပါ</string>
+    <string name="face_unlock_offset_top">ဖုန်းကို အပေါ်သို့ နည်းနည်းတင်ပါ</string>
+    <string name="face_unlock_open_eye">သင့်မျက်စိကို ကျယ်ကျယ်ဖွင့်ပါ</string>
+    <string name="face_unlock_quality">သင့်မျက်နှာကို ရှင်းလင်းစွာ မတွေ့ရပါ</string>
+    <string name="face_unlock_reveal_eye">သင့်မျက်စိကို မြင်နိုင်စေပါ</string>
+    <string name="face_unlock_reveal_mouth">သင့်နှုတ်ခမ်းကို မြင်နိုင်စေပါ</string>
+    <string name="face_unlock_rise">သင့်ခေါင်းကို ငုံ့ပါ</string>
+    <string name="face_unlock_rotated_left">သင့်ခေါင်းကို ညာဘက်သို့ လှည့်ပါ</string>
+    <string name="face_unlock_rotated_right">သင့်ခေါင်းကို ဘယ်ဘက်သို့ လှည့်ပါ</string>
+    <string name="face_unlock_sc_status">ကင်မရာဖွင့်ရန် မျက်နှာပြင်အား အောက်သို့ ဆွဲပါ</string>
+    <string name="face_unlock_stay_away_screen">မျက်နှာပြင်မှ ၂၅-၄၀ စင်တီမီတာလောက် ခွာပါ</string>
+    <string name="face_unlock_success_show_message_dialog_msg">သော့ခတ်မျက်နှာပြင်တွင် အသိပေးချက်များအား ကြည့်နိုင်ရန် ခွင့်ပြုပါ။</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">မလုပ်ပါ</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">ခွင့်ပြု</string>
+    <string name="face_unlock_success_show_message_dialog_title">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
+    <string name="face_unlock_success_show_message_msg">စက်အား လော့ခ်ချထားပါက အသိပေးချက် အရင်းအမြစ်ကိုသာ ပြပြီး မျက်နှာဒေတာအား အတည်ပြုပြီးနောက် အသိပေးချက်ကို အသေးစိတ် ပြပါ</string>
+    <string name="face_unlock_success_show_message_title">မျက်နှာဒေတာအား အတည်ပြုပြီးနောက် အသိပေးချက်ကို အသေးစိတ် ပြပါ</string>
+    <string name="face_unlock_success_show_message_toast">အသိပေးချက်များကို သော့ခတ်မျက်နှာပြင်တွင် ပြပါမည်</string>
+    <string name="face_unlock_success_stay_screen_msg">မျက်နှာဖြင့် လော့ခ်ဖြည်ပြီးနောက် သော့ခတ်မျက်နှာပြင်ကို ဖွင့်ထားမည်။ ပင်မမျက်နှာပြင် ဝင်ရန် အပေါ်သို့ ပွတ်ဆွဲပါ။</string>
+    <string name="face_unlock_success_stay_screen_title">လော့ခ်ဖြည်ပြီးနောက် သော့ခတ်မျက်နှာပြင်ကိုသာ ဖွင့်ထားပါ</string>
     <string name="factory_reset_summary">သင့်ဖုန်းအတွင်းမှတ်ဉာဏ်မှဒေတာများအားလုံးကိုဖျက်ပစ်မည်</string>
     <string name="failed_to_check_find_device_status_content">စက်ရှာဖွေမှု အခြေအနေအား မစစ်ဆေးနိုင်ခဲ့ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="failed_to_check_find_device_status_title">အခြေအနေအား မစစ်ဆေးနိုင်ခဲ့ပါ</string>
@@ -1034,6 +1121,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="failed_to_shut_down_find_device_title">မပိတ်နိုင်ခဲ့ပါ</string>
     <string name="fallback_home_title">ခဏစောင့်ပါ…</string>
     <string name="feedback">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="feedback_btn_text">တုံ့ပြန်အကြံပြုချက်တင်ရန်</string>
     <string name="feedback_settings">ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုမှု</string>
     <string name="file_privacy_password_role_instruction">သီးသန့် ဖိုင်များအား ဤနေရာတွင် သိမ်းထားပါမည်။</string>
     <string name="filter_apps_cached">ကဒ်ချီ</string>
@@ -1087,7 +1175,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် Wi-Fi ကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="firmware_version">Android ဗားရှင်း</string>
-    <string name="flash_drive_backup_restore">USB ဖြင့် အရန်သိမ်းမည် သို့မဟုတ် ပြန်လည်ရယူမည်</string>
+    <string name="flash_drive_backup_disable">ဦးစွာ USB သိုလှောင်ခန်းနှင့် ချိတ်ပါ</string>
+    <string name="flash_drive_backup_enable">အရန်သိမ်းရန် သို့မဟုတ် ပြန်ယူရန် USB သိုလှောင်ခန်းသုံးပါ</string>
+    <string name="flash_drive_backup_restore">USB သိုလှောင်ခန်း</string>
     <string name="flash_drive_backup_restore_summary">USB ဖြင့် ချိတ်ဆက်ပါ</string>
     <string name="floating_window_switch_label">ဖလုတ်ဖြစ်နေသော ဝင်းဒိုးများကို ဖွင့်မည်</string>
     <string name="floating_window_switch_label_disable">ဖလုတ်ဖြစ်နေသော ဝင်းဒိုးများကို ပိတ်မည်</string>
@@ -1155,6 +1245,19 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="free_wifi_user_agreement_title">ပုဂ္ဂိုလ်ရေးရာသတိပေးချက်</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">%1$s သို့ဆက်သွယ်ရန်ထိနှိပ်ပါ</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">မျောလွင့်အကွက်၏ အက်ရှင်ဘားကို ထိ၍ဖိထားပြီး အောက်သို့ ဆွဲချပါ</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">မျောလွင့်အကွက်များကို မျက်နှာပြင်အပြည့်မုဒ်တွင် ကြည့်ခြင်း</string>
+    <string name="freeform_guide_move_summary">ဆွဲယူလိုသော မျောလွင့်အကွက်၏ အက်ရှင်ဘားကို ထိပြီးဖိထားပါ</string>
+    <string name="freeform_guide_move_title">မျော့လွင့်အကွက်များကို ဟိုသည်ရွှေ့ခြင်း</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">မျောလွင့်အကွက်ကို မျက်နှာပြင်၏ ထောင့်သို့ ဆွဲယူပါ</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">မျောလွင့်အကွက်များကို ချုံ့ထားခြင်း</string>
+    <string name="freeform_guide_notification_drop_down_summary">အသိပေးချက်၏ အက်ရှင်ဘားကို ထိ၍ဖိထားပြီး အောက်သို့ ဆွဲချပါ</string>
+    <string name="freeform_guide_notification_drop_down_title">မျောလွင့်အကွက်များ ဖွင့်ရန်</string>
+    <string name="freeform_guide_settings">မျောလွင့် အကွက်</string>
+    <string name="freeform_guide_slide_up_to_close_summary">မျောလွင့်အကွက်၏ အက်ရှင်ဘားမှ အပေါ်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="freeform_guide_slide_up_to_close_title">မျောလွင့်အကွက်များကို ပိတ်ခြင်း</string>
+    <string name="freeform_vedio_description">"အသိပေးချက်တစ်ခုကို မျောလွင့်အကွက်တွင်ဖွင့်ရန်အတွက် ထိ၍ဖိထားပြီး အောက်သို့ ဆွဲချရပါမည်။
+အက်(ပ်)များရွေးရန် လတ်တလောများအောက်တွက် \"မျောလွင့်အကွက်များ\" ကို တို့ပါ။"</string>
     <string name="frequently_fragment_delete">ဖယ်ရှားပါ</string>
     <string name="frequently_fragment_tempty">အသုံးများသော အမယ်များကို ဤနေရာတွင်စာရင်းလုပ်ထားမည်</string>
     <string name="fsg_mistake_touch_summary">အောက်ပါအခြေအနေများတွင် (မျက်နှာပြင်အပြည့် ဂိမ်းကစားခြင်းနှင့် ဗီဒီယိုကြည့်ခြင်း) လက်ဟန်များအတွက် နှစ်ကြိမ် ပွတ်ဆွဲရမည်</string>
@@ -1170,7 +1273,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="game_booster">ဂိမ်း;ဂိမ်းများ;အရှိန်မြှင့်;ဂိမ်းကစားခြင်း;ဂိမ်းမုဒ်</string>
     <string name="game_booster_title">ဂိမ်း အရှိန်မြှင့်ခြင်း</string>
     <string name="gesture_wakeup_summary">မူလအပြင်အဆင် သို့မဟုတ် ဂန္ထဝင်အပြင်အဆင်ကို သုံးထားချိန်တွင် နှစ်ချက်တို့ပြီး ဖန်သားပြင်ကိုပိတ်နိုင်သည်</string>
-    <string name="gesture_wakeup_title">နှိုးရန် နှစ်ကြိမ်ခေါက်ပါ</string>
+    <string name="gesture_wakeup_title">မျက်နှာပြင်အား ဖွင့်ရန်/ပိတ်ရန် နှစ်ချက် ထိနှိပ်ပါ</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">ယင်းဆက်တင်သည် ဤဖုန်း၏သုံးစွဲသူအားလုံးအပေါ် အကျိုးသက်ရောက်မည်။</string>
@@ -1200,6 +1303,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="gxzw_add_fingerprint_put_finger_message">မျက်နှာပြင်ကို ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ။ ထပ်ခါလုပ်ပါ။</string>
     <string name="gxzw_add_fingerprint_put_finger_title">ဖိထားပါ၊ တုန်ခါလာပါက လက်ချောင်းအား မ ပါ</string>
     <string name="gxzw_add_fingerprint_title">လက်ဗွေ ပေါင်းထည့်ပါ</string>
+    <string name="gxzw_anim_aurora">ရောင်စဉ်</string>
     <string name="gxzw_anim_light">နီယွန်အလင်း</string>
     <string name="gxzw_anim_pulse">သွေးခုန်နှုန်း</string>
     <string name="gxzw_anim_rhythm">စည်းချက်</string>
@@ -1212,7 +1316,13 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="gxzw_dialog_ok">နားလည်ပါပြီ</string>
     <string name="gxzw_dialog_title">စခရင် လက်ဗွေအာရုံခံကိရိယာ အကြောင်း</string>
     <string name="gxzw_enroll_again">သင်၏ လက်ချောင်းအား မ၍ လက်ဗွေ စကန်နာအား ပြန်ဖိပါ</string>
-    <string name="gxzw_quick_open_title" />
+    <string name="gxzw_quick_open_enable_summary">စက် လော့ခ်ချထားစဥ် အက်ပ်များ ဖွင့်ရန် သို့မဟုတ် အက်ပ်အင်္ဂါရပ် သုံးရန် ရှော့ကဒ်အား အသုံးပြုနိုင်ပါသည်</string>
+    <string name="gxzw_quick_open_enable_title">လက်ဗွေ ရှော့ကဒ်များ</string>
+    <string name="gxzw_quick_open_fast_summary">စက် လော့ခ်ချထားစဥ် ရှော့ကဒ်သို့ ပွတ်ဆွဲ၍ အက်ပ်အား ဖွင့်နိုင်ပါသည်။</string>
+    <string name="gxzw_quick_open_fast_title">အမြန် ဖွင့်ခြင်း (အဆင့်မြင့်)</string>
+    <string name="gxzw_quick_open_slow_summary">ရှော့ကဒ် မီနူး ဖွင့်ရန် လက်ဗွေအိုင်ကွန်အား ဖိပြီး နှိပ်ထားပါ။ သုံးရန် ရှော့ကဒ်သို့ ပွတ်ဆွဲပါ။</string>
+    <string name="gxzw_quick_open_slow_title">ဖိပြီးထိနှိပ်ထားပါ</string>
+    <string name="gxzw_quick_open_title">ရှော့ကဒ်များ</string>
     <string name="handy_mode">လက်တစ်ဖက်သုံးမုဒ်</string>
     <string name="handy_mode_enable">လက်တစ်ဖက်သုံးမုဒ်</string>
     <string name="handy_mode_size">မျက်နှာပြင်အရွယ်အစား</string>
@@ -1240,6 +1350,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="header_category_accounts">အကောင့်များ</string>
     <string name="header_category_wireless_networks">ကြိုးမဲ့ &amp; ကွန်ရက်များ</string>
     <string name="headset_settings_title">အသံ ဖန်တီးချက်များ</string>
+    <string name="help_and_feedback_title">အကူအညီနှင့် တုံ့ပြန်အကြံပြုချက်</string>
     <string name="high_performance_notif_summary">လွန်ကဲစွာ အသုံးပြုပါက စက်ပူနိုင်သည်။</string>
     <string name="high_performance_notif_title">လုပ်ဆောင်ရည်မုဒ်အား ဖွင့်ထားပါသည်</string>
     <string name="high_performance_title">ဘန့်ချ်မှတ်စမ်းသပ်ခြင်းကိုလုပ်ဆောင်နေသည်ဟုထင်ရပါသည်။ ပိုကောင်းသော ရလဒ်အတွက် ပါဝါစီမံခန့်ခွဲခြင်းကို လုပ်ဆောင်ချက်သို့ သတ်မှတ်မည်</string>
@@ -1247,6 +1358,42 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="home_app">အစပျိုးစက်</string>
     <string name="home_key">ပင်မ</string>
     <string name="home_title">ပင်မမျက်နှာပြင်</string>
+    <string name="how_backup_content">"ဌာနေ သို့မဟုတ် ကလောက်တွင် အရန်သိမ်းခြင်းများကို သိမ်းနိုင်သည်။ ဌာနေအရန်သိမ်းခြင်းများကို မိုဘိုင်းစက်ပစ္စည်း၊ ကွန်ပျူတာ သို့မဟုတ် USB သိုလှောင်ခန်းတွင် သိမ်းထားနိုင်သည။
+
+မိုဘိုင်းစက်ပစ္စည်း
+စနစ်ဆက်တင်များ၊ အကောင့်များ၊ အက်(ပ်)ဒေတာနှင့် အခြားအရာများကို သင့်စက်ရှိ သီးခြားဖိုင်တစ်ခုတွင် သိမ်းနိုင်သည် (MIUI-backup-AllBackup)။ မှတ်ချက် - စက်ရုံထုတ်အခြေအနေသို့ သတ်မှတ်ခြင်းအားဖြင့် အဆိုပါအရန်သိမ်းခြင်းများကို အပြီးဖျက်လိုက်ပါမည်။ အရန်သိမ်းခြင်းများကို ကွန်ပျူတာတွင် ကူးထားရန် သတိရပါ။
+
+ကွန်ပျူတာ
+အရန်သိမ်းခြင်းကို ဤစက်တွင် ပြုလုပ်ပြီး MIUI-backup-AllBackup သို့ သွားကာ ၎င်းအရန်သိမ်းခြင်းကို ကွန်ပျူတာထဲသို့ USB ကြိုးသုံးပြီး ကူးထည့်ပါ။
+
+USB သိုလှောင်ခန်း
+စနစ်ဆက်တင်များ၊ အကောင့်များ၊ အက်(ပ်)ဒေတာနှင့် အခြားအရာများကို USB သိုလှောင်ခန်းတွင် သိမ်းနိုင်သည်။
+
+Xiaomi ကလောက်
+သင့်အဆက်အသွယ်များ၊ ဓာတ်ပုံများ၊ ဗီဒီယိုများ၊ အက်(ပ်)စာရင်း၊ စနစ်ဆက်တင်များနှင့် ပင်မစာမျက်နှာအပြင်အဆင်များကို ကလောက်နှင့် ဆင့်(ခ်)လုပ်နိုင်သည်။"</string>
+    <string name="how_backup_title">အရန်သိမ်းခြင်း ပြုလုပ်နည်း။</string>
+    <string name="how_encrypt_content">"စက်အတွင်း အရန်သိမ်းခြင်းများကိုသာ ကုဒ်ဖွဲ့နိုင်သည်။ လုပ်နည်း အချို့ရှိပါသည် - 
+က။ သင့်ဌာနေအရန်သိမ်းဖိုင်များရှိသော စာမျက်နှာတွင် ဆက်တင်များ > အပိုဆက်တင်များသို့ သွားပါ၊ ခလုတ်နှိပ်ပြီး ကုဒ်ဖွဲ့ခြင်းကို ဖွင့်ပါ၊ သင့် Mi အကောင့်သို့ ဝင်ပါ။ ၎င်းနောက် အရန်သိမ်းခြင်းများကို အလိုအလျောက် ကုဒ်ဖွဲ့လိုက်ပါမည်။ ကုဒ်ဖွဲ့ထားသော အရန်သိမ်းဖိုင်များကို ပြန်ယူရန် Mi အကောင့်သို့ ပြန်ဝင်ရပါမည်။
+ခ။ အရန်သိမ်းရာတွင် Mi PC Suite ကို သုံးပါက ထိုနေရာရှိ ကုဒ်ဖွဲ့နည်းများကို သုံးနိုင်သည်။
+
+သတိပြုရန် - 
+ကုဒ်ဖွဲ့ထားသော အရန်သိမ်းခြင်းများအတွက် စကားဝှက်ကို မှတ်မိရပါမည်။ စကားဝှက်မေ့သွားပါက ကုဒ်ပြန်ဖြည်၍ မရပါ။
+"</string>
+    <string name="how_encrypt_title">အရန်သိမ်းခြင်းများတွင် ကုဒ်ဖွဲ့နည်း။</string>
+    <string name="how_restore_backup_content">"အရန်သိမ်းထားသောအရာများကို နည်းလမ်းအမျိုးမျိုးသုံးပြီးပြန်ယူနည်း - 
+
+မိုဘိုင်းစက်ပစ္စည်း
+\"မိုဘိုင်းစက်ပစ္စည်း\" ကိုတို့၍ ဒေတာပြန်ယူမည်ကို ရှာပြီး အရန်သိမ်းခြင်းကိုရွေးပြီး ရှေ့ဆက်ပါ။
+
+ကွန်ပျူတာ
+သင့်ကွန်ပျူတာထဲမှ အရန်သိမ်းခြင်းများကို MIUI-backup-AllBackup သို့ USB ကြိုးဖြင့် ကူးပြီး သင့်မိုဘိုင်းမှအရာများကို ပြန်ယူပါ။
+
+USB သိုလှောင်ခန်း
+သင့် USB သိုလှောင်ခန်းမှ အရန်သိမ်းခြင်းများကို MIUI-backup-AllBackup သို့ ကူးပြီး USB သိုလှောင်ခန်းမှအရာများကို ပြန်ယူရန်အား ရွေးပြီးရှေ့ဆက်ပါ။
+
+Xiaomi ကလောက်
+Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမှအရာများကို ပြန်ယူပါ။"</string>
+    <string name="how_restore_backup_title">အရန်သိမ်းထားသောအရာများကို ပြန်ယူနည်း။</string>
     <string name="http_invoke_app">ဝက်ဘ်အက်ပ်အသစ်များ</string>
     <string name="http_invoke_app_summary">အက်ပ်များအား မတပ်ဆင်ဘဲနှင့် ပိုမိုလျှင်မြန်စွာ ဖွင့်ပါ</string>
     <string name="ime_security_warning">%1$sသည် သင်ရိုက်ထည့်သော စကားဝှက်များ၊ ခရက်ဒစ်ကဒ် နံပါတ်များနှင့် အခြားကိုယ်ရေးဒေတာများကို မှတ်ထားနိုင်သည်။</string>
@@ -1272,21 +1419,28 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="infinity_display_slogan">မျက်နှာပြင်အပြည့်ရဲ့ နောက်ထပ် ဆန်းသစ်တီထွင်မှုများ</string>
     <string name="infinity_display_title">မျက်နှာပြင်အပြည့် ပြပါ</string>
     <string name="information_dialog_button_text">နားလည်ပါပြီ</string>
-    <string name="input_hint_prefix">%1$s အား ရိုက်ထည့်ပါ</string>
     <string name="input_method">ကီးဘုတ်</string>
     <string name="input_method_bottom_close">ပိတ်ရန်</string>
     <string name="input_method_bottom_open">ဖွင့်ရန်</string>
-    <string name="input_method_function_clipboard">ကလစ်ဘုတ်နှင့် သုံးနေကျစကားစုများ</string>
-    <string name="input_method_function_clipboard_des">ကလစ်ဘုတ်ရှိအရာများနှင့် သုံးနေကျစကားစုများကို ကြည့်ရန် တို့ပါ</string>
-    <string name="input_method_function_no_function">တစ်ခုမျှမရှိပါ</string>
-    <string name="input_method_function_no_function_des">ဖြတ်လမ်းဖိုင်များ မပြပါနှင့်</string>
-    <string name="input_method_function_switch">ကီးဘုတ်တစ်ခုမှ တစ်ခုသို့ပြောင်းရန်</string>
-    <string name="input_method_function_switch_des">ကီးဘုတ်ပြောင်းရန် တို့ပါ</string>
-    <string name="input_method_function_voice">အသံထည့်စနစ်</string>
-    <string name="input_method_function_voice_des">အသံထည့်စနစ်သုံးရန် တို့ပါ</string>
-    <string name="input_method_function_xiaoai">Mi AI အသံထည့်စနစ်</string>
-    <string name="input_method_function_xiaoai_des">Mi AI အသံထည့်စနစ်သုံးရန် တို့ပါ</string>
+    <string name="input_method_clipboard_settings">ကလစ်ဘုတ်ဆက်တင်များ</string>
+    <string name="input_method_cloud_data_title">ကလောက်ကလစ်ဘုတ်</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">ကလောက်ကလစ်ဘုတ်တွင် အကြောင်းအရာအသစ်တစ်ခု ပေါ်လာတိုင်း ပူစီဖောင်းတစ်လုံးတက်လာပါမည်။ ကူးထားသော အရာများကို ထည့်ရန် ၎င်းပူစီဖောင်းကို တို့ပါ။</string>
+    <string name="input_method_cloud_paste_mode_bubble_title">ပူစီဖောင်း</string>
+    <string name="input_method_cloud_paste_mode_no_des">ကလောက်ကလစ်ဘုတ်တွင် အကြောင်းအရာအသစ်တစ်ခု ပေါ်လာလျှင် သင့်ထံ အသိပေးချက် ရောက်မည် မဟုတ်ပါ။ သို့သော် ၎င်းသင်္ကေတကို နှိပ်ပြီး သင့်ကလစ်ဘုတ်ကို သုံးနိုင်ပါသည်။</string>
+    <string name="input_method_cloud_paste_mode_no_title">တစ်ခုမျှ မရှိပါ</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">ကလောက်ကလစ်ဘုတ်တွင် အကြောင်းအရာအသစ်တစ်ခု ပေါ်လာတိုင်း ကီးဘုတ်အောက်ခြေတွင် အနီစက် တစ်စက် တွေ့ပါမည်။ ကလစ်ဘုတ်ဖွင့်ရန်နှင့် ကူးထားသော အရာများကို သုံးရန် ၎င်းသင်္ကေတကို တို့ပါ။</string>
+    <string name="input_method_cloud_paste_mode_red_point_title">အနီစက်</string>
     <string name="input_method_manage">ကီးဘုတ် စီမံခန့်ခွဲရန်</string>
+    <string name="input_method_quick_access">အမြန်ဖတ်ရန်</string>
+    <string name="input_method_quick_cloud_mode_title">ကလစ်ဘုတ်ရှိ အကြောင်းအရာအသစ်များအကြောင်း အသိပေးချက်များ</string>
+    <string name="input_method_quick_cloud_summary">တွဲသုံးနိုင်သောကွန်ပျူတာများမှ အရာများကို ကော်ပီကူးပြီး သင့်ဖုန်းတွင် ပေ့လုပ်ပါ</string>
+    <string name="input_method_quick_cloud_title">ကလောက်ကလစ်ဘုတ်</string>
+    <string name="input_method_quick_paste_summary">ကလစ်ဘုတ်သင်္ကေတကို နှိပ်ပြီး ကူးထားသော အရာများကို ကြည့်ပါ</string>
+    <string name="input_method_quick_paste_title">အမြန်ပေ့လုပ်ရန်</string>
+    <string name="input_method_quick_taobao_summary">ကလစ်ဘုတ်သင်္ကေတကို နှိပ်ပြီး ကူးထားသော Taobao လင့်များကို ဖွင့်ပါ</string>
+    <string name="input_method_quick_taobao_title">Taobao လင့်များ</string>
+    <string name="input_method_quick_url_summary">ကလစ်ဘုတ်သင်္ကေတကို နှိပ်ပြီး ကူးထားသော URL များကို ဖွင့်ပါ</string>
+    <string name="input_method_quick_url_title">ဝက်ဘဆိုက်များ</string>
     <string name="input_method_settings_text">ဆက်တင်များ</string>
     <string name="input_pattern_hint_text">သော့ဖွင့်ပုံစံအား ဆွဲပါ</string>
     <string name="input_settings">ထည့်သွင်း ဆက်တင်များ</string>
@@ -1362,6 +1516,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="layout_exhuge_font_tips_reg">ဝင်သုံးခွင့် > ပြသမှု အရွယ်အစား</string>
     <string name="layout_size_exhuge">XXL</string>
     <string name="layout_size_exhuge_text">XXL</string>
+    <string name="layout_size_extral_small">XXS</string>
     <string name="layout_size_huge">XL</string>
     <string name="layout_size_huge_text">အလွန်ကြီးသော</string>
     <string name="layout_size_large">L</string>
@@ -1405,7 +1560,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="local_backup_password_toast_success">အရန် စကားဝှက် အသစ် သတ်မှတ်ပြီးပါပြီ</string>
     <string name="local_backup_password_toast_validation_failure">အရန်စကားဝှက်အား သတ်မှတ်၍ မရပါ</string>
     <string name="local_backup_section_summary">သိုလှောင်မှုဆက်တင်များ</string>
+    <string name="local_backup_section_summary_new">အကောင့်များ၊ အက်(ပ်)ဒေတာ၊ စနစ်ဆက်တင်များနှင့် အခြားအရာများကို အရန်သိမ်းရန်</string>
     <string name="local_backup_section_title">စက်အတွင်း အရန်သိမ်းခြင်း</string>
+    <string name="local_backup_section_title_new">ဤစက်တွင်</string>
     <string name="locale_settings">ဒေသ</string>
     <string name="location_access_summary">အက်ပ်စ်က သင့်တည်နေရာအချက်လက်ကိုယူသုံးနိုင်ပါသည်</string>
     <string name="location_access_title">တည်နေရာကြည့်ရှုမှု</string>
@@ -1463,16 +1620,17 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="lockpassword_choose_for_second_user">ဒုတိယနေရာစကားဝှက်အား သတ်မှတ်ပါ</string>
     <string name="lockpassword_choose_lock_generic_header">မျက်နှာပြင်လော့ခ်အား ရွေးချယ်ပါ</string>
     <string name="lockpassword_choose_your_password_header">စကားဝှက်တစ်ခု သတ်မှတ်ပါ</string>
-    <string name="lockpassword_choose_your_password_second_space">"ဒုတိယနေရာအတွက် 
- စကားဝှက်အား သတ်မှတ်ပါ"</string>
+    <string name="lockpassword_choose_your_password_second_space">"ဒုတိယနေရာအတွက် PIN သတ်မှတ်ပါ။
+ဤ PIN တွင် ပါရှိသော ဂဏန်းအရေအတွက်မှာ
+ ပထမနေရာ၏ PIN နှင့် တူရမည်။"</string>
     <string name="lockpassword_choose_your_pattern_header">သော့ဖွင့်ပုံစံကို သတ်မှတ်ပါ</string>
-    <string name="lockpassword_choose_your_pin_header">သင့်PINအား သတ်မှတ်ပါ</string>
+    <string name="lockpassword_choose_your_pin_header">PIN နံပါတ် သတ်မှတ်ပါ</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"ဒုတိယနေရာအတွက် 
  PINအား သတ်မှတ်ပါ"</string>
     <string name="lockpassword_choose_your_pin_title" formatted="false">နံပါတ် %d-%d လုံးအထိ ရိုက်ထည့်ပါ</string>
     <string name="lockpassword_confirm_for_second_user">ဒုတိယနေရာအတွက် စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_passwords_dont_match">စကားဝှက် မကိုက်ညီပါ</string>
-    <string name="lockpassword_confirm_pins_dont_match">PINs မကိုက်ညီပါ</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN မကိုက်ညီပါ</string>
     <string name="lockpassword_confirm_workspace_password">အလုပ်နေရာစကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_lock_password_header">စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">သော့ဖွင့်ပုံစံအား အတည်ပြုပါ</string>
@@ -1480,9 +1638,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="lockpassword_confirm_your_password_generic_profile">ဆက်လက်လုပ်ဆောင်ရန် အလုပ် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="lockpassword_confirm_your_password_header">စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_pattern_generic">ဆက်လက်လုပ်ဆောင်ရန် သော့ဖွင့်ပုံစံကို သုံးပါ။</string>
-    <string name="lockpassword_confirm_your_pattern_header">ပုံဖော်မှုအား အတည်ပြုပါ</string>
+    <string name="lockpassword_confirm_your_pattern_header">သော့ဖွင့်ပုံစံအား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_pin_generic">ဆက်လက်လုပ်ဆောင်ရန် ဖုန်း PIN အား ရိုက်ထည့်ပါ။</string>
-    <string name="lockpassword_confirm_your_pin_header">PINအား အတည်ပြုပါ</string>
+    <string name="lockpassword_confirm_your_pin_header">PIN အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_private_password_header">စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_private_pattern_header">သော့ဖွင့်ပုံစံအား အတည်ပြုပါ</string>
     <string name="lockpassword_invalid_password">စကားဝှက် မှားနေသည်</string>
@@ -1490,13 +1648,13 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="lockpassword_ok_label">အိုကေ</string>
     <string name="lockpassword_password_set_toast">စကားဝှက် သတ်မှတ်ပြီးပါပြီ</string>
     <string name="lockpassword_pattern_set_toast">သော့ဖွင့်ပုံစံ သတ်မှတ်ပြီးပါပြီ</string>
-    <string name="lockpassword_pin_contains_non_digits">ပင်တွင် နံပါတ်များသာပါနိုင်သည်</string>
-    <string name="lockpassword_pin_recently_used">စက်အုပ်ချုပ်သူသည် PINသော့ဖြည်အား ခွင့်မပြုပါ</string>
-    <string name="lockpassword_pin_set_toast">ပင်ကို သတ်မှတ်ပြီးပါပြီ</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN တွင် နံပါတ်များသာပါနိုင်သည်</string>
+    <string name="lockpassword_pin_recently_used">စက်အုပ်ချုပ်သူသည် PIN သော့ဖြည်ရန် ခွင့်မပြုပါ</string>
+    <string name="lockpassword_pin_set_toast">PIN သတ်မှတ်ပြီးပါပြီ</string>
     <string name="lockpassword_pin_too_long">PIN သည် ဂဏန်း %d ခုထက်နည်းရမည်</string>
     <string name="lockpassword_pin_too_short">PIN မှာအလုံးရေ %dလုံး ဖြစ်ရပါမည်</string>
     <string name="lockpattern_change_lock_pattern_label">သော့ဖွင့်ပုံစံအား ပြောင်းမည်</string>
-    <string name="lockpattern_change_lock_pin_label">ပင်ကို ပြောင်းလဲမည်</string>
+    <string name="lockpattern_change_lock_pin_label">PIN ပြောင်းမည်</string>
     <string name="lockpattern_confirm_button_text">အတည်ပြုမည်</string>
     <string name="lockpattern_continue_button_text">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="lockpattern_need_to_confirm">သော့ဖွင့်ပုံစံကို အတည်ပြုရန် နောက်တစ်ကြိမ်ထပ်ဆွဲပါ-</string>
@@ -1528,7 +1686,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="lockscreen_glogin_submit_button">ဆိုင်းအင်ဝင်ခြင်း</string>
     <string name="lockscreen_label">မျက်နှာပြင်သော့</string>
     <string name="lockscreen_magazine">နောက်ခံပုံ လှည့်ပြခြင်း</string>
-    <string name="lockscreen_magazine_summary">အရည်အသွေးမြင့်သော နောက်ခံပုံ လှည့်ပြခြင်း</string>
+    <string name="lockscreen_magazine_india">Mi အတွက် Glance</string>
+    <string name="lockscreen_magazine_summary">သင့်ထံ နေ့စဥ်ပေးပို့လျက်ရှိသည့် ရင်သပ်ရှုမောဖွယ် ရုပ်ပုံများနှင့် စိတ်ဝင်စားဖွယ် ပုံပြင်များ</string>
     <string name="lockscreen_magazine_title">နောက်ခံပုံ လှည့်ပြခြင်း</string>
     <string name="login_account_dialog_message">Mi အကောင့်သို့ ဝင်ပြီး ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်ကို ဖွင့်ပါ။</string>
     <string name="login_account_dialog_title">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
@@ -1560,7 +1719,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="managed_user_title">အလုပ်အက်ပ် အားလုံး</string>
     <string name="manually_add_network">ကွန်ရက်ထည့်မည်</string>
     <string name="master_clear_all">ဖုန်း အတွင်းပိုင်း သိုလှောင်ခန်းရှိ ဒေတာ အားလုံးကို ဖျက်မလား? သတိ- ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်၍ မရပါ!</string>
-    <string name="master_clear_apply_step_1"><b>စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ခြင်း သည် ဖုန်းထဲရှိ </b>ဓာတ်ပုံများ၊ သီချင်းများ၊ မှတ်စုများနှင့် အခြား ကိုယ်ရေးအချက်အလက်များ အပါအဝင် ဒေတာအားလုံးကို ဖျက်ပစ်ပါလိမ့်မည်။ အရေးကြီးသော အိုင်တမ်များအား သင့်ကွန်ပျူတာတွင် အရန်သိမ်းထားပါ။</string>
+    <string name="master_clear_apply_step_1"><b>\"စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ခြင်း\" သည် ဖုန်းထဲရှိ </b>ဓာတ်ပုံများ၊ သီချင်းများ၊ မှတ်စုများနှင့် အခြား ကိုယ်ရေးအချက်အလက်များ အပါအဝင် ဒေတာအားလုံးကို ဖျက်ပစ်ပါလိမ့်မည်။ အရေးကြီးသော အိုင်တမ်များအား သင့်ကွန်ပျူတာတွင် အရန်သိမ်းထားပါ။</string>
     <string name="master_clear_apply_step_2">အရေးကြီးသော အိုင်တမ်အားလုံးကို သင့်ကွန်ပျူတာတွင် အရန်သိမ်းထားပါ။ စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်နေစဉ် ဤစက်ထဲရှိဒေတာအားလုံး ပျက်သွားပါလိမ့်မည်။<b>အရန်သိမ်းမထားသော ဒေတာများအား ပြန်လည်ရယူနိုင်မည် မဟုတ်ပါ။</b></string>
     <string name="master_clear_apply_title">သတိပြုရန်</string>
     <string name="master_clear_erase_application_progress">အက်ပ်များအား ဖျက်နေပါသည်…</string>
@@ -1568,6 +1727,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="master_clear_personal_data_application">သင့်ကိုယ်ရေးအချက်လက် နှင့် ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များကို ဖျက်မလား? သတိ- ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်၍ မရပါ!</string>
     <string name="master_clear_personal_data_sdcard">သင့်ကိုယ်ရေးအချက်လက် နှင့် အကြောင်းအရာများကို ဖျက်မလား? သတိ- ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်၍ မရပါ!</string>
     <string name="master_clear_title">ဒေတာအားလုံးဖျက်ရန် (စက်ရုံထုတ်အခြေအနေသို့ ပြန်ထားရန်)</string>
+    <string name="master_clear_title_new">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်း</string>
     <string name="max_aspect_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="max_cpu10_info">"Hexa-core Max "</string>
     <string name="max_cpu2_info">Dual-core Max</string>
@@ -1575,6 +1735,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="max_cpu6_info">"Hexa-core Max "</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">လက်ဗွေ ၅ ခုထက် ပိုပေါင်းထည့်၍ မရပါ။ လက်ဗွေအသစ်တစ်ခု ပေါင်းထည့်လိုပါက ရှိပြီးသားလက်ဗွေတစ်ခုကို ဦးစွာဖျက်ပစ်ပါ။</string>
+    <string name="max_fingerprint_reached_toast">လက်ဗွေ ၅ ခုအထိ ထည့်နိုင်သည်</string>
     <string name="media_button">မီဒီယာခလုတ်</string>
     <string name="media_category">မီဒီယာ</string>
     <string name="media_feedback_enable_title">ရိုက်ချက်ဖွင့် တုန်ခါမည်</string>
@@ -1598,13 +1759,19 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="mi_shopping_mall">Mi စတိုး</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Mi Pay အကောင့်</string>
+    <string name="micloud_service_summary">အက်(ပ်)စာရင်း၊ အရန်သိမ်းခြင်းစနစ်များနှင့် ပင်မမျက်နှာပြင်အပြင်အဆင်များကို ဆင့်(ခ်)လုပ်ရန်</string>
+    <string name="micloud_service_title">Xiaomi ကလောက်</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
+    <string name="miui_accessibility_asr_summary">အသံကို စာသားပြောင်းပြီး စာသားကို သိမ်းပါ</string>
+    <string name="miui_accessibility_asr_title">Mi Ditto</string>
     <string name="miui_allow_alarm">နှိုးစက်များ</string>
     <string name="miui_allow_light">အသိပေးချက် မီး</string>
     <string name="miui_allow_music">မီဒီယာ</string>
     <string name="miui_allow_vibrate">တုန်ခါမှုများ</string>
     <string name="miui_data_usage_menu_metered">မိုဘိုင်း ဟော့စ်ပေါ့များ</string>
     <string name="miui_experience_optimization">MIUI ပိုမိုကောင်းမွန်ရေးကို ဖွင့်မည်</string>
+    <string name="miui_face_enroll_success">"သင့်မျက်နှာဒေတာသုံးပြီး ဤစက်ကို ယခု သော့ပိတ်နိုင်ပါသည်။
+အပိုဆောင်းဆက်တင်များကို ဆက်ဖတ်ပါ။"</string>
     <string name="miui_input_method_settings">စာရိုက်ထည့်နည်း ဆက်တင်</string>
     <string name="miui_lab_ai_cloud_closed">AI ကြိုတင်လုပ်ဆောင်ခြင်း မရနိုင်သေးပါ။</string>
     <string name="miui_lab_ai_preload_desc">AI ကြိုတင်လုပ်ဆောင်ခြင်းသည် အက်ပ်စတင်ရာတွင် ပိုမြန်စေသည်</string>
@@ -1729,74 +1896,32 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="msd_pc_system_install_summary_xp">1. ထည့်သွင်းရန် setup.exe ကို သုံးပါ။</string>
     <string name="msg_wlan_signal_found">%s သို့ဆက်သွယ်မည်လော?</string>
     <string name="msim_sim_radio_off">ပိတ်မည်။</string>
+    <string name="mtp_connection_failed">ဖိုင်များကို ချိတ်ထားသော ကွန်ပျူတာသို့ ရွှေ့မရပါ။ ပြဿနာ စိစစ်အဖြေရှာကြည့်ပါ။</string>
+    <string name="mtp_connection_failed_title">USB ချိတ်ဆက်မှု</string>
+    <string name="mtp_connection_not_remind">ထပ်မပြပါနှင့်</string>
+    <string name="mtp_solution_button_cancel">ရပါပြီ</string>
+    <string name="mtp_solution_button_ok">ပြဿနာစိစစ်အဖြေရှာခြင်း</string>
+    <string name="multi_face_delete_message">သတိပြုရန်</string>
+    <string name="multi_face_delete_show_message">မျက်နှာဒေတာကို ယခု ဖျက်လိုပါသလား။</string>
+    <string name="multi_face_input">မျက်နှာဒေတာထည့်ရန်</string>
+    <string name="multi_face_input_reach_upper_limit">မျက်နှာဒေတာ ထည့်မရပါ။ တစ်မိနစ် နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ပါ။</string>
+    <string name="multi_face_input_success_name_title">အမည်</string>
+    <string name="multi_face_list">မျက်နှာဒေတာ</string>
+    <string name="multi_face_name_prefix">"မျက်နှာ "</string>
+    <string name="multi_face_number_reach_limit">မျက်နှာ ၂ ခုထက် ပိုပြီး ဒေတာထည့်မရပါ</string>
     <string name="multi_network_acceleration_app_settings">အက်(ပ်)များအတွက် ကွန်ရက်မြှင့်စနစ်</string>
     <string name="multi_touch_points_category_title">နေရာစုံထိပွိုင့်များ</string>
     <string name="multi_touch_points_preference">သင့်ကိရိယာကို ရီဘုစ်လုပ်ပြီးလျှင် ဤအပြင်အဆင်များသက်ရောက်ခြင်းရှိပါမည်</string>
-    <string name="music_app_unavailable">Mi တေးဂီတအက်ပ် ရှိမရှိ စစ်ဆေးပါ။</string>
-    <string name="music_audio_effect_optimize">အော်ဒီယို ဆက်တင်များ</string>
-    <string name="music_audio_effect_optimize_summary">ဒီရက်၊ နားကြပ် သို့မဟုတ် အခြား အော်ဒီယို ဆက်တင်များ</string>
-    <string name="music_audio_effect_optimize_summary_with_hd">Dirac၊ ဟိုင်ဖိုင်၊ နားကြပ် နှင့် အခြား အော်ဒီယို ဆက်တင်များ</string>
-    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac၊ ဟိုင်ဖိုင်၊ နားကြပ် နှင့် အခြား အော်ဒီယို ဆက်တင်များ</string>
-    <string name="music_audio_effect_settings">အထူးပြုလုပ်ချက် ဆက်တင်များ</string>
-    <string name="music_dirac_control">အသံ အရည်အသွေးကို မြှင့်တင်မည်</string>
-    <string name="music_dirac_mode_cancelling">Mi ဆူညံသံလျှော့ချခြင်း 3.5mm</string>
-    <string name="music_dirac_mode_capsule">Mi Capsule</string>
-    <string name="music_dirac_mode_earbuds">Mi နားကြပ်ပေါက်</string>
-    <string name="music_dirac_mode_general">အထွေထွေ</string>
-    <string name="music_dirac_mode_general_earbuds">အထွေထွေ</string>
-    <string name="music_dirac_mode_general_inear">နားတွင်းအထွေထွေ</string>
-    <string name="music_dirac_mode_half_in_ear">Mi Half In-Ear</string>
-    <string name="music_dirac_mode_headset">Mi နားကြပ်များ</string>
-    <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
-    <string name="music_dirac_mode_in_ear">Mi In-Ear နားကြပ်</string>
-    <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
-    <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
-    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro နားကြပ်</string>
-    <string name="music_dirac_mode_india_earphones">Mi နားကြပ်</string>
-    <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
-    <string name="music_dirac_mode_off">ဒီရက် ပိတ်မည်</string>
-    <string name="music_dirac_mode_piston_1">Mi ပစ်စတန်-1</string>
-    <string name="music_dirac_mode_piston_100">Mi ပစ်စတန်</string>
-    <string name="music_dirac_mode_piston_2">Mi ပစ်စတန်-2</string>
-    <string name="music_dirac_mode_piston_basic">အခြေခံ တည်းဖြတ်ချက်</string>
-    <string name="music_dirac_mode_piston_color">အရောင်တည်းဖြတ်မှု</string>
-    <string name="music_dirac_mode_piston_standard">စံ တည်းဖြတ်ချက်</string>
-    <string name="music_dirac_mode_piston_youth">လူငယ်နှင့်ဆိုင်သော</string>
-    <string name="music_dirac_mode_reduction_noise">Mi ဆူညံသံလျှော့ချခြင်း Type-C</string>
-    <string name="music_dolby_mode_movie">ဗီဒီယို</string>
-    <string name="music_dolby_mode_music">သီချင်း</string>
-    <string name="music_dolby_mode_off">ပိတ်</string>
+    <string name="multifunction_keyboard">လုပ်ဆောင်ချက်မျိုးစုံ</string>
     <string name="music_equalizer">အသံထိန်းညှိစက်</string>
-    <string name="music_equalizer_summary">ကွဲပြားသော ဂီတသံအတွက် သီးခြား အဆင့်ညှိမည်</string>
-    <string name="music_hd_title">HD အသံ အော်ဒီယို</string>
-    <string name="music_headphone_settings">နားကြပ်အမျိုးအစားရွေးချယ်ပါ</string>
-    <string name="music_headset_button_settings">ခလုတ်များ သတ်မှတ်မည်</string>
-    <string name="music_headset_calibrate">ခလုတ်များ သတ်မှတ်မည်</string>
-    <string name="music_headset_calibrate_apply">သုံးမည်</string>
-    <string name="music_headset_calibrate_confirm">ယင်း ဆက်တင်အျားကို လုပ်ဆောင်မည်လား?</string>
-    <string name="music_headset_calibrate_hint">အပေါ်ခလုတ်ကို ဖိပါ</string>
-    <string name="music_headset_calibrate_next_track">နောက် အပုဒ်</string>
-    <string name="music_headset_calibrate_prev_track">ယခင် အပုဒ်</string>
-    <string name="music_headset_calibrate_success">ဆက်တင်များကို လုပ်ဆောင်ပြီးပါပြီ</string>
-    <string name="music_headset_calibrate_volume_down">အသံတိုးမည်</string>
-    <string name="music_headset_calibrate_volume_up">အသံကျယ်မည်</string>
-    <string name="music_headset_calibrate_wrong_key">ယင်းသည် မှားယွင်းသော ခလုတ်ဖြစ်ပါသည်</string>
-    <string name="music_headset_mode_music">ဂီတဖွင့်ခြင်း ထိန်းချုပ်ခြင်း</string>
-    <string name="music_headset_mode_settings">နားကြပ် အဝေးထိန်း ခလုတ်များ</string>
-    <string name="music_headset_mode_volume">အသံအတိုးအကျယ် ထိန်းချုပ်ခြင်း</string>
-    <string name="music_headset_no_contected">နားကြပ် ရှာမတွေ့ပါ</string>
-    <string name="music_headset_settings">နားကြပ် နှင့် &amp; အော်ဒီယို အထူးပြုလုပ်ချက်များ</string>
-    <string name="music_hifi_summary">ဆူညံသံ နှင့် အဖျက်သံများကို လျော့ပြီး အသံအရည်အသွေးကို မြှင့်တင်ပါ</string>
-    <string name="music_hifi_title">ဟိုင်ဖိုင် အော်ဒီယို</string>
-    <string name="music_mi_effect_summary">စပီကာ သုံးနေစဉ် Mi အသံကောင်းအောင်ပြုလုပ်သူအား အသုံးပြုပါ</string>
-    <string name="music_mi_effect_title">Mi အသံကောင်းမွန်စေသူ</string>
-    <string name="music_title_dolby_control">Dolby ဒီဂျစ်တယ်လ် Plus</string>
-    <string name="music_unsupport_effect_summary">USB နားကြပ်အား မထောက်ပံ့ထားပါ</string>
     <string name="mute_music_stream">မီဒီယာအား အသံတိတ်ပါ</string>
     <string name="mute_voiceassist_stream">အသံအကူအညီကို ပိတ်ရန်</string>
     <string name="my_device">ကျွန်ုပ်၏စက်</string>
     <string name="my_device_disclaimer">မှတ်ချက်− CPU အပါအဝင်၊ ဘက်ထရီစွမ်းရည်၊ မျက်နှာပြင်အရွယ်အစားနှင့် ရီဆိုလူးရှင်း စသည့် ဟာ့ဒ်ဝဲလ်အချက်အလက်နှင့် ကင်မရာကို Xiaomi labs၊ ဒီဇိုင်နာများနှင့် ပေးဝေသူများမှ ထောက်ပံ့ပေးထားပါသည်။</string>
     <string name="nature_color">မူလသတ်မှတ်ချက်</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">မျက်နှာပြင်အောက်ခြေမှ ပွတ်ဆွဲတင်ပါ ၎င်းနောက် ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပါ</string>
+    <string name="navigation_guide_app_quick_switch_summary">မျက်နှာပြင်အပြည့်ညွှန်ပြချက်မှ ဘယ်၊ ညာ သို့မဟုတ် မျက်နှာပြင်အောက်ခြေမှ ပွတ်ဆွဲပါ</string>
+    <string name="navigation_guide_app_quick_switch_title">အက်(ပ်)တစ်ခုနှင့် တစ်ခုအကြား ကူးပြောင်းရန်</string>
     <string name="navigation_guide_app_summary">မျက်နှာပြင်ထိပ်ပိုင်းတွင် ဘယ်ဘက် သို့မဟုတ် ညာဘက်မှ ပွတ်ဆွဲပါ</string>
     <string name="navigation_guide_app_title">အက်ပ်၏ အက်ရှင် ခလုတ်</string>
     <string name="navigation_guide_appswitch_anim_summary">ယခင် အက်ပ်သို့ ပြန်သွားရန် မျက်နှာပြင်၏ နှစ်ဖက်စွန်းမှ အတွင်းသို့ ပွတ်ဆွဲပါ</string>
@@ -1811,6 +1936,10 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="navigation_guide_dialog_skip">ယခု မလုပ်သေးပါ</string>
     <string name="navigation_guide_dialog_summary">စနစ်အညွှန်းအတွက် မည်သည့်လက်ဟန်များ သုံးနိုင်သည်ကို လေ့လာပါ။</string>
     <string name="navigation_guide_dialog_title">လက်ဟန်များကို လေ့လာမည်</string>
+    <string name="navigation_guide_gesture_line_dialog_summary">မျက်နှာပြင်အပြည့်ညွှန်ပြချက်ကို ဖုံးလိုက်ပြီပါက အက်(ပ်)တစ်ခုနှင့် တစ်ခုအကြား ကူးပြောင်းရန်အတွက် လက်ဟန်ခြေဟန်အသစ်တစ်ခုကို သုံးပါမည်။ ဤလက်ဟန်ခြေဟန်ကို ယခုသင်လိုပါသလား။</string>
+    <string name="navigation_guide_gesture_line_dialog_title">လက်ဟန်ခြေဟန်အသစ်တစ်ခု သင်ရန်</string>
+    <string name="navigation_guide_hide_gesture_line_summary">မျက်နှာပြင်အပြည့် လက်ဟန်ခြေဟန်များ သုံးစဉ် မျက်နှာပြင်အပြည့်ညွှန်ပြချက်ကို မပြပါနှင့်</string>
+    <string name="navigation_guide_hide_gesture_line_title">မျက်နှာပြင်အပြည့်ညွှန်ပြချက်ကို ဖုံးထားရန်</string>
     <string name="navigation_guide_home_summary">မျက်နှာပြင်အောက်ခြေမှ အပေါ်သို့ ပွတ်ဆွဲပါ</string>
     <string name="navigation_guide_home_title">ပင်မမျက်နှာပြင်သို့ သွားပါ</string>
     <string name="navigation_guide_recent_summary">မျက်နှာပြင်အောက်ခြေမှ အပေါ်သို့ ပွတ်ဆွဲပြီး ခေတ္တရပ်တန့်ပါ</string>
@@ -1851,6 +1980,24 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="nfc_payment_favor_default">ပုံသေအက်ပ်အား အမြဲသုံးမည်</string>
     <string name="nfc_payment_favor_open">အခြားပေးချေမှုအက်ပ်အား ဖွင့်ထားပါက ပုံသေအက်ပ်နေရာတွင် အစားထိုးပါ</string>
     <string name="nfc_quick_toggle_summary">ဖုန်းသည် အခြားကိရိယာကို ထိချိန်တွင် ဒေတာလဲလှယ်ခြင်းကို ခွင့်ပြုမည်</string>
+    <string name="nfc_repair_action_btn">နဂိုအတိုင်းပြန်ထားပါ</string>
+    <string name="nfc_repair_action_desc">NFC အင်္ဂါရပ်များ အသုံးပြုခြင်းမှ သင့်ကို ဟန့်တားနေသည့် ပြဿနာများကို ဖြေရှင်းရန် \"<b>နဂိုနေရာပြန်ထားမည်</b>\" ကို နှိပ်ပါ။ NFC အခြေခံလုပ်ဆောင်ချက်ကို နဂိုအတိုင်း ပြန်ထားနေစဉ်အတွင်း လက်ရှိစာမျက်နှာမှ ထွက်မသွားပါနှင့်။ အပြောင်းအလဲများကို အသုံးပြုရန်အတွက် သင့်စက်ကို ပိတ်၍ပြန်စပါ။</string>
+    <string name="nfc_repair_btn_no">မဟုတ်ပါ</string>
+    <string name="nfc_repair_btn_reboot">ပိတ်၍ပြန်စရန်</string>
+    <string name="nfc_repair_btn_reboot_later">နောက်မှ</string>
+    <string name="nfc_repair_btn_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="nfc_repair_btn_yes">ဟုတ်ပါသည်</string>
+    <string name="nfc_repair_confirm_desc" formatted="false">"Havဤပြဿနာများကို သင်ကြုံတွေ့ဖူးပါသလား။
+%d။ NFC ကတ်တစ်ကတ်ကို ပေါင်းထည့်၍ သို့မဟုတ် ဖြည့်သွင်း၍ မရခြင်းမျိုး ဖြစ်ခဲ့ဖူးသည်။
+%d။ သင်၏ NFC ကတ် အလုပ်မလုပ်ခဲ့ပါ။ 
+%d။ အခြားသော NFC အင်္ဂါရပ်များ လုပ်ဆောင်နိုင်မည် မဟုတ်ပါ။"</string>
+    <string name="nfc_repair_fail_desc">NFC အခြေခံလုပ်ငန်းစဉ်ကို နဂိုနေရာပြန်ထားခြင်းအား ဟန့်တားနေသည့် ချွတ်ယွင်းမှုတစ်ခု တွေ့ရှိခဲ့ပါသည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="nfc_repair_fail_title">နဂိုနေရာပြန်ထားလို့ မရပါ</string>
+    <string name="nfc_repair_ongoing">နဂိုအတိုင်း ပြန်ထားနေသည်…ဤစာမျက်နှာမှ ထွက်မသွားပါနှင့်။</string>
+    <string name="nfc_repair_pass_desc">အပြောင်းအလဲများကို အသုံးပြုရန်အတွက် သင့်စက်ကို ပိတ်၍ပြန်စပါ။</string>
+    <string name="nfc_repair_pass_title">အောင်မြင်စွာ နဂိုနေရာပြန်ထားပြီးပြီ</string>
+    <string name="nfc_repair_summary">NFC အင်္ဂါရပ်များ အသုံးပြုရာတွင် သင့်ကို ဟန့်တားနေသည့် ပြဿနာများကို ပြုပြင်ရန်။</string>
+    <string name="nfc_repair_title">NFC အခြေခံလုပ်ဆောင်ချက်များကို နဂိုအတိုင်း ပြန်ထားရန်</string>
     <string name="nfc_se_route_title">သတ္တုနေရာများကို လုံခြုံစေမည်</string>
     <string name="nfc_se_wallet_title">မူလပုံသေ ပိုက်ဆံအိတ်</string>
     <string name="night_light">ညမုဒ်</string>
@@ -1873,7 +2020,6 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="noise_suppression">ပတ်ဝန်းကျင်ဆူညံသံလျော့ချရေး</string>
     <string name="none">မရှိ</string>
     <string name="normal">ပုံမှန်</string>
-    <string name="normal_bottom_height_of_keyboard">ပုံမှန်</string>
     <string name="normal_info">အသံအားလုံး ပုံမှန် အလုပ်လုပ်လိမ့်မည်</string>
     <string name="normal_smartcover_title">ဝေဝါးသောအရှေ့ကာဗာ</string>
     <string name="notch_and_status_bar_settings">မျက်နှာပြင်ထိပ်ပိုင်း &amp; အခြေအနေပြ ဘားတန်း</string>
@@ -1918,6 +2064,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="notification_update_now">ယခု အပ်ဒိတ်လုပ်မည်</string>
     <string name="notifications_label">အသိပေးချက်များ</string>
     <string name="now">ခုပိတ်၍ ပြန်စ</string>
+    <string name="oaid_string">"您当前的虚拟身份ID为：
+%1s"</string>
     <string name="oem_unlock_enable">OEM သော့ဖြည်နေသည်</string>
     <string name="oem_unlock_enable_summary">bootloader ကို သော့ဖွင့်ရန် ခွင့်ပြုသည်</string>
     <string name="off">ပိတ်ပါ</string>
@@ -1945,6 +2093,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="open_privacy_thumbnail_blur_title">ကြိုတင်ကြည့်ရှုမှုများအား မှုန်ဝါးစေမည်</string>
     <string name="open_wifi_connect_summary">အသေးစိတ်ကိုကြည့်ရန်ခေါက်ပါ။.</string>
     <string name="open_wifi_connect_title">%1$sသို့ ချိတ်ဆက်ထားသော</string>
+    <string name="operation_guide_title">ကျူတိုရီရယ်</string>
     <string name="optimization_cancel">ပယ်ဖျက်မည်</string>
     <string name="osu_completing_sign_up">မှတ်ပုံတင်ခြင်း ပြီးဆုံးပါပြီ</string>
     <string name="osu_connect_failed">ချိတ်မရပါ</string>
@@ -1960,8 +2109,10 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
 ၁၀ မိနစ်ကြာ အသုံးမပြုပါက OTG သည် အလိုအလျောက် ပိတ်သွားပါမည်။"</string>
     <string name="other">အခြား</string>
     <string name="other_advanced_settings">ထပ်ဆောင်းဆက်တင်များ</string>
+    <string name="other_data">ဤစက်ရှိ အခြားအရာများ</string>
     <string name="other_device_info">အခြား</string>
     <string name="other_input_settings">ထပ်ဆောင်း ကီးဘုတ်ဆက်တင်များ</string>
+    <string name="other_password">အခြားစကားဝှက်များ</string>
     <string name="other_personal_settings">ပုဂ္ဂိုလ်ရေးရာအပြင်အဆင်များ</string>
     <string name="other_relative">အခြား</string>
     <string name="other_settings_sync_settings">ဆင့်ခ်လုပ်မည်</string>
@@ -2037,6 +2188,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="paper_mode_side_effect_hint">လွန်ကဲသော ပြင်းထန်မှုသည် အကြောင်းအရာ ပြသခြင်းကို ထိခိုက်ပါလိမ့်မည်။</string>
     <string name="paper_mode_start_time_title">ဖွင့်</string>
     <string name="passwordIncorrect">သင်ထည့်သည့် စကားဝှက်မှန်ကန်မှုမရှိပါ</string>
+    <string name="password_and_security">စကားဝှက်များ &amp; လုံခြုရေး</string>
     <string name="password_entrance_title">မျက်နှာပြင်လော့ခ် သတ်မှတ်မည်</string>
     <string name="password_guard">စကားဝှက်</string>
     <string name="password_security_settings_title">စကားဝှက် &amp; လုံခြုရေး</string>
@@ -2058,8 +2210,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="permit_running_network">နောက်ခံ အချက်အလက်</string>
     <string name="person_hotpot">မိုဘိုင်း ဟော့စ်ပေါ့များ</string>
     <string name="personal_section_title">စိတ်ကြိုက်ပြုလုပ်ခြင်း</string>
+    <string name="phone_backup_summary">ဤစက်ရှိအရာများကို အရန်သိမ်းခြင်းနှင့် ပြန်ယူခြင်း</string>
+    <string name="phone_backup_title">မိုဘိုင်းစက်ပစ္စည်း</string>
     <string name="phone_call_noise_suppression">ဖုန်းပြောချိန်တွင်ဆူညံသံလျော့ချမည်</string>
-    <string name="pick_up_gesture_wakeup_title">နှိုးရန် မ လိုက်ပါ</string>
+    <string name="photo_data">ဓာတ်ပုံနှင့် ဗီဒီယိုများ</string>
+    <string name="pick_up_gesture_wakeup_title">ဖွင့်ရန် မ လိုက်ပါ</string>
     <string name="picture_color_mode">ပုံအရောင်မုဒ်</string>
     <string name="picture_color_mode_desc">sRGB သုံးမည်</string>
     <string name="please_type_passphrase">စကားဝှက်</string>
@@ -2117,6 +2272,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="power_remaining_less_than_duration_only">%1$sနှင့်အောက်သာ ကျန်တော့သည်</string>
     <string name="power_remaining_more_than_subtext">%1$s နှင့်အထက် ကျန်သေးသည် (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">%1$s နှင့်အထက် ကျန်သေးသည်</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">စနစ် လုပ်ဆောင်ချက်</string>
     <string name="power_suggestion_extend_battery">ဘက်ထရီ အား%1$s အထိ မခံပါ</string>
     <string name="power_usage_history">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
@@ -2190,6 +2346,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="privacy_factory_reset_dlg_button_text">ပြန်လည်သတ်မှတ်မည်</string>
     <string name="privacy_factory_reset_dlg_message">အကယ်၍သင်သည် စကားဝှက်ကိုမေ့သွားလျှင် စကားဝှက်အသစ်တစ်ခုပြန်လည်သတ်မှတ်ရန် စက်ရုံထုတ်အနေအထားသို့လုပ်ဆောင်ရလိမ့်မည်။</string>
     <string name="privacy_factory_reset_dlg_title">သင့်ဒေတာများကို အရန်သိမ်းဆည်းပါ</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">လက်ဗွေအသစ်မသုံးမီ စကားဝှက်ထည့်ပါ</string>
     <string name="privacy_file">ဖိုင်</string>
     <string name="privacy_gallery">ဓာတ်ပုံများ</string>
     <string name="privacy_header_text_less_than_half">သေးလွန်းသည်။ ပိုကြီးသောနေရာသို့ ရွေ့ပါ။</string>
@@ -2235,9 +2392,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="privacy_password_use_finger_success">ဖွင့်ထားသည်</string>
     <string name="privacy_password_visible_pattern">သော့ဖွင့်ပုံစံအား ပြပါ</string>
     <string name="privacy_protect_title">ကိုယ်ရေးသီးသန့် ကာကွယ်ခြင်း</string>
+    <string name="privacy_protection">ကိုယ်ရေးကိုယ်တာ အကာအကွယ်</string>
     <string name="privacy_protection_title">ကိုယ်ရေးလုံခြုံမှု</string>
     <string name="privacy_relative">ကိုယ်ရေးလုံခြုံမှု</string>
     <string name="privacy_settings">အရန်သိမ်းခြင်း &amp; ပြန်သတ်မှတ်ခြင်း</string>
+    <string name="privacy_settings_new">အရန်သိမ်းခြင်းနှင့် ပြန်ယူခြင်း</string>
     <string name="privacy_thumbnail_blur_progress_message">ခဏစောင့်ပါ…</string>
     <string name="privacy_thumbnail_blur_title">မှုန်ဝါးသော ကြိုတင်ကြည့်ရှုမှု</string>
     <string name="private_dns_mode_off">ပိတ်မည်</string>
@@ -2251,6 +2410,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်တစ်ဆင့်</string>
@@ -2269,9 +2429,6 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="radio_controls_summary">Wi-Fi၊ ဘလူးတုသ်၊ လေယာဉ်ပုံစံ၊ မိုဘိုင်းလ်ကွန်ရက်များ &amp; VPNs</string>
     <string name="radio_controls_title">နောက်ထပ်</string>
     <string name="radio_info_asdiv_switch_label">ASDiv အခြေအနေ-</string>
-    <string name="raise_bottom_height_of_keyboard">အဆင့်မြင့်</string>
-    <string name="raise_bottom_height_of_keyboard_sub_title">အဆင့်မြင့်မုဒ်သို့ပြောင်းလျှင် ကီးဘုတ်အောက်တွင် စိတ်ကြိုက်ဖြတ်လမ်းခလုတ်များပါသော တန်းတစ်တန်းပေါ်လာမည်</string>
-    <string name="raise_bottom_height_of_keyboard_title">ကီးဘုတ်ကို မျက်နှာပြင်အပြည့်ပေါ်ရန် ချိန်ညှိပါ</string>
     <string name="rank_title">အဆင့်သတ်မှတ်ခြင်း</string>
     <string name="reading_data">အချက်အလက်ရယူနေသည်…</string>
     <string name="rebootiing_for_updates">ပြန်ပွင့်နေဆဲပါ…</string>
@@ -2285,6 +2442,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="recommend_item_4">နားကြပ်</string>
     <string name="recommend_item_title">အကြံပြုချက်များ</string>
     <string name="recommend_tip">အခြား ဆက်တင်များ လိုအပ်ပါသလား?</string>
+    <string name="regional_screen_shot">တစ်ဝက်တစ်ပျက် မျက်နှာပြင်ရိုက်ချက်</string>
     <string name="remaining_length_format">%1$s ကျန်သေးသည်</string>
     <string name="remove_continue">ဖြုတ်ချမည်</string>
     <string name="remove_from_frequently_fragment">အမြန်အပြင်အဆင်များမှ %sကိုဖယ်ထုတ်မည်လော?</string>
@@ -2303,6 +2461,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="reset_second_space_passwd_cancel">ပယ်ဖျက်မည်</string>
     <string name="reset_second_space_passwd_confirm">ဆက်လက်မည်</string>
     <string name="reset_second_space_passwd_detail">ပထမနေရာတွင်သုံးသော Mi အကောင့်စကားဝှက်အား ရိုက်ထည့်ပါ</string>
+    <string name="reset_title">ပြန်သတ်မှတ်ရန်</string>
     <string name="resetting_second_space_passwd">ဒုတိယနေရာစကားဝှက် ပြန်သတ်မှတ်ခြင်း</string>
     <string name="resident_timezone_summary">ဒုတိယ နာရီ</string>
     <string name="resolver_settings_label">မျိုးတူစုပါ</string>
@@ -2311,9 +2470,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="restore_dialog_content">လက်ရှိ စက်အိုင်ဒီအား ပြန်သတ်မှတ်ပါက စိတ်ကြိုက် အကြံပြုချက်များကိုလည်း ပြန်သတ်မှတ်လိမ့်မည်။ ယခု ပြန်သတ်မှတ်မလား?</string>
     <string name="restore_dialog_positive">ပြန်သတ်မှတ်မည်</string>
     <string name="restore_dialog_title">သတိပြုရန်</string>
-    <string name="restore_oaid_content">လက်ရှိ စက်အိုင်ဒီအား ပြန်သတ်မှတ်ပါက အသစ် တစ်ခုကို ဖန်တီးလိမ့်မည်။ ယခု ပြန်သတ်မှတ်မလား?</string>
-    <string name="restore_oaid_positive">ပြန်သတ်မှတ်မည်</string>
-    <string name="restore_oaid_title">စက်အိုင်ဒီအား ပြန်သတ်မှတ်နေသည်</string>
+    <string name="restore_oaid_content">重置后，将提供给三方应用新的虚拟身份ID，让您的行为信息焕然一新</string>
+    <string name="restore_oaid_positive">重置</string>
+    <string name="restore_oaid_title">重置虚拟身份ID</string>
     <string name="restrict_bg_app">ကန့်သတ်မည်</string>
     <string name="restrict_max_aspect_ratio_title">ဤအက်ပ်များသည် မျက်နှာပြင်အပြည့်မုဒ်အောက်တွင် ကောင်းစွာအလုပ်မလုပ်ပါ</string>
     <string name="restriction_wifi_config_summary">Wi-Fiနှင့် မိုဘိုင်းဆက်တင်များကို ပြင်ခွင့်ပြုမည်</string>
@@ -2322,6 +2481,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="retail_demo_reset_next">နောက်တစ်ဆင့်</string>
     <string name="retail_demo_reset_title">စကားဝှက် လိုအပ်သည်</string>
     <string name="retry">ထပ်မံကြိုးစားပါ</string>
+    <string name="rgb_face_data_manage_delete_msg">2D မျက်နှာဒေတာကို ဖျက်မည်</string>
     <string name="rgb_manage_facerecoginition_text">2D မျက်နှာဒေတာကို စီမံမည်</string>
     <string name="right_function_key">ညာဖြတ်လမ်းခလုတ်</string>
     <string name="ring_to_you">စိတ်ကြိုက်ဖုန်းမြည်သံ</string>
@@ -2352,6 +2512,9 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="screen_confirm">ဖွင့်မည်</string>
     <string name="screen_dark_mode_advanced_title">ကြိုတင်သတ်မှတ်ခြင်း</string>
     <string name="screen_dark_mode_select_time_error_summary">စတင်ချိန်နှင့် ပြီးဆုံးချိန် တူ၍မရပါ</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">အခြားနေရာမှ အက်ပ်များ</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">အရောင်ရင့်မုဒ်တွင် အချို့အက်(ပ်)များ မှန်ကန်စွာ ပေါ်မည်မဟုတ်ပါ။ အက်(ပ်)တစ်ခုချင်းစီအတွက် အရောင်ရင့်မုဒ် အသုံးပြုခြင်းကို ဤနေရာတွင် ကန့်သတ်နိုင်သည်။</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">အက်ပ် တစ်ခုချင်းစီ</string>
     <string name="screen_dark_mode_smart_dark_summary">ပြင်ပအဖွဲ့အစည်း အက်(ပ်)များအတွက်လည်း အနက်ရောင်မုဒ် သုံးပါ။ အချို့အက်(ပ်)များတွင် အမှန်မပြနိုင်ပါ။</string>
     <string name="screen_dark_mode_smart_dark_title">ကမ္ဘာသုံး အနက်ရောင်မုဒ်</string>
     <string name="screen_dark_mode_time_title">အချိန်ဇယားဖြင့်သတ်မှတ်ခြင်း</string>
@@ -2453,6 +2616,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="screenshot_label">ဖန်သားပြင်ဓာတ်ပုံ</string>
     <string name="screenshot_three_gesture">မျက်နှာပြင်ကို ဓာတ်ပုံရိုက်ရန် လက်သုံးချောင်းဖြင့် ဆွဲချပါ</string>
     <string name="screenshot_three_gesture_summary">အခြား လက်သုံးချောင်းလက်ဟန်အား ပိတ်လိမ့်မည်</string>
+    <string name="sd_data">SD ကတ် ဒေတာ</string>
     <string name="se_route_ese">လုံခြုံစေသောသတ္တုများကို မြှုပ်ပြီးပြီ</string>
     <string name="se_route_uicc">ဆင်းမ်ကဒ်ထဲတွင် သတ္တုများကို လုံခြုံစေမည်</string>
     <string name="se_wallet_ese">Mi Pay နှင့် NFC ပို့ဆောင်ရေးကဒ်</string>
@@ -2661,6 +2825,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="security_encryption_attention_3">သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ် သတ်မှတ်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="security_encryption_attention_4">သင့်သော့ခတ်မျက်နှာပြင်စကားဝှက်အား မမေ့ပါနှင့်၊ သို့မဟုတ်ပါက စက်အား အစအဆုံးပြန်သတ်မှတ်ရန် လိုအပ်ပြီး ဒေတာအားလုံး ဆုံးရှုံးနိုင်ပါသည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">သော့ခတ်မျက်နှာပြင်စကားဝှက်ဖြင့် စက်အားကုဒ်မဖွဲ့ရန် ရွေးချယ်ခြင်းသည် Google ဝန်ဆောင်မှုများအား အသုံးပြု၍မရနိုင်ဘဲ ဖြစ်နိုင်ပါသည်။</string>
     <string name="security_encryption_close_dialog_title">မူလစကားဝှက်ကာကွယ်မှု သို့ပြန်သွားပါ</string>
@@ -2775,6 +2940,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
@@ -2823,12 +2989,36 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="sms_delivered_sound_title">မက်ဆေ့ခ်ျ ပို့ပြီးပြီ</string>
     <string name="sms_received_sound_dialog_title">စာသားလက်ခံသော အသံကို ရွေးပါ</string>
     <string name="sms_received_sound_title">မက်ဆေ့ခ်ျ ရရှိပြီးပြီ</string>
+    <string name="sos_phone_call_privacy_dialog_message">"To call your emergency contacts and play SOS recording, this app needs the following permissions:
+• Making calls
+For making calls to your emergency contacts
+• Monitoring device status
+For playing SOS recording when your emergency contacts pick up
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
+    <string name="sos_phone_call_privacy_dialog_message_confirm">Allow</string>
+    <string name="sos_phone_log_privacy_dialog_message">"This app needs permission to access your call history to be able to share it with your emergency contacts.
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
     <string name="sos_privacy_and_content_policy">အသုံးပြုသူ သဘောတူညီမှု နှင့် ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="sos_privacy_dialog_button_cancel">ပယ်ဖျက်မည်</string>
     <string name="sos_privacy_dialog_button_ok">သဘောတူပါသည်</string>
     <string name="sos_privacy_dialog_message">"ဤအင်္ဂါရပ်အား မသုံးမီ ကျွန်ုပ်တို့၏ %s အား ဖတ်ရှုပြီး သဘောတူပါ။
 ဤအင်္ဂါရပ်သည် သင်၏တည်နေရာသို့ ဝင်ရောက်ခွင့်၊ မိုဘိုင်းကွန်ရက်များ သုံးစွဲခွင့်နှင့် သင်၏ အဆက်အသွယ်များအား ဖတ်ယူခွင့်တို့ လိုအပ်ပါသည်။ သဘောတူပါသလား?"</string>
+    <string name="sos_privacy_dialog_message_new_version">"Emergency SOS allows you to share your location in real time and send text messages to your emergency contacts.
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:
+• Accessing storage
+For saving emergency contacts
+• Accessing contacts
+For marking contacts as emergency contacts
+• Sending SMS
+For sending text messages to emergency contacts
+• Accessing location
+For sharing your location with emergency contacts
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to turn off or not use Emergency SOS in such cases.
+Before using our services, read and agree to our %s."</string>
     <string name="sos_privacy_dialog_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
+    <string name="sound_assist_summary">သင့်အသံဆက်တင်များကို စိတ်ကြိုက်ပြင်ဆင်ပါ</string>
+    <string name="sound_assist_title">အသံအထောက်အကူ</string>
     <string name="sound_category_call_ringtone_vibrate_title">ဖုန်းမြည်သံ &amp; အသိပေးချက် အသံများ</string>
     <string name="sound_category_system_title">စနစ်</string>
     <string name="sound_effects_enable_title">အသံများကို ထိနှိပ်ပါ</string>
@@ -2860,6 +3050,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="status_bar_carrier_settings_no_sim_card">ဆင်းမ်ကဒ် မရှိပါ</string>
     <string name="status_bar_settings">အသိပေးချက်များ &amp; အခြေအနေပြ ဘားတန်း</string>
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_manage_notification">အက်ပ် အသိပေးချက်များ</string>
     <string name="status_bar_settings_notification_bar">အသိပေးချက်ရှိတ်</string>
     <string name="status_bar_settings_status_bar">အခြေအနေပြ ဘားတန်း</string>
@@ -2873,6 +3064,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="storage_format">ဖောမတ်</string>
     <string name="storage_internal_title">စနစ်မဟုတ်သည့် သိုလှောင်မှု</string>
     <string name="storage_usb">USB သိုလှောင်မှု</string>
+    <string name="storage_use_title">သုံးထားသော</string>
     <string name="storage_wizard_format_confirm_public_body">"ဤအရာသည် ^1 ဖောမတ်လုပ်ရန် လိုအပ်ပါသည်။ 
 "<b>^1 ပေါ်တွင် လက်ရှိသိမ်းထားသော ဒေတာအားလုံးအား ဖောမတ်ချနေပါသည်။</b>" ဒေတာဆုံးရှုံးခြင်းမှ ကာကွယ်ရန် အရန်သိမ်းထားပေးပါ။ "</string>
     <string name="storage_wizard_format_confirm_third_body">^1အား ဖောမတ် ချပြီးပြီ ဖြစ်ပါသည်</string>
@@ -2882,11 +3074,52 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="storage_wizard_ready_title">^1 မှာ ဆင်သင့်ဖြစ်ပြီ</string>
     <string name="strict_mode">တင်းကျပ်မုဒ်ကို ဖွင့်ထားသည်</string>
     <string name="strict_mode_summary">အက်ပ်သည် အဓိကThreadတွင် အချိန်ကြာမြင့်စွာအလုပ်လုပ်နေလျှင် မျက်နှာပြင်အား ဖလက်ရှ်လုပ်ပါ</string>
-    <string name="strong_suppression_summary">မတော်တဆထိမိခြင်းအတွက် စက်က တုံ့ပြန်မည်မဟုတ်ပါ၊ အစွန်းများအနီးရှိ ထိန်းချုပ်သင်္ကေတများ အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
+    <string name="strong_suppression_summary">မတော်တဆထိမိခြင်းအတွက် စက်က တုံ့ပြန်မှုနည်းပါမည်၊ အစွန်းများအနီးရှိ ထိန်းချုပ်သင်္ကေတများ အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
     <string name="strong_suppression_title">နေရာကျယ်</string>
     <string name="structure_add_facerecoginition_text">3D မျက်နှာဒေတာကို ပေါင်းထည့်မည်</string>
+    <string name="structure_face_data_delete_fail">3D မျက်နှာဒေတာအား ဖျက်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="structure_face_data_input_down">သင့်ခေါင်းကို ငုံ့ပါ</string>
+    <string name="structure_face_data_input_error_away_screen">ဖုန်းအား မျက်နှာနှင့် ခပ်ခွာခွာ ထားပါ</string>
+    <string name="structure_face_data_input_error_expose_features">သင့်မျက်နှာ အစိတ်အပိုင်းအချို့ကို မတွေ့ရပါ</string>
+    <string name="structure_face_data_input_error_keep_inface">သင့်မျက်နှာအား ဖရိန်အတွင်း ထားပါ</string>
+    <string name="structure_face_data_input_error_overly_light">အနောက်မီး အလွန်လင်းသည်</string>
+    <string name="structure_face_data_input_left">သင့်ခေါင်းကို ဘယ်ဘက်သို့ လှည့်ပါ</string>
+    <string name="structure_face_data_input_right">သင့်ခေါင်းကို ညာဘက်သို့ လှည့်ပါ</string>
+    <string name="structure_face_data_input_timeout_msg">မှတ်တမ်းတင်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="structure_face_data_input_timeout_title">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="structure_face_data_input_up">ခေါင်းမော့ပါ</string>
+    <string name="structure_face_data_introduction_back">နောက်သို့</string>
+    <string name="structure_face_data_introduction_msg">3D မျက်နှာ ဒေတာသည် စက်အား လော့ခ်ဖြည်နိုင်ပြီး သင့်ကို အသိအမှတ်ပြုနိုင်ပါသည်။ ဤအင်္ဂါရပ်အား မသုံးမီ စကားဝှက်တစ်ခု သတ်မှတ်ရမည်။</string>
+    <string name="structure_face_data_introduction_title">3D မျက်နှာဒေတာ ပေါင်းထည့်မည်</string>
+    <string name="structure_face_data_ir_input_face">သင့်ခေါင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
+    <string name="structure_face_data_manage_delete_msg">3D မျက်နှာဒေတာကို ဖျက်မည်</string>
+    <string name="structure_face_data_suggestion_text">သင်၏မျက်နှာတစ်ခုလုံး ရှင်းလင်းစွာ မြင်နိုင်စေပါ။ 3D မျက်နှာဒေတာအား မှတ်တမ်းတင်နေစဥ် မျက်နှာကွယ်နိုင်သော ဦးထုပ်၊ နေကာမျက်မှန်စသည်တို့ကို မတပ်ဆင်ပါနှင့်။ အလင်းတိုက်ရိုက် မထိုးစေပါနှင့်။</string>
+    <string name="structure_face_data_suggestion_warning_text">မှတ်ချက်- 3D မျက်နှာ အသိအမှတ်ပြုခြင်းသည် စကားဝှက်လောက် မလုံခြုံပါ။ သင်နှင့်တူသောလူသည် စက်အား လော့ခ်ဖြည်နိုင်သည်။</string>
+    <string name="structure_face_delete_data_dialog_msg">ကင်မရာအား ဖွင့်မရသောကြောင့် ကြိုတင်ကြည့်ရှု၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="structure_face_delete_data_dialog_msg_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="structure_face_delete_data_dialog_title">ကင်မရာကို ဖွင့်၍မရပါ</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">ဘက်ထရီ အားနည်းနေသည့်အတွက် ဤအင်္ဂါရပ်အား အသုံးပြု၍မရ နိုင်ပါ</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">မှတ်တမ်းတင်ရန် ဘက်ထရီအားသည် အနည်းဆုံး ၅% ရှိရမည်။</string>
+    <string name="structure_face_hardware_abnormal_btn">နားလည်ပါပြီ</string>
+    <string name="structure_face_hardware_abnormal_msg">ဟာ့ဒ်ဝဲလ် အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ သင့်စက်အား ပိတ်၍ပြန်စပါ။ အကူအညီလိုပါက 400–100–5678 သို့ ခေါ်ဆိုပါ။</string>
+    <string name="structure_face_hardware_abnormal_title">ဟာ့ဒ်ဝဲလ် အမှား</string>
+    <string name="structure_face_modules_abnormal_btn">ရီဘုလုပ်မည်</string>
+    <string name="structure_face_modules_abnormal_msg">အလင်းမော်ကျူးအမှားကြောင့် မျက်နှာဒေတာအား မှတ်တမ်းတင်၍ မရပါ။ သင်၏စက်အား ရီဘုလုပ်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="structure_face_modules_abnormal_title">အလင်းမော်ကျူးအမှား</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">3D အသိအမှတ်ပြုခြင်းကို ပိတ်လိုက်မည်။ သင့် 3D မျက်နှာဒေတာကိုလည်း ဖျက်ပစ်လိမ့်မည်။ သင်၏ 2D မျက်နှာဒေတာအား ပေါင်းထည့်ရမည်။ 2D အသိအမှတ်ပြုခြင်းအား ဖွင့်မလား?</string>
+    <string name="structure_face_unlock_model2d_dialog_title">2D အသိအမှတ်ပြုခြင်းအား ဖွင့်နေသည်</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">2D အသိအမှတ်ပြုခြင်းကို ပိတ်လိုက်မည်။ သင့် 2D မျက်နှာဒေတာကိုလည်း ဖျက်ပစ်လိမ့်မည်။ သင်၏ 3D မျက်နှာဒေတာအား ပေါင်းထည့်ရမည်။ 3D အသိအမှတ်ပြုခြင်းအား ဖွင့်မလား?</string>
+    <string name="structure_face_unlock_model3d_dialog_title">3D အသိအမှတ်ပြုခြင်းအား ဖွင့်နေသည်</string>
+    <string name="structure_face_unlock_model_dialog_enable">ဖွင့်မည်</string>
+    <string name="structure_face_unlock_model_dialog_notenable">မလုပ်ပါ</string>
+    <string name="structure_face_unlock_model_other">အခြား</string>
+    <string name="structure_face_unlock_model_other_msg_2d">2D အသိအမှတ်ပြုခြင်း</string>
+    <string name="structure_face_unlock_model_other_msg_3d">3D အသိအမှတ်ပြုခြင်း</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">2D မျက်နှာ အသိအမှတ်ပြုခြင်းသည် သော့ဖွင့်ပုံစံ၊ PIN၊ စကားဝှက်လောက် မလုံခြုံပါ။ ဤအင်္ဂါရပ်ကို ဖွင့်ထားပါက သင့်ဓာတ်ပုံ သို့မဟုတ် သင်နှင့်တူသောလူသည် စက်အား လော့ခ်ဖြည်နိုင်သည်။</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">3D မျက်နှာ အသိအမှတ်ပြုခြင်းသည် အတော်လုံခြုံပါသည်။ ဤအင်္ဂါရပ်ကို ဖွင့်ထားပါက သင့်ဓာတ်ပုံဖြင့် စက်အား လော့ခ်ဖြည်နိုင်ခြေမရှိပါ။ သို့သော် သင်နှင့်တူသောလူသည် စက်အား လော့ခ်ဖြည်နိုင်သည်။</string>
+    <string name="structure_face_unlock_model_other_title">မျက်နှာ အသိအမှတ်ပြုခြင်း</string>
+    <string name="structure_face_unlock_not_same_person">အဆင့်အားလုံးကို သင်ကိုယ်တိုင် လုပ်ဆောင်ပါ။ အခြားသူအား မလုပ်ခိုင်းပါနှင့်။</string>
+    <string name="structure_face_unlock_tof_covered">မျက်နှာဒေတာ ပေါင်းထည့်၍ မရပါ။ မျက်နှာပြင်နှင့် ခပ်ခွာခွာထားပါ။</string>
     <string name="structure_manage_facerecoginition_text">3D မျက်နှာဒေတာကို စီမံမည်</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">ဤအက်ပ်များသည် မျက်နှာပြင်အပြည့်မုဒ်အောက်တွင် အကောင်းဆုံးအလုပ်လုပ်နိုင်သည်</string>
     <string name="suggestion_for_phone_recycled">အခြားဖုန်းနံပါတ်တစ်ခု ပေါင်းထည့်ပါ</string>
@@ -2909,6 +3142,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="system_app_settings">စနစ် အက်ပ် ဆက်တင်</string>
     <string name="system_apps_updater">စနစ်အက်ပ် အသစ်မွမ်းမံသူ</string>
     <string name="system_backup_section_title">အရန်သိမ်းခြင်း</string>
+    <string name="system_backup_section_title_new">ဌာနေ</string>
     <string name="system_haptic_feedback">ထိတွေ့မျက်နှာပြင်ဆိုင်ရာ တုံ့ပြန်အကြံပြုမှု</string>
     <string name="system_print_service_help">ပရင့်ထုတ်ခြင်းအကြောင်း</string>
     <string name="system_shortcut_wake">ရှော့ကဒ်ခလုတ်ဖြင့် နှိုးပါ</string>
@@ -2939,6 +3173,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="tether_settings_title_usb_bluetooth">ဒေတာချိတ်ဆက်ခြင်း</string>
     <string name="tether_settings_title_wifi">ခရီးဆောင် ဟော့စ်ပေါ့</string>
     <string name="tether_share_qrcode_title">QR ကုဒ်မျှဝေပါ</string>
+    <string name="tether_use_wifi6_summary">အချို့စက်များသည် 802.11ax စံနှုန်းနှင့် တွဲသုံးနိုင်မည် မဟုတ်ပါ။ ပြဿနာရှိပါက ဤအင်္ဂါရပ်ကို ပိတ်ပါ။</string>
+    <string name="tether_use_wifi6_title">ဆဋ္ဌမမျိုးဆက် စံနှုန်းကို ပံ့ပိုးသည်</string>
     <string name="tethering_hardware_offload">ကွန်ရက်မျှဝေမှု ဟာ့ဒ်ဝဲ အရှိန်မြှင့်တင်ခြင်း</string>
     <string name="tethering_hardware_offload_summary">ရရှိနိုင်ပါက ကွန်ရက်မျှဝေမှု ဟာ့ဒ်ဝဲ အရှိန်မြှင့်တင်ခြင်းအား သုံးပါ</string>
     <string name="tethering_settings_not_available">ပထမနေရာရှိ ဒေတာချိတ်ဆက်ခြင်း ဆက်တင်များအား ပြောင်းလဲပါ</string>
@@ -2946,9 +3182,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="theme_settings_title">သင်းမ်များ</string>
     <string name="thememanager_not_found">သင်းမ်များကို ဖွင့်၍မရပါ။ ထိုအက်ပ်အား ထည့်သွင်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
     <string name="three_gesture_down">လက်သုံးချောင်းဖြင့် ဆွဲချပါ</string>
+    <string name="three_gesture_long_press">လက်ချောင်း %d ချောင်းဖြင့် ဖိပြီးထိနှိပ်ထားပါ</string>
     <string name="time_unit_just_now">ယခုလေးတင်</string>
     <string name="timed_titlei">တိုင်မာ %d</string>
     <string name="timezone_settings">ဒေသစံတော်ချိန်</string>
+    <string name="tip_remove_data">စက်ရုံထုတ်အခြေအနေသို့ ပြန်ထားပါက ဤအရာများကို သင့်စက်မှ ဖျက်လိုက်ပါမည်</string>
     <string name="title_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
     <string name="title_convert_fbe">ဖိုင်အား လျှို့ဝှက်ကုဒ်ခံထားသော အနေထားသို့ ပြောင်းနေသည်</string>
     <string name="title_font">စာလုံးစတိုင်</string>
@@ -3017,6 +3255,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="turn_off_common_password_confirm_msg">မျက်နှာပြင်သော့ခတ်သည်လည်း ပိတ်သွားလိမ့်မည်။</string>
     <string name="turn_off_keyguard_password_alert_title">ပိတ်မည်</string>
     <string name="turn_off_keyguard_password_confirm_msg">အချို့လုံခြုံရေး လုပ်ဆောင်ချက်များသည် သင့်စကားဝှက်မပါဘဲ အလုပ်လုပ်လိမ့်မည် မဟုတ်ပါ။</string>
+    <string name="turn_off_keyguard_password_title">မျက်နှာပြင်သော့ကို ပိတ်မည်</string>
     <string name="turn_off_keyguard_password_wait_dialog">စကားဝှက်ကို ပိတ်နေသည်…</string>
     <string name="turn_off_keyguard_password_with_face_confirm_msg">သင့်ဖုန်း၏ သော့ခတ်မျက်နှာပြင် စကားဝှက်ကို ပိတ်ပြီးနောက် မှတ်တမ်းတင်ထားသော မျက်နှာဒေတာများကို ဖျက်ပစ်လိမ့်မည်။ စက်အား မျက်နှာဒေတာဖြင့် သော့ဖွင့်နိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">စကားဝှက်ပိတ်ပြီးနောက် သင့်စက်အား လက်ဗွေသုံးပြီး ဖွင့်၍ရနိုင်လိမ့်မည် မဟုတ်ပါ။</string>
@@ -3044,26 +3283,28 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="uninstall_xspace_app_dlg_msg">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
     <string name="uninstall_xspace_app_dlg_title">နှစ်ခုတွဲ အက်ပ်အား ဖြုတ်ချ</string>
     <string name="unknown">အမည်မသိ</string>
-    <string name="unlock_change_lock_pin_title">ပင်ကို ပြောင်းလဲမည်</string>
+    <string name="unlock_change_lock_pin_title">PIN ပြောင်းမည်</string>
     <string name="unlock_disable_frp_warning_content_profile">ပရိုဖိုင်လုံခြုံရေး လုပ်ဆောင်ချက်များသည် သင့်စကားဝှက်မရှိပါက အလုပ်လုပ်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="unlock_disable_frp_warning_title_profile">ပရိုဖိုင်အကာအကွယ်အား ဖယ်ရှားမလား?</string>
-    <string name="unlock_disable_lock_pin_summary">PIN ပိတ်</string>
+    <string name="unlock_disable_lock_pin_summary">PIN အား ပိတ်ပါ</string>
+    <string name="unlock_failed">အတွင်းပိုင်းအမှား</string>
     <string name="unlock_mode_title">မျက်နှာပြင်လော့ခ်</string>
     <string name="unlock_set_enter_system">သော့ခတ်မျက်နှာပြင်အား ကျော်သွားပါ</string>
     <string name="unlock_set_enter_system_summary">နိုးထပြီး ပင်မမျက်နှာပြင် သို့ တိုက်ရိုက်သွားမည်</string>
     <string name="unlock_set_unlock_biometric_weak_summary">လုံခြုရေးအဆင့်နိမ့်သော စမ်းသပ်ဆဲအင်္ဂါရပ်များ</string>
     <string name="unlock_set_unlock_biometric_weak_title">မျက်နှာဖြင့် လော့ခ်ဖြည်ခြင်း</string>
-    <string name="unlock_set_unlock_launch_picker_change_summary">ပုံစံ၊PIN၊ သို့မဟုတ် စကားဝှက်ပြောင်းလဲ သို့မဟုတ် ပိတ်လိုက်ပါ</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">ပုံစံ၊ PIN၊ စကားဝှက်အား ပြောင်းလဲမည် သို့မဟုတ် ပိတ်မည်</string>
     <string name="unlock_set_unlock_launch_picker_title">သော့ခတ်မျက်နှာပြင်</string>
     <string name="unlock_set_unlock_mode_password">စကားဝှက်</string>
-    <string name="unlock_set_unlock_mode_pin">ပင်</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_none_title">လုံးဝမလုပ်</string>
     <string name="unlock_set_unlock_password_none">မရှိပါ</string>
     <string name="unlock_set_unlock_password_summary">ဖုန်းအား သော့ဖြည်ရန် စာလုံး၊နံပါတ် ၄ လုံး သို့မဟုတ် ၄ လုံးနှင့်အထက် ရိုက်ထည့်ပါ</string>
     <string name="unlock_set_unlock_password_title">စကားဝှက်</string>
     <string name="unlock_set_unlock_pattern_summary">ဖုန်းအား သော့ဖြည်ရန် ရိုးရှင်းသော သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ</string>
+    <string name="unlock_set_unlock_pattern_title">သော့ဖွင့်ပုံစံ</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">စက်အား လော့ခ်ဖြည်ရန် နံပါတ် %d-%d လုံးအထိ ရိုက်ထည့်ပါ</string>
-    <string name="unlock_set_unlock_pin_title">ပင်</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">မျက်နှာပြင်လော့ခ်ချမည်</string>
     <string name="unlock_type_category_title">မှတ်မိခြင်း နည်းလမ်း</string>
     <string name="unlogin_account_summary">Mi ဝန်ဆောင်မှု အားလုံး၊ Mi အကောင့် တစ်ခု။</string>
@@ -3184,10 +3425,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="usb_tethering_storage_active_subtext">USB သိုလှောင်မှု သုံးနေစဥ် ကွန်ရက်အား မျှဝေ၍ မရပါ</string>
     <string name="usb_tethering_unavailable_subtext">USB နှင့် ချိတ်ဆက်မထားပါ</string>
     <string name="usb_use_photo_transfers">ဓာတ်ပုံများအား လွှဲပြောင်းမည် (PTP)</string>
-    <string name="use_otg_charge_only">Reverse charging</string>
-    <string name="use_otg_charge_only_summary">Faster 1A charging</string>
-    <string name="use_otg_file_transfers">Reverse charging &amp; transferring files</string>
-    <string name="use_otg_file_transfers_summary">Slower 500mA charging and file transfers</string>
+    <string name="use_control_panel">ထိန်းချုပ်စင်တာသုံးပါ</string>
+    <string name="use_otg_charge_only">အားသွင်းခြင်းကို ပြောင်းရန်</string>
+    <string name="use_otg_charge_only_summary">ပိုမြန်သော 1.8A အားသွင်းမှု</string>
+    <string name="use_otg_file_transfers">အားသွင်းခြင်းကို ပြောင်း၍ &amp; ဖိုင်များ လွှဲပြောင်းနေသည်</string>
+    <string name="use_otg_file_transfers_summary">ပိုနှေးသော 500mA အားသွင်းမှုနှင့် ဖိုင် ကူးပြောင်းမှုများ</string>
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">စိတ်ကြိုက်ကြော်ငြာ အကြံပြုချက်</string>
     <string name="use_personalized_ad_service_summary">အကြံပြုချက်များအား ပိတ်လိုက်ပါက ကြော်ငြာအရေအတွက်သည် မပြောင်းလဲပါ၊ သို့သော် သင် စိတ်ကြိုက်ဒေတာ၊ ကိုယ်ရေးအချက်လက်ပေါ် မူတည်၍ ပေးပို့မည်မဟုတ်ပါ။</string>
@@ -3284,9 +3526,10 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="vpn_settings_not_available">ဤသုံးစွဲသူအတွက် VPN ဆက်တင်များ မရနိုင်ပါ</string>
     <string name="vpn_settings_password">VPN စကားဝှက်</string>
     <string name="vpn_settings_summary">သော့ခတ်မျက်နှာပြင် စကားဝှက်နှင့် VPN ဆက်တင်များအား ကာကွယ်ပါ</string>
+    <string name="vr_listeners_title">VR အထောက်အကူဝန်ဆောင်မှုများ</string>
     <string name="wait_for_debugger">ဒီဘာဂ်စက်ကို စောင့်ပါ</string>
     <string name="wait_for_debugger_summary">ဒီဘာဂ်အက်ပ်သည် အလုပ်မလုပ်မီ ဒီဘာဂ်စက်နှင့် တွဲချိတ်ရန် စောင့်နေမည်</string>
-    <string name="wake_suppression_summary">မတော်တဆထိမိခြင်းအတွက် စက်က တုံ့ပြန်မည်မဟုတ်သော်လည်း အစွန်းများအနီးရှိ ထိန်းချုပ် သင်္ကေတများကို တုံ့ပြန်နိုင်သည်</string>
+    <string name="wake_suppression_summary">မတော်တဆထိမိခြင်းအတွက် စက်က တုံ့ပြန်မှုနည်းမည်ဖြစ်သော်လည်း အစွန်းများအနီးရှိ ထိန်းချုပ် သင်္ကေတများကို တုံ့ပြန်နိုင်သည်</string>
     <string name="wake_suppression_title">နေရာကျဉ်း</string>
     <string name="wakeup_and_sleep_settings_category_name">သော့ခတ်မျက်နှာပြင် ဆက်တင်</string>
     <string name="wakeup_for_keyguard_notification_title">အသိပေးချက်များရှိပါက သော့ခတ်ထားသော မျက်နှာပြင်အား နှိုးစေပါ</string>

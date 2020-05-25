@@ -82,6 +82,7 @@
  အခြားကြောင်းပြချက်များ
  i.mi.com သို့ဆိုင်းအင်ဝင်ရောက်ပြီး သင့်စက်အား လော့ခ်ဖြည်ရန် ကြိုးစားကြည့်ပါ။"</string>
     <string name="unlock_help_title">သော့ဖြည်အကူအညီ−</string>
+    <string name="unlock_number">သော့ဖြည်ကုဒ် - %s</string>
     <string name="unlock_wrong_captcha">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="unlocking">အသက်သွင်းနေသည်…</string>
     <string name="verifing_account">စကားဝှက်အား စစ်ဆေးနေ…</string>
