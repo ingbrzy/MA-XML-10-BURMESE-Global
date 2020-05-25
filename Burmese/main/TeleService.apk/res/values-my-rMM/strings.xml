@@ -580,13 +580,11 @@
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">နံနက်</string>
     <string name="time_formate_pm">ညနေ</string>
-    <string name="time_interval_char">:</string>
     <string name="time_next_day">" နောက်တစ်နေ့ "</string>
     <string name="time_start">" မှ "</string>
     <string name="time_start_hour">time start hour</string>
     <string name="time_start_minute">time start minute</string>
     <string name="transport_title">ပို့ဆောင်ရေး အမျိုးအစား</string>
-    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">ဗီဒီယိုခေါ်ဆိုမှုလုပ်နေစဉ် TTY မုဒ်ပြောင်းလဲခြင်းအား ခွင့်မပြုထားပါ</string>
     <string name="tty_mode_option_summary">TTY မုဒ်ကို သတ်မှတ်မည်</string>
     <string name="tty_mode_option_title">TTY မုဒ်</string>
@@ -616,7 +614,6 @@
     <string name="voicemail">အသံမေးလ်</string>
     <string name="voicemail_abbreviated">VM:</string>
     <string name="voicemail_change_pin_dialog_title">PIN ပြောင်းမည်</string>
-    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">သင့်ဖုန်းလိုင်းကုမ္ပဏီ</string>
     <string name="voicemail_notifications_preference_title">အသိပေးချက်များ</string>
     <string name="voicemail_number_not_set">&lt;မသတ်မှတ်ထား></string>
@@ -625,13 +622,11 @@
     <string name="voicemail_settings">ဖွဲ့စည်းပုံ</string>
     <string name="voicemail_settings_number_label">အသံမေးလ်နံပါတ်</string>
     <string name="voicemail_settings_with_label">အသံမေးလ်(%s)</string>
-    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">ရုပ်သံ အသံမေးလ်</string>
     <string name="vvm_unsupported_message_format">မကိုက်ညီသော မက်ဆေ့ချ်အမျိုးအစားဖြစ်နေသည်၊ %s သို့ခေါ်ဆို၍ နားထောင်ပါ။</string>
     <string name="wait_prompt_str">"အောက်ပါမြည်သံကို ပို့မည်လော
 "</string>
     <string name="wifi_calling">Wi-Fi ခေါ်ဆိုခြင်း</string>
-    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">Wi-Fi ခေါ်ဆိုမှု</string>
     <string name="wild_prompt_str">စကားလုံးအရိုင်းအား အစားထိုးမည်</string>
 </resources>
