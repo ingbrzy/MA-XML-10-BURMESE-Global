@@ -2,13 +2,19 @@
 <resources>
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="afternoon">နေ့လယ်</string>
+    <string name="already_newest_version">Current version is up to date</string>
     <string name="am">နံနက်</string>
+    <string name="cancel_download">Download canceled</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="download_failed">"Couldn't download"</string>
     <string name="early_morning">နံနက်</string>
+    <string name="earth_summary">ကမ္ဘာဂြိုလ်သည် လူ့ယဉ်ကျေးမှု တိုးတက်မှုဖြစ်စဉ်၏ မူလဘူတ ဖြစ်ပါသည်</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">ပင်မစာမျက်နှာ</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
@@ -52,6 +58,24 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="install_failed">"Couldn't install"</string>
+    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Mensae ဒေသ"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_summary">အင်္ဂါဂြိုလျ၏ ကျယ်ပြန့်လွန်းသော သဲကန္တာရသည် လူသားတို့ကို အံ့သြစေပါသည်</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">အနီရောင်ဂြိုလ်</string>
     <string name="midnight">ည</string>
     <string name="miuix_appcompat_cloud_state_disabled">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်း ပိတ်ထားသည်</string>
     <string name="miuix_appcompat_cloud_state_finished">ကလောက်နှင့် အောင်မြင်စွာ ဆင့်(ခ်)လုပ်ပြီးပါပြီ</string>
@@ -98,14 +122,26 @@
     <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
     <string name="night">ညနေ</string>
+    <string name="no_cta_agreed">"GetApps doesn't have CTA permissions"</string>
+    <string name="no_install_permission">"You don't have permissions to install this item"</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="pm">ညနေ</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
+    <string name="saturn_summary">စနေဂြိုလ်၏ ကွင်းများသည် နေစကြာဝဠာအတွင်းရှိ အံ့ဖွယ်အကောင်းဆုံးသော ရှုခင်းတစ်ခု ဖြစ်ပါသည်</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">ဝေးလံသောနေရာများမှ စွဲဆောင်မှုများ</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="super_wallpaper_list_label">စူပါ နောက်ခံပုံများ</string>
+    <string name="super_wallpaper_setting_apply_success_toast">အောင်မြင်စွာ အသုံးချပြီးပါပြီ</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">အသုံးပြုမည်</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">တည်နေရာ ရွေးချယ်မည်</string>
+    <string name="super_wallpaper_setting_coordinate_title">ကိုသြဒိနိတ်မျဥ်း</string>
+    <string name="super_wallpaper_setting_view_height_title">ပင်လယ်ရေမျက်နှာပြင်အထက်</string>
+    <string name="task_already_exist">This task already exists</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>
@@ -157,6 +193,17 @@
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
+    <string name="update">Update</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">နောက်ထပ် အွန်လိုင်းနောက်ခံပုံများ</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">ပင်မမျက်နှာပြင်</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">သော့ခတ်မျက်နှာပြင်</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">အွန်လိုင်း နောက်ခံပုံများ</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Discover နောက်ခံပုံများ</string>
+    <string name="wallpaper_setting_online_wallpaper_title">အွန်လိုင်း နောက်ခံပုံများ</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">စူပါ နောက်ခံပုံများ</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">နောက်ထပ်</string>
+    <string name="wallpaper_setting_title">နောက်ခံပုံ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>

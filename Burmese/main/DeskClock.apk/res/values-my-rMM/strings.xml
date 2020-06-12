@@ -70,6 +70,7 @@
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="channel_name_alarm">သတိပေးချက်</string>
     <string name="channel_name_sleep">အိပ်စက်မည်</string>
+    <string name="channel_name_stopwatch">အချိန်မှတ်နာရီ</string>
     <string name="channel_name_timer">တိုင်မာ</string>
     <string name="check_theme_app_install">သင့်ဖုန်းတွင် သင်းမ် အက်ပ် ထည့်သွင်းထားပါ။</string>
     <string name="check_voice_assist_app_version">Mi AI အား နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။</string>
@@ -123,7 +124,7 @@
     <string name="edit_label">နှိုးစက်အညွှန်း တည်းဖြတ်ပါ</string>
     <string name="edit_systemtime">စက်စနစ်အချိန်ကို တည်းဖြတ်ပါ</string>
     <string name="edit_systemtime_setting_summary">ရက်စွဲ၊ အချိန် နှင့် နှစ်ခုတွဲ နာရီ</string>
-    <string name="every_day">နေ့တိုင်း</string>
+    <string name="every_day">နေစဉ်</string>
     <string name="expired_timers_dismissed">တိုင်မာ ဖယ်ထုတ်ပြီးပါပြီ</string>
     <string name="force_touch_add_alarm">နှိုးစက်ထည့်ရန်</string>
     <string name="force_touch_enter_stopwatch">စံချိန်ယူနာရီ</string>
@@ -293,6 +294,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၁၀ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -339,6 +341,7 @@
     <string name="stopwatch_reset_notification">အချိန်မှတ်နာရီကို ပြန်သတ်မှတ်ထားသည်</string>
     <string name="stopwatch_running_notification">အချိန်မှတ်နာရီ</string>
     <string name="stopwatch_title">စံချိန်ယူနာရီ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပါ။</string>
     <string name="system_permission_main_purpose">အချိန်ကြည့်ခြင်း၊ နှိုးစက်နှင့် တိုင်မာများ သတ်မှတ်ခြင်း၊ ချိန်ကိုက်နာရီသုံးခြင်း</string>
     <string name="system_permission_purpose">ရုံးဖွင့်ရက်နှိုးစက်များပြုလုပ်ခြင်းနှင့် စိတ်ကြိုက်ဖုန်းသံများ သတ်မှတ်ခြင်း</string>

@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">၁ နာရီ အတွင်း</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">နာရီဝက် အတွင်း</item>
+    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">ချက်ချင်း</item>
     </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d မိနစ်အတွင်း</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ခုလေးတင်</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">အဆက်အသွယ် %1$dခုအား ဖျက်ပစ်မလား?</item>
@@ -51,6 +72,9 @@
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d ခု</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
+    </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">အိုင်တမ် %1$d ခုတွေ့ရှိခဲ့</item>
     </plurals>
@@ -63,8 +87,23 @@
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">အရေအတွက် %1$d ခု</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">၁ နာရီ အတွင်း</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">နာရီဝက် အတွင်း</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ချက်ချင်း</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d မိနစ် အကြာမှာ</item>
+    </plurals>
     <plurals name="label_duplicate_count_plurals">
         <item quantity="other">(%1$d)</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">အဆက်အသွယ် %d ခု</item>
@@ -83,6 +122,9 @@
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">အုပ်စု %d ခု</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">အိုင်တမ် %1$d ခုကျန်ရှိနေ</item>

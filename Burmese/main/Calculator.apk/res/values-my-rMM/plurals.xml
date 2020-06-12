@@ -24,4 +24,7 @@
     <plurals name="tenure_months">
         <item quantity="other">%d လ</item>
     </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d နှစ်</item>
+    </plurals>
 </resources>

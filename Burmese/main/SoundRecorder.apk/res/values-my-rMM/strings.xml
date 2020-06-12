@@ -6,6 +6,8 @@
     <string name="alert_message_delete_record">သင်စက်မှ ဤမှတ်တမ်းတင်မှုကို ဖျက်ခြင်းသည် Xiaomi Cloud မှ ဤမှတ်တမ်းတင်မှုကိုလည်း ဖျက်ပစ်ပါမည်။ ယခု ဖျက်မလား။</string>
     <string name="alert_message_delete_record_title">အသံဖမ်းယူမှုကို ဖျက်ပစ်မလား။?</string>
     <string name="app_name">ရီကော်တာ</string>
+    <string name="app_record">App recordings</string>
+    <string name="app_record_preference_title">App recordings</string>
     <string name="back">ယခင်သို့</string>
     <string name="button_queue_for_wifi">စောင့်ပါ</string>
     <string name="button_start_now">ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -206,6 +208,7 @@
     <string name="record_downloading_notification_count">ဒေါင်းလုဒ်လုပ်နေသောအရာ %d ခု</string>
     <string name="record_format_preference_title">မှတ်တမ်းတင် ဖောမတ်</string>
     <string name="record_list">အသံဖမ်းယူမှုများ</string>
+    <string name="record_list_app">App recordings</string>
     <string name="record_list_call">အသံဖမ်းထားသော ခေါ်ဖုန်းများ</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">အသံဖမ်းယူမှုများကို ဆင့်ခ်လုပ်ထားသည်</string>

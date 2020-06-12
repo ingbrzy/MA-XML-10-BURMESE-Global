@@ -18,6 +18,7 @@
     <string name="dialog_market_score_title_step2">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါတယ်။</string>
     <string name="dual_app_title">နှစ်ခုတွဲအက်ပ်</string>
     <string name="dual_app_words">အကောင့်တိုင်းအတွက် အက်ပ်ကိုယ်စီ</string>
+    <string name="empty">" "</string>
     <string name="ew_detail_earthquake_center_title">Epicenter</string>
     <string name="ew_detail_earthquake_feel_little">Slight shaking</string>
     <string name="ew_detail_earthquake_feel_max">Very strong</string>

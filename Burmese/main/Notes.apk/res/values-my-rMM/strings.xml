@@ -111,8 +111,11 @@
     <string name="first_enter_custom_folder_hint">ဤနေရာတွင် ဖိုလ်ဒါများအား အမည်ပြန်ပေးခြင်း သို့မဟုတ် ဖျက်ပစ်ခြင်းများ ဆောင်ရွက်နိုင်ပါသည်</string>
     <string name="float_todo_guide_cancel">မလုပ်တော့ရန်</string>
     <string name="float_todo_guide_message">ပင်မမျက်နှာပြင်ရှော့ကတ်များတွင် လုပ်ငန်းများကို မျက်နှာပြင်အစွန်းမှ ပွတ်ဆွဲကြည့်ခွင့်နှင့် ဖန်တီးခွင့်ရှိသည်။ ယခု ရှော့ကတ်လုပ်လိုသလား။</string>
+    <string name="float_todo_guide_message_v2">လက်ဟန်ခြေဟန်ရှော့ကတ်များက သင့်အား မျက်နှာပြင်၏ အစွန်မှ ပွတ်ဆွဲခြင်းဖြင့် အလုပ်များကို ကြည့်ခွင့်နှင့် ပြုလုပ်ခွင့်ပေးသည်။ ဤအင်္ဂါရပ်ကို ဆက်တင်ထဲတွင် ပိတ်ထားနိုင်ပါသည်။</string>
     <string name="float_todo_guide_ok">လုပ်ရန်</string>
+    <string name="float_todo_guide_ok_v2">ဖွင့်ရန်</string>
     <string name="float_todo_guide_title">ပင်မမျက်နှာပြင်ရှော့ကတ်</string>
+    <string name="float_todo_guide_title_v2">လက်ဟန်ခြေဟန်ရှော့ကတ်</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -264,6 +267,7 @@
     <string name="note_sort_way">သင့်မှတ်စုများအား မည်သို့ စီစဉ်လိုသည်ကို ရွေးချယ်ပါ</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">လုပ်ငန်းအသစ်တစ်ခု သင် ထည့်ထားပါသည်။ ကြည့်ရန် တို့ပါ။</string>
     <string name="notify_alarm_title">မှတ်စု သတိပေးချက်</string>
     <string name="permdesc_accessNote">အမျိုးအမည်မသိအက်ပ်များမှ ဤအရာကိုသုံးပြီး သင့်ကိုယ်ရေးဒေတာများအား ရယူနိုင်သည်။</string>
@@ -283,7 +287,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">လက်ချောင်း နှစ်ချောင်းဖြင့် အပေါ်သို့ ပွတ်ဆွဲ၍ မှတ်စုအား ဖျက်ပါက အတည်ပြုရန် မလိုပါ</string>
     <string name="pref_desc_todo_float_mode">လုပ်ငန်းစဥ် ကိရိယာဘောက်စ်ဖွင့်ရန် မျက်နှာပြင် အစွန်းမှ ပွတ်ဆွဲပါ</string>
     <string name="pref_remind_type_summary">သတိပေးချက်များအတွက် အသံတိတ်မုဒ်တွင် အသံမြည်ရန်</string>
+    <string name="pref_remind_type_summary_new">အသံတိတ်မုဒ်ကို လစ်လျူရှုပြီး နှိုးစက်ပိတ်သည်အထိ အသံဖွင့်ပါ</string>
     <string name="pref_remind_type_title">အသံတိတ်မုဒ်ကို လစ်လျူရှုရန်</string>
+    <string name="pref_remind_type_title_new">ဦးစားပေးအဆင့်မြင့် သတိပေးချက်များ</string>
     <string name="pref_title_cloud_trash_bin">ကလောက်တွင် ဖျက်ထားသော မှတ်စုများ</string>
     <string name="pref_title_common">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="pref_title_font_size">ဖောင့်အရွယ်အစား</string>
@@ -439,6 +445,7 @@
     <string name="toast_reach_text_limit_truncate">ဤမှတ်စုမှာ ရှည်လွန်းနေသည်။ အဆုံးတွင် စာသားတစ်ချို့အား ဖြတ်ပစ်လိုက်သည်။</string>
     <string name="toast_refuse_to_record_when_in_call">ဖုန်းပြောနေစဥ် ဤအင်္ဂါရပ်အား အသုံးချ၍ မရပါ</string>
     <string name="toast_refuse_to_record_when_in_multi_window">မျက်နှာပြင်ခွဲတွင် ဤအင်္ဂါရပ်အား မသုံးနိုင်ပါ</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">မျောလွင့်အကွက်များတွင် မျက်နှာပြင်ခွဲ အင်္ဂါရပ်ကို သုံးမရပါ</string>
     <string name="toast_refuse_to_use_contact">"အဆက်အသွယ် ခွင့်ပြုချက်များအား ကန့်သတ်ထားသည်။
 မှတ်စုအား အဆက်အသွယ် ဖတ်ယူခွင့် နှင့် အကောင့် ရှာဖွေခွင့် ပေးပါ။"</string>
     <string name="toast_refuse_to_use_external_storage">"သိုလှောင်ခန်း ခွင့်ပြုချက်များအား ကန့်သတ်ထားသည်။
@@ -522,6 +529,7 @@
     <string name="toolbar_voice_description">အသံ</string>
     <string name="trash_folder_name">အမှိုက်</string>
     <string name="trash_folder_reminder">သင်ဖျက်လိုက်သော မှတ်စုများအား ရက် ၃၀ နောက် အပြီးအပိုင်ဖျက်ပစ်လိုက်လိမ့်မည်။</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>

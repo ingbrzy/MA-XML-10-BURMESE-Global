@@ -6,6 +6,10 @@
         <item>ပေ</item>
         <item>လက်မ</item>
     </string-array>
+    <string-array name="loan_rulers">
+        <item>@string/loan_type_summary_lpr</item>
+        <item>@string/loan_type_summary_base</item>
+    </string-array>
     <string-array name="mortgage_repayment">
         <item>ညီမျှသော အရစ်ကျပေးချေမှု</item>
         <item>လျှော့နည်း အရစ်ကျပေးချေမှုများ</item>
@@ -32,9 +36,7 @@
     <string-array name="unit_data_order_currency_">
         <item>ဒေါ်လာ</item>
         <item>ယူရို</item>
-        <item>ဟောင်ကောင်ဒေါ်လာ</item>
         <item>ဂျပန်ယန်း</item>
-        <item>ယွမ်</item>
     </string-array>
     <string-array name="weight_array">
         <item>ကီလိုဂရမ်</item>

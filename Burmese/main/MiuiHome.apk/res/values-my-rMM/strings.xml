@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_all_app_custom_category_finish">Done</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Remove \"%1$s\" from categories</string>
+    <string name="accessibility_clear_search_bar_text">Clear search bar</string>
+    <string name="accessibility_enter_all_app_mode">Open App drawer</string>
+    <string name="accessibility_enter_all_app_settings">Open App drawer settings</string>
+    <string name="accessibility_menu_item_smallwindow_disable">ဤအက်ပ်သည် ရွေ့မျောနေသော ဝင်းဒိုးများအတွက် ပံ့ပိုးပေးထားခြင်း မရှိပါ</string>
+    <string name="accessibility_menu_item_smallwindow_enable">ဤအက်ပ်သည် ရွေ့မျောနေသော ဝင်းဒိုးများအတွက် ပံ့ပိုးပေးထားပါသည်</string>
     <string name="accessibility_menu_item_split_disable">အက်(ပ်)သည် မျက်နှာပြင်ခွဲခြင်းကို မပံ့ပိုးပါ</string>
     <string name="accessibility_menu_item_split_enable">အက်(ပ်)သည် မျက်နှာပြင်ခွဲခြင်းကို ပံ့ပိုးသည်</string>
     <string name="accessibility_recent_task_enter">လတ်တလော ဖွင့်ထားသော အရာများ</string>
@@ -33,6 +40,7 @@
     <string name="all_apps_no_search_results">ရလဒ်များ ရှာမတွေ့ပါ</string>
     <string name="all_apps_search_app">အက်ပ်များ ရှာဖွေရန်</string>
     <string name="all_apps_search_market_message">အွန်လိုင်းတွင် ရှာပါ</string>
+    <string name="all_apps_setting_classic_title">ဂန္ထဝင်</string>
     <string name="all_apps_setting_desktop_desc">ပင်မမျက်နှာပြင်ပေါ်တွင် တပ်ဆင်ထားသော အက်ပ်များအားလုံးကို ပြသပါ။ ရရှိနိုင်သော ရှော့ကဒ်များကိုကြည့်ရန်အတွက် အက်ပ်တစ်ခု၏ အိုင်ကွန်ပေါ်တွင် ဖိနှိပ်ထားပါ သို့မဟုတ် ထိုအက်ပ်ကို စီမံပါ သို့မဟုတ် ဖြုတ်ပါ။</string>
     <string name="all_apps_setting_desktop_title">ပုံမှန်</string>
     <string name="all_apps_setting_drawer_desc">တပ်ဆင်ထားသော အက်ပ်များအားလုံးအား မူလမျက်နှာပြင်ပေါ်တွင် အပေါ်သို့ဆွဲတင်ခြင်းအားဖြင့် ဖွင့်နိုင်သည့် အက်ပ်အံဆွဲအတွင်းသို့ ထည့်သွင်းပါ။ ဤအက်ပ်အံဆွဲအတွင်းရှိ မူလမျက်နှာပြင်သို့ သင်ရွှေ့ပြောင်းထားသည့် ဤအက်ပ်အား သင်ရှာဖွေနိုင်ပါသေးသည်။</string>
@@ -114,6 +122,7 @@
     <string name="auto_add_app_shortcut">အက်(ပ်)အသစ်များကို ပင်မမျက်နှာပြင်တွင် ထားရန်</string>
     <string name="auto_delete_category_dialog_content">လက်ရှိအက်ပ်များအား ဤအမျိုးအစားအုပ်စုအတွင်းမှ ဖယ်ရှားသွားမည်ဖြစ်ပြီး ဤအမျိုးအစားအုပ်စုကိုလည်း ဖျက်ပစ်ပါတော့မည်။ ဤအမျိုးအစားအုပ်စုကို ယခုပင် ဖျက်ပစ်မလား။</string>
     <string name="auto_delete_category_dialog_title">အမျိုးအစားအုပ်စုကို ဖျက်နေသည်</string>
+    <string name="back">Back</string>
     <string name="backup_fail">အစပျိုးစက်အား အရန်သိမ်း၍ မရပါ</string>
     <string name="bad_wallpaper_source_prompt">နောက်ခံပုံ ရယူ၍ မရပါ</string>
     <string name="buffering">ဘက်ဖာရင်း…</string>
@@ -138,6 +147,10 @@
     <string name="choose_wallpaper">နောက်ခံပုံ ရွေးပါ</string>
     <string name="chooser_wallpaper">နောက်ခံပုံ အသစ်တစ်ခု ရွေးပါ</string>
     <string name="cloud_app_restore_title">ဆိုင်းငံ့ထားသည်</string>
+    <string name="common_home_search_delete">ပင်မစာမျက်နှာမှ ရှာဖွေရေး ဘားတန်းကို ဖျက်နေသည်</string>
+    <string name="common_home_search_delete_cancle">မလုပ်တော့ရန်</string>
+    <string name="common_home_search_delete_confirm">ဖျက်ရန်</string>
+    <string name="common_home_search_delete_content">ပင်မစာမျက်နှာမှ ရှာဖွေရေး ဘားတန်းကို ဖျက်ပြီးနောက် ၎င်းထဲတွင် ရှာဖွေနိုင်တော့မည် မဟုတ်ပါ။ မဖြစ်မနေ ဖျက်လိုသလား။</string>
     <string name="configure_wallpaper">ဆက်တင်များ</string>
     <string name="confirm_btn_label">အိုကေ</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">ဤအရာများနှင့်အတူ နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချလိမ့်မည်။</string>
@@ -458,8 +471,10 @@
     <string name="sort_by_not_defined">အော်တို-မျိုးတူစုပါ</string>
     <string name="start_activity_failed">အစပျိုးစက်ကို စတင်၍ မရပါ</string>
     <string name="starting_preset_app">စတင်နေသည်…</string>
-    <string name="status_bar_recent_memory_info1">%2$sB အနက် %1$sB ကို ရနိုင်သည်</string>
+    <string name="status_bar_recent_memory_giga">%1$s GB</string>
+    <string name="status_bar_recent_memory_info1">%2$sB ၏ %1$sB ကို ရနိုင်သည်</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">ဒေါင်းလုဒ်လုပ်ထားသော</string>
     <string name="status_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="status_installing">ထည့်သွင်းနေသည်</string>
