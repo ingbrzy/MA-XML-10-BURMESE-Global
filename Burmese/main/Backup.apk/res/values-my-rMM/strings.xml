@@ -132,7 +132,6 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="dialog_backup_password_change_machine_tips">စကားဝှက်ဖြင့် ကာကွယ်ထားသော အရန်သိမ်းခြင်းများအား လွှဲပြောင်း၍ မရပါ။ Mi Mover မသုံးမီ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
     <string name="dialog_backup_password_restore_tips">စကားဝှက် အရန်သိမ်းခြင်းအား ဖွင့်ထားပါက အိုင်တမ်များအား ပြန်ရယူ၍ မရပါ။ စကားဝှက် အရန်သိမ်းခြင်းအား ပိတ်ပါ။</string>
     <string name="dialog_backup_password_to_settings">ဆက်တင်</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
     <string name="disable_encrypt_title">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းခြင်းကို ပိတ်ပါ</string>
@@ -226,7 +225,6 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
 ၂။\u0009Mi Talk ဆက်တင်များသို့ သွား၍၊ “အဆက်အသွယ်များကို Mi အကောင့်သို့ အရန်သိမ်းခြင်းလုပ်ပါ” ကို ရွေးပါ"</string>
     <string name="import_from_xiaomi_account_hint2">သင့်တွင် အရန်သိမ်းခြင်း တစ်ခု ရှိနေပြီးသားဖြစ်ပါက နောက်တစ်ဆင့်ကို ထိနှိပ်ပါ။</string>
     <string name="import_from_xiaomi_account_hint_title">သင့်အဆက်အသွယ်များကို ကိရိယာများအနှံ့ အရန်သိမ်းခြင်းလုပ်ရန်၊ Mi Talk ကို သုံးပါ။</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
     <string name="lack_perm_msg">Mi Moverမှ အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည်- &lt;b>%s&lt;/b>။</string>
     <string name="lack_perm_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
@@ -727,11 +725,8 @@ Mi Moverအား သင် နှစ်သက်ပါသလား?"</string>
 ချိတ်ဆက်မှု ပြီးဆုံးသည်အထိ ဤစာမျက်နှာအား ဖွင့်ထားပါ။"</string>
     <string name="waiting">ခဏစောင့်ပါ…</string>
     <string name="wifi_title">Wi-Fi ဆက်တင်များ</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi ရောက်တာ</string>
     <string name="xiaomi_router_location">Mi ရောက်တာ %s</string>
     <string name="xiaomi_update_dialog_message">"မိတ်ဆက်ဗားရှင်း %1$s
