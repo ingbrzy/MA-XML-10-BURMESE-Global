@@ -6,8 +6,8 @@
     <string name="alert_message_delete_record">သင်စက်မှ ဤမှတ်တမ်းတင်မှုကို ဖျက်ခြင်းသည် Xiaomi Cloud မှ ဤမှတ်တမ်းတင်မှုကိုလည်း ဖျက်ပစ်ပါမည်။ ယခု ဖျက်မလား။</string>
     <string name="alert_message_delete_record_title">အသံဖမ်းယူမှုကို ဖျက်ပစ်မလား။?</string>
     <string name="app_name">ရီကော်တာ</string>
-    <string name="app_record">App recordings</string>
-    <string name="app_record_preference_title">App recordings</string>
+    <string name="app_record">အက်(ပ်)အသံသွင်းခြင်းများ</string>
+    <string name="app_record_preference_title">အက်(ပ်)အသံသွင်းခြင်းများ</string>
     <string name="back">ယခင်သို့</string>
     <string name="button_queue_for_wifi">စောင့်ပါ</string>
     <string name="button_start_now">ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -98,6 +98,7 @@
     <string name="network_unavailable_tip">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="new_record_name">အသံဖမ်းမှုအသစ်</string>
     <string name="no_file">အလွတ်</string>
+    <string name="no_network">"Couldn't connect to the network"</string>
     <string name="notification_message_all_paused">Wi-Fiချိတ်ဆက်မှုကို စောင့်နေသည်။</string>
     <string name="notification_playback">ဖွင့်ထားဆဲ…</string>
     <string name="notification_recording">အသံဖမ်းယူနေဆဲ…</string>
@@ -208,7 +209,7 @@
     <string name="record_downloading_notification_count">ဒေါင်းလုဒ်လုပ်နေသောအရာ %d ခု</string>
     <string name="record_format_preference_title">မှတ်တမ်းတင် ဖောမတ်</string>
     <string name="record_list">အသံဖမ်းယူမှုများ</string>
-    <string name="record_list_app">App recordings</string>
+    <string name="record_list_app">အက်(ပ်)အသံသွင်းခြင်းများ</string>
     <string name="record_list_call">အသံဖမ်းထားသော ခေါ်ဖုန်းများ</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">အသံဖမ်းယူမှုများကို ဆင့်ခ်လုပ်ထားသည်</string>
@@ -226,6 +227,9 @@
     <string name="recording_quality_low">အရည်အသွေးနိမ့်</string>
     <string name="recording_quality_standard">စံအရည်အသွေး</string>
     <string name="recording_stopped">ရပ်ဆိုင်းထားသည်</string>
+    <string name="recovery">ပြန်ယူရန်</string>
+    <string name="recovery_failed_dialog_button">နားလည်ပါပြီ</string>
+    <string name="recovery_failed_dialog_title">သတိပြုရန်</string>
     <string name="reg_error_audio_exist">ဤဖိုင်မှာ ရှိပြီးဖြစ်သည်။</string>
     <string name="reg_error_audio_large">အော်ဒီယိုဖိုင်သည် ၅၀၀ MB ထက် ကြီး၍ မရပါ။</string>
     <string name="reg_error_audio_short">အော်ဒီယိုဖိုင် သေးလွန်းသည်။</string>
@@ -244,6 +248,7 @@
     <string name="rename_no_more_tip">ထပ်မံ မပြပါနှင့်</string>
     <string name="retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="runtime_permission_ungranted">မှတ်တမ်းတင်သူအား အာမခံမရှိသော ခွင့်ပြုချက်များကြောင့် အသုံးပြု၍မရနိုင်ပါ</string>
+    <string name="save_record_dialog_title">အသံဖိုင်သိမ်းရန်</string>
     <string name="search_app">ရီကော်တာ</string>
     <string name="search_empty">ရလဒ်များ ရှာမတွေ့ပါ</string>
     <string name="search_enable_earpiece_title">အော်ဒီယိုဖွင့်ရန် အသံလက်ခံကိရိယာကို သုံးပါ</string>
@@ -284,11 +289,14 @@
     <string name="text_play_speed_1_5">အမြန်နှုန်ူး ၁.၅ ဆ</string>
     <string name="text_play_speed_2_0">အမြန်နှုန်ူး ၂ ဆ</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s က %2$s အကြာခန့် အသံဖမ်းယူနိုင်သည်</string>
     <string name="toast_uninstall_fileexplorer">ဖိုင်မန်နေဂျာအား မထည့်သွင်းရသေးပါ</string>
+    <string name="trash_box">လတ်တလောဖျက်ထားသော အရာများ</string>
+    <string name="trash_box_close_tip">ပေါ်လာသောအကွက်ကို ပိတ်ရန်</string>
+    <string name="trash_box_delete_all">အမှိုက်ပုံးမှအရာအားလုံးကို အပြီးဖျက်လိုသလား။</string>
     <string name="usage_description">ကလောက်ဖြင့် အသံကို စာပြန်ရိုက်ခြင်းနှင့် အရာဝတ္ထုများ ဆင့်(ခ်)လုပ်ခြင်း</string>
+    <string name="user_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="webview_check_network">ကွန်ရက် ဆက်တင်</string>
     <string name="webview_data_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="webview_locating_fail">သင့်တည်နေရာကို ရှာမတွေ့ပါ</string>

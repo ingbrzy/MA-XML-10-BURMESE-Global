@@ -6,6 +6,9 @@
     <plurals name="feed_back_home">
         <item quantity="other">ပင်မစာမျက်နှာသို့ %1$d စက္ကန့်အတွင်း ပြန်သွားပါမည်…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">ဖော်လိုလုပ်သူ %d ဦး</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">စာတန်းအား %.1f စက္ကန့် ရှေ့တိုးမည်</item>
     </plurals>
@@ -17,6 +20,9 @@
     </plurals>
     <plurals name="lv_video_count">
         <item quantity="other">ဗီဒီယို %dခု</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s စက္ကန့် ကျန်သေးသည်</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">သင်တင်ထားသည့်အထဲတွင် ကျွန်ုပ်တို့၏ ကွန်မြူနတီစံနှုန်းနှင့် မကိုက်ညီသော အရာ (%1$s) ခု ပါဝင်သည်။ သင့်အကောင့်ကို %2$s နေ့ထိ %3$d ရက် ရပ်ဆိုင်းထားပါမည်။</item>
@@ -47,6 +53,15 @@
     </plurals>
     <plurals name="plus_serval_videos">
         <item quantity="other">ဗီဒီယို %d ကား</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">%d စက္ကန့်မတိုင်မီ နောက်သို့ပြန်သွားရန် နှစ်ချက်တို့ပါ။</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">%d စက္ကန့်မတိုင်မီ ရှေ့သို့အမြန်သွားရန် နှစ်ချက်တို့ပါ။</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s စက္ကန့်</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">စာရင်းသွင်းသူ  %s</item>

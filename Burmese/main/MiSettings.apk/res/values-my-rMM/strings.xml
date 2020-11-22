@@ -3,7 +3,7 @@
     <string name="advanced_mode">အဆင့်မြင့် ဆက်တင်များ</string>
     <string name="anti_flicker_mode">ရောင်ပြန်လျှော့စနစ်</string>
     <string name="anti_flicker_mode_categroy">မုဒ်များ</string>
-    <string name="anti_flicker_mode_summary">အလင်းရောင်နည်းချိန်များတွင် မျက်စိစူးခြင်းကို ကာကွယ်ရန် ရောင်ပြန်လျှော့ပါ။ အချို့အရာများကို ပုံမှန်အတိုင်း မြင်ရမည်မဟုတ်ပါ။</string>
+    <string name="anti_flicker_mode_summary">အလင်းရောင်အားနည်းသော အခြေအနေများတွင် ရောင်ပြန်များခြင်းကို ကာကွယ်ပြီး မျက်စိစူးခြင်းကို လျှော့ချပေးသည်</string>
     <string name="anti_flicker_title">ဖလက်ရှ် တားဆီးမုဒ်</string>
     <string name="app_name">ဆက်တင်များ</string>
     <string name="application_sound">အက်(ပ်)အသိပေးချက်များ</string>
@@ -23,6 +23,10 @@
     <string name="created">ဖန်တီးပြီးပြီ</string>
     <string name="created_successfully">အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ</string>
     <string name="cu_confirm">သတ်မှတ်မည်</string>
+    <string name="dc_light_hint_enable_title">သတိပြုရန်</string>
+    <string name="dc_light_hint_normal">DC အလင်းမှိန်စနစ်က အချို့အရာများ၏ ပြသပုံကို ထိခိုက်မှု ရှိနိုင်သည်။</string>
+    <string name="dc_light_hint_other">DC အလင်းမှိန်စနစ်က ရီဖရက်(ရှ်)နှုန်းနှင့် အချို့အရာများ၏ ပြသပုံကို ထိခိုက်မှု ရှိနိုင်သည်။</string>
+    <string name="dc_lignt_enable_hint">ရောင်ပြန်နိမ့်မုဒ်က မျက်နှာပြင်၏ ရီဖရက်(ရှ်)နှုန်းကို 60 Hz အထိ လျှော့ချပါမည်။ ရောင်ပြန်နိမ့်မုဒ် သို့ ပြောင်းလိုပါသလား။</string>
     <string name="display_description">သင်္ကေတများပိုကြီးရန်၊ စာလုံးကြီးရန်၊ မြင်ကွင်းကျပ်သိပ်မှု လျှော့ရန်</string>
     <string name="display_title">ပိုကြီးသောအရာများ</string>
     <string name="exit_easymode">ပေ့ါပါးမုဒ်ပိတ်ရန်</string>
@@ -37,6 +41,7 @@
     <string name="follow_sim1">SIM ၁ ဆက်တင်များကို သုံးရန်</string>
     <string name="gamma">ဂန်မာ</string>
     <string name="healthy_use_phone">မျက်နှာပြင်ဖွင့်ထားချိန်ကို စီမံမည်</string>
+    <string name="high_fps_description">မျက်နှာပြင် ရီဖရှက်ရှ်နှုန်းကို မြှင့်ထားမည်။ ဓာတ်အားသုံးစွဲမှု မြှင့်ထားမည်။</string>
     <string name="hsv_space_color">HSV အရောင်နေရာလွတ်</string>
     <string name="hsv_space_color_hue">အရောင်အဆင်း</string>
     <string name="hsv_space_color_saturation">တောက်ပမှုပြင်းအား</string>
@@ -45,6 +50,7 @@
     <string name="intelligent_recognition_item_title">ဝန်ဆောင်မှုများစိစစ်ရန်</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">သင့်ကိုယ်ရေးအချက်အလက်များကို ကာကွယ်လိုက်ပါ</string>
+    <string name="low_fps_description">မျက်နှာပြင် ရီဖရှက်ရှ်နှုန်းကို နှိမ့်ထားမည်။ ဓာတ်အားသုံးစွဲမှု နှိမ့်ထားမည်။</string>
     <string name="low_light_preview">အလင်းရောင်နည်းချိန်အကြောင်း ကြည့်ရန်</string>
     <string name="mms">မက်ဆေ့(ချ်)ပို့ခြင်း</string>
     <string name="more_ringtone">ဖုန်းမြည်သံအားလုံး</string>
@@ -87,6 +93,7 @@
     <string name="search_empty">မည်သည့်အက်ပ်မျှ မတွေ့ပါ</string>
     <string name="several_days_use_time">မျက်နှာပြင်ဖွင့်ထားချိန် - %2$s</string>
     <string name="shortcut_created">ဤရှော့ကဒ်မှာ ရှိပြီးသား ဖြစ်သည်</string>
+    <string name="silent_ringtone_hint">အော်ဒီယိုသည် အသံတိတ်မုဒ်တွင် ရှိနေသည်။ အသံဖွင့်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="sim_slot_1">" (SIM ၁)"</string>
     <string name="sim_slot_2">" (SIM ၂)"</string>
     <string name="sms_delivered_sound_title">မက်ဆေ့(ချ်)ထွက်သွားသံ</string>
@@ -124,7 +131,9 @@
     <string name="usage_app_limit_alter_title">မျက်နှာပြင်ဖွင့်ထားချိန် ကန့်သတ်ချက်ကို စစ်ဆေးရန်</string>
     <string name="usage_app_limit_prelong">အချိန်ထပ်တိုးရန်</string>
     <string name="usage_app_limit_reach_summay">%s ကျန်သည်</string>
+    <string name="usage_app_limit_reach_summay_new">%d မိနစ် တိုးရန် တို့ပါ</string>
     <string name="usage_app_limit_reach_title">%s သည် မျက်နှာပြင်ဖွင့်ထားချိန်ကန့်သတ်ချက်ပြည့်ပါပြီ</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">%1s အတွက် ကျန်ရှိသော မျက်နှာပြင်ဖွင့်ချိန် - %2s</string>
     <string name="usage_app_limit_summary">ကန့်သတ်ချက်ကျော်သွားချိန်တွင် ရွေးထားသော အက်(ပ်)များကို သုံးမရပါ</string>
     <string name="usage_app_limit_title">မျက်နှာပြင်ဖွင့်ထားချိန်ကန့်သတ်ရန်</string>
     <string name="usage_app_other_settings">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -176,8 +185,12 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။သင်သည် အဆိုပါခွင့်ပြုချက်များ ပေးရန် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ရန် သဘောမတူပါက ဤအက်(ပ်)ကို သုံးမရပါ။ မျက်နှာပြင်ဖွင့်ထားချိန် > ဆက်တင်များ > မျက်နှာပြင်ဖွင့်ထားချိန်ကို ပိတ်ရန် အားရွေးပြီး ခွင့်ပြုချက်ကို ရုတ်သိမ်းနိုင်သည်။</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href='%1s'>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href='%2s'>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပေးပါမည်။ ဤသို့သော ခွင့်ပြုချက်များကို ပေးအပ်ရန် သို့မဟုတ် သင်၏ ကိုယ်ရေးအချက်အလက်များကို မျှဝေရန်နှင့် အွန်လိုင်းတင်ရန် သင်သဘောမတူလျှင် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ Screen time > ဆက်တင်များ > သို့သွား၍ Screen time ကို ပိတ်မည်အား ရွေးချယ်ပေးခြင်းအားဖြင့် သင့်ခွင့်ပြုချက်ကို ရုပ်သိမ်းနိုင်ပါသည်။</string>
+    <string name="usage_new_home_app_limit_summary">ဤအက်ပ်အတွက် နေ့စဉ်မျက်နှာပြင်ဖွင့်ထားချိန်ဆိုင်ရာ ကန့်သတ်ချက်တစ်ခု သတ်မှတ်ရန်</string>
+    <string name="usage_new_home_app_limit_title">မျက်နှာပြင်ဖွင့်ထားချိန် ကန့်သတ်မည်</string>
     <string name="usage_new_home_average">"ပျမ်းမျှ "</string>
+    <string name="usage_new_home_avg_usage_day">နေ့စဉ်ပျမ်းမျှ အသုံးပြုမှု %s</string>
     <string name="usage_new_home_category">အမျိုးအစား</string>
+    <string name="usage_new_home_classify_manage">အက်ပ်အမျိုးအစားအုပ်စုများကို စီမံမည်</string>
     <string name="usage_new_home_compare_text1">တစ်မြန်နေ့ထက် %.2f ပိုသည်</string>
     <string name="usage_new_home_compare_text2">တစ်မြန်နေ့ထက် %.2f လျော့သည်</string>
     <string name="usage_new_home_compare_text3">တစ်မြန်နေ့နှင့် အတူတူဖြစ်သည်</string>
@@ -185,15 +198,19 @@
     <string name="usage_new_home_dashboard">ဒတ်ရှဘုတ်</string>
     <string name="usage_new_home_date_day_title">%s | အသုံးပြုကာလ</string>
     <string name="usage_new_home_day_category_title">အက်(ပ်)အမျိုးအစားများ</string>
+    <string name="usage_new_home_day_category_title_new">%s တွင် အက်(ပ်)အမျိုးအစားများအတွက် မျက်နှာပြင်ဖွင့်ထားသည်</string>
     <string name="usage_new_home_day_title">ရက်</string>
     <string name="usage_new_home_day_usage_title">အက်(ပ်)တစ်ခုချင်းစီ</string>
+    <string name="usage_new_home_day_usage_title_new">%s တွင် မျက်နှာပြင်ဖွင့်သည်</string>
     <string name="usage_new_home_first_unlock">ပထမအကြိမ် သော့ဖွင့်ခြင်း - %s</string>
     <string name="usage_new_home_name">အမည်</string>
     <string name="usage_new_home_show_more_data_summary">အက်(ပ်)တစ်ခုချင်းစီအတွက် မျက်နှာပြင်ပွင့်ချိန်ကို ကန့်သတ်၍ ရပါသည်</string>
     <string name="usage_new_home_show_more_data_title">အခြားကိန်းဂဏန်းများကြည့်ရန်</string>
+    <string name="usage_new_home_sys_no_limit_summary">စက်စနစ်အက်ပ်များအတွက် မျက်နှာပြင်ဖွင့်ထားချိန် ကန့်သတ်မရပါ</string>
     <string name="usage_new_home_unlock_equals_text">တစ်မြန်နေ့နှင့် အတူတူဖြစ်သည်</string>
     <string name="usage_new_home_unused">မသုံးပါနှင့်</string>
     <string name="usage_new_home_update">ပြောင်းရန်</string>
+    <string name="usage_new_home_usage_detail">သုံးစွဲမှု အသေးစိတ်အချက်အလက်</string>
     <string name="usage_new_home_week_category_title">အက်(ပ်)အမျိုးအစားများ</string>
     <string name="usage_new_home_week_compare_text1">ယခင်တစ်ပတ်ထက် %.2f ပိုသည်</string>
     <string name="usage_new_home_week_compare_text2">ယခင်တစ်ပတ်ထက် %.2f လျော့သည်</string>
@@ -329,6 +346,8 @@
     <string name="usage_stats_week_day">စနေ၊ တနင်္ဂနွေများ</string>
     <string name="usage_total_days">ရက်စုစုပေါင်း</string>
     <string name="usage_total_times">ဆက်ရှင်စုစုပေါင်း</string>
+    <string name="usage_week_avg_usage_title">ယခုပတ်အတွက် ပျမ်းမျှ</string>
+    <string name="usage_week_avg_usage_title2">ပျမ်းမျှအချိန်</string>
     <string name="usage_weekly_report_summary">သင်၏ စက်ပစ္စည်းသုံးပုံသုံးနည်းအကြောင်း လေ့လာပါ</string>
     <string name="usage_weekly_report_title">အပတ်စဥ် အစီရင်ခံစာ</string>
     <string name="usagestats_app_category_miui_education">ပညာရေး</string>

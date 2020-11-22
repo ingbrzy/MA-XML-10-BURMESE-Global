@@ -18,7 +18,7 @@
     <string name="bugreport_screenshot_action">မျက်နှာပြင် လျှပ်တစ်ပြက်ပုံ</string>
     <string name="bugreport_screenshot_failed">မျက်နှာပြင် လျှပ်တစ်ပြက်ပုံ မရိုက်နိုင်ပါ</string>
     <string name="bugreport_screenshot_taken">ဖန်သားပြင်ဓာတ်ပုံ အောင်မြင်စွာရိုက်ပြီးပါပြီ။</string>
-    <string name="bugreport_storage_title">ချို့ယွင်းမှု အစီရင်ခံစာများ</string>
+    <string name="bugreport_storage_title">ချွတ်ယွင်းမှု အစီရင်ခံစာများ</string>
     <string name="bugreport_unnamed">အမည်မဲ့</string>
     <string name="bugreport_unreadable_text">ချွတ်ယွင်းချက် အစီရင်ခံစာကို ဖတ်၍မရပါ</string>
     <string name="bugreport_updating_title">ချွတ်ယွင်းချက်အစီရင်ခံချက်သို့ အသေးစိတ်များပေါင်းထည့်ရန်</string>

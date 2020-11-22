@@ -34,7 +34,7 @@
     <string name="action_settings">ဆက်တင်များ</string>
     <string name="ad_close">ပိတ်</string>
     <string name="ad_data_exception">ကြော်ငြာဒေတာအမှား</string>
-    <string name="ad_recommend">တုံ့ပြန်အကြံပြုချက်များအား လက်ခံရယူပါ</string>
+    <string name="ad_recommend">ကြော်ငြာများ ပြသရန်</string>
     <string name="ad_setting">ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="add_music">သီချင်းထည့်</string>
     <string name="add_to_last_of_playlist">အဖွင့်ဇယား အဆုံးတွင် ပေါင်းထည့်လိုက်ပါ</string>
@@ -83,6 +83,8 @@
     <string name="artist_home_search_hint">အနုပညာရှင်များကို ရှာပါ</string>
     <string name="artist_is_empty">အနုပညာရှင်အမည် ဗလာဖြစ်၍မရပါ</string>
     <string name="artist_name">အနုပညာရှင်</string>
+    <string name="audio_ad_countdown">%s စက္ကန့်အတွင်း ကြော်ငြာကို ကျော်မည်</string>
+    <string name="audio_ad_pass">ကြော်ငြာကို ကျော်ရန်</string>
     <string name="audio_picker_title">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
     <string name="auto_recommend">အလိုအလျောက် (အကြံပြုသည်)</string>
     <string name="auto_sound_quality">အလိုအလျောက်</string>
@@ -171,9 +173,14 @@
     <string name="dialog_renew_positive_text">ပရိုဖြစ်ရန် သက်တမ်းတိုးပါမည်</string>
     <string name="dialog_renew_success">အတည်ပြုခြင်းအတွက် ကျေးဇူးတင်ပါသည်</string>
     <string name="dialog_score_btn_good">အဆင့်သတ်မှတ်ရန်</string>
+    <string name="dialog_score_msg_score_explorer">Mi တေးဂီတ ကို ကြိုက်ပါသလား။</string>
+    <string name="dialog_score_msg_score_not_good">တုံ့ပြန်အကြံပြုမှုလည်း ပေးလိုပါသလား။</string>
+    <string name="dialog_score_msg_score_perfect">ကျေးဇူးတင်ပါသည်။ ကျွန်ုပ်တို့၏ အက်(ပ်)ကို ပလေးစတိုးတွင်လည်း အမှတ်ပေးလိုပါသလား။</string>
     <string name="dialog_score_prompt_bad">တုံ့ပြန်အကြံပြုမှုအတွက် ကျေးဇူးတင်ပါသည်။ ကျွန်ုပ်တို့၏ အက်(ပ်)နှင့် ဝန်ဆောင်မှုများကို အကောင်းဆုံးဖြစ်စေရန် ကြိုးစားပါမည်။</string>
     <string name="dialog_score_prompt_good">ပံ့ပိုးမှုအတွက် ကျေးဇူးတင်ပါသည်။ Google ပလေးရှိ ကျွန်ုပ်တို့၏ အက်(ပ်)ကိုလည်း အဆင့်သတ်မှတ်လိုပါသလား။</string>
     <string name="dialog_score_title">ကျွန်ုပ်တို့ အက်(ပ်)ကို အဆင့်သတ်မှတ်ပါ</string>
+    <string name="dialog_score_toast_rate">ဦးစွာ ကျွန်ုပ်တို့၏ အက်(ပ်)ကို အမှတ်ပေးပါ</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">ကျွန်ုပ်တို့၏ အက်(ပ်)ကို အဆင့်သတ်မှတ်ရန် အောက်သို့ လှိမ့်ပါ</string>
     <string name="dialog_song_sort_type">သီချင်းများအား စီစဉ်ပါ</string>
     <string name="dialog_song_sort_type_name">အမည်ဖြင့်</string>
     <string name="dialog_song_sort_type_playing_times">ဖွင့်လိုက်သည့် အကြိမ်အရေအတွက်အားဖြင့်</string>
@@ -190,6 +197,7 @@
     <string name="dialog_title_queued_body">ဖိုင်ယခု မရနိုင်သေးပါ</string>
     <string name="dialog_title_remove_tracks">ဖယ်ရှားပါ</string>
     <string name="disallow_add_to_fm">FM ရေဒီယိုထဲသို့ သီချင်းများပေါင်းထည့်၍မရပါ</string>
+    <string name="discover_more_music">အခြားသီချင်းများရှာပါ</string>
     <string name="do_not_remind_this_version">ဤဗားရှင်းအကြောင်း သတိမပေးပါနှင့်</string>
     <string name="do_not_support_google_voice_search">Google အသံဖြင့် ရှာဖွေမှုကို သင့်စက်တွင် သုံးမရပါ။</string>
     <string name="download">ဒေါင်းလုဒ်</string>
@@ -227,7 +235,9 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
@@ -373,6 +383,8 @@
     <string name="individuation_cart_login_title">နောက်ထပ် အကြံပြုချက်များ ရယူလိုပါသလား?</string>
     <string name="individuation_recommend_switch_message">ဤအင်္ဂါရပ်အား ပိတ်လိုက်ပါက Mi တေးဂီတ ဝန်ဆောင်မှုများကို ထိခိုက်နိုင်သည်။ ပိတ်မလား?</string>
     <string name="individuation_recommend_title">အကြံပြုချက်များ</string>
+    <string name="individuation_setting_summary">သင့်စိတ်ဝင်စားမှုအပေါ် အခြေခံသော အကြောင်းအရာအကြံပြုချက်များ ရယူပါ</string>
+    <string name="individuation_setting_title">စိတ်ကြိုက်အကြံပြုချက်များ</string>
     <string name="input_hint_prefix">%1$s အား ရိုက်ထည့်ပါ</string>
     <string name="installing_apk">ထည့်သွင်းနေသည်…</string>
     <string name="insufficient_space">သင့်စက်၏ အတွင်းပိုင်းသိုလှောင်မှုမလုံလောက်ပါ။</string>
@@ -506,6 +518,7 @@
     <string name="my_playlist_create_self_playlist">သင်အနှစ်သက်ဆုံးသီချင်းများပါဝင်သည့် သီးချင်းစာရင်းများ ဖန်တီးပါ</string>
     <string name="my_playlist_set_to_private">ကိုယ်ပိုင်သီးသန့် ပြုလုပ်</string>
     <string name="my_playlist_set_to_public">အများပိုင်ပြုလုပ်</string>
+    <string name="network_disable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_error_and_retry">မချိတ်ဆက်နိုင်ခဲ့ပါ၊ ပြန်ကြိုးစားရန် ထိနှိပ်ကြည့်ပါ</string>
     <string name="network_request_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_settings_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
@@ -632,8 +645,22 @@
     <string name="preset_music_playlist">Mi ဂီတ ဖွင့်ရန်စာရင်း</string>
     <string name="priority_storage">ပြင်ပ SD ကဒ်အသုံးပြု</string>
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="privacy_authorize_network_error">ခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="privacy_authorize_revoke_failed">ခွင့်ပြုချက် ရုတ်သိမ်းမရပါ</string>
+    <string name="privacy_authorize_revoke_success">ခွင့်ပြုချက်ကို အောင်မြင်စွာရုတ်သိမ်းပြီးပါပြီ</string>
+    <string name="privacy_authorize_revoking">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
+    <string name="privacy_request_desc">"&lt;Data>သင့်အတွက် အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ ထောက်ပံ့ပေးရန်လိုအပ်သည့် ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား Mi တေးဂီတက စုဆောင်းရပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော ထိုအချက်အလက်များကို ကျွန်ုပ်တို့စီမံကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် ပိုမိုလေ့လာနိုင်ပါသည်။ Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။
+Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ဖတ်ရှုလက်ခံပေးပါ။
+ဖော်ပြပါ ဝန်ဆောင်မှုများ အသုံးပြုရန် သင်လက်မခံပါက ဤအက်ပ်၏ အင်္ဂါရပ်အချို့ကို သင်အသုံးပြုနိုင်မည် မဟုတ်သော်လည်း ၎င်း၏ အခြေခံလုပ်ဆောင်ချက်များအား ဆက်လက်ရရှိနိုင်ပါသေးသည်။&lt;/Data>"</string>
+    <string name="privacy_request_subtitle">"Mi တေးဂီတမှ ကြိုဆိုပါသည်။ ဤအက်ပ်သည် အောက်ပါဝန်ဆောင်မှုများကို ထောက်ပံ့ပေးထားသည် -
+
+- စက်တွင်း အော်ဒီယိုဖွင့်စက်
+
+- အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ"</string>
+    <string name="privacy_request_title">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -649,15 +676,20 @@
     <string name="recommended_no_file_size_download_in_mobile">ဤဖိုင်အား ဒေါင်းလုတ်လုပ်ရန် မိုဘိုင်းဒေတာချိတ်ဆက်မှုအား အသုံးပြုမည်လား?</string>
     <string name="remove">ဖယ်ရှားပါ</string>
     <string name="remove_download">ဖယ်ရှား</string>
+    <string name="remove_user_privacy_dialog_message">ခလုတ်ကိုပိတ်ခြင်းဖြင့် သင်သည် Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်ကို ဖျက်သိမ်းလိုက်သည်။ သင်၏ ပုဂ္ဂိုလ်ရေး သတင်းအချက်အလက်များ စုဆောင်းခြင်းကို ကျွန်ုပ်တို့ရပ်တန့်ပစ်ပါမည်။ စုဆောင်းထိန်းသိမ်းထားသည့် ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား သက်ဆိုင်ရာဥပဒေများအရ လိုအပ်သော သတ်မှတ်အချိန်ကာလတစ်ရပ်အတွင်း ဖျက်ပစ်ပါမည်။ သင့်အတွက် အခြေခံ ဝန်ဆောင်မှုများ ဖော်ဆောင်ပေးမည့် လိုအပ်သော ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား Mi တေးဂီတက စုဆောင်းရန် လိုအပ်ပါသည်။ ၎င်း၏ ကိုယ်ရေးအချက်အလက်ပေါ်လစီအတွက် သဘောတူညီချက် ရုပ်သိမ်းခြင်းသည် စုဆောင်းထားသော ပုဂ္ဂိုလ်ရေး အချက်အလက်များအပေါ်တွင် အခြေခံသော ၎င်း၏ ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆန်ခြင်းမည်ပါသည်။</string>
+    <string name="remove_user_privacy_dialog_message_canuse">ခလုတ်ကိုပိတ်ခြင်းဖြင့် သင်သည် Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်ကို ဖျက်သိမ်းလိုက်သည်။ သင်၏ ပုဂ္ဂိုလ်ရေး သတင်းအချက်အလက်များ စုဆောင်းခြင်းကို ကျွန်ုပ်တို့ရပ်တန့်ပစ်ပါမည်။ စုဆောင်းထိန်းသိမ်းထားသည့် ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား သက်ဆိုင်ရာဥပဒေများအရ လိုအပ်သော သတ်မှတ်အချိန်ကာလတစ်ရပ်အတွင်း ဖျက်ပစ်ပါမည်။ သင့်အတွက် အွန်လိုင်းတိုက်ရိုက်ထုတ်လွှင့်မှုဆိုင်ရာ ဝန်ဆောင်မှုများ ဖော်ဆောင်ပေးမည့် လိုအပ်သော ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား Mi တေးဂီတက စုဆောင်းရန် လိုအပ်ပါသည်။ ၎င်း၏ ကိုယ်ရေးအချက်အလက်ပေါ်လစီအတွက် သဘောတူညီချက် ရုပ်သိမ်းခြင်းသည် စုဆောင်းထားသော ပုဂ္ဂိုလ်ရေး အချက်အလက်များအပေါ်တွင် အခြေခံသည့် ဖော်ပြပါ အွန်လိုင်းဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆန်ခြင်းမည်ပါသည်။</string>
+    <string name="remove_user_privacy_dialog_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
     <string name="repeat_all_notif">သီချင်းအားလုံးအား ထပ်ခါထပ်ခါဖွင့်ခြင်း</string>
     <string name="repeat_current_notif">လက်ရှိသီချင်းအား ထပ်ခါထပ်ခါဖွင့်ခြင်း</string>
     <string name="request_overlay_permission_desc">ဤအင်္ဂါရပ်ကို အသုံးပြုနိုင်စေမည့် ပေါ်နေသောဝင်ဒိုးများကို ပြသရန် Mi Music ကို ခွင့်ပြုပါ။</string>
+    <string name="request_privacy_permission_title">ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုအားလုံးကို ဝင်နိုင်ရန် အောက်ပါ စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
     <string name="request_share_info">ခဏစောင့်ပါ…</string>
     <string name="request_subscription_status">ခဏစောင့်ပါ…</string>
     <string name="restart_immediate">ပြန်စတင်ပါ</string>
     <string name="retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="retry_after_network_available">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။ သင်၏ ချိတ်ဆက်မှုကို စစ်ဆေးပြီး၊ ထပ်မံ ကြိုးစားပါ။</string>
     <string name="retry_download">ထပ်ကြိုးစား</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို Hungama သို့ ဆင့်(ခ်)လုပ်မည်မဟုတ်ပါ</string>
     <string name="ringtone_editing">ဖုန်းမြည်သံ တည်းဖြတ်မှု</string>
     <string name="ringtone_not_support">ဤသီချင်းပုံစံကို မပံ့ပိုးထားပါ</string>
     <string name="ringtone_selected">ရွေးထားသော</string>
@@ -727,10 +759,12 @@
     <string name="shuffle_music">ရှက်ဖ်ဖယ်ပြန်ပြ</string>
     <string name="shuffle_off_notif">ရှက်ဖ်ဖယ်ပိတ်ထား</string>
     <string name="shuffle_on_notif">ရှက်ဖ်ဖယ်ဖွင့်ထား</string>
+    <string name="shuffle_play_toast_text">သီချင်းများကို အစီအစဉ်ရောမွေနေသည်…</string>
     <string name="similar_albums">အလားတူ အယ်လ်ဘမ်</string>
     <string name="similar_playlists">အလားတူ ဖွင့်ရန်စာရင်း</string>
     <string name="similar_songs">အလားတူသီချင်းများ</string>
     <string name="similar_videos">အလားတူ ဗီဒီယိုများ</string>
+    <string name="skip">ကျော်မည်</string>
     <string name="sleep_mode">ပိတ်ရန်အချိန်ကိုက်စက်</string>
     <string name="sleep_mode_canceled">အိပ်ခြင်းပုံစံ ပိတ်ထားပါသည်</string>
     <string name="sleep_mode_summary">အချိန်တခုရောက်လျှင်ပိတ်ပါ</string>
@@ -754,6 +788,7 @@
     <string name="start_to_check_new_version">အပ်ဒိတ် ရှိမရှိ စစ်ဆေးနေသည်…</string>
     <string name="start_to_download">ဒေါင်းလုဒ်လုပ်နေ…</string>
     <string name="start_to_play">ဖွင့်ပါ</string>
+    <string name="start_update">ဗားရှင်းအသစ်ထည့်နေသည်…</string>
     <string name="storage_cloned_app">နှစ်ခုတွဲအက်(ပ်)များအတွက် သိုလှောင်ခန်း</string>
     <string name="storage_internal">အတွင်း သိုလှောင်ခန်း</string>
     <string name="storage_sd_card">SD ကဒ်</string>
@@ -801,6 +836,7 @@
     <string name="title_online_recommend">နှစ်သက်ရာ သီချင်းစာရင်း</string>
     <string name="title_search_history">ရှာဖွေမှုသမိုင်း</string>
     <string name="title_search_hot">လူကြိုက်များသော</string>
+    <string name="toast_cant_commit_without_title">သီချင်းခေါင်းစဉ်ထည့်ပါ</string>
     <string name="toast_download_error_by_count_limit">သင်သည်ဤလအတွက် သင်၏ဒေါင်းလုဒ်ဝေစုအား အသုံးပြုပြီးဖြစ်ပါသည်</string>
     <string name="toast_download_error_by_not_login">Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပြီး ထပ်မံကြိုးစားကြည့်ပါ</string>
     <string name="toast_download_error_by_vip_required">ဤသီချင်းအား ဒေါင်းလုဒ်လုပ်ရန် ပရီမီယမ်ပက်ခ်အား ရယူပါ။</string>
@@ -815,8 +851,13 @@
     <string name="toast_normal_songs_for_download">ဒေါင်းလုဒ် အရည်အသွေးအား ပုံမှန်သို့ သတ်မှတ်လိုက်သည်</string>
     <string name="toast_normal_songs_for_stream">နားဆင် အရည်အသွေးအား ပုံမှန်သို့ သတ်မှတ်လိုက်သည်</string>
     <string name="toast_not_pro">ဤအင်္ဂါရပ်ကို ပရိုအဖွဲ့ဝင်များသာ ရရှိနိုင်သည်။</string>
+    <string name="toast_playmode_loop_playback">လက်ရှိသီချင်းစာရင်းကို ထပ်ကျော့ဖွင့်ထားသည်</string>
+    <string name="toast_playmode_shuffle_play">သီချင်းစာရင်းကို ကျပန်းအစီအစဉ်ဖြင့် ဖွင့်ထားသည်</string>
+    <string name="toast_playmode_single_cycle">လက်ရှိသီချင်းကို ထပ်ကျော့ဖွင့်ထားသည်</string>
     <string name="toast_uhd_songs_for_download">ဒေါင်းလုဒ် အရည်အသွေးအား အမြင့်သို့ သတ်မှတ်လိုက်သည်</string>
     <string name="toast_uhd_songs_for_stream">နားဆင်အရည်အသွေးအား အမြင့်သို့ သတ်မှတ်လိုက်သည်</string>
+    <string name="toast_will_play_list_when_ad_pause">ကြော်ငြာပြီးလျှင် သီချင်းများ စတင်ပါမည်</string>
+    <string name="toast_will_play_song_when_ad_pause">ကြော်ငြာပြီးလျှင် ဤသီချင်း စတင်ပါမည်</string>
     <string name="today">ယနေ့</string>
     <string name="top_chart_title">ပုံစံကားချပ်</string>
     <string name="track_play_history_after_login">ပြန်ပြမှတ်တမ်းကို ကြည့်ရန် အကောင့်ဝင်ပါ</string>
@@ -829,7 +870,20 @@
     <string name="upgrade_music">သီချင်းအား အပ်ဒိတ်လုပ်မည်</string>
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
     <string name="upgrading_in_backstage">နောက်ခံတွင် အပ်ဒိတ်လုပ်နေသည်…</string>
+    <string name="upload_favorite_dialog_title">ဆင့်(ခ်)လုပ်ထားသော အခြားစက်များမှ ဖွင့်နိုင်ရန် သီချင်းများကို ကလောက်သို့ တင်ပါ။ ဤအင်္ဂါရပ်ကို ဆက်တင်ထဲတွင် ပိတ်ထားနိုင်သည်။</string>
+    <string name="upload_favorite_setting_summary">အွန်လိုင်းသီချင်းများကို အကြိုက်ဆုံးစာရင်းတွင် ထည့်ခြင်းဖြင့် ၎င်းတို့ကို ကလောက်သို့ တင်ပေးပြီး အခြားစက်များမှ ဖွင့်နိုင်ပါသည်။</string>
+    <string name="upload_favorite_setting_title">သီချင်းများ ဆင့်(ခ်)လုပ်ရန်</string>
+    <string name="upload_playlist_to_hungama_negative_text">ဆင့်(ခ်)မလုပ်ပါ</string>
+    <string name="upload_playlist_to_hungama_positive_text">ဆင့်(ခ်)လုပ်ရန်</string>
+    <string name="upload_playlist_to_hungama_title">အွန်လိုင်းသီချင်းများကို Mi အကောင့် သုံးသောအခြားစက်များတွင် ဖွင့်နိုင်ရန် Hungama သို့ ဆင့်(ခ်)လုပ်ထားပါ။</string>
+    <string name="upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို Hungama သို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
+    <string name="user_privacy_dialog_negative_text">ဖျက်သိမ်းမည်</string>
+    <string name="user_privacy_dialog_positive_count_down_text">(%s) အကြာတွင် ရုပ်သိမ်းရန်</string>
+    <string name="user_privacy_dialog_positive_text">ရုပ်သိမ်းရန်</string>
+    <string name="user_privacy_setting_group_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
+    <string name="user_privacy_setting_title">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="video_play_cellular">သင်၏စက်သည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာ သုံးမလား?</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>

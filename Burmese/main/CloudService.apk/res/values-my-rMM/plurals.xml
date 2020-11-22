@@ -42,6 +42,9 @@
     <plurals name="dirty_wlan_count">
         <item quantity="other">Wi-Fi ကွန်ရက်များ%d ခု</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">ဆင့်ခ်လုပ်ရန် ဆောင့်ဆိုင်းနေသော အိုင်တမ်များ−%d</item>
     </plurals>
@@ -56,5 +59,8 @@
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s ဝန်ဆောင်မှုများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါမည်</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">%d ခု ထက်ပို ရွေးမရပါ</item>
     </plurals>
 </resources>

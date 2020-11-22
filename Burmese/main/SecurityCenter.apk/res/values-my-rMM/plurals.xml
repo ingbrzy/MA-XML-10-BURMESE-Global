@@ -239,6 +239,9 @@
     <plurals name="om_locked_apps_title">
         <item quantity="other">ရှင်းလင်းရန်မလိုသော အက်ပ် %d ခု</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">အက်(ပ်) %d ခု</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
     </plurals>

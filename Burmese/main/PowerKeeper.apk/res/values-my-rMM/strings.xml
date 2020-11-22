@@ -54,6 +54,14 @@
     <string name="lasttime_applist_cloud">အပ်ဒိတ်လုပ်ထားသော အက်ပ်များ-</string>
     <string name="lasttime_feature_cloud">အပ်ဒိတ်အသွင်ပြင်များ-</string>
     <string name="message_i_know">နားလည်ပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="nonui_mode_config_description">MIUI သည် သင်စက်မသုံးနေသည်ကို သိရှိပါက LED မီး၊ လက်ဗွေအာရုံခံကိရိယာနှင့် ထိန်းချုပ်မှုခလုတ်ကို ပိတ်ပြီး အသိပေးချက်များအတွက် မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
     <string name="nonui_mode_config_title">အပြန်အလှန်မရှိ မုဒ်</string>
     <string name="notification_exit_extreme_mode_text">%s နှင့်အထက် အားသွင်းပြီးလျှင် အကြီးမားဆုံး ဘက်ထရီချွေတာသူမုဒ်မှ ထွက်မည်</string>

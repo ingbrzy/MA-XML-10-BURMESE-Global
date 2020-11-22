@@ -20,6 +20,12 @@
         <item>Wi-Fi အပါအဝင် အရေးကြီးသော ဆက်တင်များကို အရန်သိမ်းမည်</item>
         <item>စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် လော့ခ်ချပါ</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>အက်ပ်ဒေတာကို ဆင့်ခ်လုပ်မည်</item>
         <item>ပင်မမျက်နှာပြင် ဖွဲ့စည်းပုံကို အရန်သိမ်းဆည်းမည်</item>
@@ -98,6 +104,11 @@
         <item>ဆင့်ခ်အား ဖွင့်ပါ</item>
         <item>အက်(ပ်)ပေါင်းစုစနစ်၊ကလောက်၊ဆင့်(ခ်)၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>အမြန်ဖြေကြားချက်များကို ဆင့်(ခ်)လုပ်ပါ</item>
+        <item>ဆင့်(ခ်)ဖွင့်ရန်</item>
+        <item>အမြန်ဖြေကြားချက်များ၊ကလစ်ဘုတ်၊အယ်ဒီတာ၊ကလောက်၊ဆင့်(ခ်)၊ကလောက်ဝန်ဆောင်မှုများ</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>သွင်းထားသောအသံဖိုင်များကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
         <item>ဆင့်ခ်အား ဖွင့်မည်/သတ်မှတ်မည်</item>
@@ -114,9 +125,9 @@
         <item>ကလောက်၊အရန်သိမ်းခြင်း၊အရန်သိမ်းရန်၊ပြန်ယူရန်၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>လုံခြုရေးစနစ်ကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
+        <item>လုံခြုံရေးကလောက်ဆင့်(ခ်)</item>
         <item>ဆင့်ခ်အား ဖွင့်ပါ</item>
-        <item>လုံခြုံရေးစနစ်၊ကလောက်၊ဆင့်(ခ်)၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
+        <item>လုံခြုံရေး၊ကလောက်၊Xiaomi ကလောက်၊ ဆင့်(ခ်)၊ ကလောက်ဝန်ဆောင်မှုများ</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>မက်ဆေ့(ချ်)များကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
@@ -137,6 +148,11 @@
         <item>Wi-Fi ဆက်တင်များကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
         <item>ဆင့်ခ်အား ဖွင့်ပါ</item>
         <item>WLAN၊wifi၊Wi-Fi၊ကလောက်၊ဆင့်(ခ်)၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များကို ကြည့်ရှုရန်</item>

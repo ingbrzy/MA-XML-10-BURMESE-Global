@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">ချိန်ညှိရန် ဆွဲယူပါ</string>
+    <string name="doc_photo_cancel">မလုပ်တော့ရန်</string>
+    <string name="doc_photo_confirm">ထွက်ရန်</string>
+    <string name="doc_photo_doc_photo_title">စာရွက်စာတမ်း တည်းဖြတ်ရန်</string>
+    <string name="doc_photo_enhance_bin">အဖြူအမည်း</string>
+    <string name="doc_photo_enhance_color">အဆင့်မြင့်</string>
+    <string name="doc_photo_enhance_none">မူရင်း</string>
+    <string name="doc_photo_idcard_alert_msg">အပြောင်းအလဲအားလုံးကို ပယ်ဖျက်ပြီး တည်းဖြတ်စနစ်မှ ထွက်လိုသလား။</string>
+    <string name="doc_photo_idcard_emblem">ယခင်သို့</string>
+    <string name="doc_photo_idcard_mode_title">ID ကတ်</string>
+    <string name="doc_photo_idcard_portrait">ရှေ့ဘက်</string>
+    <string name="doc_photo_not_support">ဤပုံကို စာရွက်စာတမ်းအသွင် တည်းဖြတ်မရပါ</string>
+    <string name="doc_photo_view_effect">အစမ်းကြည့်</string>
     <string name="extra_photo_common_save_fail">သိမ်းမရပါ</string>
     <string name="extra_photo_common_saving">သိမ်းဆည်းနေသည်…</string>
     <string name="motion_photo_cancel">ပယ်ဖျက်မည်</string>
@@ -25,6 +38,7 @@
     <string name="refocus_save_to_video">ဗီဒီယိုအဖြစ် သိမ်းဆည်းပါ</string>
     <string name="refocus_saving">သိမ်းဆည်းနေသည်…</string>
     <string name="refocus_title">မှုန်ဝါး</string>
+    <string name="refocus_type_movie_relighting">ရုပ်ရှင်ဆန်ဆန်</string>
     <string name="refocus_type_relighting">စတူဒီယို အလင်း</string>
     <string name="refocus_type_relighting_no_face">မျက်နှာ ရှာမတွေ့ပါ</string>
     <string name="refocus_type_relighting_small_face">မျက်နှာသေးလွန်းသောကြောင့် စတူဒီယိုအလင်းအား အသုံးချ၍မရပါ။</string>

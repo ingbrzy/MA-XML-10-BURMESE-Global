@@ -70,6 +70,14 @@ ID -
     <string name="just_a_second">တစ်စက္ကန့်စောင့်ပါ…</string>
     <string name="loading">စက္ကန့်အနည်းငယ် စောင့်ပါ…</string>
     <string name="logout_account">ဆိုင်းအောက်လုပ်မည်</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="nick_name">ချစ်စနိုးအမည်</string>
     <string name="no_account">အကောင့်ဝင်မထားပါ</string>
     <string name="no_phone">ဖုန်းနံပါတ် မရှိပါ</string>

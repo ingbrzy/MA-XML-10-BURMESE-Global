@@ -83,6 +83,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">တာဝန်များကို ရယူပါ</string>
     <string name="HIPS_Perm_install_shortcut">ပင်မမျက်နှာပြင် ရှော့ကဒ်</string>
     <string name="HIPS_Perm_install_shortcut_Desc">ပင်မမျက်နှာပြင်သို့ ရှော့ကဒ်များ ပေါင်းထည့်ပါ</string>
+    <string name="HIPS_Perm_mediaVolume">မီဒီယာအသံအတိုးအကျယ်ကို ညှိရန်</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">ဤအက်(ပ်)အား မီဒီယာအသံအတိုးအကျယ်ကို ညှိခွင့်ပြုရန်</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">အနီးဆက်သွယ်မှု (NFC) ဟာ့ဒ်ဝဲသို့ ဝင်ရောက်သုံးစွဲ</string>
     <string name="HIPS_Perm_process_outgoing_calls">ဖုန်းအက်ပ်အား ဝင်ရောက်သုံး</string>
@@ -117,6 +119,10 @@
     <string name="location_warning">%1$s မှာ ဤစက်၏ တည်နေရာဝန်ဆောင်မှု ထောက်ပံ့ပေးသူ ဖြစ်ပါသည်၊ တည်နေရာဝင်ရောက်မှုအား တည်နေရာ ဆက်တင်များတွင် မွမ်းမံနိုင်ပါသည်။</string>
     <string name="never_ask_again">ကန့်သတ်မှုပြုပြီး ထပ်မမေးပါနှင့်</string>
     <string name="ok">အိုကေ</string>
+    <string name="perm_action_allow">ခွင့်ပြုရန်</string>
+    <string name="perm_action_deny">ဘယ်တော့မျှ ခွင့်မပြုရန်</string>
+    <string name="perm_modem_location">သင့်တည်နေရာကို ဖတ်သည်</string>
+    <string name="perm_modem_location_desc">သင့်ဖုန်းကုမ္ပဏီက သင့်တည်နေရာကို ဖတ်ရန်ကြိုးပမ်းနေသည်။ တည်နေရာအချက်အလက်ကို ဖုန်းကုမ္ပဏီနှင့် မျှဝေလိုသလား။</string>
     <string name="permdesc_camera">ဓာတ်ပုံနှင့် ဗီဒီယိုများ ရိုက်ရန်</string>
     <string name="permdesc_in_calls">အဝင်ခေါ်ဆိုမှုများကို စောင့်ကြည့်ရန်</string>
     <string name="permdesc_location">တည်နေရာအချက်အလက် ဖတ်ခွင့်ပြုရန်</string>

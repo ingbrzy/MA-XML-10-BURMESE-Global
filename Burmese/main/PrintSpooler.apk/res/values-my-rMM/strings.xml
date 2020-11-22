@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_convert_pdf_alert_message">ဖိုင်ကူးပြောင်းမှုအား WPS Office က ဝန်ဆောင်ပေးခြင်း ဖြစ်ပါသည်</string>
+    <string name="activity_convert_pdf_alert_title">ပရင့်မထုတ်မီ ဖိုင်ကို ပြောင်းနေသည်…</string>
+    <string name="activity_jump_market_alert_install_message">ဤဖိုင်ကို ပြောင်း၍ ယင်းကို ပရင့်ထုတ်ခြင်းအတွက် ပြင်ဆင်ရန် WPS Office ကို ထည့်သွင်းပါ။ ထည့်သွင်းပြီးသောအခါ ပရင့်ထုတ်ခြင်းကို ပြန်လည်စတင်ရန် လိုအပ်ပေလိမ့်မည်။ ယခုပင် ထည့်သွင်းမလား။</string>
+    <string name="activity_jump_market_alert_install_positive_button">ထည့်သွင်းမည်</string>
+    <string name="activity_jump_market_alert_title">သတိပြုရန်</string>
+    <string name="activity_jump_market_alert_update_message">ဤဖိုင်ကို ပြောင်း၍ ယင်းကို ပရင့်ထုတ်ခြင်းအတွက် ပြင်ဆင်ရန် WPS Office ကို အပ်ဒိတ်လုပ်ပါ။ ဗားရှင်းအသစ်ကို ထည့်သွင်းပြီးသောအခါ ပရင့်ထုတ်ခြင်းကို ပြန်လည်စတင်ရန် လိုအပ်ပေလိမ့်မည်။ ယခုပင် အပ်ဒိတ်မလား။</string>
+    <string name="activity_jump_market_alert_update_positive_button">အပ်ဒိတ်လုပ်မည်</string>
     <string name="add_print_service_label">ဆားဗစ် အသစ်ထည့်ရန်</string>
     <string name="all_printers">စာထုတ်စက် အားလုံး</string>
     <string name="all_printers_label">စာထုတ်စက် အားလုံး</string>
@@ -14,6 +21,9 @@
     <string name="collapse_handle">ခေါက်ရန် လက်</string>
     <string name="connectio_delay_content">ပရင်တာရှိ အင်တာနက်ချိတ်ဆက်မှုကို အတည်ပြုရန်လိုနိုင်သည်။</string>
     <string name="connectio_help_title">ပရင်တာကို ချိတ်နေသည်</string>
+    <string name="copies_decrease">တစ်ခုလျော့မိတ္တူ</string>
+    <string name="copies_increase">တစ်ခုပေါင်းမိတ္တူ</string>
+    <string name="current_page_template">%1$d /%2$d</string>
     <string name="delete_saved_printer_content">ရွေးထားသောပရင်တာများကို ယခုဖျက်လိုပါသလား။</string>
     <string name="expand_handle">ချဲ့ရန် လက်</string>
     <string name="failed_notification_title_template">စာထုတ်စက်မှ အမှား %1$s</string>
@@ -36,7 +46,7 @@
     <string name="open_print_service">ပရင်ထုတ်ခွင့်ကိုဖွင့်ရန်</string>
     <string name="open_print_service_tips">ဤဝန်ဆောင်မှုကို သုံးနိုင်ရန် ဆက်တင်တွင် ပရင့်ထုတ်ခွင့်ကို ဦးစွာဖွင့်ရပါမည်။</string>
     <string name="open_wlan">Wi-Fi ဖွင့်ရန်</string>
-    <string name="open_wlan_tips">ပရင်တာများအမြန်ရှာနိုင်ရန် Wi-Fi ဖွင့်ပါ။</string>
+    <string name="open_wlan_tips">ပရင်တာများရှာနိုင်ရန် Wi-Fi ဖွင့်ပါ။</string>
     <string name="other_printer">အခြားပရင်တာများ</string>
     <string name="page_description_template">%2$dထဲက စာမျက်နှာ %1$d</string>
     <string name="pages_range_example">ဥပမာ ၁-၅၊ ၈၊ ၁၁-၁၃</string>
@@ -52,7 +62,7 @@
     <string name="print_fail_network_error">ပရင့်ထုတ်မရပါ။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="print_forget_printer">စာထုတ်စက်ကို မေ့လိုက်ရန်</string>
     <string name="print_help_label">အကူအညီ</string>
-    <string name="print_help_tip">ဖုန်းနှင့် ပရင်တာနှစ်ခုစလုံးသည် Wi-Fi ကွန်ရက်တစ်ခုတည်းနှင့် ချိတ်ထားရမည် သို့မဟုတ် Wi-Fi တိုက်ရိုက်ကို ဖွင့်ထားရပါမည်။ %1$s။</string>
+    <string name="print_help_tip">ပရင်တာနှင့် သင့်ဖုန်း နှစ်ခုစလုံးသည် Wi-Fi ကွန်ရက်တစ်ခုတည်းနှင့် ချိတ်ထားရမည် သို့မဟုတ် Wi-Fi တိုက်ရိုက်ကို ဖွင့်ထားရပါမည်။ %1$s။</string>
     <string name="print_help_tip_reg">\"အကူအညီ\" ကို ကြည့်ရန်</string>
     <string name="print_no_printers">စာထုတ်စက် တစ်ခုမှ မတွေ့ရှိပါ</string>
     <string name="print_options_collapsed">ပရင့်ထုတ် ရွေးစရာများကို ခေါက်ထား</string>
@@ -91,4 +101,6 @@
     <string name="template_all_pages">အားလုံး %1$s</string>
     <string name="template_page_range">%1$sဘောင် ထဲမှာ</string>
     <string name="wifi_direct">Wi-Fi တိုက်ရိုက်</string>
+    <string name="wps_convert_error_toast_text">ဖောမတ်မှားယွင်းမှုတစ်ခုကြောင့် ဖိုင်ကို ပြောင်းမရခဲ့ပါ</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">ဖိုင်အရွယ်အစား ပိုမိုကြီးမားနေသောကြောင့် ကူးပြောင်းရန် အချိန်ပိုကြာနိုင်ပါသည်။ ပြောင်းနေသည်…</string>
 </resources>

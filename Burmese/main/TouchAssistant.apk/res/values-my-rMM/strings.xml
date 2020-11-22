@@ -7,6 +7,11 @@
     <string name="category_setting">ဆက်တင်များ</string>
     <string name="close_panel">အလွယ်စက်လုံးအား ပိတ်ပါ</string>
     <string name="customize_entries">ရှော့ကဒ်များအား ရွေးပါ</string>
+    <string name="edge_distance_pref_summary">အမြန်ဘောလုံးများ ပေါ်လာစေရန် မျက်နှာပြင်အစွန်းများအနီးရှိ နှိုးထရန် နေရာများကို တို့နှိပ်ပါ</string>
+    <string name="edge_distance_pref_title">နှိုးထရန် နေရာများ</string>
+    <string name="edge_mode_custom_summary">မျက်နှာပြင်အစွန်းများအနီးရှိ နှိုးထရန်နေရာများ၏ အရွယ်အစားကို ချိန်ညှိပါ</string>
+    <string name="edge_mode_custom_title">စိတ်ကြိုက်</string>
+    <string name="edge_mode_default_title">မူရင်းစနစ်</string>
     <string name="enable_touch_assistant">အလွယ်စက်လုံးအား ဖွင့်ပါ</string>
     <string name="function_settings">ရှော့ကဒ်ဆက်တင်များ</string>
     <string name="handy_mode_default_to_close_whether_open">လက်တစ်ဖက်သုံးမုဒ်ကို ပုံသေပိတ်ထားသည်။ လက်တစ်ဖက်သုံးမုဒ်ကို ဖွင့်မလား?</string>
@@ -38,6 +43,7 @@
     <string name="name_trans_cards">သယ်ယူပို့ဆောင်ရေးကဒ်</string>
     <string name="name_wechat_payment_code">WeChat ပေးချေမှု</string>
     <string name="name_wechat_scan">WeChat စကန်နာ</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi Pay အား အသက်မသွင်းရသေး</string>
     <string name="nfc_trans_card_not_in_use">သယ်သူပို့ဆောင်ရေးကဒ် အသက်မသွင်းရသေး</string>
     <string name="not_working">%s (အလုပ်မလုပ်နေပါ)</string>

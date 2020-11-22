@@ -6,6 +6,9 @@
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">နားကြပ်ရှိ ထိလျှင်တုံ့ပြန်သော နေရာတစ်ခုခုကို %1$d စက္ကန့်ခန့် ဖိပြီး နှိပ်ထားပါ</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">စက်ပိတ်ထားချိန်တွင် ခလုတ်ကို %1$s စက္ကန့် နှိပ်ပြီး ဖိထားပါ</item>
+    </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">စက် %1$dလုံး ချိတ်ဆက်ထားသည်</item>
     </plurals>

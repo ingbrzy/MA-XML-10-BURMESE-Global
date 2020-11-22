@@ -30,6 +30,9 @@
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">%d ကြိမ် သော့ဖွင့်ထားသည်</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">%1$s တွင် %2$d ကြိမ် သော့ဖွင့်ထားသည်</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">%d ကြိမ် သော့ဖွင့်ထားသည်</item>
     </plurals>

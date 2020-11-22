@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_sound">စိတ်ကြိုက်ကြိုသတ်မှတ်ချက်ထည့်ပါ</string>
-    <string name="app_name">နားကြပ်</string>
+    <string name="app_name">နားကြပ်များ</string>
     <string name="apply_sound">သုံးရန်</string>
     <string name="can_you_here">အသံကြားရပြီလား။</string>
     <string name="complete_dialog_button">ရပါပြီ</string>
@@ -45,6 +45,16 @@
     <string name="input_hint_prefix">%1$s အား ရိုက်ထည့်ပါ</string>
     <string name="keep_sound">ကြိုသတ်မှတ်ချက်ကို သိမ်းရန်</string>
     <string name="low_pitch">အသံနိမ့်</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
+    <string name="multi_music_coexistence_summary">အသံပေးချက်အသံထွက်လာချိန်တွင် မီဒီယာအသံကို မပြောင်းလဲစေသည့်အပြင် မြောက်မြားစွာသော မီဒီယာအသံများလည်း တစ်ခုနှင့် တစ်ခု အနှောင့်အယှက် မဖြစ်စေပါ</string>
+    <string name="multi_music_coexistence_title">အသံအမြောက်အမြားခွင့်ပြုရန်</string>
     <string name="music_add_my_sound">စိတ်ကြိုက်ကြိုသတ်မှတ်ချက်ထည့်ပါ</string>
     <string name="music_app_unavailable">Mi တေးဂီတအက်ပ် ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="music_audio_effect_optimize">အော်ဒီယို ဆက်တင်များ</string>
@@ -52,6 +62,8 @@
     <string name="music_audio_effect_optimize_summary_with_hd">Dirac၊ ဟိုင်ဖိုင်၊ နားကြပ် နှင့် အခြား အော်ဒီယို ဆက်တင်များ</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac၊ ဟိုင်ဖိုင်၊ နားကြပ် နှင့် အခြား အော်ဒီယို ဆက်တင်များ</string>
     <string name="music_audio_effect_settings">အထူးပြုလုပ်ချက် ဆက်တင်များ</string>
+    <string name="music_audio_visual_wake_lock">မျက်နှာပြင် ဖွင့်ထားပါ</string>
+    <string name="music_audio_visual_wake_lock_summary">ပုံရိပ်ဖန်တီးချက်များ ပြသစဉ် မျက်နှာပြင် မပိတ်ပါနှင့်</string>
     <string name="music_below_thirty_years">အသက် ၃၀ အထိ</string>
     <string name="music_customized_sound_summary">အကြားအာရုံကိုလိုက်၍ အသံညှိပါ</string>
     <string name="music_customized_sound_title">အသံညှိခြင်း</string>
@@ -70,6 +82,7 @@
     <string name="music_dirac_mode_in_ear">Mi In-Ear နားကြပ်</string>
     <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
     <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="music_dirac_mode_in_ear_four_unit">Mi လေးဆမြင့်ဒရိုင်ဘာ နားကြပ်များ</string>
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro နားကြပ်</string>
     <string name="music_dirac_mode_india_earphones">Mi နားကြပ်</string>
     <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
@@ -80,6 +93,7 @@
     <string name="music_dirac_mode_piston_basic">အခြေခံ တည်းဖြတ်ချက်</string>
     <string name="music_dirac_mode_piston_color">အရောင်တည်းဖြတ်မှု</string>
     <string name="music_dirac_mode_piston_standard">စံ တည်းဖြတ်ချက်</string>
+    <string name="music_dirac_mode_piston_typec">Mi နားတွင်းထည့်နားကြပ်များ(အမျိုးအစား - C)</string>
     <string name="music_dirac_mode_piston_youth">လူငယ်နှင့်ဆိုင်သော</string>
     <string name="music_dirac_mode_reduction_noise">Mi ဆူညံသံလျှော့ချခြင်း Type-C</string>
     <string name="music_dolby_mode_movie">ဗီဒီယို</string>
@@ -89,6 +103,12 @@
     <string name="music_equalizer_summary">ကွဲပြားသော ဂီတသံအတွက် သီးခြား အဆင့်ညှိမည်</string>
     <string name="music_hd_title">HD အသံ အော်ဒီယို</string>
     <string name="music_headphone_settings">နားကြပ်အမျိုးအစားရွေးချယ်ပါ</string>
+    <string name="music_headset_audio_visual">ပုံရိပ်ဖန်တီးချက်များ</string>
+    <string name="music_headset_audio_visual_apply">သုံးရန်</string>
+    <string name="music_headset_audio_visual_style">ပုံရိပ်ဖန်တီးချက်များ စတိုင်</string>
+    <string name="music_headset_audio_visual_style_summary">ပုံရိပ်ဖန်တီးချက်များ စတိုင် ရွေးပါ</string>
+    <string name="music_headset_audio_visual_summary">အသံကို သော့ချမျက်နှာပြင်တွင် ဖော်ပြသော ပုံရိပ်ဖန်တီးချက်များဖြင့် ဝန်းရံပါ</string>
+    <string name="music_headset_audio_visual_toast">အောင်မြင်စွာ သုံးလိုက်ပါပြီ</string>
     <string name="music_headset_button_settings">ခလုတ်များ သတ်မှတ်မည်</string>
     <string name="music_headset_calibrate">ခလုတ်များ သတ်မှတ်မည်</string>
     <string name="music_headset_calibrate_apply">သုံးမည်</string>
@@ -100,10 +120,23 @@
     <string name="music_headset_calibrate_volume_down">အသံတိုးမည်</string>
     <string name="music_headset_calibrate_volume_up">အသံကျယ်မည်</string>
     <string name="music_headset_calibrate_wrong_key">ယင်းသည် မှားယွင်းသော ခလုတ်ဖြစ်ပါသည်</string>
+    <string name="music_headset_control_setting">နားကြပ်ထိန်းချုပ်မှုများ</string>
+    <string name="music_headset_effect_settings">အသံ ဖန်တီးချက်များ</string>
+    <string name="music_headset_improve_sound">အသံကို နားကြပ်တွင် ညှိပါ</string>
+    <string name="music_headset_is_open">ဖွင့်ရန်</string>
     <string name="music_headset_mode_music">ဂီတဖွင့်ခြင်း ထိန်းချုပ်ခြင်း</string>
     <string name="music_headset_mode_settings">နားကြပ် အဝေးထိန်း ခလုတ်များ</string>
     <string name="music_headset_mode_volume">အသံအတိုးအကျယ် ထိန်းချုပ်ခြင်း</string>
     <string name="music_headset_no_contected">နားကြပ် ရှာမတွေ့ပါ</string>
+    <string name="music_headset_not_open">ပိတ်ရန်</string>
+    <string name="music_headset_open">အသံကို နားကြပ်တွင် ညှိပါ</string>
+    <string name="music_headset_optimization">အသံပိုကောင်းစနစ်</string>
+    <string name="music_headset_scenario_intelligent">စမတ်</string>
+    <string name="music_headset_scenario_music">ဂီတ</string>
+    <string name="music_headset_scenario_select">ကြိုသတ်မှတ်ရန်</string>
+    <string name="music_headset_scenario_video">ဗီဒီယို</string>
+    <string name="music_headset_scenario_vocal">အသံ</string>
+    <string name="music_headset_select_settings">နားကြပ်များရွေးပါ</string>
     <string name="music_headset_settings">အသံ ဖန်တီးချက်များ</string>
     <string name="music_hifi_summary">ဆူညံသံ နှင့် အဖျက်သံများကို လျော့ပြီး အသံအရည်အသွေးကို မြှင့်တင်ပါ</string>
     <string name="music_hifi_title">ဟိုင်ဖိုင် အော်ဒီယို</string>
@@ -131,9 +164,15 @@
     <string name="retry_test">ပြန်စရန်</string>
     <string name="save_and_apply">သိမ်းပြီး အသုံးပြုပါ</string>
     <string name="second_note">နားကြပ်တပ်ပါ။</string>
+    <string name="sound_assist_key_summary">အက်(ပ်)အမျိုးမျိုးက အသံတစ်ပြိုင်တည်းဖွင့်ထားစဉ် အက်(ပ်)တစ်ခုချင်းစီ၏ အသံကို ညှိပေးသည်</string>
+    <string name="sound_assist_key_title">အက်(ပ်)အမျိုးမျိုးရှိ မီဒီယာအသံများကို ညှိပေးသည်</string>
+    <string name="sound_assist_title">အသံအထောက်အကူ</string>
     <string name="sound_test_title">အကြားအာရုံစစ်ဆေးမှု</string>
     <string name="start_test_sound">စစ်ဆေးမှုစရန်</string>
     <string name="sure_give_up_test">ယခုစစ်ဆေးမှုကို ရပ်လိုက်လျှင် နောက်တစ်ကြိမ် အစမှ ပြန်စရပါမည်။ မဖြစ်မနေ ရပ်လိုသလား။</string>
     <string name="sure_to_back">အပြောင်းအလဲကို အပြီးဖျက်လိုပြီလား။</string>
+    <string name="switch_audio_device_bt">ဘလူးတု</string>
+    <string name="switch_audio_device_phone">ဤစက်</string>
+    <string name="switch_audio_dialog_title">အသံကို ဤအရာသို့ ပြောင်းရန် -</string>
     <string name="third_note">ဆိတ်ငြိမ်ရာရှာပါ။</string>
 </resources>

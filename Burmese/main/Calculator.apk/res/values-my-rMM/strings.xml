@@ -43,6 +43,7 @@
     <string name="convert_currency">ငွေကြေး ပြောင်းခြင်း</string>
     <string name="convertion_unit">ယူနစ် ပြောင်းခြင်း</string>
     <string name="convertion_unit_area">ဧရိယာ ပြောင်းခြင်း</string>
+    <string name="convertion_unit_data">ဒေတာပြောင်းစနစ်</string>
     <string name="convertion_unit_length">အလျား ပြောင်းခြင်း</string>
     <string name="convertion_unit_radix">ဂဏန်းစနစ်</string>
     <string name="convertion_unit_temperature">အပူချိန် ပြောင်းခြင်း</string>
@@ -52,6 +53,7 @@
     <string name="convertion_unit_weight">အလေးချိန် ပြောင်းခြင်း</string>
     <string name="cos">cos</string>
     <string name="cosDesc">cosine</string>
+    <string name="currency_dialog_privacy_content">&lt;Data>ငွေလဲစနစ်သည် နောက်ဆုံးပေါ် ငွေလဲနှုန်းကို ရနိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
     <string name="currency_update_connect_to_get_data">ငွေလဲနှုန်းအား Webull မှ ပံ့ပိုးသည်။ နောက်ဆုံးအချက်အလက်များရရှိရန် ကွန်ရက်သို့ ချိတ်ဆက်ပါ။</string>
     <string name="currency_update_support">ငွေလဲနှုန်းအား Webull မှ ပံ့ပိုးသည်။</string>
     <string name="currency_update_time_format">ငွေလဲနှုန်းများအား webull (%s) မှထောက်ပံ့ထားပါသည်</string>
@@ -65,7 +67,7 @@
     <string name="description_content">ယင်း၏အခြေခံအင်္ဂါရပ်အပြင် ဂဏန်းတွက်စက်သည် ယူနစ်ပြောင်းလဲတွက်ချက်မှု၊ ပေါင်နှံတွက်ချက်မှုနှင့်အခွန်တွက်ချက်မှုအတွက် ဘက်စုံဂဏန်းတွက်စက်အဖြစ်လည်းအသုံးပြုနိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
     <string name="description_title">ဂဏန်းတွက်စက် အကြောင်း</string>
     <string name="devided_by_zero_reminder_message">သုညဖြင့် စား၍ မရပါ</string>
-    <string name="dialog_privacy_content">ဂဏန်းတွက်စက်၏ အခြေခံ အင်္ဂါရပ်များအပြင် ဤအက်ပ်တွင် သိပ္ပံ ဂဏန်းတွက်စက် နှင့် ယူနစ်ပြောင်းခြင်း အမျိုးမျိုးတို့ ပါရှိပါသည်။ အချို့အင်္ဂါရပ်များသည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဂဏန်းတွက်စက်အား မသုံးမီ ကျွန်ုပ်တို့၏ %1$s နှင့် %2$sအား ဦးစွာဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="dialog_privacy_content">&lt;Data>ကျွန်ုပ်တို့၏ အက်(ပ်)တွင် ဂဏန်းပေါင်းစက်၏ အခြေခံ အင်္ဂါရပ်များအပြင် သိပ္ပံဂဏန်းပေါင်းစက်နှင့်ယူနစ်ပြောင်းခြင်း အမျိုးမျိုးတို့ ပါရှိသည်။ အချို့အင်္ဂါရပ်များသည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဂဏန်းပေါင်းစက်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
     <string name="dialog_privacy_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="dialog_rating_desc_ask">ဂဏန်းတွက်စက်နှင့်ပတ်သက်၍ သင့်အမြင်ကို ပြောပြပါ</string>
     <string name="dialog_rating_desc_less">ကျွန်ုပ်တို့ထံ တုံ့ပြန်အကြံပြုမလား?</string>
@@ -83,6 +85,7 @@
     <string name="digit9">9</string>
     <string name="divDesc">စား</string>
     <string name="dob_selection_error">မွေးနေ့ရက်စွဲသည် ယနေ့ရက်စွဲထက် စောရပါမည်</string>
+    <string name="dont_allow">သဘောမတူပါ</string>
     <string name="dotDesc">ပွိုင့်</string>
     <string name="e">e</string>
     <string name="eDesc">Euler နံပါတ်</string>
@@ -127,17 +130,23 @@
     <string name="install">ထည့်သွင်းမည်</string>
     <string name="install_scanner_to_continued_use">စကန်နာအား ဖြုတ်ချထားသည်။ ပြန်ထည့်သွင်းမလား?</string>
     <string name="interest_rate_hint">အတိုးနှုန်းအား ရိုက်ထည့်ပါ</string>
+    <string name="investment_invalid_duration">ရင်းနှီးမြုပ်နှံသောကြာချိန်သည် သုညထက် ကြီးသင့်ပါသည်</string>
+    <string name="investment_type_once">တစ်ကြိမ်</string>
+    <string name="investment_type_recurring">ထပ်တလဲလဲဖြစ်ပေါ်သော</string>
+    <string name="item_page_title_investment">ရင်းနှီးမြှုပ်နှံမှု တွက်ချက်စက်</string>
     <string name="item_title_aa_payment">ကုန်ကျစရိတ် မျှခံမည်</string>
     <string name="item_title_age">အသက်အရွယ်</string>
     <string name="item_title_area_conversion">ဧရိယာ</string>
     <string name="item_title_bmi">BMI</string>
     <string name="item_title_calculator">ဂဏန်းတွက်စက်</string>
     <string name="item_title_currency">ငွေကြေး</string>
+    <string name="item_title_data_conversion">ဒေတာ</string>
     <string name="item_title_date_calculator">နေ့စွဲ</string>
     <string name="item_title_discount">လျှော့ဈေး</string>
     <string name="item_title_dress_size">အဝတ် အရွယ်အစား</string>
     <string name="item_title_emi">ချေးငွေတွက်စက်</string>
     <string name="item_title_gst">GST</string>
+    <string name="item_title_investment">ရင်းနှီးမြှုပ်နှံမှု</string>
     <string name="item_title_length_conversion">အလျား</string>
     <string name="item_title_loan">ချေးငွေ</string>
     <string name="item_title_mortgage">အိမ် ချေးငွေ</string>
@@ -162,17 +171,21 @@
     <string name="label_from_date">မှ</string>
     <string name="label_history">မှတ်တမ်း</string>
     <string name="label_interest">အတိုး (ရာခိုင်နှုန်း)</string>
+    <string name="label_investment_duration">ကြာချိန်</string>
     <string name="label_loan_tenure">ချေးငွေသက်တမ်း</string>
     <string name="label_months">လများ</string>
     <string name="label_no_history">ဤနေရာတွင် အိုင်တမ် မရှိသေးပါ</string>
+    <string name="label_powered_by">Mi ဂဏန်းပေါင်းစက်မှ အားဖြည့်သည်</string>
     <string name="label_principal">ပေးရန်ရှိ</string>
     <string name="label_share">မျှဝေရန်</string>
     <string name="label_start_date">စတင်ရက်</string>
     <string name="label_statistics">စာရင်းအင်း</string>
     <string name="label_to_date">သို့</string>
     <string name="label_total_interest">စုစုပေါင်းအတိုး</string>
+    <string name="label_total_investment">စုစုပေါင်း ရင်းနှီးမြုပ်နှံမှု</string>
     <string name="label_total_payment">စုစုပေါင်း ပေးချေမှု</string>
     <string name="label_total_principal">စုစုပေါင်းပေးရန်ရှိ</string>
+    <string name="label_total_value">စုစုပေါင်းတန်ဖိုး</string>
     <string name="label_years">နှစ်များ</string>
     <string name="leftParen">(</string>
     <string name="leftParenDesc">ကွင်းစ</string>
@@ -388,6 +401,9 @@
     <string name="tax_unemployment">အလုပ်လက်မဲ့</string>
     <string name="tax_update_time_format">HeXun(%s) မှ ပံ့ပိုးသည်</string>
     <string name="times" />
+    <string name="tv_recurrence_monthly">လစဉ်</string>
+    <string name="tv_recurrence_quaterly">သုံးလတစ်ကြိမ်</string>
+    <string name="tv_recurrence_yearly">နှစ်စဉ်</string>
     <string name="unKnow_error">အမည်မသိ အမှား</string>
     <string name="unit_cm">စင်တီမီတာ</string>
     <string name="unit_data_display_area_acre">ဧက</string>
@@ -426,6 +442,7 @@
     <string name="unit_data_display_currency_btn">ဘူတန် ငူထရန်</string>
     <string name="unit_data_display_currency_bwp">ဘော့စဝါ ပူလာ</string>
     <string name="unit_data_display_currency_byn">ဘီလာရုရူဘယ်</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ကနေဒါ ဒေါ်လာ</string>
     <string name="unit_data_display_currency_cdf">ကွန်ဂိုဖရန့်</string>
     <string name="unit_data_display_currency_chf">ဆွစ် ဖရန့်</string>
@@ -517,6 +534,12 @@
     <string name="unit_data_display_currency_yer">ယီမင် ရီယာ</string>
     <string name="unit_data_display_currency_zar">တောင်အာဖရိက ရန်</string>
     <string name="unit_data_display_currency_zmw">ဇမ်ဘီယာ ခဝါချာ</string>
+    <string name="unit_data_display_data_b">ဘိုက်</string>
+    <string name="unit_data_display_data_gb">ဂီဂါဘိုက်</string>
+    <string name="unit_data_display_data_kb">ကီလိုဘိုက်</string>
+    <string name="unit_data_display_data_mb">မီဂါဘိုက်</string>
+    <string name="unit_data_display_data_pb">ပီတာဘိုက်</string>
+    <string name="unit_data_display_data_tb">တီရာဘိုက်</string>
     <string name="unit_data_display_length_au">နက္ခတာယာ ယူနစ်</string>
     <string name="unit_data_display_length_chi">Chi</string>
     <string name="unit_data_display_length_cm">စင်တီမီတာ</string>
@@ -625,6 +648,12 @@
     <string name="unit_data_short_area_sq.rd">rd²</string>
     <string name="unit_data_short_area_sq.um">μm²</string>
     <string name="unit_data_short_area_sq.yd">yd²</string>
+    <string name="unit_data_short_data_b">B</string>
+    <string name="unit_data_short_data_gb">GB</string>
+    <string name="unit_data_short_data_kb">KB</string>
+    <string name="unit_data_short_data_mb">MB</string>
+    <string name="unit_data_short_data_pb">PB</string>
+    <string name="unit_data_short_data_tb">TB</string>
     <string name="unit_data_short_length_au">⊙</string>
     <string name="unit_data_short_length_chi">chi</string>
     <string name="unit_data_short_length_cm">စင်တီမီတာ</string>
@@ -749,8 +778,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ်များအား ချိတ်ဆက်၍ မရပါ။ ဤအက်ပ်မှ တောင်းဆိုထားသော ခွင့်ပြုချက် အားလုံး ရှိမရှိ ဆက်တင် > ထည့်သွင်းထားသော အက်ပ်များတွင် စစ်ကြည့်ပါ။</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မရရှိပါ။ SD ကဒ်အား စစ်ဆေးပါ။</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
 အရွယ်အစား- %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s

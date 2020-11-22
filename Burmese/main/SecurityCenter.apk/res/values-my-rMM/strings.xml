@@ -134,9 +134,9 @@
     <string name="antivirus_none_engine_dialog_ok">အိုကေ</string>
     <string name="antivirus_not_wlan">သင်၏ဖုန်းသည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာကို သုံးပါက အပိုငွေများကုန်ကျနိုင်သည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
     <string name="antivirus_privacy_dialog_cloudscan">အက်ပ်အမည်များနှင့် အသေးစိတ်များကို လုဒ်တင်တင်ပါ</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">အက်ပ်အမည်များနှင့် အသေးစိတ်များကို အွန်လိုင်းဗိုင်းရပ်စ်ဆိုင်ရာ သတ်မှတ်ချက်များအား သုံး၍ အပ်လုတ်တင်ပြီး စကန်ဖတ်ပါ။</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">ဗိုင်းရပ်များကို ပိုမိုထိရောက်စွာ ရှာပြီး သတ်ရန်အတွက် ကျွန်ုပ်တို့က ကလောက်အင်ဂျင်သုံးပြီး ရှာဖွေနိုင်ရန် အက်(ပ်)၏ ပက်ကေ့(ဂျ်)အမည်များနှင့် ဂုဏ်သတ္တိများကို အပ်ပလုဒ်လုပ်ပါမည်။</string>
     <string name="antivirus_privacy_dialog_ok">အိုကေ</string>
-    <string name="antivirus_privacy_dialog_summary">ဤလုပ်ဆောင်ချက်သည် သင့်စက်၏ ID ကို Avas၊ AVL နှင့်Tencent ၏ ဆာဗာများ (%s) ဆီသို့ လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းပေးပြီး အပ်လုတ်တင်ပေးသည်။</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>ဤအင်္ဂါရပ်ကို ပြင်ပပါတီ ဗိုင်းရပ်ကာကွယ်ရေး အင်ဂျင်မှ ပံ့ပိုးခြင်းဖြစ်သည်။ ပိုမိုလေ့လာရန် ပြင်ပပါတီမှ ပေးထားသော&lt;a href=\"%1$s\">လိုင်စင်သဘောတူညီချက်&lt;/a> ကို ဖတ်ပါ။</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="antivirus_privacy_dialog_title">ကိုယ်ရေးမူဝါဒ</string>
     <string name="antivirus_sec_network_unavailable">အင်တာနက်ချိတ်ဆက်မှုကန့်သတ်ထားသောကြောင့် လုံခြုံရေးကို အပ်ပဒိတ်လုပ်မရပါ။ လုံခြုံရေးကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုလိုသလား။</string>
@@ -261,6 +261,8 @@
     <string name="app_behavior_start_from_notification_single">ဤအက်ပ်အား အသိပေးချက်တစ်ခုက ဖွင့်ခဲ့သည်</string>
     <string name="app_behavior_start_from_recent">%1s အား မကြာသေးမီက အသုံးပြုခဲ့သော နေရာများမှ တစ်ဆင့် ဖွင့်ခဲ့သည်</string>
     <string name="app_behavior_start_from_recent_single">ဤအက်ပ်အား မကြာသေးမီက အသုံးပြုခဲ့သော နေရာများမှတစ်ဆင့် ဖွင့်ခဲ့သည်</string>
+    <string name="app_behavior_start_from_widget">%1s ကို ဝိဂျက်တစ်ခုက စဖွင့်ထားခြင်းဖြစ်သည်</string>
+    <string name="app_behavior_start_from_widget_single">ဤအက်(ပ်)ကို ဝိဂျက်တစ်ခုက စဖွင့်ထားခြင်းဖြစ်သည်</string>
     <string name="app_behavior_storage">%1s က ဖိုင်များကို ရယူသုံးစွဲသည် သို့မဟုတ် သိမ်းဆည်းထားသည်</string>
     <string name="app_behavior_storage_bg">%1s က နောက်ကွယ်၌ ဖိုင်များကို ရယူသုံးစွဲသည် သို့မဟုတ် သိမ်းဆည်းထားသည်</string>
     <string name="app_behavior_storage_bg_single">ဤအပ်(ပ်)က ဖိုင်များကို နောက်ကွယ်၌ ဖတ်ထား/ သိမ်းထားသည်</string>
@@ -283,7 +285,7 @@
     <string name="app_install_tips_install_success">%1$s ကို ထည့်ပြီးပါပြီ</string>
     <string name="app_manager_advanced_setting">အဆင့်မြင့် ဆက်တင်များ</string>
     <string name="app_manager_allow">ခွင့်ပြုမည်</string>
-    <string name="app_manager_anomaly_analysis">Analyze third party app problems</string>
+    <string name="app_manager_anomaly_analysis">ပြင်ပကုမ္ပဏီအက်(ပ်)ပြဿနာများကို ဆန်းစစ်ပါ</string>
     <string name="app_manager_app_ifno_version">အက်ပ်ဗားရှင်း</string>
     <string name="app_manager_app_info_label">အက်ပ်အချက်အလက်</string>
     <string name="app_manager_app_info_name">အက်ပ်အမည်</string>
@@ -737,6 +739,7 @@
     <string name="card_main_private_space_summary">ဒုတိယနေရာအား အသုံးပြုခြင်းသည် စက်နှစ်လုံးရှိနေသည်နှင့် တူပါသည်</string>
     <string name="card_main_private_space_title">ဒုတိယနေရာ</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ဖန်တီး</string>
     <string name="card_main_xspace_summary">မည်သည့်အက်ပ်အတွက် မဆို အကောင့်နှစ်ခုတွဲ ဖန်တီးပါ</string>
     <string name="card_main_xspace_title">နှစ်ခုတွဲအက်ပ်</string>
@@ -938,6 +941,7 @@
     <string name="doze_optimization_title">အကောင်းဆုံး ထိနှိပ် ထိန်းချုပ်မှု</string>
     <string name="dual_setting_simcard1">ဆင်းမ်1</string>
     <string name="dual_setting_simcard2">ဆင်းမ်2</string>
+    <string name="ellipsis">…</string>
     <string name="email">အီးမေးလ်</string>
     <string name="empty_app">အက်ပ်များ မရှိပါ</string>
     <string name="empty_title_auto_start_list">မည်သည့်အက်ပ်စ်မှအလိုအလျောက်မစရ။</string>
@@ -1064,6 +1068,13 @@
     <string name="first_aid_scanning_item4">ဘက်ထရီ ပြဿနာများအား စစ်ဆေးနေသည်…</string>
     <string name="first_aid_scanning_item5">အခြား ပြဿနာများအား စစ်ဆေးနေသည်…</string>
     <string name="first_aid_stop_scan">စကန်ဖတ်ခြင်းအား ရပ်ပါ</string>
+    <string name="first_settings_default_camera_title">မီတာဒေတာမပါဘဲ အမြဲမျှဝေရန်</string>
+    <string name="first_settings_default_location_subtitle">မျှဝေထားသော ဓာတ်ပုံများမှ တည်နေရာအချက်အလက်ကို ဖယ်ရှားရန်</string>
+    <string name="first_settings_default_location_title">တည်နေရာအချက်အလက်မပါဘဲ အမြဲမျှဝေရန်</string>
+    <string name="first_settings_share_enable">\"လုံခြုံသော မျှဝေမှု\" ဘက်ဂျက်စ် ပေါင်းထည့်ရန်</string>
+    <string name="first_settings_share_enable_subtitle">WeChat တွင် သင်မျှဝေသော အိုင်တမ်များသည် MIUI ဘက်ဂျက်စ်နှင့် ပေါ်ပါမည်</string>
+    <string name="first_settings_subtitle">သင့်အတွက် ရရှိနိုင်သည့် လုံခြုံသော မျှဝေမှုနည်းလမ်းများမှာ -</string>
+    <string name="first_settings_title">သင့်ကိုယ်ရေးကိုယ်တာကို ကာကွယ်ပါ</string>
     <string name="five_percent_total_pkg">%s (လစဉ်ဒေတာ၏ 5%%)</string>
     <string name="fod_authentication_shift_button">ပယ်ဖျက်မည်</string>
     <string name="fod_button_finger">လက်ဗွေကို သုံးပါ</string>
@@ -1090,10 +1101,9 @@
     <string name="free_traffic_settings">အသုံးနည်းချိန် ဒေတာကန့်သတ်ချက် ဆက်တင်များ</string>
     <string name="function_close">ပိတ်မည်။</string>
     <string name="function_gwsd_detail">"ဤအင်္ဂါရပ်အကြောင်း - 
- ၁။ မိုဘိုင်းဒေတာချိတ်ထားစဉ် ဒေတာ SIM သို့ အဝင်ဖုန်းများ ခွင့်မပြုပါ။ သင်ဖုန်းကိုင်မှသာ ချိတ်ဆက်မှုကို ဖြတ်လိုက်ပါမည်။
- ၂။ ဤအင်္ဂါရပ်ကို ဖွင့်ထားလျှင် ဖုန်းခေါ်သူသည် ခေါ်ဆိုမှုအတွက် စောင့်ဆိုင်းသံမကြားရပါ။ ၆ စက္ကန့်အတွင်း သင်မကိုင်ပါက အဝင်ဖုန်းကို ရပ်လိုက်ပါမည်။
- ၃။ ဤအင်္ဂါရပ်သည် ဒေတာ SIM ကတ်များတွင်သာ အလုပ်လုပ်သည်။ ပင်မ SIM သို့ ဖုန်းဝင်ပါက မိုဘိုင်းဒေတာချိတ်ဆက်မှုကို ရပ်ဆိုင်းပါမည်။
- ၄။ ဤအင်္ဂါရပ်ကို တရုတ်မိုဘိုင်းများနှင့် တရုတ် Unicom တွင်သာ ပံ့ပိုးပါသည်။"</string>
+ ၁။ သင်သည် မိုဘိုင်းဒေတာကို ဒေတာ SIM ကတ် သို့မဟုတ် သာမန် SIM ကတ်တစ်ခုတွင် VoLTE ကွန်ရက်နှင့် ချိတ်သုံးနေပါက ဖုန်းဝင်လာလျှင် ဖုန်းမကိုင်မချင်း အင်တာနက်ပြတ်မသွားပါ။ 
+ ၂။ သာမန် SIM ကတ် သုံးထားခြင်းမဟုတ်ဘဲ ဤအင်္ဂါရပ်ကို ဖွင့်ထားလျှင် သင့်ထံ ဖုန်းဝင်နေသံကို တစ်ဖက်လူက မကြားရပါ။ ၇ - ၁၀ စက္ကန့်ကြာ ဖုန်းမကိုင်ဘဲ ထားပါက အဝင်ဖုန်းများ အလိုအလျောက် ကျသွားပါမည်။
+ ၃။ China Mobile နှင့် China Unicom မှ ဒေတာ SIM ကတ်များကို ပံ့ပိုးသည်။ China Mobile၊ China Unicom နှင့် China Telecom တို့မှ သာမန် SIM ကတ်များကို ပံ့ပိုးသည်။"</string>
     <string name="function_gwsd_title">အဝင်ဖုန်းများက ဒေတာ SIM ချိတ်ဆက်မှုကို မနှောင့်ယှက်ပါ</string>
     <string name="function_shield_auto_bright">အော်တို တောက်ပမှုအား ပိတ်ပါ</string>
     <string name="function_shield_eye_shield">စာဖတ်မုဒ်အား ပိတ်ပါ</string>
@@ -1274,7 +1284,7 @@
     <string name="gb_xunyou_gift_type_one">Xunyou ၁ ရက်စာ အရှိန်မြှင့်ခြင်း</string>
     <string name="gb_xunyou_gift_type_three">Xunyou ၃ ရက်စာ အရှိန်မြှင့်ခြင်း</string>
     <string name="gb_xunyou_gift_type_two">Xunyou ၂ ရက်စာ အရှိန်မြှင့်ခြင်း</string>
-    <string name="gdpr_msg">&lt;Data>Security ၏ အခြေခံအင်္ဂါရပ်များကို သုံးနိုင်ရန်အတွက် လုံခြုံရေးဆိုင်ရာ အင်္ဂါရပ်များကို သင်အသုံးပြုသော နည်းလမ်းများ (ဥပမာ - မိုဘိုင်းဒေတာ သုံးစွဲမှု ကိန်းဂဏန်းများ၊ မဲလ်ဝဲအချက်အလက်များနှင့် သင့်စက်၏ အခြေခံအချက်အလက်များ)နှင့် ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝဒါ&lt;/a>တွင် အသေးစိတ် ဖော်ပြထားသည့် အခြားသော သတင်းအချက်အလက် အမျိုးအစားများ အပါအဝင် သင်၏ ကိုယ်ရေးကိုယ်တာ အချက်အလက်အား Xiaomi က စုဆောင်း၊ စီမံ အသုံးပြုသွားမည် ဆိုခြင်းအား သင်သဘောတူပေးရပါမည်။&lt;/Data></string>
+    <string name="gdpr_msg"><Data>လုံခြုံရေး အန္တရာယ်များကို ရှာဖွေဖော်ထုတ်ရန်နှင့် သင့်ဒေတာကို ကာကွယ်ရန်အတွက် သင့်စက်နှင့်သက်ဆိုင်သည့် လိုအပ်သော အချက်အလက်ပမာဏတစ်ခုကို ကျွန်ုပ်တို့စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို အသုံးမပြုမီ ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးကိုယ်တာ မူဝါဒ&lt;/a>ကို ဖတ်ရှု၍ သဘောတူပေးပါ။ ဤသို့သော အချက်အလက်စုဆောင်းခွင့်အား ကျွန်ုပ်တို့ထံ သင်ပေးအပ်ခြင်းမပြုလျှင် ဤအက်ပ်ကို အသုံးပြုနိုင်ဦးမည်ဖြစ်သော်လည်း အချို့သော အင်္ဂါရပ်များကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ </Data></string>
     <string name="get_sys_info">အချက်အလက်ရယူနေသည်…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">နေရာလွတ် %s ရှင်းနိုင်သည်</string>
@@ -1333,8 +1343,15 @@
     <string name="gs_show_way_vertical">ဒေါင်လိုက်</string>
     <string name="gs_sign_notification">ဝင်ရောက်ရန် နေ့စဥ် ည ၈နာရီတွင် သတိပေးပါ</string>
     <string name="gs_slip_gamebox_detail">ရှော့ကဒ် ပန်နယ် ထွက်လာစေရန် ဆလိုက်ဒါ သုံးပါ သို့မဟုတ် မျက်နှာပြင် ထိပ်ပိုင်းမှ ဆွဲချပါ</string>
+    <string name="gtb_dialog_btn_close">ပိတ်မည်</string>
+    <string name="gtb_dialog_btn_open">ဖွင့်မည်</string>
+    <string name="gtb_dialog_hint_smart_5g">ဤအင်္ဂါရပ်အား Game Turbo နှင့် ဆက်တင်များအတွင်းတွင် အဖွင့်၊ အပိတ် လုပ်နိုင်ပါသည်။</string>
+    <string name="gtb_dialog_summary_smart_5g">5G ကွန်ရက်တစ်ခုကို Game Turbo က ထောက်လှမ်းတွေ့ရှိသောအချိန်တိုင်းတွင် ကွန်ရက်နှောင့်နှေးမှုကို လျှော့ချပေးရန်အသုံးပြုနိုင်သည့် အကောင်းဆုံးကွန်ရက်နှင့် သင်စက်ကို ချိတ်ဆက်နိုင်စေပါသည်။ ဤအင်္ဂါရပ်ကို ပိတ်ထားမလား။</string>
+    <string name="gtb_dialog_title_smart_5g">5G ကွန်ရက် အဆင့်မြှင့်ခြင်း</string>
     <string name="gtb_exit_game_to_gtb">ဂိမ်းပုံးကို ဖွင့်မည်</string>
     <string name="gtb_exit_game_to_home">ပင်မမျက်နှာပြင်သို့ ပြန်သွားပါ</string>
+    <string name="gtb_setting_item_summary_smart_5g">5G ကွန်ရက်တစ်ခုကို Game Turbo က ထောက်လှမ်းတွေ့ရှိသောအချိန်တိုင်းတွင် ကွန်ရက်နှောင့်နှေးမှုကို လျှော့ချပေးရန်အသုံးပြုနိုင်သည့် အကောင်းဆုံးကွန်ရက်နှင့် သင်စက်ကို ချိတ်ဆက်နိုင်စေပါသည်</string>
+    <string name="gtb_setting_item_title_smart_5g">5G ကွန်ရက် အဆင့်မြှင့်ခြင်း</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>ဖုန်းကာရီယာ လွဲမှားနေသလား?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"သင့်လက်ရှိ ဖုန်းကာရီယာ− "</string>
     <string name="guide_quck_open">ဖွင့်</string>
@@ -1425,6 +1442,7 @@
     <string name="list_empty_text">မရှိသော</string>
     <string name="load_only_under_wlan">Wi-Fi ကိုသာသုံးပြီး လုဒ်တင်ပါ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
+    <string name="loading_text_format" formatted="false">ဓာတ်ပုံ (%d/%d) ပုံ ထဲမှ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ဖယ်ရှားနေသည်…</string>
     <string name="local_ip_exception_summary">ဖုန်းလိုကယ် IP လိပ်စာ မရယူနိုင်ခဲ့ပါ။ ဤကိစ္စကို MIUI သို့အစီရင်ခံရန်၊ တုံ့ပြန်အကြံပြုချက်အက်ပ်သို့ သွားရောက်ပြီး သင့်စက်မှ လော့တစ်ခုကို ပေးပို့ပါ။</string>
     <string name="lock_all_title">အက်(ပ်)အားလုံးကို သော့ချထားရန်</string>
     <string name="lock_mode_title">သော့ဆက်တင်များ</string>
@@ -1553,6 +1571,7 @@
     <string name="memory_check_content">%s လွတ်ခဲ့သော</string>
     <string name="memory_clean_memory_size_tip">ကက်ချ်</string>
     <string name="memory_clean_no_need_clean">အရာအားလုံး အဆင်ပြေသည်။</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">%s ရှင်းထားသည်။ သင့်စက်သည် ယခု %d%% မြန်သွားပါပြီ။</string>
     <string name="memory_clear_unused">ကက်ချ် %s ရှင်းပစ်မည်</string>
     <string name="memory_title">ရရှိနိုင်သော- %1$s\u0009\u0009 စုစုပေါင်း- %2$s</string>
     <string name="menu_add">ပေါင်းထည့်</string>
@@ -1593,11 +1612,14 @@
     <string name="menu_summary_antivirus">ဖုန်းထဲတွင် ဗိုင်းရပ်စ်များ ရှာမည်</string>
     <string name="menu_summary_app_manager">အက်ပ်များကို အပ်ဒိတ်လုပ်မည်၊ ဖြုတ်မည်</string>
     <string name="menu_summary_garbage_cleanup">အမှိုက် မတွေ့ရှိပါ</string>
-    <string name="menu_summary_garbage_cleanup_ex">အမှိုက် %s ကို ရှင်းရန်</string>
+    <string name="menu_summary_garbage_cleanup_ex">%s ရှင်းရန်</string>
+    <string name="menu_summary_garbage_cleanup_new">သိုလှောင်ခန်းနေရာလွတ်၏ %d%%</string>
     <string name="menu_summary_networkassistants">ဒေတာအစီစဉ်အား စီမံပါ</string>
     <string name="menu_summary_networkassistants_2">ကန့်သတ်ချက် ကျော်သွားပြီ</string>
     <string name="menu_summary_networkassistants_3">လက်ကျန်ဒေတာ လုံလောက်သည်</string>
     <string name="menu_summary_networkassistants_4">ဒေတာ ကုန်သွားပါပြီ</string>
+    <string name="menu_summary_optimize_manage">မန်မိုရီရှင်းရန်</string>
+    <string name="menu_summary_optimize_manage_1">သင့်စက်ကို %d%% မြန်အောင် ပြုလုပ်ပါ</string>
     <string name="menu_summary_power_manager">ဘက်ထရီ ချွေတာသူသည် ဘက်ထရီကို ကြာရှည်ခံစေနိုင်သည်</string>
     <string name="menu_summary_power_manager_1">ဘက်ထရီ အားအပြည့်သွင်းပြီးပြီ</string>
     <string name="menu_summary_power_manager_2">%s ကျန်ရှိသည်</string>
@@ -1606,16 +1628,20 @@
     <string name="menu_text_antispam">ပိတ်ဆို့စာရင်း</string>
     <string name="menu_text_antivirus">လုံခြုရေးစကန်</string>
     <string name="menu_text_garbage_cleanup">သန့်ရှင်းစက်</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">ခွင့်ပြုချက်များ</string>
     <string name="menu_text_networkassistants">ဒေတာ သုံးစွဲမှု</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">အရှိန်မြှင့်တင်မည်။</string>
+    <string name="menu_text_optimize_manage_1">မြန်နှုန်းမြှင့်ရန်</string>
     <string name="menu_text_power_manager">ဓာတ်ခဲ &amp; လုပ်ဆောင်ရည်</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ခြွင်းချက်များမှ ဖယ်ရှားပါ</string>
     <string name="menu_white">ခြွင်းချက်များသို့ ပေါင်းထည့်မည်</string>
     <string name="mi_service_app_detail">ဒေတာသုံးစွဲမှု အသေးစိတ်များ</string>
@@ -1774,6 +1800,8 @@
     <string name="om_locked_apps_summary">လော့ခ်ချထားသော အက်ပ်များအား အရှိန်မြှင့်တင်ခြင်းမှ လစ်လျူရှုမည်။</string>
     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">အရှိန်မြှင့်တင်မှု လိုအပ်သည်</string>
+    <string name="om_optimzing_big_button_text">မြန်နှုန်းမြှင့်ရန်</string>
+    <string name="om_running_app_info_summary">%s ရှင်းရန်</string>
     <string name="om_running_locked_apps">လော့ခ်ချထားသော အလုပ်လုပ်နေဆဲ အက်ပ်များ</string>
     <string name="om_running_system_apps">အလုပ်လုပ်နေဆဲ စနစ်အက်ပ်များ</string>
     <string name="om_running_third_apps">အလုပ်လုပ်နေဆဲ ပြင်ပအဖွဲ့အစည်း အက်ပ်များ</string>
@@ -1788,6 +1816,13 @@
     <string name="om_settings_notify_manage">အသိပေးချက်များ</string>
     <string name="om_settings_speed_up_auto">အော်တိုအရှိန်မြှင့်</string>
     <string name="om_settings_title">ဆက်တင်</string>
+    <string name="om_shortcut_added_toast_text">အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
+    <string name="om_shortcut_dialog_summary">RAM Jet တွင် တစ်ချက်တို့ရုံနှင့် မန်မိုရီရှင်းပေးပြီး စက်၏ မြန်နှုန်းကို မြှင့်ပေးပါသည်။ RAM Jet ကို သင့်ပင်မစာမျက်နှာသို့ ထည့်လိုသလား။</string>
+    <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="once_settings_camera_ttile">မီတာဒေတာမပါဘဲ မျှဝေရန်</string>
+    <string name="once_settings_location_title">တည်နေရာအချက်အလက်မပါဘဲ မျှဝေရန်</string>
+    <string name="once_settings_subtitle">ရွေးချယ်ထားသော အိုင်တမ်များကို မည်သို့မျှဝေလိုပါသလဲ။</string>
+    <string name="once_settings_title">ကိုယ်ရေးကိုယ်တာ အကာအကွယ်</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">အက်ပလီကေးရှင်းကို ရှာမတွေ့ပါ</string>
     <string name="open_app">ဖွင့်</string>
@@ -1994,6 +2029,11 @@
     <string name="power_center_dialog_msg_top">ဘက်ထရီချွေတာသူအား ဖွင့်ထားပါက MIUI မှ အောက်ပါတို့ကို လုပ်ဆောင်ပါမည်-</string>
     <string name="power_center_hints_scan_danger_result">ယခု ဘက်ထရီ ပြဿနာများအား ဖြေရှင်းနိုင်ပါပြီ</string>
     <string name="power_center_list_item_auto_brightness">မျက်နှာပြင်တောက်ပမှုအား အလိုအလျောက် ချိန်ညှိပါ</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">နာရီ</string>
     <string name="power_center_list_item_close_bluetooth">ဘလူးတုသ်အား ပိတ်ပါ</string>
     <string name="power_center_list_item_deep_save_title">အဆင့်မြင့် ဆက်တင်များ</string>
@@ -2170,6 +2210,7 @@
     <string name="pref_normal_traffic_limit">သတ်မှတ်ထားသော ဒေတာအစီအစဉ် ကုန်သွားပါက</string>
     <string name="pref_open_adjust_traffic">သင့်ဖုန်းကာရီယာမှ ​ဒေတာသုံးစွဲမှုအား နေ့တိုင်း အသစ်မွမ်းမံပါ။</string>
     <string name="pref_operator_not_set">ကာရီယာ မသတ်မှတ်ထားပါ</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">ဒေတာအစီစဉ်ထက် ကျော်သွားပါက</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_pkg_begin_date">အသုံးပြမှုပြန်သတ်မှတ်ခြင်းရက်စွဲ</string>
@@ -2332,6 +2373,7 @@
     <string name="privacy_using_record">အသံဖမ်းနေသည်</string>
     <string name="privacyapp_number_masked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားသည်</string>
     <string name="privacyapp_number_unmasked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားနိုင်သည်</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_vpnsdkmanager_label">ဂိမ်းအရှိန်မြှင့်ကိရိယာ</string>
     <string name="promotion">ကြော်ငြာ</string>
@@ -2470,10 +2512,18 @@
     <string name="settings">ဒေတာသုံးစွဲမှု ဆက်တင်</string>
     <string name="settings_battery_consume_abnormal_summary">ဘက်ထရီအားသုံးမှု မြန်ဆန်ပါက အသိပေးချက်များအား လက်ခံရရှိပါ</string>
     <string name="settings_battery_consume_abnormal_title">ဘက်ထရီသုံးစွဲမှု အသိပေးချက်များ</string>
+    <string name="settings_camera_subtitle_no">မီတာဒေတာ မလိုပါ</string>
     <string name="settings_category_other">အခြားဆက်တင်များ</string>
     <string name="settings_category_overheat">ပူလာနေသည်</string>
     <string name="settings_choice_no_notification">ပိတ်ရန်</string>
+    <string name="settings_image_camera_summary">စက်ပစ္စည်းမော်ဒယ်၊ မီတာဒေတာ၊ စသည်ဖြင့်။</string>
+    <string name="settings_location_subtitle_no">တည်နေရာအချက်အလက် မလိုပါ</string>
     <string name="settings_power_save_ontime_title">အချိန်သတ်မှတ်မှု</string>
+    <string name="settings_share_enable_summary">WeChat တွင် သင်မျှဝေသောအိုင်တမ်များသည် MIUI ဘက်ဂျက်စ်နှင့် ပေါ်ပါမည်</string>
+    <string name="settings_share_info">ပြခန်းနှင့် ဖိုင်မန်နေဂျာမှ မျှဝေသော အိုင်တမ်များအတွက် ရရှိနိုင်သည့် လုံခြုံသော မျှဝေမှုနည်းလမ်းများမှာ -</string>
+    <string name="settings_show_detail">အသေးစိတ်ကြည့်ရန်</string>
+    <string name="settings_tip">အခြားရွေးချယ်မှုများကို ကြည့်ရန် ပြခန်း > ဆက်တင်များသို့ သွားပါ</string>
+    <string name="settings_title">လုံခြုံသော မျှဝေမှု</string>
     <string name="shield_keyboard_detail">ခလုတ်များအား ပြန်ဖွင့်ရန် နှစ်ချက်ဆက်တိုက် ထိနှိပ်ပါ။</string>
     <string name="shield_keyboard_summary">ခလုတ်နှင့် မျက်နှာပြင်အပြည့် လက်ဟန်များအား ဂိမ်းကစားနေစဥ် ကန့်သတ်ထားမည်</string>
     <string name="shield_keyboard_title">ခလုတ်နှင့် လက်ဟန်များအား ကန့်သတ်မည်</string>
@@ -2931,6 +2981,8 @@
     <string name="text_button">နားလည်ပါပြီ</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
+    <string name="text_done">အိုကေ</string>
+    <string name="text_security">ကိုယ်ရေးကိုယ်တာ</string>
     <string name="thermal_tips_message">လုပ်ဆောင်ရည်မုဒ်အောက်တွင် ဂိမ်းကစားခြင်းသည် စက်အား အပူလွန်စေနိုင်သည်။</string>
     <string name="thermal_tips_title">သတိပြုရန်</string>
     <string name="third_application">ထည့်သွင်းထားသော အက်ပ်များ</string>

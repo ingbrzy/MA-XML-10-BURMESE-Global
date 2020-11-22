@@ -104,14 +104,6 @@
         <item quantity="other">အသိအမှတ်ပြုခွင့်များကို ထည့်သွင်းပြီးပါပြီ</item>
         <item quantity="one">အသိအမှတ်ပြုခွင့်ကို ထည့်သွင်းပြီးပါပြီ</item>
     </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">Wi-Fi ကွန်ယက်များရရှိနိုင်သည်</item>
-        <item quantity="one">Wi-Fi ကွန်ယက်ရရှိနိုင်သည်</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">Wi-Fi ကွန်ယက်များရရှိနိုင်သည်အား ဖွင့်ပါ</item>
-        <item quantity="one">Wi-Fi ကွန်ယက်ရရှိနိုင်သည်အား ဖွင့်ပါ</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">%d နာရီကြာ</item>
         <item quantity="one">၁ နာရီကြာ</item>

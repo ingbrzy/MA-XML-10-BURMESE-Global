@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">အသိအမှတ်ပြုလက်မှတ်ထည့်သွင်းခြင်း</string>
-    <string name="cert_is_added">%sအားထည့်သွင်းထားသည်</string>
     <string name="cert_missing_error">အသိအမှတ်ပြုလက်မှတ် မတွေ့သောကြောင့် ထည့်သွင်းခြင်း မပြုနိုင်ပါ</string>
     <string name="cert_not_saved">အသိအမှတ်ပြုလက်မှတ်အား မထည့်သွင်းထားပါ</string>
     <string name="cert_read_error">အသိအမှတ်ပြုလက်မှတ်ဖိုင်အား ဖတ်မရသောကြောင့် ထည့်သွင်းခြင်း မပြုနိုင်ပါ</string>
     <string name="cert_too_large_error">အသိအမှတ်ပြုလက်မှတ်ဖိုင် အရွယ် ကြီးသောကြောင့် ထည့်သွင်းခြင်း မပြုနိုင်ပါ</string>
     <string name="credential_info">packageထဲတွင် ပါဝင်သည်မှာ:</string>
-    <string name="credential_name">အသိအမှတ်ပြုလက်မှတ်အမည်</string>
     <string name="credential_password">အသိအမှတ်ပြုလက်မှတ် များ ထုတ်ယူရန် စကားဝှက်ရိုက်ထည့်ပါ</string>
     <string name="credential_usage_label">Credential အသုံးပြုပုံ:</string>
     <string name="done_label">လုပ်ပြီး</string>

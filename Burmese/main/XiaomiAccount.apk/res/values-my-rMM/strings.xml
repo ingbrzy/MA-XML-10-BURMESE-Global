@@ -89,6 +89,7 @@
     <string name="confirm_unbind">ဒီအကောင့်ကို ချိတ်ဆက်ဖြတ်မလား။</string>
     <string name="confirm_unbundled_phone_dialog_message">ဖုန်းနံပါတ် %1$s သည် Mi အကောင့် %2$sနှင့် ချိတ်ဆက်ထားသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %3$s နှင့် ချိတ်ဆက်မှု ပျက်သွားလိမ့်မည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
     <string name="continue_action">ဆက်လုပ်ရန်</string>
+    <string name="copy_to_clipboard_successful">အောင်မြင်စွာ ကူးပြီးပါပြီ</string>
     <string name="delete_action">ဖျက်ပစ်မည်</string>
     <string name="delete_bank_card_message">ဆိုင်းအောက်ထွက်ပြီးနောက် Mi Pay သည် ဘဏ်ကဒ်နှင့် NFC ကဒ်များအား ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="delete_bank_card_title">သတိပြုရန်</string>
@@ -287,6 +288,10 @@
     <string name="passport_get_verify_code">ကုဒ်နံပါတ် ရယူပါ</string>
     <string name="passport_getting_activator_phone">ဆင်းမ်အချက်အလက် ရယူနေသည်…</string>
     <string name="passport_getting_verify_code">ရယူနေဆဲပါ</string>
+    <string name="passport_google_login">ယခင်သုံးဖူးသော Google အကောင့်နှင့် အကောင့်ဝင်လိုသလား။</string>
+    <string name="passport_google_login_agree">Google အကောင့်</string>
+    <string name="passport_google_login_disagree">Mi အကောင့်</string>
+    <string name="passport_google_login_failed">Google နှင့် အကောင့်ဝင်မရပါ။ သင့် Mi အကောင့်သို့ တိုက်ရိုက်ဝင်ပါ။</string>
     <string name="passport_i_know">နားလည်ပါပြီ</string>
     <string name="passport_identification_expired">အတည်ပြုကုဒ် သက်တမ်းကုန်သွားသည်၊ တဖန်ပြန်လုပ်ပါ</string>
     <string name="passport_imei_permission_denied_message">သင့်စက်၏ IMEI သို့ဝင်ရောက်ရန် ကျွန်ုပ်တို့မှ ခွင့်ပြုချက်တောင်းခံခြင်းဖြစ်ပါသည်။ Mi အကောင့်အား လုံခြုံစေရန်အတွက် Mi အကောင့်သည် သင့်မည်သည့်စက်ကို ဆိုင်းအင်ဝင်ရောက်သည်၊ ထွက်သည်အား သိရှိနိုင်ရန်အတွက် IMEI အား အသုံးပြုပါသည်။</string>

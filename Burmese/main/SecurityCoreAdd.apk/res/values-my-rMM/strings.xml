@@ -98,13 +98,6 @@
     <string name="dual_animation">အန်နီမေးရှင်း ခလုတ်</string>
     <string name="dual_animation_description">နှစ်ခုတွဲအက်ပ်အား ဖွင့်သောအခါ အန်နီမေးရှင်း ပြပါ</string>
     <string name="enable">ဖွင့်</string>
-    <string name="encrypt_space_delete_dialog_click_message">*အကယ်၍ ဒေတာရွှေ့ရန် မလိုပါက၊ %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">ယခု ဒုတိယနေရာအား ဖျက်၍ ပြန်ဖန်တီးမည်။</string>
-    <string name="encrypt_space_delete_dialog_message">စနစ်အပ်ဒိတ် လုပ်ဆောင်တော့မည်။ အပ်ဒိတ်လုပ်ပြီးနောက် ဒုတိယနေရာမှ ဒေတာသည် တွဲဖက်၍ ရမည်မဟုတ်ပါ။ ထို့ကြောင့် ဒေတာအားလုံးကို ပထမနေရာသို့ ရွှေ့ထားပါ။ ဒုတိယနေရာအား ဖျက်၍ ပြန်ဖန်တီးပါ။</string>
-    <string name="encrypt_space_delete_dialog_positive_text">ဒေတာရွေ့မည်</string>
-    <string name="encrypt_space_delete_dialog_title">သတိပြုရန်</string>
-    <string name="encrypt_space_delete_notification_message">သင်၏စက်အား အပ်ဒိတ်လုပ်နိုင်ရန် ဒုတိယနေရာကို ဖျက်၍ အသစ်တစ်ခု ဖန်တီးပါ။</string>
-    <string name="encrypt_space_delete_notification_title">ဒုတိယနေရာ</string>
     <string name="ent_activating">အသက်သွင်းနေသည်…</string>
     <string name="ent_activation">အသက်သွင်းမည်</string>
     <string name="ent_activation_hint">လုပ်ငန်းမုဒ်အား အသက်သွင်းရန် လိုင်စင်ကုဒ်နှင့်အတူ ကိုယ်စားလှယ်ကုဒ်ကိုလည်း ရိုက်ထည့်ပါ။ ထို့နောက်၊ သက်ဆိုင်ရာ လုပ်ငန်းဝန်ဆောင်မှုများကို သုံးနိုင်လိမ့်မည်။</string>
@@ -188,7 +181,6 @@
     <string name="guide_pwd_detail_title">"သင့်ဒေတာများအား ကာကွယ်ပါ
 သော့ခတ်မျက်နှာပြင်မှ ဒုတိယနေရာသို့ ဝင်ရောက်ပါ"</string>
     <string name="guide_setting_guide_title">ဒုတိယနေရာအား စီမံပါ</string>
-    <string name="guide_start_ads_text">အသစ်တိုးမြှင့်ထားသော လုံခြုံရေးအဆင့်</string>
     <string name="guide_start_text">စက်တစ်လုံး၊ ကိုယ်ပွားနှစ်ခု။</string>
     <string name="has_created_second_space">"ဒုတိယနေရာကို ယခုဖွင့်နိုင်ပါပြီ။
 စက်တစ်လုံး၊ ကိုယ်ပွားနှစ်ခု။"</string>
@@ -226,6 +218,14 @@
     <string name="master_clear_not_available_ep">စက်ရုံထုတ်ဆက်တင်ပြန်ထားခြင်း သို့မဟုတ် ခွင့်ပြုချက်ရုတ်သိမ်းခြင်းတို့ကို ယခု လုပ်ခွင့်မပြုပါ။ သင့်ကြီးကြပ်ရေးမှူးကို ဆက်သွယ်ပါ။</string>
     <string name="menu_item_about_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="messageData">မက်ဆေ့ချ်များ</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="more_settings">နောက်ထပ်</string>
     <string name="msg_switch_file">ထိုပုံများအား ပယ်ရှားပြီးနောက် ပထမရှိနေရာမှ ထိုဖိုင်များအား ဖျက်ပစ်မည်လား?</string>
     <string name="msg_switch_file_second">ထိုဖိုင်များအား ဖယ်ရှားပြီးနောက် ဒုတိယနေရာမှ ဖျက်ပစ်မလား?</string>
@@ -256,7 +256,6 @@
     <string name="openPasswordGuard">ဒုတိယနေရာစကားဝှက်အား သတ်မှတ်ပါ</string>
     <string name="openSuccess">ဖွင့်ခဲ့သည်</string>
     <string name="opened">ဖွင့်ပါ</string>
-    <string name="optimize_now">အဆင့်မြှင့်တင်မည်</string>
     <string name="other">အခြား</string>
     <string name="otherSettings">အခြားဆက်တင်များ</string>
     <string name="passWordGuardSummary">စကားှက်တစ်ခုသုံးပြီး သော့ခတ်မျက်နှာပြင်မှနေ၍ ဒုတိယနေရာသို့ ဝင်ရောက်ပါ</string>
@@ -279,8 +278,6 @@
     <string name="remove_button">ဖျက်ပစ်မည်</string>
     <string name="remove_button_time">ဖျက်ပစ်မည် (%dစက္ကန့်)</string>
     <string name="remove_second_space_msg">ဒုတိယနေရာအား ဖျက်လိုက်ပြီးနောက် အက်ပ်ဒေတာအားလုံး ဆုံးရှုံးသွားလိမ့်မည်။ ဒုတိယနေရာအား ဖျက်မည်လား?</string>
-    <string name="remove_user_click_message">*ဒုတိယနေရာတွင် အရေးကြီးသော အိုင်တမ်များမရှိပါက၊ %s</string>
-    <string name="remove_user_click_message_action">ယခု ဒုတိယနေရာကို ဖျက်ပြီး သင်၏စက်ကို ပိတ်၍ပြန်စနိုင်ပါပြီ။</string>
     <string name="removingSpace">ဖျက်နေသည်…</string>
     <string name="repeat_scanner_fingerprint">ထပ်ပေါင်းထည့်ပါ</string>
     <string name="reset_passwd_success">စကားဝှက်အား ပြန်သတ်မှတ်ပြီးပါပြီ</string>
@@ -304,14 +301,6 @@
     <string name="scanner_fingerprint_tips_desc">ဒုတိယနေရာသို့ဝင်ရောက်ရန် ရှိပြီးသားလက်ဗွေအား ရွေးချယ်ပါ။ ၄င်းလက်ဗွေအား ပထမနေရာအတွက် အသုံးပြု၍ရနိုင်တော့မည် မဟုတ်။</string>
     <string name="scanner_fingerprint_tips_title">ရှိပြီးသားလက်ဗွေအား အသုံးပြုပြီး ဒုတိယနေရာသို့ ဝင်မည်</string>
     <string name="scanner_second_space_fingerprint">ဒုတိယနေရာအတွက် လက်ဗွေ စကန်ဖတ်ပါ</string>
-    <string name="sdcardfs_dialog_message">ဤအပ်ဒိတ်တွင် စနစ်ဖိုင်အသစ်တစ်ခု ရှိသည်။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် အပ်ဒိတ်လုပ်ရန် အောက်ပါအဆင့်အတိုင်း ဆောင်ရွက်ပါ။ ဤအတောအတွင်း သင်၏စက်သည် နှစ်ကြိမ် ပိတ်၍ပြန်စလိမ့်မည်။</string>
-    <string name="sdcardfs_dialog_title">အရေးကြီးသော မွမ်းမံမှု</string>
-    <string name="sdcradfs_dialog_in_owner_message">"ဤအပ်ဒိတ်တွင် စနစ်ဖိုင်အသစ်တစ်ခု ရှိသည်။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် ဒုတိယနေရာမှ အိုင်တမ်များကို ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ၊ ဒုတိယနေရာကို ပြန်လည်ဖန်တီးပြီး အပ်ဒိတ်လုပ်ပါ။
-အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
-    <string name="sdcradfs_dialog_in_owner_title">ဒုတိယနေရာ</string>
-    <string name="sdcradfs_dialog_in_sec_message">"အပ်ဒိတ်လုပ်ရန် ဒုတိယနေရာကို ဖျက်၍ ပြန်ဖန်တီးပါ။ ဒုတိယနေရာမှ ဒေတာများကို ပထမနေရာသို့ ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ။
-အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
-    <string name="sdcradfs_dialog_in_sec_title">အရေးကြီးသော မွမ်းမံမှု</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ။</string>
     <string name="secondSpace">ဒုတိယနေရာ</string>
@@ -321,6 +310,8 @@
     <string name="second_space_desktop_tips_dialog_title">အရေးကြီးသော မွမ်းမံမှု</string>
     <string name="second_space_finger_printf_desc">ဒုတိယနေရာသို့ ဝင်ရောက်ရန်အတွက် အထူးအသုံးပြုသည့်လက်ဗွေ ပေါင်းထည့်ပါ</string>
     <string name="second_space_finger_printf_title">ဒုတိယနေရာ လက်ဗွေ</string>
+    <string name="secondspace_homepage">"ဒုတိယနေရာအတွက် လိုအပ်သော မျက်နှာပြင်သော့သတ်မှတ်ပါ။
+သင့်ဒေတာများကို သီးခြားခွဲပြီး လုံခြုံအောင်ပြုလုပ်ပါ။"</string>
     <string name="select_existed_fingerprint">ရှိပြီးသားလက်ဗွေမှ ရွေးပါ</string>
     <string name="serNameSummary">ဒုတိယနေရာ</string>
     <string name="setSecondSpacePassword">ဒုတိယနေရာစကားဝှက်အား သတ်မှတ်ပါ</string>
@@ -378,7 +369,6 @@
     <string name="space_create_guide_title_1">သင်၏ကိုယ်ရေးအချက်အလက်အား ကာကွယ်ပါ</string>
     <string name="space_create_guide_title_2">အချိန်မရွေး ဖန်တီးပါ</string>
     <string name="space_create_guide_title_3">အန္တရာယ် လုံးဝကင်းရှင်းသည်</string>
-    <string name="space_created_success">ဒုတိယနေရာ ဖန်တီးပြီးပါပြီ</string>
     <string name="space_deleted">ဤကွက်လပ်အား ဖျက်လိုက်သည့်</string>
     <string name="space_des_default">ကုတ်ဖွဲ့ထားသော ဒေတာနှင့်အတူ သီးခြားနေရာ</string>
     <string name="space_finger_sub_text">လျင်မြန်စွာ ကူးပြောင်းရန် ဒုတိယနေရာအတွက် လက်ဗွေသတ်မှတ်ပါ</string>
@@ -393,7 +383,6 @@
     <string name="stop_xspace_alert_content">နှစ်ခုတွဲအက်ပ် အကောင့်နှင့် ဒေတာ အားလုံးကို ဖျက်မလား? စက်အား ပိတ်၍ပြန်စ ရမည်။</string>
     <string name="stop_xspace_alert_title">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
     <string name="summary_switch_apps_settings">လက်ရှိနေရာတွင် သုံးသော အက်ပ်များကို ရွေးချယ်ပါ</string>
-    <string name="support_desc">Spaces Mobile မှ လုံခြုရေးဝန်ဆောင်မှုများကို ပံ့ပိုးသည်</string>
     <string name="sure_to_use">အတည်ပြု</string>
     <string name="switchDataSummary">နေရာများအကြားရှိ အိုင်တမ်များအား ရွေ့ပါ</string>
     <string name="switch_apps_settings">အက်ပ် ဆက်တင်များ</string>

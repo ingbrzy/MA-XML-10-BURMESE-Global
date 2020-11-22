@@ -3,6 +3,33 @@
     <string name="SMTP_independent_verification_text">အလွတ် SMTP အတည်ပြုခြင်း</string>
     <string name="SMTP_password_text">စကားဝှက်</string>
     <string name="SMTP_username_text">အသုံးပြုသူအမည်</string>
+    <string name="abc_action_bar_home_description">မူလနေရာကို ပြန်သွားရန်</string>
+    <string name="abc_action_bar_up_description">အပေါ်သို့ ရွှေ့ရန်</string>
+    <string name="abc_action_menu_overflow_description">နောက်ထပ် ရွေးစရာများ</string>
+    <string name="abc_action_mode_done">ပြီးပြီ</string>
+    <string name="abc_activity_chooser_view_see_all">အားလုံး ကြည့်ရန်</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုကို ရွေးရန်</string>
+    <string name="abc_capital_off">ပိတ်ရန်</string>
+    <string name="abc_capital_on">ဖွင့်ရန်</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ရှာဖွေရန်…</string>
+    <string name="abc_searchview_description_clear">ရှာဖွေမှုကို ဖယ်ရှားရန်</string>
+    <string name="abc_searchview_description_query">ရှာဖွေရန် မေးခွန်း</string>
+    <string name="abc_searchview_description_search">ရှာရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
+    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာရန်</string>
+    <string name="abc_shareactionprovider_share_with">နှင့် မျှဝေရန်</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
+    <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
     <string name="account_duplicate_dlg_message_fmt">အကောင့်\"%s\"အတွက် အသုံပြုသူအမည်အား သင်အသုံးပြုနေပြီးဖြစ်ပါသည်။</string>
     <string name="account_duplicate_dlg_title">အကောင့်အားပွားယူပါ</string>
     <string name="account_name_toast">အမည်တူ အကောင့်တည်ရှိနေပြီးဖြစ်။</string>
@@ -186,6 +213,7 @@
     <string name="auto_advance_summary">မက်ဆေ့ချ်တစ်ခုဖျက်လိုက်ပြီးနောက် အစားထိုးတက်လာမည့် မက်ဆေ့ချ်အား ရွေးပါ</string>
     <string name="auto_sync_off">အော်တို−ဆင့်ခ် ပိတ်ထား</string>
     <string name="bcc">Bcc</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">သင်တုန့်ပြန်မှုပေးပို့ရန် လိုအပ်ပါသည်</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">အီးမေးလ်ရေးသား</string>
@@ -200,6 +228,7 @@
     <string name="cancel_action">ပယ်ဖျက်</string>
     <string name="cant_move_or_change_labels">ရွေးချယ်မှုတွင် အကောင့်အများစု ပါဝင်နေသည့်အတွက် ရွှေ့၍မရနိုင်ပါ</string>
     <string name="cc">Cc</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">ဖိုင်တွဲများကို ပြောင်းပါ</string>
@@ -214,6 +243,7 @@
     <string name="clear_display_images_whitelist_title">ရုပ်ပုံပြုပြင်မှုများအား ရှင်းလင်း</string>
     <string name="click_download_all_content">[အကြောင်းအရာများအား ဒေါင်းလုဒ်လုပ်ရန် ထိနှိပ်ပါ]</string>
     <string name="collapse_recipient_details">လက်ခံသူအသေးစိတ်မျာအား မကြည့်တော့</string>
+    <string name="colon">:</string>
     <string name="compose">စာရေးသား</string>
     <string name="compose_attachment_number_limit">တွဲချိတ် ၁၀ ခုထက်ပို၍ ပေါင်းထည့်၍မရပါ</string>
     <string name="compose_picturesexceedlimits">မက်ဆေ့ချ်တွင် အတန်းလိုက်ဓါတ်ပုံ ၅ ပုံထက်ပို၍မရပါ</string>
@@ -265,6 +295,7 @@
     <string name="conversation_item_mark_unread">မဖတ်ရသေးသော</string>
     <string name="conversation_photo_welcome_text">စကားစမြည်ပြေဆိုမှုအား ကြည့်ရန် ပေးပို့သူရုပ်ပုံအား ထိနှိပ်ပါ။</string>
     <string name="copied">ကူးယူခဲ့</string>
+    <string name="copy">မိတ္တူကူးရန်</string>
     <string name="copy_email">အီးမေးလ်လိပ်စာအားကူးယူ</string>
     <string name="copy_number">ဖုန်းနံပါတ်ကူးယူ</string>
     <string name="create_action">အသစ်</string>
@@ -334,6 +365,7 @@
     <string name="exception_updated">အပွဲစဉ်၏ အသေးစိတ်များအား ပြောင်းလဲလိုက်ပြီ အတွက် − %s</string>
     <string name="exchange_name">ပူးပေါင်းလုပ်ဆောင်</string>
     <string name="exchange_name_alternate">Microsoft ActiveSync ဖလှယ်မှု</string>
+    <string name="expand_button_title">အဆင့်မြင့်</string>
     <string name="expand_recipient_details">လက်ခံသူဆိုင်ရာအသေးစိတ်များအားကြည့်</string>
     <string name="fail_get_email_message">မက်ဆေ့ချ်ရယူမှု မအောင်မြင်ခဲ့</string>
     <string name="failed">ရုပ်ပုံအား လုဒ်မတင်နိုင်ခဲ့ပါ</string>
@@ -377,6 +409,7 @@
     <string name="gmail_web_login_go">အိုကေ</string>
     <string name="gmail_web_login_required_message">Gmail သို့ဆိုင်းအင်ဝင်ပါ</string>
     <string name="header_category_account">အကောင့်များ</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">တုန့်ပြုန်မှုပို့</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
@@ -389,6 +422,8 @@
     <string name="invalid_recipient">လိပ်စာ %s မှာ ဘောင်မဝင်ပါ။</string>
     <string name="invalid_recipient_title">လက်ခံသူ အမှား</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
+    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">ဆာဗာတွင် မေးလ်သေတ္တာအား ရှာဖွေ</string>
     <string name="load_more">ထပ်ရှာ</string>
     <string name="loading_conversation">ရယူနေသည်…</string>
@@ -487,6 +522,7 @@
     <string name="no_conversations">မက်ဆေ့ချ်များ မရှိပါ။</string>
     <string name="no_mails">မေးလ်မရှိ။</string>
     <string name="no_matched_attachment">ရလဒ်များမရှိပါ။</string>
+    <string name="not_set">သတ်မှတ်မထားပါ</string>
     <string name="not_subject">(အကြောင်းအရာမရှိ)</string>
     <string name="not_synced_title">အကောင့်အား ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="notification_action_archive">မှတ်ထားလိုက်</string>
@@ -575,6 +611,7 @@
     <string name="policy_screen_timeout">မျက်နှာပြင်အား သော့ခတ်ရန် စက်ငြိမ်နေရန် လိုအပ်သည်</string>
     <string name="policy_text_truncation">စာသားအီးမေးလ်အရွယ်အစားအား ကန့်သတ်</string>
     <string name="pop3_name">POP3</string>
+    <string name="preference_copied">\"%1$s\" ကို ကလစ်ဘုတ်သို့ မိတ္တူကူးယူပြီးပါပြီ။</string>
     <string name="preference_eas_tips">“အသက်သွင်း “အား ထိနှိပ်၍ မေးလ်ဆာဗာအား သတ်မှတ်ပါ။</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">POP3 တွင်၊ တွဲချိတ်များအား အီးမေးလ်နှင့်အတူ အလိုလျောက်ဒေါင်းလုဒ်လုပ်လိုက် လိမ့်မည်။ ဤအရာသည် သင်၏မိုဘိုင်းဒေတာသုံးစွဲမှုနှုန်းအား တိုးမြင့်လာစေနိုင်ပါသည်။</string>
@@ -648,6 +685,7 @@
     <string name="saving">သိမ်းနေ...</string>
     <string name="sdcard_cannot_use">SD ကဒ် သုံး၍မရပါ</string>
     <string name="search_hint">မေးလ်အားရှာဖွေ</string>
+    <string name="search_menu_title">ရှာဖွေမှု</string>
     <string name="search_result">ရလဒ်များ</string>
     <string name="search_tabs_name_all">အားလုံး</string>
     <string name="search_tabs_name_recipient">လက်ခံသူ</string>
@@ -691,13 +729,16 @@
     <string name="silent_ringtone">တိတ်ဆိတ်</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">အထွက်ဆာဗာအတွက် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="sort_attachment">အားဖြင့်စီပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="storage">သိုလှောင်မှု</string>
     <string name="str_select_all">အားလုံးကိုရွေးချယ်ပါ</string>
     <string name="str_select_none">အားလုံးမရွေး</string>
     <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">အကြောင်းအရာ</string>
+    <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
     <string name="sync_error">ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="sync_error_message">သင့်စက်တွင် ဆင့်ခ်လုပ်ရန် နေရာအလုံအလောက်မရှိပါ</string>
     <string name="system_account_create_failed">အကောင့်အား မဖန်တီးနိုင်ခဲ့ပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
@@ -738,6 +779,8 @@
     <string name="upload_log_title">Xiaomi အား လော့ပေးပို့ပါ</string>
     <string name="upload_log_yes">တင်ပို့</string>
     <string name="uploading_logs">ခဏလောက်စောင့်ပါ…</string>
+    <string name="v7_preference_off">ပိတ်ရန်</string>
+    <string name="v7_preference_on">ဖွင့်ရန်</string>
     <string name="validation_failed_prompt">အကောင့်အား အတည်မပြုနိုင်ပါ၊ %sအတွက်သင့်ဆာဗာဆက်တင်များအား စစ်ဆေးပါ။</string>
     <string name="via_domain">%1$sမှ တစ်ဆင့်</string>
     <string name="view_more_conversations">စကားစမြည်ပြောဆိုမှုပိုမိုကြည့်ရှု</string>

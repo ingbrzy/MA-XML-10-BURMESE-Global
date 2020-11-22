@@ -50,6 +50,7 @@
     <string name="location_enabled">တည်နေရာပြ ၀န်ဆောင်မှုများကို အချိန်မရွေး သင် ပိတ်နိုင်သည်။</string>
     <string name="location_north">မြောက်အရပ်</string>
     <string name="location_not_enabled_summary">သံလိုက်အိမ်မြှောင်သည် မှန်ကန်သော ကိုအော်ဒီနိတ်များနှင့် အမြင့်ကို ပြသရန် သင့်တည်နေရာကို သိရှိခွင့်ပေးရန် လိုအပ်ပါသည်</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">သံလိုက်အိမ်မြှောင်သည် သင်၏ လက်ရှိကိုသြဒိနိတ်များကို ပြသရန်အတွက် သင့်တည်နေရာကို ဝင်သုံးခွင့်အား လိုအပ်ပါသည်။</string>
     <string name="location_not_enabled_title">တည်နေရာပြ ၀န်ဆောင်မှုများ</string>
     <string name="location_south">တောင်အရပ်</string>
     <string name="location_west">အနောက်အရပ်</string>

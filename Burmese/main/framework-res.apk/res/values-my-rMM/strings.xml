@@ -16,7 +16,6 @@
     <string name="lockscreen_permanent_disabled_sim_instructions">"သင့် ဆင်းမ်ကဒ်အား ရာသက်ပန်ပိတ်လိုက်ပါပြီ။
 ကြိုးမဲ့ဆက်သွယ်ရေးသို့ အကြောင်းကြားပြီး အခြား ဆင်းမ်ကဒ်တစ်ခု ရယူပါ။"</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">ဆင်းမ်ကဒ် သုံး၍ မရပါ။</string>
-    <string name="tethered_notification_message">သတ်မှတ်ရန် ထိနှိပ်ပါ။</string>
     <string name="tethered_notification_multi_device_message">ချိတ်ဆက်ထားသော စက် %1$s ခု</string>
     <string name="tethered_notification_no_device_message">ချိတ်ထားသော စက် မရှိပါ</string>
     <string name="tethered_notification_one_device_message">ချိတ်ဆက်ထားသော စက် %1$s ခု</string>

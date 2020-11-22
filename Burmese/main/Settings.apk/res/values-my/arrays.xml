@@ -206,6 +206,7 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+        <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
@@ -262,8 +263,6 @@
         <item>Qualcomm® aptX™ အသံ</item>
         <item>Qualcomm® aptX™ HD အသံ</item>
         <item>LDAC</item>
-        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
-        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
@@ -272,8 +271,6 @@
         <item>Qualcomm® aptX™ အသံ</item>
         <item>Qualcomm® aptX™ HD အသံ</item>
         <item>LDAC</item>
-        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
-        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -292,6 +289,16 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (မူရင်း)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>စနစ်မူရင်းကို အသုံးပြုရန်− %1$d</item>
@@ -320,10 +327,17 @@
         <item>မြှင့်တင်ရန်</item>
         <item>နှိမ့်ချရန်</item>
     </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>အလွန်သေးသော စာသားအရွယ်အစား</item>
+        <item>သေးသော စာသားအရွယ်အစား</item>
+        <item>မူရင်း စာသားအရွယ်အစား</item>
+        <item>ကြီးသော စာသားအရွယ်အစား</item>
+        <item>အလွန်ကြီးသော စာသားအရွယ်အစား</item>
+    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>အလွန်သေးရန်</item>
         <item>သေး</item>
-        <item>ပုံမှန်</item>
+        <item>မူလ</item>
         <item>အကြီးစား</item>
         <item>အလွန်ကြီးရန်</item>
     </string-array>
@@ -334,7 +348,7 @@
         <item>၁၀၀%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>အက်ပ်ပုံသေများကို သုံးရန်</item>
+        <item>အက်ပ်က သတ်မှတ်ထားသည်</item>
         <item>အမည်းပေါ်အဖြူ</item>
         <item>အဖြူပေါ်အမည်း</item>
         <item>အမည်းပေါ်အဝါ</item>
@@ -389,7 +403,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>ပိတ်ရန်</item>
         <item>ရှိရင်းစွဲထက်ပိုသော ဧရိယာများကိုပြရန်</item>
-        <item>အရောင်ရောနှောသောဧရိယာများပြရန်</item>
+        <item>အစိမ်းရောင် မမြင်ရသောဧရိယာများ ပြရန်</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>ဘယ်တော့မှ</item>
@@ -400,6 +414,12 @@
         <item>၅ မိနစ်</item>
         <item>၁၀ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>အတည်မပြုပါ</item>
+        <item>အသိအမှတ်ပြုလက်မှတ် အခြေအနေ တောင်းဆိုပါ</item>
+        <item>အသိအမှတ်ပြုလက်မှတ် လိုအပ်သည်</item>
+        <item>ယုံကြည်စိတ်ချရခြင်းမရှိသည့် အသိအမှတ်ပြုလက်မှတ် အခြေအနေများအားလုံး လိုအပ်သည်</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>မရှိ</item>
@@ -484,11 +504,17 @@
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>ကမ္ဘာအနှံ့</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
+        <item>NR သီးသန့်</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>ပုံမှန်</item>
@@ -642,6 +668,9 @@
         <item>ကြိုတင်ပေးထားတဲ့ ကီးနှင့်Xauthစစ်မှန်ကြောင်းပါရှိသောIPSec VPN</item>
         <item>အသိအမှတ်ပြုလက်မှတ်နှင့်Xauthစစ်မှန်ကြောင်းပါရှိသောIPSec VPN</item>
         <item>အသိအမှတ်ပြုလက်မှတ်များနှင့် ရောနှောထားတဲ့ စစ်မှန်ကြောင်းပါရှိသောIPSec VPN</item>
+        <item>အသိအမှတ်ပြုလက်မှတ်များနှင့် အသုံးပြုသူအမည်/စကားဝှက် အထောက်အထားစိစစ်ခြင်းများပါသော IKEv2/IPSec VPN</item>
+        <item>ကြိုတင်မျှဝေထားသော ကီးများပါသော IKEv2/IPSec VPN</item>
+        <item>အသိအမှတ်ပြုလက်မှတ်များပါသော IKEv2/IPSec VPN</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -684,24 +713,15 @@
         <item>ဤစက်မှပင်နံပါတ်</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>မရှိ</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>သုံးမထားပါ</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
-        <item>ဆင်းမ်ကဒ်</item>
+        <item>SIM</item>
         <item>AKA</item>
         <item>"AKA'"</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>မရှိ</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
         <item>ကျပန်း MAC ကို အသုံးပြုရန် (မူရင်း)</item>
@@ -746,6 +766,12 @@
         <item>မအောင်မြင်ပါ</item>
         <item>ပိတ်ထားသည်</item>
         <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
+    </string-array>
+    <string-array name="wifi_ttls_phase2_entries">
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>

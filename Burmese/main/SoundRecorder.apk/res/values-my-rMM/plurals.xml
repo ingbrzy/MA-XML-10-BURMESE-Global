@@ -21,17 +21,29 @@
     <plurals name="record_downloading_complete_count">
         <item quantity="other">ဖမ်းယူထားသည့်အသံအပိုင်း %d ခုကို ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">%d ခု ကို အမည်မသိအမှားအယွင်းကြောင့် ပြန်ယူမရပါ။</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">အသံဖိုင် %d ခုတွင် ရှာပါ</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Search among %d recordings</item>
+        <item quantity="other">အသံသွင်းဖိုင် %d ခု အတွင်း ရှာပါ</item>
     </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">ဖုန်းပြောအသံဖိုင် %d ခုတွင် ရှာပါ</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">မှတ်တမ်း %d ခု ရှာတွေ့ထားသည်</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d ရက် ကျန်ပါသည်</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">ရွေးထားသော အသံဖိုင် %d ခုကို အပြီးဖျက်လိုသလား။</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">ဖျက်ထားသောအရာများကို အမှိုက်ပုံးတွင် %d ရက် အထိ သိမ်းထားနိုင်သည်</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d အားဆင့်ခ်မလုပ်နိုင်ခဲ့</item>

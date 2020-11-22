@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">အသိပေးချက်များ</string>
+    <string name="back">နောက်သို့</string>
     <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="category_other">အခြား</string>
     <string name="confirm">အိုကေ</string>
@@ -17,6 +18,7 @@
     <string name="feedback_tip_msg">အသိပေးချက်များကို တိကျစွာ အုပ်စုဖွဲ့ရန် အက်(ပ်)အမည်၊ အသိပေးချက်ခေါင်းစဉ်နှင့် ဖော်ပြချက်၊ အသိပေးချက်ပို့သည့် အချိန်တို့ကို ကျွန်ုပ်တို့ ကောက်ယူရန်လိုပါသည်။ တုံ့ပြန်အကြံပြုချက် တင်လိုပါသလား။</string>
     <string name="feedback_tip_title">အသိပေးချက်အမျိုးအစားများအတွက် တုံ့ပြန်အကြံပြုချက်ပေးပါ</string>
     <string name="float_notifications">အရှင်ထားနိုင်သော အသိပေးချက်များ</string>
+    <string name="float_notifications_short">မျောလွင့်နေသည်</string>
     <string name="function_description">ဤအင်္ဂါရပ်အကြောင်း</string>
     <string name="hint_search_all">အက်ပ်များအား ရှာဖွေရန်</string>
     <string name="hint_search_in_disabled_apps">အသိပေးချက်များ မပြနိုင်သည့် အက်ပ်များအား ရှာဖွေရန်</string>
@@ -27,19 +29,13 @@
     <string name="lock_screen_display_rules">ပုံစံချရန်</string>
     <string name="lock_screen_tip_toast">\"ဖောမတ်\"တွင် သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ ပြရန် ခွင့်ပြုပါ</string>
     <string name="lockscreen_notifications">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
-    <string name="menu_setting_recommend_to_minus">အသိပေးချက်အနည်းငယ်သာ ပြသပါ</string>
-    <string name="menu_setting_recommend_to_normal">အသိပေးချက်များ မလျှော့ပါနှင့်</string>
+    <string name="lockscreen_notifications_short">သော့ချမျက်နှာပြင်</string>
     <string name="menu_setting_show_in_home">အုပ်စုမဖွဲ့ပါနှင့်</string>
-    <string name="menu_setting_tip_recommend_minus">%s ထံမှ အသိပေးချက် အနည်းငယ်သာ တွေ့ရပါမည်</string>
-    <string name="menu_setting_tip_recommend_normal">%s ထံမှ အသိပေးချက်များကို လျှော့မည်မဟုတ်ပါ</string>
     <string name="menu_setting_tip_show_in_home">%s ထံမှ အသိပေးချက်များကို အုပ်စုဖွဲ့မည်မဟုတ်ပါ</string>
     <string name="menu_setting_tip_unfold">ဤအက်(ပ်)မှလာသော အသိပေးချက်အားလုံးကို အရေးကြီးသည်ဟု သတ်မှတ်ပါမည်</string>
-    <string name="menu_setting_toast_recommend_minus">%s ထံမှ အသိပေးချက် အနည်းငယ်သာ တွေ့ရပါမည်</string>
-    <string name="menu_setting_toast_recommend_normal">%s ထံမှ အသိပေးချက်များကို လျှော့မည်မဟုတ်ပါ</string>
-    <string name="menu_setting_toast_show_in_home">%s ထံမှ အသိပေးချက်များကို အုပ်စုဖွဲ့မည်မဟုတ်ပါ</string>
     <string name="menu_setting_unfold">အရေးကြီးသည်</string>
     <string name="not_sent_recently">မကြာသေးမီက မဟုတ်ပါ</string>
-    <string name="notch_and_status_bar_setting">မျက်နှာပြင်ထိပ်ပိုင်း &amp; အခြေအနေပြ ဘားတန်း</string>
+    <string name="notch_and_status_bar_setting">ထိန်းချုပ်စင်တာနှင့် အခြေအနေပြဘားတန်း</string>
     <string name="notification_aggregate_description1">MIUI သည် တွန်းပို့စာနှင့် ပရိုမိုးရှင်းအသိပေးချက်များကို အလိုအလျောက် အုပ်စုဖွဲ့နိုင်၍ သင့်အသိပေးချက်ရှိတ်ကို ရှင်းလင်းစေသည်။</string>
     <string name="notification_aggregate_description2">ကျွန်ုပ်တို့၏ အယ်လဂိုရီသမ်သည် အသိပေးချက်ပါအကြောင်းအရာများကို စိစစ်ပြီး အရေးကြီးသော သတိပေးချက်များနှင့် အသင့်သုံးမက်ဆင်ဂျာများမှ အသိပေးချက်များအတွက် ဤအင်္ဂါရပ်ကို မသုံးပါ။ အရေးကြီးသော အသိပေးချက်များကို မှားယွင်းအုပ်စုဖွဲ့မိပါက ကျွန်ုပ်တို့၏ \"တုံ့ပြန်အကြံပြုချက်\" အင်္ဂါရပ်ကို သုံးပြီး ပြဿနာကို တိုင်ကြားပါ။</string>
     <string name="notification_aggregate_summary">MIUI အား အုပ်စုသတိပေးချက်များ အလိုအလျောက် ပေးခွင့်ပြုပါ</string>
@@ -50,14 +46,13 @@
     <string name="notification_fold_summary">အရေးမကြီးသော အသိပေးချက်များကို အလိုအလျောက် အုပ်စုဖွဲ့ရန်</string>
     <string name="notification_fold_title">အသိပေးချက်များကို အုပ်စုဖွဲ့ရန်</string>
     <string name="notification_manager">အက်ပ် အသိပေးချက်များ</string>
-    <string name="notification_setting_menu_feedback_text">"ဤအသိပေးချက်သည် ဤနေရာတွင် မရှိသင့်ဘူးလား။
-ပြဿနာကို တိုင်ကြားပါ >"</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">ပိတ်မည်</string>
     <string name="on">ဖွင့်မည်</string>
     <string name="settings_guide_title">အခြား ဆက်တင်များ လိုအပ်ပါသလား?</string>
     <string name="show_badge_notifications">အသိပေးချက် တံဆိပ်</string>
+    <string name="show_badge_notifications_short">တံဆိပ်များ</string>
     <string name="status_bar_setting">အခြေအနေပြ ဘားတန်း</string>
     <string name="summary_disable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="summary_disable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား မခွင့်ပြုပါ</string>
@@ -69,6 +64,4 @@
     <string name="summary_lock_screen_enable_notification_first">အသိပေးချက်အား သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
     <string name="summary_show_badge_enable_notification_first">အသိပေးချက်အား အသိပေးချက် တံဆိပ်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
     <string name="swipe_to_delete">ဖျက်ရန် ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပါ</string>
-    <string name="tip_feedback_success">အောင်မြင်စွာ တင်ပြီးပါပြီ</string>
-    <string name="tip_select_category">အသိပေးချက်အမျိုးစား ရွေးပါ</string>
 </resources>

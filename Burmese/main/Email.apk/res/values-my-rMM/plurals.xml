@@ -19,7 +19,7 @@
         <item quantity="other">စာကြမ်း %1$d စောင်ကို ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d ကို ရွေးချယ်ထားပါသည်</item>
+        <item quantity="other">အဆက်အသွယ် %d ခုကို ပေါင်းထည့်ပြီးပါပြီ</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> ကို မှတ်တမ်းထဲသို့ သိမ်းပြီးပါပြီ။</item>
@@ -86,6 +86,36 @@
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d ခုကို ရွေးချယ်ထားပါသည်</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d ရက် အကျော်</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d ရက် အလို</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d နာရီ အကျော်</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d နာရီ အလို</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d မိနစ် အကျော်</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d မိနစ် အလို</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d စက္ကန့် အကျော်</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d စက္ကန့် အလို</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d ပတ် အကျော်</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d ပတ် အလို</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">လူ %1$d ယောက်ထံ စာပြန်ပါ</item>
