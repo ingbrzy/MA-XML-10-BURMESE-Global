@@ -235,9 +235,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
@@ -651,7 +649,6 @@
     <string name="privacy_authorize_revoking">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="privacy_request_desc">"&lt;Data>သင့်အတွက် အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ ထောက်ပံ့ပေးရန်လိုအပ်သည့် ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား Mi တေးဂီတက စုဆောင်းရပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော ထိုအချက်အလက်များကို ကျွန်ုပ်တို့စီမံကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် ပိုမိုလေ့လာနိုင်ပါသည်။ Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။
 Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ဖတ်ရှုလက်ခံပေးပါ။
 ဖော်ပြပါ ဝန်ဆောင်မှုများ အသုံးပြုရန် သင်လက်မခံပါက ဤအက်ပ်၏ အင်္ဂါရပ်အချို့ကို သင်အသုံးပြုနိုင်မည် မဟုတ်သော်လည်း ၎င်း၏ အခြေခံလုပ်ဆောင်ချက်များအား ဆက်လက်ရရှိနိုင်ပါသေးသည်။&lt;/Data>"</string>
@@ -878,7 +875,6 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="upload_playlist_to_hungama_title">အွန်လိုင်းသီချင်းများကို Mi အကောင့် သုံးသောအခြားစက်များတွင် ဖွင့်နိုင်ရန် Hungama သို့ ဆင့်(ခ်)လုပ်ထားပါ။</string>
     <string name="upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို Hungama သို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="user_privacy_dialog_negative_text">ဖျက်သိမ်းမည်</string>
     <string name="user_privacy_dialog_positive_count_down_text">(%s) အကြာတွင် ရုပ်သိမ်းရန်</string>
     <string name="user_privacy_dialog_positive_text">ရုပ်သိမ်းရန်</string>
