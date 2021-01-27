@@ -4,6 +4,11 @@
         <item>ကင်မရာ</item>
         <item>ပြခန်း</item>
     </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>အမည်</item>
         <item>ချစ်စနိုးအမည်</item>
@@ -48,5 +53,8 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>အသံ မှတ်စုများ</item>
         <item>အသံ မှတ်စုများကို ဖန်တီးနိုင်ပါပြီ။ အိုင်ကွန်အား ထိနှိပ်ပြီး အသံသွင်းပါ၊ ထို့နောက် အော်ဒီယိုဖိုင်အား မှတ်စုသို့ သိမ်းပါ။</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
     </string-array>
 </resources>

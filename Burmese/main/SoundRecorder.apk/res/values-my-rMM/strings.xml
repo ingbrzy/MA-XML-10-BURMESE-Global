@@ -16,6 +16,8 @@
     <string name="call_record_list_group_connected">ချိတ်ဆက်ထားသော</string>
     <string name="call_record_list_group_unconnected">ချိတ်ဆက်မထားပါ</string>
     <string name="cancel_rename">ဖျက်သိမ်းရန်</string>
+    <string name="clear_data_dialog_content">ကက်(ရှ်)လုပ်ထားသောအရာများ၊ အက်(ပ်)ဒေတာနှင့် စိတ်ကြိုက်ဆက်တင်များကို ဖျက်လိုက်မည်ဖြစ်သော်လည်း အသံသွင်းမှုများကို နဂိုနေရာအတိုင်းထားရှိပါမည်။</string>
+    <string name="clear_data_dialog_title">ဒေတာကို ယခုရှင်းလိုသလား။</string>
     <string name="clear_records">ဆင့်ခ်မှတ်တမ်းများအား ဖျက်ပါ</string>
     <string name="cloud_record_open">မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်လုပ်နေ</string>
     <string name="cloud_record_tip">သွင်းထားသောအသံဖိုင်များကို Xiaomi Cloud အသုံးပြု၍ ဆင့်ခ်လုပ်မည်</string>
@@ -98,7 +100,7 @@
     <string name="network_unavailable_tip">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="new_record_name">အသံဖမ်းမှုအသစ်</string>
     <string name="no_file">အလွတ်</string>
-    <string name="no_network">"Couldn't connect to the network"</string>
+    <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="notification_message_all_paused">Wi-Fiချိတ်ဆက်မှုကို စောင့်နေသည်။</string>
     <string name="notification_playback">ဖွင့်ထားဆဲ…</string>
     <string name="notification_recording">အသံဖမ်းယူနေဆဲ…</string>
@@ -141,6 +143,7 @@
     <string name="pay_error_unknown">အမည်မသိ အမှား</string>
     <string name="playback_delete_records">အသံဖမ်းယူမှုကို ဖျက်ပစ်ပါ</string>
     <string name="playback_share_records">အသံဖမ်းယူခြင်းကိုမျှဝေပါ</string>
+    <string name="preference_clear_data">ဒေတာရှင်းပါ</string>
     <string name="preference_enable_earpiece_summary">ပြင်ပ ပြန်ဖွင့်ခြင်းအလုပ်အတွက် အသံလက်ခံကိရိယာ၏ စပီကာကို သုံးပါ</string>
     <string name="preference_enable_earpiece_title">အော်ဒီယိုဖွင့်ရန် အသံလက်ခံကိရိယာကို သုံးပါ</string>
     <string name="preference_led_indicator">သော့အိမ်မျက်နှာပြင် အကြောင်းကြားစာများ</string>
@@ -295,6 +298,8 @@
     <string name="trash_box">လတ်တလောဖျက်ထားသော အရာများ</string>
     <string name="trash_box_close_tip">ပေါ်လာသောအကွက်ကို ပိတ်ရန်</string>
     <string name="trash_box_delete_all">အမှိုက်ပုံးမှအရာအားလုံးကို အပြီးဖျက်လိုသလား။</string>
+    <string name="uninstall_warning_content">ရီကော်တာသည် စနစ်နှင့်အတူပါလာသောအက်ပ်တစ်ခု ဖြစ်သည်။ ၎င်းကို ပြန်ဖြုတ်ပြီးနောက် အော်ဒီယိုသံများကို မှတ်တမ်းတင်ခြင်းနှင့် စာသားအဖြစ်ပြောင်းလဲခြင်းအား သင်လုပ်ဆောင်နိုင်မည်မဟုတ်ပါ။</string>
+    <string name="uninstall_warning_title">ရီကော်တာကို ပြန်ဖြုတ်လိုသလား။</string>
     <string name="usage_description">ကလောက်ဖြင့် အသံကို စာပြန်ရိုက်ခြင်းနှင့် အရာဝတ္ထုများ ဆင့်(ခ်)လုပ်ခြင်း</string>
     <string name="user_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="webview_check_network">ကွန်ရက် ဆက်တင်</string>

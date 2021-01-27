@@ -69,14 +69,8 @@
     <plurals name="local_search_result">
         <item quantity="other">ဆင့်ခ်လုပ်ထားသော မက်ဆေ့ချ်များတွင် %s စောင် တွေ့ရှိသည်</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d လ</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">ပူးတွဲဖိုင် %1$d ခု ကျန်သေးသည်</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">စကားပြောဆိုထားမှု %1$d ခုကို ရွှေပါ</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">မက်ဆေ့ချ်အသစ် %1$d စောင်ကိုပြပါ။</item>
@@ -116,9 +110,6 @@
     </plurals>
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d ပတ် အလို</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">လူ %1$d ယောက်ထံ စာပြန်ပါ</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">အကောင့်အားလုံးတွင် %s စောင် တွေ့ရှိသည်</item>

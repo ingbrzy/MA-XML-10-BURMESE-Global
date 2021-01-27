@@ -91,6 +91,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">အဝင်ခေါ်ဆိုမှုများကို စောင့်ကြည့်ရန်</string>
     <string name="HIPS_Perm_read_notification_sms">SMS ဝန်ဆောင်မှု</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">ဝန်ဆောင်မှု SMS အားဖတ်ပါ</string>
+    <string name="HIPS_Perm_recognition">လှုပ်ရှားမှုအချက်အလက်ကို ဝင်သုံးရန်</string>
+    <string name="HIPS_Perm_recognition_Desc">ဤအက်ပ်အား သင်၏ လှုပ်ရှားမှုအချက်အလက်ကို ဝင်သုံးခွင့် ပြုလိုက်ပါ</string>
     <string name="HIPS_Perm_service_foreground">အရှေ့ပိုင်းဝန်ဆောင်မှုများ</string>
     <string name="HIPS_Perm_service_foreground_Desc">အရှေ့ပိုင်းဝန်ဆောင်မှုများ</string>
     <string name="HIPS_Perm_show_when_locked">သော့ခတ်မျက်နှာပြင်တွင်ပြပါ</string>

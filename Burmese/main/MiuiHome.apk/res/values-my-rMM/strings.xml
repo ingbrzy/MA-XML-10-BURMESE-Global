@@ -42,6 +42,8 @@
     <string name="all_app_category_tools">ကိရိယာများ</string>
     <string name="all_app_category_work">အလုပ်</string>
     <string name="all_apps">အက်ပ်အားလုံး</string>
+    <string name="all_apps_install_contentcenter_msg">အကြောင်းအရာစင်တာကို ပြန်ဖြုတ်ထားပုံရသည်။ ထပ်မံထည့်သွင်းလိုသလား။</string>
+    <string name="all_apps_install_contentcenter_title">အကြောင်းအရာစင်တာထည့်သွင်းရန်</string>
     <string name="all_apps_no_search_results">ရလဒ်များ ရှာမတွေ့ပါ</string>
     <string name="all_apps_search_app">အက်ပ်များ ရှာဖွေရန်</string>
     <string name="all_apps_search_market_message">အွန်လိုင်းတွင် ရှာပါ</string>
@@ -153,6 +155,7 @@
     <string name="change_wallpaper">ပြောင်းမည်</string>
     <string name="choose_wallpaper">နောက်ခံပုံ ရွေးပါ</string>
     <string name="chooser_wallpaper">နောက်ခံပုံ အသစ်တစ်ခု ရွေးပါ</string>
+    <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="cloud_app_restore_title">ဆိုင်းငံ့ထားသည်</string>
     <string name="common_home_search_delete">ရှာဖွေရေးဘားကို ဖယ်ရှားခြင်း</string>
     <string name="common_home_search_delete_cancle">မလုပ်တော့ရန်</string>
@@ -292,14 +295,18 @@
     <string name="home_screen">ပင်မ မျက်နှာပြင်</string>
     <string name="home_slide_up_action">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ဆွဲတင်ပါ</string>
     <string name="home_switch_personal_assistant">-၁ မျက်နှာပြင်</string>
+    <string name="icon_customize_summary">စတိုင်ရွေးပြီး အရွယ်ညှိပါ</string>
+    <string name="icon_form">သင်္ကေတများ</string>
     <string name="icon_reorganize_channel">အိုင်ကွန်များကို စီစဉ်မည်</string>
     <string name="icon_size">အိုင်ကွန်အရွယ်အစား</string>
+    <string name="icon_style">စတိုင်</string>
     <string name="image_too_small_message">မူရင်းရုပ်ပုံမှာ သေးလွန်းသည်။</string>
     <string name="install">ထည့်သွင်းမည်</string>
     <string name="invalid_contact_shortcut">အဆက်အသွယ် မမှန်ပါ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေသည်…</string>
     <string name="is_system_wallpaper_message">စက်စနစ် အရင်းမြစ်များအား ဖျက်၍မရပါ</string>
     <string name="key_shortcut_settings_title">အမြန်ခလုတ်များ</string>
+    <string name="launcher_icon_management">ပင်မမျက်နှာပြင် ရှော့ကတ်ကို စီမံခန့်ခွဲရန်</string>
     <string name="launcher_not_exist">မှားယွင်းမှု တစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ပင်မမျက်နှာပြင်သို့ ပြန်သွား၍ ထပ်ကြိုးစားကြည့်ပါ။</string>
     <string name="launcher_pull_down_title">ပင်မမျက်နှာပြင်တွင် အောက်သို့ ဆွဲချပါ</string>
     <string name="launcher_search_bar_title">ပင်မမျက်နှာပြင်မှ ရှာဖွေရေး ဘားတန်း</string>
@@ -478,6 +485,8 @@
     <string name="recommend_loading">လုပ်ဆောင်နေသည်</string>
     <string name="recommend_refresh">ရီဖရှက်ရ်လုပ်ပါ</string>
     <string name="recommend_xout">မပြပါနှင့်</string>
+    <string name="remove_dialog_message">ရွေးချယ်ထားသော အက်ပ်များတွင် မရှိမဖြစ်လိုအပ်သော စနစ်ပိုင်းဆိုင်ရာ အထူးပြုလုပ်ချက်များ ပါဝင်သည်။ ၎င်းတို့၏ ပင်မမျက်နှာပြင်ရှော့ကဒ်များကိုသာ သင်ဖယ်ရှားနိုင်ပါသည်။</string>
+    <string name="remove_dialog_title_format">ပင်မမျက်နှာပြင်မှ %s ကို ဖယ်ရှားမလား။</string>
     <string name="remove_invalidate_gadget_tips">သင်သုံးသော ဝိဂျက်တစ်ခု မရရှိနိုင်တော့ပါ။ နောက်တစ်ခု ထည့်နိုင်ပါသည်။</string>
     <string name="reset_cate_tip_content">ဆက်လုပ်ပါက အက်ပ်များအား မူလအုပ်စုအတိုင်း ပြန်လည်ထားရှိပေးပါမည်။ မည်သို့ပင်ဆိုစေ ဆက်လုပ်မလား။</string>
     <string name="reset_cate_tip_title">မူလအုပ်စုအတိုင်း ပြန်လည်ထားရှိမည်</string>
@@ -486,6 +495,7 @@
     <string name="reset_fail">ပြန်လည်ရယူ၍ မရပါ</string>
     <string name="reset_scene_prompt">မျက်နှာပြင်အား မူလပုံစံ အပြင်အဆင်သို့ ပြန်သတ်မှတ်ပါမည်။</string>
     <string name="reset_title">ပြန်လည်ရယူမည်</string>
+    <string name="restore_icon_successful">အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="screen_cells_config_title">ပင်မမျက်နှာပြင် အပြင်အဆင်</string>
     <string name="screen_locked_toast">ပင်မမျက်နှာပြင် အပြင်အဆင်အား လော့ခ်ချထားသည်။</string>
     <string name="screen_number">မျက်နှာပြင် %d</string>

@@ -27,6 +27,7 @@
     <string name="dual_app_title">နှစ်ခုတွဲအက်ပ်</string>
     <string name="dual_app_words">အကောင့်တိုင်းအတွက် အက်ပ်ကိုယ်စီ</string>
     <string name="early_morning">နံနက်</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -134,8 +135,14 @@
     <string name="gb_advance_settings_vibration_4d_summary">ဂိမ်းအတွင်း ပစ်ခတ်နေစဉ် တုန်ခါပါ</string>
     <string name="gb_advance_settings_vibration_4d_summary2">ဂိမ်းအတွင်း သတ်ဖြတ်နေစဉ် တုန်ခါပါ</string>
     <string name="gb_alipays_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
+    <string name="gb_dialog_game_speed_close">အလင်းအလျင်မုဒ်ကို ပိတ်ထားသည်…</string>
+    <string name="gb_dialog_game_speed_exist">အလင်းအလျင်မုဒ်တွင် ဂိမ်းတစ်ခုသာ အသုံးပြုနိုင်သည်။ \"%s\" ကို ယခုပင် အစားထိုးမလား။</string>
     <string name="gb_game_control">GPU ဆက်တင်များ</string>
     <string name="gb_game_settings">ထပ်ဆောင်းဆက်တင်များ</string>
+    <string name="gb_game_speed_closed">အလင်းအလျင်မုဒ်ကို ပိတ်ထားသည်</string>
+    <string name="gb_game_speed_closed_fail">အလင်းအလျင်မုဒ်ကို ဖွင့်မရပါ</string>
+    <string name="gb_game_speed_open">အလင်းအလျင်မုဒ်ကို ဖွင့်ထားသည်</string>
+    <string name="gb_game_speed_open_fail">အလင်းအလျင်မုဒ်ကို ဖွင့်မရပါ</string>
     <string name="gb_gpu_control_anisotropic_filtering">ဦးတည်ရာလိုက်၍ အမျိုးမျိုးပြောင်းမှုကို တားဆီခြင်း</string>
     <string name="gb_gpu_control_anti_aliasing">အစက်အပြောက်တားဆီးခြင်း</string>
     <string name="gb_gpu_control_fps">ဖရိန်နှုန်း</string>
@@ -164,6 +171,7 @@
     <string name="gb_pannel_control_mode_power_saving">ပါဝါ ချွေတာမည်</string>
     <string name="gb_weixinpay_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
     <string name="gdpr_msg">&lt;Data>လုံခြုံရေးဆိုင်ရာ အခြေခံအထူးအစီအစဉ်များကို အသုံးပြုနိုင်ရန်အတွက် လုံခြုံရေးဆိုင်ရာ အထူးအစီအစဉ်များ (ဥပမာ - မိုဘိုင်းဒေတာအသုံးပြုမှု ကိန်းဂဏန်းများ၊ အန္တရာယ်ရှိသောဆော့ဖ်ဝဲ၊ သင့်စက်ဖြင့်သက်ဆိုင်သော အခြေခံအချက်အလက်များ) နှင့် ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တွင် အသေးစိတ် ဖော်ပြထားသည့် အခြားသော အချက်အလက်အမျိုးအစားများကို သင်အသုံးပြုပုံများနှင့်သက်ဆိုင်သည့် အချက်အလက်များအပါအဝင် သင်၏ ကိုယ်ရေးအချက်အလက်များအား Xiaomi က စုဆောင်း၊ စီမံ၊ အသုံးပြုသွားမည်ဆိုသည်ကို သင်သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">ဟုန်ပေါင်း</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
     <string name="midnight">ည</string>
@@ -313,6 +321,9 @@
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
+    <string name="tool_box_active_loading">ခဏစောင့်ပါ…</string>
+    <string name="tool_box_active_no_networ">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။</string>
+    <string name="tool_box_active_reload">ပြန်လန်းဆန်း</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>

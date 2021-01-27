@@ -63,6 +63,12 @@
     <plurals name="free_downloads_num_hint">
         <item quantity="other">အခမဲ့ ဒေါင်းလုဒ် %d ခု ကျန်သေးသည်</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">ဖော်လိုလုပ်သူ %d ဦး</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">%d ဦးကို ဖော်လိုလုပ်ထားသည်</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">အိုင်တမ် %d ခုရွေးထားသော</item>
     </plurals>

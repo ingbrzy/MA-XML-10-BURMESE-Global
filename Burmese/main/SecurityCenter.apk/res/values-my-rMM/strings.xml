@@ -577,7 +577,7 @@
     <string name="banner_optimizemanage_summary">မန်မိုရီနေရာလွတ်ပြုလုပ်ရန်</string>
     <string name="banner_red_money_assist_button">ဖွင့်ရန်</string>
     <string name="banner_red_money_assist_summary">စာအိတ်အနီများကို အမြန်ဖွင့်ရန်</string>
-    <string name="battery_and_property">ဓာတ်ခဲ &amp; စွမ်းဆောင်ရည်</string>
+    <string name="battery_and_property">ဘက်ထရီ</string>
     <string name="battery_can_use_time">%s ကျန်ပါသည်</string>
     <string name="battery_capacity_title">ဘက်ထရီစွမ်းဆောင်ရည်</string>
     <string name="battery_charge_estimating">တွက်ချက်နေသည်</string>
@@ -739,6 +739,7 @@
     <string name="card_main_private_space_summary">ဒုတိယနေရာအား အသုံးပြုခြင်းသည် စက်နှစ်လုံးရှိနေသည်နှင့် တူပါသည်</string>
     <string name="card_main_private_space_title">ဒုတိယနေရာ</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ဖန်တီး</string>
     <string name="card_main_xspace_summary">မည်သည့်အက်ပ်အတွက် မဆို အကောင့်နှစ်ခုတွဲ ဖန်တီးပါ</string>
     <string name="card_main_xspace_title">နှစ်ခုတွဲအက်ပ်</string>
@@ -750,6 +751,15 @@
     <string name="choose">ရွေးချယ်ပါ</string>
     <string name="choose_gs_show_way">ပင်မစာမျက်နှာ အနေအထားအား ရွေးပါ</string>
     <string name="clean_immediately">ရှင်းလင်း</string>
+    <string name="clean_master_icon_recall_button_text">ထည့်ရန်</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">မလိုအပ်ပါ</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">ပေါင်းထည့်မည်</string>
+    <string name="clean_master_icon_recall_dialog_summary">အမှိုက်များကို အချိန်မရွေးရှင်းနိုင်ရန် ပင်မစာမျက်နှာတွင် ရှော့ကတ်ထည့်ထားပါ</string>
+    <string name="clean_master_icon_recall_dialog_title">အမှိုက်ရှင်းရာ၌ မြန်ဆန်သည်</string>
+    <string name="clean_master_icon_recall_hint">ပင်မမျက်နှာပြင် ရှော့ကဒ် ပေါင်းထည့်မည်</string>
+    <string name="clean_master_icon_recall_summary">အမှိုက်ပုံးကို အချိန်မရွေးရှင်းနိုင်ရန် ပင်မစာမျက်နှာတွင် ရှော့ကတ်ထည့်ထားပါ</string>
+    <string name="clean_master_icon_recall_title">အမှိုက်ပုံးရှင်းရာ၌ မြန်ဆန်သည်</string>
+    <string name="clean_master_icon_recall_toast_text">သန့်ရှင်းစနစ်အတွက် ပင်မစာမျက်နှာ ရှော့ကတ်ကို အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="cleaned">ရှင်းလင်းခဲ့သော</string>
     <string name="clear_garbage">နေရာလွတ်ရရန် အက်ပ်ယာယီမှတ်ဉာဏ်များအား ရှင်းလင်းပစ်ပါ</string>
     <string name="clear_immediately">ယခုရှင်းလင်း</string>
@@ -940,6 +950,7 @@
     <string name="doze_optimization_title">အကောင်းဆုံး ထိနှိပ် ထိန်းချုပ်မှု</string>
     <string name="dual_setting_simcard1">ဆင်းမ်1</string>
     <string name="dual_setting_simcard2">ဆင်းမ်2</string>
+    <string name="ellipsis">…</string>
     <string name="email">အီးမေးလ်</string>
     <string name="empty_app">အက်ပ်များ မရှိပါ</string>
     <string name="empty_title_auto_start_list">မည်သည့်အက်ပ်စ်မှအလိုအလျောက်မစရ။</string>
@@ -1097,6 +1108,11 @@
     <string name="free_time_traffic_settings">အသုံးနည်းသောအချိန်အတွက် ဒေတာကန့်သတ်ချက်</string>
     <string name="free_time_traffic_title">အသုံးနည်းချိန် ဒေတာကန့်သတ်ချက်ကို ထည့်သွင်းပါ</string>
     <string name="free_traffic_settings">အသုံးနည်းချိန် ဒေတာကန့်သတ်ချက် ဆက်တင်များ</string>
+    <string name="function_auto_reject_detail">"ဤအင်္ဂါရပ်အကြောင်း - 
+1. သင်ဂိမ်းကစားနေစဉ်အချိန်အတွင်း မိုဘိုင်းဒေတာဝန်ဆောင်မှု မပါဘဲ ဤ SIM ကဒ်သို့ အဝင်ခေါ်ဆိုမှုများအားလုံးအား အလိုအလျောက် ငြင်းပယ်သွားမည်။
+2. လွတ်သွားသော ခေါ်ဆိုမှုများနှင့်ပတ်သက်သော အသိပေးချက်များကို သင်တွေ့မည်ရမည်ဖြစ်ပြီး တစ်ဘက်လူကလည်း လက်ရှိနေအချိန်တွင် သင်အလုပ်များနေကြောင်း ပြောဆိုသည့် အော်ဒီယို မက်ဆေ့ချ်သံကို ကြားရပါမည်။
+3. ဤအင်္ဂါရပ်အား တရုတ်နိုင်ငံရှိ ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူများဖြင့်သာ ရရှိနိုင်ပါသည်။"</string>
+    <string name="function_auto_reject_title">ဒေတာဝန်ဆောင်မှု မပါဘဲ SIM ကဒ်များသို့ VoLTE ခေါ်ဆိုမှုများကို ငြင်းပယ်ရန်</string>
     <string name="function_close">ပိတ်မည်။</string>
     <string name="function_gwsd_detail">"ဤအင်္ဂါရပ်အကြောင်း - 
  ၁။ သင်သည် မိုဘိုင်းဒေတာကို ဒေတာ SIM ကတ် သို့မဟုတ် သာမန် SIM ကတ်တစ်ခုတွင် VoLTE ကွန်ရက်နှင့် ချိတ်သုံးနေပါက ဖုန်းဝင်လာလျှင် ဖုန်းမကိုင်မချင်း အင်တာနက်ပြတ်မသွားပါ။ 
@@ -1210,6 +1226,11 @@
     <string name="gb_description_image_button_answer">ဖြေဆိုမည်</string>
     <string name="gb_description_image_button_reject">ငြင်းဆိုမည်</string>
     <string name="gb_description_image_button_video_answer">ဗီဒီယိုခေါ်ဆိုမှု</string>
+    <string name="gb_dialog_game_uninstall_deleting">ဖြုတ်ချနေသည်…</string>
+    <string name="gb_dialog_game_uninstall_loading">ဂိမ်းများကို ဖွင့်နေသည်…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">အက်ပ်ဒေတာအားလုံးကို ဖျက်ပစ်ပါမည်။</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">အက်ပ်ဒေတာအားလုံးနှင့် ဆက်စပ်နေသော နှစ်ခုတွဲအက်ပ်များကို ဖျက်ပစ်ပါမည်။</string>
+    <string name="gb_dialog_game_uninstall_tips_title">%s ခု ဖြုတ်ချမည်</string>
     <string name="gb_dialog_record_way_ai">AI ရိုက်ကူးရေးများကို ဂိမ်းပုံးတွင် သိမ်းပြီး ၇ ရက် သိမ်းထားပါသည်။</string>
     <string name="gb_dialog_record_way_finish">ပြီးပါပြီ</string>
     <string name="gb_dialog_record_way_manual">စက္ကန့် ၃၀ အထိရှည်သော ဗီဒီယိုများ ကိုယ်တိုင်ရိုက်ပါ</string>
@@ -1241,6 +1262,10 @@
     <string name="gb_game_video_type_manual">ကိုယ်တိုင်လုပ်ရန်</string>
     <string name="gb_get_gift_right_now">ယခု ဝင်ရောက်ပါ</string>
     <string name="gb_global_settings">အထွေထွေ ဆက်တင်</string>
+    <string name="gb_gpu_driver_btn_update">အပ်ဒိတ်များအတွက် စစ်ကြည့်ပါ</string>
+    <string name="gb_gpu_driver_update">GPU Driver Updater</string>
+    <string name="gb_gpu_driver_update_app">အပ်ဒိတ်လုပ်မည်</string>
+    <string name="gb_gpu_driver_update_app_tips">လက်ရှိဗားရှင်းသည် အသစ်ဆုံးဖြစ်သည်</string>
     <string name="gb_have_signed">ယနေ့ ဝင်ရောက်ပြီးပါပြီ</string>
     <string name="gb_manual_record_dialog_del_video_message">ရွေးထားသော ဗီဒီယိုများကို အပြီးဖျက်လိုသလား။</string>
     <string name="gb_msg_completely_shielded">ကွယ်ဝှက်ထားသော မက်ဆေ့ချ်များ</string>
@@ -1262,6 +1287,9 @@
     <string name="gb_signed_gift_loading_summary">ခဏစောင့်ပါ…</string>
     <string name="gb_signed_title">ဤလ ဝင်ရောက်ပြီးပါပြီ</string>
     <string name="gb_sound_audition">စမ်းသုံးရန်</string>
+    <string name="gb_storage_game_uninstall">ဂိမ်းများကို ဖြုတ်ချမည်</string>
+    <string name="gb_storage_summary">ပင်မမျက်နှာပြင်ပေါ်ရှိ ဂိမ်းသေတ္တာသို့ ထည့်သွင်းထားသော ဂိမ်းများကို မပြပါနှင့်</string>
+    <string name="gb_storage_title">ထည့်သွင်းထားသောဂိမ်းများကို ပင်မမျက်နှာပြင်မှ ဖယ်ရှားမည်</string>
     <string name="gb_voice_change_settinged">အသံပြောင်းစနစ် ဖွင့်ထားသည်</string>
     <string name="gb_voice_changer_cartoon">ကာတွန်းသံ</string>
     <string name="gb_voice_changer_dlg_button_agree">ခွင့်ပြုမည်</string>
@@ -1626,9 +1654,11 @@
     <string name="menu_text_antispam">ပိတ်ဆို့စာရင်း</string>
     <string name="menu_text_antivirus">လုံခြုရေးစကန်</string>
     <string name="menu_text_garbage_cleanup">သန့်ရှင်းစက်</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">ခွင့်ပြုချက်များ</string>
     <string name="menu_text_networkassistants">ဒေတာ သုံးစွဲမှု</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1636,7 +1666,8 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">အရှိန်မြှင့်တင်မည်။</string>
     <string name="menu_text_optimize_manage_1">မြန်နှုန်းမြှင့်ရန်</string>
-    <string name="menu_text_power_manager">ဓာတ်ခဲ &amp; လုပ်ဆောင်ရည်</string>
+    <string name="menu_text_power_manager">ဘက်ထရီ</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ခြွင်းချက်များမှ ဖယ်ရှားပါ</string>
     <string name="menu_white">ခြွင်းချက်များသို့ ပေါင်းထည့်မည်</string>
     <string name="mi_service_app_detail">ဒေတာသုံးစွဲမှု အသေးစိတ်များ</string>
@@ -1750,6 +1781,9 @@
     <string name="notification_channel_battery">ဓာတ်ခဲ</string>
     <string name="notification_exit_power_save_mode">ဘက်ထရီချွေတာသူအား ပိတ်ခဲ့သည်</string>
     <string name="notification_exit_power_save_mode_subtitle">ဘက်ထရီ %sအားသွင်းခဲ့သည်</string>
+    <string name="notification_garbage_clean_botton_text">ရှင်းပစ်မည်</string>
+    <string name="notification_garbage_clean_hint">သိုလှောင်ခန်းနေရာရှင်းပါ</string>
+    <string name="notification_garbage_clean_size">နေရာလွတ် %s ရှင်းရန်</string>
     <string name="notification_garbage_cleanup_summary">အမှိုက် (%s)ကို ရှင်းလင်းပြီး စက် အရှိန်တင်ပါ</string>
     <string name="notification_garbage_cleanup_title">အမှိုက်ဖိုင်များကို ရှင်းပါ</string>
     <string name="notification_low_battery_action_btn">ဖွင့်ပါ</string>
@@ -1761,6 +1795,8 @@
     <string name="notification_masked_item">အသိပေးချက်ပါအကြောင်းအရာကို မည်သို့ဖုံးမည်နည်း။</string>
     <string name="notification_masked_subtitle">ရွေးထားသောအက်(ပ်)များအတွက် အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားရန် အက်(ပ်)သော့ ကို သုံးပါ</string>
     <string name="notification_summary_cmcc_app_check">အသေးစိတ်ကို ကြည့်ရန်ထိပါ။</string>
+    <string name="notification_whatsapp_clean_button_text">ရှင်းပစ်မည်</string>
+    <string name="notification_whatsapp_clean_size">WhatsApp ကက်(ချ်) %s ဖြစ်သွားပါပြီ</string>
     <string name="notify_channel_mipush">အချိန်နှင့် တပြေးညီ လုံခြုရေး မက်ဆေ့ချ်</string>
     <string name="notify_channel_name_behavior">အမူအကျင့် မှတ်တမ်း</string>
     <string name="notify_channel_name_security">စနစ်လုံခြုံရေး</string>
@@ -1925,7 +1961,7 @@
     <string name="pc_search_keywords_battery_use">ဓာတ်အားအသုံးပြုမှု</string>
     <string name="pc_search_keywords_capacity">ဓာတ်ခဲစွမ်းရည်</string>
     <string name="pc_search_keywords_property">စွမ်းဆောင်ရည်</string>
-    <string name="pc_settings_title">ဓာတ်ခဲ &amp; လုပ်ဆောင်ရည်ဆက်တင်များ</string>
+    <string name="pc_settings_title">ဘက်ထရီ</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$d မိနစ် ကျန်သေးသည်</string>
     <string name="pc_statistics_battery_use_hour_minute">နောက်ဆုံးအားသွင်းပြီးစဉ်ကတည်းက %1$dh %2$dm</string>
     <string name="pc_statistics_battery_use_summary">နောက်ဆုံးအားသွင်းပြီးစဉ်ကတည်းက %s</string>
@@ -2024,6 +2060,11 @@
     <string name="power_center_dialog_msg_top">ဘက်ထရီချွေတာသူအား ဖွင့်ထားပါက MIUI မှ အောက်ပါတို့ကို လုပ်ဆောင်ပါမည်-</string>
     <string name="power_center_hints_scan_danger_result">ယခု ဘက်ထရီ ပြဿနာများအား ဖြေရှင်းနိုင်ပါပြီ</string>
     <string name="power_center_list_item_auto_brightness">မျက်နှာပြင်တောက်ပမှုအား အလိုအလျောက် ချိန်ညှိပါ</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">နာရီ</string>
     <string name="power_center_list_item_close_bluetooth">ဘလူးတုသ်အား ပိတ်ပါ</string>
     <string name="power_center_list_item_deep_save_title">အဆင့်မြင့် ဆက်တင်များ</string>
@@ -2058,7 +2099,7 @@
     <string name="power_center_super_save_title_text">အစွန်းရောက် ဘက်ထရီချွေတာသူ</string>
     <string name="power_center_time_to_boot">ပါဝါဖွင့်ချိန်</string>
     <string name="power_center_time_to_shutdown">ပါဝါပိတ်ချိန်</string>
-    <string name="power_center_title">ဓာတ်ခဲ &amp; လုပ်ဆောင်ရည်</string>
+    <string name="power_center_title">ဘက်ထရီ</string>
     <string name="power_consume_hardware_total_format">ဟာ့ဒ်ဝဲလ်− %s</string>
     <string name="power_consume_other">အခြား</string>
     <string name="power_consume_rank_hardware">ဟာ့ဒ်ဝဲလ်</string>
@@ -2152,7 +2193,7 @@
     <string name="power_settings_number">ရာခိုင်နှုန်း</string>
     <string name="power_settings_saver_title">ပါဝါချွေတာသူ</string>
     <string name="power_settings_shape">ဂရပ်ဖစ်နှင့်ဆိုင်သော</string>
-    <string name="power_settings_title">သတ်မှတ်</string>
+    <string name="power_settings_title">ဆက်တင်</string>
     <string name="power_settings_top">ထိပ်ပိုင်း ဘား</string>
     <string name="power_superpower_title_systemui_highpower">လက်ကျန်အချိန်</string>
     <string name="power_superpower_title_systemui_lowpower">အားသွင်းကြိုးနှင့် ချိတ်ပါ</string>
@@ -2200,6 +2241,7 @@
     <string name="pref_normal_traffic_limit">သတ်မှတ်ထားသော ဒေတာအစီအစဉ် ကုန်သွားပါက</string>
     <string name="pref_open_adjust_traffic">သင့်ဖုန်းကာရီယာမှ ​ဒေတာသုံးစွဲမှုအား နေ့တိုင်း အသစ်မွမ်းမံပါ။</string>
     <string name="pref_operator_not_set">ကာရီယာ မသတ်မှတ်ထားပါ</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">ဒေတာအစီစဉ်ထက် ကျော်သွားပါက</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_pkg_begin_date">အသုံးပြမှုပြန်သတ်မှတ်ခြင်းရက်စွဲ</string>
@@ -2362,6 +2404,7 @@
     <string name="privacy_using_record">အသံဖမ်းနေသည်</string>
     <string name="privacyapp_number_masked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားသည်</string>
     <string name="privacyapp_number_unmasked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားနိုင်သည်</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_vpnsdkmanager_label">ဂိမ်းအရှိန်မြှင့်ကိရိယာ</string>
     <string name="promotion">ကြော်ငြာ</string>
@@ -3195,6 +3238,9 @@ Rolled over extra data"</string>
     <string name="vb_advanced_settings_after_open">ယခု</string>
     <string name="vb_advanced_settings_before_open">ယခင်</string>
     <string name="vb_advanced_settings_pic_stronger_desc">လှုပ်ရှားမှုကို အဆင့်မြှင့်ခြင်းဖြင့် ရွေ့လျားနေသော အရာများကို ပိုကြည်အောင်ပြုလုပ်ပါ။ ဤအင်္ဂါရပ်က ဓာတ်ခဲအကုန်မြန်သည်။</string>
+    <string name="vb_fps_settings">အော်တိုပြန်လန်းဆန်းနှုန်း</string>
+    <string name="vb_fps_settings_tips">ဤအင်္ဂါရပ်သည် ဘက်ထရီချွေတာပေးပြီး ပြန်ပြမှုကို အဆင်ပြေချောမွေ့စေသည့် ဗီဒီယိုဖရိန်နှုန်းအဖြစ်သို့ မျက်နှာပြင်ပြန်လန်းဆန်းနှုန်းကို ချိန်ညှိပေးပါသည်။ မျောနေသော မှတ်ချက်များကို ဖွင့်ထားခြင်းသည် အလိုအလျောက် ပြန်လန်းဆန်းနှုန်းကို ပိတ်ပစ်ပါမည်။</string>
+    <string name="vb_quick_func_auto_bgm">နောက်ခံဂီတကို မှတ်မိသည်</string>
     <string name="vb_quick_func_hangup_listening">မျက်နှာပြင်ပိတ်ပြီး ဗီဒီယိုအသံဖွင့်ရန်</string>
     <string name="vb_quick_func_screen_capture">မျက်နှာပြင်ဓာတ်ပုံရိုက်ရန်</string>
     <string name="vb_quick_func_screen_record">ရိုက်ကူးရန်</string>
@@ -3206,9 +3252,19 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_display_style">စတိုင်</string>
     <string name="vb_video_effects_setting_black_white">အဖြူအမည်း</string>
     <string name="vb_video_effects_setting_cinema">ရုပ်ရှင်</string>
+    <string name="vb_video_effects_setting_girl">စိုပြည်နီမြန်း</string>
+    <string name="vb_video_effects_setting_gorgeous">လှုပ်ရှားတက်ကြွ</string>
+    <string name="vb_video_effects_setting_green_orange">လိမ္မော်ရောင်</string>
+    <string name="vb_video_effects_setting_grim">အေးမြသော</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+    <string name="vb_video_effects_setting_knight">သတ္တု</string>
+    <string name="vb_video_effects_setting_mecha">စက်ရုပ်</string>
+    <string name="vb_video_effects_setting_nostalgia">လွမ်းဆွတ်</string>
     <string name="vb_video_effects_setting_old_movie">ရှေးဖက်ရှင်</string>
     <string name="vb_video_effects_setting_outside">ပြင်ပ</string>
     <string name="vb_video_effects_setting_raw">မူရင်း</string>
+    <string name="vb_video_effects_setting_solar">မှေးမှိန်</string>
+    <string name="vb_video_effects_setting_warmth">နွေးထွေးသော</string>
     <string name="vb_video_effects_settings_liquid">ကြည်လင်မှု</string>
     <string name="vb_video_effects_settings_stereo">အသံအတိုးအကျယ်</string>
     <string name="vb_video_effects_srs_premium_sound">အသံ</string>

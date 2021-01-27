@@ -20,7 +20,7 @@
     <string name="account_has_been_set">ပြောင်းလဲ</string>
     <string name="account_invalid_user_avatar">ဤဓာတ်ပုံမှာ တရားမဝင်ပါ။ အခြားတစ်ခုဖြင့် ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="account_limit_update_birthday">မွေးနေ့အား ယခုအသစ်မွမ်းမံခြင်းမပြုနိုင်ပါ</string>
-    <string name="account_mibi_center">Mi ခရက်ဒစ်များ</string>
+    <string name="account_mibi_center">Mi ဒင်္ဂါးပြား</string>
     <string name="account_mibi_charge">ငွေဖြည့်မည်</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">တစ်ခုမှမဟုတ်</string>
@@ -56,7 +56,7 @@
     <string name="activate_email_notice">သင့်အကောင့်အား ၂၄ နာရီအတွင်း အသက်သွင်းပေးပါ</string>
     <string name="activity_not_found_notice">အက်ပ်ကို ရှာမတွေ့ပါ</string>
     <string name="add_account">အကောင့်ကို ချိတ်ဆက်ပါ</string>
-    <string name="agreement_and_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ နှင့် အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="agreement_and_privacy">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="app_name">Mi အကောင့်</string>
     <string name="auth_fail_warning">ဆက်ရှင်သက်တမ်းကုန်သွားပြီ၊ ဆိုင်းအင်ထပ်ဝင်ရောက်ပါ</string>
     <string name="authorize_title">လုပ်ပိုင်ခွင့်ပေးခြင်း</string>
@@ -157,6 +157,7 @@
     <string name="health_state_not_activated">အသက်မသွင်းရသေးပါ</string>
     <string name="health_state_not_installed">မထည့်သွင်းထားပါ</string>
     <string name="health_state_not_support">ဤဗားရှင်းအတွက် မထောက်ပံ့ထားပါ</string>
+    <string name="help_center">အကူအညီ</string>
     <string name="i_agree">အိုကေ</string>
     <string name="i_agree_continue">သဘောတူပါသည်</string>
     <string name="identity">စစ်မှန်ကြောင်းအတည်ပြုခြင်း</string>
@@ -239,7 +240,7 @@
     <string name="passport_checking_input">ရေးသွင်းမှု… ကို စစ်ဆေးနေဆဲပါ</string>
     <string name="passport_click_email_to_valid">သင့်အကောင့်ကို အသက်သွင်းရန်အတွက် သင့်အဝင်စာပုံးသို့ ကျွန်ုပ်တို့ပို့လိုက်သည့် လင့်ခ်အတိုင်း ဆောင်ရွက်ပါ။</string>
     <string name="passport_completed">ပြီးပါပြီ</string>
-    <string name="passport_confirm_login">ဆက်လက်လုပ်ဆောင်မည်</string>
+    <string name="passport_confirm_login">အကောင့်ဝင်ရန်</string>
     <string name="passport_confirm_recycle_account">ဟုတ်ပါသည်</string>
     <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>နံပါတ်%s &lt;/font> အား ဖုန်းလိုင်းဝန်ဆောင်မှုဌာနမှ ပြန်သိမ်းလိုက်ပုံရသည်၊ 'ယင်းနှင့် ချိတ်တွဲထားသော Mi အကောင့် တစ်ခုရှိသည်။ သင့်အကောင့်ဟုတ်ပါသလား?"</string>
     <string name="passport_continue">ဆက်လက်လုပ်ဆောင်မည်</string>
@@ -277,7 +278,7 @@
     <string name="passport_error_verify_activator_phone_title">ဖုန်းနံပါတ်အား အတည်ပြု၍မရပါ</string>
     <string name="passport_failed_to_send_activate_email">အသက်သွင်းမှုအီးမေးလ်ပို့မရပါ</string>
     <string name="passport_find_password_on_web_msg">သင့်စကားဝှက်အား ပြန်သတ်မှတ်ရန် account.mi.com သို့ ဝင်လည်ပါ။</string>
-    <string name="passport_first_login_prompt">ပထမအကြိမ် ဆိုင်းအင်ဝင်သောအခါ Mi အကောင့်အား အလိုအလျောက် ဖန်တီးမည်။</string>
+    <string name="passport_first_login_prompt">ဖုန်းနံပါတ်တစ်လုံးအား ပထမဆုံးအကြိမ် သင်အသုံးပြုသောအခါ Mi အကောင့်ကို အလိုအလျောက် ဖန်တီးပေးပါမည်။</string>
     <string name="passport_forget_password"><u>စကားဝှက် မေ့နေသည်</u></string>
     <string name="passport_forget_password_no_underline">စကားဝှက် မေ့နေသည်</string>
     <string name="passport_get_back_pwd">အကောင့်စကားဝှက်ကို ပြန်လည်ရယူပါ</string>
@@ -392,8 +393,8 @@
     <string name="passport_setting">သတ်မှတ်နေ…</string>
     <string name="passport_skip_login">ကျော်</string>
     <string name="passport_skip_register">မှတ်ပုံတင်ခြင်းကို ကိုကျော်လိုက်မည်</string>
-    <string name="passport_skip_setup_account_msg">ကြိုတင်ပြင်ဆင်ချက်များမှာ Mi အကောင့်ကို မကြာမီ သတ်မှတ်တည်ဆောက်နိုင်သည်။</string>
-    <string name="passport_skip_setup_account_title">Xiaomi ကလောက် မသုံးဘူးလား။</string>
+    <string name="passport_skip_setup_account_msg">Mi အကောင့်သို့ ဝင်ခြင်းဖြင့် Xiaomi ကလောက် ဝန်ဆောင်မှုများကို သုံးခွင့်ရပါသည်။ ဤအဆင့်ကို မဖြစ်မနေ ကျော်လိုပါသလား။</string>
+    <string name="passport_skip_setup_account_title">Mi အကောင့်နှင့် Xiaomi ကလောက်</string>
     <string name="passport_sms_send_success">ပို့ပြီး</string>
     <string name="passport_sms_verification_code_login">SMS ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="passport_sms_verification_code_login_or_register">SMS ဖြင့် ဆိုင်းအင်ဝင်မည် သို့မဟုတ် အကောင့်တစ်ခု ဖန်တီးမည်</string>
@@ -515,7 +516,7 @@
     <string name="update_email_address_dialog_title">အသစ်မွမ်းမံ အီးမေးလ်</string>
     <string name="update_phone_notice">လုံခြုံရေးဆက်တင်များကို ပြောင်းမည်</string>
     <string name="update_phone_number_notice_message">သင့်ဖုန်းနံပါတ်အား အသစ်မွမ်းမံခြင်းမပြုမီ မှန်ကန်ကြောင်းစစ်ဆေးခံရန် လိုအပ်ပါသည်</string>
-    <string name="used_cloud_storage_info">အသုံးပြုထားသော %s</string>
+    <string name="used_cloud_storage_info">%s သုံးထားသည်</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းပါ</string>
     <string name="user_avatar_uploading">ခဏစောင့်ပါ…</string>
     <string name="vip_account_settings">VIP ဆက်တင်များ</string>

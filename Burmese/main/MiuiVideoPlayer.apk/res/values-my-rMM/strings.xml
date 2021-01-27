@@ -67,6 +67,7 @@
     <string name="auth_fail_warning">ခွင့်ပြုချိန် ပြည့်သွားပါပြီ။ အကောင့် ပြန်ဝင်ပေးပါ။</string>
     <string name="auto_play_next_off">အလိုအလျောက်ဖွင့်ခြင်း ပိတ်ထားသည်</string>
     <string name="auto_play_next_on">အလိုအလျောက်ဖွင့်ခြင်း ပွင့်နေသည်</string>
+    <string name="back_to_mainpage">ရှာဖွေတွေ့ရှိသည်</string>
     <string name="before_yestoday">လွန်ခဲ့သော ၂ ရက်က</string>
     <string name="bind_sign_in_title">Mi အကောင့် ထည့်သွင်းရန်</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
@@ -124,7 +125,7 @@
 ID -
 ကြီးကြပ်သူထံ ဤကုဒ်ကို ပေးပို့မည်။"</string>
     <string name="dialog_privacy_info_new2">%1$s ၏ဝန်ဆောင်မှုများကို သုံးနိုင်ရန်အတွက် ၎င်းက သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူဆောင်ရွက် အသုံးပြုမည်ဖြစ်ကြောင်း သဘောတူရပါမည်။ အောက်ပါ \"သဘောတူသည်\" ကို တို့ခြင်းအားဖြင့် သင်သည်ကျွန်ုပ်တို့၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။</string>
-    <string name="dialog_privacy_info_new3">ဤဝန်ဆောင်မှုကိုသုံးနိုင်ရန် %1$s အား သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒနှင့်အညီ ကောက်ယူ၊ ဆောင်ရွက်၊ အသုံးပြုခွင့်ပေးရပါမည်။ အောက်တွင် \"သဘောတူသည်\" ကို နှိပ်ခြင်းဖြင့် သင်သည် Xiaomi ၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=%3$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> ကို သဘောတူရာရောက်သည်။</string>
+    <string name="dialog_privacy_info_new3">ဤဝန်ဆောင်မှုကိုသုံးနိုင်ရန် သင်သည် %1$s အား သင်၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒနှင့်အညီ ကောက်ယူ၊ ဆောင်ရွက်၊ အသုံးပြုခွင့် ပေးရပါမည်။ အောက်တွင် သဘောတူသည် ကို နှိပ်ခြင်းဖြင့် သင်သည် Xiaomi ၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=%3$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။ &lt;br/>&lt;br/>သဘောတူသည် ကို နှိပ်ခြင်းသည် Mi ဗီဒီယိုအား သင့်စက်တွင် ထည့်ထားသော အက်(ပ်)စာရင်းကို ဖတ်ခွင့်ပြုရာလည်း ရောက်ပါသည်။ Mi ဗီဒီယိုသည် ၎င်းခွင့်ပြုချက်ဖြင့် အကြောင်းအရာများမျှဝေနိုင်ပြီး အက်(ပ်)တစ်ခုခုကို သင့်စက်တွင် ထည့်ထားခြင်းရှိမရှိ၊ ထည့်ထားလျှင် ၎င်းအက်(ပ်)၏ ဗားရှင်း၊ ၎င်းအက်(ပ်)သည် လုံခြုံမှုရှိမရှိ တို့ကို နားလည်နိုင်ပါသည်။</string>
     <string name="dialog_privacy_title">ခွင့်ပြုချက်</string>
     <string name="dialog_revoke_privacy_info_new2">ခွင့်ပြုချက်ရုတ်သိမ်းပြီးပါက အက်(ပ်)သည် ဒေတာကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး အခြား သက်ဆိုင်ရာဒေတာများကို ကျွန်ုပ်တို့၏ ဆာဗာများမှ ဖျက်လိုက်ပါမည်။ ဤလုပ်ရပ်ကြောင့် အက်(ပ်)ကို သုံး၍ ရတော့မည်မဟုတ်ပါ။ ခွင့်ပြုချက်ကို မဖြစ်မနေ ရုတ်သိမ်းလိုပါသလား။</string>
     <string name="dialog_revoke_privacy_title">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းနေသည်</string>
@@ -161,6 +162,7 @@ ID -
     <string name="favorite_cancel_success">အကြိုက်ဆုံးစာရင်းမှ အောင်မြင်စွာဖယ်ရှားပြီးပါပြီ</string>
     <string name="favorite_fail">အကြိုက်ဆုံးစာရင်းသို့ သွင်းမရပါ။ ထပ်လုပ်ကြည့်ပ။</string>
     <string name="favorite_success">အကြိုက်ဆုံးများသို့ ပေါင်းထည့်ပြီးပါပြီ</string>
+    <string name="fcm_push_title">လူကြိုက်များသော ဗီဒီယိုများ</string>
     <string name="feedback">တုန့်ပြန်မှုပို့</string>
     <string name="feedback_activity_title">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="feedback_contact_empty">ဆက်သွယ်ရန်အချက်အလက် ထည့်ပါ</string>
@@ -486,6 +488,9 @@ ID -
     <string name="notification_bar_player_subtitle">ချုံ့ထားသော ပလေယာကို အသိပေးချက်အရိပ်တွင် ပြပါ</string>
     <string name="notification_bar_player_title">ပလေယာကို ချုံ့ရန်</string>
     <string name="notification_open_tip">အသိပေးချက်များရရှိရန် ဖွင့်ထားပါ</string>
+    <string name="notification_recall_action">ဖွင့်ရန်</string>
+    <string name="notification_recall_desc">Mi ဗီဒီယိုက လူကြိုက်များသော ဗီဒီယိုများနှင့် သင့်စာရင်းသွင်းရယူမှုများအကြောင်း သတိပေးနိုင်သည်။</string>
+    <string name="notification_recall_title">အသိပေးချက်များ ဖွင့်ရန်</string>
     <string name="notify_apk_installed">အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="ok">အိုကေ</string>
     <string name="order_alphabet">A-Z</string>
@@ -684,6 +689,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="permission_storage">သိုလှောင်ခန်း</string>
     <string name="permission_storage_desc">အိုင်တမ်သို့ ဝင်ရောက်၍ ဖိုင်များအား သိမ်းနိုင်ရန်၊ ဖုန်းထဲရှိ ဗီဒီယိုများအား ပြသနိုင်ရန် နှင့် ဖွင့်နိုင်ရန်</string>
     <string name="permission_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
+    <string name="pgc_push_title">စာရင်းသွင်းရယူမှုများ</string>
     <string name="phone_bind_too_many">အချိန်တိုအတွင်း ဤဖုန်းသည် Mi အကောင့် အများအပြားနှင့် ချိတ်တွဲခဲ့သည်။ အခြားဖုန်းနံပါတ်ဖြင့် ကြိုးစားကြည့်ပါ။</string>
     <string name="phone_hint">ဖုန်းနံပါတ်</string>
     <string name="phone_num_use_for">အောက်ပါအတွက် ဖုန်းနံပါတ်ကို သုံးမည် -</string>

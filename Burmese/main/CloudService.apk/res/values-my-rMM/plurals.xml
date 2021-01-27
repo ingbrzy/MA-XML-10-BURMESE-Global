@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">အိုင်တမ် %s ခုကို ဆင့်ခ်လုပ်၍ မရပါ</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">ပိတ်ဆို့စာရင်း ထည့်သွင်းမှု %d ခု</item>
     </plurals>

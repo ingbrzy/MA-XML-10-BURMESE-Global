@@ -39,6 +39,13 @@
     <string name="focus_mode_timer_pick_dialog_title">ကြာချိန်ထည့်ပါ</string>
     <string name="focus_time_exception_tip">စနစ်ပိုင်းဆိုင်ရာ အချိန်စနစ် ပြောင်းသွားခဲ့ပုံ ရပါသည်။ ဆုံချက်မုဒ်ကို ပိတ်လိုက်ပါ။</string>
     <string name="follow_sim1">SIM ၁ ဆက်တင်များကို သုံးရန်</string>
+    <string name="fps_nature_summary">မြင့်မားသော ပြန်စတင်နှုန်းသည် အရာရာတိုင်းကို ပြတ်သားထင်ရှားစေပါသည်</string>
+    <string name="fps_nature_title">မြင့်သော</string>
+    <string name="fps_smooth_summary">အလယ်အလတ်အဆင့်ရှိ ပြန်စတင်နှုန်းသည် အနုစိတ်ကျမှုအတွက် ရှင်းလင်းပြတ်သားမှုအားကို ပိုကောင်းစေပါသည်</string>
+    <string name="fps_smooth_title">အလယ်အလတ်</string>
+    <string name="fps_standard_summary">စံပြုထားသော ပြန်စတင်နှုန်းသည် ဘက်ထရီ ချွေတာပေးပါသည်</string>
+    <string name="fps_standard_title">စံ</string>
+    <string name="fps_user_tip">သရုပ်ပြအန်နီမေးရှင်းများအား သင်ကိုးကားရန်အတွက် ဖြည်းဖြည်းသာသာ ပြပေးပါသည်။ အမှန်တကယ် စွမ်းဆောင်မှုမှာမူ အကြောင်းတရား အမျိုးမျိုးအပေါ်တွင် အခြေခံ၍ ကွဲပြားပါသည်။</string>
     <string name="gamma">ဂန်မာ</string>
     <string name="healthy_use_phone">မျက်နှာပြင်ဖွင့်ထားချိန်ကို စီမံမည်</string>
     <string name="high_fps_description">မျက်နှာပြင် ရီဖရှက်ရှ်နှုန်းကို မြှင့်ထားမည်။ ဓာတ်အားသုံးစွဲမှု မြှင့်ထားမည်။</string>
@@ -83,6 +90,7 @@
     <string name="screen_fps_summary_power_save">နှုန်းထားကို တသမတ်တည်းသုံးခြင်းဖြင့် ဓာတ်ခဲကုန်သက်သာသည်</string>
     <string name="screen_fps_summary_smooth">အချို့အက်(ပ်)များသည် ပုံအရည်အသွေးကောင်းစေရန် ပြန်လန်းဆန်းအောင်လုပ်သောနှုန်းကို အလိုအလျောက် တိုးမြှင့်သည်</string>
     <string name="screen_fps_title">ပြန်လန်းဆန်းအောင်လုပ်သောနှုန်း</string>
+    <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (ဓာတ်ခဲကုန်သက်သာသည်)</string>
     <string name="screen_fps_unit_smooth">%dHz (အရည်အသွေးပိုကောင်းသည်)</string>
     <string name="screen_original_gamut">မြှင့်တင်ပြီးပါပြီ</string>
@@ -152,6 +160,7 @@
     <string name="usage_device_limit_app_prolong_time2">မိနစ် ၄၀ ထည့်ရန်</string>
     <string name="usage_device_limit_app_prolong_time3">မိနစ် ၆၀ ထည့်ရန်</string>
     <string name="usage_device_limit_app_prolong_time4">ယနေ့ အချိန်မကန့်သတ်ပါနှင့်</string>
+    <string name="usage_device_limit_app_prolong_time5">အချိန် တစ်ကြိမ် ထည့်ရန်</string>
     <string name="usage_device_limit_notifation_summary_start">%1$s တွင် ကန့်သတ်ချိန်ရောက်ပါမည်</string>
     <string name="usage_device_limit_notifation_title">ယနေ့လက်ကျန်အချိန်</string>
     <string name="usage_device_limit_time_over">ယနေ့ ကန့်သတ်ချိန် (%1$s) ကို ကျော်သွားပါပြီ</string>
@@ -184,7 +193,7 @@
     <string name="usage_home_premission_second_summary">ပုံမှန်အလုပ်လုပ်ရန်အတွက် ဤအက်ပ်သည် သင့်ကိုယ်ရေးအချက်အလက်များကို စုဆောင်းရန် လိုအပ်ပါသည််။ သင့်ကိုယ်ရေးအချက်အလက်များအား ဆက်စပ်ဥပဒေများ၊ နည်းဥပဒေများ၊ ကိုယ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကျွန်ုပ်တို့က ကာကွယ်ပေးသွားပါမည်။</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။သင်သည် အဆိုပါခွင့်ပြုချက်များ ပေးရန် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ရန် သဘောမတူပါက ဤအက်(ပ်)ကို သုံးမရပါ။ မျက်နှာပြင်ဖွင့်ထားချိန် > ဆက်တင်များ > မျက်နှာပြင်ဖွင့်ထားချိန်ကို ပိတ်ရန် အားရွေးပြီး ခွင့်ပြုချက်ကို ရုတ်သိမ်းနိုင်သည်။</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href='%1s'>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href='%2s'>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data>"</string>
-    <string name="usage_home_premission_second_summary_new">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပေးပါမည်။ ဤသို့သော ခွင့်ပြုချက်များကို ပေးအပ်ရန် သို့မဟုတ် သင်၏ ကိုယ်ရေးအချက်အလက်များကို မျှဝေရန်နှင့် အွန်လိုင်းတင်ရန် သင်သဘောမတူလျှင် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ Screen time > ဆက်တင်များ > သို့သွား၍ Screen time ကို ပိတ်မည်အား ရွေးချယ်ပေးခြင်းအားဖြင့် သင့်ခွင့်ပြုချက်ကို ရုပ်သိမ်းနိုင်ပါသည်။</string>
+    <string name="usage_home_premission_second_summary_new">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပေးပါမည်။ ဤသို့သော ခွင့်ပြုချက်များကို ပေးအပ်ရန် သို့မဟုတ် သင်၏ ကိုယ်ရေးအချက်အလက်များကို မျှဝေရန်နှင့် အွန်လိုင်းတင်ရန် သင်သဘောမတူလျှင် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ Screen time > ဆက်တင်များ > သို့သွား၍ Screen time ကို ပိတ်မည်အား ရွေးချယ်ပေးခြင်းအားဖြင့် သင့်ခွင့်ပြုချက်ကို ရုပ်သိမ်းနိုင်ပါသည်။ ကိုယ်ရေးလုံခြုံမှုနှင့်ပတ်သက်၍ မေးစရာများ ရှိနေသေးပါက privacy@xiaomi.com မှတစ်ဆင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်နိုင်ပါသည်။</string>
     <string name="usage_new_home_app_limit_summary">ဤအက်ပ်အတွက် နေ့စဉ်မျက်နှာပြင်ဖွင့်ထားချိန်ဆိုင်ရာ ကန့်သတ်ချက်တစ်ခု သတ်မှတ်ရန်</string>
     <string name="usage_new_home_app_limit_title">မျက်နှာပြင်ဖွင့်ထားချိန် ကန့်သတ်မည်</string>
     <string name="usage_new_home_average">"ပျမ်းမျှ "</string>

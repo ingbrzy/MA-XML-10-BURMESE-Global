@@ -8,11 +8,6 @@
         <item>နောက်တစ်လ</item>
         <item>ရက်စွဲရွေးပါ</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>ပြန်ကြား</item>
-        <item>အားလုံးပြန်ကြား</item>
-        <item>ထပ်ဆင့်ပို့ရန်</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>သေးငယ်သော</item>
         <item>ငယ်သော</item>

@@ -39,6 +39,10 @@
     <string name="about">အကြောင်း</string>
     <string name="action_settings">ဆက်တင်များ</string>
     <string name="ad_install">ထည့်သွင်းမည်</string>
+    <string name="add_download_download">ဒေါင်းလုဒ် လုပ်မည်</string>
+    <string name="add_download_error_not_support">ဤလင့်ခ်ကို မပံ့ပိုးထားပါ</string>
+    <string name="add_download_text_hint">HTTP/HTTPS လင့်ခ်တစ်ခု ရိုက်ထည့်ရန်</string>
+    <string name="add_download_title">URL ပေါင်းထည့်ရန်</string>
     <string name="all_downloads">ဒေါင်းလုဒ်အားလုံး</string>
     <string name="all_fileter">အားလုံး</string>
     <string name="all_share_files_content">သင်ရွေးလိုက်သည် ဖိုင်အား ဖျက်လိုက်ပြီဖြစ်ပါသည်</string>
@@ -63,6 +67,8 @@
     <string name="dialog_btn_cancel">ပယ်ဖျက်မည်</string>
     <string name="dialog_btn_ok">အိုကေ</string>
     <string name="dialog_btn_ok_disabled_net">ကွန်ရက်ဆက်တင်များ</string>
+    <string name="dialog_clipboard_permission_message">ကော်ပီကူးထားသော URLများ အား အလိုအလျောက် ပေါင်းထည့်ရန်အတွက် ကလစ်ဘုတ်အတွင်းရှိ အိုင်တမ်များအား Downloads ကို ဝင်သုံးခွင့်ပေးမလား။</string>
+    <string name="dialog_clipboard_permission_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
     <string name="dialog_confirm_delete_checkbox_message">ဖုန်းတွင်းဖိုင်ကိုလည်းဖျက်ပစ်</string>
     <string name="dialog_confirm_delete_the_download_item_message">ဒီလုပ်ငန်းစဉ်များကို ဖျက်ပါ</string>
     <string name="dialog_file_missing_title">ဖိုင်အားဖွင့်၍မရနိုင်ပါ</string>
@@ -98,19 +104,13 @@
     <string name="download_when_network_connected">ဒေတာချိတ်ဆက်မှုကိုသုံးပြီး ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="downloaded">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="downloaded_empty">မရှိသော</string>
+    <string name="downloaded_tab_hint">ဒေါင်းလုဒ်လုပ်ထားသော အိုင်တမ်များအား File Manager တွင် ကြည့်ရှုနိုင်ပါသည်</string>
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="downloading_empty">မရှိသော</string>
     <string name="downloads_operating">လုပ်နေသည်…</string>
-    <string name="durationDayHour">%1$d ရက် %2$d နာရီ</string>
-    <string name="durationDayHours">%1$d ရက် %2$d နာရီ</string>
-    <string name="durationHourMinute">%1$d နာရီ %2$d မိနစ်</string>
-    <string name="durationHourMinutes">%1$d နာရီ %2$d မိနစ်</string>
-    <string name="durationMinute">%1$dမိနစ်</string>
-    <string name="durationMinuteSecond">%1$d မိနစ် %2$d စက္ကန့်</string>
-    <string name="durationMinuteSeconds">%1$d မိနစ် %2$d စက္ကန့်</string>
-    <string name="durationMinutes">%1$dမိနစ်</string>
-    <string name="durationSecond">%1$dစက္ကန့်</string>
-    <string name="durationSeconds">%1$dစက္ကန့်</string>
+    <string name="durationDayHours">%1$s %2$s</string>
+    <string name="durationHourMinutes">%1$s %2$s</string>
+    <string name="durationMinuteSeconds">%1$s %2$s</string>
     <string name="editmode_menu_delete">ဖျက်ပစ်မည်</string>
     <string name="editmode_menu_share">မျှဝေပါ</string>
     <string name="extend">ပိုမို၍</string>
@@ -179,10 +179,20 @@
     <string name="pref_download_settings_title">ဒေါင်းလုဒ်အရွယ်အစားကန့်သတ်ချက်</string>
     <string name="pref_summary_any_bytes_popup">ဖိုင်များအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi ချိတ်ဆက်မှုအား အမြဲစောင့်ဆိုင်းပါ</string>
     <string name="pref_summary_enable_max_bytes_popup">မိုဘိုင်းဒေတာဖြင့် အကြောင်းအရာများကို ဒေါင်းလုဒ်လုပ်နေစဉ် ပေါ့ပ်အပ်အသိပေးချက်အား ပြပါ</string>
-    <string name="pref_summary_max_bytes_limit_format">ဖိုင်အရွယ်အစားသည် %s ထက်ကျော်နေပါက Wi-Fi စောင့်မည်</string>
     <string name="pref_summary_no_limit_popup">အကန့်သတ်မဲ့</string>
     <string name="pref_title_enable_max_bytes_popup">ဒေတာသုံးစွဲမှု အသိပေးချက်အား ပြပါ</string>
     <string name="preferences_title">ဆက်တင်များ</string>
+    <string name="privacy_agree_dialog_msg">&lt;Data>Downloads မှ ကြိုဆိုပါသည်။ ဖိုင်များဒေါင်းလုဒ်လုပ်ရန် ဤအက်(ပ်)ကိုသုံးနိုင်သည်။&lt;BR>Downloads သည် ဒေါင်းလုဒ်စာရင်းများထုတ်ပေးသည့် ဝန်ဆောင်မှုပေးနိုင်ရန် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ အသုံးပြုပုံပြုနည်းအကြောင်းကို ကျွန်ုပ်တို့၏&lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။&lt;BR>Downloads ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;BR>Downloads အတွက် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ဆက်တင်တွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်သည်။ သင်သည် ကျွန်ုပ်တို့၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောမတူပါက ဤအက်(ပ်)ရှိ အင်္ဂါရပ်အချို့ကို သုံးမရ သော်လည်း အခြေခံလုပ်ဆောင်ချက်များကို သုံးနိုင်ပါသည်။&lt;/Data></string>
+    <string name="privacy_agree_dialog_title">စည်းမျဉ်းစည်းကမ်းများ</string>
+    <string name="privacy_revoke_dialog_later">မလုပ်တော့ရန်</string>
+    <string name="privacy_revoke_dialog_msg">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် Downloads ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူခြင်းအား ရပ်လိုက်ပါမည်။ ကောက်ယူရရှိထားပြီးသော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တည်ဆဲဥပဒေအရလိုအပ်သော သတ်မှတ်အချိန်အတွင်း ဖျက်လိုက်ပါမည်။ Downloads သည် ဒေါင်းလုဒ်စာရင်းများထုတ်ပေးသည့် ဝန်ဆောင်မှုပေးနိုင်ရန် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန်လိုအပ်သည်။ ၎င်း၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းခြင်းသည် ၎င်း၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်ကောက်ယူခြင်းအပေါ်အခြေခံသည့် ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာ ရောက်ပါသည်။</string>
+    <string name="privacy_revoke_dialog_ok">ရုပ်သိမ်းရန်</string>
+    <string name="privacy_revoke_dialog_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
+    <string name="privacy_revoke_label">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
+    <string name="privacy_revoke_msg">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် Downloads ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။</string>
+    <string name="privacy_revoke_nonetwork_msg">ခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="privacy_revoke_nonetwork_ok">နားလည်ပါပြီ</string>
+    <string name="privacy_revoke_nonetwork_title">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="privacy_tip_cancel">ပယ်ဖျက်မည်</string>
     <string name="privacy_tip_ok">အိုကေ</string>
     <string name="rank">အဆင့်သတ်မှတ်ခြင်း</string>
@@ -223,5 +233,4 @@
     <string name="toast_only_wifi_download">အိုင်တမ်များအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်ပါ</string>
     <string name="total_speedup">အရှိန်မြှင့်တင်မှု(စုစုပေါင်း)</string>
     <string name="version">ဗားရှင်း %s</string>
-    <string name="security_ui_title">လုံခြုံရေးကြော်ငြာများ</string>
 </resources>

@@ -66,6 +66,12 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">မှတ်စု %1$s ခု တွေ့ထားသည်</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">အလုပ်တာဝန် %1$s ခု တွေ့ထားသည်</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d စက္ကန့် ကျန်သေးသည်</item>
     </plurals>

@@ -106,8 +106,9 @@
     <string name="next_fingerprint">နောက်တစ်ဆင့်</string>
     <string name="note_introduction">ဤအက်(ပ်)တွင် မှတ်စုများပြုလုပ်ခြင်း၊ ကြည့်ခြင်းနှင့် တည်းဖြတ်ခြင်းများ ပြုလုပ်နိုင်သည်။</string>
     <string name="other_settings">နောက်ထပ် ဆက်တင်များ</string>
-    <string name="other_settings_ad_dialog_content">"ဤအင်္ဂါရပ်ကိုပိတ်လိုက်ပါက သင်သည်စိတ်ကြိုက်ဝန်ဆောင်မှုများကို ရရှိတော့မည်မဟုတ်ပါ။ သို့သော် သင့်စိတ်ဝင်စားမှုနှင့်ဆိုင်သော ကြော်ငြာများကို ရရှိပါဦးမည်။ Xiaomi ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတွင် စိတ်ကြိုက်ကြော်ငြာများအကြောင်း ပိုမိုလေ့လာနိုင်သည်။
-စိတ်ကြိုက်ကြော်ငြာများကို မဖြစ်မနေပိတ်လိုပါသလား။"</string>
+    <string name="other_settings_ad_dialog_agree">ဖွင့်မည်</string>
+    <string name="other_settings_ad_dialog_content">စိတ်ကြိုက်ကြော်ငြာ အကြံပြုချက်များကို ပိတ်ထားသောအခါ ဤအင်္ဂါရပ်ကို ဖွင့်ထားသောအချိန်ကဲ့သို့ပင် တူညီသော ကြော်ငြာအရေအတွက်ကို တွေ့မြင်နေရဦးမည် ဖြစ်ပါသည်။ သို့သော် ထိုကြော်ငြာများသည် သင်၏ ကိုယ်ပိုင်ရွေးချယ်မှုများအပေါ်တွင် အခြေမခံထားသောကြောင့် ၎င်းတို့သည် ဆက်စပ်မှုရှိတော့မည် မဟုတ်ပါ။</string>
+    <string name="other_settings_ad_dialog_disagree">ပိတ်မည်</string>
     <string name="other_settings_ad_disable_summary">စိတ်ကြိုက်ကြော်ငြာများကို ဖွင့်ရန်</string>
     <string name="other_settings_ad_enable">စိတ်ကြိုက်ကြော်ငြာများ</string>
     <string name="other_settings_ad_enable_summary">သင့်စိတ်ဝင်စားမှုအလိုက် စိတ်ကြိုက်ကြော်ငြာများ</string>

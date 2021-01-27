@@ -96,6 +96,10 @@
     <string name="call_record_text_auto_delete_half_year">%d လကြာပြီးနောက်</string>
     <string name="call_record_text_auto_delete_never">မည်သည့်အခါမျှ</string>
     <string name="call_record_text_auto_delete_one_month">%d လကြာပြီးနောက်</string>
+    <string name="call_record_user_notice_all_purpose">ဖုန်းပြောစဉ်က ပြောထားသော စကားများကို သုံးပြီး ဖုန်းခေါ်မှုများကို ရှာပါ</string>
+    <string name="call_record_user_notice_permission_desc_microphone">အသံသွင်းထားသော ဖုန်းခေါ်မှုများအတွက်</string>
+    <string name="call_record_user_notice_permission_desc_storage">သိမ်းထားသော အသံသွင်းမှုများအတွက်</string>
+    <string name="call_record_user_notice_title">အသံခေါ်ဆိုမှုဆိုင်ရာ ရှာဖွေမှု</string>
     <string name="call_record_whitelist_custom">ရွေးချယ်ထားသော ခေါ်ဆိုမှုများ</string>
     <string name="call_recording_notification_summary">ခေါ်ဆိုမှုတစ်ခုကို မှတ်တမ်းတင်ထားပြီးနောက် အသိပေးချက်တစ်ခု လက်ခံရန်</string>
     <string name="call_recording_notification_title">မှတ်တမ်းတင်ထားသော ခေါ်ဆိုမှုများအကြောင်း အသိပေးရန်</string>
@@ -146,6 +150,7 @@
     <string name="callrecordview_menu_show_missed">လွဲသွားသော ခေါ်ဆိုမှုများ</string>
     <string name="callrecordview_menu_show_sim">ခေါ်ဆိုမှု %s ခု</string>
     <string name="callrecordview_menu_show_stranger">အမည်မသိသော နံပါတ်များမှ ခေါ်ဆိုမှုများ</string>
+    <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="cancel_confirmation_dialog_message">သင့်အပြောင်းအလဲများကို စွန့်ပစ်မလား။</string>
     <string name="cancel_confirmation_dialog_title">ပယ်ဖျက်မည်</string>
     <string name="cancel_export_confirmation_message">%s ကို ပို့သွင်းခြင်းအား ပယ်ဖျက်မလား။</string>
@@ -224,6 +229,15 @@
     <string name="contactsList">အဆက်အသွယ်များ</string>
     <string name="contacts_default_notification_channel">အသိပေးချက်များ</string>
     <string name="contacts_hybrid_activity_label">အဆက်အသွယ်များအား ပြန်ရယူပါ</string>
+    <string name="contacts_trash_activity_hint">ပြန်ယူလိုသော အဆက်အသွယ်များကို ရွေးပါ</string>
+    <string name="contacts_trash_activity_title">လတ်တလောဖျက်ထားသော အဆက်အသွယ်များ</string>
+    <string name="contacts_trash_delete">ဖျက်ရန်</string>
+    <string name="contacts_trash_delete_dialog_continue">ဖျက်ရန်</string>
+    <string name="contacts_trash_delete_dialog_hint">ဤအရာကို ပြန်ပြောင်းမရတော့ပါ။</string>
+    <string name="contacts_trash_delete_dialog_loading">ဖျက်ပစ်နေသည်…</string>
+    <string name="contacts_trash_delete_dialog_title">ရွေးထားသော အဆက်သွယ်များအား ဖျက်မည်လား?</string>
+    <string name="contacts_trash_restore">ပြန်ယူရန်</string>
+    <string name="contacts_trash_restore_loading">ပြန်ယူနေသည်…</string>
     <string name="contacts_unavailable_add_account">အကောင့်တစ်ခုသို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="contacts_unavailable_create_contact">အဆက်အသွယ်သစ်တစ်ခု ဖန်တီးပါ</string>
     <string name="contacts_unavailable_import_contacts">ဖိုင်တစ်ဖိုင်မှတင်သွင်းပါ</string>
@@ -361,6 +375,7 @@
     <string name="email_work">အလုပ်သို့ အီမေးလ်ပို့ပါ</string>
     <string name="emergency_number_label">အရေးပေါ်နံပါတ်</string>
     <string name="empty" />
+    <string name="ensure">အိုကေ</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -439,6 +454,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="ghostData_company">ကုမ္ပဏီ</string>
@@ -459,6 +475,8 @@
     <string name="group_sms_progress_msg">အုပ်စုဖွဲ့နေသည်…</string>
     <string name="groupsLabel">အုပ်စုများ</string>
     <string name="groups_list_empty">အုပ်စုများမရှိပါ</string>
+    <string name="hide_app_description_content">အဆက်အသွယ်များသည် စနစ်အက်(ပ်)ဖြစ်သည်။ ၎င်းကို ပင်မစာမျက်နှာရှော့ကတ်မှ ဖယ်ရှားပြီးနောက်တွင်လည်း ဖုန်းအက်(ပ်)မှတစ်ဆင့် ဆက်သုံးနိုင်သည်။</string>
+    <string name="hide_app_description_title">\"အဆက်အသွယ်များ\"ကို ပင်ပစာမျက်နှာမှ ဖြုတ်လိုသလား။</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">အဆက်အသွယ်များ ရှာပါ</string>
     <string name="hint_more_contact">နှစ်ခုထပ်နေသော အဆက်အသွယ်များကို ပေါင်းပါ</string>
@@ -560,6 +578,7 @@
     <string name="menu_sync_remove">ဆင့်ခ်အုပ်စု ဖယ်ရှားပါ</string>
     <string name="midnight">ည</string>
     <string name="miprofile_account_type">ဆက်သွယ်မှု ကဒ်များ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_name">ကျွန်ုပ်၏ပရိုဖိုင်</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -687,6 +706,7 @@
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">ဖုန်းထဲတွင် မည်သည့်ပုံမျှ မရှိပါ။</string>
@@ -798,6 +818,10 @@
     <string name="remove_duplicate">"MIUI မှ ရှာဖွေရာတွင် ကူညီပေးပြီး နှစ်ခုထပ်နေသော အဆက်အသွယ်များကို ပေါင်းစပ်ပေးပါလိမ့်မည်။
 
 စတင်ရန် သင့်မျက်နှာပြင်၏ အောက်ခြေရှိ ပေါင်းစပ်သည့် အိုင်ကွန်ကို ထိပါ။"</string>
+    <string name="restore_app_btn_cancel">မလုပ်တော့ရန်</string>
+    <string name="restore_app_btn_restore">အိုကေ</string>
+    <string name="restore_app_description_content">အဆက်အသွယ်များကို အမြန်ဝင်နိုင်ရန် ပင်မမျက်နှာပြင်တွင် ရှော့ကတ်ထည့်ပါ။</string>
+    <string name="restore_app_description_title">\"အဆက်အသွယ်များ\"ကို ပင်မမျက်နှာပြင်သို့ ထည့်လိုသလား။</string>
     <string name="restore_nickname">မူလအတိုင်းပြန်ထားပါ</string>
     <string name="return_call">ဖုန်းခေါ်ရန်နေရာသို့ ပြန်သွားရန် တို့ပါ</string>
     <string name="return_call_calling">ဖုန်းခေါ်နေပါသည်</string>
@@ -884,6 +908,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>

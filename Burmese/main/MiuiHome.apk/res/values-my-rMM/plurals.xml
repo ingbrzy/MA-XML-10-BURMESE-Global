@@ -12,6 +12,9 @@
     <plurals name="editing_mode_title">
         <item quantity="other">အိုင်တမ် %1$d ခု ရွေးထားသည်</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">ပင်မမျက်နှာပြင်မှ အက်ပ် %1$d ခုကို ဖယ်ရှားမလား။</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">စာမျက်နှာ %1$d၊ အက်ပ် %2$d ခု။</item>
     </plurals>

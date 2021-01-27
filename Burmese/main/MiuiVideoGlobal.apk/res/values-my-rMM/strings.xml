@@ -4,6 +4,7 @@
     <string name="This_week">ဤအပတ်</string>
     <string name="Today">ယနေ့</string>
     <string name="Yesterday">မနေ့က</string>
+    <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="account_bind_secure_email_title">ပြန်လည်ရယူရန် အီးမေးလ်ကို ထည့်သွင်းပါ</string>
     <string name="account_bind_secure_phone_title">ပြန်လည်ရယူရန် ဖုန်းနံပါတ်ကို ထည့်သွင်းပါ</string>
     <string name="account_crop_user_avatar">ဓာတ်ပုံကို ဖြတ်ထုတ်ပါ</string>
@@ -39,6 +40,8 @@
     <string name="action_update_phone">ဖုန်းနံပါတ် ပြောင်းမည်</string>
     <string name="activate_email_notice">သင့်အကောင့်အား ၂၄ နာရီအတွင်း အသက်သွင်းရန် အသေအချာ ဆောင်ရွက်ပါ။</string>
     <string name="activity_not_found_notice">အက်ပ်ကို ရှာမတွေ့ပါ</string>
+    <string name="ad_bar_notification_setting_sub_title">ပွဲအစီအစဉ်များအား အသိပေးချက်ရှိတ်တွင် ပြပါ</string>
+    <string name="ad_bar_notification_setting_title">ပွဲအစီအစဉ်များ</string>
     <string name="ad_buy">ဝယ်ရန်</string>
     <string name="ad_download">ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="ad_join">အဖွဲ့ဝင်ရန်</string>
@@ -130,7 +133,7 @@
     <string name="detail_select_source">ပြန်ပြအရင်းအမြစ်ကို ရွေးချယ်ရန်</string>
     <string name="diagnosis_log_send_failed">မှတ်တမ်းများကို ပို့မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="diagnosis_log_sent_format">"မှတ်တမ်းများကို အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ။
-ID -
+ID - %s
 ကြီးကြပ်သူထံ ဤကုဒ်ကို ပေးပို့မည်။"</string>
     <string name="dialog_privacy_info_new2">%1$s ၏ဝန်ဆောင်မှုများကို သုံးနိုင်ရန်အတွက် ၎င်းက သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူဆောင်ရွက် အသုံးပြုမည်ဖြစ်ကြောင်း သဘောတူရပါမည်။ အောက်ပါ \"သဘောတူသည်\" ကို တို့ခြင်းအားဖြင့် သင်သည်ကျွန်ုပ်တို့၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။</string>
     <string name="dialog_privacy_info_new3">ဤဝန်ဆောင်မှုကိုသုံးနိုင်ရန် သင်သည် %1$s အား သင်၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒနှင့်အညီ ကောက်ယူ၊ ဆောင်ရွက်၊ အသုံးပြုခွင့် ပေးရပါမည်။ အောက်တွင် သဘောတူသည် ကို နှိပ်ခြင်းဖြင့် သင်သည် Xiaomi ၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=%3$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။ &lt;br/>&lt;br/>သဘောတူသည် ကို နှိပ်ခြင်းသည် Mi ဗီဒီယိုအား သင့်စက်တွင် ထည့်ထားသော အက်(ပ်)စာရင်းကို ဖတ်ခွင့်ပြုရာလည်း ရောက်ပါသည်။ Mi ဗီဒီယိုသည် ၎င်းခွင့်ပြုချက်ဖြင့် အကြောင်းအရာများမျှဝေနိုင်ပြီး အက်(ပ်)တစ်ခုခုကို သင့်စက်တွင် ထည့်ထားခြင်းရှိမရှိ၊ ထည့်ထားလျှင် ၎င်းအက်(ပ်)၏ ဗားရှင်း၊ ၎င်းအက်(ပ်)သည် လုံခြုံမှုရှိမရှိ တို့ကို နားလည်နိုင်ပါသည်။</string>
@@ -252,6 +255,8 @@ ID -
     <string name="galleryplus_online_cta_disagree">သဘောမတူပါ</string>
     <string name="galleryplus_online_cta_title">စည်းမျဉ်းစည်းကမ်းများ</string>
     <string name="galleryplus_online_video_loading">ခေတ္တစောင့်ပါ…</string>
+    <string name="galleryplus_orientation_lock">အနေအထားကို အောင်မြင်စွာ သော့ခတ်ပြီးပါပြီ</string>
+    <string name="galleryplus_orientation_unlock">မျက်နှာပြင်မိတ်ဆက်ရှင်းလင်းမှုသော့ကို ဖွင့်ထားသည်</string>
     <string name="galleryplus_permission_content">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် Mi ဗီဒီယိုကို လိုအပ်သောခွင့်ပြုချက်များ ပေးပါ။</string>
     <string name="galleryplus_permission_content2">"ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ဆက်တင်များ > အက်(ပ်)များ > Mi ဗီဒီယို > အက်(ပ်)ခွင့်ပြုချက်များ သို့ သွားပြီး Mi ဗီဒီယိုကို အောက်ပါတို့ လုပ်ခွင့်ပေးပါ - 
 
@@ -305,6 +310,7 @@ ID -
     <string name="history_local_video">စက်အတွင်း</string>
     <string name="history_online_video">အွန်လိုင်း</string>
     <string name="hot">လူကြိုက်များသော</string>
+    <string name="i_know">နားလည်ပါပြီ</string>
     <string name="identity">အတည်ပြုမှု</string>
     <string name="inconsistent_pwd">စကားဝှက် မကိုက်ညီပါ</string>
     <string name="init_channels">မူလဆက်တင်အတိုင်း ပြန်လည်သတ်မှတ်ရန်</string>
@@ -480,8 +486,10 @@ ID -
     <string name="my_favorite_channels">အကြိုက်ဆုံး ရုပ်သံလိုင်းများ</string>
     <string name="my_feedback_title">ကျွန်တော်ရဲ့တုန့်ပြန်မှုအကြံပြုချက်</string>
     <string name="need_update_app">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် Mi ဗီဒီယိုအား အပ်ဒိတ်လုပ်ပါ</string>
-    <string name="network_connect_info">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="network_connect_info">ကွန်ရက်ချိတ်မရပါ။</string>
+    <string name="network_error_info">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="network_failed">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
+    <string name="network_timeout_info">ကွန်ရက်ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="new_channel_tip">ချန်နယ်အသစ်များကို ကြည့်လိုက်ပါ။</string>
     <string name="next">နောက်တစ်ဆင့်</string>
     <string name="next_step">နောက်တစ်ဆင့်</string>
@@ -513,6 +521,8 @@ ID -
     <string name="off_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိမည်မဟုတ်ပါ</string>
     <string name="ok">အိုကေ</string>
     <string name="on_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိပါမည်</string>
+    <string name="open_settings">ဆက်တင်</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="ovp_alert_dialog_download_install_task">HD ပလက်အင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
@@ -613,6 +623,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="passport_area_code_title">ဧရိယာကုဒ်</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_barcode_add_account_prompt">အကောင့်တစ်ခု ထည့်သွင်းရန်အတွက် အကောင့်ဝင်ပြီးနောက်တွင် QR ကုဒ်ကို နောက်တစ်ကြိမ် စကန်ဖတ်ပါ။</string>
+    <string name="passport_can_not_receive_verification_code">အတည်ပြုကုဒ် မရဘူးလား။</string>
     <string name="passport_captcha_title">ပုံ၌ပြသောကုဒ်</string>
     <string name="passport_checking_account">စကားဝှက်ကို စစ်ဆေးနေသည်…</string>
     <string name="passport_close">ပိတ်ပါ</string>
@@ -752,6 +763,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="plus_menu_delete_popup_text">ယခုပင် ဖျက်ပစ်မလား။</string>
     <string name="plus_menu_properties">ဂုဏ်သတ္တိများ</string>
     <string name="plus_menu_rename">အမည်ပြန်ပေးမည်</string>
+    <string name="plus_menu_rename_cant_empty">ဖိုင်အမည်ကို ချန်လှပ်မထားရပါ</string>
     <string name="plus_menu_rename_fail">ဖိုင်အမည်တွင် \"/\" မပါရပါ</string>
     <string name="plus_menu_share">မျှဝေမည်</string>
     <string name="plus_mine_gallery">ကျွန်ုပ်အယ်လ်ဘမ်များ</string>
@@ -847,6 +859,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="plus_sort_type_time">အချိန်</string>
     <string name="plus_tab_gallery">ဖိုင်တွဲများ</string>
     <string name="plus_tab_time">တိုင်းမလိုင်း</string>
+    <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="psw_hint">စကားဝှက်</string>
     <string name="psw_sign_in">စကားဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="pull_to_refresh_from_bottom_pull_label">ပြန်လည်ဆန်းသစ်ရန် အပေါ်သို့ ဆွဲတင်ပါ…</string>
@@ -884,6 +897,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="report_content_violence">အမုန်းစကား</string>
     <string name="report_fail">တိုင်ကြား၍မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="report_success">အောင်မြင်စွာတိုင်စာပို့ပြီးပါပြီ</string>
+    <string name="request_camera_permission_message">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တည်ဆဲဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့်အညီ ကာကွယ်ပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် - &lt;br>&lt;br>&lt;b>ကင်မရာအသုံးပြုခြင်း (သင့်ပရိုဖိုင်ပုံကို သတ်မှတ်ရန်)&lt;/b>&lt;br>&lt;br> ထိုခွင့်ပြုချက်များကို သင်သဘောမတူပါက ဤအက်(ပ်)၏ အချို့အင်္ဂါရပ်များကို သုံးနိုင်မည်မဟုတ်ဘဲ အခြေခံလုပ်ဆောင်ချက်များသာ ရရှိပါမည်။ ဆက်တင်များထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ခြင်း သို့မဟုတ် ပြန်ရုတ်သိမ်းခြင်းကို အချိန်မရွေး ပြုလုပ်နိုင်သည်။</string>
     <string name="resend_active_email">ပြန်ပို့ပြီးပါပြီ</string>
     <string name="resend_email_reach_limit_message">အတည်ပြုရန် အီးမေးလ်များစွာကို သင်တောင်းခံခဲ့ပါသည်။ အတည်ပြုရန် အီးမေးလ်မှာ သင်၏ အဝင်စာတိုက်ပုံး၏ အမှိုက်စာ ဖိုလ်ဒါအတွင်းတွင် ရှိမနေစေရန် အသေအချာ ဆောင်ရွက်ပါ။</string>
     <string name="resend_email_reach_limit_title">အကြိမ်များစွာ ကြိုးစားထားသည်</string>
@@ -950,6 +964,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="sync_favorites_limit">သင့်အကြိုက်ဆုံးစာရင်းတွင် ဗီဒီယို ၅၀၀ ကျော်ပါသည်။ ဆက်လက်ဆင့်(ခ်)လုပ်နိုင်ရန် အစောပိုင်း ဗီဒီယိုအချို့ကို ဖျက်ရပါမည်။</string>
     <string name="sync_favorites_message">ဤစက်ထဲမှ အကြိုက်ဆုံးများများကို သင့်အကောင့်သို့ ဆင့်(ခ်)လုပ်လိုပါသလား။ မရရှိနိုင်တော့သော အရာများကို ဖယ်ရှားလိုက်ပါမည်။</string>
     <string name="sync_favorites_title">အကြိုက်ဆုံးများ ဆင့်(ခ်)လုပ်ရန်</string>
+    <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="t_check_hide_file">ဖုံးလိုသော အရာများကို ရွေးပါ</string>
     <string name="t_check_unhide_file">ဖော်လိုသော အရာများကို ရွေးပါ</string>
     <string name="t_downloading">ဒေါင်းလုတ်လုပ်နေ</string>
@@ -1002,6 +1017,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="ugc_no_net">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="ui_log_tip">ကွယ်ဝှက်ရန် ဤဧရိယာအား ထိနှိပ်ပါ၊ မှတ်တမ်းဟောင်းများအား ရှင်းပစ်ရန် ဖိပြီးထိနှိပ်ထားပါ။ မှတ်တမ်းများကို ကိုယ်တိုင် ဆွဲထည့်ပါ။</string>
     <string name="unknow">မသိသော</string>
+    <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="update">အပ်ဒိတ်လုပ်မည်</string>
     <string name="update_email_address_dialog_message">သင်၏ အကောင့်ပြန်ယူရန် အီးမေးလ်ကို အပ်ဒိတ်မလုပ်မီတွင် သင်မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုရန် လိုအပ်ပါသည်။</string>
     <string name="update_email_address_dialog_title">အကောင့်ပြန်ယူရန် အီးမေးလ်ကို အပ်ဒိတ်လုပ်မည်</string>

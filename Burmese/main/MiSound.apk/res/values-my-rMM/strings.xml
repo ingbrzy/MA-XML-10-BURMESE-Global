@@ -53,8 +53,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
-    <string name="multi_music_coexistence_summary">အသံပေးချက်အသံထွက်လာချိန်တွင် မီဒီယာအသံကို မပြောင်းလဲစေသည့်အပြင် မြောက်မြားစွာသော မီဒီယာအသံများလည်း တစ်ခုနှင့် တစ်ခု အနှောင့်အယှက် မဖြစ်စေပါ</string>
-    <string name="multi_music_coexistence_title">အသံအမြောက်အမြားခွင့်ပြုရန်</string>
+    <string name="multi_music_coexistence_summary">အသိပေးချက်များဝင်စဉ် သို့မဟုတ် အခြားအရင်းအမြစ်မှ အသံဖွင့်ထားချိန်တွင် မီဒီယာအသံကို မညှိပါနှင့်</string>
+    <string name="multi_music_coexistence_title">အမျိုးမျိုးသော အသံအရင်းအမြစ်များ</string>
     <string name="music_add_my_sound">စိတ်ကြိုက်ကြိုသတ်မှတ်ချက်ထည့်ပါ</string>
     <string name="music_app_unavailable">Mi တေးဂီတအက်ပ် ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="music_audio_effect_optimize">အော်ဒီယို ဆက်တင်များ</string>
@@ -70,6 +70,8 @@
     <string name="music_delete">ဖျက်ရန်</string>
     <string name="music_delete_sound_title">ကြိုသတ်မှတ်ချက်များကို ဖျက်နေသည်</string>
     <string name="music_dirac_control">အသံ အရည်အသွေးကို မြှင့်တင်မည်</string>
+    <string name="music_dirac_mode_bluetooth_collar">Mi ဘလူးတု လည်စွပ်နားကြပ်</string>
+    <string name="music_dirac_mode_bluetooth_linefree">Mi ဘလူးတုနားကြပ် (လိုင်းမဲ့အက်ဒစ်ရှင်း)</string>
     <string name="music_dirac_mode_cancelling">Mi ဆူညံသံလျှော့ချခြင်း 3.5mm</string>
     <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi နားကြပ်ပေါက်</string>
@@ -162,6 +164,8 @@
     <string name="original_sound">မူလအသံကို ဖွင့်ပါ</string>
     <string name="personal_sound">သုံးထားသော ကြိုသတ်မှတ်ချက်ဖြင့် ဖွင့်ပါ</string>
     <string name="retry_test">ပြန်စရန်</string>
+    <string name="ringtone_output_device_summary">(ကြိုးတပ်နားကြပ်များ သို့မဟုတ် ဘလူးတုစက်များ) ချိတ်ထားစဉ် အဝင်ဖုန်းများနှင့် အသိပေးချက်များအတွက် အသံကို ခွင့်ပြုရန်</string>
+    <string name="ringtone_output_device_title">စပီကာအသံ ခွင့်ပြုရန်</string>
     <string name="save_and_apply">သိမ်းပြီး အသုံးပြုပါ</string>
     <string name="second_note">နားကြပ်တပ်ပါ။</string>
     <string name="sound_assist_key_summary">အက်(ပ်)အမျိုးမျိုးက အသံတစ်ပြိုင်တည်းဖွင့်ထားစဉ် အက်(ပ်)တစ်ခုချင်းစီ၏ အသံကို ညှိပေးသည်</string>

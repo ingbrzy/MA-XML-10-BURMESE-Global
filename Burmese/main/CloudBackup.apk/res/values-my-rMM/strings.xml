@@ -10,18 +10,32 @@
     <string name="back_up_task_in_process">အရန်သိမ်းဆည်းနေ…</string>
     <string name="back_up_task_unfinished">အရန်သိမ်း၍ မရပါ</string>
     <string name="backing_up_to_micloud">အရန်သိမ်းခြင်းလုပ်နေဆဲ…</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi ကလောက်တွင် နေရာလွတ် မလုံလောက်ပါ။ သင့်ပလန်ကို အဆင့်မြှင့်ပါ သို့မဟုတ် နေရာလွတ်ရှင်းလင်းပါ။</string>
+    <string name="backup_action_buy_cloud_space">နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ်ကို ရယူပါ။</string>
+    <string name="backup_action_check_network">ကွန်ရက် ဆက်တင်များကို စစ်ဆေးပါ</string>
+    <string name="backup_action_clean_disk_space">နေရာရှင်းလင်းလိုက်</string>
+    <string name="backup_action_retry_now">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">ဤအရန်သိမ်းဆည်းမှုကို သိမ်းဆည်းရန် ကလောက်သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ။ သင့်အစီအစဉ်ကို အဆင့်မြှင့်ပါ သို့မဟုတ် ကလောက်သိုလှောင်ခန်းတွင် နေရာလွတ်ဖန်တီးပါ။</string>
     <string name="backup_failed_reason_disk_space_not_enough">နေရာလွတ် မလုံလောက်ပါ။ သိုလှောင်ခန်းအား ဦးစွာ ရှင်းလင်းပါ။</string>
-    <string name="backup_failed_reason_network_error">ကွန်ရက် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="backup_failed_reason_network_error">ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="backup_finished_notification_content">ပင်မမျက်နှာပြင် အက်ပ်များ၊ စနစ်ဆက်တင်များ စသည်တို့အား အရန်သိမ်းလုပ်ပါ။</string>
     <string name="backup_now">ယခုအရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">သင်၏ ကလောက်သိုလှောင်ခန်းအစီအစဉ်ကို အဆင့်မြှင့်ရန်</string>
+    <string name="backup_remind_clean_disk_space">နေရာလွတ်ပြုလုပ်ရန်</string>
+    <string name="backup_remind_cloud_space_cost">အရန်သိမ်းရန်အရွယ်အစား -%s</string>
     <string name="backup_size">အရွယ်အစား: %s</string>
     <string name="backup_stopped_msg">လက်ရှိ အရန်သိမ်းခြင်းသည် ယခင် ဘက်ခ်အပ်အား ဖုံးအုပ်သွားမည်။ ကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
     <string name="backup_stopped_title">အရန်သိမ်းခြင်းအား ရပ်တန့်ထားသည်</string>
     <string name="backup_success">အောင်မြင်စွာ အရန်သိမ်းလုပ်ပြီးပြီ</string>
     <string name="backup_successfully">အောင်မြင်စွာ အရန်သိမ်းလုပ်ပြီးပြီ</string>
     <string name="backup_to_cloud">အက်ပ်ကို အရန်သိမ်းခြင်းလုပ်ပါ</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">အရန်းသိမ်းဆည်း၍ မရနိုင်ပါ</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ
+အရန်သိမ်းဆည်း၍ မရနိုင်ပါ"</string>
+    <string name="backup_warning_reason_network_error">"ကွန်ရက်အမှား
+အရန်သိမ်းဆည်း၍ မရနိုင်ပါ"</string>
+    <string name="backup_warning_reason_no_server_response">"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်
+ပြန်ချိတ်ဆက်ပါ"</string>
     <string name="btn_back">နောက်သို့</string>
     <string name="btn_continue">ဆက်လုပ်ပါ</string>
     <string name="btn_restore_abort">ပယ်ဖျက်မည်</string>
@@ -67,7 +81,7 @@
 *  MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">အရန်သိမ်းအချိန်ဇယား</string>
-    <string name="cloud_back_up_frequence_long">၇ ရက်တိုင်း</string>
+    <string name="cloud_back_up_frequence_long">%d ရက် တစ်ကြိမ်</string>
     <string name="cloud_back_up_frequence_short">နေ့တိုင်း</string>
     <string name="cloud_back_up_ok_btn">အိုကေ</string>
     <string name="cloud_back_up_opening">ခဏစောင့်ပါ…</string>
@@ -78,6 +92,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup">ကလောက်အရန်သိမ်းစနစ်များ</string>
     <string name="cloud_backup_derail_size_summary">အရွယ်အစား- %s</string>
     <string name="cloud_backup_detail_frequence">အရန်သိမ်းအချိန်ဇယား</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">%d ရက် တစ်ကြိမ် အရန်သိမ်းပါ</string>
+    <string name="cloud_backup_detail_frequence_every_day">နေ့စဉ် အရန်သိမ်းရန်</string>
     <string name="cloud_backup_detail_manage">အရန်သိမ်းများအား စီမံပါ</string>
     <string name="cloud_backup_detail_state">အလိုအလျောက် အရန်သိမ်းခြင်း</string>
     <string name="cloud_backup_detail_state_summary">Wi-Fi ချိတ်စဉ် Xiaomi ကလောက်တွင် အရန်သိမ်းခြင်းကို အလိုအလျောက်ပြုလုပ်ပါ။</string>
@@ -160,6 +176,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="provision_background_restore_more_data">နောက်ထပ် အိုင်တမ်များအား နောက်ခံတွင် ပြန်လည်ရယူမည်</string>
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>

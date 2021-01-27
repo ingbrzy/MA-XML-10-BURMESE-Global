@@ -2,6 +2,7 @@
 <resources>
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="afternoon">နေ့လယ်</string>
+    <string name="already_in_small_freeform">အချို့အက်(ပ်)များက မျော့လွင့်အကွက်များတွင် ပွင့်နေသည်</string>
     <string name="am">နံနက်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="date_picker_label_day" />
@@ -107,8 +108,18 @@
     <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
     <string name="night">ညနေ</string>
+    <string name="no_avaliable_application">အက်(ပ်)တစ်ခုမျှ မရှိပါ</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="pm">ညနေ</string>
+    <string name="quick_settings_hang_label">မျောလွင့် အကွက်များ</string>
+    <string name="quick_settings_hang_on">မျောလွင့်အကွက်များကို ယခုသုံးနိုင်ပါပြီ</string>
+    <string name="quick_settings_pcmode_cancel_button">ဖျက်သိမ်းမည်</string>
+    <string name="quick_settings_pcmode_dialog_message_turnoff">PC မုဒ်ကို ပိတ်ရန်</string>
+    <string name="quick_settings_pcmode_dialog_message_turnon">PC မုဒ်ကို ဖွင့်ရန်</string>
+    <string name="quick_settings_pcmode_dialog_remember_text">ထပ်မပြပါနှင့်</string>
+    <string name="quick_settings_pcmode_label">PC မုဒ်</string>
+    <string name="quick_settings_pcmode_ok_button">အိုကေ</string>
+    <string name="quick_settings_scanner_label">စကန်နာ</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>

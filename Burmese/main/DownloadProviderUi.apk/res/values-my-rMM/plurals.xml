@@ -15,6 +15,12 @@
     <plurals name="durationHours">
         <item quantity="other">%1$d နာရီ</item>
     </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d မိနစ်</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d စက္ကန့်</item>
+    </plurals>
     <plurals name="selected_count">
         <item quantity="other">%1$dခု ရွေးထားသည်၊ စုစုပေါင်း %2$dခု</item>
     </plurals>

@@ -4,6 +4,9 @@
     <string name="back">နောက်သို့</string>
     <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="category_other">အခြား</string>
+    <string name="channel_name_aggregation">အုပ်စုဖွဲ့ထားသော အသိပေးချက်များ</string>
+    <string name="channel_name_notification">အက်(ပ်)အသိပေးချက်များ</string>
+    <string name="channel_name_recovered">ပြန်ယူထားသော အသိပေးချက်များ</string>
     <string name="confirm">အိုကေ</string>
     <string name="default_list_type">လက်ခံရရှိသည့် အချိန်အလိုက် စီပါ</string>
     <string name="disable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား မခွင့်ပြုပါ</string>
@@ -30,10 +33,14 @@
     <string name="lock_screen_tip_toast">\"ဖောမတ်\"တွင် သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ ပြရန် ခွင့်ပြုပါ</string>
     <string name="lockscreen_notifications">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ</string>
     <string name="lockscreen_notifications_short">သော့ချမျက်နှာပြင်</string>
+    <string name="menu_setting_aggregatation_feedback">အုပ်စုဖွဲ့နည်းလမ်းများ</string>
+    <string name="menu_setting_feedback_donot_classify">အုပ်စုမဖွဲ့ပါနှင့်</string>
+    <string name="menu_setting_more_settings">နောက်ထပ် ဆက်တင်များ</string>
     <string name="menu_setting_show_in_home">အုပ်စုမဖွဲ့ပါနှင့်</string>
     <string name="menu_setting_tip_show_in_home">%s ထံမှ အသိပေးချက်များကို အုပ်စုဖွဲ့မည်မဟုတ်ပါ</string>
     <string name="menu_setting_tip_unfold">ဤအက်(ပ်)မှလာသော အသိပေးချက်အားလုံးကို အရေးကြီးသည်ဟု သတ်မှတ်ပါမည်</string>
     <string name="menu_setting_unfold">အရေးကြီးသည်</string>
+    <string name="mune_setting_prefix_category">"အုပ်စုဖွဲထားသူ "</string>
     <string name="not_sent_recently">မကြာသေးမီက မဟုတ်ပါ</string>
     <string name="notch_and_status_bar_setting">ထိန်းချုပ်စင်တာနှင့် အခြေအနေပြဘားတန်း</string>
     <string name="notification_aggregate_description1">MIUI သည် တွန်းပို့စာနှင့် ပရိုမိုးရှင်းအသိပေးချက်များကို အလိုအလျောက် အုပ်စုဖွဲ့နိုင်၍ သင့်အသိပေးချက်ရှိတ်ကို ရှင်းလင်းစေသည်။</string>
@@ -50,6 +57,7 @@
     <string name="notification_style_miui">MIUI</string>
     <string name="off">ပိတ်မည်</string>
     <string name="on">ဖွင့်မည်</string>
+    <string name="setting_menu_success">အောင်မြင်စွာသတ်မှတ်ပြီးပါပြီ</string>
     <string name="settings_guide_title">အခြား ဆက်တင်များ လိုအပ်ပါသလား?</string>
     <string name="show_badge_notifications">အသိပေးချက် တံဆိပ်</string>
     <string name="show_badge_notifications_short">တံဆိပ်များ</string>
@@ -64,4 +72,5 @@
     <string name="summary_lock_screen_enable_notification_first">အသိပေးချက်အား သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
     <string name="summary_show_badge_enable_notification_first">အသိပေးချက်အား အသိပေးချက် တံဆိပ်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
     <string name="swipe_to_delete">ဖျက်ရန် ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပါ</string>
+    <string name="tip_feedback_thanks">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါတယ်။</string>
 </resources>

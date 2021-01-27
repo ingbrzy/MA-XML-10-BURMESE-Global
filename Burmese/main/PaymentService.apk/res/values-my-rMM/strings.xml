@@ -210,6 +210,7 @@ ID -
     <string name="sns_access_token_expired_warning">ခွင့်ပြုချိန် ကုန်သွားပါပြီ။ ဤအကောင့်နှင့် ပြန်လည်ချိတ်ဆက်ရန် နောက်တစ်ကြိမ် အကောင့်ဝင်ပါ။</string>
     <string name="sns_bind_limit">အကြိမ်များစွာ ကြိုးစားထားသည်။ အကောင့်ဝင်ရန် အခြားနားလမ်းများဖြင့် ကြိုးစားပေးပါ။</string>
     <string name="sns_sign_in">အကောင့်ဝင်ရန် အခြားနည်းလမ်းများ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="temporary_not_available">ဤဖီးခြားကို မရရှိနိုင်သေးပါ</string>
     <string name="ticket_hint">အတည်ပြုကုဒ်</string>
     <string name="ticket_invalid">သင်ထည့်သွင်းသော ကုဒ်မှာ မမှန်ကန်ပါ</string>

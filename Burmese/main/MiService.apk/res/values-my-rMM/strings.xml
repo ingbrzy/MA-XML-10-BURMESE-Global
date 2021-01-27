@@ -126,7 +126,7 @@
     <string name="miui_feedback_edit_submit_directly">တင်ရန်</string>
     <string name="miui_feedback_edit_title_occurrence_time">အချိန်ရွေးပါ</string>
     <string name="miui_feedback_edit_title_reproductivity">ဖြစ်နိုင်ခြေရွေးပါ</string>
-    <string name="miui_feedback_edit_toast_description_required">ရှင်းလင်းချက်ရေးရပါမည်</string>
+    <string name="miui_feedback_edit_toast_description_required">ဦးစွာ ပြဿနာကို ရှင်းပြပါ</string>
     <string name="miui_feedback_edit_toast_module_required">အကြောင်းအရာရွေးရန်</string>
     <string name="miui_feedback_edit_toast_more_desc_required">ရှင်းလင်းချက် အရှည်ရေးရပါမည်</string>
     <string name="miui_feedback_edit_toast_problem_class_required">အမျိုးအစားရွေးရန်</string>
@@ -159,6 +159,7 @@
     <string name="miui_main_next_page">နောက်တစ်ဆင့်</string>
     <string name="miui_main_pre_page">နောက်သို့</string>
     <string name="miui_main_shortcut_label_submit_feedback">တုံ့ပြန်အကြံပြုချက်တင်ရန်</string>
+    <string name="miui_main_update_back_to_home">ပင်မစခရင်ကို ပြင်ဆင်နေသည်…</string>
     <string name="miui_main_update_continue">နောက်တစ်ဆင့်</string>
     <string name="miui_main_update_learn_more">ပိုမိုလေ့လာရန်</string>
     <string name="miui_main_update_start">ယခုအပ်ပဒိတ်လုပ်ရန်</string>
