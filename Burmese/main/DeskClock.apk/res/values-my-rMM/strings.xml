@@ -104,6 +104,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">နဂိုမူလနှိုးစက်အသံ</string>
     <string name="default_alarm_title">မူလသတ်မှတ် ဖုန်းမြည်သံ</string>
@@ -254,10 +255,13 @@
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
+    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
+    <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
+    <string name="miuix_appcompat_select_item">အိုင်တမ်များရွေး</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
@@ -401,6 +405,7 @@
     <string name="search_stopwatch_keywords">စံချိန်ယူနာရီ</string>
     <string name="search_timer_keywords">တိုင်မာ</string>
     <string name="search_worldclock_keywords">အချိန်၊ ကမ္ဘာ့အချိန်၊ နာရီ</string>
+    <string name="send">ပို့ပါ</string>
     <string name="set_alarm">အချိန် ရွေးပါ</string>
     <string name="set_alarm_choose_ringtone">နှိုးစက်သံရွေးရန်</string>
     <string name="set_alarm_done">ပြီးပါပြီ</string>
@@ -420,6 +425,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၁၀ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -469,6 +475,7 @@
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပါ။</string>
     <string name="system_permission_main_purpose">အချိန်ကြည့်ခြင်း၊ နှိုးစက်နှင့် တိုင်မာများ သတ်မှတ်ခြင်း၊ ချိန်ကိုက်နာရီသုံးခြင်း</string>
     <string name="system_permission_purpose">ရုံးဖွင့်ရက်နှိုးစက်များပြုလုပ်ခြင်းနှင့် စိတ်ကြိုက်ဖုန်းသံများ သတ်မှတ်ခြင်း</string>
@@ -582,8 +589,12 @@
     <string name="update_notification_info">နောက်ခံတွင် ဒေတာအား အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="usage_start">စတင်မည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="version_update_dialog_negative_desc">ယခုမလုပ်ပါ</string>
+    <string name="version_update_dialog_positive_desc">အပ်ပဒိတ်လုပ်ရန်</string>
+    <string name="version_update_dialog_title">အပ်ပဒိတ်တစ်ခုရှိပါသည်</string>
     <string name="vibrate_pref_summary">နှိုးစက်အသံမြည်ချိန်မှာ တုန်ခါပါ</string>
     <string name="vibrate_when_ringing">ဖုန်းမြည်ချိန်မှာ တုန်ခါပါ</string>
+    <string name="voice_add_alarm">အသံစေခိုင်းချက်တစ်ခုကိုသုံး၍ နှိုးစက်ထည့်ရန်</string>
     <string name="volume_button_setting_desc">ပါဝါခလုတ်နှင့် အသံ +/- ခလုတ်များအတွက် လုပ်ဆောင်ချက် သတ်မှတ်ရန်</string>
     <string name="volume_button_setting_summary">နှိုးစက်အတွင်း အသံအတိုးအကျယ်ခလုတ်မှတ်များ၏ လုပ်ဆောင်ချက်များအား သတ်မှတ်</string>
     <string name="volume_button_setting_title">အသံတိုးကျယ်ခလုတ်များ</string>

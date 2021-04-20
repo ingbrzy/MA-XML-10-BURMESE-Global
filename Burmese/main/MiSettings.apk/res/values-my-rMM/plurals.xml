@@ -78,6 +78,9 @@
     <plurals name="usage_state_unlock_count">
         <item quantity="other">%d ကြိမ်</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">ပျမ်းမျှ %.2f ကြိမ်</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">စနေ၊ တနင်္ဂနွေ - %d နာရီ</item>
     </plurals>

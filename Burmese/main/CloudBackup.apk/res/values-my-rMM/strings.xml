@@ -48,6 +48,7 @@
     <string name="btn_retry">ပြန်လည်စစ်ဆေးပါ</string>
     <string name="btn_skip">ဤအဆင့်ကို ကျော်ပါ</string>
     <string name="button_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="button_confirm">နားလည်ပါပြီ</string>
     <string name="button_delete">ဖျက်ပစ်မည်</string>
     <string name="button_next">နောက်တစ်ဆင့်</string>
     <string name="can_not_backup_in_lite_mode">Lite မုဒ်တွင် ပြန်လည်ရယူ၍ မရနိုင်ပါ။</string>
@@ -149,7 +150,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="error_unknown">တစ်ခုခု မှားသွားခဲ့သည်</string>
     <string name="get_device_id_error">စက် ID အား မရယူနိုင်ပါ</string>
     <string name="help_and_feedback">အကူအညီနှင့် တုံ့ပြန်အကြံပြုချက်</string>
-    <string name="hint_restore_cross_space">နေရာနှစ်ခုကြား အိုင်တမ်များ လွှဲပြောင်းပါက ပင်မမျက်နှာပြင် အပြင်အဆင်၏ ပြသမှုသည် လွဲမှားနိုင်သည်။</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">အခြား အစပျိုးစက်</string>
     <string name="home_restore_error">ပင်မမျက်နှာပြင်ကို ပြန်လည်ရယူ၍ မရပါ</string>
@@ -163,7 +163,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort">ဖြင့် မျိုးတူစုပါ</string>
     <string name="menu_item_sort_name">အမည်</string>
     <string name="menu_item_sort_size">အရွယ်အစား</string>
-    <string name="msg_alert_cancel_restore">အိုင်တမ်များအား ပြန်လည်ရယူနေသည်။ ယခု ရပ်မလား?</string>
+    <string name="msg_alert_cancel_restore">အကြောင်းအရာများကို Xiaomi ကလောက်မှ ပြန်ယူနေသည်။ ယခု ရပ်လိုသလား။</string>
     <string name="msg_alert_restore_error">Xiaomi ကလောက်ရှိ အရာများကို ပြန်ယူမရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="msg_restore_start_with_metered_network">"သင်၏ ပင်မမျက်နှာပြင်အား ပြန်ဖွင့်ပါမည်။ အရန်သိမ်းထားသော အက်ပ်များလည်း အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိမ့်မည်။ &lt;br />&lt;b>&lt;font color='red'>ဖိုင် %s ခုအား ဒေါင်းလုဒ်လုပ်မည်။&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">ဤအိုင်တမ်များအား ပြန်လည်ရယူလိုပါက ဒေါင်းလုဒ်လုပ်ရာတွင် မိုဘိုင်းဒေတာကို သုံးမည်။</string>
@@ -176,11 +176,17 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+    <string name="pc_mode_not_support_restore_warning">PC မုဒ်တွင် အကြောင်းအရာများ ပြန်ယူမရပါ။ PC မုဒ်ကို ပိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
+    <string name="provision_back">နောက်ပြန်</string>
     <string name="provision_background_restore_more_data">နောက်ထပ် အိုင်တမ်များအား နောက်ခံတွင် ပြန်လည်ရယူမည်</string>
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
+    <string name="provision_next">နောက်တစ်ဆင့်</string>
     <string name="provision_restore_data">အိုင်တမ်များအား ပြန်လည်ရယူနေသည်</string>
+    <string name="provision_skip_underline">ကျော်ရန်</string>
     <string name="query_restore_description">ပင်မမျက်နှာပြင်အက်ပ်များနှင့် ဆက်တင်များအား ဤအရန်သိမ်းအားအသုံးပြုပြီး ပြန်လည်ရယူပါ။ ဤသို့လုပ်ဆောင်ခြင်းသည် လက်ရှိရှိပြီးသားအက်ပ်များအား အရန်သိမ်းနှင့် တူညီမှု ရှိပါက အစားထိုးလိုက်လိမ့်မည်။ ဤအရန်သိမ်းတွင် မပါဝင်သော အက်ပ်များအား နောက်မျက်နှာပြင် တစ်ခုသို့ ရွေ့လိုက်လိမ့်မည်။</string>
     <string name="query_restore_summary">ဤစက်အတွက် Xiaomi ကလောက် အရန်သိမ်းဖိုင်တစ်ခုတွေ့သည်။ ပင်မမျက်နှာပြင်အက်(ပ်)များနှင့် ဆက်တင်များကို ပြန်ယူလိုသလား သို့မဟုတ် ၎င်းကို စက်အသစ်အဖြစ်သုံးပြီး Xiaomi ကလောက်ရှိ ယခင်အရန်သိမ်းဖိုင်များကို ဖျက်လိုပါသလား။</string>
     <string name="recover_home_settings">ပင်မမျက်နှာပြင် ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
@@ -217,14 +223,14 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_home_failed">ပင်မမျက်နှာပြင်ကို ပြန်လည်ရယူ၍ မရပါ။</string>
     <string name="restore_home_screen_apps">ကလောက်အရန်သိမ်းစနစ်မှ ပြန်ယူရန်</string>
     <string name="restore_init_description">ပြန်လည်ရယူရန် စတင်ပါ</string>
-    <string name="restore_network_pause">%s (ပြန်စရန် ထိနှိပ်ပါ)</string>
+    <string name="restore_network_pause">မိုဘိုင်းဒေတာကို သိမ်းရန် ခေတ္တဆိုင်းထားသည်။ ပြန်စရန် တို့ပါ။</string>
     <string name="restore_network_unconnect">%s (ချိတ်ဆက်ရန် စောင့်နေသည်)</string>
     <string name="restore_task_cancelling">ပယ်ဖျက်နေသည်…</string>
     <string name="restore_task_in_process">ပြန်လည်ရယူနေသည်…</string>
     <string name="restore_task_unfinished">ပြန်လည်ရယူ၍ မရပါ</string>
     <string name="restore_unfinished">ပြန်လည်ရယူနေသည်၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="restoring_data">ဒေတာပြန်လည်ရယူနေသည်…</string>
-    <string name="restoring_file_title_no_progress">ဖိုင်များအား ပြန်လည်ရယူနေသည်…</string>
+    <string name="restoring_file_title_no_progress">အက်(ပ်)များကို ပြန်ယူနေသည်…</string>
     <string name="restoring_home_screen_apps">Xiaomi Cloud မှ ပြန်ယူနေ…</string>
     <string name="restoring_settings">ပြန်လည်ရယူမှု ဆက်တင်…</string>
     <string name="retry">ပြန်ကြိုးစားပါ</string>

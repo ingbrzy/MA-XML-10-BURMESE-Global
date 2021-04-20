@@ -20,6 +20,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="device_desc_trust">ယုံကြည်ရသော စက်များ</string>
     <string name="dialog_can_not_find_device">အနီးအနားတွင် စက်များမတွေ့ပါ</string>
     <string name="dialog_cancle">ဖျက်သိမ်းရန်</string>
     <string name="dialog_connect_fail">ချိတ်မရပါ</string>
@@ -225,9 +226,22 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="nfc_connect_failed_toast">လွှင့်တင်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
+    <string name="normal_device_desc">သင်ချိတ်ဆက်ထားသော်လည်း ယုံကြည်ရသည်ဟု သင်မှတ်သားထားခြင်းမရှိသော စက်များ</string>
+    <string name="normal_device_desc_limit">သင်ချိတ်ဆက်ထားသော်လည်း ယုံကြည်ရသည်ဟု သင်မှတ်သားထားခြင်းမရှိသော စက်များ</string>
+    <string name="normal_device_none">ဤနေရာတွင် ယခင်က ချိတ်ဆက်ခဲ့သော စက်များ မရှိပါ</string>
+    <string name="normal_device_title">စိတ်မချရသော စက်များ</string>
+    <string name="notification_cast_desc">ကာစ်တ်လုပ်နေသည်…</string>
+    <string name="notification_desc_scanning">အနီးအနားရှိ စက်များကို ရှာနေသည်…</string>
     <string name="notification_rc_title">XiaoMi တီဗီအကူ</string>
     <string name="notification_show_more">အခြားအင်္ဂါရပ်များကြည့်ရန် တို့ပါ</string>
     <string name="open_game_accelerate">ဂိမ်းအရှိန်မြှင့်စနစ်ကို ဖွင့်ရန်</string>
+    <string name="path_setting_cast">ချိတ်ဆက်မှု &amp; မျှဝေခြင်း/ကာစ်လုပ်ခြင်း</string>
+    <string name="path_setting_cast_demo">ချိတ်ဆက်မှု&amp; မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ</string>
+    <string name="path_setting_cast_demo_document">ချိတ်ဆက်မှု&amp; မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ/မှတ်တမ်းများ</string>
+    <string name="path_setting_cast_demo_gallery">ချိတ်ဆက်မှု &amp; မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ/ဓာတ်ပုံများ &amp; ဗီဒီယိုများ</string>
+    <string name="path_setting_cast_demo_game">ချိတ်ဆက်မှု&amp; မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ/ဂိမ်းများ</string>
+    <string name="path_setting_cast_feature">ချိတ်ဆက်မှု &amp; မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အထူးအင်္ဂါရပ်များ</string>
+    <string name="path_setting_cast_help">ချိတ်ဆက်မှု&amp; မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အကူအညီ</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_agree">သဘောတူသည်</string>
     <string name="privacy_detail">&lt;Data>ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့်ချိတ်ပြီး လိုအပ်သော ကိုယ်ရေးကိုယ်တာဒေတာများကို ကောက်ယူရန်လိုအပ်သည်။ အသုံးပြုသူတစ်ဦးအနေနှင့် ရနိုင်သော အခွင့်အရေးများနှင့် သင့်ဒေတာများကို ကျွန်ုပ်တို့က အသုံးပြုပုံပြုနည်းများကို ကောင်းစွာနားလည်ရန် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
@@ -349,6 +363,13 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="toast_turn_off_hotspot_before_cast">လွှင့်တင်ခြင်းမပြုမီ အိတ်ဆောင်ဟော့စပေါ့ကို ပိတ်ပါ</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
+    <string name="trust_device_desc">အနီးအနားတွင် ရှိနေသောအခါ ဤစက်များ ဦးစွာပေါ်လာပါမည်</string>
+    <string name="trust_device_dialog_desc">&lt;Data>%s ကို ယုံကြည်သည်ဟု သင်မှတ်သားထားပါက အနီးအနား၌ ၎င်းရှိနေသောအချိန်တွင် ရရှိနိုင်သော စက်များအကြား ၎င်းက ဦးစွာပေါ်လာပါမည်။&lt;br>&lt;br>သင့်အနေဖြင့် ဆက်တင်များအတွင်းတွင် &lt;a href=milink://com.milink.service/trust>ယုံကြည်ရသော စက်များကို စီမံနိုင်သည်&lt;/a>။&lt;/Data></string>
+    <string name="trust_device_dialog_pos">ယုံကြည်ရသော</string>
+    <string name="trust_device_dialog_title">ဤစက်ကို ယုံကြည်ပါသလား။</string>
+    <string name="trust_device_manager">ယုံကြည်ရသောစက်များကို စီမံရန်</string>
+    <string name="trust_device_none">ဤနေရာတွင် ယုံကြည်ရသောစက်များ မရှိပါ</string>
+    <string name="trust_device_title">ယုံကြည်ရသော စက်များ</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>

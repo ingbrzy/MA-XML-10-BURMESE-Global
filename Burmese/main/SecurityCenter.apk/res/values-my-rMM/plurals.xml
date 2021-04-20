@@ -60,8 +60,14 @@
     <plurals name="app_usage_year">
         <item quantity="other">လွန်ခဲ့သော %d နှစ်က သုံးထားသည်</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">%1$s အက်ပ်ဖြင့် အက်ပ်သော့ကို သုံးနိုင်ပါသည်</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">အနည်းဆုံး အက်(ပ်) %s ခုကို ကာကွယ်နိုင်သည်</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">အက်ပ် %s ခုအား အက်ပ်သော့ဖြင့် ကာကွယ်ပေးပါမည်</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">အက်ပ် %d ခုသာ နောက်ခံတွင် ကွန်ရက်သို့ ချိတ်ဆက်နိုင်သည်</item>
@@ -218,6 +224,12 @@
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%1$s အပါအဝင် အက်ပ် %2$d ခုကြောင့် ဘက်ထရီ သုံးစွဲမှုများနေသည်</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">ဓာတ်ခဲသုံးစွဲမှုဆိုင်ရာ ပြဿနာ %d ခု</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">ဓာတ်ခဲချွေတာရန် အမယ် %d ခုကို အဆင့်မြှင့်ပါ</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">နောက်ဆုံးစစ်ဆေးခြင်းပြီးကတည်းက %d ရက်</item>
     </plurals>
@@ -302,14 +314,44 @@
     <plurals name="people_million">
         <item quantity="other">လူ %1$d ယောက်မှ ဒေါင်းလုဒ်လုပ်ထားသည်</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">ကြိမ်ရေ</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">ဓာတ်ခဲသုံးစွဲမှုဆိုင်ရာ ပြဿနာ %d ခု</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ရက် "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" နာရီ"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" မိနစ်"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">စာရင်းအမှန်ရရှိရန် သင့်စက်ကို အနည်းဆုံး %2$d ကြိမ် အားအပြည့်သွင်းပါ</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d နာရီ "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d မိနစ် "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">ဓာတ်ခဲသုံးစွဲမှုဆိုင်ရာ ပြဿနာ %d ခုကို ပြင်ပါ</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">ဓာတ်ခဲသုံးစွဲမှုဆိုင်ရာ ပြဿနာ %d ခုကို ပြင်နိုင်သည်</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" အမယ် %d ခုကို အဆင့်မြှင့်နိုင်သည်"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">ဓာတ်ခဲချွေတာရန် အမယ် %d ခုကို အဆင့်မြှင့်ပါ</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">ဓာတ်ခဲချွေတာရန် အမယ် %d ခုကို အဆင့်မြှင့်နိုင်သည်</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>
@@ -337,6 +379,12 @@
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">စက္ကန့် %d အကြာတွင် သင့်စက် ပိတ်သွားပါမည်။ အားသွင်းကြိုးနှင့် ချိတ်ဆက်ပါ။</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">အက်(ပ်) %d မျိုးက အခါအားလျော်စွာ အလိုအလျောက်စနေသည်</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">အက်(ပ်) %d မျိုးက ဓာတ်ခဲကုန်စေသည်</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d အက်ပ် အိုင်ကွန်ကို ကွယ်ဝှက်ထားသည်</item>

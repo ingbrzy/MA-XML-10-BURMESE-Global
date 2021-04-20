@@ -394,6 +394,7 @@
     <string name="navigation_type_full_screen">ဟန်ပန်များ</string>
     <string name="navigation_type_title">စနစ်အညွှန်း</string>
     <string name="navigation_type_virtual_key">ခလုတ်များ</string>
+    <string name="network_error">ကွန်ရက်သို့ ချိတ်ဆက်၍မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="no_detail_page">အသေးစိတ် စာမျက်နှာ မရှိပါ</string>
     <string name="no_space_toast">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
     <string name="no_space_toast_when_click_widget">ဤစာမျက်နှာပေါ်တွင် နေရာလွတ် အလုံအလောက်မရှိပါ။ ဤပစ္စည်းအား အခြားစာမျက်နှာတစ်ခုသို့ ဆွဲသွင်းရန် ကြိုးစားပါ။</string>
@@ -488,6 +489,8 @@
     <string name="remove_dialog_message">ရွေးချယ်ထားသော အက်ပ်များတွင် မရှိမဖြစ်လိုအပ်သော စနစ်ပိုင်းဆိုင်ရာ အထူးပြုလုပ်ချက်များ ပါဝင်သည်။ ၎င်းတို့၏ ပင်မမျက်နှာပြင်ရှော့ကဒ်များကိုသာ သင်ဖယ်ရှားနိုင်ပါသည်။</string>
     <string name="remove_dialog_title_format">ပင်မမျက်နှာပြင်မှ %s ကို ဖယ်ရှားမလား။</string>
     <string name="remove_invalidate_gadget_tips">သင်သုံးသော ဝိဂျက်တစ်ခု မရရှိနိုင်တော့ပါ။ နောက်တစ်ခု ထည့်နိုင်ပါသည်။</string>
+    <string name="remove_sys_app_content">ပင်မမျက်နှာပြင်ရှော့ကတ်ကို ဆက်တင် > အက်(ပ်)များ > ပင်မမျက်နှာပြင်ရှော့ကတ်များစီမံခန့်ခွဲရန်တွင် ပြန်ထည့်နိုင်သည်။ ယခုဖြုတ်လိုသလား။</string>
+    <string name="remove_sys_app_title">ပင်မမျက်နှာပြင်ရှော့ကတ်မှ ဖြုတ်လိုသလား။</string>
     <string name="reset_cate_tip_content">ဆက်လုပ်ပါက အက်ပ်များအား မူလအုပ်စုအတိုင်း ပြန်လည်ထားရှိပေးပါမည်။ မည်သို့ပင်ဆိုစေ ဆက်လုပ်မလား။</string>
     <string name="reset_cate_tip_title">မူလအုပ်စုအတိုင်း ပြန်လည်ထားရှိမည်</string>
     <string name="reset_description_first_time">အပြင်အဆင်အား %1$s မှ နှစ်နာရီအတွင်း ပြန်လည်ရယူနိုင်ပါသည်</string>
@@ -496,6 +499,7 @@
     <string name="reset_scene_prompt">မျက်နှာပြင်အား မူလပုံစံ အပြင်အဆင်သို့ ပြန်သတ်မှတ်ပါမည်။</string>
     <string name="reset_title">ပြန်လည်ရယူမည်</string>
     <string name="restore_icon_successful">အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
+    <string name="russia_preinstall_folder_name">ရုရှား</string>
     <string name="screen_cells_config_title">ပင်မမျက်နှာပြင် အပြင်အဆင်</string>
     <string name="screen_locked_toast">ပင်မမျက်နှာပြင် အပြင်အဆင်အား လော့ခ်ချထားသည်။</string>
     <string name="screen_number">မျက်နှာပြင် %d</string>
@@ -504,6 +508,7 @@
     <string name="select_all">အားလုံး ရွေးပါ</string>
     <string name="select_frame">ဖရိန်</string>
     <string name="select_photo">ဓာတ်ပုံ</string>
+    <string name="server_error">ဆာဗာအမှား တစ်ခု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="setting_wallpaper_tip">ချိန်ညှိရန် လက်ချောင်းများဖြင့် ဖိနှိပ်ပါ (သို့) ပွတ်ဆွဲပါ</string>
     <string name="settings">ဆက်တင်များ</string>
     <string name="settings_shortcut">ဆက်တင်များ</string>

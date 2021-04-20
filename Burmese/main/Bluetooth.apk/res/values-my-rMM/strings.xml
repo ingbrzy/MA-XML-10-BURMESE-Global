@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="bt_audio_share_notification_content">ရွေးချယ်မှုများကြည့်ရန်ကို ထိနှိပ်ပါ</string>
+    <string name="bt_audio_share_notification_title">အသံမျှဝေရန်</string>
     <string name="miui_transfer_history_title">ဘလူးတုသ် လွှဲပြောင်းခြင်းများ</string>
     <string name="miui_transfer_inbound_title">သုံးသူမှ စင်တာကို ဆက်သွယ်ခြင်း</string>
     <string name="miui_transfer_outbound_title">စင်တာမှ သုံးသူကို ဆက်သွယ်ခြင်း</string>
+    <string name="notice_audio_share_disconnected">ပြတ်တောက်သွားသော ချိတ်ဆက်မှုကြောင့် အသံမျှဝေခြင်း မရှိတော့ပါ</string>
     <string name="switch_audio_device_bt_a2dp">ဘလူးတု (မီဒီယာအသံ)</string>
     <string name="switch_audio_device_bt_a2dp_summary">ချိတ်ဆက်ထာသောစက်တွင် မီဒီယာအသံဖွင့်ပါ</string>
     <string name="switch_audio_device_bt_hfp">ဘလူးတု (ဖုန်းခေါ်ဆိုမှုများ)</string>

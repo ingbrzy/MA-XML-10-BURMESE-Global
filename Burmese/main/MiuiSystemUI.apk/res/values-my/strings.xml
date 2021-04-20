@@ -100,6 +100,8 @@
     <string name="accessibility_divider">မျက်နှာပြင်ခွဲခြမ်း ပိုင်းခြားပေးသည့်စနစ်</string>
     <string name="accessibility_ethernet_connected">Ethernet ချိတ်ဆက်ထား။</string>
     <string name="accessibility_ethernet_disconnected">Ethernet နှင့်ချိတ်ဆက်မှုပြတ်တောက်</string>
+    <string name="accessibility_face_dialog_face_icon">မျက်နှာသင်္ကေတ</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">လက်ဗွေ သင်္ကေတ</string>
     <string name="accessibility_gps_acquiring">GPS ဖမ်းယူနေသည်။</string>
     <string name="accessibility_gps_enabled">GPSသုံးစွဲနိုင်သည်</string>
     <string name="accessibility_home">ပင်မစာမျက်နှာ</string>
@@ -322,6 +324,38 @@
     <string name="battery_saver_notification_text">လုပ်ကိုင်မှုကို လျှော့ချလျက် နောက်ခံ ဒေတာကို ကန့်သတ်သည်</string>
     <string name="battery_saver_notification_title">ဘက်ထရီ ချွေတာသူ ဖွင့်ထား</string>
     <string name="battery_saver_start_action">ဘက်ထရီ ချွေတာမှုကို ဖွင့်ရန်</string>
+    <string name="biometric_dialog_authenticated">အထောက်အထားစိစစ်ပြီးပြီ</string>
+    <string name="biometric_dialog_confirm">အတည်ပြုပါ</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">ထပ်စမ်းကြည့်ပါ။ %2$d ကြိမ်အနက်မှ %1$d ကြိမ် ဖြစ်သည်။</string>
+    <string name="biometric_dialog_credential_too_many_attempts">"မှားသည့် အကြိမ် အရေအတွက် အလွန်များသည်။
+%dစက္ကန့်အကြာတွင် ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="biometric_dialog_empty_space_description">အထောက်အထားစိစစ်ခြင်းကို ပယ်ဖျက်ရန် တို့ပါ</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">မျက်နှာ အထောက်အထားစိစစ်ပြီးပြီ</string>
+    <string name="biometric_dialog_face_icon_description_authenticating">သင့်မျက်နှာကို ရှာနေသည်</string>
+    <string name="biometric_dialog_face_icon_description_confirmed">အတည်ပြုပြီးပြီ</string>
+    <string name="biometric_dialog_face_icon_description_idle">ထပ်စမ်းကြည့်ပါ</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_device">မှားယွင်းသည့် အကြိမ်ရေ အလွန်များနေပါပြီ။ ဤစက်၏ ဒေတာကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">မှားယွင်းသည့် အကြိမ်ရေ အလွန်များနေပါပြီ။ ဤအလုပ်ပရိုဖိုင်နှင့် ၎င်း၏ ဒေတာကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_user">မှားယွင်းသည့် အကြိမ်ရေ အလွန်များနေပါပြီ။ ဤအသုံးပြုသူကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">သင်၏ဒေတာများ ပျက်သွားပါလိမ့်မည်</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_device">မှားယွင်းသည့် စကားဝှက်ကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤစက်ပစ္စည်းပေါ်ရှိ ဒေတာများကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">မှားယွင်းသည့် စကားဝှက်ကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက သင်၏အလုပ်ပရိုဖိုင်နှင့် ၎င်း၏ ဒေတာများကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_user">မှားယွင်းသည့် စကားဝှက်ကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤအသုံးပြုသူကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">မှားယွင်းသည့် ပုံစံကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤစက်ပစ္စည်းပေါ်ရှိ ဒေတာများကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">မှားယွင်းသည့် ပုံစံကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက သင်၏အလုပ်ပရိုဖိုင်နှင့် ၎င်း၏ ဒေတာများကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">မှားယွင်းသည့် ပုံစံကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤအသုံးပြုသူကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_device">မှားယွင်းသည့် ပင်နံပါတ်ကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤစက်ပစ္စည်းပေါ်ရှိ ဒေတာများကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">မှားယွင်းသည့် ပင်နံပါတ်ကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက သင်၏အလုပ်ပရိုဖိုင်နှင့် ၎င်း၏ဒေတာများကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_user">မှားယွင်းသည့် ပင်နံပါတ်ကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤအသုံးပြုသူကို ဖျက်လိုက်ပါမည်။</string>
+    <string name="biometric_dialog_now_wiping_dialog_dismiss">ပယ်ရန်</string>
+    <string name="biometric_dialog_tap_confirm">"အပြီးသတ်ရန်အတွက် 'အတည်ပြုရန်' ကို တို့ပါ"</string>
+    <string name="biometric_dialog_try_again">ထပ်စမ်းကြည့်ရန်</string>
+    <string name="biometric_dialog_use_password">စကားဝှက် သုံးရန်</string>
+    <string name="biometric_dialog_use_pattern">ပုံစံကို သုံးရန်</string>
+    <string name="biometric_dialog_use_pin">ပင်နံပါတ်သုံးရန်</string>
+    <string name="biometric_dialog_wrong_password">စကားဝှက် မှားနေသည်</string>
+    <string name="biometric_dialog_wrong_pattern">ပုံစံ မှားနေသည်</string>
+    <string name="biometric_dialog_wrong_pin">ပင်နံပါတ် မှားနေသည်</string>
     <string name="blob_expires_text">%s တွင် သက်တမ်းကုန်ပါမည်</string>
     <string name="blob_id_text">မျှဝေထားသော ဒေတာ ID- %d</string>
     <string name="block">သတိပေးချက်များအားလုံးကို ပိတ်ဆို့ပါ</string>
@@ -562,7 +596,9 @@
     <string name="experimental">စမ်းသပ်ရေး</string>
     <string name="external_source_trusted">ခွင့်ပြုထားသည်</string>
     <string name="external_source_untrusted">ခွင့်မပြုပါ</string>
+    <string name="face_dialog_looking_for_face">သင့်ကို ရှာဖွေနေသည်…</string>
     <string name="failed_to_open_app_settings_toast">%1$sအတွက် ဆက်တင်းများဖွင့်ရန် မအောင်မြင်ပါ။</string>
+    <string name="fingerprint_dialog_touch_sensor">လက်ဗွေအာရုံခံကိရိယာကို တို့ပါ</string>
     <string name="fingerprint_not_recognized">မသိပါ</string>
     <string name="force_allow_on_external">ပြင်ပစက်တွင် အက်ပ်များခွင့်ပြုရန်</string>
     <string name="force_allow_on_external_summary">တိကျစွာ သတ်မှတ်ထားသည့်တန်ဖိုးများရှိသော်လည်း၊ ပြင်ပသိုလှောင်ခန်းများသို့ မည်သည့်အက်ပ်ကိုမဆို ဝင်ရောက်ခွင့်ပြုပါ</string>
@@ -695,6 +731,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ်မရှိပါ သို့မဟုတ် အသုံးပြု၍မရပါ။ ဆင်းမ်ကဒ်တစ်ခု ထည့်ပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကဒ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက်ကို လော့ခ်ချထားသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖွင့်ရန် စကားဝှက်ကို ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">ပင်နံပါတ်ထည့်ပါ</string>
@@ -710,6 +747,7 @@
     <string name="keyguard_plugged_in">အားသွင်းနေပါသည်</string>
     <string name="keyguard_plugged_in_charging_fast">လျှင်မြန်စွာ အားသွင်းနေသည်</string>
     <string name="keyguard_plugged_in_charging_slowly">နှေးကွေးစွာ အားသွင်းနေသည်</string>
+    <string name="keyguard_retry">ထပ်စမ်းကြည့်ရန် အပေါ်သို့ပွတ်ဆွဲပါ</string>
     <string name="keyguard_sim_locked_message">ဆင်းမ်ကဒ် လော့ခ်ကျနေပါသည်။</string>
     <string name="keyguard_sim_puk_locked_message">ဆင်းမ်ကဒ်သည် ပင်နံပါတ် ပြန်ဖွင့်သည့်ကုဒ် လော့ခ်ကျနေပါသည်။</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">ဆင်းမ်ကဒ်ကို လော့ခ်ဖွင့်နေပါသည်…</string>
@@ -814,12 +852,14 @@
 
 နောက်ထပ် အချက်အလက်များအတွက် သင်၏ စီမံခန့်ခွဲသူကို ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်စိတ်ချရသော အထောက်အထားများကို ဖွင့်ရန်</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ဤစက်ပစ္စည်းတွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body">စီမံသူသည် ဆက်တင်၊ ကော်ပိုရိတ်သုံးခွင့်၊ အက်ပ်၊ စက်ပစ္စည်းနှင့်ဆိုင်သောဒေတာနှင့် ၎င်း၏တည်နေရာအချက်အလက်ကိုစောင့်ကြည့်စီမံနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ သင်သည် ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_do_header_generic">သင့်စက်ပစ္စည်းကို %1$s က စီမံခန့်ခွဲထားပါသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$s သည် သင့်စက်ပစ္စည်းကို စီမံခန့်ခွဲရန် %2$s ကို အသုံးပြုပါသည်။</string>
     <string name="monitoring_description_do_learn_more">ပိုမိုလေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏ အဖွဲ့အစည်းသည် သင်၏ အလုပ်ပရိုဖိုင်တွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ်ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_management">"သင့်စက်ပစ္စည်းကို သင်၏အဖွဲ့အစည်းက စီမံခန့်ခွဲထားပါသည်။
@@ -851,6 +891,7 @@
 
 သင်သည် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် VPN သို့လည်း ချိတ်ဆက်ထားပါသေးသည်။"</string>
     <string name="monitoring_description_vpn_settings">Open VPN ဆက်တင်များ</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA အသိအမှတ်ပြုလက်မှတ်</string>
     <string name="monitoring_subtitle_network_logging">ကွန်ရက်မှတ်တမ်းတင်ခြင်း</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -991,6 +1032,7 @@
     <string name="private_dns_mode_provider">သီးသန့် DNS ဝန်ဆောင်မှုပေးသူအမည်</string>
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS ဝန်ဆောင်ပေးသူအမည်ကို ထည့်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ချိတ်ဆက်ရာတွင် ပြဿနာရှိပါသည်။ စက်ကိုပိတ်ပြီး ပြန်ဖွင့်ပါ</string>
     <string name="profile_info_settings_title">ကိုယ်ရေးအချက်အလက်</string>
     <string name="profile_owned_footer">ပရိုဖိုင်ကို စောင့်ကြပ်နိုင်သည်</string>

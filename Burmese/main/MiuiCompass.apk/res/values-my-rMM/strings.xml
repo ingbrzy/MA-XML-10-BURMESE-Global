@@ -96,6 +96,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="gradienter_title">တန်းညှိကိရိယာ</string>
     <string name="guide_toast">စံကိုက်ချိန်ညှိရန် သင့်ဖုန်းကို အောက်ပါအတိုင်း ရွှေ့ပါ။</string>
     <string name="latitude">လတ္တီတွဒ်</string>
     <string name="location_east">အရှေ့အရပ်</string>
@@ -187,6 +188,8 @@
     <string name="pressure">%.1f</string>
     <string name="pressure_title">လေထုဖိအား</string>
     <string name="pressure_unit">လေထုဖိအားအမြင့်</string>
+    <string name="remove_icon_description_content">သံလိုက်အိမ်မြောင်သည် စနစ်အက်ပ် ဖြစ်သည်။ သင်သည် ပင်မမျက်နှာပြင် ရှော့(တ်)ကတ်ကို ဖယ်ရှားပြီးနောက် ၎င်းကို ဦးတည်ရာများ၊ ကိုဩဒီနိတ်များ၊ လေထု ဖိအားနှင့် လက်ရှိ အမြင့်ကို စစ်ဆေးရန် အသုံးပြုနိုင်မည် မဟုတ်ပါ။</string>
+    <string name="remove_icon_description_title">ပင်မမျက်နှာပြင်မှ \"သံလိုက်အိမ်မြောင်\" ကို ဖယ်ရှားမလား။</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>

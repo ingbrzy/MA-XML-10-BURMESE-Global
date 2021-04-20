@@ -7,6 +7,12 @@
     <string name="add_custom_image">စိတ်ကြိုက်ပုံ</string>
     <string name="add_from_album">ပြခန်းမှ ယူထည့်ရန်</string>
     <string name="afternoon">နေ့လယ်</string>
+    <string name="align_center_horizontally">အလျားလိုက် အလယ်ဗဟိုတွင် ချိန်ညှိထားသည်</string>
+    <string name="align_center_vertically">ဆင့်ဆီ၍ အလယ်ဗဟိုတွင် ချိန်ညှိထားသည်</string>
+    <string name="align_left_horizontally">အလျားလိုက် ဘယ်ဘက်တွင် ချိန်ညှိထားသည်</string>
+    <string name="align_left_vertically">ဆင့်ဆီ၍ ဘယ်ဘက်တွင် ချိန်ညှိထားသည်</string>
+    <string name="align_right_horizontally">အလျားလိုက် ညာဘက်တွင် ချိန်ညှိထားသည်</string>
+    <string name="align_right_vertically">ဆင့်ဆီ၍ ညာဘက်တွင် ချိန်ညှိထားသည်</string>
     <string name="align_type">ချိန်ရန်</string>
     <string name="always_style">အမြဲတမ်း</string>
     <string name="always_style_symmary">ပိုမိုရယူအသုံးပြုပါ</string>
@@ -31,6 +37,7 @@ EE"</string>
     <string name="aod_show_date_and_time">ရက်စွဲနှင့် အချိန်ပြပါ</string>
     <string name="aod_show_style_title">အိုင်တမ်များအား ပြပါ</string>
     <string name="aod_style">အပြင်အဆင်</string>
+    <string name="aod_theme_store">အမြဲပြသမျက်နှာပြင် အပြင်အဆင်များ</string>
     <string name="aod_to_close">ပိတ်မည်</string>
     <string name="apply">သုံးရန်</string>
     <string name="apply_succeed">အောင်မြင်စွာသတ်မှတ်လိုက်ပါပြီ</string>

@@ -72,6 +72,9 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">အက်ပ် %d ခုမှအသိပေးချက်များ ဖော်ပြနိုင်သည်။</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">သင့်နားကြပ်တစ်ဖက်သည် %d မိနစ်ထက် ပိုပြီး နားတွင်မရှိလျှင်လည်းကောင်း အားသွင်းဘူးတွင်မရှိလျှင်လည်းကောင်း သတိပေးချက်ရယူပါ</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">လော့ခ်ဖြည်မှု %d ကြိမ်</item>
     </plurals>

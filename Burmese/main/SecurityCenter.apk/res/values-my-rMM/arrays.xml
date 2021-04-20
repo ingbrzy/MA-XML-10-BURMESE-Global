@@ -69,6 +69,19 @@
         <item>သင့်မျက်နှာပေါ်ရှိ အကြောင်းအရာများအား အဝေးမှ စောင့်ကြည့်မှတ်တမ်းတင်ခြင်းကိုလည်း ဆောင်ရွက်နိုင်ပါလိမ့်မည်။</item>
         <item>သင့်စက်နှင့် သက်ဆိုင်သော အသေးစိတ် အချက်အလက်များကိုလည်း ဝင်ရောက်ကြည့်ရှုနိုင်ပေလိမ့်မည်။</item>
     </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>အနိမ့်ဆုံး</item>
+        <item>အနိမ့်</item>
+        <item>ပုံမှန်</item>
+        <item>အမြင့်</item>
+        <item>အမြင့်ဆုံး</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>စက်သော့ခတ်ထားသည့်အခါ</item>
         <item>စက်အားသော့ခတ်စဉ် သို့မဟုတ် အက်ပ်မှထွက်ပြီးနောက်</item>
@@ -87,10 +100,20 @@
         <item>အရေးကြီးသောအချက် - စနစ်အက်ပ်မျိုးစုံရှိနေခြင်းသည် ကျနမှန်ကန်စွာ အလုပ်လုပ်ခြင်းကို ရပ်တန့်သွားစေနိုင်ပါသည်။</item>
         <item>စာသားအပြင်အဆင်များ၊ အကောင့်များနှင့် အကြောင်းအရာများကို မှန်ကန်စွာ ပြသနိုင်ဖွယ် မရှိပါ။</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -100,6 +123,10 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>သတိပေးချက် ပြပါ</item>
         <item>သတိပေးပြီးမိုဘိုင်းဒေတာကို ပိတ်ပါ</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>မူလ</item>

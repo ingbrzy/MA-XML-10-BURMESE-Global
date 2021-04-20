@@ -74,8 +74,11 @@
     <string name="input_method_category">အီးမေးလ်များ၊ မှတ်ချက်များနှင့် ဘယ်နေရာက ဘယ်လိုအကြာင်းကိစ္စမျိုးမဆို သင်ရေးသားသောအခါ သုံးနိုင်သော သတ်မှတ်ပုံစံ ကီးဘုတ်ကို ရွေးပါ။ အခြား တတိယ-ပါတီ ကီးဘုတ်များကိုလည်း နောင်တွင် သင် တပ်ဆင်နိုင်သည်ကို သတိမူပါ။</string>
     <string name="input_method_setting">ကီးဘုတ်ရွေးချယ်ပါ</string>
     <string name="install_preinstall_app">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
+    <string name="item_contents_wwarning">မျက်နှာပြင်သော့ကို သင်သတ်မှတ်ထားခြင်း မရှိပါက သင့်စက် ပျောက်ဆုံးသွားသောအခါတွင် အခြားသူများက ၎င်းကို အသုံးပြုခြင်းနှင့် သင်၏ ဒေတာကို ဝင်ကြည့်ခြင်းမှ ကြိုတင်ကာကွယ်နိုင်မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ကျော်လိုသလား။</string>
     <string name="item_fingerprint">လက်ဗွေ</string>
     <string name="item_lock_screen_password">မျက်နှာပြင်လော့ခ် သာ</string>
+    <string name="item_return">သတ်မှတ်ရန်</string>
+    <string name="item_skip">ကျော်ရန်</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">တည်နေရာအချက်အလက်များကို အရေးပေါ်ကယ်ဆေးရေး အေဂျင်စီများနှင့် မျှဝေခြင်း</string>
     <string name="language_picker_other_languages_title">ဘာသာစကားပိုမို၍</string>
@@ -126,6 +129,7 @@
     <string name="other_settings_user_experience">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="other_settings_user_experience_summary">သင်၏သုံးစွဲမှုအခြေအနေအား ပေးပို့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ထုတ်ကုန်နှင့် ဝန်ဆောင်မှုများကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးပါ။ အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="other_settings_user_experience_summary_index">အသေးစိတ် ကြည့်ရှုရန်</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">သင့်စက်ရှိ အကောင့်အချက်အလက်များကို ဖတ်ရန် -</string>
     <string name="permission_account_introduction">Mi အကောင့်ဖြင့် အကောင့်ဝင်ခြင်းအတွက်</string>
     <string name="permission_application_package_introduction">ထည့်သွင်းပက်ကေ့(ဂျ်)များကို စိစစ်ရန်နှင့် စကန်ဖတ်နိုင်ရန် သိုလှောင်ခန်းကို ဖတ်ခြင်းအတွက်</string>
@@ -158,6 +162,10 @@
     <string name="permission_picture_introduction">ဓာတ်ပုံနှင့် ဗီဒီယိုများကို သိမ်းခြင်း၊ တည်းဖြတ်ခြင်းနှင့် ဆင့်(ခ်)လုပ်ခြင်းတို့အတွက်</string>
     <string name="permission_read_call_records">ခေါ်ဆိုမှုမှတ်တမ်း တည်းဖြတ်ရန် -</string>
     <string name="permission_read_call_records_introduction">ခေါ်ဆိုမှုမှတ်တမ်းတွင် ထည့်သွင်းခြင်းနှင့် ပိတ်ဆို့ထားသောခေါ်ဆိုမှုများကို ဖျက်ခြင်းတို့အတွက်</string>
+    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
+    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">မှတ်စုများနှင့် ပူးတွဲပါဖိုင်များကို ဖတ်ခြင်းအတွက်</string>
     <string name="permission_read_write_file">သင့်စက်ရှိ ဖိုင်များနှင့် ဓာတ်ပုံများကို ဖတ်ရန်နှင့် သိမ်းရန် -</string>
     <string name="permission_read_write_file_introduction">သင့်စက်ရှိအရာများကို ဖတ်ခြင်း၊ သိမ်းခြင်းနှင့် ကက်(ချ်)လုပ်ခြင်းများအတွက်</string>
@@ -178,8 +186,7 @@
     <string name="pref_title_voice_slot">အသံ ဆင်းမ်ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
     <string name="privacy_policy">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="protect_persoanl_info_statement">ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။</string>
-    <string name="provision_inputmethod_policy_description">"
-ရွေးထားသော ကီးဘုတ်၏ ကိုယ်ရေးမူဝါဒအား ကြည့်ပါ"</string>
+    <string name="provision_inputmethod_policy_description">&lt;Data>သင်ရွေးထားသော ကီးဘုတ်၏ &lt;a href=%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a > ကို ကြည့်ပါ။&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
     <string name="recorder_introduction">ဤအက်(ပ်)ဖြင့် အသံသွင်းနိုင်ပြီး သွင်းထားသောအသံများကို ကလောက်သို့ အရန်သိမ်းနိုင်သည်။</string>
     <string name="require_authority_statement">သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန် ကျွန်ုပ်တို့က သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်ပေးရပါမည် -</string>
@@ -188,6 +195,7 @@
     <string name="security_introduction">သင့်စက်ပေါ်ရှိ အမှိုက်များကို ရှင်းရန်၊ ဗိုင်းရပ်စ်ရှာ၍ သတ်ရန်၊ ဂိမ်းကစားခြင်းအတွက် စွမ်းဆောင်မှုကို အစွမ်းကုန်မြှင့်တင်ရန်၊ အက်ပ်များကို စီမံရန်၊ ခွင့်ပြုချက်များပေးရန်နှင့် အစရှိသည်တို့အတွက် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်ပါသည်။</string>
     <string name="security_mobile_account_introduction">စနစ်အကောင့်များသို့ ဝင်ခြင်းနှင့် စီမံခန့်ခွဲခြင်းတို့အတွက်</string>
     <string name="service_agreement">ကျွန်ုပ်သည် စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">ပြခန်း</string>
     <string name="service_name_application_package">ပက်ကေ့(ဂျ်) ထည့်သွင်းသူ</string>
     <string name="service_name_backup">အရန်သိမ်းခြင်းများ</string>
@@ -260,6 +268,7 @@
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="terms_privacy_policy_input_method_kika">Kika ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="title_fingerprint">စကားဝှက် သတ်မှတ်ပါ</string>
+    <string name="title_set_fingerprint">မျက်နှာပြင်သော့</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီချက်</string>
     <string name="user_agreement_declare">သင့်အနေဖြင့် MIUI ကိုအသုံးမပြုမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုလက်ခံပေးရပါမည်။ သင့်စက်ပစ္စည်းကို အသုံးပြုနေစဉ်တွင် Mi SIM အသက်သွင်း ဝန်ဆောင်မှု၊ Xiaomi Cloud၊ စက်ရှာဖွေစနစ်၊ မူလမျက်နှာပြင်၊ မကြာခဏအသုံးပြုသော စကားစုများ၊ ဘာသာပြန် ဝန်ဆောင်မှု၊ MIUI Daemon၊ HTML Viewer၊ MIUI SDK၊ AI Assistant၊ ဘက်ထရီနှင့် စွမ်းဆောင်မှု၊ ပါဝါဖမ်းစနစ်၊ Joyose၊ OS AI ဆက်တင်၊ Permissions Manager နှင့် Updater တို့အား အင်တာနက်နှင့် ချိတ်ဆက်ပေးရပါမည်။ စမတ်ဝန်ဆောင်မှုများကလည်း အင်တာနက်နှင့် ချိတ်ဆက်၍ သင့်တည်နေရာကို ရယူအသုံးပြုပါမည်။</string>
     <string name="voice_assist_advice">Mi AI သည် အသံထိန်းချုပ်မှုအား သုံးရန် ခွင့်ပြုသည်၊ သို့သော် ဘက်ထရီ ပိုကုန်စေနိုင်သည် (၁ နာရီလျှင် ၁%)။</string>
@@ -268,6 +277,15 @@
 ၂။ မျက်နှာပြင်အား ပိတ်၍ သီချင်းနားထောင်သောအခါ။"</string>
     <string name="voice_assist_desp">သင်၏ဖုန်းသို့ \"Mi AI\"ဟု ပြောပါ။ Mi AI သည် သင်၏အသံကို မှတ်ထားပြီး ဖုန်းကို ထိန်းချုပ်နိုင်မည်။</string>
     <string name="voice_assist_title">အသံဖြင့် နှိုးပါ</string>
+    <string name="wc_dialog_agree">သဘောတူရန်</string>
+    <string name="wc_dialog_reject">သဘောမတူပါ</string>
+    <string name="wc_dialog_summary">နောက်ခံပုံရဟတ်က အကောင်းစားပုံများနှင့် ဇာတ်လမ်းများကို သင့်သော့ချမျက်နှာပြင်သို့ နေ့စဉ် ပို့ပေးပါသည်။</string>
+    <string name="wc_dialog_title">သော့ချမျက်နှာပြင်ကို ပုံပြန်ပြင်ရန်</string>
+    <string name="wc_double_check_agree">စမ်းသုံးရန်</string>
+    <string name="wc_double_check_reject">မသုံးပါ</string>
+    <string name="wc_double_check_summary">နောက်ခံပုံရဟတ်သည် သင့်အတွက် အလုပ်လုပ်မလုပ်သိနိုင်ရန် ၎င်းကို ဖွင့်ကြည့်ပါ။ နောက်ခံပုံရဟတ်ကို ဆက်တင်များ > သော့ချမျက်နှာပြင်တွင် အမြဲအဖွင့်အပိတ်လုပ်နိုင်ပါသည်။</string>
+    <string name="wc_double_check_title">နောက်ခံပုံရဟတ်ကို စမ်းသုံးပါ</string>
+    <string name="wc_notice_link_announcement_summary">ဤအင်္ဂါရပ်ကို မသုံးမီ ပြင်ပမှ အကြောင်းအရာဖော်ပြပေးသူ၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီမှု&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပေးပါ။</string>
     <string name="welcome">ကြိုဆိုပါသည်</string>
     <string name="zone_picker_title">အချိန်ဇုန်အား ရွေးပါ</string>
 </resources>

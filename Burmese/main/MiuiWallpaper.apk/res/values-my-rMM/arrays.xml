@@ -20,6 +20,11 @@
         <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
         <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>နှင်းဖုံးတောင်ထိပ်များ</item>
+        <item>နောက်ခံပုံ/ဆူပါနောက်ခံပုံများ/နှင်းဖုံးတောင်ထိပ်များ</item>
+        <item>ကမ္ဘာ၊တောင်များ၊ဆူပါနောက်ခံပုံ၊နောက်ခံပုံ</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>စူပါ နောက်ခံပုံများ</item>
         <item>နောက်ခံပုံ/ဆူပါနောက်ခံပုံများ</item>

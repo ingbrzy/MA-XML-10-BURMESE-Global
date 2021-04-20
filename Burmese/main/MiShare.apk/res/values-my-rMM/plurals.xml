@@ -88,7 +88,7 @@
         <item quantity="other">%1$s မှ ဗီဒီယို %2$d ခု လက်ခံရရှိခဲ့သည်</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">&lt;xliff:g example=Tony id=user_device_name>%1$s&lt;/xliff:g> မှ ဗီဒီယို xliff:g example=\"10\" id=\"video_count\">%2$d&lt;/xliff:g> ခုကို လက်ခံနေသည်…</item>
+        <item quantity="other">%1$s မှ ဗီဒီယို %2$d ခုကို လက်ခံနေသည်…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
         <item quantity="other">%1$s မှ မှတ်တမ်း %2$d ခု (%3$s)</item>

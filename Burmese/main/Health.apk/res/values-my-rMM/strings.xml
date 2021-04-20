@@ -117,6 +117,7 @@ to add cards"</string>
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">ရက်</string>
     <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
@@ -168,7 +169,7 @@ Xiaomi Health အနေဖြင့် အရေးကြီးသော အက�
     <string name="dialog_keep">Keep</string>
     <string name="dialog_known">ရပါပြီ</string>
     <string name="dialog_menstruation_purpose">Xiaomi Health မှ ကြိုဆိုပါသည်။ \"မီးယပ်သွေးပေါ်ခြင်းဆိုင်ရာ စောင့်ကြည့်စနစ်\" သည် ရာသီသွေးဆင်းသော အချိန်များကို မှတ်တမ်းတင်ခြင်း၊ နောက်တစ်ကြိမ် ရာသီသွေးဆင်းမည့် ခန့်မှန်းရက်စွဲများကို ချင့်တွက်ဆုံးဖြတ်ခြင်းနှင့် အသိပေးချက်များ လက်ခံရယူခြင်းတို့ကို ဆောင်ရွက်နိုင်စေပါသည်။</string>
-    <string name="dialog_new_version_title">An update is available</string>
+    <string name="dialog_new_version_title">အပ်ပဒိတ်တစ်ခုရှိသည်</string>
     <string name="dialog_no_more_prompt">နောက်ထပ် မပြပါနှင့်</string>
     <string name="dialog_ok">အိုကေ</string>
     <string name="dialog_open">ခွင့်ပြုမည်</string>
@@ -187,7 +188,7 @@ Xiaomi Health အနေဖြင့် အရေးကြီးသော အက�
     <string name="dialog_user_agreement_purpose">Xiaomi ကျန်းမာရေးမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)ကို ခြေလှမ်းများရေရန်၊ အိပ်ချိန်၊ ဓမ္မတာလာချိန်နှင့် ကိုယ်အလေးချိန်မှတ်သားရန်တို့အပြင် ၎င်းကိန်းဂဏန်းများကို ကလောက်တွင် ဆင့်(ခ်)လုပ်ရန်သုံးနိုင်သည်။</string>
     <string name="dialog_user_agreement_purpose2">Xiaomi ကျန်းမာရေးမှ ကြိုဆိုပါသည်။ သင့်ခြေလှမ်းများကိုရေရန်၊ အိပ်ချိန်ဆန်းစစ်ရန်၊ ဓမ္မတာများကို မှတ်သားရန်၊ ကိုယ်အလေးချိန် မှတ်သားရန်နှင့် အခြားအရာများအတွက် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="disable">Off</string>
-    <string name="discard_update">No thanks</string>
+    <string name="discard_update">မလုပ်လိုပါ</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -286,7 +287,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="feedback_need_permission_msg">တုံ့ပြန်အကြံပြုချက်အတွက် အသုံးပြုသော မှတ်တမ်းများထုတ်ပေးနိုင်ရန် Xiaomi ကျန်းမာရေးအား ပြင်ပသိုလှောင်ခန်းတွင် ရေးခွင့်ပြုပါ။</string>
     <string name="feedback_permission_denied_msg">Xiaomi ကျန်းမာရေးသည် မှတ်တမ်းများကို သင့်ပြင်ပသိုလှောင်ခန်းတွင် သိမ်းမရပါ။ ဆက်တင်သို့သွားပြီး Xiaomi ကျန်းမာရေးကို လိုအပ်သော ခွင့်ပြုချက်များပေးပါ။</string>
     <string name="fewer">Little</string>
-    <string name="find_new_verision">Version %s is available now</string>
+    <string name="find_new_verision">ဗားရှင်း %s ကို ယခု ရရှိနိုင်ပါပြီ</string>
     <string name="finish">ပြီးပါပြီ</string>
     <string name="finished_rate">Completed %1$d%%</string>
     <string name="fmt_date_day">dd</string>
@@ -367,7 +368,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
-    <string name="immediately_experience">Update</string>
+    <string name="immediately_experience">အသစ်မွမ်းမံ</string>
     <string name="improve_step_target">အမြဲလိုလို ရည်မှန်းချက်ပြည့်သည်။ ယခုထက်ပိုမြင့်သော ရည်မှန်းချက် ထားကြည့်ပါ။</string>
     <string name="improve_your_health_default_tips">ကျန်းမာစေရန်အတွက် လေ့ကျင့်ခန်းလုပ်ပြီး အိပ်ရေးဝအောင်အိပ်ပါ။</string>
     <string name="inactivated">Not activated</string>
@@ -413,6 +414,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
     <string name="load_failed">"Couldn't load items. Wait a minute or two and try again."</string>
     <string name="loading">Just a sec…</string>
+    <string name="location_perm_description">အပြင်ဖက်လေ့ကျင့်ခန်းများ ခြေရာခံရန်နှင့် လမ်းကြောင်းများ မှတ်တမ်းတင်ရန်</string>
     <string name="low">အနိမ့်</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">စကားပြောများကို ထိန်းထားနိုင်မည့် ပုံမှန်အသက်ရှူနှုန်း</string>
@@ -486,10 +488,13 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="miuix_appcompat_cloud_state_syncing">ကလောက်နှင့် ဆင့်(ခ်)လုပ်နေသည်…</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
+    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
+    <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
+    <string name="miuix_appcompat_select_item">အိုင်တမ်များရွေး</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
@@ -666,6 +671,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="select_null">ရွေးမရွေးထားပါ</string>
     <string name="select_recog_question">လုပ်ဆောင်ချက် ရွေးချယ်ပါ</string>
     <string name="select_swim_posture">စတိုင် ရွေးပါ</string>
+    <string name="send">ပို့ပါ</string>
     <string name="setting">ဆက်တင်များ</string>
     <string name="setting_sedentary_off">ပိတ်ရန်</string>
     <string name="setting_sedentary_on">ဖွင့်ရန်</string>

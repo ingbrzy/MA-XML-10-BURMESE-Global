@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="aggregate_title">အသိပေးချက်များ အုပ်စုဖွဲ့ခြင်းအတွက် စည်းမျဉ်းများ</string>
     <string name="app_name">အသိပေးချက်များ</string>
     <string name="back">နောက်သို့</string>
     <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="category_other">အခြား</string>
+    <string name="channel_keyguard_hide_content">အသိပေးချက်များအားလုံးကို ပြပြီး အဆက်အသွယ်များကို ဖျောက်ထားပါ</string>
+    <string name="channel_keyguard_show_content">အသိပေးချက်များအားလုံးနှင့် ၎င်းတို့၏အဆက်အသွယ်များကို ပြသပါ</string>
+    <string name="channel_keyguard_show_nothing">အသိပေးချက်ကို လုံးဝမပြပါနှင့်</string>
     <string name="channel_name_aggregation">အုပ်စုဖွဲ့ထားသော အသိပေးချက်များ</string>
     <string name="channel_name_notification">အက်(ပ်)အသိပေးချက်များ</string>
     <string name="channel_name_recovered">ပြန်ယူထားသော အသိပေးချက်များ</string>
@@ -22,6 +26,10 @@
     <string name="feedback_tip_title">အသိပေးချက်အမျိုးအစားများအတွက် တုံ့ပြန်အကြံပြုချက်ပေးပါ</string>
     <string name="float_notifications">အရှင်ထားနိုင်သော အသိပေးချက်များ</string>
     <string name="float_notifications_short">မျောလွင့်နေသည်</string>
+    <string name="fold_importance_default">အကြံပြုထားသော</string>
+    <string name="fold_importance_important">အရေးကြီးသည်</string>
+    <string name="fold_importance_unimportant">အရေးမကြီးသော</string>
+    <string name="fold_title">အုပ်စုဖွဲ့သော အသိပေးချက်များအတွက် စည်းမျဉ်း</string>
     <string name="function_description">ဤအင်္ဂါရပ်အကြောင်း</string>
     <string name="hint_search_all">အက်ပ်များအား ရှာဖွေရန်</string>
     <string name="hint_search_in_disabled_apps">အသိပေးချက်များ မပြနိုင်သည့် အက်ပ်များအား ရှာဖွေရန်</string>
@@ -40,6 +48,14 @@
     <string name="menu_setting_tip_show_in_home">%s ထံမှ အသိပေးချက်များကို အုပ်စုဖွဲ့မည်မဟုတ်ပါ</string>
     <string name="menu_setting_tip_unfold">ဤအက်(ပ်)မှလာသော အသိပေးချက်အားလုံးကို အရေးကြီးသည်ဟု သတ်မှတ်ပါမည်</string>
     <string name="menu_setting_unfold">အရေးကြီးသည်</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="mune_setting_prefix_category">"အုပ်စုဖွဲထားသူ "</string>
     <string name="not_sent_recently">မကြာသေးမီက မဟုတ်ပါ</string>
     <string name="notch_and_status_bar_setting">ထိန်းချုပ်စင်တာနှင့် အခြေအနေပြဘားတန်း</string>
@@ -47,21 +63,27 @@
     <string name="notification_aggregate_description2">ကျွန်ုပ်တို့၏ အယ်လဂိုရီသမ်သည် အသိပေးချက်ပါအကြောင်းအရာများကို စိစစ်ပြီး အရေးကြီးသော သတိပေးချက်များနှင့် အသင့်သုံးမက်ဆင်ဂျာများမှ အသိပေးချက်များအတွက် ဤအင်္ဂါရပ်ကို မသုံးပါ။ အရေးကြီးသော အသိပေးချက်များကို မှားယွင်းအုပ်စုဖွဲ့မိပါက ကျွန်ုပ်တို့၏ \"တုံ့ပြန်အကြံပြုချက်\" အင်္ဂါရပ်ကို သုံးပြီး ပြဿနာကို တိုင်ကြားပါ။</string>
     <string name="notification_aggregate_summary">MIUI အား အုပ်စုသတိပေးချက်များ အလိုအလျောက် ပေးခွင့်ပြုပါ</string>
     <string name="notification_aggregate_summary_inner">တွန်းပို့စာနှင့် ပရိုမိုးရှင်းအသိပေးချက်များကို အလိုအလျောက် အုပ်စုဖွဲ့ရန် ဖွင့်ပါ</string>
-    <string name="notification_aggregate_title">အသိပေးချက်များကို အုပ်စုဖွဲ့ရန်</string>
+    <string name="notification_aggregate_title">အုပ်စု အသိပေးချက်များ</string>
     <string name="notification_display_setting">အသိပေးချက်ရှိတ်</string>
     <string name="notification_display_style">အသိပေးချက် ပုံစံ</string>
     <string name="notification_fold_summary">အရေးမကြီးသော အသိပေးချက်များကို အလိုအလျောက် အုပ်စုဖွဲ့ရန်</string>
     <string name="notification_fold_title">အသိပေးချက်များကို အုပ်စုဖွဲ့ရန်</string>
+    <string name="notification_keyguard_hide_content">အသိပေးချက်များကို ပြပြီး အကြောင်းအရာများကို ဖျောက်ထားပါ</string>
+    <string name="notification_keyguard_show_content">အသိပေးချက်နှင့် အကြောင်းအရာအားလုံးကို ပြပါ</string>
+    <string name="notification_keyguard_show_nothing">သော့ခတ်မျက်နှာပြင်တွင် အသိပေးချက်များ မပြပါနှင့်</string>
     <string name="notification_manager">အက်ပ် အသိပေးချက်များ</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">ပိတ်မည်</string>
     <string name="on">ဖွင့်မည်</string>
+    <string name="rule_keyguard_display">ပုံစံချရန်</string>
     <string name="setting_menu_success">အောင်မြင်စွာသတ်မှတ်ပြီးပါပြီ</string>
     <string name="settings_guide_title">အခြား ဆက်တင်များ လိုအပ်ပါသလား?</string>
     <string name="show_badge_notifications">အသိပေးချက် တံဆိပ်</string>
     <string name="show_badge_notifications_short">တံဆိပ်များ</string>
     <string name="status_bar_setting">အခြေအနေပြ ဘားတန်း</string>
+    <string name="summary_aggregate_default">ပရိုမိုးရှင်းနှင့် အကြောင်းအရာဆိုင်ရာ တွန်းပို့ အသိပေးချက်များကို အုပ်စုဖွဲ့ပါမည်</string>
+    <string name="summary_aggregate_home">တွန်းပို့ အသိပေးချက်များကို အုပ်စုဖွဲ့မည်မဟုတ်ပါ</string>
     <string name="summary_disable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="summary_disable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="summary_disable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား မခွင့်ပြုပါ</string>
@@ -69,8 +91,13 @@
     <string name="summary_enable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား ခွင့်ပြုထားသည်</string>
     <string name="summary_enable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား ခွင့်ပြုထားသည်</string>
     <string name="summary_float_enable_notification_first">အသိပေးချက်အား အရှင်ထားနိုင်သော အသိပေးချက်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
+    <string name="summary_fold_importance_default">မည်သည့်အသိပေးချက်များ တိုက်ရိုက်ဖော်ပြမည်ကို MIUI မှ အကြံပြုလိမ့်မည်</string>
+    <string name="summary_fold_importance_important">အသိပေးချက်သည် အသိပေးချက်ရှိတ်တွင် ပေါ်လာလိမ့်မည်</string>
+    <string name="summary_fold_importance_unimportant">အသိပေးချက်သည် သီးခြားဖိုလ်ဒါတစ်ခုတွင် ပေါ်လာမည်</string>
     <string name="summary_lock_screen_enable_notification_first">အသိပေးချက်အား သော့ခတ်မျက်နှာပြင် အသိပေးချက်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
     <string name="summary_show_badge_enable_notification_first">အသိပေးချက်အား အသိပေးချက် တံဆိပ်များ ဖွင့်ရန် ခွင့်ပြုမည်</string>
     <string name="swipe_to_delete">ဖျက်ရန် ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပါ</string>
     <string name="tip_feedback_thanks">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါတယ်။</string>
+    <string name="title_aggregate_default">အသိပေးချက်များကို အုပ်စုဖွဲ့ရန်</string>
+    <string name="title_aggregate_home">အသိပေးချက်များကို အုပ်စုမဖွဲ့ပါနှင့်</string>
 </resources>

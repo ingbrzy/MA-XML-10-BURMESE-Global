@@ -12,7 +12,4 @@
     <plurals name="restore_app_order_prior">
         <item quantity="other">အဓိက ဦးစားပေးအဆင့် - အက်ပ် %d ခု</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">ဖိုင် %d ခုအား ပြန်လည်ရယူနေသည်</item>
-    </plurals>
 </resources>
