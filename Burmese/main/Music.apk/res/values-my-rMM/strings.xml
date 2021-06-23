@@ -100,6 +100,7 @@
     <string name="back_confirm">အက်ပ်အား နောက်ခံသို့တွင်းပို့ရန် ထပ်မံထိနှိပ်ပါ</string>
     <string name="bluetooth_device">ဘလူးတုသ်အသံစက်</string>
     <string name="btn_text_edit">တည်းဖြတ်ရန်</string>
+    <string name="btn_text_view_all">အားလုံး ကြည့်ရန်</string>
     <string name="buffering">ဘက်ဖာရင်း…</string>
     <string name="button_cancel_download">ပယ်ဖျက်မည်</string>
     <string name="button_download_now">ယခု ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -241,7 +242,9 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
@@ -309,6 +312,8 @@
     <string name="fail_to_play">သီချင်းဖွင့်မရပါ</string>
     <string name="failed_not_access_sd_card">SD ကတ်သို့ ဦးစွာ ဝင်ခွင့်ပြုရန်</string>
     <string name="failed_obtain_permissions">ခွင့်ပြုချက်မရပါ</string>
+    <string name="failed_to_connect_hint">သင့်ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ထပ်မံကြိုးစားပါ</string>
+    <string name="failed_to_connect_text">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="fans">ဖော်လိုလုပ်သူများ</string>
     <string name="fav_login_msg">သီချင်းများအား ဒေါင်းလုဒ်လုပ်ရန် Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="favorite_canceled">အကြိုက်ဆုံးများမှ ဖယ်ရှားပြီး</string>
@@ -357,6 +362,7 @@
     <string name="high_sound_quality">မြင့်သည်</string>
     <string name="higher_quality_music">အဆင့်မြင့် သီချင်းအရည်အသွေး</string>
     <string name="higher_quality_music_summary">ကြီးသောဖိုင်များကို တိုက်ရိုက်ကြည့်ခြင်းနှင့်ဒေါင်းလုဒ်လုပ်ခြင်း</string>
+    <string name="hint_search_songs_playlists_artists">သီချင်းများ၊ သီချင်းစာရင်းများနှင့် အဆိုတော်များကို ရှာရန်</string>
     <string name="home_tab_home">ပင်မစာမျက်နှာ</string>
     <string name="home_tab_local">ကျွန်ုပ်၏သီချင်း</string>
     <string name="home_tab_more_music">အခြားသီချင်းများ</string>
@@ -451,6 +457,7 @@
     <string name="loadercontainer_loading">ခဏစောင့်ပါ…</string>
     <string name="loading_hint">ခဏစောင့်ပါ…</string>
     <string name="loading_reached_the_bottom">မရှိတော့ပါ။</string>
+    <string name="loading_text">ခဏစောင့်ပါ…</string>
     <string name="local_header_title">စက်တွင်းတေးဂီတ</string>
     <string name="local_music">စက်ထဲရှိ သီချင်းများ</string>
     <string name="local_music_is_not_available">ဤစက်ထဲတွင် သီချင်းများ မရှိပါ။</string>
@@ -659,13 +666,12 @@
     <string name="privacy_authorize_revoking">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="privacy_request_desc">"&lt;Data>သင့်အတွက် အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ ထောက်ပံ့ပေးရန်လိုအပ်သည့် ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား Mi တေးဂီတက စုဆောင်းရပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော ထိုအချက်အလက်များကို ကျွန်ုပ်တို့စီမံကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် ပိုမိုလေ့လာနိုင်ပါသည်။ Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။
 Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ဖတ်ရှုလက်ခံပေးပါ။
 ဖော်ပြပါ ဝန်ဆောင်မှုများ အသုံးပြုရန် သင်လက်မခံပါက ဤအက်ပ်၏ အင်္ဂါရပ်အချို့ကို သင်အသုံးပြုနိုင်မည် မဟုတ်သော်လည်း ၎င်း၏ အခြေခံလုပ်ဆောင်ချက်များအား ဆက်လက်ရရှိနိုင်ပါသေးသည်။&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Mi တေးဂီတမှ ကြိုဆိုပါသည်။ ဤအက်ပ်သည် အောက်ပါဝန်ဆောင်မှုများကို ထောက်ပံ့ပေးထားသည် -
-
 - စက်တွင်း အော်ဒီယိုဖွင့်စက်
-
 - အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ"</string>
     <string name="privacy_request_title">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
@@ -893,6 +899,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="upload_playlist_to_hungama_title">အွန်လိုင်းသီချင်းများကို Mi အကောင့် သုံးသောအခြားစက်များတွင် ဖွင့်နိုင်ရန် Hungama သို့ ဆင့်(ခ်)လုပ်ထားပါ။</string>
     <string name="upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို Hungama သို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="user_playlist_plaza">သီချင်းစာရင်း</string>
     <string name="user_privacy_dialog_negative_text">ဖျက်သိမ်းမည်</string>
     <string name="user_privacy_dialog_positive_count_down_text">(%s) အကြာတွင် ရုပ်သိမ်းရန်</string>

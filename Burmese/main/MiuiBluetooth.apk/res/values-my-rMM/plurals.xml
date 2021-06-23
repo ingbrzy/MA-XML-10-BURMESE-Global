@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">အားသွင်းဘူးပေါ်ရှိ ခလုတ်အား %1$d စက္ကန့်ကြာ ဖိနှိပ်ထားပါ</item>
+        <item quantity="other">အားသွင်းဘူးရှိခလုတ်ကို %1$d စက္ကန့်ကြာ ဖိပြီးနှိပ်ထားပါ</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">နားကြပ်ရှိ ထိလျှင်တုံ့ပြန်သော နေရာတစ်ခုခုကို %1$d စက္ကန့်ခန့် ဖိပြီး နှိပ်ထားပါ</item>

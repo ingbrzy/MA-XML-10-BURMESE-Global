@@ -137,13 +137,13 @@
     <string name="diagnosis_log_sent_format">"မှတ်တမ်းများကို အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ။
 ID - %s
 ကြီးကြပ်သူထံ ဤကုဒ်ကို ပေးပို့မည်။"</string>
-    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
-    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
-    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
-    <string name="dialog_privacy_change_title">Privacy Policy update</string>
+    <string name="dialog_disagree_privacychange_info">ကျွန်ုပ်တို့၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောမတူပါက Mi ဗီဒီယိုအွန်လိုင်းထုတ်လွှင့်မှုဆိုင်ရာ ဝန်ဆောင်မှုများကို သုံးမရပါ။ နောက်ပြန်ဆုတ်ရန် \"မလုပ်တော့ရန်\" ကို နှိပ်ပါ သိုမဟုတ် ရှေ့ဆက်လိုပြီး Mi ဗီဒီယိုကို ဌာနေဗီဒီယိုဖွင့်စက်တွင်သာသုံးရန် \"သဘောမတူပါ\" ကို နှိပ်ပါ။</string>
+    <string name="dialog_disagree_privacychange_title">သဘောမတူဘူးလား။</string>
+    <string name="dialog_privacy_change_info">ကျွန်ုပ်တို့ပေးအပ်သော ဝန်ဆောင်မှုများတွင် အပြောင်းအလဲများရှိ၍ Mi ဗီဒီယို၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို အပ်ပဒိတ်လုပ်ထားပါသည်။ ဤအက်(ပ်)ကို မသုံးမီ အသုံးပြုသူတစ်ဦးအနေနှင့် ရနိုင်သော အခွင့်အရေးများနှင့် သင့်ဒေတာများကို ကျွန်ုပ်တို့က အသုံးပြုပုံပြုနည်းများကို ကောင်းစွာနားလည်ရန် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
+    <string name="dialog_privacy_change_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒအပ်ပဒိတ်</string>
     <string name="dialog_privacy_info_new2">%1$s ၏ဝန်ဆောင်မှုများကို သုံးနိုင်ရန်အတွက် ၎င်းက သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူဆောင်ရွက် အသုံးပြုမည်ဖြစ်ကြောင်း သဘောတူရပါမည်။ အောက်ပါ \"သဘောတူသည်\" ကို တို့ခြင်းအားဖြင့် သင်သည်ကျွန်ုပ်တို့၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။</string>
     <string name="dialog_privacy_info_new3">ဤဝန်ဆောင်မှုကိုသုံးနိုင်ရန် သင်သည် %1$s အား သင်၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒနှင့်အညီ ကောက်ယူ၊ ဆောင်ရွက်၊ အသုံးပြုခွင့် ပေးရပါမည်။ အောက်တွင် သဘောတူသည် ကို နှိပ်ခြင်းဖြင့် သင်သည် Xiaomi ၏ &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=%3$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> ကို သဘောတူရာ ရောက်ပါသည်။ &lt;br/>&lt;br/>သဘောတူသည် ကို နှိပ်ခြင်းသည် Mi ဗီဒီယိုအား သင့်စက်တွင် ထည့်ထားသော အက်(ပ်)စာရင်းကို ဖတ်ခွင့်ပြုရာလည်း ရောက်ပါသည်။ Mi ဗီဒီယိုသည် ၎င်းခွင့်ပြုချက်ဖြင့် အကြောင်းအရာများမျှဝေနိုင်ပြီး အက်(ပ်)တစ်ခုခုကို သင့်စက်တွင် ထည့်ထားခြင်းရှိမရှိ၊ ထည့်ထားလျှင် ၎င်းအက်(ပ်)၏ ဗားရှင်း၊ ၎င်းအက်(ပ်)သည် လုံခြုံမှုရှိမရှိ တို့ကို နားလည်နိုင်ပါသည်။</string>
-    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_info_new4">Mi ဗီဒီယိုမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)က အောက်ပါဝန်ဆောင်မှုများပေးသည် -&lt;br>&lt;/br> - အွန်လိုင်းထုတ်လွှင့်ဝန်ဆောင်မှုများ&lt;br>&lt;/br>- ဌာနေဗီဒီယိုဖွင့်စက်&lt;br>&lt;/br>Mi ဗီဒီယိုသည် သင့်အား အခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ကောက်ယူရန်လိုသည်။ ကောက်ယူထားသော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတွင် လေ့လာနိုင်သည်။ သက်ဆိုင်ရာဆက်တင်များကို ဆက်တင်များ> စကားဝှက်နှင့် လုံခြုံရေး အောက်တွင် ပြောင်းနိုင်သည်။&lt;br>&lt;/br>Mi ဗီဒီယိုကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့တွင် ကြည့်နိုင်သည်။</string>
     <string name="dialog_privacy_revoke_cancel">ပယ်ဖျက်မည်</string>
     <string name="dialog_privacy_revoke_count_down">(%1$ds) ကို ရုပ်သိမ်းရန်</string>
     <string name="dialog_privacy_revoke_description">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် Mi ဗီဒီယို ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းကို ရပ်လိုက်ပါမည်။ ကောက်ယူထားပြီးသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒအပေါ် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် ကောက်ယူထားသော ကိုယ်ရေးကိုယ်တာအချက်အလက်များအပေါ် အခြေခံသော အွန်လိုင်းဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာ ရောက်ပါသည်။</string>
@@ -151,10 +151,10 @@ ID - %s
     <string name="dialog_privacy_revoke_ok">ရုပ်သိမ်းရန်</string>
     <string name="dialog_privacy_revoke_success">အောင်မြင်စွာ ရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="dialog_privacy_revoking">သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းနေသည်…</string>
-    <string name="dialog_privacy_title">Terms and conditions</string>
+    <string name="dialog_privacy_title">စည်းမျဉ်းစည်းကမ်းများ</string>
     <string name="dialog_revoke_privacy_info_new2">ခွင့်ပြုချက်ရုတ်သိမ်းပြီးပါက အက်(ပ်)သည် ဒေတာကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး အခြား သက်ဆိုင်ရာဒေတာများကို ကျွန်ုပ်တို့၏ ဆာဗာများမှ ဖျက်လိုက်ပါမည်။ ဤလုပ်ရပ်ကြောင့် အက်(ပ်)ကို သုံး၍ ရတော့မည်မဟုတ်ပါ။ ခွင့်ပြုချက်ကို မဖြစ်မနေ ရုတ်သိမ်းလိုပါသလား။</string>
     <string name="dialog_revoke_privacy_title">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းနေသည်</string>
-    <string name="disagree">"Don't agree"</string>
+    <string name="disagree">သဘောမတူပါ</string>
     <string name="diy_channels_tips">ယခု သင်၏ ချန်နယ် စာရင်းအား စိတ်ကြိုက်သတ်မှတ်နိုင်ပြီ။</string>
     <string name="do_not_show_again">နောက်ထပ် မပြပါနှင့်</string>
     <string name="download">ဒေါင်းလုဒ်လုပ်ရန်</string>

@@ -163,8 +163,8 @@
     <string-array name="nav_bar_buttons">
         <item>ကလစ်ဘုတ်</item>
         <item>ကီးကုဒ်</item>
-        <item>ကီးဘုတ် ပြောင်းလဲပေးသည့်စနစ်</item>
-        <item>တစ်ခုမျှမရှိ</item>
+        <item>လှည့်ခြင်းကို အတည်ပြုရန်၊ ကီးဘုတ်ပြောင်း ကိရိယာ</item>
+        <item>မရှိ</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>ပုံမှန်</item>
@@ -186,7 +186,6 @@
         <item>4K (upscaled, secure)</item>
         <item>720p, 1080p (dual screen)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>ပိတ်ရန်</item>
         <item>64K</item>

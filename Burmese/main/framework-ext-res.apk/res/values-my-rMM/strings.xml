@@ -154,6 +154,7 @@
     <string name="miui_warning_tip_info">%1$sတွင် အမှားတစ်ခု ဖြစ်ပေါ်သည်။ ဤအက်ပ်အား ယခု ပိတ်မလား?</string>
     <string name="multi_file_name">%1$s၊ %2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nearby_share">အနီးတစ်ဝိုက် မျှဝေခြင်း</string>
     <string name="notification_channel_hotspot">ဟော့စပေါ့အသိပေးချက်</string>
     <string name="onehour">၃၀ မိနစ်</string>
     <string name="oneplus">OnePlus</string>

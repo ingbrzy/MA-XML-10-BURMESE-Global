@@ -83,6 +83,8 @@
     <string name="feedback_custom_hint">သင်ကြုံတွေ့ခဲ့ရသော ပြဿနာများအကြောင်းကို ဤနေရာတွင် ဖော်ပြပေးပါ။ အကြံပြုချက်များ ပေးအပ်နေခြင်းဖြစ်ပါက အသေးစိတ်အချက်အလက်များအား ကျွုန်ုပ်တို့ပိုမိုနှစ်သက်ပါသည်။</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
     <string name="find_device_dspt_provision">သင့်စက် ပျောက်သွားပါက စက်ရှာဖွေရန်၊ သော့ခတ်ရန် သို့မဟုတ် ပြန်သတ်မှတ်ရန် &lt;font color=#0097FF>%s&lt;/font>သို့ သွားပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင် အချိန်မရွေး ဖွင့်/ပိတ် လုပ်နိုင်ပါသည်။</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">သင်၏ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="find_device_error_server">ဆာဗာ အမှား</string>
     <string name="find_device_gdpr_prompt">စက်ရှာဖွေခြင်းအား ဖွင့်ထားခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ <a href="app://com.miui.cloudservice.gdpr.license"><u>ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</u></a>အား သဘောတူပြီး ဖြစ်ပါသည်။ ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်အား ပိတ်ပါ။</string>
@@ -91,6 +93,9 @@
 
 သင့် ဆင်းမ်ကဒ်များကို ဖလှယ်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် အခြား SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။"</string>
     <string name="find_device_service_title">စက်ရှာဖွေခြင်း</string>
+    <string name="find_device_status_summary">သင့်စက်ကို ရှာပြီး အဝေးမှ သော့ခတ်ကာ ဒေတာများလည်း ဖျက်နိုင်ပါသည်</string>
+    <string name="find_device_status_title_pad">စက်ရှာဖွေစနစ်</string>
+    <string name="find_device_status_title_phone">စက်ရှာဖွေစနစ်</string>
     <string name="finddevice_miservice_notification_content">စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် သော့ချပါ</string>
     <string name="finddevice_miservice_notification_title">စက်ရှာဖွေစနစ်ကို ဖွင့်ရန်</string>
     <string name="forget_password"><u>စကားဝှက် မေ့နေသည်</u></string>
@@ -148,6 +153,8 @@
     <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="loading_enable_keybag">စကားဝှက်မန်နေဂျာကို ဖွင့်နေသည်…</string>
     <string name="loading_server_key_info">အိုင်တမ်များ တင်နေသည်…</string>
+    <string name="low_battery_locate_summary">ဘက်ထရီနည်းနေသောအခါ တည်နေရာအချက်အလက်များ အလိုအလျောက် အစီအရင်ခံရန်</string>
+    <string name="low_battery_locate_title">ဘက်ထရီနည်းနေသောအခါ တည်နေရာ အစီအရင်ခံရန်</string>
     <string name="master_alert_notif_content">အရေးကြီးသောအရာများ မပျောက်ရှစေရန် အရံသိမ်းခြင်းကို ပုံမှန်လုပ်ပါ။</string>
     <string name="master_alert_notif_title">Xiaomi ကလောက် ဖွင့်ရန်</string>
     <string name="member_entrance_title_free_high_case_a">နောက်ထပ် သိုလှောင်ခန်းနေရာလွတ် ရယူပါ</string>
@@ -250,14 +257,18 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat မှသင့်အား စက်ရှာဖွေခြင်းအား ဖွင့်ထားရန် အကြံပြုပါသည်။</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay မှသင့်အား စက်ရှာဖွေခြင်းအား ဖွင့်ထားရန် အကြံပြုပါသည်။</string>
     <string name="micloud_find_device_guide_progress">စက်ရှာဖွေအား ဖွင့်နေသည်…</string>
+    <string name="micloud_find_device_guide_title">စက်ကိုရှာပြီး အဝေးမှ သော့ပိတ်ရန် သို့မဟုတ် ပျောက်ဆုံးကြောင်း အမှတ်အသားပြုရန် သို့မဟုတ် ဒေတာများဖျက်ရန် &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့ သင့် Mi အကောင့်ဖြင့်ဝင်ပါ။အသေးစိတ်ကို &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ဤနေရာတွင်&lt;/a> ကြည့်ပါ။</string>
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened">စက်ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် မက်ဆေ့ချ်တစ်စောင် ပေးပို့ရမည်။ ထိုအတွက် ဖုန်းလိုင်းဝန်ဆောင်မှုအား အခကြေးငွေ ပေးဆောင်းရန်လိုအပ်ပါသည်။ ဆင်းမ်ကဒ် ပြောင်းလဲပါက ဤအင်္ဂါရပ်ကို ပြန်လည်အသက်သွင်းရန် မက်ဆေ့ခ်ျတစ်စောင် အလိုအလျောက်ပေးပို့လိမ့်မည်။</string>
     <string name="micloud_find_device_verify_button">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>
     <string name="micloud_find_device_verify_close">စက်ရှာဖွေခြင်းအား ပိတ်မည်။</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်း၍မရပါ။</string>
     <string name="micloud_find_device_verify_progress">…စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းနေသည်။</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">ဆင့်ခ်လုပ်ခြင်းအား ဖျက်သိမ်းလိုက်သည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="micloud_main_head_menu_cloud_backup">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်း</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">စနစ်ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် အပြင်အဆင်</string>
@@ -450,6 +461,8 @@
     <string name="picker_list_empty">ဤနေရာတွင် အဆက်အသွယ်တစ်ခုမျှ မရှိပါ</string>
     <string name="picker_search_empty">အဆက်အသွယ်များ ရှာမရပါ</string>
     <string name="picker_search_hint">ရှာရန်</string>
+    <string name="power_off_locate_summary">ပါဝါခလုတ်ကို ကြာကြာဖိ၍ တည်နေရာ အချက်အလက်များ အစီအရင်ခံပါ။ ကွန်ရက်ချိတ်ဆက်မှု အားနည်းနေသောအချိန်တွင် တည်နေရာ အချက်အလက်များကို အစီအရင်ခံနိုင်ဖွယ် မရှိပါ။</string>
+    <string name="power_off_locate_title">ပါဝါမပိတ်မီ တည်နေရာ အစီအရင်ခံရန်</string>
     <string name="pre_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="pre_user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">သင် Wi-Fi ကွန်ရက်ကို ချိတ်ဆက်လိုက်သည့်အခါ အဆက်သွယ်၏ပရိုဖိုင်ပုံများကိုသာ ဆင့်ခ်လုပ်ပါ</string>

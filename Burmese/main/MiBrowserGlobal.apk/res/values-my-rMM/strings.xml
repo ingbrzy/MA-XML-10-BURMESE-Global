@@ -1091,7 +1091,7 @@ ID -
     <string name="notification_wechat_expired_empty">WeChat မှ ဗီဒီယိုအပိုင်းများအား ဖျက်ပစ်လိုက်ပြီး။</string>
     <string name="ok">အိုကေ</string>
     <string name="open_app_confirm_message">ဤစာမျက်နှာအား %s ကိုဖွင့်ရန် ခွင့်ပြုမည်လား?</string>
-    <string name="open_private_folder">ကွယ်ဝှက်ဖိုလ်ဒါများအား ကြည့်ရှုရန်လွှတ်လိုက်ပါ…</string>
+    <string name="open_private_folder">ကွယ်ဝှက်ဖိုလ်ဒါများအား ကြည့်ရှုရန်လွှတ်လိုက်ပါ</string>
     <string name="open_voice_permission">Mic ကို အင်တာနက်ဖြင့် ချိတ်ဆက်ရန် ခွင့်ပြုပါ</string>
     <string name="open_whatsapp_status">WhatsApp အခြေအနေများကို စစ်ပါ</string>
     <string name="operation_delete">ဖျက်ပစ်မည်</string>
@@ -1196,8 +1196,6 @@ ID -
     <string name="passport_wrong_vcode">သင်ထည့်သွင်းထားသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_wrong_voice">သင်ထည့်သွင်းထားသောကုဒ် မမှန်ကန်ပါ</string>
     <string name="password">စကားဝှက်</string>
-    <string name="pay_failed_toast">ပေးချေခြင်း မပြီးမြောက်ခဲ့</string>
-    <string name="pay_success_toast">ပေးချေခဲ့သည်</string>
     <string name="per_month">တစ်လလျှင်</string>
     <string name="permission_agree_service">အောက်ပါ စည်းကမ်းသတ်မှတ်ချက် အားလုံးကို ကျွန်ုပ် ဖတ်ရှုပြီး သဘောတူပါသည်။</string>
     <string name="permission_alert_window">ဤအင်္ဂါရပ်အား သုံးနိုင်ရန် ပေါ့ပ်-အပ် ဝင်းဒိုးများအား ပြသရန် ဆက်တင်တွင် ခွင့်ပြုရမည်။</string>

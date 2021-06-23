@@ -76,13 +76,19 @@
         <item quantity="other">%d ခု ကို အမည်မသိအမှားအယွင်းကြောင့် ပြန်ယူမရပါ။</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">အသံဖိုင် %d ခုတွင် ရှာပါ</item>
+        <item quantity="other">အသံဖမ်းယူမှု %d ခု</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">အသံသွင်းဖိုင် %d ခု အတွင်း ရှာပါ</item>
+        <item quantity="other">အသံဖမ်းယူမှု %d ခု</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">ဖုန်းပြောအသံဖိုင် %d ခုတွင် ရှာပါ</item>
+        <item quantity="other">ခေါ်ဆိုမှု အသံဖမ်းယူမှု %d ခု</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">ရေဒီယို အသံဖမ်းယူမှု %d ခု</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">အော်ဒီယို အသံဖမ်းယူမှု %d ခု</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">မှတ်တမ်း %d ခု ရှာတွေ့ထားသည်</item>

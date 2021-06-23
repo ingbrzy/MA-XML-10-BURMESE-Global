@@ -24,6 +24,8 @@
     <string name="feedback_tip_cancel">အသိပေးချက်ဒေတာများကို ကောက်ယူမည်မဟုတ်ပါ။</string>
     <string name="feedback_tip_msg">အသိပေးချက်များကို တိကျစွာ အုပ်စုဖွဲ့ရန် အက်(ပ်)အမည်၊ အသိပေးချက်ခေါင်းစဉ်နှင့် ဖော်ပြချက်၊ အသိပေးချက်ပို့သည့် အချိန်တို့ကို ကျွန်ုပ်တို့ ကောက်ယူရန်လိုပါသည်။ တုံ့ပြန်အကြံပြုချက် တင်လိုပါသလား။</string>
     <string name="feedback_tip_title">အသိပေးချက်အမျိုးအစားများအတွက် တုံ့ပြန်အကြံပြုချက်ပေးပါ</string>
+    <string name="float_notification_snooze_strategy">ယာယီဖျောက်ထားရန်</string>
+    <string name="float_notification_snooze_summary">လာမည့်အရာများကို ယာယီဖျောက်ထားရန် မျောလွင့်အသိပေးချက်တွင် အပေါ်ပွတ်ဆွဲပါ</string>
     <string name="float_notifications">အရှင်ထားနိုင်သော အသိပေးချက်များ</string>
     <string name="float_notifications_short">မျောလွင့်နေသည်</string>
     <string name="fold_importance_default">အကြံပြုထားသော</string>
@@ -48,6 +50,10 @@
     <string name="menu_setting_tip_show_in_home">%s ထံမှ အသိပေးချက်များကို အုပ်စုဖွဲ့မည်မဟုတ်ပါ</string>
     <string name="menu_setting_tip_unfold">ဤအက်(ပ်)မှလာသော အသိပေးချက်အားလုံးကို အရေးကြီးသည်ဟု သတ်မှတ်ပါမည်</string>
     <string name="menu_setting_unfold">အရေးကြီးသည်</string>
+    <string name="miui_snooze_always_float">မဖျောက်ပါနှင့်</string>
+    <string name="miui_snooze_cancel">မလုပ်တော့ရန်</string>
+    <string name="miui_snooze_default_time">%d မိနစ်ကြာ</string>
+    <string name="miui_snooze_until_unlock_screen">သော့ပိတ်သည်အထိ</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
@@ -66,6 +72,11 @@
     <string name="notification_aggregate_title">အုပ်စု အသိပေးချက်များ</string>
     <string name="notification_display_setting">အသိပေးချက်ရှိတ်</string>
     <string name="notification_display_style">အသိပေးချက် ပုံစံ</string>
+    <string name="notification_fold_description1">အသိပေးချက်ဖိုလ်ဒါသည် MIUI 9 မှ စ၍ ပါဝင်သော အင်္ဂါရပ် အသစ် ဖြစ်ပါသည်။ အရေးမကြီးသော အသိပေးချက်များအား စစ်ထုတ်ပြီး သီးခြားဖိုလ်ဒါတစ်ခုတွင် ထည့်ထားပေးသည်။</string>
+    <string name="notification_fold_description2">အမြဲထိနှိပ်မှု နှင့် သင်၏ ကြိုက်နှစ်သက်မှု စသည်တို့ အပေါ်မူတည်၍သော အသိပေးချက်များအား အရေးကြီးမကြီး ခွဲခြားပေးမည်။</string>
+    <string name="notification_fold_description3">အရေးကြီးသော အသိပေးချက်များသည် အသိပေးချက်ဖိုလ်ဒါသို့ ရောက်ရှိနေပါက ကျေးဇူးပြု၍ ကျွန်ုပ်တို့ထံ သတင်းပို့ပါ။ သင်၏ တုံ့ပြန်မှုအား အထူးကျေးဇူးတင်ပါသည်။</string>
+    <string name="notification_fold_footer_icon_summary">အရေးမကြီးသော အသိပေးချက်များအား အုပ်စုဖွဲ့၍ အက်ပ်အိုင်ကွန် ပြပါ</string>
+    <string name="notification_fold_footer_icon_title">အက်ပ် အိုင်ကွန်များအား ပြပါ</string>
     <string name="notification_fold_summary">အရေးမကြီးသော အသိပေးချက်များကို အလိုအလျောက် အုပ်စုဖွဲ့ရန်</string>
     <string name="notification_fold_title">အသိပေးချက်များကို အုပ်စုဖွဲ့ရန်</string>
     <string name="notification_keyguard_hide_content">အသိပေးချက်များကို ပြပြီး အကြောင်းအရာများကို ဖျောက်ထားပါ</string>

@@ -16,6 +16,8 @@
     <string name="activity_title_statistic">Stats</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
+    <string name="add_model_card2">"Tap the button above to add cards.
+You'll be able to track your workouts and activity."</string>
     <string name="add_record">Add</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="all_records">မှတ်တမ်းအားလုံး</string>
@@ -86,6 +88,7 @@ to add cards"</string>
     <string name="close_once">Turn off once</string>
     <string name="collapse">Hide</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
     <string name="copy_done">အောင်မြင်စွာ ကူးပြီးပါပြီ</string>
     <string name="copyright_statement">မူပိုင်ခွင့် © Xiaomi Inc. အခွင့်မရှိဘဲ မကူးရပါ။</string>
@@ -159,6 +162,7 @@ Xiaomi Health အနေဖြင့် အရေးကြီးသော အက�
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">Xiaomi Health မှ ကြိုဆိုပါသည်။ \"ခြေလှမ်းရေတွက်စနစ်\" သည် တစ်နေ့တာအတွင်း သင်လှမ်းခဲ့သော ခြေလှမ်းအရေအတွက်ကို သင့်အား သိရှိစေနိုင်သကဲ့သို့ သင်၏ လှုပ်ရှားမှုဆိုင်ရာ ရည်မှန်းချက်များကို သတ်မှတ်ခြင်းနှင့် စီမံခြင်းများကိုလည်း ဆောင်ရွက်နိုင်စေပါသည်။ ဆက်စပ်အချက်အလက်များအားလုံးအား သင့်စက်ပစ္စည်းအတွင်းတွင်သာ သိမ်းဆည်းပေးသွားမည်ဖြစ်သောကြောင့် ယင်းအား လွယ်လင့်တကူ စီမံနိုင်စေပါသည်။</string>
     <string name="dialog_exit">ထွက်ရန်</string>
+    <string name="dialog_exit_use">Exit</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">တုံ့ပြန်အကြံပြုချက်တင်နိုင်ရန် Xiaomi ကျန်းမာရေးက သိုလှောင်ခန်းကို ဖတ်ရန်လိုပါသည်။</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -189,6 +193,8 @@ Xiaomi Health အနေဖြင့် အရေးကြီးသော အက�
     <string name="dialog_user_agreement_purpose2">Xiaomi ကျန်းမာရေးမှ ကြိုဆိုပါသည်။ သင့်ခြေလှမ်းများကိုရေရန်၊ အိပ်ချိန်ဆန်းစစ်ရန်၊ ဓမ္မတာများကို မှတ်သားရန်၊ ကိုယ်အလေးချိန် မှတ်သားရန်နှင့် အခြားအရာများအတွက် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="disable">Off</string>
     <string name="discard_update">မလုပ်လိုပါ</string>
+    <string name="download_apk">Downloading %s…</string>
+    <string name="download_background">Download</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -876,6 +882,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
+    <string name="tb_step_widget" formatted="false">Today. %1$s. Progress: %2$d%</string>
     <string name="text_edit_exercise_goal">ရည်မှန်းချက်ပြောင်းရန်</string>
     <string name="text_save_exercise_goal">ပြီးပါပြီ</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
@@ -990,6 +997,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="user_center">Profile</string>
     <string name="user_invalid_value">--</string>
     <string name="value_error_correct">မှတ်တမ်းကို တည်းဖြတ်ရန်</string>
+    <string name="view_step_and_progress">View your current step count</string>
     <string name="voice_remind">"We've increased the volume so you hear the instructions better."</string>
     <string name="walk">လမ်းလျှောက်နေသည်</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>

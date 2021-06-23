@@ -25,11 +25,27 @@
         <item>PIN</item>
         <item>စကားဝှက်</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>တစ်လစာ ပလန်</item>
+        <item>အကန့်အသတ်မဲ့</item>
+        <item>တစ်နေ့စာ ပလန်</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>စိတ်ကြိုက်</item>
         <item>Mi ပရိသတ်ကတ်</item>
         <item>Xiao Tiansheng ကတ်</item>
         <item>Tencent King ကတ်</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>စိတ်ကြိုက်</item>
+        <item>Mi မိုဘိုင်း</item>
+        <item>Mi ပရိသတ်ကတ်</item>
+        <item>Tianshen ကတ်</item>
+        <item>Tencent ကတ်</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"မနေ့က (မိုဘိုင်းဒေတာ) "</item>
@@ -76,6 +92,12 @@
         <item>အမြင့်</item>
         <item>အမြင့်ဆုံး</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>စက်သော့ခတ်ထားသည့်အခါ</item>
         <item>စက်အားသော့ခတ်စဉ် သို့မဟုတ် အက်ပ်မှထွက်ပြီးနောက်</item>
@@ -94,10 +116,20 @@
         <item>အရေးကြီးသောအချက် - စနစ်အက်ပ်မျိုးစုံရှိနေခြင်းသည် ကျနမှန်ကန်စွာ အလုပ်လုပ်ခြင်းကို ရပ်တန့်သွားစေနိုင်ပါသည်။</item>
         <item>စာသားအပြင်အဆင်များ၊ အကောင့်များနှင့် အကြောင်းအရာများကို မှန်ကန်စွာ ပြသနိုင်ဖွယ် မရှိပါ။</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -107,6 +139,20 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>သတိပေးချက် ပြပါ</item>
         <item>သတိပေးပြီးမိုဘိုင်းဒေတာကို ပိတ်ပါ</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>မူလ</item>

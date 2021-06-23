@@ -20,6 +20,8 @@
     <string name="application_permissions">အက်ပ်ခွင့်ပြုချက်များ</string>
     <string name="back">နောက်သို့</string>
     <string name="backup_introduction">သင့်စက်တွင် အကြောင်းအရာများ အရန်သိမ်းရန်နှင့် ပြန်ယူရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
+    <string name="boot_video_replay">ပြန်ဖွင့်ရန်</string>
+    <string name="boot_video_skip">ကျော်ရန်</string>
     <string name="calculator_introduction">ဤအက်(ပ်)ကို ဂဏန်းပေါင်းရန်၊ အခြင်အတွယ်များ ပြောင်းရန်၊ ငွေလဲနှုန်းထားများကြည့်ရန်နှင့် အိမ်ပေါင်ငွေတွက်ချက်ရန် သုံးနိုင်သည်။</string>
     <string name="camera_introduction">ကင်မရာကို ဓာတ်ပုံနှင့် ဗီဒီယိုရိုက်ရန် သုံးနိုင်သည်။</string>
     <string name="carrier_introduction">သင့်အားအကောင်းဆုံးဝန်ဆောင်မှု ပေးနိုင်ရန်အတွက် သင့်စက်သည် စက်ဗားရှင်းအချက်အလက်များ၊ (IMEI/IMSI/MSISDN/MAC လိပ်စာ၊ MEID/ICCID) ကဲ့သို့ စက်ဆိုင်ရာ အချက်အလက်များ၊ (ဌာနေ ID) ကဲ့သို့ တည်နေရာခန့်မှန်းအချက်အလက်များကို ဖုန်းကုမ္ပဏီသို့ Wi-Fi၊ မိုဘိုင်းဒေတာကွန်ရက် သို့မဟုတ် အခမဲ့ SMS များသုံးပြီး အခါအားလျော်စွာ ပေးပို့ပါမည်။ ဖုန်းကုမ္ပဏီက သက်ဆိုင်ရာအချက်အလက်များကို ဝန်ဆောင်မှုအရည်အသွေးကောင်းမွန်စေရန် သို့မဟုတ် စိတ်ကြိုက်ဝန်ဆောင်မှုများသို့မဟုတ် နည်းပညာများပေးနိုင်ရန်သာ ဖတ်ရှုခွဲခြမ်းစိပ်ဖြာမည်ဖြစ်ပြီး အဆိုပါအချက်အလက်များကို ပြင်ပကုမ္ပဏီများထံသို့ သင်မှန်းသိရှိနိုင်မည့် မည်သည့်နည်းလမ်းနှင့်မျှ ဖွင့်ဟမည်မဟုတ်ကြောင်း ကတိပေးပါသည်။ ဖုန်းကုမ္ပဏီ၏ အထူးထုတ်ပြန်ချက်များလည်း ရှိပါသည်။ ဤဝန်ဆောင်မှုအတွက် ကုန်ကျစရိတ်နှင့် ပတ်သက်ပြီး ဖုန်းကုမ္ပဏီကို မေးမြန်းပါ။</string>
@@ -32,7 +34,6 @@
     <string name="congratulation_swipe">စနစ်သို့ ဝင်ရောက်ရန် အပေါ်ဆွဲတင်ပါ</string>
     <string name="congratulation_title">သတ်မှတ်မှု ပြီးပြည့်စုံပြီ</string>
     <string name="content_description_complete">ပြည့်စုံသော</string>
-    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">စတင်</string>
     <string name="content_introduction">ပါဝင်ပစ္စည်းများစင်တာတွင် ရုပ်သံလိုင်းအမြောက်အမြားမှ ပါဝင်ပစ္စည်းများနှင့် ဝန်ဆောင်မှုများကို စုစည်းပေးသည်။ ဤနေရာတွင် သတင်းဖတ်ခြင်း၊ ဗီဒီယိုကြည့်ခြင်း၊ နေစဉ်ဝန်ဆောင်မှုအသစ်များကြည့်ခြင်းများကို ပြုလုပ်နိုင်ပြီး ပါဝင်ပစ္စည်းဆိုင်ရာအကြံပြုချက်များ ရယူနိုင်သည်။</string>
     <string name="continue_to_enable_accessibility">ဝင်သုံးခွင့် ဖွင့်ရန် လက်ချောင်းနှစ်ချောင်းဖြင့် ဖိထားပါ။</string>
@@ -77,6 +78,7 @@
     <string name="item_contents_wwarning">မျက်နှာပြင်သော့ကို သင်သတ်မှတ်ထားခြင်း မရှိပါက သင့်စက် ပျောက်ဆုံးသွားသောအခါတွင် အခြားသူများက ၎င်းကို အသုံးပြုခြင်းနှင့် သင်၏ ဒေတာကို ဝင်ကြည့်ခြင်းမှ ကြိုတင်ကာကွယ်နိုင်မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ကျော်လိုသလား။</string>
     <string name="item_fingerprint">လက်ဗွေ</string>
     <string name="item_lock_screen_password">မျက်နှာပြင်လော့ခ် သာ</string>
+    <string name="item_lock_screen_password_only">မျက်နှာပြင်သော့</string>
     <string name="item_return">သတ်မှတ်ရန်</string>
     <string name="item_skip">ကျော်ရန်</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
@@ -100,6 +102,8 @@
     <string name="move_data_dialog_cancel">မလုပ်တော့ရန်</string>
     <string name="move_data_dialog_title">မိုဘိုင်းဒေတာချိတ်ဆက်မှုကို ဆက်တင်ထဲတွင် နောက်မှ ကန့်သတ်နိုင်သည်</string>
     <string name="move_data_dialog_use">သုံးရန်</string>
+    <string name="msim_setting_default_data">ဒေတာ SIM</string>
+    <string name="msim_setting_default_voice">ခေါ်ဆိုမှုများပြုလုပ်မည့် ဆင်းမ်ကတ်</string>
     <string name="multisim_settings_category">ဆင်းမ်ကဒ် ဆက်တင်များ</string>
     <string name="multisim_settings_title">ဆင်းမ်ကဒ် ၂ ခု ရှာတွေ့သည်</string>
     <string name="navigation_picker_gesture_guide">လက်ဟန် လမ်းညွှန်</string>
@@ -186,8 +190,11 @@
     <string name="pref_title_voice_slot">အသံ ဆင်းမ်ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
     <string name="privacy_policy">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="protect_persoanl_info_statement">ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။</string>
+    <string name="provision_back">နောက်ပြန်</string>
     <string name="provision_inputmethod_policy_description">&lt;Data>သင်ရွေးထားသော ကီးဘုတ်၏ &lt;a href=%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a > ကို ကြည့်ပါ။&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
+    <string name="provision_next">နောက်တစ်ဆင့်</string>
+    <string name="provision_skip_underline">ကျော်ရန်</string>
     <string name="recorder_introduction">ဤအက်(ပ်)ဖြင့် အသံသွင်းနိုင်ပြီး သွင်းထားသောအသံများကို ကလောက်သို့ အရန်သိမ်းနိုင်သည်။</string>
     <string name="require_authority_statement">သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန် ကျွန်ုပ်တို့က သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်ပေးရပါမည် -</string>
     <string name="require_network_authority_statement">သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် သင်သည်အင်တာနက်နှင့်ချိတ်ရမည်ဖြစ်ပြီး ကျွန်ုပ်တို့က သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်ပေးရပါမည် -</string>
@@ -220,13 +227,14 @@
     <string name="service_policy">&lt;Data>ကျွန်ုပ်တို့၏&lt;a href=%1$s>Privacy Policy&lt;/a > ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
     <string name="service_policy_download">&lt;Data>ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို အသုံးမီ &lt;a href=%1$s>Xunlei ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a > ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
     <string name="service_privacy_index">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="service_security_over_r">&lt;Data>လုံခြုံရေးကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a > ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br/>&lt;br/>Android 11 စံများအရ သက်ဆိုင်ရာအက်(ပ်)ရပ်သွားပြီး ၅ စက္ကန့်အကြာတွင် တစ်ခါသုံး ခွင့်ပြုချက်ကို ပြန်ရုပ်သိမ်းပါမည်။ ဤကာလတိုအတွင်း အက်(ပ်)ကို ဖွင့်ပါက ၎င်းနောက် ခွင့်ပြုချက်ကိုရုပ်သိမ်းပါမည်။&lt;/Data></string>
     <string name="servicestate_title">အခြေခံဝန်ဆောင်မှုများဆိုင်ရာ ထုတ်ပြန်ချက်</string>
     <string name="setting_locale">ပင်ရင်းဒေသ သတ်မှတ်နေ…</string>
     <string name="shut_down">အပြီးပိတ်ပါ</string>
     <string name="sim_card_detecting">ဆင်းမ်ကဒ်ကို စစ်ဆေးနေသည်…</string>
     <string name="sim_card_detecting_check">ဆင်းမ်ကဒ် ရှာမတွေ့ပါ။ ဆင်းမ်ကဒ် စနစ်တကျ တပ်ဆင်ထားခြင်း ရှိမရှိနှင့် လက်ကျန်ငွေ ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="sim_card_detecting_confirm_turn_on_network">မိုဘိုင်းဒေတာကွန်ရက်သို့ ချိတ်ဆက်ခွင့်ပြုမလား? ခွင့်ပြုမည်ဆိုပါက သင်ထည့်ထားသော SIM ကဒ်အား မိုဘိုင်းဒေတာကွန်ရက်သို့ ချိတ်ဆက်ရာတွင် သုံးလိမ့်မည်။</string>
-    <string name="sim_card_detecting_title">ဆင်းမ်ကဒ်ကို စစ်ဆေးပါ</string>
+    <string name="sim_card_detecting_title">ဆင်းမ်ကဒ်ကို စစ်ဆေးနေသည်…</string>
     <string name="sim_card_detection">ဆင်းမ်ကဒ် ထည့်သွင်းပါ</string>
     <string name="sim_card_detection_info">သင်၏ ဆင်းမ်ကဒ်ကို ထည့်သွင်းရန် သင့်ကိရိယာနှင့်အတူ ပါလာသော ညွှန်ကြားချက်များကို ဖတ်ပါ။</string>
     <string name="sim_card_detection_mobile_not_available">ဆင်းမ်ကဒ်သည် ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>

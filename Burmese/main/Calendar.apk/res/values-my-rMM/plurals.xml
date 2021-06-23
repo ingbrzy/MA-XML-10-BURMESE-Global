@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d ရက် အလို</item>
+        <item quantity="other">လွန်ခဲ့သော %d ရက်က</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">%1$d ရက် %2$s အတွင်း</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%2$s မတိုင်မီ %1$d ရက် အလို</item>
+        <item quantity="other">%1$d ရက်မတိုင်ခင် %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d နာရီ အလို</item>
+        <item quantity="other">လွန်ခဲ့သော %d နာရီက</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d မိနစ် အလို</item>
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d ပတ် အလို</item>
+        <item quantity="other">ရက်သတ္တပတ် %d မတိုင်မီက</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s ရက်</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">နှစ်ပတ်လည်နေ့− ၃ရက်အတွင်း %1$s ကတည်းက %2$d နှစ်</item>
+        <item quantity="other">နှစ်ပတ်လည် - %2$d နှစ်ပြည့် %1$s %3$d ရက်အတွင်း</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">နှစ်ပတ်လည်နေ့−%1$sကတည်းက %2$dနှစ်</item>
@@ -54,29 +54,41 @@
     <plurals name="date_calculate_direction_forward">
         <item quantity="other">%1$d ရက်မတိုင်မီ</item>
     </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d ရက်</item>
+    </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">%1$d ရက်အထိရိုက်ထည့်နိုင်သည်</item>
     </plurals>
     <plurals name="event_reminders_to_max">
         <item quantity="other">အသိပေးချက် %d အထိ သတ်မှတ်ပေးနိုင်ပါသည်</item>
     </plurals>
+    <plurals name="hide_completed_notes">
+        <item quantity="other">ပြီးသွားသော အလုပ် %d ဖျောက်ရန်</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">%1$d ရက် (မျှော်မှန်း)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">%1$d ရက်</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">%1$d ရက်အကြာတွင် နောက်ထပ်ဓမ္မတာစမည်</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
     </plurals>
-    <plurals name="reminder_custom_unit_day">
-        <item quantity="other">" ရက်"</item>
+    <plurals name="notes_custom_repeat_days">
+        <item quantity="other">ရက်</item>
     </plurals>
-    <plurals name="reminder_custom_unit_hour">
-        <item quantity="other">" နာရီ"</item>
+    <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">အပတ်</item>
     </plurals>
-    <plurals name="reminder_custom_unit_minute">
-        <item quantity="other">" မိနစ်"</item>
-    </plurals>
-    <plurals name="reminder_later_toast">
-        <item quantity="other">%1$d မိနစ် အကြာတွင် သတိပေးပါ</item>
+    <plurals name="num_picker_hint">
+        <item quantity="other">"  ရက်"</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
-        <item quantity="other">%2$s နေ့ရက်၌ %1$s တိုင်း</item>
+        <item quantity="other">%1$s ၏ %2$s တိုင်း</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$dရက်</item>
@@ -89,6 +101,30 @@
     </plurals>
     <plurals name="repeat_interval_frequency_year_multiple">
         <item quantity="other">%1$dနှစ်</item>
+    </plurals>
+    <plurals name="show_completed_notes">
+        <item quantity="other">ပြီးသွားသော အလုပ် %d ခုကို ပြရန်</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">သင် မမှတ်သားသည်မှာ %1$d ရက်ရှိပါပြီ။ ဓမ္မတာလာချိန်များကို ပိုမိုတိကျစွာ ခန့်မှန်းနိုင်ရန် ဓမ္မတာများကို မှတ်ထားပါ။</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">ဤဓမ္မတာသည် စုစုပေါင်း %1$d ရက် ကြာသည်</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">ဤဓမ္မတာစက်ဝန်း၏ %1$d မြောက်နေ့</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">ဓမ္မတာ၏ %1$d ရက်မြောက်နေ့</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">နောက်လာမည့် ဓမ္မတာဆင်းချိန်အထိ %1$d ရက်</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">ဓမ္မတာလာရန် ခန့်မှန်းရက် %1$d ရက်</item>
+    </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%1$sသို့ မောင်းရန် %2$sမိနစ် ကြာမည်။</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">%d အပတ်</item>

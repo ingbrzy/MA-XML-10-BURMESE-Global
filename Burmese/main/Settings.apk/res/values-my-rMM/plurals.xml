@@ -54,6 +54,9 @@
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">စက်တွင် အနီးအနားရှိ သိမ်းထားသော ကွန်ရက်များမိပါက Wi-Fi ကို အလိုအလျောက်ဖွင့်ပေးပြီး ကွန်ရက်ချိတ်မိခြင်းမရှိဘဲ %d မိနစ်ကြာလျှင် ပိတ်ပေးသည်</item>
+    </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသည်</item>
     </plurals>
