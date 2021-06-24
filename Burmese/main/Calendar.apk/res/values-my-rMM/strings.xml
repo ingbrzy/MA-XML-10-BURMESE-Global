@@ -111,7 +111,6 @@
     <string name="date_interval_text_to">သို့ %1$s</string>
     <string name="date_jump_hint">လိုသောနေ့အထိ တိုက်ရိုက်ကျော်ပါ</string>
     <string name="date_jump_title">လိုသောနေ့အထိ ကျော်ပါ</string>
-    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="day">ရက်</string>
     <string name="day_view_new_event_hint">လုပ်ငန်းစဉ်အသစ်</string>
