@@ -60,6 +60,7 @@
     <string name="currency_update_updating">ငွေလဲနှုန်းများကို အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">MMM dd, yyyy</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">ရက်</string>
     <string name="degDesc">ထောင့်</string>
@@ -68,6 +69,9 @@
     <string name="description_title">ဂဏန်းတွက်စက် အကြောင်း</string>
     <string name="devided_by_zero_reminder_message">သုညဖြင့် စား၍ မရပါ</string>
     <string name="dialog_privacy_content">&lt;Data>ကျွန်ုပ်တို့၏ အက်(ပ်)တွင် ဂဏန်းပေါင်းစက်၏ အခြေခံ အင်္ဂါရပ်များအပြင် သိပ္ပံဂဏန်းပေါင်းစက်နှင့်ယူနစ်ပြောင်းခြင်း အမျိုးမျိုးတို့ ပါရှိသည်။ အချို့အင်္ဂါရပ်များသည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဂဏန်းပေါင်းစက်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="dialog_privacy_disagree_msg">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် ဂဏန်းတွက်စက်၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ စုဆောင်းထိန်းသိမ်းထားသည့် ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား သက်ဆိုင်ရာဥပဒေများအရ လိုအပ်သော သတ်မှတ်အချိန်ကာလတစ်ရပ်အတွင်း ဖျက်ပစ်ပါမည်။ သင့်အတွက် အခြေခံ ဝန်ဆောင်မှုများ ဖော်ဆောင်ပေးမည့် လိုအပ်သော ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား ဂဏန်းတွက်စက်က စုဆောင်းရန် လိုအပ်ပါသည်။ ၎င်း၏ ကိုယ်ရေးအချက်အလက်ပေါ်လစီအတွက် သဘောတူညီချက် ရုပ်သိမ်းခြင်းသည် စုဆောင်းထားသော ပုဂ္ဂိုလ်ရေး အချက်အလက်များအပေါ်တွင် အခြေခံသော ၎င်း၏ ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆန်ခြင်းမည်ပါသည်။</string>
+    <string name="dialog_privacy_revoke_btn_ok">ရုပ်သိမ်းရန်</string>
+    <string name="dialog_privacy_revoke_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
     <string name="dialog_privacy_title">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="dialog_rating_desc_ask">ဂဏန်းတွက်စက်နှင့်ပတ်သက်၍ သင့်အမြင်ကို ပြောပြပါ</string>
     <string name="dialog_rating_desc_less">ကျွန်ုပ်တို့ထံ တုံ့ပြန်အကြံပြုမလား?</string>
@@ -117,6 +121,7 @@
     <string name="global_search_key_word_figure">ငွေကြေးဆိုင်ရာ အက္ခရာများ</string>
     <string name="golbal_search_calculator_setting">ဂဏန်းတွက်စက်;ဂဏန်းတွက်စက် ဆက်တင်;ဆက်တင်</string>
     <string name="golbal_search_path_calculator_setting">စနစ်အက်ပ်များ/ဂဏန်းတွက်စက်/ဆက်တင်</string>
+    <string name="gst_percentage">%s</string>
     <string name="height_prompt">အမြင့်</string>
     <string name="help_content_desc">အကူအညီ</string>
     <string name="hint_annual_rate">တစ်နှစ်တာနှုန်းထည့်ပါ</string>
@@ -161,6 +166,17 @@
     <string name="item_title_vel_conversion">အရှိန်</string>
     <string name="item_title_volume_conversion">ထုထည်</string>
     <string name="item_title_weight_conversion">အလေးချိန်</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
+    <string name="l_name_discount">လျှော့ဈေး (%s လျော့)</string>
     <string name="label_about">အကြောင်း</string>
     <string name="label_clear_history">အားလုံးရှင်းပစ်မည်</string>
     <string name="label_date_difference">ကွဲပြားမှု</string>
@@ -171,8 +187,10 @@
     <string name="label_from_date">မှ</string>
     <string name="label_history">မှတ်တမ်း</string>
     <string name="label_interest">အတိုး (ရာခိုင်နှုန်း)</string>
+    <string name="label_investment_disclaimer">ကျွန်ုပ်တို့က သုံးလတစ်ကြိမ် ထပ်တလဲလဲတွက်ချက်ခြင်း စနစ်ကို သုံးပါသည်</string>
     <string name="label_investment_duration">ကြာချိန်</string>
     <string name="label_loan_tenure">ချေးငွေသက်တမ်း</string>
+    <string name="label_monthly_investment">လစဉ် ရင်းနှီးမြှုပ်နှံမှု</string>
     <string name="label_months">လများ</string>
     <string name="label_no_history">ဤနေရာတွင် အိုင်တမ် မရှိသေးပါ</string>
     <string name="label_powered_by">Mi ဂဏန်းပေါင်းစက်မှ အားဖြည့်သည်</string>
@@ -219,6 +237,7 @@
     <string name="loan_type_summary_lpr">LPR</string>
     <string name="loan_type_title">အတိုးနှုန်းစံညွှန်း</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="localised_number">%d</string>
     <string name="lpr_ok">နားလည်ပါပြီ</string>
     <string name="lpr_tips_msg">"ကိုယ်ရေးကိုယ်တာ လုပ်ငန်းသုံး အိမ်ယာအတိုးနှုန်းအား ယခင်အသုံးပြုခဲ့သည့် စံပြုအတိုးနှုန်း ၄.၉% အစား ချေးငွေဆိုင်ရာ အထူးအတိုးနှုန်း (LPR) နှင့်အညီ ၂၀၁၉ ခုနှစ်၊ အောက်တိုဘာလ ၈ ရက်နေ့မှစတင်၍ တွက်ချက်သွားပါမည်။ ယခုအခါတွင် အတည်ပြုမည့် နှုန်းထားအား LPR ပြောင်းလဲမှုပမာဏတစ်ရပ် ထည့်သွင်းခြင်းအားဖြင့် အတည်ပြုပေးသွားပါမည်။
 
@@ -280,6 +299,7 @@
     <string name="network_confirm_content">ငွေစျေး၊ အခွန်နှင့် ပေါင်နှံငွေများ ပုံမှန်တွက်ချက်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ခွင့်နှင့် တည်နေရာသို့ ဝင်ရောက်ခွင့်များ လိုအပ်ပါသည်။</string>
     <string name="network_confirm_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="network_purpose">ဂဏန်းပေါင်းစက်သို့ ကြိုဆိုပါသည်။ ဂဏန်းပေါင်းစက်ဖြင့် ငွေလဲနှုန်းများတွက်ပေးခြင်း၊ အိမ်ပေါင်ကြွေးတွက်ချက်ပေးခြင်းနှင့် အခြားအရာများကို လုပ်နိုင်ပါသည်။</string>
+    <string name="new_privacy_string">&lt;Data>Calculator က ကြိုဆိုပါ၏။&lt;br/>ဤအက်ပ်တွင် အောက်ပါအင်္ဂါရပ်များ ပါဝင်ပါသည် -&lt;br/>• အခြေခံဂဏန်းတွက်စက်&lt;br/>• သိပ္ပံဘာသာရပ်သုံး ဂဏန်းတွက်စက်&lt;br/>• ကမ္ဘာသုံးယူနစ်ပြောင်းစနစ် (ဥပမာ - ငွေကြေး၊ အတိုင်းအတာယူနစ်များနှင့် အစရှိသည်တို့)&lt;br/>• ချေးငွေများ၊ ရင်းနှီးမြုပ်နှံငွေများ၊ EMI နှင့် အခြားအရာများအတွက် တွက်ချက်မှုပုံစံများ&lt;br/>သင့်အတွက် အခြေခံဝန်ဆောင်မှုများ ပေးအပ်ရန် လိုအပ်သော ပုဂ္ဂိုလ်ရေး သတင်းအချက်အလက်များအား Calculator က စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော သတင်းအချက်အလက်များကို ကိုင်တွယ်စီမံပုံအကြောင်းအား ကျွန်ုပ်တို့၏ &lt;a href= \"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် လေ့လာနိုင်ပါသည်။ Calculator ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ကို ဖတ်ရှု၍ သဘောတူလက်ခံပေးပါ။ကျွန်ုပ်တို့၏ ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို သင်လက်မခံပါက ဤအက်ပ်၏ အချို့သော ဝန်ဆောင်မှုများအား သင်အသုံးပြုနိုင်မည် မဟုတ်သော်လည်း ၎င်း၏ အခြေခံလုပ်ဆောင်ချက်များအား သင်အသုံးပြုနိုင်ပါသေးသည်။&lt;/Data></string>
     <string name="none">မရှိ</string>
     <string name="not_supported_due_to_language">ဤအင်္ဂါရပ်သည် တရုတ်ဘာသာတွင်သာ ရရှိနိုင်သည်</string>
     <string name="ok">အိုကေ</string>
@@ -312,7 +332,11 @@
     <string name="preference_use_voice_summary">တွက်ချက်မှုများပြုလုပ်စဉ် စကားပြောထွက်လာခြင်းသုံးရန် ဖွင့်ပါ</string>
     <string name="preference_use_voice_title">စကားပြောထွက်လာခြင်း</string>
     <string name="preference_user_feedback_title">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="privacy_dialog_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_revoke_error">ရုပ်သိမ်း၍ မရခဲ့ပါ။ ထပ်စမ်းကြည့်ပါ</string>
+    <string name="privacy_revoke_progress">ရုပ်သိမ်းနေသည်…</string>
+    <string name="privacy_switch">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
     <string name="radDesc">စက်ဝိုင်း</string>
     <string name="rate_data_provider">အတိုးနှုန်းများအား hexun.com မှ ပံ့ပိုးသည်</string>
     <string name="reciprocalDesc">အပြန်အလှန်ဖြစ်သော</string>
@@ -750,12 +774,14 @@
     <string name="unit_yuan">ယွမ်</string>
     <string name="updating">ဂဏန်းတွက်စက်အား အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_experience_program_title">သုံးစွဲသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="view_float_window_move">အသေးဆုံး ဂဏန်းတွက်စက်အား ရွှေ့မည်</string>
     <string name="voiceDesc">အသံ ထိန်းချုပ်မှု</string>
     <string name="voice_guide_text">စကားပြောထွက်လာရန် ဤနေရာတွင် ဖွင့်နိုင်သည်</string>
     <string name="warn_locale_unsupport_for_voice">ဤဘာသာစကားအတွက် အသံထွက် မပံ့ပိုးသေးပါ။</string>
     <string name="weight_prompt">အလေးချိန်</string>
     <string name="wf_word_figure">ငွေကြေးဆိုင်ရာ အက္ခရာများ</string>
+    <string name="withdraw_network_error">ခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_wan">"万 "</string>
@@ -777,6 +803,10 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_calculator_delete_description">ဂဏန်ပေါင်းစက်သည် စနစ်အက်(ပ်)တစ်ခု ဖြစ်သည်။ အက်(ပ်)ကို ဖြုတ်ပြီးနောက် အမျိုးမျိုးသော စနစ်ပြောင်းနည်းများနှင့် အပိုအင်္ဂါရပ်များကို သုံးနိုင်တော့မည် မဟုတ်ပါ။</string>
+    <string name="xiaomi_calculator_delete_title">ဂဏန်းပေါင်းစက်ကို ပြန်ဖြုတ်လိုသလား။</string>
+    <string name="xiaomi_calculator_remove_icon_description">ဂဏန်ပေါင်းစက်သည် စနစ်အက်ပ်တစ်ခု ဖြစ်သည်။ ပင်မမျက်နှာပြင်ရှော့ကဒ်ကို ဖယ်ရှားပြီးနောက် အမျိုးမျိုးသော စနစ်ပြောင်းနည်းများနှင့် အပိုအင်္ဂါရပ်များကို သင်သုံးနိုင်တော့မည် မဟုတ်ပါ။</string>
+    <string name="xiaomi_calculator_remove_icon_title">ပင်မမျက်နှာပြင်မှ \"ဂဏန်းတွက်စက်\" ကို ဖယ်ရှားလိုပါသလား။</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ်များအား ချိတ်ဆက်၍ မရပါ။ ဤအက်ပ်မှ တောင်းဆိုထားသော ခွင့်ပြုချက် အားလုံး ရှိမရှိ ဆက်တင် > ထည့်သွင်းထားသော အက်ပ်များတွင် စစ်ကြည့်ပါ။</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မရရှိပါ။ SD ကဒ်အား စစ်ဆေးပါ။</string>
     <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s

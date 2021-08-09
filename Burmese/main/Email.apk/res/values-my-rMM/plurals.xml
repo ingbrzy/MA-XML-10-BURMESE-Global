@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">၁ နာရီ အတွင်း</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">နာရီဝက် အတွင်း</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ချက်ချင်း</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d မိနစ်အတွင်း</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ယခုလေးတင်</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+    </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ စောင် မဖတ်ရသေးပါ</item>
     </plurals>
@@ -63,26 +90,44 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">မက်ဆေ့ချ် %1$d စောင်ကို အပြီးသတ် ဖျက်ပစ်ပါတော့မည်။</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
+    </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">ပူးတွဲဖိုင် %1$d ခု ကို ဝှက်ပါ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">၁ နာရီ အတွင်း</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">နာရီဝက် အတွင်း</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ချက်ချင်း</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d မိနစ် အကြာမှာ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="local_search_result">
         <item quantity="other">ဆင့်ခ်လုပ်ထားသော မက်ဆေ့ချ်များတွင် %s စောင် တွေ့ရှိသည်</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d လ</item>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသော</item>
     </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">ပူးတွဲဖိုင် %1$d ခု ကျန်သေးသည်</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">စကားပြောဆိုထားမှု %1$d ခုကို ရွှေပါ</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">မက်ဆေ့ချ်အသစ် %1$d စောင်ကိုပြပါ။</item>
     </plurals>
     <plurals name="new_messages">
         <item quantity="other">မက်ဆေ့ချ်အသစ် %1$d စောင်</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d ခုကို ရွေးချယ်ထားပါသည်</item>
@@ -116,9 +161,6 @@
     </plurals>
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d ပတ် အလို</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">လူ %1$d ယောက်ထံ စာပြန်ပါ</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">အကောင့်အားလုံးတွင် %s စောင် တွေ့ရှိသည်</item>

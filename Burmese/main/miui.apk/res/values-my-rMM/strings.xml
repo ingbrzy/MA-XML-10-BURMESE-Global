@@ -113,6 +113,7 @@
     <string name="clearable_edittext_clear_description">ရှင်းပစ်မည်</string>
     <string name="click_to_restore">စက်ရုံထုတ်အနေအထားသို့ ပြန်သတ်မှတ်ပြီးနောက်တွင် MIUI ကို ပုံမှန်အတိုင်း အသုံးပြုနိုင်စေရန်အတွက် စနစ်အိုင်တမ်များအား နဂိုအတိုင်း ပြန်ထားပါ။ စတင်ရန် ထိနှိပ်ပါ။</string>
     <string name="com_android_email">မေးလ်</string>
+    <string name="com_android_soundrecorder">ရီကော်တာ</string>
     <string name="com_mi_liveassistant">တိုက်ရိုက်ထုတ်လွှင့်မှု အကူအညီ</string>
     <string name="com_miui_calculator">ဂဏန်းတွက်စက်</string>
     <string name="com_miui_cleanmaster">သန့်ရှင်းစက်</string>
@@ -121,12 +122,14 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">မှတ်စုများ</string>
     <string name="com_miui_screenrecorder">မျက်နှာပြင်ရီကော်ဒါ</string>
+    <string name="com_miui_virtualsim">Mi ရွန်းမင်း</string>
     <string name="com_miui_weather2">ရာသီဥတု</string>
     <string name="com_xiaomi_drivemode">ကားမုဒ်</string>
     <string name="com_xiaomi_gamecenter">ဂိမ်းများ</string>
     <string name="com_xiaomi_jr">Mi ဘဏ္ဍာရေး</string>
     <string name="com_xiaomi_scanner">စကန်နာ</string>
     <string name="com_xiaomi_shop">Mi စတိုး</string>
+    <string name="com_xiaomi_vipaccount">Mi အဖွဲ့အစည်း</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">အတည်ပြုမည်</string>
     <string name="country_name_ac">AC</string>
@@ -388,6 +391,7 @@
     <string name="error_title">ဆင့်ခ်လုပ်လို့ မရပါ</string>
     <string name="error_unauthorized">ဆိုင်းအင်ဝင်ရန် အားထုတ်မှုများလွန်းသောကြောင့်၊ ဆင့်ခ်ကို ပိတ်ထားသည်။</string>
     <string name="evening">ညနေ</string>
+    <string name="experience_new_system_app">အင်္ဂါရပ်အသစ်များကို ကြည့်ပါ။</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -567,6 +571,7 @@
     <string name="system_app_restore_failed">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="system_app_restore_failed_detail">စနစ်အိုင်တမ်များအား နဂိုအတိုင်းပြန်ထား၍ မရခဲ့ပါ။ ကွန်ရက်ဆက်တင်များကို စစ်ဆေးကြည့်ပါ။ အိုင်တမ်များအား နဂိုအခြေအနေသို့ အပြည့်အဝ ပြန်ထားပြီးသည့်အချိန်အထိ သင့်စက်ကို ပြန်စခြင်း သို့မဟုတ် ပိတ်ခြင်းများကိုလည်း မလုပ်ပါနှင့်။ နောက်တစ်ကြိမ်ထပ်လုပ်ရန် အောက်ပါခလုတ်ကို ထိနှိပ်ပါ။</string>
     <string name="system_restore">အိုင်တမ်များကို ပြန်သိမ်းဆည်းမည်</string>
+    <string name="tap_to_update_system_app">စနစ်အက်(ပ်)များကို အပ်ပဒိတ်လုပ်ရန် တို့ပါ</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -618,6 +623,7 @@
     <string name="tuesday">အင်္ဂါနေ့</string>
     <string name="tuesday_short">ဂါ</string>
     <string name="tuesday_shortest">ဂါ</string>
+    <string name="wait_for_wlan_china">Wi-Fi ကို စောင့်နေသည်</string>
     <string name="web_sso_login_fail">သင် ထပ်မံ ဆိုင်းအင်ဝင်ရန် လိုအပ်သည်</string>
     <string name="web_sso_login_message">ဆိုင်းအင်ဝင်နေဆဲ…</string>
     <string name="website">ဝဘ်ဆိုက်</string>

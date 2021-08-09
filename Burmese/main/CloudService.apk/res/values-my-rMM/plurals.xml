@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">အိုင်တမ် %s ခုကို ဆင့်ခ်လုပ်၍ မရပါ</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">ပိတ်ဆို့စာရင်း ထည့်သွင်းမှု %d ခု</item>
     </plurals>
@@ -27,6 +30,9 @@
     <plurals name="dirty_note_count">
         <item quantity="other">မှတ်စု %d ခု</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">မှတ်ချက် %d ခု</item>
+    </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">အက်ပ် မီးခံသေတ္တာ အဝင်ပေါက် %d ခု</item>
     </plurals>
@@ -45,6 +51,9 @@
     <plurals name="dirty_wlan_count_china">
         <item quantity="other">%d WLAN networks</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">%d စက္ကန့်အကြာတွင် ထပ်စမ်းကြည့်ပါ</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">ဆင့်ခ်လုပ်ရန် ဆောင့်ဆိုင်းနေသော အိုင်တမ်များ−%d</item>
     </plurals>
@@ -62,5 +71,17 @@
     </plurals>
     <plurals name="select_no_more_than">
         <item quantity="other">%d ခု ထက်ပို ရွေးမရပါ</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">ဖိတ်ခေါ်မှုကို %d ဦး လက်ခံပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s ရက်</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s နာရီ</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s မိနစ်</item>
     </plurals>
 </resources>

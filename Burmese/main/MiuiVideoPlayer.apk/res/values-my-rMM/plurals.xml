@@ -54,6 +54,15 @@
     <plurals name="plus_serval_videos">
         <item quantity="other">ဗီဒီယို %d ကား</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">%d စက္ကန့်မတိုင်မီ နောက်သို့ပြန်သွားရန် နှစ်ချက်တို့ပါ။</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">%d စက္ကန့်မတိုင်မီ ရှေ့သို့အမြန်သွားရန် နှစ်ချက်တို့ပါ။</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s စက္ကန့်</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">စာရင်းသွင်းသူ  %s</item>
     </plurals>

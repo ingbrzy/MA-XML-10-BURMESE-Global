@@ -122,6 +122,7 @@
     <string name="display_name">အမည် ပြပါ</string>
     <string name="domain">ဒိုမိန်း</string>
     <string name="download_success">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
+    <string name="empty_by_forbid_access">Android 11 အကန့်အသတ်များကြောင့် ဤဖိုင်တွဲရှိအရာများကို ဤနေရာတွင် ပြမရပါ။</string>
     <string name="enable_documentsui">%s အား ဆက်တင်များဝင် ဖွင့်လိုက်ပါ> အက်ပ်အား ဦးစွာတပ်ဆင်ပါ</string>
     <string name="enable_sd_card">SD ကဒ် ထည့်သွင်းပါ (သို့) USB ဒေတာအများအပြား သိုလှောင်ခန်းကို ပိတ်ပါ။.</string>
     <string name="enable_usb">USB ဖြင့်ချိတ်ဆက်ပါ</string>
@@ -136,6 +137,7 @@
     <string name="error_create_dir">ဖိုလ်ဒါ ဖန်တီးလို့မရပါ။</string>
     <string name="error_create_file">ဖိုင် ဖန်တီးလို့မရပါ။</string>
     <string name="error_delete_failed">ဖိုင် ဖျက်လို့မရပါ။</string>
+    <string name="error_file_already_exists">ဤဖိုင်မှာ ရှိနှင့်ထားသော ဖိုင်ဖြစ်ပါသည်။</string>
     <string name="error_filename_too_long">သင်ထည့်သွင်းသော ဖိုင်အမည်က ရှည်လွန်းသည်။</string>
     <string name="error_folder_already_exists">ဤဖိုင်ရှိပြီးဖြစ်သည်။</string>
     <string name="error_info_cant_send_folder">ဒီလို ဖိုင်အမျိုးအစားကို ပို့လို့ မရပါ။</string>
@@ -184,6 +186,8 @@
     <string name="homepage_tab_recent">မကြာမီက</string>
     <string name="host">ဟို့စ်</string>
     <string name="hot_sticker">စတစ်ကာများ</string>
+    <string name="ic_remove_desc">ဖိုင်မန်နေဂျာသည် သင့်စက်အတွင်းမှ ဖိုင်များအား သင့်ကို ကြည့်ရှုစီမံခွင့်ပြုသည့် စနစ်အက်ပ်တစ်ခု ဖြစ်ပါသည်။</string>
+    <string name="ic_remove_title">ပင်မမျက်နှာပြင်မှ ဖိုင်မန်နေဂျာကို ဖယ်ရှားမလား။</string>
     <string name="if_cancel">ဤအော်ပရေးရှင်းအား ပယ်ဖျက်မည်လား?</string>
     <string name="image_loading_error">ပုံကိုမရယူနိုင်ပါ</string>
     <string name="implicit">သွယ်ဝိုက်သော</string>
@@ -195,7 +199,7 @@
     <string name="info_system">စနစ်-</string>
     <string name="info_system_version">စနစ်ဗားရှင်း-</string>
     <string name="invalid_name_or_password">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
-    <string name="just_now">အခုလေးတင်</string>
+    <string name="just_now">ယခုလေးတင်</string>
     <string name="kilobyteShort">KB</string>
     <string name="list_order">စီတန်းမြင်ကွင်း</string>
     <string name="load_more">နောက်ထပ် ကြည့်ပါ</string>
@@ -212,6 +216,7 @@
     <string name="menu_item_deep_clean">အတွင်းကျကျ ရှင်းလင်းခြင်း</string>
     <string name="menu_item_ftp">ကွန်ပျူတာသို့ ချိတ်ဆက်ပါ</string>
     <string name="menu_item_midrop">ဖိုင်များ လွှဲပြောင်းမည်</string>
+    <string name="menu_item_midrop_desc">နောက်ထပ် အက်ပ်များ</string>
     <string name="menu_item_router">ရောင်တာ</string>
     <string name="menu_item_sort">မျိုးတူစုပါ</string>
     <string name="menu_item_sort_add_time">"ဖန်တီးခဲ့သော "</string>
@@ -332,7 +337,12 @@
     <string name="port_range">ဝင်ပေါက်နံပါတ်မှာ ၁၀၂၄ နှင့် ၆၅၅၃၅ အကြားရှိရပါမည်</string>
     <string name="possible_permissions">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
     <string name="privacy_accept">သဘောတူပါသည် &amp; ဆက်လက်လုပ်ဆောင်မည်</string>
-    <string name="privacy_message">ဖိုင်မန်နေဂျာကို အသုံမပြုမီတွင် ကျွန်ုပ်တို့၏ &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>&lt;/font>နှင့်&lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font>များကို သင်သဘောတူရပါမည်။</string>
+    <string name="privacy_cancel"><u>သဘောမတူပါ</u></string>
+    <string name="privacy_desc">ဖိုင်မန်နေဂျာမှာ ကြိုဆိုပါသည်။ ဤအက်(ပ်)တွင် အခြေခံအင်္ဂါရပ်များအပြင် အောက်ပါဝန်ဆောင်မှုများကိုလည်း ဆောင်ရွက်ပေးသည် -</string>
+    <string name="privacy_experience_statement">အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် ပါဝင်ပြီး အသုံးပြုသူဒေတာများကို ကျွန်ုပ်တို့နှင့် မျှဝေခြင်းဖြင့် ကျွန်ုပ်တို့၏ ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများကို တိုးတက်စေရန် ကူညီနိုင်ပါသည်။</string>
+    <string name="privacy_item1">မကြာမီကသုံးထားသောအရာများကို အမျိုးအစားခွဲခြင်း</string>
+    <string name="privacy_item2">ဖိုင်များကို ကြည့်ခြင်းနှင့် တည်းဖြတ်ခြင်း</string>
+    <string name="privacy_message">&lt;Data>ဖိုင်မန်နေဂျာသည် သင့်အား အသုံးပြုမှုကိန်းဂဏန်းများကို ထုတ်ပေးသော အခြေခံဝန်ဆောင်မှုများကို ပေးနိုင်ရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ အသုံးပြုပုံပြုနည်းအကြောင်းကို ကျွန်ုပ်တို့၏&lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ ဖိုင်မန်နေဂျာကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ဖိုင်မန်နေဂျာအတွက် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ဆက်တင်တွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်သည်။ သင်သည် ကျွန်ုပ်တို့၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောမတူပါက ဤအက်(ပ်)ရှိ အင်္ဂါရပ်အချို့ကို သုံးမရ သော်လည်း အခြေခံလုပ်ဆောင်ချက်များကို သုံးနိုင်ပါသည်။&lt;/Data></string>
     <string name="privacy_title">ဖိုင်မန်နေဂျာမှ ကြိုဆိုပါ၏</string>
     <string name="private_files">ကိုယ်ပိုင်သီးသန့်</string>
     <string name="private_folder">ကိုယ်ပိုင်သီးသန့်ဖိုင်များ</string>
@@ -345,7 +355,7 @@
     <string name="recommended_content">အကြံပြုချက်များ</string>
     <string name="remind_no_notice">ကျွန်ုပ်၏ ရွေးချယ်မှုကို မှတ်ထားပါ</string>
     <string name="rename_alert">ဤဖိုင်နောက်ဆက်တွဲအမည်အားပြောင်းလိုက်ပါက သင်သည်ဖွင့်၍ရနိုင်တော့မည်မဟုတ်ပါ</string>
-    <string name="rename_alert2">ဖိုင်အမည် ပြောင်းပြီးနောက် ဖိုင်ကို ဝှက်ထားလိမ့်မည်။</string>
+    <string name="rename_alert2">\".\" နှင့်စတင်သည့် အမည်ပါသော ဖိုင်များအား ဤစနစ်က အလိုအလျောက် ဖျောက်ထားပေးပါသည်။ မည်သို့ပင်ဆိုစေ ဤအမည်ကို သုံးမလား။</string>
     <string name="rename_failed">%1$sကို အမည်ပြန်ပေး၍ မရပါ</string>
     <string name="repair_done">အောင်မြင်စွာ ပြန်ယူပြီးပါပြီ</string>
     <string name="repair_error">ပြန်ယူမရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
@@ -355,9 +365,16 @@
     <string name="restoring">ပြန်ယူနေသည်…</string>
     <string name="revoke">ထားတော့</string>
     <string name="revoke_authorization">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းမည်</string>
+    <string name="revoke_confirm_dialog_cancel">မလုပ်တော့ရန်</string>
+    <string name="revoke_confirm_dialog_content">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် ဖိုင်မန်နေဂျာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူခြင်းအား ရပ်လိုက်ပါမည်။ ကောက်ယူရရှိထားပြီးသော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တည်ဆဲဥပဒေအရလိုအပ်သော သတ်မှတ်အချိန်အတွင်း ဖျက်လိုက်ပါမည်။ ဖိုင်မန်နေဂျာသည် ၎င်း၏ ဝန်ဆောင်မှုများ တိုးတက်စေရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန် လိုအပ်သည်။ ၎င်း၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းခြင်းသည် ၎င်း၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်ကောက်ယူခြင်းကိုအခြေခံသည့် တိုးတက်သောဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာ ရောက်ပါသည်။</string>
+    <string name="revoke_desc">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် ဖိုင်မန်နေဂျာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။</string>
+    <string name="revoke_net_dialog_content">ခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="revoke_net_dialog_ok">နားလည်ပါပြီ</string>
+    <string name="revoke_net_dialog_title">ကွန်ရက်ချိတ်မရပါ</string>
     <string name="revoke_success">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="revoke_timer">(%1$d စက္ကန့်)</string>
     <string name="revoke_tips">ခွင့်ပြုချက်ရုတ်သိမ်းပြီးနောက် ဖိုင်မန်နေဂျာက ဒေတာကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး သက်ဆိုင်ရာဒေတာအားလုံးလည်း ဆာဗာများမှ ပျက်သွားပါမည်။ ထိုအခါ ဖိုင်မန်နေဂျာကို ပကတိအတိုင်း သုံး၍မရတော့ပါ။ မဖြစ်မနေ ခွင့်ပြုချက်ရုတ်သိမ်းလိုသလား။</string>
+    <string name="revoke_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
     <string name="revoking">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
     <string name="rlv_last_refreshing_time">အပ်ဒိတ်လုပ်ထားသော %1$s</string>
     <string name="rlv_loading_more">ခဏစောင့်ပါ…</string>
@@ -428,6 +445,7 @@
     <string name="time_pm">ညနေ</string>
     <string name="time_to_upgrade">အပ်ဒိတ် လုပ်နိုင်ပါပြီ</string>
     <string name="tip">ဂရုစိုက်ခြင်း</string>
+    <string name="tips_by_forbid_access">Android R တွင် မိတ်ဆက်ထားသော စနစ်ကန့်သတ်ချက်များကြောင့် ဤဖိုဒါရှိအရာများကို ဝင်နိုင်တော့မည် မဟုတ်ပါ။ ဤဖိုဒါမှ သင့်ကိုယ်ရေးကိုယ်တာဖိုင်များကို အမြန်ဆုံး ဖယ်ရှားပါ။</string>
     <string name="title_app_tags">အက်ပ်များ</string>
     <string name="title_enable_documentsui">DocumentsUI အား ဖွင့်လိုက်ပါ</string>
     <string name="title_expire_video">သက်တမ်းကုန်တော့မည်</string>
@@ -447,12 +465,15 @@
     <string name="update_use_mobile_data">မိုဘိုင်းဒေတာဖြင့် အလိုအလျောက် အပ်ဒိတ်လုပ်မည်</string>
     <string name="usb_has_removed">USB စက်ကို ဖြုတ်ထားပါသည်</string>
     <string name="used">သုံးထားပြီးသော</string>
+    <string name="user_experience_desc">ကျွန်ုပ်တို့၏ ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများ တိုးတက်စေရန် အသုံးပြုသူဒေတာကို ကျွန်ုပ်တို့နှင့် မျှဝေပါ</string>
+    <string name="user_experience_title">အသုံးပြုသူအတွေ့အကြုံ အစီအစဉ်</string>
     <string name="user_not_login">ဦးစွာဆိုင်းအင်ဝင်ပါ</string>
     <string name="user_notice_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="user_notice_term_of_service">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="utf8_summary">စက်စနစ် FTP သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="version_name">ဗားရှင်း</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
+    <string name="view_by_document">\"ဖိုင်မျာ\" တွင် ကြည့်ပါ</string>
     <string name="wechat_video">%s က ဗီဒီယို</string>
     <string name="wifi_state">Wi-Fi အခြေအနေ</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>

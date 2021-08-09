@@ -1206,7 +1206,7 @@ UT အသုံးပြုမှု အင်တာဖေ့စ် − %5$s"</s
     <string name="sim_change_data_title">ဒေတာဆင်းမ်ကဒ်ကို ပြောင်းမလား။</string>
     <string name="sim_description_default">SIM ကတ်၊ အပေါက်: %s</string>
     <string name="sim_description_emergency_calls">အရေးပေါ် ခေါ်ဆိုမှုသာလျှင်</string>
-    <string name="sim_label_emergency_calls">အရေးပေါ် ခေါ်ဆိုမှုများ</string>
+    <string name="sim_label_emergency_calls">အရေးပေါ်ခေါ်ဆိုမှုများ</string>
     <string name="sim_ndp_dismiss_text">ပယ်ရန်</string>
     <string name="sim_ndp_unlock_text">ဖွင့်ရန်</string>
     <string name="sim_selection_required_pref">ရွေးချယ်မှု လိုအပ်ပါသည်</string>

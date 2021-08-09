@@ -58,6 +58,9 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="geometry_summary">ပုံသဏ္ဍာန်များ၊ အလင်းနှင့် အရောင်များ</string>
+    <string name="geometry_super_wallpaper_label">ဂျီသြမေတြီ</string>
+    <string name="geometry_title">ဂျီသြမေတြီ</string>
     <string name="install_failed">ထည့်သွင်းမရပါ</string>
     <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
 
@@ -77,9 +80,25 @@ Mawrth Vallis"</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">အနီရောင်ဂြိုလ်</string>
     <string name="midnight">ည</string>
-    <string name="miuix_appcompat_cloud_state_disabled">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်း ပိတ်ထားသည်</string>
-    <string name="miuix_appcompat_cloud_state_finished">ကလောက်နှင့် အောင်မြင်စွာ ဆင့်(ခ်)လုပ်ပြီးပါပြီ</string>
-    <string name="miuix_appcompat_cloud_state_syncing">ကလောက်နှင့် ဆင့်(ခ်)လုပ်နေသည်…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
+    <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
+    <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
+    <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
+    <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
+    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
+    <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
+    <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>
@@ -132,6 +151,9 @@ Mawrth Vallis"</string>
     <string name="saturn_summary">စနေဂြိုလ်၏ ကွင်းများသည် နေစကြာဝဠာအတွင်းရှိ အံ့ဖွယ်အကောင်းဆုံးသော ရှုခင်းတစ်ခု ဖြစ်ပါသည်</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">ဝေးလံသောနေရာများမှ စွဲဆောင်မှုများ</string>
+    <string name="snowmountain_summary">Siguniang တောင်ကြီး၏ နေခြည်ဖြာသော တောင်စောင်းများ</string>
+    <string name="snowmountain_super_wallpaper_label">နှင်းဖုံးတောင်ထိပ်များ</string>
+    <string name="snowmountain_title">နှင်းဖုံးတောင်ထိပ်များ</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
@@ -188,6 +210,7 @@ Mawrth Vallis"</string>
     <string name="time_picker_dialog_title">နာရီတိုက်ရန်</string>
     <string name="time_picker_label_hour">နာရီ</string>
     <string name="time_picker_label_minute">မိနစ်</string>
+    <string name="title_system_wallpaper_resource">စနစ်နောက်ခံပုံများ</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="tuesday">အင်္ဂါ</string>
@@ -204,6 +227,9 @@ Mawrth Vallis"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">စူပါ နောက်ခံပုံများ</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">နောက်ထပ်</string>
     <string name="wallpaper_setting_title">နောက်ခံပုံ</string>
+    <string name="weather_summary">ဒေသတွင်း မိုးလေဝသ သတင်းအချက်အလက်</string>
+    <string name="weather_super_wallpaper_label">မိုးလေဝသ</string>
+    <string name="weather_title">မိုးလေဝသ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>

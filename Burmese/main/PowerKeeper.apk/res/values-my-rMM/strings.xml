@@ -20,7 +20,7 @@
     <string name="config_mode_title">နောက်ခံဆက်တင်များ</string>
     <string name="config_no_restrict_description">ဘက်ထရီချွေတာသူသည် အက်ပ်လုပ်ဆောင်ချက်များအား မကန့်သတ်ပါ</string>
     <string name="config_no_restrict_title">ကန့်သတ်ချက်များမရှိ</string>
-    <string name="config_restrict_function_description">အချို့လုပ်ဆောင်ရည်များ(ဥပမာ− အသိပေးချက်များ)အား သက်ရောက်မှုရှိစေသော်လည်း၊ အက်ပ်များအား ပိတ်လိုက်လိမ့်မည်မဟုတ်ပါ</string>
+    <string name="config_restrict_function_description">အက်(ပ်)များကို နောက်ကွယ်လှုပ်ရှားမှု ၁၀ မိနစ်ကြာလျှင် ပိတ်ပါ</string>
     <string name="config_restrict_function_title">နောက်ခံအက်ပ်များအား ကန့်သတ်</string>
     <string name="config_restrict_running_description">အက်ပ်များအား ပါဝါချွေတာရန် ပိတ်လိုက်ပါလိမ့်မည်</string>
     <string name="config_restrict_running_title">နောက်ခံလုပ်ဆောင်ချက်များအား ကန့်သတ်</string>

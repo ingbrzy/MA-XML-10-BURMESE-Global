@@ -212,13 +212,20 @@
     <string name="fdn_enable_puk2_requested">စကားဝှက်မှားနေသည်၊ PIN2 ကိုဘလော့လုပ်ထားသည်။ PIN@ ကို ပြောင်းပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="fdn_full">ဇယားပြည့်နေသည့်အတွက် FDNအား အသစ်မွမ်းမံမှု မပြုနိုင်ခဲ့ပါ</string>
     <string name="fdn_summary">အထွက်ခေါ်များကို စာရင်းတွင်ပါရှိသော FDN များ (သို့) သတ်မှတ် ရှေ့ဆက်စာလုံးများပါသော နံပါတ်များအတွက်သာ ကန့်သတ်ပါ</string>
-    <string name="fiveg_hosted_mode_summary">5G ကွန်ရက် မကောင်းလျှင် ရရှိနိုင်သော အကောင်းဆုံးကွန်ရက်များနှင့် အလိုအလျောက် ပြောင်းချိတ်ပေးသည်</string>
+    <string name="fiveg_hosted_mode_summary">ဘက်ထရီ ချွေတာရန် အကောင်းဆုံးကွန်ရက်ကို အလိုအလျောက်ရွေးချယ်ပါ</string>
     <string name="fiveg_hosted_mode_title">5G စမတ် ပြောင်းချိတ်စနစ်</string>
+    <string name="fiveg_network_mode_default">အလိုအလျောက်</string>
+    <string name="fiveg_network_mode_nsa">NSA</string>
+    <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
+    <string name="fiveg_network_mode_title">5G ကွန်ရက်မုဒ်ကို ရွေးပါ</string>
     <string name="fiveg_network_title">5G ကွန်ရက်များ</string>
     <string name="fiveg_sa_switch_open_dialog_content">သီးခြားရပ်တည်မုဒ်တွင် 5G ချိတ်ဆက်မှု ငြိမ်မည်မဟုတ်သောကြောင့် တယ်လီဖုန်းဝန်ဆောင်မှုများကို ထိခိုက်နိုင်ပါသည်။ သီးခြားရပ်တည်မုဒ်ကို မဖြစ်မနေ ဖွင့်လိုသလား။</string>
     <string name="fiveg_sa_switch_open_dialog_title">သတိပြုရန်</string>
     <string name="fiveg_sa_switch_summary">သီးခြားရပ်တည်မုဒ်တွင် 5G ကွန်ရက်နှင့် ချိတ်ခွင့်ပြုရန်</string>
     <string name="fiveg_sa_switch_title">သီးခြားရပ်တည်မုဒ်</string>
+    <string name="fiveg_sa_switch_title_slot0">SIM %d SA မုဒ်</string>
+    <string name="fiveg_sa_switch_title_slot1">SIM %d SA မုဒ်</string>
+    <string name="fiveg_sa_vice_switch_title">ဒုတိယ SIM ရှိ SA</string>
     <string name="fiveg_switch_title">5G ကွန်ရက်</string>
     <string name="flash_when_ring_summary">အဝင်ခေါ်ဆိုမှုများ ရှိပါက ဖလက်ရှ်မီးဖြင့် အသိပေးပါ</string>
     <string name="flash_when_ring_title">ဖုန်းမြည်သည့်အခါ မီးလင်းပါ</string>
@@ -230,6 +237,7 @@
     <string name="gsm_umts_network_preferences_title">ကွန်ရက်မုဒ်</string>
     <string name="handon_ringer_summary">ဖုန်းကို မြှောက်လိုက်သည့်အခါ အဝင်ခေါ်ဆိုမှုများအတွက် ဖုန်းမြည်သံကို လျှော့ချပါ။</string>
     <string name="handon_ringer_title">မြှောက်လိုက်သည့်အခါ ဖုန်းမြည်သံကို တိုးလိုက်ပါ</string>
+    <string name="incall_error_outgoing_call_failed">ဖုန်းခေါ်မရပါ</string>
     <string name="incall_status_dialed_mmi">MMI အစီအစဉ်ကို စတင်နေသည်…</string>
     <string name="international_roaming_setting">ဒေတာရွန်းမင်း</string>
     <string name="international_roaming_setting_kr">နိုင်ငံတကာရွန်းမင်း</string>
@@ -325,6 +333,7 @@
     <string name="mobile_advanced_ip_address_title">IP လိပ်စာ</string>
     <string name="mobile_advanced_nr_network_title">5G ကွန်ရက်အမျိုးအစား</string>
     <string name="mobile_connection_management">မိုဘိုင်းကွန်ရက်ကို စီမံခန့်ခွဲရန်</string>
+    <string name="mobile_intelligent_connection_title">စမတ်မိုဘိုင်းကွန်ရက်ချိတ်ဆက်မှု</string>
     <string name="mobile_networks">မိုဘိုင်းကွန်ရက် ဆက်တင်</string>
     <string name="mobile_property">မိုဘိုင်းကွန်ရက် အရည်အသွေးများ</string>
     <string name="modem_dialog_body">မိုဘိုင်းကွန်ရက် မတည်ငြိမ်သောကြောင့် ကွန်ရက်ပြဿနာများရှိသည်။ စိစစ်မှုများပြုလုပ်နိုင်ရန် Mi သို့ တုံ့ပြန်အကြံပြုချက်ပေးပို့မလား? ဤအစီရင်ခံစာတွင် ကိုယ်ရေးဆိုင်ရာအချက်အလက်များ ပါဝင်နိုင်ပါသည်။ သင့်အစီရင်ခံစာသည် ဤချွတ်ယွင်းမှုအား ဖြေရှင်းရာ၌ အထောက်အကူပြုနိုင်သည်၊ စီပွားရေးဆိုင်ရာအကြောင်းအရာများအား မျှဝေမည်မဟုတ်ပါ။</string>
@@ -594,7 +603,9 @@
     <string name="skt_msim_emm_cause_3">SIM %d သည် အသုံးပြုသူကို အတည်မပြုနိုင်ခဲ့ပါ။ သင့်စက်ကို ပိတ်၍ တစ်ဖန်ပြန်ဖွင့်ပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။ ဤသို့လုပ်ဆောင်ပြီးနောက်တွင်လည်း ယခုပြဿနာကို ဆက်လက်ကြုံတွေ့နေရသေးပါက သုံးစွဲသူပံ့ပိုးမှုစင်တာ (၁၅၉၉-၀၀၁၁) သို့ ဆက်သွယ်ပေးပါ။</string>
     <string name="skt_msim_emm_cause_6">SIM %d သည် စက်ကို အတည်မပြုနိုင်ခဲ့ပါ။ သင့်စက်ကို ပိတ်၍ တစ်ဖန်ပြန်ဖွင့်ပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။ ဤသို့လုပ်ဆောင်ပြီးနောက်တွင်လည်း ယခုပြဿနာကို ဆက်လက်ကြုံတွေ့နေရသေးပါက သုံးစွဲသူပံ့ပိုးမှုစင်တာ (၁၅၉၉-၀၀၁၁) သို့ ဆက်သွယ်ပေးပါ။</string>
     <string name="skt_msim_emm_cause_7_8_15">SIM %d သည် ကွန်ရက်ကို စာရင်းမသွင်းနိုင်ခဲ့ပါ။ သင့်စက်ကို ပိတ်၍ တစ်ဖန်ပြန်ဖွင့်ပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။ ဤသို့လုပ်ဆောင်ပြီးနောက်တွင်လည်း ယခုပြဿနာကို ဆက်လက်ကြုံတွေ့နေရသေးပါက သုံးစွဲသူပံ့ပိုးမှုစင်တာ (၁၅၉၉-၀၀၁၁) သို့ ဆက်သွယ်ပေးပါ။</string>
-    <string name="smart_dual_sim_prompt">သင့်စက်သည် လက်ရှိလိုင်းမကောင်းလျှင် အရံ SIM ကတ်မှ မိုဘိုင်းဒေတာကို ချိတ်ပေးပါမည်။ ၎င်းအတွက် ဒေတာစရိတ်ပိုကုန်နိုင်သည်။ သင့်ဒေတာအစီအစဉ်အကြောင်း ဖုန်းလိုင်းဝန်ဆောင်မှုဌာနသို့ ဆက်သွယ်မေးမြန်းပါ။</string>
+    <string name="smart_dual_sim_prompt">လက်ရှိကွန်ရက်အားနည်းလျှင် သင့်စက်သည် အရန် SIM ပတ်သုံးပြီး မိုဘိုင်းဒေတာကွန်ရက်ကို ချိတ်ပါမည်။ ထိုသို့ပြုလုပ်ခြင်းဖြင့် ဒေတာခပိုကုန်နိုင်ပါသည်။ ဒေတာခပိုကုန်ခြင်းကို ရှောင်နိုင်ရန် ဒေတာအသုံးပြုမှုကို ကန့်သတ်ပါ။</string>
+    <string name="smart_dual_sim_prompt_ok">ဆက်တင်များ</string>
+    <string name="smart_dual_sim_prompt_title">ဒေတာအသုံပြုမှု သတိပေးချက် (SIM %s)</string>
     <string name="smart_dual_sim_summary">လက်ရှိလိုင်းနှေးနေလျှင် အရံ SIM သို့ အလိုအလျောက်ပြောင်းပြီး ၎င်း၏ မိုဘိုင်းဒေတာကို သုံးပါ။ လိုင်းပြန်ကောင်းလျှင် မူလ SIM ကတ်ကို ပြန်ပြောင်းပေးသည်။</string>
     <string name="smart_dual_sim_title">စမတ်နှစ်ခုတွဲ SIM</string>
     <string name="sms_messages_title">SMS</string>
@@ -642,6 +653,8 @@
     <string name="telocation_setting">တည်နေရာ ဆက်တင်များ</string>
     <string name="telocation_show_settings">ပြသချက် ဆက်တင်များ</string>
     <string name="title_cfu_enabled">ခေါ်ဆိုမှု ထပ်ဆင့်ကမ်းခြင်း ဖွင့်ထားသည်</string>
+    <string name="traffic_mode_summary">လက်ရှိသုံးသောအက်(ပ်)များအတွက် မိုဘိုင်းကွန်ရက်ကို ဦးစားပေးသည်။ နောက်ခံမှ အက်(ပ်)များ ချိတ်နိုင်မည်မဟုတ်ပါ။</string>
+    <string name="traffic_mode_switch_title">အထူးမုဒ်</string>
     <string name="tty_mode_entries_full">TTY အပြည့်</string>
     <string name="tty_mode_entries_hco">TTY HCO</string>
     <string name="tty_mode_entries_off">TTY ပိတ်ပါ</string>
@@ -698,6 +711,7 @@
 
 အရေးပေါ်ဖုန်းများကို မိုဘိုင်းကွန်ရက် ဆက်သွယ်ရေးဧရိယာအတွင်းသာ ခေါ်ဆိုနိုင်သည်။"</string>
     <string name="vowifi_emergency_warning_title">WiFi ခေါ်ဆိုမှု မှတစ်ဆင့် အရေးဖုန်းပေါ် ခေါ်ဆိုမှုများ</string>
+    <string name="wfcmode_ims_preferred">IMS ကို ရွေးချယ်ပါ</string>
     <string name="wfcmode_mobile_preferred">မိုဘိုင်းကွန်ရက် ပိုလိုလားသည်</string>
     <string name="wfcmode_wifi_only">Wi-Fi သာ</string>
     <string name="wfcmode_wifi_preferred">Wi-Fi ပိုလိုလားသည်</string>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">အက်ပ် %dခုအတွက် ဘယ်တော့မှ မပိတ်ပါနှင့်</item>
+        <item quantity="other">အက်ပ် %d ခုအတွက် ဘယ်တော့မှ မပိတ်ပါနှင့်</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">အက်ပ်%d ခုအတွက် အမြဲပိတ်ထားပါ</item>
+        <item quantity="other">အက်ပ် %d ခုအတွက် အမြဲပိတ်ထားပါ</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">အက်ပ် %dခုကို အော်တိုစတင်ခွင့်ပေးမည်</item>
@@ -54,6 +54,9 @@
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">စက်တွင် အနီးအနားရှိ သိမ်းထားသော ကွန်ရက်များမိပါက Wi-Fi ကို အလိုအလျောက်ဖွင့်ပေးပြီး ကွန်ရက်ချိတ်မိခြင်းမရှိဘဲ %d မိနစ်ကြာလျှင် ပိတ်ပေးသည်</item>
+    </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသည်</item>
     </plurals>
@@ -61,7 +64,7 @@
         <item quantity="other">CIT ကိုဝင်ခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d step away from opening device info."</item>
+        <item quantity="other">စက်အချက်အလက်များကို ဖွင့်ရန် အဆင့် %1$d ဆင့် လိုသေးသည်။</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">ဘတ်ကိုအစီရင်ခံခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>
@@ -71,6 +74,9 @@
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">အက်ပ် %d ခုမှအသိပေးချက်များ ဖော်ပြနိုင်သည်။</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">သင့်နားကြပ်တစ်ဖက်သည် %d မိနစ်ထက် ပိုပြီး နားတွင်မရှိလျှင်လည်းကောင်း အားသွင်းဘူးတွင်မရှိလျှင်လည်းကောင်း သတိပေးချက်ရယူပါ</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">လော့ခ်ဖြည်မှု %d ကြိမ်</item>

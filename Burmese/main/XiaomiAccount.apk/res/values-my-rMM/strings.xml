@@ -20,7 +20,7 @@
     <string name="account_has_been_set">ပြောင်းလဲ</string>
     <string name="account_invalid_user_avatar">ဤဓာတ်ပုံမှာ တရားမဝင်ပါ။ အခြားတစ်ခုဖြင့် ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="account_limit_update_birthday">မွေးနေ့အား ယခုအသစ်မွမ်းမံခြင်းမပြုနိုင်ပါ</string>
-    <string name="account_mibi_center">Mi ခရက်ဒစ်များ</string>
+    <string name="account_mibi_center">Mi ဒင်္ဂါးပြား</string>
     <string name="account_mibi_charge">ငွေဖြည့်မည်</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">တစ်ခုမှမဟုတ်</string>
@@ -56,7 +56,7 @@
     <string name="activate_email_notice">သင့်အကောင့်အား ၂၄ နာရီအတွင်း အသက်သွင်းပေးပါ</string>
     <string name="activity_not_found_notice">အက်ပ်ကို ရှာမတွေ့ပါ</string>
     <string name="add_account">အကောင့်ကို ချိတ်ဆက်ပါ</string>
-    <string name="agreement_and_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ နှင့် အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="agreement_and_privacy">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="app_name">Mi အကောင့်</string>
     <string name="auth_fail_warning">ဆက်ရှင်သက်တမ်းကုန်သွားပြီ၊ ဆိုင်းအင်ထပ်ဝင်ရောက်ပါ</string>
     <string name="authorize_title">လုပ်ပိုင်ခွင့်ပေးခြင်း</string>
@@ -113,6 +113,7 @@
     <string name="exit">ထွက်မည်</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
+    <string name="facebook_login">Facebook ဖြင့် အကောင့်ဝင်ရန်</string>
     <string name="failed_dup_secure_phone_number">ဒီဖုန်းနံပါတ်က အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပြီးသား ဖြစ်သည်</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">စက်ကို ရှာမည်</string>
@@ -149,6 +150,7 @@
     <string name="get_phone_bind_exceed_limit">ဖုန်းနံပါတ်တစ်ခုဖြင့် Mi အကောင့်သုံးခုသာ ဆက်စပ်နိုင်ပါသည်။ အကောင့်အသစ် ထည့်သွင်းလို့မရတော့ပါ။</string>
     <string name="get_phone_verifycode_exceed_limit">အတည်ပြုကုဒ် အများအပြားကို ဒီနံပါတ်သို့ ပို့ထားသည်။ ၂၄ နာရီခန့် စောင့်ပြီးနောက်၊ ထပ်ကြိုးစားပါ။</string>
     <string name="google">Google</string>
+    <string name="google_login">Google ဖြင့် အကောင့်ဝင်ရန်</string>
     <string name="guest_account_label">Mi ဧည့်သည်အကောင့်</string>
     <string name="health_action_activate">အသက်သွင်းမည်</string>
     <string name="health_action_install">ထည့်သွင်းမည်</string>
@@ -157,6 +159,7 @@
     <string name="health_state_not_activated">အသက်မသွင်းရသေးပါ</string>
     <string name="health_state_not_installed">မထည့်သွင်းထားပါ</string>
     <string name="health_state_not_support">ဤဗားရှင်းအတွက် မထောက်ပံ့ထားပါ</string>
+    <string name="help_center">အကူအညီ</string>
     <string name="i_agree">အိုကေ</string>
     <string name="i_agree_continue">သဘောတူပါသည်</string>
     <string name="identity">စစ်မှန်ကြောင်းအတည်ပြုခြင်း</string>
@@ -239,7 +242,7 @@
     <string name="passport_checking_input">ရေးသွင်းမှု… ကို စစ်ဆေးနေဆဲပါ</string>
     <string name="passport_click_email_to_valid">သင့်အကောင့်ကို အသက်သွင်းရန်အတွက် သင့်အဝင်စာပုံးသို့ ကျွန်ုပ်တို့ပို့လိုက်သည့် လင့်ခ်အတိုင်း ဆောင်ရွက်ပါ။</string>
     <string name="passport_completed">ပြီးပါပြီ</string>
-    <string name="passport_confirm_login">ဆက်လက်လုပ်ဆောင်မည်</string>
+    <string name="passport_confirm_login">အကောင့်ဝင်ရန်</string>
     <string name="passport_confirm_recycle_account">ဟုတ်ပါသည်</string>
     <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>နံပါတ်%s &lt;/font> အား ဖုန်းလိုင်းဝန်ဆောင်မှုဌာနမှ ပြန်သိမ်းလိုက်ပုံရသည်၊ 'ယင်းနှင့် ချိတ်တွဲထားသော Mi အကောင့် တစ်ခုရှိသည်။ သင့်အကောင့်ဟုတ်ပါသလား?"</string>
     <string name="passport_continue">ဆက်လက်လုပ်ဆောင်မည်</string>
@@ -277,7 +280,7 @@
     <string name="passport_error_verify_activator_phone_title">ဖုန်းနံပါတ်အား အတည်ပြု၍မရပါ</string>
     <string name="passport_failed_to_send_activate_email">အသက်သွင်းမှုအီးမေးလ်ပို့မရပါ</string>
     <string name="passport_find_password_on_web_msg">သင့်စကားဝှက်အား ပြန်သတ်မှတ်ရန် account.mi.com သို့ ဝင်လည်ပါ။</string>
-    <string name="passport_first_login_prompt">ပထမအကြိမ် ဆိုင်းအင်ဝင်သောအခါ Mi အကောင့်အား အလိုအလျောက် ဖန်တီးမည်။</string>
+    <string name="passport_first_login_prompt">ဖုန်းနံပါတ်တစ်လုံးအား ပထမဆုံးအကြိမ် သင်အသုံးပြုသောအခါ Mi အကောင့်ကို အလိုအလျောက် ဖန်တီးပေးပါမည်။</string>
     <string name="passport_forget_password"><u>စကားဝှက် မေ့နေသည်</u></string>
     <string name="passport_forget_password_no_underline">စကားဝှက် မေ့နေသည်</string>
     <string name="passport_get_back_pwd">အကောင့်စကားဝှက်ကို ပြန်လည်ရယူပါ</string>
@@ -312,6 +315,7 @@
     <string name="passport_login_instead_reg">ဒီနံပါတ်ကို သုံးပါ</string>
     <string name="passport_login_instead_reg_with_email">ဒီအီးမေးလ်ကို သုံးပါ</string>
     <string name="passport_login_other_account">အခြားအကောင့်</string>
+    <string name="passport_login_other_way">အခြား အကောင့်ဝင်နည်းများ</string>
     <string name="passport_login_prompt">Mi ဝန်ဆောင်မှု အားလုံး၊ Mi အကောင့် တစ်ခု</string>
     <string name="passport_login_recycle_account_no">မလုပ်ပါ</string>
     <string name="passport_login_recycle_account_yes">ဟုတ်ပါသည်</string>
@@ -329,6 +333,10 @@
     <string name="passport_prev">နောက်သို့</string>
     <string name="passport_privacy_policy">ကိုယ်ရေးလုံခြုံမှုဝါဒ</string>
     <string name="passport_privacy_policy_required">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">သင့်ကိုယ်ရေးကိုယ်တာဒေတာများကို သင်ရွေးထားသော နယ်မြေ၏ ဥပဒေ၊ စည်းမျဉ်းစည်းကမ်းများနှင့်အညီ သိမ်းဆည်းပါမည်။</string>
+    <string name="passport_provision_password_req_notice">အနည်းဆုံး အက္ခရာ <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> လုံးနှင့် အောက်ပါ အမျိုးအစား၊ စာလုံး၊ ကိန်းဂဏန်း၊ အထူးသင်္ကေတများမှ <xliff id="min_pwd_type" refersto="2">%3$d</xliff> လုံး</string>
     <string name="passport_pwd_generate_failure">စကားဝှက်မထုတ်လုပ်နိုင်ခဲ့ပါ</string>
     <string name="passport_pwd_generating">ဖန်တီးနေသည်…</string>
     <string name="passport_querying_phone_info">အကောင့်အချက်အလက် တောင်းဆိုနေသည်…</string>
@@ -353,7 +361,7 @@
     <string name="passport_reg_success_summary">%1$s မှာသင်၏အကောင့်နှင့် ချိတ်ဆက်ပြီးဖြစ်ပါသည်။ အကောင့်ထဲသို့ဝင်ရန် သို့မဟုတ် စကားဝှက်ပြန်လည်သတ်မှတ်ရန် ၄င်းအား အသုံးပြုနိုင်ပါသည်။</string>
     <string name="passport_reg_type_email">အီးမေးလ်လိပ်စာ</string>
     <string name="passport_reg_using_other_phone"><u>အခြားဖုန်းနံပါတ်တစ်ခုအား အသုံးပြုပါ</u></string>
-    <string name="passport_reg_using_other_phone_number_prompt">"  သုံးပြီး အက​ောင့်သစ်တစ်ခု ဖန်တီးပါ"</string>
+    <string name="passport_reg_using_other_phone_number_prompt">"ဤအရာကိုသုံးပြီး အကောင့်သစ်တစ်ခုဖွင့်ပါ - "</string>
     <string name="passport_reg_using_phone_number_prompt">ဖုန်းနံပါတ်သုံးပြီး အကောင့်ဖန်တီးပါ</string>
     <string name="passport_reg_via_sms_alert">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="passport_reging">အကောင့် ဖန်တီးခြင်း…</string>
@@ -365,6 +373,7 @@
     <string name="passport_register_restricted_title">ဤဖုန်းနံပါတ်အားအသုံပြု၍မရပါ</string>
     <string name="passport_register_using_other_ways">အကောင့်ဖန်တီးရန် အခြားနည်းလမ်းများ</string>
     <string name="passport_registered_phone_num">ဖုန်းနံပါတ်- %s</string>
+    <string name="passport_registered_phone_num_v2">ဖုန်းနံပါတ်</string>
     <string name="passport_registered_phone_user_ID">အသုံးပြုသူ ID -%s</string>
     <string name="passport_registered_phone_user_name">အသုံးပြုသူအမည်−%s</string>
     <string name="passport_reject_recycle_account">မဟုတ်</string>
@@ -392,8 +401,8 @@
     <string name="passport_setting">သတ်မှတ်နေ…</string>
     <string name="passport_skip_login">ကျော်</string>
     <string name="passport_skip_register">မှတ်ပုံတင်ခြင်းကို ကိုကျော်လိုက်မည်</string>
-    <string name="passport_skip_setup_account_msg">ကြိုတင်ပြင်ဆင်ချက်များမှာ Mi အကောင့်ကို မကြာမီ သတ်မှတ်တည်ဆောက်နိုင်သည်။</string>
-    <string name="passport_skip_setup_account_title">Xiaomi ကလောက် မသုံးဘူးလား။</string>
+    <string name="passport_skip_setup_account_msg">Mi အကောင့်သို့ ဝင်ခြင်းဖြင့် Xiaomi ကလောက် ဝန်ဆောင်မှုများကို သုံးခွင့်ရပါသည်။ ဤအဆင့်ကို မဖြစ်မနေ ကျော်လိုပါသလား။</string>
+    <string name="passport_skip_setup_account_title">Mi အကောင့်နှင့် Xiaomi ကလောက်</string>
     <string name="passport_sms_send_success">ပို့ပြီး</string>
     <string name="passport_sms_verification_code_login">SMS ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="passport_sms_verification_code_login_or_register">SMS ဖြင့် ဆိုင်းအင်ဝင်မည် သို့မဟုတ် အကောင့်တစ်ခု ဖန်တီးမည်</string>
@@ -440,6 +449,9 @@
     <string name="permission_group_storage">သိုလှောင်ခန်း</string>
     <string name="phone_num_use_for">အောက်ပါအတွက် ဖုန်းနံပါတ်ကို သုံးမည်-</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ</string>
+    <string name="provision_back">နောက်ပြန်</string>
+    <string name="provision_next">နောက်တစ်ဆင့်</string>
+    <string name="provision_skip_underline">ကျော်ရန်</string>
     <string name="push_notification_content">အတည်ပြုကုဒ် ရယူပါ</string>
     <string name="push_notification_title">အမည်မသိစက်တစ်ခုတွင် သင့်Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ခဲ့ပါသည်</string>
     <string name="push_notify_dialog_message">သင့်Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ရန် အမည်မသိစက်တစ်လုံးကို သုံးခဲ့သည်။ ဤအတည်ပြုကုဒ်အား စက်ပေါ်တွင် ရိုက်ထည့်ပါ။ အကယ်၍သင်မဟုတ်ပါ၊ သင့်Mi အကောင့်စကားဝှက်အား ချက်ခြင်း ပြောင်းပါ။ အခြားသူများကို အတည်ပြုကုဒ် မပြပါနှင့်။</string>
@@ -515,7 +527,7 @@
     <string name="update_email_address_dialog_title">အသစ်မွမ်းမံ အီးမေးလ်</string>
     <string name="update_phone_notice">လုံခြုံရေးဆက်တင်များကို ပြောင်းမည်</string>
     <string name="update_phone_number_notice_message">သင့်ဖုန်းနံပါတ်အား အသစ်မွမ်းမံခြင်းမပြုမီ မှန်ကန်ကြောင်းစစ်ဆေးခံရန် လိုအပ်ပါသည်</string>
-    <string name="used_cloud_storage_info">အသုံးပြုထားသော %s</string>
+    <string name="used_cloud_storage_info">%s သုံးထားသည်</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းပါ</string>
     <string name="user_avatar_uploading">ခဏစောင့်ပါ…</string>
     <string name="vip_account_settings">VIP ဆက်တင်များ</string>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>ထပ်လုပ်ကြည့်ပါ</item>
+        <item></item>
+        <item></item>
+        <item>လက်ဗွေစကန်နာကို အပြည့်အုပ်ပြီး အားသုံးဖိပါ</item>
+        <item></item>
+        <item>လက်ဗွေစကန်နာကို အပြည့်အုပ်ပြီး အားသုံးဖိပါ</item>
+        <item>လက်ဗွေအာရုံခံကိုသန့်ရှင်းအောင်သုတ်ပြီး ပြန်လုပ်ကြည့်ပါ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>လက်ဗွေစကန်နာကို အပြည့်အုပ်ပြီး အားသုံးဖိပါ</item>
+        <item>လက်ဗွေစကန်နာကို အပြည့်အုပ်ပြီး အားသုံးဖိပါ</item>
+        <item>အလွန်မြန်သည်။ လက်ဗွေကို မမှတ်မိပါ</item>
+        <item>လက်ကိုအနည်းငယ်ရွှေ့ပြီး ပြန်လုပ်ကြည့်ပါ</item>
+        <item>လက်ကိုမပြီး စကန်နာတွင်ပြန်ချပါ</item>
+        <item>လက်ကို စကန်နာတွင် ခပ်ကြာကြာထားပါ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>လက်ကိုအနည်းငယ် ရွှေ့ပါ</item>
+        <item>ဤလက်ဗွေကို ထည့်ပြီးသားဖြစ်သည်။ အခြားလက်ဗွေသုံးပါ</item>
+    </string-array>
+</resources>

@@ -25,11 +25,27 @@
         <item>PIN</item>
         <item>စကားဝှက်</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>တစ်လစာ ပလန်</item>
+        <item>အကန့်အသတ်မဲ့</item>
+        <item>တစ်နေ့စာ ပလန်</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>စိတ်ကြိုက်</item>
         <item>Mi ပရိသတ်ကတ်</item>
         <item>Xiao Tiansheng ကတ်</item>
         <item>Tencent King ကတ်</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>စိတ်ကြိုက်</item>
+        <item>Mi မိုဘိုင်း</item>
+        <item>Mi ပရိသတ်ကတ်</item>
+        <item>Tianshen ကတ်</item>
+        <item>Tencent ကတ်</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"မနေ့က (မိုဘိုင်းဒေတာ) "</item>
@@ -68,6 +84,13 @@
         <item>သင်၏ တိကျရှင်းလင်းသော ခွင့်ပြုချက်မပါဝင်ဘဲ သင့်စက်ပေါ်တွင် အက်ပ်များ ထည့်သွင်းခြင်းကို ခွင့်ပြုပေးပေလိမ့်မည်။</item>
         <item>သင့်မျက်နှာပေါ်ရှိ အကြောင်းအရာများအား အဝေးမှ စောင့်ကြည့်မှတ်တမ်းတင်ခြင်းကိုလည်း ဆောင်ရွက်နိုင်ပါလိမ့်မည်။</item>
         <item>သင့်စက်နှင့် သက်ဆိုင်သော အသေးစိတ် အချက်အလက်များကိုလည်း ဝင်ရောက်ကြည့်ရှုနိုင်ပေလိမ့်မည်။</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>အနိမ့်ဆုံး</item>
+        <item>အနိမ့်</item>
+        <item>ပုံမှန်</item>
+        <item>အမြင့်</item>
+        <item>အမြင့်ဆုံး</item>
     </string-array>
     <string-array name="lock_mode">
         <item>စက်သော့ခတ်ထားသည့်အခါ</item>
@@ -120,7 +143,7 @@
         <item>ဖုန်းကုမ္ပဏီနှင့် ဘာသာစကားဆက်စပ် ဆက်တင်များကိုသာမက အခြားသော အသေးစိတ်အချက်အလက်များကိုလည်း ဝင်ရောက်ကြည့်ရှုပါသည်</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>GetApps က စိစစ်အတည်ပြုထားခြင်း မရှိသည့် ပြင်ပအက်ပ်များသည် ပြဿနာမျိုးစုံ ဖြစ်စေနိုင်ပြီး စနစ်ပိုင်းဆိုင်ရာ တည်ငြိမ်မှုကိုလည်း လျော့ကျစေနိုင်ပါသည်။</item>
+        <item>စိစစ်အတည်ပြုထားခြင်းမရှိသော ပြင်ပအက်(ပ်)များသည် ပြဿနာအမျိုးမျိုး ဖြစ်စေနိုင်ပြီး စနစ်၏ တည်ငြိမ်မှုကို လျှော့ချနိုင်သည်။</item>
         <item>အချို့သော ပြင်ပအက်ပ်များတွင် သင့်ကိုယ်ရေးကိုယ်တာ အချက်အလက်များအတွက် အန္တရာယ်ရှိစေနိုင်သည့် ဆော့ဖ်ဝဲများ ပါဝင်နိုင်ပါသည်။</item>
     </string-array>
     <string-array name="priority_storage_entries">

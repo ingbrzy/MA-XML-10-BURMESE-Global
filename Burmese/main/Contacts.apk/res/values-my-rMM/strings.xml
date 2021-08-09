@@ -96,6 +96,10 @@
     <string name="call_record_text_auto_delete_half_year">%d လကြာပြီးနောက်</string>
     <string name="call_record_text_auto_delete_never">မည်သည့်အခါမျှ</string>
     <string name="call_record_text_auto_delete_one_month">%d လကြာပြီးနောက်</string>
+    <string name="call_record_user_notice_all_purpose">ဖုန်းပြောစဉ်က ပြောထားသော စကားများကို သုံးပြီး ဖုန်းခေါ်မှုများကို ရှာပါ</string>
+    <string name="call_record_user_notice_permission_desc_microphone">အသံသွင်းထားသော ဖုန်းခေါ်မှုများအတွက်</string>
+    <string name="call_record_user_notice_permission_desc_storage">သိမ်းထားသော အသံသွင်းမှုများအတွက်</string>
+    <string name="call_record_user_notice_title">အသံခေါ်ဆိုမှုဆိုင်ရာ ရှာဖွေမှု</string>
     <string name="call_record_whitelist_custom">ရွေးချယ်ထားသော ခေါ်ဆိုမှုများ</string>
     <string name="call_recording_notification_summary">ခေါ်ဆိုမှုတစ်ခုကို မှတ်တမ်းတင်ထားပြီးနောက် အသိပေးချက်တစ်ခု လက်ခံရန်</string>
     <string name="call_recording_notification_title">မှတ်တမ်းတင်ထားသော ခေါ်ဆိုမှုများအကြောင်း အသိပေးရန်</string>
@@ -146,6 +150,7 @@
     <string name="callrecordview_menu_show_missed">လွဲသွားသော ခေါ်ဆိုမှုများ</string>
     <string name="callrecordview_menu_show_sim">ခေါ်ဆိုမှု %s ခု</string>
     <string name="callrecordview_menu_show_stranger">အမည်မသိသော နံပါတ်များမှ ခေါ်ဆိုမှုများ</string>
+    <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="cancel_confirmation_dialog_message">သင့်အပြောင်းအလဲများကို စွန့်ပစ်မလား။</string>
     <string name="cancel_confirmation_dialog_title">ပယ်ဖျက်မည်</string>
     <string name="cancel_export_confirmation_message">%s ကို ပို့သွင်းခြင်းအား ပယ်ဖျက်မလား။</string>
@@ -166,6 +171,7 @@
     <string name="clear_default">သတ်မှတ်ပုံစံကို ရှင်းပစ်ပါ</string>
     <string name="clear_digits">ဖုန်းနံပါတ်ကို ဖျက်လိုက်ပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="close">ပိတ်</string>
     <string name="close_dial_pad_description">ခလုတ်နှိပ်ခွက် ပိတ်ပါ</string>
     <string name="cloud_antispam_mark">အလံပြ</string>
     <string name="cloud_antispam_marked">အလံပြခဲ့သည်</string>
@@ -224,6 +230,15 @@
     <string name="contactsList">အဆက်အသွယ်များ</string>
     <string name="contacts_default_notification_channel">အသိပေးချက်များ</string>
     <string name="contacts_hybrid_activity_label">အဆက်အသွယ်များအား ပြန်ရယူပါ</string>
+    <string name="contacts_trash_activity_hint">ပြန်ယူလိုသော အဆက်အသွယ်များကို ရွေးပါ</string>
+    <string name="contacts_trash_activity_title">လတ်တလောဖျက်ထားသော အဆက်အသွယ်များ</string>
+    <string name="contacts_trash_delete">ဖျက်ရန်</string>
+    <string name="contacts_trash_delete_dialog_continue">ဖျက်ရန်</string>
+    <string name="contacts_trash_delete_dialog_hint">ဤအရာကို ပြန်ပြောင်းမရတော့ပါ။</string>
+    <string name="contacts_trash_delete_dialog_loading">ဖျက်ပစ်နေသည်…</string>
+    <string name="contacts_trash_delete_dialog_title">ရွေးထားသော အဆက်သွယ်များအား ဖျက်မည်လား?</string>
+    <string name="contacts_trash_restore">ပြန်ယူရန်</string>
+    <string name="contacts_trash_restore_loading">ပြန်ယူနေသည်…</string>
     <string name="contacts_unavailable_add_account">အကောင့်တစ်ခုသို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="contacts_unavailable_create_contact">အဆက်အသွယ်သစ်တစ်ခု ဖန်တီးပါ</string>
     <string name="contacts_unavailable_import_contacts">ဖိုင်တစ်ဖိုင်မှတင်သွင်းပါ</string>
@@ -240,6 +255,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="date_year_toggle">ခုနှစ် သတ်မှတ်ပေးပါ</string>
     <string name="default_ringtone">ပုံသေ ဖုန်းမြည်သံ</string>
     <string name="deleteCloudConfirmationDetail">%s နှင့် ပတ်သက်သော အဆက်အသွယ်အချက်အလက်ကို ကလောက်နှင့် ဤစက် နှစ်မျိုးလုံးမှ ဖျက်လိုသလား။</string>
@@ -361,6 +377,7 @@
     <string name="email_work">အလုပ်သို့ အီမေးလ်ပို့ပါ</string>
     <string name="emergency_number_label">အရေးပေါ်နံပါတ်</string>
     <string name="empty" />
+    <string name="ensure">အိုကေ</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -459,6 +476,8 @@
     <string name="group_sms_progress_msg">အုပ်စုဖွဲ့နေသည်…</string>
     <string name="groupsLabel">အုပ်စုများ</string>
     <string name="groups_list_empty">အုပ်စုများမရှိပါ</string>
+    <string name="hide_app_description_content">အဆက်အသွယ်များသည် စနစ်အက်(ပ်)ဖြစ်သည်။ ၎င်းကို ပင်မစာမျက်နှာရှော့ကတ်မှ ဖယ်ရှားပြီးနောက်တွင်လည်း ဖုန်းအက်(ပ်)မှတစ်ဆင့် ဆက်သုံးနိုင်သည်။</string>
+    <string name="hide_app_description_title">\"အဆက်အသွယ်များ\"ကို ပင်ပစာမျက်နှာမှ ဖြုတ်လိုသလား။</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">အဆက်အသွယ်များ ရှာပါ</string>
     <string name="hint_more_contact">နှစ်ခုထပ်နေသော အဆက်အသွယ်များကို ပေါင်းပါ</string>
@@ -577,10 +596,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">ကလောက်နှင့် ဆင့်(ခ်)လုပ်နေသည်…</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
+    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
+    <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
+    <string name="miuix_appcompat_select_item">အိုင်တမ်များရွေး</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
@@ -659,6 +681,7 @@
     <string name="night">ညနေ</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">အုပ်စုများ ဖန်တီးရန်၊ သင့် အကောင့်တစ်ခု လိုအပ်သည်။</string>
+    <string name="no_contact_selected">အသေးစိတ်ကြည့်ရှုရန် အဆက်အသွယ်တစ်ခု ရွေးပါ</string>
     <string name="no_contacts_dialog_message">အဆက်အသွယ်များကို သင့် ဆင်းမ်ကဒ်ထဲတွင် သိမ်းထားခြင်းဖြစ်နိုင်သည်။ ဆင်းမ်ကဒ်ထဲမှ ဖုန်းအတွင်းပိုင်းသိုလှောင်ခန်းသို့ သွင်းယူကြည့်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="no_contacts_dialog_title">အဆက်အသွယ်များမတွေ့ပါ</string>
     <string name="no_phone_no_shortcut">ဖုန်းနံပါတ်များမရှိပါက အဆက်အသွယ်များအတွက် ရှော့ကဒ်များ မဖန်တီးနိုင်ပါ</string>
@@ -798,6 +821,10 @@
     <string name="remove_duplicate">"MIUI မှ ရှာဖွေရာတွင် ကူညီပေးပြီး နှစ်ခုထပ်နေသော အဆက်အသွယ်များကို ပေါင်းစပ်ပေးပါလိမ့်မည်။
 
 စတင်ရန် သင့်မျက်နှာပြင်၏ အောက်ခြေရှိ ပေါင်းစပ်သည့် အိုင်ကွန်ကို ထိပါ။"</string>
+    <string name="restore_app_btn_cancel">မလုပ်တော့ရန်</string>
+    <string name="restore_app_btn_restore">အိုကေ</string>
+    <string name="restore_app_description_content">အဆက်အသွယ်များကို အမြန်ဝင်နိုင်ရန် ပင်မမျက်နှာပြင်တွင် ရှော့ကတ်ထည့်ပါ။</string>
+    <string name="restore_app_description_title">\"အဆက်အသွယ်များ\"ကို ပင်မမျက်နှာပြင်သို့ ထည့်လိုသလား။</string>
     <string name="restore_nickname">မူလအတိုင်းပြန်ထားပါ</string>
     <string name="return_call">ဖုန်းခေါ်ရန်နေရာသို့ ပြန်သွားရန် တို့ပါ</string>
     <string name="return_call_calling">ဖုန်းခေါ်နေပါသည်</string>
@@ -833,6 +860,7 @@
     <string name="select_all">အားလုံးကိုရွေးချယ်ပါ</string>
     <string name="select_groups">အုပ်စုများကို ရွေးချယ်ပါ</string>
     <string name="select_vcard_title">vCard ဖိုင် ရွေးပါ</string>
+    <string name="send">ပို့ပါ</string>
     <string name="send_contact_shortcut_todesktop_duplicate">ဤရှော့ကတ်ရှိပြီးသား ဖြစ်သည်</string>
     <string name="send_contact_shortcut_todesktop_failed">ပင်မမျက်နှာပြင်တွင် ရှော့ကတ်ထား၍ မရပါ</string>
     <string name="send_contact_shortcut_todesktop_overflow">ပင်မမျက်နှာပြင်တွင် ရှော့ကတ်ထပ်ထား၍ မရပါ</string>
@@ -937,9 +965,9 @@
     <string name="t9_search_empty_send_sms">မက်ဆေ့ချ်ပို့မည်</string>
     <string name="t9_search_empty_video_call">ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="t9_search_guide_pinyin_title1">အဆက်အသွယ်များအား ရှာဖွေရန် နံပါတ်များရိုက်ထည့်ပါ</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">\"Debbie Smith\" ကို ရှာရန် %d နှင့် %d ထည့်သွင်းပါ</string>
     <string name="t9_search_guide_zhuyin_title1">အဆက်အသွယ်များအား ရှာဖွေရန် နံပါတ်များရိုက်ထည့်ပါ</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">\"Jeff Max\" ကို ရှာရန် %d နှင့်%d ထည့်သွင်းပါ</string>
     <string name="take_new_photo">ဓာတ်ပုံအသစ်ရိုက်ပါ</string>
     <string name="take_photo">ဓာတ်ပုံရိုက်ပါ</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
@@ -1040,6 +1068,7 @@
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
+    <string name="wifi_pad_disable_phone">"Can't make calls on this device"</string>
     <string name="wipe_data">ဒေတာရှင်းပါ</string>
     <string name="yellowPageNavigationLabel">အဝါရောင်စာမျက်နှာများ</string>
     <string name="yellowpage_address_tag">လိပ်စာ</string>

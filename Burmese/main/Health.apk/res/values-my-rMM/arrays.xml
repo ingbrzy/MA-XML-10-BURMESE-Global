@@ -21,12 +21,12 @@
     </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
-        <item>"  ကီလိုဂျိုး"</item>
+        <item>" ကီလိုဂျိုး"</item>
     </string-array>
     <string-array name="length_unit">
-        <item>"  စင်တီ"</item>
-        <item>"  မီတာ"</item>
-        <item>"  ကီလိုမီတာ"</item>
+        <item>" စင်တီ"</item>
+        <item>" မီတာ"</item>
+        <item>" ကီလိုမီတာ"</item>
     </string-array>
     <string-array name="pager_titles">
         <item>နေ့</item>
@@ -40,8 +40,8 @@
         <item>လုံးဝမဖွင့်ရန်</item>
     </string-array>
     <string-array name="speed_unit">
-        <item>"  ကီလိုမီတာ/နာရီ"</item>
-        <item>"  မီတာ/စက္ကန့်"</item>
+        <item>" ကီလိုမီတာ/နာရီ"</item>
+        <item>" မီတာ/စက္ကန့်"</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>ဒီဂရီစင်တီဂရိတ်</item>
@@ -64,5 +64,14 @@
         <item>ကြာသပတေး</item>
         <item>သောကြာ</item>
         <item>စနေ</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
 </resources>

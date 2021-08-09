@@ -249,7 +249,6 @@
     <string name="notificationTitle">အသိပေးချက်ရှိတ် ရှော့ကဒ်</string>
     <string name="notification_from_owner_user">ပထမနေရာမှ အသိပေးချက်များအား ပြပါ</string>
     <string name="notification_from_second_user">ဒုတိယနေရာမှ အသိပေးချက်များအား ပြပါ</string>
-    <string name="notification_recommend_title">ဒုတိယနေရာအတွက် ထိပ်တန်း အက်ပ်၁၂ ခု</string>
     <string name="notification_setting_second_space">ဒုတိယနေရာ သတ်မှတ်ပါ</string>
     <string name="notification_setting_second_space_desc">ဒုတိယနေရာ စကားဝှက်ပေါင်းထည့်ပြီး ဒေတာရွေ့ပါ</string>
     <string name="ok_button">အိုကေ</string>
@@ -452,10 +451,14 @@
     <string name="xspace_disable">မလုပ်ထားပါ</string>
     <string name="xspace_enable">လုပ်ပြီးပါပြီ</string>
     <string name="xspace_facebook_title">Facebook</string>
-    <string name="xspace_guide_des">အကောင့်နှစ်ခုအား ပြောင်းလဲခြင်းမလုပ်ဘဲ အသုံးပြုပါ</string>
-    <string name="xspace_guide_title">နှစ်ခုတွဲအက်ပ် ဖန်တီးမည်</string>
+    <string name="xspace_guide_content_bound">ရရှိနိုင်သော အက်ပ်များ</string>
+    <string name="xspace_guide_des">နှစ်မျိုးတွဲအက်(ပ်)များတွင် အကောင့်နှစ်ခုကို တစ်ခုနှင့်တစ်ခု မပြောင်းဘဲ တစ်ပြိုင်တည်းသုံးနိုင်သည်</string>
+    <string name="xspace_guide_description">"အကောင့်တိုင်း
+အက်(ပ်)ကိုယ်စီ ရပါမည်"</string>
+    <string name="xspace_guide_title">နှစ်ခုတွဲအက်(ပ်)များ စမ်းသုံးရန်</string>
     <string name="xspace_header">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_instagram_title">Instagram</string>
+    <string name="xspace_install_complete">&lt;font>နှစ်မျိုးတွဲအပ်(ပ်)ကို အောင်မြင်စွာလုပ်ပြီးပါပြီ။&lt;/font>&lt;font color=#0D84FF>ယခုဖွင့်ရန်&lt;/font>။</string>
     <string name="xspace_install_completed">အိုင်ကွန်အား ပင်မမျက်နှာပြင်သို့ ပေါင်းထည့်ခဲ့သည်</string>
     <string name="xspace_install_completed_global">ပုံဆွဲကိရိယာသို့ အိုင်ကွန်အား ပေါင်းထည့်ပြီးပြီ</string>
     <string name="xspace_install_failed">မဖန်တီးနိုင်ခဲ့ပါ</string>
@@ -464,11 +467,13 @@
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_loading_msg">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="xspace_notification">နှစ်ခုတွဲ အက်(ပ်)အသိပေးချက်များ</string>
+    <string name="xspace_notification_button">စမ်းသုံးရန်</string>
     <string name="xspace_notification_error">နှစ်ခုတွဲ WeChat သို့အကောင့်ဝင်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
     <string name="xspace_settins">သတ်မှတ်ရန်</string>
+    <string name="xspace_start">ပြုလုပ်ရန်</string>
     <string name="xspace_uninstall_completed">နှစ်ခုတွဲအက်ပ်အား အောင်မြင်စွာ ဖြုတ်ချပြီးပြီ</string>
     <string name="xspace_uninstall_dialog_content">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
     <string name="xspace_uninstall_dialog_title">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချ</string>

@@ -45,9 +45,6 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">မက်ဆေ့ချ် %1$d စောင်ကို အပြီးသတ် ဖျက်ပစ်ပါတော့မည်။</item>
     </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">စကားပြောဆိုထားမှု %1$d ခုကို ရွှေပါ</item>
-    </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">မက်ဆေ့ချ်အသစ် %1$d စောင်ကိုပြပါ။</item>
     </plurals>
