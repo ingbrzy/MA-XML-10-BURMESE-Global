@@ -196,7 +196,6 @@
     <string name="card_game_title_1">နေ့စဥ်အကြံပြုချက်များ</string>
     <string name="card_game_title_2">ယခုတစ်ပတ်အတွင်း လူကြိုက်များသော အရာများ</string>
     <string name="card_game_title_3">Mint ၏ ရွေးချယ်မှုများ</string>
-    <string name="cast_video">ဗီဒီယို လွှင့်မည်</string>
     <string name="category">အမျိုးအစားအုပ်စုများ</string>
     <string name="category_album">အယ်လ်ဘမ်</string>
     <string name="category_all">အားလုံး</string>
@@ -236,7 +235,6 @@
     <string name="clear_history">မှတ်တမ်းကို ရှင်းပစ်ပါ</string>
     <string name="clear_most_visited">လတ်တလော သမိုင်းများ</string>
     <string name="clear_search_history">မှတ်တမ်းကို ရှင်းပစ်</string>
-    <string name="clear_video_download">ဗီဒီယိုများအား ရှင်းလင်းပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="click_always">\"အမြဲတမ်း\" ကို တို့ပါ</string>
     <string name="click_to_refresh">ဤနေရာတွင် ရပ်ခဲ့သည်၊ ရီဖရက်ရှ်လုပ်ရန် ထိနှိပ်ပါ</string>
@@ -258,7 +256,6 @@
     <string name="cloud_time_tips">နောက်ဆုံးဆင့်ခ်လုပ်ထားမှု</string>
     <string name="cloud_up_to_loading_tips">ဆင့်ခ်လုပ်ရန် လွှတ်လိုက်ပါ</string>
     <string name="collect_diagnosis_log">မှတ်တမ်းများ စုဆောင်းမည်</string>
-    <string name="collect_video">ဗီဒီယိုအား စုဆောင်းမည်</string>
     <string name="collection_articles">ဆောင်းပါးများ</string>
     <string name="collection_videos">ဗီဒီယိုများ</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
@@ -318,15 +315,6 @@
     <string name="dark_mode">အရောင်ရင့်မုဒ်</string>
     <string name="data_error">ဒေတာအမှား</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
-    <string name="data_traffic_continue">မည်သို့မဆို ဖွင့်ပါ</string>
-    <string name="data_traffic_download_cancel">ပယ်ဖျက်မည်</string>
-    <string name="data_traffic_download_prompt">Wi-Fi သို့ ချိတ်ဆက်မှသာ ဤဗီဒီယိုအား ဒေါင်းလုဒ်လုပ်နိုင်မည်။</string>
-    <string name="data_traffic_download_setting">ဆက်တင်</string>
-    <string name="data_traffic_goto">ဒေတာ ပက်ကေ့ချ်</string>
-    <string name="data_traffic_prompt_free_data">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယို ကြည့်ပါက ဒေတာအတွက် အပိုစရိတ်များ ကုန်ကျနိုင်သည်။ ဒေတာပက်ကေ့ချ်ဖြင့် ကြည့်ရန် အကြံပြုပါသည်။</string>
-    <string name="data_traffic_prompt_message">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများကို ရှာဖွေပါက ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက အပိုစရိတ်များ ကုန်ကျနိုင်သည်။</string>
-    <string name="data_traffic_prompt_title">မိုဘိုင်းဒေတာအား အသုံးပြုနေသည်</string>
-    <string name="data_traffic_stop">ရပ်တန့်ပါ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -465,7 +453,6 @@ ID -
     <string name="download_title">ဒေါင်းလုဒ်များ</string>
     <string name="download_unknown_title">အမည်မသိ</string>
     <string name="download_update_background">အပ်ဒိတ်များကို နောက်ခံတွင် ဒေါင်းလုဒ်လုပ်ပါ</string>
-    <string name="download_video">ဗီဒီယိုအား ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="download_video_from_social_site">လူမှုကွန်ရက်မှ ဗီဒီယိုများ ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="download_videos_from_here">အောက်ပါ ဝန်ဆောင်မှုများမှ ဗီဒီယိုများအား ဒေါင်းလုဒ်လုပ်နိုင်သည်</string>
     <string name="download_wait_connect">ချိတ်ဆက်ရန် စောင့်နေသည်</string>
@@ -509,7 +496,6 @@ ID -
     <string name="exit_clear_dialog_btn_cancel">ထွက်ရန်</string>
     <string name="exit_clear_dialog_btn_ok">ရှင်းပြီး ထွက်ရန်</string>
     <string name="exit_clear_dialog_msg">မထွက်မီ မှတ်တမ်းကို ရှင်းပစ်လိုပါလား။</string>
-    <string name="exit_fullscreen">မျက်နှာပြင်အပြည့်မှ ထွက်မည်</string>
     <string name="exit_game">ပိတ်ရန်</string>
     <string name="experience_improve">သုံးစွဲသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="external_app_restricted_access_error">Mi ဘရောက်ဇာမှ ဤအိုင်တမ်သို့ ဝင်ရောက်၍ မရပါ။</string>
@@ -704,7 +690,7 @@ ID -
     <string name="list_menu_rename_result_fail">အမည်ပြောင်း၍ မရပါ</string>
     <string name="list_menu_rename_result_repeat">ဤအမည်နှင့် ဖိုင် ရှိနှင့်ပြီးဖြစ်သည်</string>
     <string name="load_more">နောက်ထပ် ကြည့်ပါ</string>
-    <string name="loading">စက္ကန့်အနည်းငယ် စောင့်ပါ…</string>
+    <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="loading_tips">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
     <string name="local_apps">ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များ</string>
     <string name="local_bookmarks">Mi</string>
@@ -727,15 +713,6 @@ ID -
     <string name="make_private_msg_2">ဤဖိုင်များအား ဝှက်မည်လား?</string>
     <string name="max_tabs_warning">နောက်ထပ်တက်ဘ် မဖွင့်နိုင်တော့ပါ</string>
     <string name="maximum_input_alert">အက္ခရာအရေအတွက် ၂၀၄၈လုံးထက်ပိုရိုက်၍မရပါ</string>
-    <string name="media_error_action_refresh">ပြန်လည်လန်းဆန်းစေပါ</string>
-    <string name="media_error_action_replace_video_source">အရင်းအမြစ်ကို ပြောင်းလဲ၍ မရပါ</string>
-    <string name="media_error_failure">ဗီဒီယို ဖွင့်၍မရပါ</string>
-    <string name="media_error_format">ဗီဒီယိုဖောမတ်ကို မပံ့ပိုးထားပါ</string>
-    <string name="media_error_network_unreachable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
-    <string name="media_error_nomemory">မှတ်ဉာဏ် အလုံအလောက် မရှိပါ</string>
-    <string name="media_error_source">အရင်းအမြစ်အား ရှာမတွေ့ပါ</string>
-    <string name="media_error_timeout">ကွန်ရက်ချိတ်ဆက်မှု အချိန်ကုန်လွန်သွားပါပြီ</string>
-    <string name="media_error_video_not_exist">ဗီဒီယို မရှိပါ</string>
     <string name="menu_addtodesk">အိမ်မျက်နှာပြင်သို့ ပေါင်းထည့်ပါ</string>
     <string name="menu_exit_nightmode">ထွက်ရန်</string>
     <string name="menu_hv_swap">V/A မျက်နှာပြင်</string>
@@ -831,6 +808,8 @@ ID -
     <string name="more_option">နောက်ထပ် ရွေးစရာများ</string>
     <string name="more_recommend">နောက်ထပ် အကြံပြုချက်များ</string>
     <string name="morning">နံနက်</string>
+    <string name="most_visited_sites">အကြည့်အများဆုံး</string>
+    <string name="most_visited_sites_switch">အစစာမျက်နှာတွင် အကြည့်အများဆုံးဆိုက်ကို ပြပါ</string>
     <string name="move_bookmark">ရွှေ့ရန်</string>
     <string name="msn_ad_identification">ကြော်ငြာ</string>
     <string name="msn_privacy">Microsoft ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများ</string>
@@ -850,6 +829,7 @@ ID -
     <string name="mw_actionbar_textselection_title">စာသားရွေးပါ</string>
     <string name="mw_actionbar_web_search">ဝက်ဘ် ရှာဖွေမှု</string>
     <string name="mw_autofill_popup_content_description">အော်တိုဖြည့်ပေါ့ပ်အပ် ပြထားသည်</string>
+    <string name="mw_chip_remove_icon_content_description">Remove \"%1$s\"</string>
     <string name="mw_color_picker_button_black">အမဲရောင်</string>
     <string name="mw_color_picker_button_blue">အပြာရောင်</string>
     <string name="mw_color_picker_button_cancel">ပယ်ဖျက်မည်</string>
@@ -865,7 +845,7 @@ ID -
     <string name="mw_color_picker_hue">အရောင်အဆင်း</string>
     <string name="mw_color_picker_saturation">ပြည့်ဝမှတ်</string>
     <string name="mw_color_picker_value">တန်ဖိုး</string>
-    <string name="mw_common_google_play_services_install_text">%1$s သည် သင့်စက်တွင် မတွေ့ရသည့် Google Play ဝန်ဆောင်မှုများမရှိဘဲ လည်ပတ်နိုင်မည် မဟုတ်ပါ။</string>
+    <string name="mw_common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">ကလစ်ဘုတ်သို့ ကော်ပီကူး၍ မရခဲ့ပါ</string>
     <string name="mw_data_traffic_prompt_change">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများ ကြည့်ရှုခြင်းသည် ဒေတာသုံးစွဲမှုမြင့်တက်လာစေလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားလျင် သင့်ဖုန်းကုမ္ပဏီက သင့်ထံမှ အပိုစရိတ်များ ကောက်ခံနိုင်ပါသည်။</string>
@@ -889,6 +869,7 @@ ID -
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">လွန်ခဲ့သော လ</string>
     <string name="mw_license_activity_title">စနစ် WebView လိုင်စင်</string>
+    <string name="mw_link_copied">Copied URL successfully</string>
     <string name="mw_low_memory_error">မှတ်ဉာဏ်နေရာလပ် နည်းပါးနေသောကြောင့် ယခင်လုပ်ဆောင်ချက်ကို အပြီးမသတ်နိုင်ခဲ့ပါ</string>
     <string name="mw_miui_content_copy">ကူးယူရန်</string>
     <string name="mw_miui_content_cut">ဖြတ်ရန်</string>
@@ -993,6 +974,7 @@ ID -
     <string name="mw_save_password_never">လုံးဝ မှတ်မထားပါနှင့်</string>
     <string name="mw_save_password_notnow">ယခုမလုပ်သေးပါ</string>
     <string name="mw_save_password_remember">မှတ်ထားပါ</string>
+    <string name="mw_speech_recognition_service_not_found">"Couldn't find Google speech engine"</string>
     <string name="mw_status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1000,7 +982,6 @@ ID -
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>
-    <string name="mw_url_copied">URL ကို အောင်မြင်စွာ ကူယူပြီးပါပြီ</string>
     <string name="mw_video_buffering_percent">ကြားခံ ကြိုဆွဲချနေသည်</string>
     <string name="mw_video_download_no_permission">အိုင်တမ်များ ဒေါင်းလုဒ်လုပ်ရန် ခွင့်ပြုချက်များ လိုအပ်သည်</string>
     <string name="mw_video_float_drag_scale_msg">ချုံ့၊ချဲ့လုပ်ရန် ဖိ၍ဆွဲပါ</string>
@@ -1198,7 +1179,6 @@ ID -
     <string name="password">စကားဝှက်</string>
     <string name="per_month">တစ်လလျှင်</string>
     <string name="permission_agree_service">အောက်ပါ စည်းကမ်းသတ်မှတ်ချက် အားလုံးကို ကျွန်ုပ် ဖတ်ရှုပြီး သဘောတူပါသည်။</string>
-    <string name="permission_alert_window">ဤအင်္ဂါရပ်အား သုံးနိုင်ရန် ပေါ့ပ်-အပ် ဝင်းဒိုးများအား ပြသရန် ဆက်တင်တွင် ခွင့်ပြုရမည်။</string>
     <string name="permission_contacts">အဆက်အသွယ်များ</string>
     <string name="permission_dialog_msg_camera">%s က သင့်ကင်မရာကို သုံးလိုပါသည်</string>
     <string name="permission_dialog_msg_camera_mic">%s က သင့်ကင်မရာနှင့် မိုက်ခရိုဖုန်းကို သုံးလိုပါသည်</string>
@@ -1222,7 +1202,6 @@ ID -
     <string name="permission_open_storage">ဦးစွာ ဆက်တင်တွင် Mi Browser အား အတွင်းပိုင်းသိုလှောင်ခန်းကို ဖတ်ခွင့်ပြုပါ</string>
     <string name="permission_service">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="permission_storage">သိုလှောင်ခန်း</string>
-    <string name="permission_unknown">အမည်မသိ အမှား</string>
     <string name="permission_use">ခွင့်ပြုချက်များ</string>
     <string name="personalized_content_services">စိတ်ကြိုက် အကြောင်းအရာဆိုင်ရာ ဝန်ဆောင်မှု</string>
     <string name="personalized_services">စိတ်ကြိုက် ဝန်ဆောင်မှု</string>
@@ -1248,12 +1227,9 @@ ID -
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ။</string>
     <string name="pick_file">ဖိုင်များအား ရွေးပါ</string>
     <string name="ping_test_title">ကွန်ရက်ရွှေ့ဆိုင်းခြင်း</string>
-    <string name="play_pause_video">ဗီဒီယို ဖွင့်ပါ သို့မဟုတ် ရပ်တန့်ပါ</string>
-    <string name="play_video">ဗီဒီယို ဖွင့်ပါ</string>
     <string name="players_still_play">ဂိမ်းကစားသူ &lt;font color=\"#ff2458\">%s&lt;/font> ဦးကလည်း ဤအရာများကို သဘောကျကြသည်</string>
     <string name="pm">ညနေ</string>
     <string name="popular_game_video">Popular Game Video</string>
-    <string name="popup_video">ပေါ့ပ်-အပ် ဗီဒီယို</string>
     <string name="popup_window_attempt">အချက်ပြ pop-up window အားဖော်ပြခွင့်ပြုရန် ဤဆိုဒ်အား ခွင့်ပြုပါ</string>
     <string name="positive_confirm_message">မည်သို့ပင်မဆိုပိတ်</string>
     <string name="pref_accessibility">ဝင်သုံးခွင့်</string>
@@ -1431,8 +1407,8 @@ ID -
     <string name="privacy_authorize_summary">ခွင့်ပြုချက်အား ပေးအပ်ရန် သို့မဟုတ် ပြန်ရုပ်သိမ်းရန် ခလုတ်ဖြင့် ဖွင့်/ပိတ်နိုင်သည်</string>
     <string name="privacy_authorize_title">လုပ်ပိုင်ခွင့်ပေးခြင်း</string>
     <string name="privacy_btn_more">နောက်ထပ်</string>
-    <string name="privacy_improve_performance">Mi ဘရောက်ဇာ၏ လုပ်ဆောင်ချက်များ ပိုကောင်းရန် ကူညီပါ</string>
-    <string name="privacy_improve_performance_desc">စုပေါင်းဒေတာများနှင့် ဖိုင်ပျက်အစီအရင်ခံစာများကို Mi ဘရောက်ဇာသို့ အလိုအလျောက် ပို့ရန်</string>
+    <string name="privacy_improve_performance">သုံးစွဲသူအတွေ့အကြုံ ပရိုဂရမ်</string>
+    <string name="privacy_improve_performance_desc">ကျွန်ုပ်တို့၏ ထုတ်ကုန်နှင့် ဝန်ဆောင်မှုများ တိုးတက်နိုင်ရန်အတွက် Xiaomi အား သင့်ဒေတာများကို ကောက်ယူဆန်းစစ်ခွင့်ပြုပါ</string>
     <string name="privacy_message">ဘရောက်ဇာအား မသုံးမီ ကျွန်ုပ်တို့၏ &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">အသုံးပြုသူ သဘောတူညီမှု&lt;/a>&lt;/font> နှင့် &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a>&lt;/font>အား သဘောတူရပါမည်။</string>
     <string name="privacy_message_main_tips_first">Mi ဘရောက်ဇာသည် သင့်အား အခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူရရှိသော အချက်အလက်များကို ကျွန်ုပ်တို့ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> တွင် ကြည့်နိုင်သည်။ Mi ဘရောက်ဇာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒအပေါ် သဘောတူခွင့်ပြုချက်ကို ဆက်တင် > ပုဂ္ဂိုလ်ရေးလုံခြုံမှု &amp; လုံခြုံရေး ထဲတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်သည်။ Mi ဘရောက်ဇာကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>&lt;/font> နှင့် &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
     <string name="privacy_message_main_tips_second">ဤစက်တွင် အက်(ပ်)များရှာနိုင်ရန်နှင့် ထည့်သွင်းထားသော အက်(ပ်)များကို သိနိုင်ရန်အတွက် Mi ဘရောက်ဇာသည် အက်(ပ်)ထည့်သွင်းအချက်အလက်ကို ဖတ်ရန်လိုသည်။ ၎င်းကို ဖုန်းတွင် မသိမ်းသည့်အပြင် မည်သည့်ပုံစံနှင့်မျှ အပ်ပလုဒ်တင်မည်မဟုတ်ပါ။</string>
@@ -1440,6 +1416,7 @@ ID -
     <string name="privacy_message_welcome_tip_first">- မြန်ဆန်လုံခြုံသော ဝက်ဘဆိုက်ကြည့်စနစ်</string>
     <string name="privacy_message_welcome_tip_second">- လူမှုကွန်ရက်ပလက်ဖောင်းများမှ ပုံနှင့် ဗီဒီယိုများ ဒေါင်းလုဒ်လုပ်ခြင်း</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_reset_fail">ပြန်သတ်မှတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="privacy_sub_title">စည်းမျဉ်းစည်းကမ်းများ</string>
     <string name="privacy_title">Mi ဘရောက်ဇာ မှ ကြိုဆိုပါ၏</string>
     <string name="private_title">ကွယ်ဝှက်ထားသော ဖိုင်များ</string>
@@ -1611,10 +1588,10 @@ ID -
     <string name="setting_app_language">ဘရောက်ဇာ ဘာသာစကား</string>
     <string name="setting_feed_language">ပါဝင်ဖီး(ဒ်)ဘာသာစကား</string>
     <string name="setting_privacy_password">သော့ဖွင့်ပုံစံ သတ်မှတ်ရန်</string>
+    <string name="setting_swipe_up">ပင်မမျက်နှာပြင်တွင် အပေါ်သို့ ဆွဲတင်ပါ</string>
     <string name="share_image_text">ကျွန်ုပ်ဘာတွေ့ထားတယ်ဆိုတာ ကြည့်ကြည့်ပါ! @MIUI</string>
     <string name="share_page_text">ကျွန်ုပ်ဘာတွေ့ထားတယ်ဆိုတာ ကြည့်ကြည့်ပါ- %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">ကျွန်ုပ် မျှဝေထားတယ်တာကို ကြည့်ကြည့်ပါ- %1$s</string>
-    <string name="share_video">ဗီဒီယိုအား မျှဝေမည်</string>
     <string name="sign_in">အကောင့်ဝင်နေသည်</string>
     <string name="sign_in_by_others">ဆိုင်းအင်ဝင်ရန်အခြားနည်းလမ်း</string>
     <string name="sign_in_by_xiaommi">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
@@ -1762,8 +1739,6 @@ ID -
     <string name="traffic_fail_free_no_left">သွားလာခွင့် ကုန်ပါပြီ။ ရှေ့ဆက်ရန် စာရင်းသွင်းရယူပါ။</string>
     <string name="traffic_fail_no_left">သင်သည် VPN လမ်းကြောင်းပြင်ပတွင် ရောက်နေပါသည်။</string>
     <string name="traffic_fail_upload">အမှားအယွင်းရှိသည်။ VPN ကို ပြန်ဖွင့်ပါ။</string>
-    <string name="transfer_prompt_0">ဗီဒီယို ဖွင့်ပါ</string>
-    <string name="transfer_restart">ပြန်စတင်ပါ</string>
     <string name="translate">ဘာသာပြန်ရန်</string>
     <string name="translate_cur_page">ဤစာမျက်နှာကို ဘာသာပြန်လိုသလား။</string>
     <string name="translate_into">ဤဘာသာစကားသို့ ဘာသာပြန်ရန် -</string>
@@ -1817,9 +1792,7 @@ ID -
     <string name="user_guide_read_info_tips">ရှာဖွေမှု ရလဒ်များတွင် အက်ပ်များ ပါဝင်နိုင်စေရန်အတွက် သင့်စက်တွင် ထည့်သွင်းထားသော အက်ပ်များစာရင်းအား Mi ဘရောက်ဇာက ကြည့်ခွင့်ရရန် လိုအပ်ပါသည်။</string>
     <string name="user_id_hint">အီးမေးလ်/ဖုန်း/Mi အကောင့် ID</string>
     <string name="username">အမည်</string>
-    <string name="v5_deselect_all">အားလုံး မရွေးတော့ပါ</string>
-    <string name="v5_edit_mode_title_empty">၀ခု ရွေးထားသည်</string>
-    <string name="v5_select_all">အားလုံးရွေးပါ</string>
+    <string name="v5_edit_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="v_code_title">အတည်ပြုကုဒ် ထည့်သွင်းပါ</string>
     <string name="verify_subscription">စာရင်းသွင်းရယူမှုကို အပ်ပဒိတ်လုပ်နေသည်…</string>
     <string name="version_check_button_checking">စစ်ဆေးနေဆဲ…</string>
@@ -1837,59 +1810,18 @@ ID -
     <string name="version_dialog_buttion_update">မွမ်းမံ</string>
     <string name="version_update_file_download_toast">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="version_update_file_not_found">အပ်ဒိတ်များအား မတွေ့ရှိပါ</string>
-    <string name="video_activity_name">အကြိုက်ဆုံးများ</string>
-    <string name="video_buffering_percent_string">"ကြိုတင်ဆွဲချနေသည် "</string>
-    <string name="video_collect_cancel">အကြိုက်ဆုံးများမှ ဖယ်ရှားမည်</string>
-    <string name="video_collect_success">အကြိုက်ဆုံးများစာရင်းသို့ ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="video_collection_click_view">အကြိုက်ဆုံးများသို့ ထည့်ထားသော ဗီဒီယိုများ ဤမှာပါ</string>
     <string name="video_collection_empty">ဤနေရာတွင် ဗီဒီယိုတစ်ခုမျှ မရှိသေးပါ</string>
     <string name="video_collection_known">နားလည်ပါပြီ</string>
     <string name="video_collection_view">ကြည့်ရှုမည်</string>
-    <string name="video_download_complete">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
-    <string name="video_download_empty">ဗီဒီယို မရှိပါ</string>
-    <string name="video_download_error">အမှား</string>
-    <string name="video_download_error_http_gone">ဖိုင် ရှာမတွေ့ပါ</string>
-    <string name="video_download_exists">ဤဒေါင်းလုဒ်မှာ ရှိပြီးသားဖြစ်သည်။</string>
-    <string name="video_download_fail">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
-    <string name="video_download_failed">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
-    <string name="video_download_finding_address">ဒေါင်းလုဒ် URL အား ရယူနေသည်</string>
-    <string name="video_download_pause">ရပ်တန့်ထားသည်</string>
-    <string name="video_download_start">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
-    <string name="video_download_success">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
-    <string name="video_download_unknown_name">အမည်မသိ ဗီဒီယို</string>
-    <string name="video_download_unknown_size">အရွယ်အစားမသိ</string>
-    <string name="video_download_unsupport">မပံ့ပိုးထားပါ</string>
-    <string name="video_download_wait_for_wifi">Wi-Fi ကို စောင့်နေသည်</string>
-    <string name="video_downloaded_group">ဒေါင်းလုဒ်လုပ်ပြီးပြီ</string>
+    <string name="video_download_complete">ဗီဒီယိုအား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="video_downloader_edit_hint">"ဗီဒီယိုတစ်ခု ဒေါင်းလုဒ်လုပ်ရန် လင့်ခ်တစ်ခု ကူးထည့်ပါ။ ဥပမာ - 
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">ဤအိုင်တမ်ကို ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="video_downloader_retry">ထပ်စမ်းကြည့်ပါ</string>
-    <string name="video_downloading_group">ဒေါင်းလုဒ်လုပ်နေသည်</string>
-    <string name="video_edit">တည်းဖြတ်မည်</string>
-    <string name="video_float_window_text">ပေါ့ပ်-အပ် ဗီဒီယို</string>
-    <string name="video_fragment_name_collections">အကြိုက်ဆုံးများ</string>
-    <string name="video_fragment_name_download">အော့်ဖ်လိုင်း ဗီဒီယို</string>
-    <string name="video_fragment_name_historys">သမိုင်း</string>
-    <string name="video_fragment_name_offine">အော့ဖ်လိုင်း</string>
-    <string name="video_group_noupdates_list">မည်သည့်မွမ်းမံမှုမှ မရှိပါ</string>
-    <string name="video_group_updates_list">အသစ်မွမ်းမံမှုများ</string>
-    <string name="video_history_empty">သမိုင်း မရှိပါ</string>
-    <string name="video_manager_action_bar_end_view">အွန်လိုင်း ဗီဒီယိုများ</string>
     <string name="video_play_next">နောက်တစ်ဆင့်တက်ရန်</string>
-    <string name="video_project_button">ရပ်ပါ</string>
-    <string name="video_project_msg">%s သို့ ဗီဒီယိုအား လွှင့်တင်နေသည်</string>
-    <string name="video_project_title">ဗီဒီယို လွှင့်တင်နေသည်</string>
-    <string name="video_push_multi_title">အပ်ဒိတ် ရရှိပါပြီ</string>
-    <string name="video_push_single_message">%1$d ကိုအပ်ဒိတ်လုပ်ရန် ထိနှိပ်ပါ။</string>
     <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
     <string name="video_retry_btn">ပြန်ကြိုးစားကြည့်ပါ</string>
-    <string name="video_service_notification_title">ပေါ့ပ်-အပ် ဗီဒီယို ဖွင့်ထားသည်…</string>
-    <string name="video_subtitle_last_message1">ကျန်ရှိချိန်မှာ ၁မိနစ်ထက် နည်းနေပြီ</string>
-    <string name="video_subtitle_prefix1">ကြည့်ရှုခဲ့သော</string>
-    <string name="video_subtitle_prefix2">"ကြည့်ရှုခဲ့သော "</string>
-    <string name="video_title_prefix_message">"အော့ဖ်လိုင်း- "</string>
-    <string name="video_unknown_duration">ကြာချိန်မသိသော</string>
     <string name="view_certificate">ထောက်ခံချက်လက်မှတ်အား ကြည့်ရှု</string>
     <string name="view_document_downloaded_files">ဒေါင်းလုဒ်ဖိုင်များကို ဒေါင်းလုဒ်တွင် ကြည့်ရှုပါ</string>
     <string name="voice_check_network">သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပြီး ထပ်မံ ကြိုးစားကြည့်ပါ။</string>
@@ -1936,7 +1868,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
-    <string name="welcome_to_mi_browser">Mi ဘရောက်ဇာမှ ကြိုဆိုပါသည်။</string>
     <string name="what_is_new">အင်္ဂါရပ်အသစ်များ ရယူရန် အက်(ပ်)ကို အပ်ပဒိတ်လုပ်ပါ</string>
     <string name="whatsapp_downloadpage_tips">WhatsApp စတေးတပ် ဆေဗာ</string>
     <string name="whatsapp_file_saved_success">အောင်မြင်စွာသိမ်းပြီးပါပြီ</string>

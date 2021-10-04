@@ -4,7 +4,6 @@
     <string name="This_week">ဤအပတ်</string>
     <string name="Today">ယနေ့</string>
     <string name="Yesterday">မနေ့က</string>
-    <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="account_bind_secure_email_title">ပြန်လည်ရယူရန် အီးမေးလ်ကို ထည့်သွင်းပါ</string>
     <string name="account_bind_secure_phone_title">ပြန်လည်ရယူရန် ဖုန်းနံပါတ်ကို ထည့်သွင်းပါ</string>
     <string name="account_crop_user_avatar">ဓာတ်ပုံကို ဖြတ်ထုတ်ပါ</string>
@@ -47,6 +46,8 @@
     <string name="ad_download">ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="ad_join">အဖွဲ့ဝင်ရန်</string>
     <string name="ad_more">နောက်ထပ်</string>
+    <string name="add_local_shortcut_add">ထည့်ရန်</string>
+    <string name="add_local_shortcut_des">စက်တွင်းဗီဒီယိုဖိုင်များကို တစ်ချက်တို့ရုံနှင့် ဖတ်နိုင်ရန် \"ကျွန်ုပ်၏ ဗီဒီယိုများ\" ကို ပင်မမျက်နှာပြင်သို့ ထည့်ပါ။</string>
     <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">အမည်</string>
     <string name="add_search_channel_tip">ရည်ရွယ်ရာ ဝက်ဘဆိုက်တွင် %s ကို ရှာပြီး URL ကို ဤနေရာတွင် ကူးထည့်ပါ။</string>
@@ -81,6 +82,7 @@
     <string name="auto_play_next_off">အလိုအလျောက်ဖွင့်ခြင်း ပိတ်ထားသည်</string>
     <string name="auto_play_next_on">အလိုအလျောက်ဖွင့်ခြင်း ပွင့်နေသည်</string>
     <string name="back_to_mainpage">ရှာဖွေတွေ့ရှိသည်</string>
+    <string name="background_playback_enabled">နောက်ခံသီချင်း ပွင့်နေသည်</string>
     <string name="before_yestoday">လွန်ခဲ့သော ၂ ရက်က</string>
     <string name="bind_sign_in_title">Mi အကောင့် ထည့်သွင်းရန်</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
@@ -94,6 +96,7 @@
     <string name="choose_to_signin">ဟုတ်ပါတယ်</string>
     <string name="choose_to_signup">မဟုတ်ပါ၊ အသစ်တစ်ခု ဖန်တီးမည်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="click_to_open_pip">ပုံထဲပုံစနစ်သို့ ပြောင်းရန် တို့ပါ</string>
     <string name="click_to_reload_more">ပိုမိုသိရှိနိုင်ရန် ထိနှိပ်ပါ</string>
     <string name="click_to_retry">ထပ် စမ်းပါ</string>
     <string name="close">ပိတ်</string>
@@ -103,6 +106,8 @@
     <string name="cloud_online_switch_close_time">%s အတွင်းတွင် စိတ်ကြိုက် အကြောင်းအရာ အကြံပြုချက်များကို ဖွင့်နိုင်ပါသည်</string>
     <string name="cloud_online_switch_open_time">စိတ်ကြိုက် အကြောင်းအရာ အကြံပြုချက်များကို ပြပါ</string>
     <string name="collect_diagnosis_log">မှတ်တမ်းများ စုဆောင်းမည်</string>
+    <string name="columbus_ad_flag_text">ကြော်ငြာ</string>
+    <string name="columbus_skip_ad">ကျော်သွား</string>
     <string name="com_permission_desc">Mi ဗီဒီယိုသည် သင်၏စက်ထဲရှိ ဗီဒီယိုများသို့ ဝင်ရောက်၍ မရပါ။ ဆက်တင်သို့သွား၍ ဝင်ရောက်ခွင့်ပြုပါ။</string>
     <string name="com_permission_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="comment_model_add_comment">မှတ်ချက်ရေးရန်</string>
@@ -149,8 +154,14 @@ Mi ဗီဒီယိုအဖွဲ့"</string>
     <string name="detail_select_source">ပြန်ပြအရင်းအမြစ်ကို ရွေးချယ်ရန်</string>
     <string name="diagnosis_log_send_failed">မှတ်တမ်းများကို ပို့မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="diagnosis_log_sent_format">"မှတ်တမ်းများကို အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ။
-ID - %s
+ID -
 ကြီးကြပ်သူထံ ဤကုဒ်ကို ပေးပို့မည်။"</string>
+    <string name="dialog_app_comment_cancel">မလုပ်တော့ရန်</string>
+    <string name="dialog_app_comment_default_content">Mi ဗီဒီယိုကို နှစ်သက်ပါသလား။</string>
+    <string name="dialog_app_comment_ok">အိုကေ</string>
+    <string name="dialog_app_comment_select_feedback">တုံ့ပြန်အကြံပြုမှုလည်း ပေးလိုပါသလား။</string>
+    <string name="dialog_app_comment_select_praise">ကျေးဇူးတင်ပါသည်။ Mi ဗီဒီယိုကို ပလေးစတိုးတွင်လည်း အမှတ်ပေးလိုပါသလား။</string>
+    <string name="dialog_app_comment_title">ကျွန်ုပ်တို့ အက်(ပ်)ကို အဆင့်သတ်မှတ်ပါ</string>
     <string name="dialog_disagree_privacychange_info">ကျွန်ုပ်တို့၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောမတူပါက Mi ဗီဒီယိုအွန်လိုင်းထုတ်လွှင့်မှုဆိုင်ရာ ဝန်ဆောင်မှုများကို သုံးမရပါ။ နောက်ပြန်ဆုတ်ရန် \"မလုပ်တော့ရန်\" ကို နှိပ်ပါ သိုမဟုတ် ရှေ့ဆက်လိုပြီး Mi ဗီဒီယိုကို ဌာနေဗီဒီယိုဖွင့်စက်တွင်သာသုံးရန် \"သဘောမတူပါ\" ကို နှိပ်ပါ။</string>
     <string name="dialog_disagree_privacychange_title">သဘောမတူဘူးလား။</string>
     <string name="dialog_privacy_change_info">ကျွန်ုပ်တို့ပေးအပ်သော ဝန်ဆောင်မှုများတွင် အပြောင်းအလဲများရှိ၍ Mi ဗီဒီယို၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို အပ်ပဒိတ်လုပ်ထားပါသည်။ ဤအက်(ပ်)ကို မသုံးမီ အသုံးပြုသူတစ်ဦးအနေနှင့် ရနိုင်သော အခွင့်အရေးများနှင့် သင့်ဒေတာများကို ကျွန်ုပ်တို့က အသုံးပြုပုံပြုနည်းများကို ကောင်းစွာနားလည်ရန် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
@@ -176,6 +187,8 @@ ID - %s
     <string name="download_complete">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="download_delete_tip">ရွေးထားသောအရာများကို ဖျက်လိုသလား။</string>
     <string name="download_delete_title">ဖျက်ရန်</string>
+    <string name="download_guide_click_icon_to_website_or_enter_url">ဝက်ဘဆိုက်ဖွင့်ရန် ရှော့ကတ်ကို တို့ပါ သို့မဟုတ် URL ထည့်ပါ</string>
+    <string name="download_guide_known">ရပါပြီ</string>
     <string name="download_paused">တန့်ထားသည်</string>
     <string name="download_pending">ဆိုင်းငံ့ထားသည်…</string>
     <string name="download_power_off_tips">ဤအင်္ဂါရပ် မရရှိနိုင်သေးပါ</string>
@@ -200,6 +213,7 @@ ID - %s
     <string name="failed_dup_secure_phone_number">ဤဖုန်းနံပါတ်အား အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပါသည်</string>
     <string name="failed_to_fetch_data">အချက်အလက်များ မရယူနိုင်ပါ။</string>
     <string name="failure">ဒေါင်းလုဒ်လုပ်မရပါ</string>
+    <string name="favor_movie">ရုပ်ရှင်များ</string>
     <string name="favor_online_video">ဗီဒီယိုများ</string>
     <string name="favor_playlist">ဖွင့်ထားသည့်စာရင်း</string>
     <string name="favorite">နှစ်သက်သည်များ</string>
@@ -322,6 +336,12 @@ ID - %s
     <string name="galleryplus_network_connect_confirm">Wi-Fi ချိတ်ပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ထဲတွင် မိုဘိုင်းဒေတာဖွင့်ပါ။</string>
     <string name="galleryplus_network_error">ကွန်ရက်ချိတ်မရပါ</string>
     <string name="galleryplus_network_not_wifi">ဗီဒီယိုများကို စထရင်းလုပ်ရာတွင် မိုဘိုင်းဒေတာသုံးပါက ဖုန်းခပိုကုန်နိုင်ပါသည်။</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">ဖိုင်များ စီမံခန့်ခွဲရန် %$s စာတန်းထိုးများထည့်ရန် %$s ဗီဒီယိုများလွှင့်တင်ပါ %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">တစ်ကိုယ်ရေသုံးဗီဒီယိုများကို စကားဝှက်ဖြင့် ကာကွယ်ပါ %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">TikTok၊ Instagram နှင့် Twitter မှ ဗီဒီယိုများကို ဒေါင်းလုဒ်လုပ်ပါ %$s</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s Mi ဗီဒီယို၏ အကောင်းဆုံးအင်္ဂါရပ်များကို ကြည့်ပါ။</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s သင့်ဗီဒီယိုများကို စီမံခန့်ခွဲရန် တို့ပါ</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s ဗီဒီယိုများအခမဲ့ ဒေါင်းလုဒ်လုပ်ပါ %2$s ဖိုင်များ စီမံခန့်ခွဲရန်</string>
     <string name="galleryplus_online_cta">Mi ဗီဒီယို ကောင်းစွာအလုပ်လုပ်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ သဘောတူပါသလား။</string>
     <string name="galleryplus_online_cta_agree">သဘောတူသည်</string>
     <string name="galleryplus_online_cta_disagree">သဘောမတူပါ</string>
@@ -330,13 +350,14 @@ ID - %s
     <string name="galleryplus_orientation_lock">အနေအထားကို အောင်မြင်စွာ သော့ခတ်ပြီးပါပြီ</string>
     <string name="galleryplus_orientation_unlock">မျက်နှာပြင်မိတ်ဆက်ရှင်းလင်းမှုသော့ကို ဖွင့်ထားသည်</string>
     <string name="galleryplus_permission_content">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် Mi ဗီဒီယိုကို လိုအပ်သောခွင့်ပြုချက်များ ပေးပါ။</string>
-    <string name="galleryplus_permission_content2">"ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ဆက်တင်များ > အက်(ပ်)များ > Mi ဗီဒီယို > အက်(ပ်)ခွင့်ပြုချက်များ သို့ သွားပြီး Mi ဗီဒီယိုကို အောက်ပါတို့ လုပ်ခွင့်ပေးပါ - 
-
-၁။ သိုလှောင်ခန်းဝင်ခွင့်
-၂။ စက် ID ဖတ်ခွင့်"</string>
+    <string name="galleryplus_permission_content_opt">Mi ဗီဒီယိုသည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် ခွင့်ပြုချက်များလိုသည်။ ဆက်တင်တွင် အက်(ပ်)ဒေတာအားလုံးကို ရှင်းပြီး အက်(ပ်)ကို ပြန်ဖွင့်ပါ။</string>
+    <string name="galleryplus_permission_content_xms">Mi ဗီဒီယိုသည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် ခွင့်ပြုချက်များလိုသည်။ ဆက်တင်သို့သွားပြီး Mi ဗီဒီယိုအား လိုအပ်သော ခွင့်ပြုချက်များပေးပါ။</string>
     <string name="galleryplus_permission_open_settings">ဆက်တင်များ</string>
-    <string name="galleryplus_permission_refuse">မလုပ်လိုပါ</string>
-    <string name="galleryplus_permission_retry">ခွင့်ပြုချက်များ</string>
+    <string name="galleryplus_permission_refuse">မလုပ်တော့ရန်</string>
+    <string name="galleryplus_permission_retry">ဆက်တင်</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">စက်တွင်းဗီဒီယိုဖွင့်စနစ်ကို သုံးနိုင်ရန် ဦးစွာ ဤအက်(ပ်)ကို သိုလှောင်ခန်းဝင်ခွင့် ပေးရပါမည်။</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">စက်တွင်းဗီဒီယိုဖွင့်စနစ်ကို သုံးနိုင်ရန် ဦးစွာ ဆက်တင်ရှိ \"ခွင့်ပြုချက်များ\" ကဏ္ဍတွင် ဤအက်(ပ်)ကို သိုလှောင်ခန်းဝင်ခွင့် ပေးရပါမည်။</string>
+    <string name="galleryplus_permission_storage_title">သိုလှောင်ခန်းဝင်ခွင့်လိုသည်</string>
     <string name="galleryplus_permission_title">သတိပြုရန်</string>
     <string name="galleryplus_restore_play_speed">ယခု ပုံမှန်အမြန်နှုန်းနှင့် ဖွင့်ထားသည်</string>
     <string name="galleryplus_save_cancel_toast">ဗီဒီယိုသိမ်းခြင်းကို မလုပ်တော့ရန် \"နောက်သို့\" ကို ထပ်နှိပ်ပါ</string>
@@ -382,7 +403,6 @@ ID - %s
     <string name="history_local_video">စက်အတွင်း</string>
     <string name="history_online_video">အွန်လိုင်း</string>
     <string name="hot">လူကြိုက်များသော</string>
-    <string name="i_know">နားလည်ပါပြီ</string>
     <string name="identity">အတည်ပြုမှု</string>
     <string name="inconsistent_pwd">စကားဝှက် မကိုက်ညီပါ</string>
     <string name="init_channels">မူလဆက်တင်အတိုင်း ပြန်လည်သတ်မှတ်ရန်</string>
@@ -408,11 +428,14 @@ ID - %s
     <string name="live_title">တိုက်ရိုက်</string>
     <string name="live_tv_title">Live TV</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
+    <string name="local_empty_guide">The videos you film will appear here</string>
     <string name="local_play_tip">စက်အတွင်းရှိဗီဒီယိုကို ဖွင့်ထားသည်</string>
+    <string name="local_push_setting_power_tag">စက်တွင်းဗီဒီယိုများအတွက် အသိပေးချက်များ</string>
     <string name="local_push_title">ယနေ့လူကြိုက်များသော</string>
     <string name="local_video_create_a_new_playlist">ဖွင့်ကြည့်စာရင်းအသစ်</string>
     <string name="local_video_date">ရက်စွဲ</string>
     <string name="local_video_dialog_default">မူလပုံစံ</string>
+    <string name="local_video_edit_playlist">သီချင်းစာရင်းပြင်ရန်</string>
     <string name="local_video_from_a_to_z">A မှ Z</string>
     <string name="local_video_from_big_to_small">အကြီးမှ အသေးသို့</string>
     <string name="local_video_from_long_to_short">အရှည်မှ အတိုသို့</string>
@@ -425,6 +448,7 @@ ID - %s
     <string name="local_video_notification_btn">Mi Video တွင် ကြည့်မည်</string>
     <string name="local_video_notification_title">ဒေသဖြစ် ဗီဒီယိုအသစ်တစ်ခု တွေ့ထားသည်</string>
     <string name="local_video_number_of_selected">%1$d/%2$d ရွေးပြီးပါပြီ</string>
+    <string name="local_video_shortcut_name">ကျွန်ုပ်၏ ဗီဒီယိုများ</string>
     <string name="local_video_size">အရွယ်အစား</string>
     <string name="local_video_space">သုံးပြီး ပမာဏ - %s</string>
     <string name="local_video_time">ကြာချိန်</string>
@@ -434,6 +458,9 @@ ID - %s
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">ဆိုင်းအောက်ထွက်မည်</string>
     <string name="logout_account">ဆိုင်းအောက်လုပ်မည်</string>
+    <string name="long_video_no_more_content">လောလောဆယ်ဤမျှသာ</string>
+    <string name="long_video_watch_on">ဆက်ကြည့်ရန်</string>
+    <string name="long_video_you_may_also_like">အခြားသင်ကြိုက်နိုင်သည်များ</string>
     <string name="lp_base_folder">SD ကဒ်</string>
     <string name="lp_play_mode_list_loop">အားလုံး ပြန်ကျော့ရန်</string>
     <string name="lp_play_mode_pause">တစ်ခုပြရန်</string>
@@ -642,9 +669,7 @@ ID - %s
     <string name="my_feedback_title">ကျွန်တော်ရဲ့တုန့်ပြန်မှုအကြံပြုချက်</string>
     <string name="need_update_app">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် Mi ဗီဒီယိုအား အပ်ဒိတ်လုပ်ပါ</string>
     <string name="network_connect_info">ကွန်ရက်ချိတ်မရပါ။</string>
-    <string name="network_error_info">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="network_failed">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
-    <string name="network_timeout_info">ကွန်ရက်ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="new_channel_tip">ချန်နယ်အသစ်များကို ကြည့်လိုက်ပါ။</string>
     <string name="next">နောက်တစ်ဆင့်</string>
     <string name="next_step">နောက်တစ်ဆင့်</string>
@@ -682,9 +707,10 @@ ID - %s
     <string name="off_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိမည်မဟုတ်ပါ</string>
     <string name="ok">အိုကေ</string>
     <string name="on_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိပါမည်</string>
-    <string name="open_settings">ဆက်တင်</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
+    <string name="out_of_memory_background_playback_is_suspended">မန်မိုရီမလုံလောက်၍ နောက်ခံ၌ ပြသခြင်း ရပ်သွားသည်</string>
     <string name="ovp_alert_dialog_download_install_task">HD ပလက်အင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="ovp_buffering_video_netplay_label_v5">ဆွဲချနေ…</string>
     <string name="ovp_category">အမျိုးအစား</string>
@@ -719,6 +745,8 @@ ID - %s
     <string name="ovp_favor">နှစ်သက်သည်များ</string>
     <string name="ovp_favor_null">ဤနေရာတွင် အိုင်တမ် မရှိပါ။</string>
     <string name="ovp_feedback_title">Mi ဗီဒီယို တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="ovp_hint_new">အသစ်</string>
+    <string name="ovp_hint_the_latest_version">နောကဆုံးပေါ်ဖြစ်သည်</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">မီဒီယာဖိုင်အား ရှာမတွေ့ပါ။ အထက်ဖိုလ်ဒါသို့ ရောက်သွားသည်။</string>
     <string name="ovp_home_item_camera">ပြခန်း</string>
     <string name="ovp_home_item_download">ဒေါင်းလုတ်များ</string>
@@ -734,6 +762,7 @@ ID - %s
     <string name="ovp_local_videos_title">ဖုန်းထဲရှိ ဗီဒီယို</string>
     <string name="ovp_navigation_category">အမျိုးအစား</string>
     <string name="ovp_navigation_content">အကြောင်းအရာပိုင်းဆိုင်ရာ ပူးပေါင်းဆောင်ရွက်မှု</string>
+    <string name="ovp_navigation_darkmode">အမှောင်မုဒ်</string>
     <string name="ovp_navigation_favorites">နှစ်သက်သည်များ</string>
     <string name="ovp_navigation_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="ovp_navigation_history">သမိုင်း</string>
@@ -741,8 +770,10 @@ ID - %s
     <string name="ovp_navigation_language">ဘာသာစကား</string>
     <string name="ovp_navigation_localvideo">ဖုန်းထဲရှိ ဗီဒီယို</string>
     <string name="ovp_navigation_notice">သတိပေးချက်များ</string>
+    <string name="ovp_navigation_score">ကျွန်ုပ်တို့ အက်(ပ်)ကို အဆင့်သတ်မှတ်ပါ</string>
     <string name="ovp_navigation_setting">ဆက်တင်</string>
     <string name="ovp_navigation_subscribe">စာရင်းသွင်းခြင်း</string>
+    <string name="ovp_navigation_version_update">အပ်ပဒိတ်များစစ်ရန်</string>
     <string name="ovp_player_cached_error_btn">အွန်လိုင်း ဗီဒီယိုများ</string>
     <string name="ovp_player_cached_error_hint_info">ဖုန်းတွင်းမှ ဗီဒီယိုများကို ယခု ဖွင့်မရပါ</string>
     <string name="ovp_player_plugin_dlg_neg_btn">ပိတ်မည်</string>
@@ -783,7 +814,6 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="passport_area_code_title">ဧရိယာကုဒ်</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_barcode_add_account_prompt">အကောင့်တစ်ခု ထည့်သွင်းရန်အတွက် အကောင့်ဝင်ပြီးနောက်တွင် QR ကုဒ်ကို နောက်တစ်ကြိမ် စကန်ဖတ်ပါ။</string>
-    <string name="passport_can_not_receive_verification_code">အတည်ပြုကုဒ် မရဘူးလား။</string>
     <string name="passport_captcha_title">ပုံ၌ပြသောကုဒ်</string>
     <string name="passport_checking_account">စကားဝှက်ကို စစ်ဆေးနေသည်…</string>
     <string name="passport_close">ပိတ်ပါ</string>
@@ -1020,9 +1050,9 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="plus_tab_gallery">ဖိုင်တွဲများ</string>
     <string name="plus_tab_time">တိုင်းမလိုင်း</string>
     <string name="pm">ညနေ</string>
+    <string name="popup_click_for_download_video">ဗီဒီယိုဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="privacy_revoke_setting">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် Mi ဗီဒီယို ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။</string>
     <string name="privacy_revoke_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
-    <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="psw_hint">စကားဝှက်</string>
     <string name="psw_sign_in">စကားဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="pull_to_refresh_from_bottom_pull_label">ပြန်လည်ဆန်းသစ်ရန် အပေါ်သို့ ဆွဲတင်ပါ…</string>
@@ -1034,6 +1064,14 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="push_message_switch">အချိန်နှင့် တပြေးညီ အသိပေးချက်များ</string>
     <string name="push_message_tips">အချိန်နှင့် တပြေးညီ အသိပေးချက်များ လက်ခံရရှိရန် ဖွင့်ပါ</string>
     <string name="pw_channels">ချန်နယ်များ</string>
+    <string name="question_click_bottom_tab">ရှော့ကတ်တို့၍လည်း ဝက်ဘဆိုက်ဖွင့်နိုင်သည်။</string>
+    <string name="question_click_with_light">ဒေါင်းလုဒ်ခလုတ်ကို မီးလင်းပြီးလျှင် တို့ပါ။</string>
+    <string name="question_edit_url_here">ရှာရှာ သို့မဟုတ် ဤနေရာတွင် URL ထည့်ပါ။</string>
+    <string name="question_how_to_download_video">ဗီဒီယိုများ ဘယ်လို ဒေါင်းလုဒ်နိုင်သလဲ။</string>
+    <string name="question_known">ရပါပြီ</string>
+    <string name="question_look_video_here">ဒေါင်းလုဒ်လုပ်သော ဗီဒီယိုများကို ဤနေရာတွင် သိမ်းပါမည်။</string>
+    <string name="question_next">နောက်တစ်ဆင့်</string>
+    <string name="question_step">ကျော်သွားရန်</string>
     <string name="read_and_agree">သဘောတူ</string>
     <string name="recommend_channels">အကြံပြုထားသော ချန်နယ်များ</string>
     <string name="recommend_online_switch">အွန်လိုင်း အကြံပြုချက်</string>
@@ -1048,6 +1086,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="remaining_space_not_enough">နေရာလွတ်မလုံလောက်၍ ဒေါင်းလုဒ်လုပ်မရပါ။</string>
     <string name="reminder">သတိပြုရန်</string>
     <string name="rename">အမည်ပြန်ပေးမည်</string>
+    <string name="rename_word_out">This filename is too long</string>
     <string name="report">အစီရင်ခံပါ</string>
     <string name="report_content_dislike">အကြမ်းဖက်မှု သို့မဟုတ် မသင့်လျော်သော အပြုအမူ</string>
     <string name="report_content_fakement">စပမ်း သို့မဟုတ် အယောင်ဆောင်</string>
@@ -1060,7 +1099,6 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="report_content_violence">အမုန်းစကား</string>
     <string name="report_fail">တိုင်ကြား၍မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="report_success">အောင်မြင်စွာတိုင်စာပို့ပြီးပါပြီ</string>
-    <string name="request_camera_permission_message">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တည်ဆဲဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့်အညီ ကာကွယ်ပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် - &lt;br>&lt;br>&lt;b>ကင်မရာအသုံးပြုခြင်း (သင့်ပရိုဖိုင်ပုံကို သတ်မှတ်ရန်)&lt;/b>&lt;br>&lt;br> ထိုခွင့်ပြုချက်များကို သင်သဘောမတူပါက ဤအက်(ပ်)၏ အချို့အင်္ဂါရပ်များကို သုံးနိုင်မည်မဟုတ်ဘဲ အခြေခံလုပ်ဆောင်ချက်များသာ ရရှိပါမည်။ ဆက်တင်များထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ခြင်း သို့မဟုတ် ပြန်ရုတ်သိမ်းခြင်းကို အချိန်မရွေး ပြုလုပ်နိုင်သည်။</string>
     <string name="resend_active_email">ပြန်ပို့ပြီးပါပြီ</string>
     <string name="resend_email_reach_limit_message">အတည်ပြုရန် အီးမေးလ်များစွာကို သင်တောင်းခံခဲ့ပါသည်။ အတည်ပြုရန် အီးမေးလ်မှာ သင်၏ အဝင်စာတိုက်ပုံး၏ အမှိုက်စာ ဖိုလ်ဒါအတွင်းတွင် ရှိမနေစေရန် အသေအချာ ဆောင်ရွက်ပါ။</string>
     <string name="resend_email_reach_limit_title">အကြိမ်များစွာ ကြိုးစားထားသည်</string>
@@ -1135,7 +1173,6 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="sync_favorites_limit">သင့်အကြိုက်ဆုံးစာရင်းတွင် ဗီဒီယို ၅၀၀ ကျော်ပါသည်။ ဆက်လက်ဆင့်(ခ်)လုပ်နိုင်ရန် အစောပိုင်း ဗီဒီယိုအချို့ကို ဖျက်ရပါမည်။</string>
     <string name="sync_favorites_message">ဤစက်ထဲမှ အကြိုက်ဆုံးများများကို သင့်အကောင့်သို့ ဆင့်(ခ်)လုပ်လိုပါသလား။ မရရှိနိုင်တော့သော အရာများကို ဖယ်ရှားလိုက်ပါမည်။</string>
     <string name="sync_favorites_title">အကြိုက်ဆုံးများ ဆင့်(ခ်)လုပ်ရန်</string>
-    <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="t_check_hide_file">ဖုံးလိုသော အရာများကို ရွေးပါ</string>
     <string name="t_check_unhide_file">ဖော်လိုသော အရာများကို ရွေးပါ</string>
     <string name="t_downloading">ဒေါင်းလုတ်လုပ်နေ</string>
@@ -1156,6 +1193,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="t_password_null">စကားဝှက် နေရာကို ချန်လှပ်မရပါ</string>
     <string name="t_password_wrong">သင်ထည့်သော စကားဝှက် မှားနေသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="t_start_download">ဒေါင်းလုဒ် စလုပ်မည်-</string>
+    <string name="tab_name_download">ဒေါင်းလုဒ်များ</string>
     <string name="tab_name_local">အတွင်းပိုင်း</string>
     <string name="tab_name_me">ပရိုဖိုင်</string>
     <string name="tab_name_moment">လှုပ်ရှားမှုများ</string>
@@ -1179,6 +1217,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="the_forth_day">တရုတ်နှစ်ကူး စတုတ္ထနေ့</string>
     <string name="the_hksar_establishment_day">ဟောင်ကောင် SAR တည်ထောင်ခြင်းနေ့</string>
     <string name="the_international_womens_day">အမျိုးသမီးများနေ့</string>
+    <string name="the_item_choosed_tint">%s ခု ရွေးထားသည်</string>
     <string name="the_laba_festival">Laba ပွဲတော်</string>
     <string name="the_labour_day">အလုပ်သမားနေ့</string>
     <string name="the_lantern_festival">မီးထွန်းပွဲတော်</string>
@@ -1227,6 +1266,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="tool_bar_notification_setting_title">အသိပေးချက်ရှိတ် ကိရိယာဘား</string>
     <string name="top_bar_game_desc">ဤနေရာတွင် ဂိမ်းအသစ်အမြောက်အမြား ရှာပါ</string>
     <string name="top_bar_game_title">ဂိမ်းချန်နယ်</string>
+    <string name="trending_scroll_load_more">အခြားဗီဒီယိုများကြည့်ရန် အပေါ်ပွတ်ဆွဲပါ</string>
     <string name="tuesday">အင်္ဂါနေ့</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
@@ -1234,9 +1274,9 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="type_issue">ပြဿနာ</string>
     <string name="type_suggestion">အကြံပြုချက်</string>
     <string name="ugc_no_net">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="ui_common_title_back">နောက်သို့</string>
     <string name="ui_log_tip">ကွယ်ဝှက်ရန် ဤဧရိယာအား ထိနှိပ်ပါ၊ မှတ်တမ်းဟောင်းများအား ရှင်းပစ်ရန် ဖိပြီးထိနှိပ်ထားပါ။ မှတ်တမ်းများကို ကိုယ်တိုင် ဆွဲထည့်ပါ။</string>
     <string name="unknow">မသိသော</string>
-    <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="update">အပ်ဒိတ်လုပ်မည်</string>
     <string name="update_email_address_dialog_message">သင်၏ အကောင့်ပြန်ယူရန် အီးမေးလ်ကို အပ်ဒိတ်မလုပ်မီတွင် သင်မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုရန် လိုအပ်ပါသည်။</string>
     <string name="update_email_address_dialog_title">အကောင့်ပြန်ယူရန် အီးမေးလ်ကို အပ်ဒိတ်လုပ်မည်</string>
@@ -1278,14 +1318,20 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="video_download_fail">ဗီဒီယို ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="video_download_fail_hint">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="video_download_floating_guide">ဗီဒီယိုများကို အခမဲ့ ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="video_download_folder_title">Mi ဗီဒီယိုဒေါင်းလုဒ်များ</string>
     <string name="video_download_forbidden">ဤဝက်ဘ်ဆိုက်မှ ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
+    <string name="video_download_login_guide">ဗီဒီယိုများ ဒေါင်းလုဒ်လုပ်နိုင်ရန် %s သို့ အကောင့်ဝင်ပါ</string>
     <string name="video_download_network_error">ကွန်ရက် ချွတ်ယွင်းချက်</string>
     <string name="video_download_play_video_guide">ဦးစွာ ဗီဒီယိုကို ဖွင့်ပါ။</string>
     <string name="video_download_play_video_guide2">ဒေါင်းလုဒ်လုပ်ခြင်းစတင်ရန် ခလုတ်ကို မီးလင်းသည်အထိ တို့ပါ။</string>
+    <string name="video_download_play_video_step1">အဆင့် %1$d</string>
+    <string name="video_download_play_video_step2">အဆင့် %2$d</string>
     <string name="video_download_site_search">URL</string>
     <string name="video_download_source">ဝက်ဘ် ဒေါင်းလုဒ်လုပ်ခြင်း</string>
     <string name="video_download_start">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="video_download_storage_error">နေရာလွတ် မလုံလောက်ပါ</string>
+    <string name="video_download_title">ဗီဒီယိုများ ဒေါင်းလုဒ်လုပ်ရန်</string>
+    <string name="video_download_youtube_copyright_forbidden">မူပိုင်ခွင့်အကန့်အသတ်များကြောင့် YouTube ဗီဒီယိုများကို ဒေါင်းလုဒ်လုပ်မရပါ</string>
     <string name="video_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="video_live_over">အသုံးပြုချိန် ကုန်သွားပါပြီ</string>
     <string name="video_noyet_download_tip">ဤဗီဒီယိုကို ဒေါင်းလုဒ်လုပ်နေဆဲဖြစ်သည်</string>

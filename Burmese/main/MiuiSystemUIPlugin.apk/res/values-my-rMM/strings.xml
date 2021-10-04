@@ -11,7 +11,7 @@
     <string name="afternoon">နေ့လယ်</string>
     <string name="already_in_small_freeform">အချို့အက်(ပ်)များက မျော့လွင့်အကွက်များတွင် ပွင့်နေသည်</string>
     <string name="am">နံနက်</string>
-    <string name="app_name">systemui-controls</string>
+    <string name="app_name">စနစ် UI ပလက်အင်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="controls_confirmation_message">Confirm change for %s</string>
     <string name="controls_dialog_confirmation">Controls updated</string>
@@ -62,6 +62,7 @@
     <string name="disabled">မရရှိနိုင်ပါ</string>
     <string name="dnd_popup_close_message">နားလည်ပါပြီ</string>
     <string name="dnd_popup_message">မီဒီယာအသံများ မပိတ်ဘဲ ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များကို အသံပိတ်ထားရန် DND မုဒ်ကို ဖွင့်နိုင်သည်။</string>
+    <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
@@ -106,9 +107,20 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">မလုပ်တော့</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">ဖွင့်ပါ</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">ဘလူးတုသ်ဖွင့်ထားသည့်အခါ တိုက်ရိုက်လွှင့်ရာတွင်သုံးသော အသံထိန်းစနစ် အလုပ်လုပ်သည်။ ဘလူးတုသ်ကို ယခုပိတ်လိုပါသလား။</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">ဘလူးတုသ်ဖွင့်ပါ</string>
+    <string name="hearing_assist_transmission_label">တိုက်ရိုက်လွှင့်ရာတွင်သုံးသော အသံထိန်းစနစ်</string>
+    <string name="hearing_assist_transmission_tips_cancel">မလုပ်တော့</string>
+    <string name="hearing_assist_transmission_tips_continue">ဖွင့်ပါ</string>
+    <string name="hearing_assist_transmission_tips_summary">တိုက်ရိုက်လွှင့်ရာတွင်သုံးသော အသံထိန်းစနစ်သည် သင့်ဖုန်း၏ မိုက်အထည့်ကို ချိတ်ဆက်ထားသည့် ဘလူးတုသ် နားကြပ်များတွင် ထုတ်လွှင့်ပေးသည်။ ယခုပိတ်လိုပါသလား။</string>
+    <string name="hearing_assist_transmission_tips_title">တိုက်ရိုက်လွှင့်ရာတွင်သုံးသော အသံထိန်းစနစ်</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">အသံတိတ်မုဒ်ကို ပိတ်လိုက်ပါပြီ။ ဖုန်းခေါ်သံများနှင့် အသိပေးချက်အသံများကို ပိတ်ထားတော့မည် မဟုတ်ပါ။</string>
+    <string name="kddi_miui_toast_zen_to_standard">အသံတိတ်မုဒ်သို့ ပြောင်းထားသည်။ ဖုန်းသံများနှင့် အသိပေးချက်အသံများကို ပိတ်ထားလိုက်ပါမည်။</string>
     <string name="loading">အခြေအနေမသိပါ</string>
     <string name="midnight">ည</string>
-    <string name="miui_dnd_count_down">DND တိုင်မာ</string>
+    <string name="miui_dnd_count_down">အချိန်မှတ်စက် သတ်မှတ်ရန် ပွတ်ဆွဲပါ</string>
     <string name="miui_dnd_count_down_time">"DND တိုင်မာ
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">ဆက်တင်များ</string>
@@ -123,9 +135,11 @@
     <string name="miui_ringer_total">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="miui_ringer_total_description">နှိုးစက်သံမှတစ်ပါး အခြားအရာများအတွက် အသံများနှင့် တုန်ခါမှုအားလုံး ပိတ်မည်</string>
     <string name="miui_toast_zen_dnd_to_off">ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များကို အသံပိတ်ထားတော့မည်မဟုတ်ပါ</string>
+    <string name="miui_toast_zen_dnd_to_off_T">အသိပေးချက်များကို အသံမပိတ်တော့ပါ</string>
     <string name="miui_toast_zen_standard_to_off">အသံတိတ်မုဒ်ပိတ်ထားသည်</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">အသံတိတ်မုဒ်ကို ပိတ်လိုက်ပါပြီ။ ဖုန်းသံများ၊ အသိပေးချက်များနှင့် မီဒီယာအသံများ ပြန်ပွင့်ပါမည်။</string>
     <string name="miui_toast_zen_to_dnd">ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များကို အသံပိတ်ထားပါမည်</string>
+    <string name="miui_toast_zen_to_dnd_T">အသိပေးချက်များကို အသံပိတ်ထားပါမည်</string>
     <string name="miui_toast_zen_to_dnd_when_lock">စက်သော့ချထားစဉ် ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များကို အသံပိတ်ထားပါမည်</string>
     <string name="miui_toast_zen_to_standard">အသံတိတ်မုဒ်ဖွင့်ထားသည်</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">အသံတိတ်မုဒ်သို့ ပြောင်းထားသည်။ ဖုန်းသံများ၊ အသိပေးချက်များနှင့် မီဒီယာအသံများကို ပိတ်ထားလိုက်ပါပြီ။</string>
@@ -202,6 +216,7 @@
     <string name="quick_settings_pcmode_turn_off_description">သင့်ဖုန်းမျက်နှာပြင်ကို ပြင်ပမော်နီတာတွင် ပြသပါမည်။ PC မုဒ်ကို ပိတ်လိုပါသလား။</string>
     <string name="quick_settings_pcmode_turn_on_description">သင့်ကွန်ပျူတာမျက်နှာပြင်ကို ပြင်ပမော်နီတာတွင် ပြသပါမည်။ PC မုဒ်ကို ဖွင့်လိုပါသလား။</string>
     <string name="quick_settings_scanner_label">စကန်နာ</string>
+    <string name="quick_settings_uwbsh_label">Xiaomi မှော်ထိန်းချုပ်စနစ်</string>
     <string name="quick_settings_wireless_label">ကြိုးမဲ့အားသွင်းခြင်းကို ပြောင်းရန်</string>
     <string name="reboot_info_auto_boot">လာမည့်သတိပေးချက် %s ခု</string>
     <string name="reboot_info_shutdown_alarm">နှိုးစက်ပိတ်ရန် - %s</string>
@@ -282,6 +297,9 @@
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
     <string name="wireless_charging_connected_message">သင့်စက်ကို ကြိုးမဲ့အားသွင်းထားချိန်တွင် ကြိုးမဲ့အားသွင်းစနစ်ကို ပြောင်းသုံး၍ မရပါ။</string>
+    <string name="wireless_charging_fg_control_cancel">မလုပ်တော့</string>
+    <string name="wireless_charging_fg_control_messgae">ဘက်ထရီ လက်ကျန် %d%% အောက် နည်းနေသောကြောင့် ပြောင်းပြန် ကြိုးမဲ့ အားသွင်းခြင်းကို ပိတ်ထားသည်။ ပြောင်းပြန် ကြိုးမဲ့ အားသွင်းခြင်းကို ပိုမိုကြာရှည်စွာ အလုပ်လုပ်ခွင့်ပြုရန် ဆက်တင်များကို ချိန်ညှိနိုင်သည်။</string>
+    <string name="wireless_charging_fg_control_ok">ချိန်ညှိမည်</string>
     <string name="wireless_charging_low_battery_level_message">ဓာတ်ခဲအား %d%% ထက် နည်းလျှင် ကြိုးမဲ့အားသွင်းစနစ်ကို ပြောင်းသုံး၍ မရပါ။</string>
     <string name="wireless_charging_ok">နားလည်ပါပြီ</string>
     <string name="wireless_charging_saver_cancel">ပိတ်ရန်</string>

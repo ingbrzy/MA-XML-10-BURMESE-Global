@@ -24,7 +24,7 @@
     <string name="action_item_download">ဒေါင်းလုဒ် လုပ်ပါ</string>
     <string name="action_item_favorite">အကြိုက်ဆုံး</string>
     <string name="action_item_hide">ကွယ်ဝှက်ပါ</string>
-    <string name="action_item_hifi">နားကြပ် &amp; အော်ဒီယို အထူးပြုလုပ်ချက်များ</string>
+    <string name="action_item_hifi">နားကြပ်</string>
     <string name="action_item_play_all">အားလုံး ရှက်ဖ်ဖယ်လုပ်မည်</string>
     <string name="action_item_play_next">နောက်တစ်ပုဒ်တွင် ဖွင့်မည်</string>
     <string name="action_item_play_video">သီချင်းဗီဒီယို ဖွင့်မည်</string>
@@ -36,6 +36,7 @@
     <string name="ad_data_exception">ကြော်ငြာဒေတာအမှား</string>
     <string name="ad_recommend">ကြော်ငြာများ ပြသရန်</string>
     <string name="ad_setting">ဖြည့်စွက်ဆက်တင်များ</string>
+    <string name="add">ထည့်ရန်</string>
     <string name="add_music">သီချင်းထည့်</string>
     <string name="add_to_last_of_playlist">အဖွင့်ဇယား အဆုံးတွင် ပေါင်းထည့်လိုက်ပါ</string>
     <string name="add_to_playlist">တန်းစီစာရင်းသို့ ထည့်ရန်</string>
@@ -160,6 +161,7 @@
     <string name="dialog_cannot_resume">ဒေါင်းလုဒ် ကြားဖြတ်ခံခဲ့ရသည်။ ပြန်ရယူ၍ မရတော့ပါ။</string>
     <string name="dialog_clear_history">မကြာသေးမီက နားထောင်ထားသော သီချင်းစာရင်းကို ရှင်းပစ်မလား?</string>
     <string name="dialog_confirm_delete_checkbox_message">ဒေသဖိုင်ကိုလည်းဖျက်ပစ်</string>
+    <string name="dialog_continue">အိုကေ</string>
     <string name="dialog_failed_body">ဒေါင်းလုဒ်လုပ်ရန် နောက်မှကြိုးစားမလား သို့မဟုတ် တန်းစီရာမှ ဖိုင်အား ဖယ်ရှားမလား?</string>
     <string name="dialog_file_already_exists">ဒေါင်းလုဒ်လုပ်၍ မရပါ။ ဤဖိုင်သည် ရှိနေပြီးသားဖြစ်သည်။</string>
     <string name="dialog_file_missing_body">ဒေါင်းလုဒ်လုပ်ခဲ့သော ဖိုင်အားရှာမတွေ့ပါ</string>
@@ -196,6 +198,7 @@
     <string name="dialog_song_view_type_artist">အနုပညာရှင်ဖြင့်</string>
     <string name="dialog_song_view_type_folder">ဖိုလ်ဒါအားဖြင့်</string>
     <string name="dialog_song_view_type_song">သီချင်းအားဖြင့်</string>
+    <string name="dialog_stop_audio_in">ပြန်ဖွင့်တိုင်မာ</string>
     <string name="dialog_subtitle_make_playlist_public">အများသုံးသီချင်းစာရင်းများကို အခြားသူများလည်း ရနိုင်ပါသည်။ သီးခြားသီချင်းစာရင်းများကို သင်ဆင့်(ခ်)လုပ်ထားသော စက်များတွင်သာ ရနိုင်ပါသည်။</string>
     <string name="dialog_title_clearlist_tracks">တန်းစီထားရာမှ ဖယ်ရှားမည်</string>
     <string name="dialog_title_delete_tracks">ဖျက်ပစ်မည်</string>
@@ -242,7 +245,9 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
@@ -517,6 +522,7 @@
     <string name="mulit_choice_management">အိုင်တမ်များအား စီမံမည်</string>
     <string name="music_browser_label">တေးဂီတ</string>
     <string name="music_filter">အော်ဒီယိုဖိုင်များကို စစ်ပါ</string>
+    <string name="music_quality">အသံအရည်အသွေး</string>
     <string name="music_recommendation">သီချင်းအကြံပြုချက်များ</string>
     <string name="music_service">သီချင်းဝန်ဆောင်မှု</string>
     <string name="music_settings">သီချင်း</string>
@@ -547,6 +553,7 @@
     <string name="no_local_songs_selected">ဒေါင်းလုဒ်မလုပ်ရသေးသဖြင့် သီချင်းများကို ပေးပို့မရနိုင်ပါ</string>
     <string name="no_local_source_find">သီချင်းရှာမတွေ့</string>
     <string name="no_longer_prompt">နောက်ထပ် မပြပါနှင့်</string>
+    <string name="no_lyrics">စာသားမရှိပါ</string>
     <string name="no_results_return">ရလဒ် ရှာမတွေ့</string>
     <string name="no_scanned_songs">မရှိသော</string>
     <string name="no_song_downloaded">ဒေါင်းလုဒ်လုပ်ရန် သီချင်း ရှာမတွေ့ပါ</string>
@@ -664,12 +671,14 @@
     <string name="privacy_authorize_revoking">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="privacy_request_desc">"&lt;Data>သင့်အတွက် အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ ထောက်ပံ့ပေးရန်လိုအပ်သည့် ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား Mi တေးဂီတက စုဆောင်းရပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော ထိုအချက်အလက်များကို ကျွန်ုပ်တို့စီမံကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် ပိုမိုလေ့လာနိုင်ပါသည်။ Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။
 Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ဖတ်ရှုလက်ခံပေးပါ။
 ဖော်ပြပါ ဝန်ဆောင်မှုများ အသုံးပြုရန် သင်လက်မခံပါက ဤအက်ပ်၏ အင်္ဂါရပ်အချို့ကို သင်အသုံးပြုနိုင်မည် မဟုတ်သော်လည်း ၎င်း၏ အခြေခံလုပ်ဆောင်ချက်များအား ဆက်လက်ရရှိနိုင်ပါသေးသည်။&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Mi တေးဂီတမှ ကြိုဆိုပါသည်။ ဤအက်ပ်သည် အောက်ပါဝန်ဆောင်မှုများကို ထောက်ပံ့ပေးထားသည် -
 - စက်တွင်း အော်ဒီယိုဖွင့်စက်
 - အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ"</string>
+    <string name="privacy_request_subtitle_offline">Mi တေးဂီတမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)က အသံဖိုင်များအတွက် စက်တွင်းဖွင့်စနစ်ကို ပံ့ပိုးသည်။</string>
     <string name="privacy_request_title">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
     <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
     <string name="project_device">Mi ဖုန်း</string>
@@ -856,6 +865,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="toast_download_in_process">ဒေါင်းလုဒ်လုပ်ဆောင်နေ</string>
     <string name="toast_favorite_has_been_added">သီချင်းစာရင်းသို့ အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="toast_follow_success">အောင်မြင်စွာ ဖော်လိုလုပ်ပြီးပါပြီ</string>
+    <string name="toast_hungama_vip_song">ဤသီချင်းကို ပရိုအဖွဲ့ဝင်များအတွက်သာ ရရှိနိုင်ပါသည်။ ဤသီချင်းကို ဒေါင်းလုဒ်လုပ်ရန် စာရင်းသွင်းမှု ရယူပါ။</string>
     <string name="toast_is_pro">သင်သည် ပရိုအဖွဲ့ဝင်ဖြစ်ပါသည်။</string>
     <string name="toast_my_playlist_illegal_name">ဤသီချင်းစာရင်း ခေါင်းစဥ်သည် တရားမဝင်ပါ။ အမည်ပြန်ပေးပါ။</string>
     <string name="toast_my_playlist_set_to_private">ဤသီချင်းစာရင်းအား ကိုယ်ပိုင်သီးသန့် ပြုလုပ်ပြီးပါပြီ။ ယင်းအား အခြားသူများ မကြည့်နိုင်ပါ။</string>
@@ -896,6 +906,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="upload_playlist_to_hungama_title">အွန်လိုင်းသီချင်းများကို Mi အကောင့် သုံးသောအခြားစက်များတွင် ဖွင့်နိုင်ရန် Hungama သို့ ဆင့်(ခ်)လုပ်ထားပါ။</string>
     <string name="upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို Hungama သို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="user_playlist_plaza">သီချင်းစာရင်း</string>
     <string name="user_privacy_dialog_negative_text">ဖျက်သိမ်းမည်</string>
     <string name="user_privacy_dialog_positive_count_down_text">(%s) အကြာတွင် ရုပ်သိမ်းရန်</string>

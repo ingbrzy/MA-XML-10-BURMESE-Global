@@ -123,6 +123,7 @@
     <string name="adjust_3d_depth_title">ဂိမ်းများကိုညှိမည် 3D အနက်</string>
     <string name="adjust_font_size_answer_cn">အောက်ပါစလိုက်ဒါများကိုသုံး၍ စာသားအရွယ်အစားနှင့် ဖောင့်အလေးချိန်ကို ချိန်ညှိရန် ကြိုးစားပါ။</string>
     <string name="adjust_font_size_answer_global">အောက်ပါစလိုက်ဒါများကိုသုံး၍ စာသားအရွယ်အစား ချိန်ညှိရန် ကြိုးစားပါ။</string>
+    <string name="adjust_ligth">အလင်းရောင်တောက်ပမှု ချိန်ညှိချက်</string>
     <string name="adjust_temperature_title">အရောင်ပြအပူချိန်</string>
     <string name="advanced_gesture">စိတ်ကြိုက်လက်ဟန်ခြေဟန်များ</string>
     <string name="advanced_screen_paper_mode_title">ဖတ်ရှုမုဒ်</string>
@@ -221,6 +222,7 @@
     <string name="app_permissions_summary">%1$s ကို သုံးနေသော အက်ပ်များ</string>
     <string name="app_process_limit_title">နောက်ခံလုပ်ငန်းစဉ်ကို ကန့်သတ်မည်</string>
     <string name="app_switch_key">လတ်တလောအရာများ</string>
+    <string name="app_uninstall_sounds_enable_title">အက်(ပ်)များဖြုတ်စဉ် အသံမြည်ပါ</string>
     <string name="app_version">ဗားရှင်း</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_data">အက်(ပ်)များ</string>
@@ -451,6 +453,11 @@
     <string name="bluetooth_is_discoverable_always">ဖွင့် - ဤစက်ကို အနီးအနားရှိ ဘလူးတုစက်အားလုံးမှ မြင်ရပါမည်</string>
     <string name="bluetooth_map_profile_summary_connected">MAP သို့ ချိတ်ဆက်ထားသည်</string>
     <string name="bluetooth_map_profile_summary_use_for">MAP အတွက် သုံးသည်</string>
+    <string name="bluetooth_message_access_dialog_content">"မယုံကြည်ရသော ဘလူးတုသ် စက် %1$sက သင့်မက်ဆေ့ချ်ကို ဝင်ကြည့်လိုသည်။ 
+
+ သင်က %2$s နှင့်ယခင်က ချိတ်ဆက်မှု မလုပ်ထားပါ။"</string>
+    <string name="bluetooth_message_access_dialog_title">မက်ဆေ့ချ် သို့ဝင်ရောက်ခွင့်ပြုလိုပါသလား။</string>
+    <string name="bluetooth_message_access_notification_content">မယုံကြည်ရသည့် စက်က သင့်မက်ဆေ့ချ်များကို ဝင်ကြည့်လိုသည်။ အသေးစိတ်များအတွက် ထိပွတ်ပါ။</string>
     <string name="bluetooth_message_move_out_of_blacklist">%1$s ကို ဘလော့လုပ်ထားခြင်းမှ ယခုဖြုတ်မလား။</string>
     <string name="bluetooth_mi_fast_connect">တွဲသုံးနိုင်သော စက်များကို တွဲချိတ်ပါ</string>
     <string name="bluetooth_mi_fast_connect_summary">လွယ်ကူသော တွဲချိတ်နည်းသုံးပြီး အနီးအနားမှ စက်များနှင့် ချိတ်ဆက်ပါ</string>
@@ -474,6 +481,11 @@
     <string name="bluetooth_pan_nap_profile_summary_connected">ဒေသတွင်း အင်တာနက်ချိတ်ဆက်မှုကို အခြားစက်သို့ မျှဝေထားသည်</string>
     <string name="bluetooth_pan_profile_summary_use_for">အင်တာနက်ချိတ်ရန် သုံးသည်</string>
     <string name="bluetooth_pan_user_profile_summary_connected">အခြားစက်မှတစ်ဆင့် အင်တာနက် ဝင်ရောက်သုံးစွဲသည်</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"မယုံကြည်ရသော ဘလူးတုသ် စက် %1$sက သင့် အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းကို ဝင်ကြည့်လိုသည်။ ၎တွင် အဝင်ခေါ်နှင့် အထွက်ခေါ်များအကြောင်း ဒေတာပါရှိသည်။ 
+
+ သင်က %2$sနှင့်ယခင်က ချိတ်ဆက်မှု မလုပ်ထားပါ။"</string>
+    <string name="bluetooth_phonebook_access_dialog_title">အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းကို ဝင်ကြည့်ခွင့်ပြုလိုပါသလား။</string>
+    <string name="bluetooth_phonebook_access_notification_content">မယုံကြည်ရသည့် စက်က သင့်အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းကို ဝင်ကြည့်လိုသည်။ အသေးစိတ်များအတွက် ထိပွတ်ပါ။</string>
     <string name="bluetooth_preference_connected_devices">ဆက်သွယ်ထားသောကိရိယာများ</string>
     <string name="bluetooth_preference_found_devices">ရနိုင်သော စက်များ</string>
     <string name="bluetooth_preference_paired_devices">တွဲချိတ်ထားသော စက်များ</string>
@@ -554,6 +566,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="bluetooth_unlock_settings_devices_title">ကိရိယာ</string>
     <string name="bluetooth_unlock_settings_toggle_title">သို့လျှောက်ပါ</string>
     <string name="bluetooth_unlock_settings_unlock_device">ကိရိယာကို လော့ခ်ဖွင့်မည်</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">ဤအင်္ဂါရပ်သည် Xiaomi မှ ထုတ်လုပ်သော ဝတ်ဆင်ပစ္စည်းအချို့နှင့်သာ အလုပ်လုပ်သည်</string>
     <string name="bluetooth_unlock_state_disconnected">ချိတ်မထားပါ</string>
     <string name="bluetooth_unlock_state_key_error">စကားဝှက်မှားနေသည်</string>
     <string name="bluetooth_unlock_state_label">"အခြေအန- "</string>
@@ -612,6 +625,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
 အထက်ပါ အတိုင်း လုပ်ဆောင်ပြီးပါက Mi အကောင့်အား ပြန်ပေါင်းထည့်ပါ။ ထိုသို့မဟုတ်လျှင် သင့်စက်အား လော့ခ်ဖြည်၍ ရမည် မဟုတ်ပါ။"</string>
     <string name="bootloader_tips_ok">နားလည်ပါပြီ</string>
     <string name="bootloader_tips_warning">ကွန်ရက်မှ ချိတ်ဆက်မှု ဖြတ်၍ သင့် Mi အကောင့်မှ ဆိုင်းအင်ထွက်ပြီး စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ပါ၊ သို့မဟုတ် စနစ် ဒေတာအား ဖျက်ပစ်ပါ။</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">နောက်ထပ်ခလုတ်များ၏ လုပ်ဆောင်ချက်များ</string>
     <string name="breathing_light_color_menu_title">အလင်းအရောင်</string>
     <string name="breathing_light_color_summary">အသိပေးချက်များ ဝင်လျှင် မီးရောင်တောက်ပေးပါ</string>
@@ -771,7 +785,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="color_game_led_applications_title_summary">LED မီးနှင့် အလုပ်လုပ်မည့် အက်(ပ်)တစ်ခုချင်းကို ရွေးပါ</string>
     <string name="color_game_led_battery_title">အားသွင်းစဥ် ဖွင့်ထားပါ</string>
     <string name="color_game_led_charging_summary">ဓာတ်ခဲအားသွင်းနေလျှင် LED မီး ပိတ်သွားပါမည်</string>
+    <string name="color_game_led_color_title">အရောင်</string>
     <string name="color_game_led_end_time">ဆုံးရန်</string>
+    <string name="color_game_led_feature_off">ပိတ်ရန်</string>
+    <string name="color_game_led_feature_on">ဖွင့်ရန်</string>
+    <string name="color_game_led_freq_title">ကြိမ်နှုန်း</string>
     <string name="color_game_led_game_mode_summary">Turbo ဂိမ်းကို ဖွင့်ထားသောအခါ ဂိမ်းများအတွက် အထူးဖန်တီးချက်များကို ပြပါ</string>
     <string name="color_game_led_game_mode_title">Turbo ဂိမ်းအတွက် အသုံးပြုမည်</string>
     <string name="color_game_led_incall_pulse_title">အဝင်ခေါ်ဆိုမှုများအတွက် အသုံးပြုမည်</string>
@@ -911,9 +929,14 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dark_color_summary_lcd">စနစ် နောက်ခံနှင့် အက်ပ် မျက်နှာပြင် အချို့သည် အမည်းရောင်အား သုံးမည်။ အမှောင်မုဒ်သည် အမှောင်ထဲတွင် ဖုန်းသုံးသောအခါ သင့်မျက်လုံးအား ကာကွယ်ပေးနိုင်သည်။</string>
     <string name="dark_color_summary_oled">စနစ် နောက်ခံနှင့် အက်ပ် မျက်နှာပြင် အချို့သည် အမည်းရောင်အား သုံးမည်။ ပါဝါသုံးစွဲမှု လျော့ချနိုင်ပြီး မျက်လုံးအတွက်လည်း ကောင်းပါသည်။</string>
     <string name="dark_mode_apps_header">သီးခြားအက်(ပ်)များ</string>
+    <string name="dark_mode_auto_time_summary">ညမုဒ်ကို သတ်မှတ်ထားသည့်အချိန်၌ အဖွင့်အပိတ်လုပ်ပါ</string>
+    <string name="dark_mode_auto_time_title">စိတ်ကြိုက်</string>
     <string name="dark_mode_contrast">တောက်ပမှုကို အလိုအလျောက် ချိန်ညှိပါ</string>
     <string name="dark_mode_contrast_hint">အလင်းရောင်လျှော့ထားချိန်တွင် အလိုအလျောက် အရောင်ချိန်ပြီး တောက်ပမှုကိုလျှော့ပေးပါ</string>
+    <string name="dark_mode_day_night_mode_summary">နေဝင်ချိန်၌ ညမုဒ်သို့ပြောင်းဖွင့်ပြီး နေတက်သည့်အခါ ပိတ်လိုက်ပါ</string>
+    <string name="dark_mode_day_night_mode_title">နေဝင်ချိန်မှ နေတက်ချိန်</string>
     <string name="dark_mode_font_background_title">စာသားနှင့် နောက်ခံများကို အလိုအလျောက် ညှိရန်</string>
+    <string name="dark_mode_time_settings">ညမုဒ်အချိန် သတ်မှတ်ရန်</string>
     <string name="dark_ui_mode_title">သင်းမ်သတ်မှတ်</string>
     <string name="dark_ui_settings_light_summary">ဤဆက်တင်များကို အက်(ပ်)များအတွက်လည်း သုံးမည်</string>
     <string name="dark_wallpaper_mode">နောက်ခံပုံကို အရောင်ရင့်မုဒ်သို့ ညှိပါ</string>
@@ -975,7 +998,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">ဤလက်ဗွေအား ဖျက်ပစ်မလား?</string>
     <string name="delete_rule">စည်းမျဉ်းများ ဖျက်ရန်</string>
     <string name="delete_saved_network">သိမ်းထားသော ကွန်ရက်များအား ဖျက်ပါ</string>
-    <string name="delete_sound_effect">\"ဒလိ\" အသံ</string>
+    <string name="delete_sound_effect">အကြောင်းအရာများဖျက်စဉ် အသံမြည်ပါ</string>
     <string name="deleted_apps">ဖျက်ခဲ့သော အက်ပ်များ</string>
     <string name="demo_mode">အစမ်းမုဒ်</string>
     <string name="demo_mode_summary">အခြေအနေပြ ဘားတန်းတွင် သတ်မှတ်ထားသော အိုင်ကွန်များ ပြပါ</string>
@@ -1047,6 +1070,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dialog_title_hdmi_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
     <string name="dialog_title_login">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="dialog_yes">ဟုတ်ပါသည်</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">မှတ်ချက် - စက်ပြန်ဖွင့်ပြီးနောက် သင့်စက်ကို သော့မဖွင့်မချင်း ဤအက်(ပ်)က စတင်မည်မဟုတ်ပါ။</string>
     <string name="disable_overlays">HW ထပ်ဆင့်လွှာအား ပိတ်မည်</string>
     <string name="disable_overlays_summary">မျက်နှာပြင်ပေါင်းစပ်ရန် GPU ကို အမြဲတမ်းသုံးမည်</string>
@@ -1080,6 +1104,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
     <string name="dndm_auto_time_turn_off_title">မနှောင့်ယှက်ပါနှင့် အား အလိုအလျောက် ပိတ်ပါ</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
@@ -1189,6 +1214,11 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="enable_freeform_support_summary">လွတ်လပ်စွာ ချိန်ညှိနိုင်သော စမ်းသပ်ဆဲ ဝင်းဒိုးအား ဖွင့်မည်။</string>
     <string name="enable_gpu_debug_layers">GPU ဒီဘာဂ်အလွှာ ဖွင့်ပါ</string>
     <string name="enable_gpu_debug_layers_summary">ဒီဘာဂင်အက်(ပ်)များအတွက် GPU ဒီဘာ့လေယာများကို တင်ခွင့်ပြုရန်</string>
+    <string name="enable_local_backup">ဖွင့်ရန်</string>
+    <string name="enable_local_backup_cancel">မလုပ်တော့ရန်</string>
+    <string name="enable_local_backup_message">အရန်သိမ်းဖိုင်များကို ဤစက်တွင်သိမ်းပြီး ကွန်ပျူတာ သို့မဟုတ် USB စက်တွင် ကူးနိုင်ရန် ဤအင်္ဂါရပ်ကို ဖွင့်ပါ။ ယခုဖွင့်လိုသလား။</string>
+    <string name="enable_local_backup_ok">အိုကေ</string>
+    <string name="enable_local_backup_title">စက်အတွင်း အရန်သိမ်းခြင်းများ</string>
     <string name="enable_mobile_data_when_opening_hotspot">မိုဘိုင်းဒေတာ ချိတ်ဆက်မှုအား ဖွင့်မလား?</string>
     <string name="enable_opengl_traces_title">OpenGL ဖြင့် ခြေရာခံမည်</string>
     <string name="enable_screen_projection_summary">မျက်နှာပြင်တွင်ပါဝင်သည်များကို ပြင်ပမော်နီတာသို့ လွှင့်တင်ရန်</string>
@@ -1256,7 +1286,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="face_data_siggesstion_next">ရှေ့သို့</string>
     <string name="face_data_siggesstion_next_time">နောက်ထပ် (%d စက္ကန့်)</string>
     <string name="face_data_suggesstion_first">မျက်နှာဖြင့် သော့ဖွင့်ခြင်းသည် PIN၊ စကားဝှက် သို့မဟုတ် ပုံစံဖြင့် သော့ဖွင့်ခြင်းထက် လုံခြုံမှု အဆင့်နိမ့်သည်။ သင်၏စက်ကို သင့်ဓာတ်ပုံ သို့မဟုတ် သင်နှင့်ရုပ်ဆင်သောလူဖြင့် သော့ဖွင့်နိုင်သည်။</string>
-    <string name="face_data_suggesstion_second">သင့်မျက်နှာတစ်ခုလုံး မည်သည့်အရာမျှ ဖုံးလွှမ်းထားခြင်းမရှိစေရ။ လုံလောက်သောအလင်းနှင့် ရှင်းလင်းစွာမြင်စေပါ။</string>
+    <string name="face_data_suggesstion_second">သင့်မျက်နှာ၏ အစိတ်အပိုင်းများကို မြင်သာထင်ရှားအောင် ပြုလုပ်ရပါမည်။ မျက်နှာကို ဖုံးစေမည့် ပစ္စည်းများ မဝတ်ရပါ။ မျက်နှာကို အလင်းရောင်တိုက်ရိုက်ကျခြင်းမှ ရှောင်ပြီး အရောင်ညီပါစေ။</string>
+    <string name="face_password_unlock">မျက်နှာဒေတာနှင့် မျက်နှာပြင်သော့</string>
     <string name="face_unlock">မျက်နှာဖြင့် သော့ဖွင့်ခြင်း</string>
     <string name="face_unlock_be_on_the_screen">သင့်မျက်နှာရှေ့တွင် စက်ကို ကိုင်ထားပါ</string>
     <string name="face_unlock_by_notification_screen_on_msg">အသိပေးချက်များဝင်လာ၍ မျက်နှာပြင်လင်းသောအခါ မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်နိုင်သည်။ သို့သော် ဘက်ထရီအားကုန်မှု ပိုမြန်စေသည်။</string>
@@ -1313,6 +1344,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="fingerprint_apply_to_privacy_password">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက်သည် သင်၏ဓာတ်ပုံများ၊ မက်ဆေ့ချ်များ၊ ဖိုင်များ၊ မှတ်စုများနှင့် အက်ပ်များအား ကာကွယ်ပေးပါမည်။</string>
     <string name="fingerprint_base_title">လက်ဗွေ %s</string>
+    <string name="fingerprint_double_tap">လက်ဗွေဆန်ဆာကို နှစ်ချက်တို့ပါ</string>
+    <string name="fingerprint_face_password_unlock">လက်ဗွေများ၊ မျက်နှာဒေတာနှင့် မျက်နှာပြင်သော့</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">မျက်နှာ (မျက်နှာပြင်သော့ခတ်ရန် စကားဝှက်ကို ဦးစွာ သတ်မှတ်ပါ)</string>
     <string name="fingerprint_first_open_screen_password_tittle">လက်ဗွေ (မျက်နှာပြင်သော့ခတ်ရန် စကားဝှက်ကို ဦးစွာ သတ်မှတ်ပါ)</string>
     <string name="fingerprint_for_keyguard_disabled">လုံခြုံရေးဆက်တင်များတွင် လက်ဗွေအား ပိတ်ထားသည်။</string>
@@ -1328,6 +1361,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="fingerprint_not_identified_msg">လက်ဗွေအား မဖတ်နိုင်ခဲ့ပါ။ စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_not_recognized">မမှတ်မိပါ</string>
     <string name="fingerprint_others_title">အခြား</string>
+    <string name="fingerprint_password_unlock">လက်ဗွေများနှင့် မျက်နှာပြင်သော့</string>
     <string name="fingerprint_payment">လက်ဗွေဖြင့် ပေးချေမှု</string>
     <string name="fingerprint_removal_failed">လက်ဗွေအား မဖယ်ရှားနိုင်ပါ၊ နောက်တစ်ကြိမ် ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="fingerprint_unlock_press_type">ဖိခြင်းအားဖြင့်</string>
@@ -1459,6 +1493,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="freeform_guide_notification_drop_down_summary">အသိပေးချက်၏ အက်ရှင်ဘားကို ထိ၍ဖိထားပြီး အောက်သို့ ဆွဲချပါ</string>
     <string name="freeform_guide_notification_drop_down_title">မျောလွင့်အကွက်များ ဖွင့်ရန်</string>
     <string name="freeform_guide_settings">မျောလွင့် အကွက်များ</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">ဝင်းဒိုး အောက်ခြေကို ဖိ၍ နှိပ်ထားပြီး ၎င်းကို အပေါ် ညာဘက် ထောင့်သို့ ဆွဲရွှေ့ပါ</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">အက်ပ်ကို ချုံ့ရန်</string>
     <string name="freeform_guide_slide_up_to_close_summary">မျောလွင့်အကွက်၏ အက်ရှင်ဘားမှ အပေါ်သို့ ပွတ်ဆွဲပါ</string>
     <string name="freeform_guide_slide_up_to_close_title">မျောလွင့်အကွက်များကို ပိတ်ခြင်း</string>
     <string name="freeform_vedio_description">"အသိပေးချက်တစ်ခုကို မျောလွင့်အကွက်တွင်ဖွင့်ရန်အတွက် ထိ၍ဖိထားပြီး အောက်သို့ ဆွဲချရပါမည်။
@@ -1525,6 +1561,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="gxzw_anim_rhythm">စည်းချက်</string>
     <string name="gxzw_anim_star">ကြယ် အလင်း</string>
     <string name="gxzw_anim_title">လက်ဗွေ အန်နီမေးရှင်း</string>
+    <string name="gxzw_anim_unlock_effect">%s လှုပ်ရှား လက်ဗွေ</string>
     <string name="gxzw_aod_show_summary">လက်ဗွေ အိုင်ကွန် ပေါ်လာစေရန် စက်အား မပါ သို့မဟုတ် မျက်နှာပြင်အား ထိနှိပ်ပါ။ ဤအင်္ဂါရပ်သည် ပါဝါသုံးစွဲမှုကို မြန်စေနိုင်သည်။</string>
     <string name="gxzw_aod_show_tittle">မျက်နှာပြင် ပိတ်သွားသောအခါ လက်ဗွေအိုင်ကွန်အား ပြပါ</string>
     <string name="gxzw_dialog_message">စခရင် လက်ဗွေအာရုံခံကိရိယာ ပုံမှန် အလုပ်လုပ်နိုင်ရန် ဖုန်းစခရင်ကပ်မှန်အား မသုံးပါနှင့်။ သုံးမည်ဆိုပါက တရားဝင် ဖုန်းကပ်မှန်များကိုသာ ရွေးချယ်ပါ။</string>
@@ -1574,7 +1611,7 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="haptic_video_content_description">ထိတွေ့မျက်နှာပြင်ဆိုင်ရာ တုံ့ပြန်အကြံပြုမှု သရုပ်ပြဗီဒီယို</string>
     <string name="haptic_volume_adjustment_14_content_description">အသံညှိခြင်း</string>
     <string name="hardware_version">ဟာ့ဒ်ဝဲလ် ဗားရှင်း</string>
-    <string name="has_screenshot_sound">မျက်နှာပြင်ရိုက်ချက် အသံ</string>
+    <string name="has_screenshot_sound">မျက်နှာပြင်ဓာတ်ပုံများရိုက်စဉ် အသံမြည်ပါ</string>
     <string name="hdcp_checking_dialog_title">HDCP စစ်ဆေးရေး လုပ်ဆောင်ချက် သတ်မှတ်ပါ</string>
     <string name="hdcp_checking_title">HDCP စစ်ဆေးနေသည်</string>
     <string name="hdmi_3d_display_enable_summary">3D ဂိမ်းများကို ထောက်ပံ့မည်</string>
@@ -1589,6 +1626,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="header_category_accounts">အကောင့်များ</string>
     <string name="header_category_wireless_networks">ကြိုးမဲ့ &amp; ကွန်ရက်များ</string>
+    <string name="headphone_assisted_summary">ဖုန်းမိုက်ခရိုဖုန်းဖိ(ဒ်)ကို ချိတ်ထားသော ဘလူးတုနားကြပ်သို့ ထုတ်လွှင့်ရန်</string>
+    <string name="headphone_assisted_title">တိုက်ရိုက်လွှင့်ရာတွင်သုံးသော အသံထိန်းစနစ်</string>
     <string name="headset_connectiong">ချိတ်နေသည်…</string>
     <string name="headset_find_both">နှစ်ဖက်လုံး</string>
     <string name="headset_find_cancel">ပယ်ဖျက်မည်</string>
@@ -1606,6 +1645,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="headset_find_tip_title">သတိပြုရန်</string>
     <string name="headset_find_title">သင့်နားကြပ်များကို ရှာဖွေပါ</string>
     <string name="headset_find_voice_warning">အသံကျယ်ကြောင်း သတိပေးချက်</string>
+    <string name="headset_head_tracking_desc">ခေါင်းလှုပ်ရှားမှုကိုလိုက်ပြီး ပတ်ပတ်လည်အသံကို ညှိရန်</string>
+    <string name="headset_head_tracking_title">ခေါင်းလှုပ်ရှားမှုကို ခြေရာခံရန်</string>
     <string name="headset_notification_switch_summary">နားကြပ်တပ်ထားစဉ် အသိပေးချက်ရှိတ် ဝိဂျက်တွင် အခြေအနေပြသပါ။</string>
     <string name="headset_notification_switch_title">အသိပေးချက်ရှိတ် ဝိဂျက်</string>
     <string name="headset_remove_message">စက်ကို ဖြုတ်လိုသလား။</string>
@@ -1808,6 +1849,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="launch_noapp_dialog_replace">ဆက်တင်များ</string>
     <string name="launch_notification_center">အသိပေးချက်ရှိတ်</string>
     <string name="launch_recents">လတ်တလောအရာများကို ဖွင့်ပါ</string>
+    <string name="launch_smarthome">Xiaomi အမြန်ချိတ်စနစ်</string>
     <string name="launch_voice_assistant">အသံလက်ထောက် စဖွင့်ရန်</string>
     <string name="launch_wechat_payment_code">WeChat ငွေပေးချေကုဒ်</string>
     <string name="launch_wechat_scanner">WeChat စကန်နာ</string>
@@ -1872,6 +1914,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="local_backup_section_summary_new">အကောင့်များ၊ အက်(ပ်)ဒေတာ၊ စနစ်ဆက်တင်များနှင့် အခြားအရာများကို အရန်သိမ်းရန်</string>
     <string name="local_backup_section_title">စက်အတွင်း အရန်သိမ်းခြင်း</string>
     <string name="local_backup_section_title_new">ဤစက်တွင်</string>
+    <string name="local_backup_usestatus_title">စက်အတွင်း အရန်သိမ်းခြင်းများကို ပိတ်ထားသည်</string>
     <string name="locale_settings">ဒေသ</string>
     <string name="location_access_summary">ဤခွင့်ပြုချက်ရထားသော အက်(ပ်)များက သင့်တည်နေရာအချက်အလက်များကို ရယူနိုင်သည်</string>
     <string name="location_access_title">တည်နေရာကြည့်ရှုမှု</string>
@@ -1929,6 +1972,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="lock_settings_picker_settings">မျက်နှာပြင်လော့ခ်တစ်ခု သတ်မှတ်မည်</string>
     <string name="lock_settings_title">ဖုန်းလုံခြုံရေး</string>
     <string name="lock_settings_with_fingerprint">သော့ခတ်မျက်နှာပြင် &amp; စကားဝှက်</string>
+    <string name="lock_sound_effect_enable_title">စက်သော့ပိတ်စဉ် အသံမြည်ပါ</string>
     <string name="lock_sounds_enable_title">မျက်နှာပြင်သော့ခတ်အသံ</string>
     <string name="lockpassword_choose_for_second_user">ဒုတိယနေရာစကားဝှက်အား သတ်မှတ်ပါ</string>
     <string name="lockpassword_choose_lock_generic_header">မျက်နှာပြင်လော့ခ်အား ရွေးချယ်ပါ</string>
@@ -1947,6 +1991,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="lockpassword_confirm_workspace_password">အလုပ်နေရာစကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_lock_password_header">စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">သော့ဖွင့်ပုံစံအား အတည်ပြုပါ</string>
+    <string name="lockpassword_confirm_your_lock_pin_header">PIN ကို အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_your_password_generic">ဆက်လက်လုပ်ဆောင်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ။</string>
     <string name="lockpassword_confirm_your_password_generic_profile">ဆက်လက်လုပ်ဆောင်ရန် အလုပ် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="lockpassword_confirm_your_password_header">စကားဝှက်အား အတည်ပြုပါ</string>
@@ -2018,6 +2063,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="long_press_volume_down">အသံနှိမ့်ခလုတ်အား ကြာကြာနှိပ်ပါ</string>
     <string name="main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="main_toolbar_statistic">ဒေတာသုံးစွဲမှု အခြေအနေ</string>
+    <string name="maintenance_title">ပြန်ပြင်မုဒ်</string>
     <string name="make_sure_cancel_update">မွမ်းမံမှုအားပယ်ဖျက်မည်လား။?</string>
     <string name="man_add_application">အလိုအလျောက်စတင်အက်ပ်စ်များကို ထည့်မည်</string>
     <string name="manage_facerecoginition_text">မျက်နှာဒေတာကို စီမံမည်</string>
@@ -2122,6 +2168,8 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="miheadset_double_click_right">လက်ယာနားကြပ်ကို နှစ်ချက်တို့ပါ</string>
     <string name="miheadset_double_press_left">လက်ဝဲနားကြပ်ကို နှစ်ချက် ဖိနှိပ်ပါ</string>
     <string name="miheadset_double_press_right">လက်ယာနားကြပ်ကို နှစ်ချက် ဖိနှိပ်ပါ</string>
+    <string name="miheadset_dual_connect_mode">စက်နှစ်လုံးနှင့် ချိတ်ရန်</string>
+    <string name="miheadset_dual_connect_mode_summary">နားကြပ်ကို ဘလူးတုစက်နှစ်လုံးနှင့် တစ်ပြိုင်တည်းချိတ်ရန် ဖွင့်ပါ</string>
     <string name="miheadset_enhanceVoice">အသံအဆင့်မြှင့်ရန်</string>
     <string name="miheadset_enhence_high">သုံးဆမြှင့်ထားသော</string>
     <string name="miheadset_enhence_low">ချဲ့ထားသောဘယ်သံ</string>
@@ -2180,6 +2228,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="miheadset_plus">အသံမြင့်</string>
     <string name="miheadset_rename">အမည်ပြောင်းရန်</string>
     <string name="miheadset_rename_device">အမည်ပြောင်းရန်</string>
+    <string name="miheadset_single_ear_indicate">ဆူညံ့သံဖျောက်ခြင်းအသုံးပြုရန် နားကြပ်နှစ်ဖက်စလံုးကို ဝတ်ဆင်ပါ</string>
     <string name="miheadset_soft">ပျော့သော</string>
     <string name="miheadset_transparent">ပွင့်လင်းမြင်သာမှု</string>
     <string name="miheadset_transparentMode">နောက်ခံအသံကြည်လင်မှု</string>
@@ -2221,6 +2270,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="miui_lab_install_drive_mode_title">ကားမုဒ်အား ထည့်သွင်းမည်</string>
     <string name="miui_lab_settings">MIUIလပ်</string>
     <string name="miui_lab_slogan">စူးစမ်းလေ့လာ၊ ရှာဖွေတွေ့ရှိ။</string>
+    <string name="miui_master_clear_prompt_battery_low">ဘက်ထရီလက်ကျန်မှာ %1$s အောက်သို့ ရောက်နေသောအချိန်တွင် မူရင်းစနစ်သို့ ပြန်သတ်မှတ်ခြင်းကို မလုပ်ဆောင်နိုင်ပါ။ ဆက်မလုပ်မီ သင့်စက်ကို အားဖြည့်ပါ။</string>
     <string name="miui_master_clear_summary">ဤစက်ရှိဒေတာအားလုံးကို ဖျက်လိုက်ပါမည်</string>
     <string name="miui_more_special_feature">အင်္ဂါရပ် အသစ်များကို ကြည့်မည်</string>
     <string name="miui_optimization_disabled">MIUI ပိုမိုကောင်းမွန်အောင် လုပ်ဆောင်ခြင်းကို ပိတ်မည်</string>
@@ -2267,6 +2317,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="miui_sos_remind_open">အရေးပေါ် SOS မုဒ် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အရေးပေါ်အဆက်အသွယ် အနည်းဆုံး ၁ ယောက် လိုအပ်သည်။</string>
     <string name="miui_sos_remind_sendinfo">သင်၏အရေးပေါ်အဆက်အသွယ်များအား ပြောပြရန် မမေ့ပါနှင့်။ သို့မှသာ အရေးပေါ်အချိန်တွင် သင့်အား အမြန်ဆုံး ကူညီနိုင်မည်။</string>
     <string name="miui_sos_remind_sendnow">ယခု ပေးပို့မည်</string>
+    <string name="miui_sos_remind_sendnow_donot_send">မပေးပို့ပါနှင့်</string>
     <string name="miui_sos_remind_title">သတိပြုရန်</string>
     <string name="miui_sos_settings_alert_contacts_repeat">ရှိပြီးသား အဆက်အသွယ်များအား ထပ်ပေါင်းထည့်၍ မရပါ။</string>
     <string name="miui_sos_settings_alert_contacts_too_many">အရေးပေါ် အဆက်အသွယ် အများဆုံး ၃ ယောက် ပေါင်းထည့်နိုင်သည်။</string>
@@ -2656,6 +2707,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="password_security_settings_title">စကားဝှက် &amp; လုံခြုရေး</string>
     <string name="password_turned_off_text">စကားဝှက်အား ပိတ်လိုက်သည်</string>
     <string name="password_turned_on_text">စကားဝှက်အား ဖွင့်ပြီးပါပြီ</string>
+    <string name="password_unlock">မျက်နှာပြင်သော့</string>
     <string name="password_unlock_title">မျက်နှာပြင်သော့</string>
     <string name="peek_notification_icon_title">အဝင်အသိပေးချက်များ၏ အိုင်ကွန်အား ပြပါ</string>
     <string name="performance_category">စွမ်းဆောင်ရည်</string>
@@ -2741,6 +2793,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="power_remaining_less_than_duration_only">%1$s အောက်သာ ကျန်သည်</string>
     <string name="power_remaining_more_than_subtext">%1$s အထက် ကျန်သည် (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">%1$s အထက် ကျန်သည်</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">စနစ် လုပ်ဆောင်ချက်</string>
     <string name="power_suggestion_battery_run_out">%1$s က ဓာတ်ခဲကုန်စေနိုင်သည်</string>
     <string name="power_usage_history">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
@@ -2879,6 +2932,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="private_sms_need_to_unlock">စကားဝှက်ထည့်ပါ</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံ ဆွဲပါ</string>
     <string name="private_sms_reset_by_account">စကားဝှက်ပြန်သတ်မှတ်ရန် Mi အကောင့်သို့ ဝင်ရပါမည်။</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ချိတ်မရပါ။ စက်ကို ပိတ်ပြီး ပြန်ဖွင့်ပါ</string>
     <string name="profile_info_settings_title">ပရိုဖိုင်အချက်အလက်</string>
     <string name="provision_activation">အသက်သွင်းမည်</string>
@@ -3009,7 +3063,8 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="screen_enhance_engine_ai_pic_summary">"အရာဝတ္ထုများ (ဥပမာ - အပင်၊ တိရစ္ဆာန်၊ အဆောက်အအုံ) တို့ကို ခွဲသိနိုင်ပြီး ပြသမှုအထူးပြုလုပ်ချက်များကို အမြန်ညှိပေးသည်။ "</string>
     <string name="screen_enhance_engine_ai_title">AI ပုံ အဆင့်မြှင့်ခြင်း</string>
     <string name="screen_enhance_engine_memc_note">ဆူပါရက်စလူးရှင်းဖွင့်ထားချိန်တွင် ဗီဒီယိုများကို အဆင့်မြှင့်မရပါ။ အဆင့်မြှင့်ဗီဒီယိုများကို ဖွင့်ပါက ဆူပါရက်စလူးရှင်းကို ပိတ်လိုက်ပါမည်။</string>
-    <string name="screen_enhance_engine_memc_note_1">ဤအင်္ဂါရပ်သည် ဓာတ်ခဲအား အနည်းငယ်ပိုကုန်စေသည်။</string>
+    <string name="screen_enhance_engine_memc_note_1">%d။ ဤအင်္ဂါရပ်သည် ဓာတ်ခဲအား အနည်းငယ်ပိုကုန်စေသည်။</string>
+    <string name="screen_enhance_engine_memc_note_2">%d။ ဤအင်္ဂါရပ်သည် ဗီဒီယိုကိရိယာပုံးကို ဖွင့်ထားချိန်၌သာ အလုပ်လုပ်ပါသည်။</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"အကြောင်းအရာများချောမွေ့စွာ ပေါ်နိုင်ရန်နှင့် အကူးအပြောင်းများ အသက်ဝင်စေရန် ဗီဒီယိုများတွင် ဖရိန်အပိုများ ထည့်ပါ။ "</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
@@ -3327,6 +3382,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="secspace_fod_finger_title">သင်၏လက်ဗွေအား အတည်ပြုပါ</string>
     <string name="secspace_fod_use_password">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="secure_keyguard_business_title">မျက်နှာပြင်လော့ခ်တစ်ခု သတ်မှတ်မည်</string>
+    <string name="security_center_title">လုံခြုံရေး</string>
     <string name="security_encryption_alert_dialog_info_first">ဤအင်္ဂါရပ်ကို ဖွင့်ရန် မျက်နှာပြင်သော့ သတ်မှတ်ပါ။ စက်ကို ပြန်ဖွင့်ချိန်တိုင်း ကုဒ်ဖြည်ရန်နှင့် စက်ကို ကောင်းစွာ သုံးနိုင်အတွက် မျက်နှာပြင်သော့ကို ထည့်ရန်လိုပါသည်။</string>
     <string name="security_encryption_alert_dialog_title_first">မျက်နှာပြင်လော့ခ်တစ်ခုသတ်မှတ်မည်</string>
     <string name="security_encryption_attention_1">စက်ပိတ်ထားစဉ် နှိုးစက်များအား အသုံးပြု၍ ရနိုင်လိမ့်မည် မဟုတ်ပါ</string>
@@ -3334,6 +3390,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="security_encryption_attention_3">မျက်နှာပြင်သော့အသစ် သတ်မှတ်ရန် လိုပါမည်။</string>
     <string name="security_encryption_attention_4">သင့်မျက်နှာပြင်သော့ကို မမေ့ပါနှင့်။ သို့မဟုတ်ပါက အစအဆုံးအသစ်ပြန်သတ်မှတ်ရမည်ဖြစ်ပြီး စက်ရှိ ဒေတာအားလုံးဆုံးရှုံးပါမည်။</string>
     <string name="security_encryption_attention_info">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်များနှင့် ၄င်းတို့၏ဒေတာ၊ မီဒီယာနှင့် အခြားဖိုင်များအား ကုဒ်ဖွဲ့နိုင်ပါသည်။</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">အရေးကြီးသော</string>
     <string name="security_encryption_close_dialog_info">မျက်နှာပြင်သော့မသုံးဘဲ ကုဒ်ဖွဲ့ရန် ရွေးချယ်ပါက Google ဝန်ဆောင်မှုအချို့ကို သုံးနိုင်မည်မဟုတ်ပါ။</string>
     <string name="security_encryption_close_dialog_title">မူလကုဒ်ဖွဲ့စနစ်သို့ ပြန်သွားပါ</string>
@@ -3381,6 +3438,11 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="setting_privacy_password">ကိုယ်ရေးအချက်အလက်ကာကွယ်မှု စကားဝှက် သတ်မှတ်မည်</string>
     <string name="settings_ad_loading">လုပ်ဆောင်နေသည်…</string>
     <string name="settings_ad_loading_unavailable">အချက်အလက်အား ရယူ၍ မရပါ။</string>
+    <string name="settings_charging_at_fast_speed">အမြန် အားသွင်းနေသည်</string>
+    <string name="settings_charging_at_normal_speed">အားသွင်းနေသည်</string>
+    <string name="settings_charging_at_top_speed">ထိပ်တန်းနှုန်းနှင့် အားသွင်းနေသည်</string>
+    <string name="settings_charging_fully_charged">အားအပြည့်သွင်းထားသည်</string>
+    <string name="settings_charging_not_charging">အားသွင်းမနေပါ</string>
     <string name="settings_forbidden_message">ဤဆက်တင်ကို ကန့်သတ်ထားသည်</string>
     <string name="settings_license_activity_title">အခမဲ့အရင်းအမြစ် လိုင်စင်များ</string>
     <string name="settings_new_version_btn">အပ်ဒိတ်လုပ်မည်</string>
@@ -3397,12 +3459,24 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="setup_choose_unlock_type_title">စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="setup_password_back">နောက်သို့</string>
     <string name="setup_password_confirm">အိုကေ</string>
+    <string name="setup_password_skip">ကျော်ရန်</string>
     <string name="shared_data_delete_failure_text">မျှဝေထားသော ဒေတာကို ဖျက်စဉ် အမှားအယွင်းရှိသည်။</string>
     <string name="shared_data_no_accessors_dialog_text">ဤမျှဝေထားသော ဒေတာအတွက် ငှားရမ်းခမရှိပါ။ ၎င်းကို ဖျက်လိုပါသလား။</string>
     <string name="shared_data_no_blobs_text">ဤအသုံးပြုသူအတွက် မျှဝေထားသော ဒေတာမရှိပါ။</string>
     <string name="shared_data_query_failure_text">မျှဝေထားသော ဒေတာကို ရယူစဉ် အမှားအယွင်းရှိသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="shared_data_summary">မျှဝေထားသော ဒေတာများကို ကြည့်ရန်နှင့် ပြုပြင်ရန်</string>
     <string name="shared_data_title">မျှဝေထားသော ဒေတာ</string>
+    <string name="shoulder_key_game_light_settings">အန်နီမေးရှင်းများ</string>
+    <string name="shoulder_key_settings">ရှိုဒါခလုတ်များ</string>
+    <string name="shoulder_key_settings_title">ရှိုဒါခလုတ်များ</string>
+    <string name="shoulder_key_sound_settings">အသံအထူးပြုလုပ်ချက်များ</string>
+    <string name="shoulder_key_sound_switch_title">အသံအထူးပြုလုပ်ချက်များ</string>
+    <string name="shoulder_key_sound_text_bullet">ကျည်</string>
+    <string name="shoulder_key_sound_text_current">အနာဂတ်</string>
+    <string name="shoulder_key_sound_text_sword">ဓား</string>
+    <string name="shoulder_key_sound_text_wind">အင်ဂျင်</string>
+    <string name="shoulder_key_switch_status_close">ပိတ်ရန်</string>
+    <string name="shoulder_key_switch_status_open">ဖွင့်ရန်</string>
     <string name="show_all_anrs">နောက်ခံ ANR အား ပြပါ</string>
     <string name="show_all_anrs_summary">နောက်ခံအက်ပ်များအတွက် \"အက်ပ် မတုံ့ပြန်ပါ\" ဟူသော စာသားကို ပြပါ</string>
     <string name="show_badge_notifications_short">တံဆိပ်များ</string>
@@ -3469,6 +3543,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="skip_step">ကျော်</string>
@@ -3509,12 +3584,15 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="slight_pause">၊</string>
     <string name="slot_status_title">IMEI အချက်လက်</string>
     <string name="smallwindow_smartcover_title">ပြဒင်းပေါက်ငယ် အရှေ့ကာဗာ</string>
+    <string name="smart_home_select_smart_device">စမတ်အိမ် စက်ပစ္စည်းများ စီမံရေးအတွက် အက်ပ်</string>
     <string name="smart_home_title">စမတ်အိမ်</string>
     <string name="smart_home_value_none">မရှိ</string>
     <string name="smart_home_value_unknown">မသိသော</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">စမတ်ကာဗာပုံစံ</string>
     <string name="smartcover_sensitive_summary">စမတ်ကာဗာအား အသုံးပြုပြီး အလိုအလျောက် ဖုန်းအား သော့ဖွင့် သော့ဖြည်ပါ</string>
     <string name="smartcover_sensitive_title">စမတ်ကာဗာ</string>
+    <string name="smooth_adjust_ligth">ချောမွေ့စေသော အကူးအပြောင်းများ</string>
+    <string name="smooth_adjust_ligth_summary">အအလင်းရောင်တောက်ပမှုအား ကိုယ်တိုင်ကိုယ်ကျ ချိန်ညှိစဥ် ကူးအပြောင်းကို ချော်မွေ့စေသည်။ ဤဖီချာကိုဖွင့်ထားသည့်အခါ အချို့သောဖြစ်ရပ်များတွင် အရောင်ကွဲလွဲမှု အနည်းငယ်ပေါ်လာတတ်သည်။</string>
     <string name="sms_application_title">မက်ဆေ့ချ်</string>
     <string name="sms_delivered_sound_dialog_title">အပို့မက်ဆေ့(ချ်)များအတွက် အသံရွေးရန်</string>
     <string name="sms_delivered_sound_title">မက်ဆေ့ခ်ျ ပို့ပြီးပြီ</string>
@@ -3554,7 +3632,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="sound_category_system_title">စနစ်</string>
     <string name="sound_effects_enable_title">အသံများကို ထိနှိပ်ပါ</string>
     <string name="sound_haptic_settings">အသံနှင့် တို့ထိခြင်း</string>
-    <string name="sound_mode">အသံတိတ်မုဒ် နှင့် DND</string>
+    <string name="sound_mode">အသံတိတ်မုဒ်</string>
     <string name="sound_settings">အသံ</string>
     <string name="sound_settings_tab_haptic">တို့ထိခြင်း</string>
     <string name="sound_settings_tab_sound">အသံ</string>
@@ -3586,6 +3664,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="status_bar_carrier_settings_no_sim_card">ဆင်းမ်ကဒ် မရှိပါ</string>
     <string name="status_bar_settings">အသိပေးချက် &amp; အခြေအနေပြ ဘားတန်း</string>
     <string name="status_bar_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_manage_notification">အက်ပ် အသိပေးချက်များ</string>
     <string name="status_bar_settings_notification_bar">အသိပေးချက်ရှိတ်</string>
     <string name="status_bar_settings_status_bar">အခြေအနေပြ ဘားတန်း</string>
@@ -3668,11 +3747,17 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="sunlight_mode_summary">အလိုအလျောက် အလင်းချိန်စနစ်ကို ပိတ်ထားချိန်တွင် ပတ်ဝန်းကျင်အလင်းရောင်မြှင့်ရန် တောက်ပမှုကို ချိန်ပါ</string>
     <string name="supl_not_set">&lt;မသတ်မှတ်ထား></string>
     <string name="sure_sync_now">အိုင်တမ်များကို ယခုဆင့်ခ်လုပ်မည်လား?</string>
+    <string name="surround_sound_all_desc">နားကြပ်များနှင့် စပီကာများအတွက် အသံပြန်ထုတ်ခြင်း အတိမ်အနက်ကိုမြှင့်ရန်</string>
+    <string name="surround_sound_only_headset_desc">နားကြပ်များအတွက် အသံပြန်ထုတ်ခြင်း အတိမ်အနက်ကိုမြှင့်ရန်</string>
+    <string name="surround_sound_only_speaker_desc">စပီကာများအတွက် အသံပြန်ထုတ်ခြင်း အတိမ်အနက်ကိုမြှင့်ရန်</string>
+    <string name="surround_sound_title">ပတ်ပတ်လည်အသံ</string>
     <string name="switchNetworkToast">မိုဘိုင်းကွန်ရက်ကို ချိတ်ခြင်းဖြင့် ငွေပိုကုန်နိုင်သည်</string>
     <string name="switch_access_service_on">ခလုတ် ထိန်းချုပ်မှု</string>
+    <string name="switch_bootup_sound">စဖွင့်စဉ် အသံမြည်ပါ</string>
     <string name="switch_headset_anti_lost">နားကြပ်ပျောက်သတိပေးချက်</string>
     <string name="switch_headset_anti_lost_title">နားကြပ်ပျောက်သတိပေးချက်</string>
     <string name="switch_on_text">ဖွင့်ပါ</string>
+    <string name="switch_power_sound">အားသွင်းကြိုးချိတ်ချိန် အသံမြည်ပါ</string>
     <string name="switch_screen_button_order">မှန်ခလုတ်များ</string>
     <string name="switch_screen_button_order_desc">နောက်ဆုတ်ခလုတ်နှင့် မီနူးခလုတ် အနေအထားပြောင်းမည်</string>
     <string name="switch_select_to_speak_on">စကားပြော ရွေးချယ်ပါ</string>
@@ -3733,6 +3818,8 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="thememanager_not_found">သင်းမ်များကို ဖွင့်၍မရပါ။ ထိုအက်ပ်အား ထည့်သွင်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
     <string name="three_gesture_down">လက်သုံးချောင်းဖြင့် ဆွဲချပါ</string>
     <string name="three_gesture_long_press">လက်ချောင်း %d ချောင်းဖြင့် ဖိပြီးထိနှိပ်ထားပါ</string>
+    <string name="time_floating_window">မျှောလွှင့်နေသည့် နာရီ</string>
+    <string name="time_floating_window_summary">အခြားအက်ပ်များအပေါ်တွင် မျောလွင့် အကွက်များ၌ နာရီကို ပြသပါ</string>
     <string name="time_unit_just_now">ယခုလေးတင်</string>
     <string name="time_zen_mode_turn_off">ဆုံးရန်</string>
     <string name="time_zen_mode_turn_on">စရန်</string>
@@ -3778,6 +3865,8 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="trackball_wake_title">ထရပ်ဘောလ် နိုးထခြင်း</string>
     <string name="traffic_none">မရှိပါ</string>
     <string name="transition_animation_scale_title">ပြောင်းလဲမှု အန်နီမေးရှင်းစကေး</string>
+    <string name="truetone_summary">အရောင်များကို ပတ်ဝန်းကျင်အလင်းရောင်နှင့် ညှိပါ</string>
+    <string name="truetone_title">ပြောင်းလဲနိုင်သော အရောင်များ</string>
     <string name="tts_default_lang_summary">စာသားမှ စကားပြောသံအတွက် သုံးမည့်ဘာသာစကားကို သတ်မှတ်ပါ</string>
     <string name="tts_default_lang_title">ဘာသာစကား</string>
     <string name="tts_default_pitch_summary">အသံပေါင်းစပ်မှု၏ အသံနေအသံထားကို ထိခိုက်စေသည်</string>
@@ -3862,6 +3951,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="unlock_set_unlock_pin_summary">စက်ကို သော့ဖွင့်ရန် ဂဏန်း %1$d-%2$d လုံး ထည့်ပါ</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">မျက်နှာပြင်လော့ခ်တစ်ခု သတ်မှတ်မည်</string>
+    <string name="unlock_sound_effect_enable_title">စက်သော့ဖွင့်စဉ် အသံမြည်ပါ</string>
     <string name="unlock_type_category_title">မှတ်မိခြင်း နည်းလမ်း</string>
     <string name="unlogin_account_summary">Mi ဝန်ဆောင်မှု အားလုံး၊ Mi အကောင့် တစ်ခု။</string>
     <string name="unlogin_account_title">Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ</string>
@@ -4037,6 +4127,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="vibrate_in_normal_title">ဖုန်းမြည်ချိန်မှာ တုန်ခါပါ</string>
     <string name="vibrate_in_silent_title">အသံတိတ်ပုံစံတွင် တုန်ခါမည်</string>
     <string name="vibrate_title">တုန်ခါမှု</string>
+    <string name="vibrate_when_ringing_title">ဖုန်းမြည်စဉ် တုန်ခါရန်</string>
     <string name="video_tool_box_title">ဗီဒီယို ကိရိယာပုံး</string>
     <string name="vip_list">ခေါ်ဆိုမှုများအကြောင်း အသိပေးရန်</string>
     <string name="virtual_sim_category_title">Mi ရွန်းမင်း</string>
@@ -4080,6 +4171,7 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="visibility_override_title">သော့ခတ်မျက်နှာပြင်တွင်</string>
     <string name="voice_access">အသံဖြင့်ထိန်းချုပ်မှု</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">စကား</string>
     <string name="voice_helper_title">အသံလက်ထောက်</string>
     <string name="volume_adjustment">အသံပမာဏ ချိန်ညှိမည်</string>
@@ -4393,7 +4485,9 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="wifi_suspend_optimizations_summary">Wi-Fi ဖွင့်ထားပါက ဘက်ထရီသုံးစွဲမှုကို အတတ်နိုင်ဆုံး လျော့ချမည်</string>
     <string name="wifi_switch_to_gsm_message">Wi-Fi နှင့်အချိတ်ဆက်ပြက်သွားသည်။ ထိုအစား မိုဘိုင်းဒေတာ ကော်နက်ရှင်အားသုံးမည်လား?</string>
     <string name="wifi_switch_to_gsm_title">GSM သုံးမည်လား?</string>
+    <string name="wifi_tether_checkbox_kddi_text">Wi-Fi ဒေတာချိတ်ဆက်ခြင်း</string>
     <string name="wifi_tether_checkbox_text">သယ်သွားနိုင်သော ဟော့စ်ပေါ့</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Wi-Fi ဒေတာချိတ်ဆက်ခြင်းကို သတ်မှတ်ရန်</string>
     <string name="wifi_tether_configure_ap_text">သယ်သွားနိုင်သော ဟော့စ်ပေါ့ သတ်မှတ်မည်</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s သယ်ဆောင်ရလွယ်ကူသည်</string>
     <string name="wifi_tether_enabled_summary">%1$s ကို အသက်သွင်းပါ</string>

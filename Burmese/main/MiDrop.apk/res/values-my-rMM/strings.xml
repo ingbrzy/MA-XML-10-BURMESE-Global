@@ -144,14 +144,14 @@
     <string name="er">ဦးတည်ရာဖိုလ်ဒါ</string>
     <string name="es">ရွေးချယ်ထားသော</string>
     <string name="et">ရွေးချယ်ထားသောဖိုင်- %1$d ခု | စုစုပေါင်း- %2$s ခု</string>
-    <string name="eu">အက္ခရာများ၊ စာလုံးများနှင့် ဂဏန်းများ ၄-၁၆ လုံး၊ စာလုံးကြီးသေး အရေးကြီးသည်</string>
+    <string name="eu">အသုံးပြုသူအမည် နှင့် စကားဝှက်သည် စာလုံးအကြီးအသေး နှင့် %1$d%2$d အက္ခရာများပါရမည်။ အင်္ဂလိပ်စာ စာလုံး၊ အထူး သင်္ကေတများ နှင့် နံပါတ်များ ရောစပ်နိုင်သည်။</string>
     <string name="ev">အမည်ဝှက်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
     <string name="ew">သုံးစွဲသူအမည် (သို့) စကားဝှက် မှားနေသည်</string>
     <string name="ex">အဝင်ပေါက်အား ဖွင့်၍မရပါ။ သင့် ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးပါ သို့မဟုတ် အဝင်ပေါက်နံပါတ်အား ပြန်သတ်မှတ်ပါ။</string>
     <string name="ey">စကားဝှက်</string>
     <string name="ez">အဝင်ပေါက်နံပါတ်</string>
     <string name="f0">လုံခြုရေး</string>
-    <string name="f1">ဆိုင်းအင်၀င်ပါ</string>
+    <string name="f1">အသုံးပြုသူအမည် နှင့် စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="f2">သုံးစွဲသူအမည်</string>
     <string name="f3">တရုတ်စာလုံးတို ဝင်းဒိုးများ၏ သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="f4">GBK</string>
@@ -168,7 +168,7 @@
     <string name="fg">ကံစမ်းကြည့်ပါ</string>
     <string name="fh">သွင်း၍ မရပါ</string>
     <string name="fi">သွင်းပြီးပါပြီ</string>
-    <string name="fj">ထည့်သွင်းနေသည်</string>
+    <string name="fj">ထည့်သွင်းနေသည်…</string>
     <string name="fk">ပက်ကေ့ချ်အမည်-</string>
     <string name="fl">အက်ပ်ဗားရှင်း-</string>
     <string name="fm">ဘာသာစကား-</string>

@@ -319,6 +319,7 @@
     <string name="headset_device_error_multconnect">စက်အမျိုးမျိုးချိတ်ထားစဉ် အပ်ပဒိတ်လုပ်မရပါ</string>
     <string name="headset_device_error_no_device">အနည်းဆုံး နားကြပ်တစ်ဖက် အားသွင်းဘူးတွင် မရှိနေပါ</string>
     <string name="headset_device_error_single_device">နားကြပ်တစ်ခုကို အပ်ပဒိတ်လုပ်မရပါ။ ပြန်တွဲပါ</string>
+    <string name="headset_device_sync">ဆင့်ခ်လုပ်နေသည်…</string>
     <string name="headset_device_sync_donot_move_device">ဆင့်(ခ်)လုပ်နေသည်… နားကြပ်မသုံးမီ ဆင့်(ခ်)ပြီးအောင် စောင့်ပါ။</string>
     <string name="headset_device_sync_wait_connect">ဆင့်(ခ်)လုပ်နေသည်… နားကြပ်မသုံးမီ ကွန်ရက် အလိုအလျောက် ငြိမ်အောင်စောင့်ပါ။</string>
     <string name="headset_download_failed">ဒေါင်းလုဒ်လုပ်မရပါ</string>

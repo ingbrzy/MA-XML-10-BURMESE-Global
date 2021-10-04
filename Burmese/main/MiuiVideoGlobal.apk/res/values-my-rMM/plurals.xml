@@ -57,6 +57,12 @@
     <plurals name="local_video_floder">
         <item quantity="other">ဖိုင်တွဲ %d ခု</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d ဆီဇင်</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">စာတန်းအား %.1f စက္ကန့် ရှေ့တိုးမည်</item>
     </plurals>

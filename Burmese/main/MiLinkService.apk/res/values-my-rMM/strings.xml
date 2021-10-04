@@ -9,6 +9,7 @@
     <string name="app_ver_name">၁.၀</string>
     <string name="casting_tips">လွှင့်တင်နေသည်…</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="close">ပိတ်</string>
     <string name="close_hotspot_hint">လွှင့်တင်ခြင်းမပြုမီ အိတ်ဆောင်ဟော့စပေါ့ကို ပိတ်ပါ</string>
     <string name="close_slave_wifi_hint">လွှင့်တင်ခြင်းမပြုမီ အရန် Wi-Fi ကွန်ရက်မှ ဖြုတ်ပါ</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
@@ -20,6 +21,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="device_desc_trust">ယုံကြည်ရသော စက်များ</string>
     <string name="dialog_can_not_find_device">အနီးအနားတွင် စက်များမတွေ့ပါ</string>
     <string name="dialog_cancle">ဖျက်သိမ်းရန်</string>
@@ -29,6 +31,8 @@
     <string name="dialog_connect_verify_perssion_fail">သင့်တီဗီတွင် လွှင့်တင်ခွင့်ပေး၍ မရပါ။ တစ်မိနစ်၊ နှစ်မိနစ်ခန့်စောင့်ပြီးမှ ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="dialog_connected">ချိတ်ထားပါပြီ</string>
     <string name="dialog_connecting">ချိတ်နေသည်…</string>
+    <string name="dialog_location_permission_message">အနီးအနားရှိ ပြင်ပ မော်နီတာများကို ရှာဖွေနိုင်စေရန် ဤအက်ပ်က သင့်တည်နေရာကို ရယူသုံးစွဲဖို့ လိုအပ်သည်။ ဖြစ်လာနိုင်သည့် ချွတ်ယွင်းမှုများရှောင်ရှားရန် ဤခွင့်ပြုချက်ပေးစဥ် \"အမြဲခွင့်ပြုရန်\"ကို ရွေးပါ။</string>
+    <string name="dialog_location_permission_title">လိုအပ်သောခွင့်ပြုချက်များ</string>
     <string name="dialog_miplay_permission_message">ဤအင်္ဂါရပ်ကို ကောင်းစွာသုံးနိုင်ရန် Casting အား အသံသွင်းခွင့်၊ စက်တွင်းသိုလှောင်ခန်းမှ ဖိုင်များနှင့် သင့်တည်နေရာကို ဖတ်ခွင့်ပေးပါ။ ရှေ့ဆက်ရန်အတွက် \"ဆက်တင်များ\" ကို တို့ပြီး \"အက်(ပ်)ခွင့်ပြုချက်များ\" ကို ရွေးပါ။</string>
     <string name="dialog_miplay_permission_positive">ဆက်တင်များ</string>
     <string name="dialog_miplay_permission_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
@@ -50,6 +54,8 @@
 2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">အနီးအနားရှိ စက်များကို ရှာနေသည်…</string>
     <string name="dialog_scanning_precondition">ကြိုးမဲ့ပြသခြင်းစနစ်ကိုသုံးနိုင်ရန် သင့်စက်တွင် Wi-Fi နှင့် ဘလူးတုဖွင့်ပါ။</string>
+    <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
+    <string name="dialog_scanning_precondition_new_global">အခြားစခရင်ပေါ်တွင် ပြသခြင်းကို အသုံးပြုရန် Wi-Fi၊ ဘလူးတုသ်နှင့် တည်နေရာ ဝန်ဆောင်မှုများကို ဖွင့်ပါ။ ယခု ဖွင့်မလား။</string>
     <string name="dialog_select_tv">စက် (%d) ခု ရွေးပါ</string>
     <string name="dialog_show_help">အကူအညီ</string>
     <string name="disconnect">လွှင့်တင်ခြင်းကို ရပ်ရန်</string>
@@ -98,6 +104,14 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="global_privacy">စည်းမျဉ်းစည်းကမ်းများ</string>
+    <string name="global_privacy_detail">&lt;Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပေးပါ။&lt;br>အထက်ဖော်ပြပါဝန်ဆောင်မှုများကို သုံးရန် သဘောမတူပါက ဤအက်(ပ်)၏ အင်္ဂါရပ်အချို့ကို သုံးမရဘဲ အခြေခံလုပ်ဆောင်ချက်များကိုသာ သုံးနိုင်ပါမည်။&lt;/Data></string>
+    <string name="global_privacy_explain">လွှင့်တင်ခြင်းမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)က အောက်ပါဝန်ဆောင်မှုများ ပေးနိုင်သည် -</string>
+    <string name="global_privacy_feature">ဝင်းဒိုးများကို အောက်ချပြီး မျက်နှာပြင်ပိတ် လွှင့်တင်ကာ တစ်ကိုယ်ရေအရာများကို ဖုံးထားနိုင်သည်။</string>
+    <string name="global_privacy_main">ဖုန်းမျက်နှာပြင်မှအရာများကို ပြင်ပမော်နီတာကြီးတွင် ထုတ်လွှင့်ပြသခြင်း။</string>
+    <string name="global_privacy_negative">သဘောမတူပါ</string>
+    <string name="global_privacy_positive">သဘောတူသည်</string>
+    <string name="global_privacy_tip">&lt;Data>သင့်အား အခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်နှင့် လွှင့်တင်ခြင်းကို အကောင်းဆုံးပြုလုပ်နိုင်ရန် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ ကောက်ယူရန် လိုအပ်သည်။ ကောက်ယူသောအချက်အလက်များကို ကျွန်ုပ်တို့ ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ ဤပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒအတွက်ပေးထားသော သဘောတူခွင့်ပြုမှုကို ဆက်တင်ထဲတွင် အချိန်မရွေး ပြန်ရုပ်သိမ်းနိုင်သည်။&lt;/Data></string>
     <string name="hang_up">မျက်နှာပြင်ပိတ်လျှက် လွှင့်တင်ရန်</string>
     <string name="hang_up_alert_dialog_content">စက်မျက်နှာပြင် ပိတ်ထားချိန်တွင်လည်း ဆက်လက်လွှင့်တင်ပါ။ ဤအင်္ဂါရပ်သုံးခြင်းဖြင့် ဓာတ်ခဲသက်သာသည်။ မျက်နှာပြင်ပြန်ဖွင့်ရန် ပါဝါခလုတ်ကို နှိပ်ပါ။</string>
     <string name="hang_up_alert_dialog_neg">ဖျက်သိမ်းရန်</string>
@@ -179,9 +193,28 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="help_page_text_end">သင့်စက်တံဆိပ်ကို ဤစာရင်းတွင် မတွေ့ပါက စက်၏ လွှင့်တင်ခြင်းလုပ်ဆောင်ချက်အကြောင်း ပိုမိုလေ့လာနိုင်ရန် ထုတ်လုပ်သူကို ဆက်သွယ်ပါ။</string>
     <string name="keyguard_security_setting_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="midnight">ည</string>
-    <string name="miuix_appcompat_cloud_state_disabled">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်း ပိတ်ထားသည်</string>
-    <string name="miuix_appcompat_cloud_state_finished">ကလောက်နှင့် အောင်မြင်စွာ ဆင့်(ခ်)လုပ်ပြီးပါပြီ</string>
-    <string name="miuix_appcompat_cloud_state_syncing">ကလောက်နှင့် ဆင့်(ခ်)လုပ်နေသည်…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
+    <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
+    <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
+    <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
+    <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
+    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
+    <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
+    <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
+    <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
+    <string name="miuix_appcompat_select_item">အိုင်တမ်များရွေး</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>
@@ -299,6 +332,7 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="screen_projection_sample_summary">စာရွက်စာတမ်းများ၊ ဂိမ်းများ၊ ဓာတ်ပုံများနှင့် ဗီဒီယိုများ လွှင့်တင်ခြင်း</string>
     <string name="screen_projection_sample_title">အစမ်းသုံး</string>
     <string name="screen_projection_title">လွှင့်တင်ရန်</string>
+    <string name="send">ပို့ပါ</string>
     <string name="small_window">မျက်နှာပြင်ကို အောက်ချထားရန်</string>
     <string name="small_window_not_supported">ဤအက်(ပ်)က လွှင့်တင်နေစဉ် ၎င်းကို အောက်ချထား၍မရပါ</string>
     <string name="status_bar_in_casting">လွှင့်တင်နေသည်…</string>

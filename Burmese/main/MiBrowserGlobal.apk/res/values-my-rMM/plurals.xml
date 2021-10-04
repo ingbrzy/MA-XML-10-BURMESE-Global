@@ -132,32 +132,11 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">လူကြိုက်များသော သီချင်း %dပုဒ်</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">%1$d စက္ကန့်နောက် ဗီဒီယို ဖွင့်ပါ</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$dခု ရွေးထားသည်</item>
+        <item quantity="other">အိုင်တမ် %1$d ခု ရွေးထားသည်</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">သင်အနှစ်သက်ဆုံး ဗီဒီယို %d ခုကို မကြည့်ဘဲထားရှိခဲ့သည်မှာ အချိန်အတော်ကြာခဲ့ပါပြီ။</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">ဗီဒီယို %1$dခုအား ဖယ်ရှားပြီးပါပြီ။</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">ဗီဒီယို %1$dခုအား ရှင်းလင်းမလား?</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">သမိုင်းမှ အိုင်တမ် %1$dခုကို ဖျက်လိုက်သည်။</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">သမိုင်းမှ အိုင်တမ် %1$dခုအား ဖျက်ပစ်မလား?</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">အပ်ဒိတ် %1$d ခု ရရှိနိုင်ပါပြီ။</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%dမိနစ် ကျန်ရှိသည်</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">ဗီဒီယိုအသစ် %1$d ခုအား ကြည့်ပါ</item>

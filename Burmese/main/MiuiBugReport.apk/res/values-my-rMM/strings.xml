@@ -58,27 +58,30 @@
     <string name="bugreport_tool_log_dumping_title">အမှားအစီရင်ခံစာ ဖန်တီးနေသည်</string>
     <string name="catch_full_log_action_cancel">ပယ်ဖျက်မည်</string>
     <string name="catch_full_log_action_complete">ပြီးပါပြီ၊ ပေးပို့မည်</string>
-    <string name="catch_full_log_action_start">မှတ်တမ်း ရယူမည်</string>
+    <string name="catch_full_log_action_start">စရန်</string>
     <string name="catch_full_log_add_original_photo">မူရင်း ရုပ်ပုံ သို့မဟုတ် ဗွီဒီယိုအတိုလေး ပေါင်းထည့်ပါ</string>
     <string name="catch_full_log_add_photo">ဓာတ်ပုံ ထည့်ရန်</string>
     <string name="catch_full_log_add_photo_dialog_content">သင် တင်ပို့လိုသော ပြဿနာမှာ ကင်မရာရုပ်ပုံ အရည်အသွေးနှင့် ပတ်သက်ပါက မူရင်းပုံတစ်ပုံ ပေါင်းထည့်ပါ။ ယခု ဓာတ်ပုံ ပေါင်းထည့်မလား?</string>
+    <string name="catch_full_log_category">မှတ်တမ်းအမျိုးအစားများ</string>
     <string name="catch_full_log_dialog_confirm_text">ပင်မမျက်နှာပြင်သို့ သွားပါ</string>
-    <string name="catch_full_log_dialog_content">MIUI သည် မှတ်တမ်းအား ရယူနေသည်။ ထိုအတောအတွင်း ဖုန်း၏ စွမ်းဆောင်ရည်အား နိမ့်ကျစေနိုင်သည်။ သတင်းပို့လိုသော ပြဿနာ ပြန်မပေါ်လာပါက မှတ်တမ်းသို့သွား၍ \"ပယ်ဖျက်မည်\"အား ထိနှိပ်ပါ။</string>
+    <string name="catch_full_log_dialog_content">၎င်းက ဖုန်း၏ စွမ်းဆောင်ရည်အား နိမ့်ကျစေနိုင်သည်။ သတင်းပို့လိုသော ပြဿနာ ပြန်မပေါ်လာပါက မှတ်တမ်းသို့သွား၍ \"ပယ်ဖျက်မည်\"အား ထိနှိပ်ပါ။</string>
+    <string name="catch_full_log_dialog_title">မှတ်တမ်းများကောက်ယူနေသည်……</string>
     <string name="catch_full_log_dump_hprof_failed">နောက်ကျသော မှတ်တမ်းအား ရယူ၍ မရပါ</string>
     <string name="catch_full_log_item_content_catch_direct">"၁။ သတင်းပို့လိုသော အင်္ဂါရပ်အား ပြဿနာပြန်ပေါ်လာသည်အထိ သုံးပါ။ 
 ၂။ ဤစာမျက်နှာသို့ ပြန်လာ၍ \"ပြီးပါပြီ၊ ပေးပို့မည်\"အား ထိနှိပ်ပါ။"</string>
-    <string name="catch_full_log_item_content_need_open">"၁။ \"မှတ်တမ်း ရယူမည်\"အား ထိနှိပ်ပါ။
-၂။ သတင်းပို့လိုသော အင်္ဂါရပ်အား ပြဿနာပြန်ပေါ်လာသည်အထိ သုံးပါ။ 
-၃။ ဤစာမျက်နှာသို့ ပြန်လာ၍ \"ပြီးပါပြီ၊ ပေးပို့မည်\"အား ထိနှိပ်ပါ။"</string>
-    <string name="catch_full_log_item_content_title">အဆင့်များ</string>
-    <string name="catch_full_log_item_title_audio">အော်ဒီယို၊ အသံမှတ်တမ်းနှင့် ခေါ်ဆိုမှုအသံများ</string>
+    <string name="catch_full_log_item_content_catching">မှတ်တမ်းများထုတ်နေသည်…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. မှတ်တမ်းများ စတင်ထုတ်ပေးရန် \"စတင်ရန်\" ကို ထိပါ။ 
+%2$d. သင်တွေ့ကြုံခဲ့သည့် ပြဿနာကို ပြန်လည်ထုတ်လုပ်ပါ။
+%3$d. ဤစာမျက်နှာသို့ ပြန်လာပြီး \"ပြီးပါပြီနှင့် အပ်လုတ်လုပ်ရန်\" ကိုနှိပ်ပါ။"</string>
+    <string name="catch_full_log_item_content_title">မှတ်တမ်းထုတ်နည်း</string>
+    <string name="catch_full_log_item_title_audio">အော်ဒီယို၊ ခေါ်ဆိုမှု အသံ၊ နှင့် အော်ဒီယို အသံသွင်းယူမှု</string>
     <string name="catch_full_log_item_title_bt">ဘလူးတုသ်</string>
     <string name="catch_full_log_item_title_dump_heap">နောက်ကျသော</string>
     <string name="catch_full_log_item_title_gps">တည်နေရာပြ ၀န်ဆောင်မှုများ</string>
     <string name="catch_full_log_item_title_sensor">အာရုံခံကိရိယာ</string>
     <string name="catch_full_log_item_title_signal">ဖုန်း၊ လိုင်းအားနှင့် မိုဘိုင်းကွန်ရက်များ</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi နှင့် ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">မှတ်တမ်းများသို့ ပြန်သွားရန် ထိနှိပ်ပါ</string>
     <string name="catch_full_log_notification_title">မှတ်တမ်း ရယူနေသည်…</string>
     <string name="catch_full_log_privacy_content_audio">မှတ်တမ်းများအား ဖန်တီးပြီး သင့်စက်ထဲတွင် သိမ်းဆည်းနေသည်။ ထိုမှတ်တမ်းများတွင် ကြည့်ရှုမှု သမိုင်း၊ ရိုက်ကူးမှု မှတ်တမ်း အပါအဝင် သင့်စက်ထဲရှိ အော်ဒီယို အချက်အလက်များ ပါဝင်နိုင်သည်။ မှတ်တမ်းများအား အခြားသူထံ မပြပါနှင့်။ အောက်ရှိ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ပြဿနာများအား ရှာဖွေ၊ ဖြေရှင်းရန် မှတ်တမ်းများ ဖန်တီးနေစဥ် ကျွန်ုပ်တို့မှ အထက်ပါ ဒေတာများအား စုဆောင်း၍ ဆာဗာသို့ အပ်လုဒ်တင်ခြင်းကို သင် သဘောတူသည်ဟု ယူဆပါမည်။</string>

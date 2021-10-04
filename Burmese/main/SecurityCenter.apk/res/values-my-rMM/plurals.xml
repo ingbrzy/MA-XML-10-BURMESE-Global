@@ -125,6 +125,9 @@
     <plurals name="find_applications">
         <item quantity="other">အက်ပ် %d ခုကို ရှာပါ</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d ကိုယ်ရေးကိုယ်တာ-ဆက်စပ်သော ဘေးများ</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">ပြဿနာ %1$dခု ဖြေရှင်းရန် ရှိသည်</item>
     </plurals>
@@ -166,6 +169,9 @@
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%dရက် ဆက်တိုက် ဝင်ရောက်ခဲ့သည်</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">နားလည်ပါပြီ (%dစက္ကန့်)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"အသံပြောင်းစနစ်ကို စမ်းသုံးပြီး

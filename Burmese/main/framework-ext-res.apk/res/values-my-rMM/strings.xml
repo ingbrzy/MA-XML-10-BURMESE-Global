@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">မျောလွင့်အကွက်ကို ပိတ်ရန် အက်ရှင်ဘားကိုထိ၍ ဖိထားပြီး အပေါ်သို့ ပွတ်ဆွဲပါ</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">အခြားကီးဘုတ်များ</string>
     <string name="package_delete_confirm_step_1">%s အား ဖြုတ်ချမလား?</string>
     <string name="package_delete_confirm_step_2">ဤအက်ပ်ကို ဖြုတ်ပစ်ပါက သင့်စနစ်အား မတည်မငြိမ်ဖြစ်စေနိုင်သည်။</string>
     <string name="package_delete_confirm_step_3">ဤအက်ပ်ဖြုတ်ပြီးနောက် ပြန်ဖွင့်၍ရတော့မည် မဟုတ်ပါ။</string>

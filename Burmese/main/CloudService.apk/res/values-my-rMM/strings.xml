@@ -2,11 +2,14 @@
 <resources>
     <string name="access_denied">ဝင်သုံးခွင့်ကို ငြင်းပယ်ထားသည်</string>
     <string name="account_related">သင့်စက်သည် တည်ရှိနေပြီးသား Mi အကောင့်(%s) နှင့် ဆက်စပ်နေပါသည်။ စက်အား အတည်ပြုစစ်ဆေးရန် ကွန်ရက်ဖြင့် ဆက်သွယ်ပါ။</string>
+    <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="activate_find_device_success">စက်ရှာဖွေခြင်းကို အသက်သွင်းပြီးပါပြီ။</string>
     <string name="activate_finddevice">စက်အား အသက်သွင်းရန် ကွန်ရက်သို့ချိတ်ဆက်ပါ</string>
     <string name="activating">အသက်သွင်းနေသည်…</string>
     <string name="add_short_cut">ပေါင်းထည့်</string>
     <string name="added_successfully">အောင်မြင်စွာ ပေါင်းထည့်ခဲ့သည်</string>
+    <string name="afternoon">နေ့လယ်</string>
+    <string name="am">နံနက်</string>
     <string name="antispam_sync">ဆက်တင်များကို မနှောင့်ယှက်ပါနှင့်</string>
     <string name="app_name">Xiaomi ကလောက်</string>
     <string name="bad_authentication">အကောင့် (သို့မဟုတ်) စကားဝှက် မှားနေသည်</string>
@@ -15,7 +18,9 @@
     <string name="calendar_sync">ပြက္ခဒိန်</string>
     <string name="check_contact">ထည့်ရန်</string>
     <string name="choose_contact_title">အဆက်အသွယ်များ</string>
+    <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="click_to_enabled">ဆင့်ခ်လုပ်ရန် ထိပါ။</string>
+    <string name="close">ပိတ်</string>
     <string name="close_shortcut">ပိတ်မည်</string>
     <string name="cloud_find_device">စက်ကို ရှာပါ</string>
     <string name="cloud_find_device_off">ပိတ်မည်။</string>
@@ -54,13 +59,28 @@
     <string name="data_merge_dialog_loading">ဒေတာစိစစ်နေသည်…</string>
     <string name="data_merge_dialog_title">အမယ်များပေါင်းစပ်ရန်</string>
     <string name="data_protection_title">ဒေတာများကို ကာကွယ်ရန်</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="detect_sim_card">ဆင်းမ်ကဒ်အား ရှာဖွေပါ</string>
-    <string name="disable_find_device_error">\"စက်ကိုရှာပါကို ပိတ်လို့မရပါ။ %1$s</string>
+    <string name="device_activation_card_cannot_get_yet">"Couldn't get info. Try again in 3-5 days."</string>
+    <string name="device_activation_card_description">"First activation is registered when a device connects to the network (including but not limited to Wi-Fi and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"First activation is registered when a device connects to the network (including but not limited to WLAN and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_device_not_support">Not supported on this device</string>
+    <string name="device_activation_card_local_service_error">"Couldn't get info. Wait a minute or two and try again."</string>
+    <string name="device_activation_card_no_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="device_activation_card_title">First activation</string>
+    <string name="device_activation_page_title">Device activation</string>
     <string name="do_not_merge">မလုပ်တော့ရန်</string>
-    <string name="enable_find_device_error">\"စက်ကိုရှာပါကို ဖွင့်လို့မရပါ။ %1$s</string>
+    <string name="early_morning">နံနက်</string>
+    <string name="empty" />
     <string name="enable_find_device_success">စက်ကိုရှာပါကို ဖွင့်ထားသည်</string>
     <string name="enable_micloud">Xiaomi ကလောက်သုံးရန် အကောင့်ဝင်ပါ</string>
     <string name="enable_sync_setting_title">ကလောက် ဝန်ဆောင်မှုများအား စီစဉ်သတ်မှတ်နေသည်…</string>
+    <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
+    <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="error_canceled">ပယ်ဖျက်ခဲ့သည်</string>
     <string name="error_credential_fail">စကားဝှက် ချို့ယွင်းချက်</string>
     <string name="error_data_in_transfer">ဆင့်ခ်လုပ်ခြင်းသည် %s နာရီအတွင်း ပြီးပါလိမ့်မည်။</string>
@@ -80,24 +100,81 @@
     <string name="error_token_expired">သင့် Mi အကောင့်သို့ ဆိုင်းအင်ပြန်ဝင်ပါ</string>
     <string name="error_unknown">အကောင့်ထဲသို့ မဝင်ရောက်နိုင်ပါ</string>
     <string name="error_unsupported">ဤအင်္ဂါရပ်ကို ဤဖုန်းတွင် မပံ့ပိုးပေးထားသေးပါ</string>
+    <string name="evening">နေ့လယ်</string>
     <string name="feedback_custom_hint">သင်ကြုံတွေ့ခဲ့ရသော ပြဿနာများအကြောင်းကို ဤနေရာတွင် ဖော်ပြပေးပါ။ အကြံပြုချက်များ ပေးအပ်နေခြင်းဖြစ်ပါက အသေးစိတ်အချက်အလက်များအား ကျွုန်ုပ်တို့ပိုမိုနှစ်သက်ပါသည်။</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
     <string name="find_device_dspt_provision">သင့်စက် ပျောက်သွားပါက စက်ရှာဖွေရန်၊ သော့ခတ်ရန် သို့မဟုတ် ပြန်သတ်မှတ်ရန် &lt;font color=#0097FF>%s&lt;/font>သို့ သွားပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင် အချိန်မရွေး ဖွင့်/ပိတ် လုပ်နိုင်ပါသည်။</string>
-    <string name="find_device_error_network">သင်၏ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
-    <string name="find_device_error_server">ဆာဗာ အမှား</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">စက်ရှာဖွေခြင်းအား ဖွင့်ထားခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ <a href="app://com.miui.cloudservice.gdpr.license"><u>ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</u></a>အား သဘောတူပြီး ဖြစ်ပါသည်။ ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်အား ပိတ်ပါ။</string>
     <string name="find_device_operation_failure_rpc">RPC အမှားကြောင့် လုပ်ငန်းစဉ်လုပ်ဆောင်၍မရပါ။</string>
     <string name="find_device_send_sms_alert">"
 
 သင့် ဆင်းမ်ကဒ်များကို ဖလှယ်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် အခြား SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။"</string>
     <string name="find_device_service_title">စက်ရှာဖွေခြင်း</string>
-    <string name="find_device_status_summary">သင့်စက်ကို ရှာပြီး အဝေးမှ သော့ခတ်ကာ ဒေတာများလည်း ဖျက်နိုင်ပါသည်</string>
+    <string name="find_device_status_summary">သင့်စက်ကို ရှာပြီး အဝေးမှ သော့ခတ်ကာ ဒေတာများဖျက်နိုင် သို့မဟုတ် ဓာတ်ပုံရိုက်နိုင်သည်</string>
     <string name="find_device_status_title_pad">စက်ရှာဖွေစနစ်</string>
     <string name="find_device_status_title_phone">စက်ရှာဖွေစနစ်</string>
     <string name="finddevice_miservice_notification_content">စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် သော့ချပါ</string>
     <string name="finddevice_miservice_notification_title">စက်ရှာဖွေစနစ်ကို ဖွင့်ရန်</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">MMMM d</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">yyyy, MMM d</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'မီလီစက္ကန့်'"</string>
+    <string name="fmt_time_minute">"m'မိနစ်'"</string>
+    <string name="fmt_time_minute_second">"m'မိနစ်' s'စက္ကန့်'"</string>
+    <string name="fmt_time_minute_second_millis">"m'မိနစ်' s.S'စက္ကန့်'"</string>
+    <string name="fmt_time_second">"s'စက္ကန့်'"</string>
+    <string name="fmt_time_second_millis">"s.S'စက္ကန့်'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password"><u>စကားဝှက် မေ့နေသည်</u></string>
+    <string name="friday">သောကြာ</string>
+    <string name="friday_short">သောကြာ</string>
+    <string name="friday_shortest">သောကြာ</string>
     <string name="help_and_feedback">အကူအညီနှင့် တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="hybrid_provider">%1$sမှ ထောက်ပံ့ထားသော</string>
     <string name="i_know">အိုကေ</string>
     <string name="input_password_hint">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="internet_access_dspt">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။</string>
@@ -133,6 +210,7 @@
     <string name="ks_fingerprint_status">ပေးချေမှု အခြေအနေ</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_high_precise_position">high precise position</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
@@ -178,12 +256,9 @@
     <string name="mi_drive_summary">စက်မျိုးစုံပေါ်ရှိ Xiaomi Cloud မှ မှတ်တမ်းများကို ရယူသုံးစွဲလိုက်ပါ</string>
     <string name="mi_drive_title">Mi ဒရိုက်</string>
     <string name="micloud_alert_dialog_positive">အိုကေ</string>
-    <string name="micloud_all_sub_1_intl_sms">သင့်ဆင်းမ်ကဒ်အား အသက်သွင်းရန် နိုင်ငံတကာ SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_1_sms">သင့်ဆင်းမ်ကဒ်အား အသက်သွင်းရန်ပုံမှန် SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">သင့် ဆင်းမ်ကဒ် အသက်သွင်းရန် စာသားမက်ဆေ့ချ်နှစ်ခု (ပုံမှန်နှင့် နိုင်ငံတကာ) တို့အား ပေးပို့လိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_2_intl_sms">သင့်ဆင်းမ်ကဒ်အား အသက်သွင်းရန် အင်တာနေရှင်နယ် SMS နှစ်ခုပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_2_sms">သင့်ဆင်းမ်ကဒ်အား အသက်သွင်းရန်ပုံမှန် SMS နှစ်ခုပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_resend_sms">"'စက်ကိုရှာဖွေ'အား ပိတ်လိုက် ပါက၊ ဆင်းမ်ကဒ်ပြောင်းလဲလိုက်ပါက အသက်သွင်း SMS အား ပေးပို့ပေးလိမ့်မည်။"</string>
+    <string name="micloud_all_sub_resend_common_sms_with_charge_hint">စက်ရှာဖွေစနစ်နှင့် Xiaomi ကလောက် ဝန်ဆောင်မှုများကို ဖွင့်ရန် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။</string>
+    <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">စက်ရှာဖွေစနစ်နှင့် Xiaomi ကလောက် ဝန်ဆောင်မှုများကို ဖွင့်ရန် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။</string>
+    <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">စက်ရှာဖွေစနစ်နှင့် Xiaomi ကလောက် ဝန်ဆောင်မှုများကို ဖွင့်ရန် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။</string>
     <string name="micloud_battery_low_notification_message">ဆင့်ခ်လုပ်ရန် အားသွင်းစက်အား ချိတ်ဆက်ပါ</string>
     <string name="micloud_battery_low_notification_title">ဘက်ထရီနည်းနေသည်</string>
     <string name="micloud_buy_member_safe">ကလောက်နေရာလွတ်ရယူရန်</string>
@@ -219,20 +294,18 @@
     <string name="micloud_confusion_yes">ဟုတ်ပါသည်</string>
     <string name="micloud_detail_fail">ဆင့်ခ်လုပ်၍ မရနိုင်ပါ</string>
     <string name="micloud_detail_query_error">ဆင့်ခ်အခြေအနေအား မသိရှိနိုင်ပါ</string>
-    <string name="micloud_dspt">"အဆက်အသွယ်များ၊ မက်ဆေ့(ချ်)များ၊ ဖုန်းခေါ်မှတ်တမ်းများနှင့် အခြားအရာများကို စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်ပါ။
-စက်ပျောက်ပါက ရှာနိုင်ရန် တည်နေရာထည့်ပြီး သော့ပိတ်ပါ။"</string>
     <string name="micloud_dspt_provision">ဒေတာဆင့်(ခ်)လုပ်ရန်၊ စက်တည်နေရာရှာရန်နှင့် မိတ်ဆွေများနှင့် ဖိုင်မျှဝေရန် Xiaomi ကလောက်သုံးပါ။</string>
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_china_v2">ဒေတာဆင့်(ခ်)လုပ်ရန်၊ စက်တည်နေရာရှာရန်နှင့် မိတ်ဆွေများနှင့် ဖိုင်မျှဝေရန် Xiaomi ကလောက်သုံးပါ။</string>
     <string name="micloud_dspt_provision_v2">ဒေတာဆင့်(ခ်)လုပ်ရန်၊ စက်တည်နေရာရှာရန်နှင့် မိတ်ဆွေများနှင့် ဖိုင်မျှဝေရန် Xiaomi ကလောက်သုံးပါ။</string>
-    <string name="micloud_dspt_provision_xms">ဒေတာဆင့်(ခ်)လုပ်ရန် Xiaomi ကလောက်သုံးပါ။</string>
-    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">စက်ရှာဖွေးစနစ်ကို ပိတ်ထားပါက ၎င်းအင်္ဂါရပ်ဖြင့် သင့်စက်ကို မရှာနိုင်ပါ။ စက်တွင် NFC ပံ့ပိုးပါက သင့်ဘဏ်ကတ်နှင့် သော့ကတ်အားလုံးကို Mi Pay မှ ဖျက်လိုက်ပါမည်။ တည်နေရာမျှဝေထားသူများသည်လည်း သင်ရောက်နေသည့် နေရာကို အပ်ပဒိတ်မရတော့ပါ။</string>
+    <string name="micloud_find_device_close_alert_content">စက်ရှာဖွေးစနစ်ကို ပိတ်ထားပါက ၎င်းအင်္ဂါရပ်ဖြင့် သင့်စက်ကို မရှာနိုင်ပါ။ တည်နေရာမျှဝေထားသူများသည်လည်း သင်ရောက်နေသည့် နေရာကို အပ်ပဒိတ်မရတော့ပါ။</string>
     <string name="micloud_find_device_close_alert_negtive">မည်သို့မဆို ပိတ်မည်။</string>
     <string name="micloud_find_device_close_alert_positive">ဆက်လက် ဖွင့်ထားမည်။</string>
     <string name="micloud_find_device_close_alert_title">စက်ရှာဖွေခြင်းအား ပိတ်မည်လား?</string>
     <string name="micloud_find_device_close_fail">စက်ရှာဖွေခြင်းအား ပိတ်၍မရပါ။</string>
     <string name="micloud_find_device_close_progress">…စက်ရှာဖွေခြင်းအား ပိတ်နေသည်။</string>
+    <string name="micloud_find_device_common_sms_alert_with_charge_hint">ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။</string>
+    <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။</string>
     <string name="micloud_find_device_finish">ပြီးပါပြီ</string>
     <string name="micloud_find_device_guide_alert_content">စက်ရှာဖွေခြင်းသည် သင်၏Mi အကောင့်နှင့်တွဲထားသည်။ သင်သည်စကားဝှက်တစ်ခုသတ်မှတ်ရန် သို့မဟုတ် သင်သတ်မှတ်ထားသောစကားဝှက်ကိုရိုက်ထည့်ရန်လိုအပ်သည်။ သင်၏Mi အကောင့်ID နှင့် စကားဝှက်ကို အမြဲမှတ်ထားပါ။</string>
     <string name="micloud_find_device_guide_alert_negtive">မလိုအပ်ပါ</string>
@@ -243,9 +316,6 @@
     <string name="micloud_find_device_guide_desc_pad">သင့်စက်ပျောက်ဆုံးလျှင် ရှာဖွေရန်၊ အဝေးထိန်းသော့ခတ်ရန် သို့မဟုတ် ပျောက်ဆုံးစက်ရှိ ဒေတာများကိုဖျက်ရန် အခြားစက်တစ်လုံးဖြင့် &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့ အကောင့်ဝင်ပါ။ &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>အသေးစိတ်ကြည့်ရန်&lt;/a>။</string>
     <string name="micloud_find_device_guide_desc_phone">သင့်စက်ပျောက်ဆုံးလျှင် ရှာဖွေရန်၊ အဝေးထိန်းသော့ခတ်ရန် သို့မဟုတ် ပျောက်ဆုံးစက်ရှိ ဒေတာများကိုဖျက်ရန် အခြားစက်တစ်လုံးဖြင့် &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့ အကောင့်ဝင်ပါ။ &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>အသေးစိတ်ကြည့်ရန်&lt;/a>။</string>
     <string name="micloud_find_device_guide_fail_reopen">စက်ကိုရှာပါ စနစ်ကို Mi အကောင့် - Xiaomi ကလောက်တွင် ဖွင့်နိုင်သည်</string>
-    <string name="micloud_find_device_guide_fail_sub_net">သင့်ကွန်ရက်ဆက်သွယ်မှုကိုစစ်ဆေးပြီး နောက်တစ်ကြိမ်ထပ်ကြိုးစားပါ။</string>
-    <string name="micloud_find_device_guide_micloud_sub_content">အဆက်အသွယ်များ၊ ဓာတ်ပုံများ၊ မှတ်စုများနှင့် အခြားအရာများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါ</string>
-    <string name="micloud_find_device_guide_micloud_sub_content_v2">အဆက်အသွယ်များ၊ ဓာတ်ပုံများ၊ မှတ်စုများနှင့် အခြားအရာများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါ</string>
     <string name="micloud_find_device_guide_noti_content">သင့်စက်ပျောက်သွားပါကလည်း သင့်ဒေတာများအား ကာကွယ်ပါ။</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">သင့်စက်ပျောက်သွားသော်လည်း QQ ဒေတာများသည် လုံခြုံပါလိမ့်မည်။</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">သင့်စက်ပျောက်သွားသော်လည်း WeChat ဒေတာများသည် လုံခြုံပါလိမ့်မည်။</string>
@@ -256,31 +326,31 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay မှသင့်အား စက်ရှာဖွေခြင်းအား ဖွင့်ထားရန် အကြံပြုပါသည်။</string>
     <string name="micloud_find_device_guide_progress">စက်ရှာဖွေအား ဖွင့်နေသည်…</string>
     <string name="micloud_find_device_guide_title">စက်ကိုရှာပြီး အဝေးမှ သော့ပိတ်ရန် သို့မဟုတ် ပျောက်ဆုံးကြောင်း အမှတ်အသားပြုရန် သို့မဟုတ် ဒေတာများဖျက်ရန် &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့ သင့် Mi အကောင့်ဖြင့်ဝင်ပါ။အသေးစိတ်ကို &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ဤနေရာတွင်&lt;/a> ကြည့်ပါ။</string>
+    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/> အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။</string>
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened">စက်ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
-    <string name="micloud_find_device_sms_alert">ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် မက်ဆေ့ချ်တစ်စောင် ပေးပို့ရမည်။ ထိုအတွက် ဖုန်းလိုင်းဝန်ဆောင်မှုအား အခကြေးငွေ ပေးဆောင်းရန်လိုအပ်ပါသည်။ ဆင်းမ်ကဒ် ပြောင်းလဲပါက ဤအင်္ဂါရပ်ကို ပြန်လည်အသက်သွင်းရန် မက်ဆေ့ခ်ျတစ်စောင် အလိုအလျောက်ပေးပို့လိမ့်မည်။</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>
     <string name="micloud_find_device_verify_close">စက်ရှာဖွေခြင်းအား ပိတ်မည်။</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်း၍မရပါ။</string>
     <string name="micloud_find_device_verify_progress">…စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းနေသည်။</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">ဆင့်ခ်လုပ်ခြင်းအား ဖျက်သိမ်းလိုက်သည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="micloud_main_head_menu_cloud_backup">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်း</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">စနစ်ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် အပြင်အဆင်</string>
     <string name="micloud_main_head_menu_finddevice_summary">သင့်စက်ကို ရှာဖွေ၍ သော့ခတ်ပါ</string>
-    <string name="micloud_main_head_menu_finddevice_unavailable">စက်ရှာဖွေခြင်းအား ဒုတိယနေရာတွင် မရရှိနိုင်ပါ၊ ပထမနေရာတွင်သာ အသုံးပြုနိုင်ပါသည်။</string>
+    <string name="micloud_main_head_menu_finddevice_unavailable">စက်ရှာဖွေစနစ်ကို ဒုတိယနေရာတွင် မရရှိနိုင်ပါ။ ပထမနေရာတွင်သာ သုံးနိုင်သည်။</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">ဖျက်ထားသော အိုင်တမ်များကို ပြန်လည်ရယူမည်</string>
     <string name="micloud_main_head_menu_recycle_bin_title">ဖျက်ထားသော အိုင်တမ်များ</string>
     <string name="micloud_main_head_menu_state_close">ပိတ်ပါ</string>
     <string name="micloud_main_head_menu_state_open">ဖွင့်ပါ</string>
     <string name="micloud_main_head_menu_state_unavailable">မပံ့ပိုးထားသော</string>
     <string name="micloud_main_manual_sync">ကိုယ်တိုင် ဆင့်ခ်လုပ်မည်</string>
-    <string name="micloud_main_memory_low_title">ဖုန်း၏အတွင်းပိုင်းသိုလှောင်ခန်း ပြည့်နေပြီ</string>
     <string name="micloud_main_network_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="micloud_main_sync_mode_summary">အက်ပ် ဒေတာများအား အချိန်နှင့်တပြေးညီ ဆင့်ခ်လုပ်မည်။ ဤအင်္ဂါရပ်အား ဖွင့်ထားပါက ပါဝါသုံးစွဲမှုအား မြန်စေနိုင်သည်။</string>
     <string name="micloud_main_sync_mode_title">အမြန် ဆင့်ခ်</string>
-    <string name="micloud_main_wait_charge">ဆင့်ခ်ပြန်လုပ်ရန် သင်၏စက်ကို အားပြည့်သည်အထိ အားသွင်းပါ။</string>
-    <string name="micloud_main_wait_charge_sleep">ဆင့်ခ်ပြန်လုပ်ရန် မျက်နှာပြင်ကို ပိတ်ပြီး သင်၏စက်ကို အားပြည့်သည်အထိ အားသွင်းပါ။</string>
     <string name="micloud_manage_space_data">ကလောက်ဒေတာ စီမံခန့်ခွဲရန်</string>
     <string name="micloud_manaul_sync_success_button_text">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="micloud_manaul_sync_success_time_prefix">နောက်ဆုံးဆင့်ခ်ချိန် - %s</string>
@@ -299,7 +369,9 @@
     <string name="micloud_manual_grant_permission">ခွင့်ပြုရန်</string>
     <string name="micloud_manual_local_storage_low_button_text">ရှင်းလင်းမည်</string>
     <string name="micloud_manual_local_storage_low_summary">နေရာရှင်းပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="micloud_manual_local_storage_low_summary_pad">နေရာရှင်းပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="micloud_manual_local_storage_low_title">ဆင့်ခ်မရပါ။ သင့်စက်တွင် နေရာလွတ်မလုံလောက်ပါ။</string>
+    <string name="micloud_manual_local_storage_low_title_pad">ဆင့်ခ်မရပါ။ သင့်စက်တွင် နေရာလွတ်မလုံလောက်ပါ။</string>
     <string name="micloud_manual_network_disconnet_button_text">ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပါ</string>
     <string name="micloud_manual_network_disconnet_title">ကွန်ရက်ပြဿနာကြောင့်ဆင့်ခ်မရပါ</string>
     <string name="micloud_manual_paused">ရပ်တန့်ထားသည်</string>
@@ -353,6 +425,10 @@
     <string name="micloud_proceed">ဆက်လုပ်ပါ</string>
     <string name="micloud_request_permission_confirm">နားလည်ပါပြီ</string>
     <string name="micloud_request_permission_content">ပြက္ခဒိန်အစီအစဉ်များ၊ အဆက်အသွယ်များ၊ မက်ဆေ့(ချ်)များ၊ ခေါ်ဆိုမှု မှတ်တမ်း၊ ဓာတ်ပုံ၊ ဗီဒီယိုများနှင့် အခြားအရာများကို Xiaomi ကလောက် နှင့် ဆင့်(ခ်) လုပ်နိုင်ရန် သင့်ပြက္ခဒိန်။ အဆက်အသွယ်များ၊ အကောင့်များ၊ SIM အခြေအနေ၊ ခေါ်ဆိုမှုမှတ်တမ်း၊ မက်ဆေ့(ချ်)များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖတ်ခွင့်လိုအပ်သည်။</string>
+    <string name="micloud_request_permission_content_pad">Xiaomi ကလောက်သည် ပြက္ခဒိန်အစီအစဉ်များ၊ အဆက်အသွယ်များ၊ မက်ဆေ့(ချ်)များ၊ ဓာတ်ပုံ၊ ဗီဒီယိုများနှင့် အခြားအရာများကို ဆင့်(ခ်)လုပ်နိုင်ရန် သင့်ပြက္ခဒိန်၊ အဆက်အသွယ်များ၊ အကောင့်များ၊ SIM အခြေအနေ၊ မက်ဆေ့(ချ်)များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖတ်ခွင့်လိုအပ်သည်။</string>
+    <string name="micloud_request_permission_content_pad_without_contact_but_sim">Xiaomi ကလောက်သည် ပြက္ခဒိန်အစီအစဉ်များ၊ မက်ဆေ့(ချ်)များ၊ ဓာတ်ပုံ၊ ဗီဒီယိုများနှင့် အခြားအရာများကို ဆင့်(ခ်)လုပ်နိုင်ရန် သင့်ပြက္ခဒိန်၊ အကောင့်များ၊ SIM အခြေအနေ၊ မက်ဆေ့(ချ်)များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖတ်ခွင့်လိုအပ်သည်။</string>
+    <string name="micloud_request_permission_content_pad_without_sim_but_contact">Xiaomi ကလောက်သည် ပြက္ခဒိန်အစီအစဉ်များ၊ အဆက်အသွယ်များ၊ ဓာတ်ပုံ၊ ဗီဒီယိုများနှင့် အခြားအရာများကို ဆင့်(ခ်)လုပ်နိုင်ရန် သင့်ပြက္ခဒိန်၊ အဆက်အသွယ်များ၊ အကောင့်များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖတ်ခွင့်လိုအပ်သည်။</string>
+    <string name="micloud_request_permission_content_pad_without_sim_or_contact">Xiaomi ကလောက်သည် ပြက္ခဒိန်အစီအစဉ်များ၊ ဓာတ်ပုံ၊ ဗီဒီယိုများနှင့် အခြားအရာများကို ဆင့်(ခ်)လုပ်နိုင်ရန် သင့်ပြက္ခဒိန်၊ အကောင့်များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖတ်ခွင့်လိုအပ်သည်။</string>
     <string name="micloud_request_permission_title">Xiaomi ကလောက်က ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="micloud_request_sync_too_frequent">တောင်းဆိုမှု အလွန်များနေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="micloud_setting_antispam_summary">ခြွင်းချက်များနှင့် ဘလော့လုပ်ထားသော ဖုန်းနံပါတ်များ</string>
@@ -386,11 +462,13 @@
     <string name="micloud_storage_unit_gb">%s GB</string>
     <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">သင်၏ ဓာတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် သင့်စက်ထဲရှိ အခြားအရာများကို ဆင့်ခ်လုပ်ပါ။</string>
+    <string name="micloud_sync_alert_dialog_message_pad">ဓာတ်ပုံများ၊ မှတ်စုများနှင့် သင့်စက်တစ်ခုလုံးရှိ အခြားအရာများကို ဆင့်(ခ်)လုပ်ပါ။</string>
     <string name="micloud_sync_alert_dialog_message_v2">သင်၏ ဓာတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် သင့်စက်ထဲရှိ အခြားအရာများကို ဆင့်ခ်လုပ်ပါ။</string>
     <string name="micloud_sync_alert_dialog_negative">ပယ်ဖျက်မည်</string>
     <string name="micloud_sync_alert_dialog_positive">အိုကေ</string>
     <string name="micloud_sync_alert_dialog_title">Xiaomi ကလောက် သုံးရန်</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">အဆက်အသွယ်များ၊ ပြက္ခဒိန်ဖြစ်ရပ်များနှင့် မှတ်စုများကိုသာ ဆင့်(ခ်)လုပ်သည်။ အခြားအရာများ ဆင့်(ခ်)လုပ်နိုင်ရန် Xiaomi ကလောက်ဆက်တင်သို့ သွားပါ။</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync_pad">ပြက္ခဒိန်အစီအစဉ်များနှင့် မှတ်စုများကိုသာ ဆင့်(ခ်)လုပ်သည်။ အခြားအရာများ ဆင့်(ခ်)လုပ်နိုင်ရန် Xiaomi ကလောက်ဆက်တင်သို့ သွားပါ။</string>
     <string name="micloud_sync_result_already_in_progress">ယခင်က ဆင့်ခ်အား လုပ်ဆောင်နေသည်…</string>
     <string name="micloud_sync_result_auth_exception">အကောင့် အမှား</string>
     <string name="micloud_sync_result_cancel">ဆင့်ခ်လုပ်ခြင်းအား ကြားဖြတ်ခဲ့သည်</string>
@@ -418,6 +496,7 @@
     <string name="micloud_wipe_data_confirm_title">အောက်ပါအက်(ပ်)များမှ အရာအချို့ကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ထားသည်။ ၎င်းတို့ကို ဤစက်မှဖျက်လိုက်လျှင်လည်း ကလောက်တွင် ဆက်သိမ်းထားပါမည်။</string>
     <string name="micloud_wipe_data_remove">ဖယ်ရှား</string>
     <string name="micloud_wipe_data_retain">ထိန်းထား</string>
+    <string name="midnight">ည</string>
     <string name="midrive_guide1_desc">သင့်စက်တွင် နေရာလွတ်ရရှိရန် စက်ထဲရှိအရာများကို ကလောက်သို့ အရန်သိမ်းပါ။</string>
     <string name="midrive_guide1_title">လုံခြုံစွာအရန်သိမ်းခြင်းများ</string>
     <string name="midrive_guide2_desc">အကြောင်းအရာများကို အလွန်မြန်သော နှုန်းနှင့် ဒေါင်းလုဒ်လုပ်ပါ။</string>
@@ -427,6 +506,69 @@
     <string name="midrive_guide_btn_install">Mi ဒရိုက် ထည့်ရန်</string>
     <string name="midrive_guide_btn_installed">Mi ဒရိုက် ဖွင့်ရန်</string>
     <string name="midrive_guide_btn_installing">ထည့်နေသည်…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
+    <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
+    <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
+    <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
+    <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
+    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
+    <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
+    <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
+    <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
+    <string name="miuix_appcompat_select_item">အိုင်တမ်များရွေး</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
+    <string name="monday">တနင်္လာ</string>
+    <string name="monday_short">တနင်္လာ</string>
+    <string name="monday_shortest">တနင်္လာ</string>
+    <string name="month_april">ဧပြီ</string>
+    <string name="month_april_short">ဧပြီ</string>
+    <string name="month_april_shortest">ဧပြီ</string>
+    <string name="month_august">သြဂုတ်</string>
+    <string name="month_august_short">သြဂုတ်</string>
+    <string name="month_august_shortest">သြဂုတ်</string>
+    <string name="month_december">ဒီဇင်ဘာ</string>
+    <string name="month_december_short">ဒီဇင်ဘာ</string>
+    <string name="month_december_shortest">ဒီဇင်ဘာ</string>
+    <string name="month_february">ဖေဖော်ဝါရီ</string>
+    <string name="month_february_short">ဖေဖော်ဝါရီ</string>
+    <string name="month_february_shortest">ဖေဖော်ဝါရီ</string>
+    <string name="month_january">ဇန်နဝါရီ</string>
+    <string name="month_january_short">ဇန်နဝါရီ</string>
+    <string name="month_january_shortest">ဇန်နဝါရီ</string>
+    <string name="month_july">ဇူလိုင်</string>
+    <string name="month_july_short">ဇူလိုင်</string>
+    <string name="month_july_shortest">ဇူလိုင်</string>
+    <string name="month_june">ဇွန်</string>
+    <string name="month_june_short">ဇွန်</string>
+    <string name="month_june_shortest">ဇွန်</string>
+    <string name="month_march">မတ်</string>
+    <string name="month_march_short">မတ်</string>
+    <string name="month_march_shortest">မတ်</string>
+    <string name="month_may">မေ</string>
+    <string name="month_may_short">မေ</string>
+    <string name="month_may_shortest">မေ</string>
+    <string name="month_november">နိုဝင်ဘာ</string>
+    <string name="month_november_short">နိုဝင်ဘာ</string>
+    <string name="month_november_shortest">နိုဝင်ဘာ</string>
+    <string name="month_october">အောက်တိုဘာ</string>
+    <string name="month_october_short">အောက်တိုဘာ</string>
+    <string name="month_october_shortest">အောက်တိုဘာ</string>
+    <string name="month_september">စက်တင်ဘာ</string>
+    <string name="month_september_short">စက်တင်ဘာ</string>
+    <string name="month_september_shortest">စက်တင်ဘာ</string>
+    <string name="more">နောက်ထပ်</string>
+    <string name="morning">နံနက်</string>
     <string name="mx_dspt">Mi မက်ဆေ့ချ်</string>
     <string name="mx_dspt_provision">"Mi မက်ဆေ့ချ်သည် သင်Wi-Fi သို့ချိတ်ဆက်လိုက်သည်နှင့် အခြား MIUI စက်များနှင့် မက်ဆေ့ချ်အခမဲ့ပေးပို့ ခွင့်ပေးပါသည်။ 
 
@@ -445,7 +587,10 @@
     <string name="mx_sub_dspt_provision">Mi မက်ဆေ့ချ်</string>
     <string name="mx_sub_dspt_provision_with_voip">အင်တာနက်ဖြင့် ခေါ်ဆိုခြင်း</string>
     <string name="mx_voip_dspt">Mi အသံ</string>
+    <string name="night">ညနေ</string>
+    <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="no_sim">SIM ကတ် မတွေ့ပါ</string>
+    <string name="noon">မွန်းတည့်</string>
     <string name="notification_reinstall_key_text">သင့်အထောက်အထားကို အတည်ပြုပြီး ထပ်စမ်းကြည့်ပါ</string>
     <string name="notification_sync_fail_title">ဆင့်ခ်လုပ်၍ မရနိုင်ပါ</string>
     <string name="notification_update_key_text">သင့်စကားဝှက်ကို ပြန်သတ်မှတ်ပြီးပါပြီ</string>
@@ -456,6 +601,7 @@
     <string name="picker_list_empty">ဤနေရာတွင် အဆက်အသွယ်တစ်ခုမျှ မရှိပါ</string>
     <string name="picker_search_empty">အဆက်အသွယ်များ ရှာမရပါ</string>
     <string name="picker_search_hint">ရှာရန်</string>
+    <string name="pm">ညနေ</string>
     <string name="power_off_locate_summary">ပါဝါခလုတ်ကို ကြာကြာဖိ၍ တည်နေရာ အချက်အလက်များ အစီအရင်ခံပါ။ ကွန်ရက်ချိတ်ဆက်မှု အားနည်းနေသောအချိန်တွင် တည်နေရာ အချက်အလက်များကို အစီအရင်ခံနိုင်ဖွယ် မရှိပါ။</string>
     <string name="power_off_locate_title">ပါဝါမပိတ်မီ တည်နေရာ အစီအရင်ခံရန်</string>
     <string name="pre_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
@@ -470,24 +616,47 @@
     <string name="privacy_dialog_sync_all_purpose">Xiaomi ကလောက်ဝန်ဆောင်မှုများမှ ကြိုဆိုပါသည်။ Xiaomi ကလောက်သုံးပြီး သင့်မက်ဆေ့(ချ်)များ၊ ခေါ်ဆိုမှုမှတ်တမ်းများ၊ အဆက်အသွယ်များ၊ မှတ်စုများ၊ ဘရောက်ဇာဆက်တင်များ၊ သီချင်းများ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများ၊ Wi-Fi ဆက်တင်များ၊ အသံသွင်းခြင်းများ၊ ပင်မမျက်နှာပြင် အခင်းအကျင်း၊ အက်(ပ်)များ၊ ပြက္ခဒိန်ဖြစ်ရပ်များ၊ ပိတ်ထားသောအရာများနှင့် အက်(ပ်)ပေါင်းစုတို့ကို ချိတ်ထားသော စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်နိုင်သည်။</string>
     <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi ကလောက်ဝန်ဆောင်မှုများမှ ကြိုဆိုပါသည်။ Xiaomi ကလောက်သုံးပြီး သင့်မက်ဆေ့(ချ်)များ၊ အဆက်အသွယ်များ၊ မှတ်စုများ၊ ဘရောက်ဇာဆက်တင်များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများ၊ အသံသွင်းဖိုင်များ၊ ပြက္ခဒိန်အစီအစဉ်များနှင့် ပိတ်ထားသောအရာများကို ချိတ်ထားသော စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်နိုင်သည်။</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Xiaomi ကလောက်ဝန်ဆောင်မှုများမှ ကြိုဆိုပါသည်။ Xiaomi ကလောက်သုံးပြီး သင့်မက်ဆေ့(ချ်)များ၊ မှတ်စုများ၊ ဘရောက်ဇာဆက်တင်များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများ၊ အသံသွင်းဖိုင်များ၊ ပြက္ခဒိန်အစီအစဉ်များနှင့် ပိတ်ထားသောအရာများကို ချိတ်ထားသော စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်နိုင်သည်။</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Xiaomi ကလောက်ဝန်ဆောင်မှုများမှ ကြိုဆိုပါသည်။ Xiaomi ကလောက်သုံးပြီး သင့်အဆက်အသွယ်များ၊ မှတ်စုများ၊ ဘရောက်ဇာဆက်တင်များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများ၊ အသံသွင်းဖိုင်များ၊ ပြက္ခဒိန်အစီအစဉ်များနှင့် ပိတ်ထားသောအရာများကို ချိတ်ထားသော စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်နိုင်သည်။</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Xiaomi ကလောက်ဝန်ဆောင်မှုများမှ ကြိုဆိုပါသည်။ Xiaomi ကလောက်သုံးပြီး သင့်မှတ်စုများ၊ ဘရောက်ဇာဆက်တင်များ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများ၊ အသံသွင်းဖိုင်များ၊ ပြက္ခဒိန်အစီအစဉ်များနှင့် ပိတ်ထားသောအရာများကို ချိတ်ထားသော စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်နိုင်သည်။</string>
     <string name="privacy_dialog_sync_all_purpose_v2">Xiaomi ကလောက်ဝန်ဆောင်မှုများမှ ကြိုဆိုပါသည်။ Xiaomi ကလောက်သုံးပြီး သင့်မက်ဆေ့(ချ်)များ၊ ခေါ်ဆိုမှုမှတ်တမ်းများ၊ အဆက်အသွယ်များ၊ မှတ်စုများ၊ ဘရောက်ဇာဆက်တင်များ၊ သီချင်းများ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများ၊ Wi-Fi ဆက်တင်များ၊ အသံသွင်းခြင်းများ၊ ပင်မမျက်နှာပြင် အခင်းအကျင်း၊ အက်(ပ်)များ၊ ပြက္ခဒိန်ဖြစ်ရပ်များ၊ ပိတ်ထားသောအရာများနှင့် အက်(ပ်)ပေါင်းစုတို့ကို ချိတ်ထားသော စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်နိုင်သည်။</string>
-    <string name="privacy_doc_cloudservice">Xiaomi ကလောက်ဝန်ဆောင်မှုများမှ ကြိုဆိုပါသည်။ Xiaomi ကလောက်သုံးပြီး သင့်မက်ဆေ့(ချ်)များ၊ ခေါ်ဆိုမှုမှတ်တမ်းများ၊ အဆက်အသွယ်များ၊ မှတ်စုများ၊ ဘရောက်ဇာဆက်တင်များ၊ သီချင်းများ၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများ၊ Wi-Fi ဆက်တင်များ၊ အသံသွင်းခြင်းများ၊ ပင်မမျက်နှာပြင် အခင်းအကျင်း၊ အက်(ပ်)များ၊ ပြက္ခဒိန်ဖြစ်ရပ်များ၊ ပိတ်ထားသောအရာများနှင့် အက်(ပ်)ပေါင်းစုတို့ကို ချိတ်ထားသော စက်အားလုံးတွင် ဆင့်(ခ်)လုပ်နိုင်သည်။ သင်ဆင့်(ခ်)လုပ်သော အရာများကို ဘရောက်ဇာမရွေး &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ကိုဖွင့်ပြီး ဝင်ရောက်နိုင်သည်။&lt;br />&lt;br />SMS မက်ဆေ့(ချ်)ပို့ရန်အတွက် ဤဝန်ဆောင်မှုများကို စဖွင့်ထားရန် လိုအပ်နိုင်သည်။ ဤမက်ဆေ့(ချ်)အတွက် ဖုန်းခကုန်ကျနိုင်သည်။ သင့် SIM ကတ်ကို ပြောင်းလျှင် ဤဝန်ဆောင်မှုများကို ပြန်စဖွင့်ရန် အလိုအလျောက် မက်ဆေ့(ချ်)တစ်စောင် ပို့လိုက်နိုင်သည်။&lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုများ ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုအပ်ပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များရယူရန် လိုအပ်ပါသည် - &lt;br />• ပြက္ခဒိန် - &lt;br />ဖြစ်ရပ်များ ဆင့်(ခ်)လုပ်ရန် &lt;br />• SMS ဖတ်ခြင်း - &lt;br />မက်ဆေ့(ချ်)များ ဆင့်(ခ်)လုပ်ရန် &lt;br />• MMS ဖတ်ခြင်း - &lt;br />မက်ဆေ့(ချ်)များ ဆင့်(ခ်)လုပ်ရန် &lt;br />• အဆက်အသွယ်များဖတ်ခြင်း - &lt;br />အဆက်အသွယ်များ ဆင့်(ခ်)လုပ်ရန် &lt;br />• အဆက်အသွယ်များ တည်းဖြတ်ခြင်း - &lt;br />အဆက်အသွယ်များ ဆင့်(ခ်)လုပ်ရန်&lt;br />• သိုလှောင်ခန်း - &lt;br />သင့်စက်တွင် (ပုံများ၊ ဗီဒီယိုများ၊ သီချင်းများ) စသော အရာများ သိမ်းရန်&lt;br />သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုများကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> Xiaomi ကလောက်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br /></string>
-    <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
-    <string name="privacy_doc_cloudservice_china_v2">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
     <string name="privacy_doc_cloudservice_global">Xiaomi ကလောက် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဒေတာဆင့်(ခ်)လုပ်ရန် မိုဘိုင်းဒေတာသုံးရန်နှင့် Wi-Fi ဖွင့်ရန် လိုသည်။ Xiaomi ကလောက် ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက်&lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
-    <string name="privacy_doc_finddevice_pad">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပြီး စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ဒေတာဖျက်ခြင်းတို့ ပြုလုပ်နိုင်သည်။&lt;br />&lt;br /> ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှု ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုအပ်ပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များရယူရန် လိုအပ်ပါသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ခြင်း - &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုများကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> စက်ရှာဖွေစနစ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br /></string>
-    <string name="privacy_doc_finddevice_phone">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပြီး စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ဒေတာဖျက်ခြင်းတို့ ပြုလုပ်နိုင်သည်။&lt;br />&lt;br /> ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုများ ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုအပ်ပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များရယူရန် လိုအပ်ပါသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ခြင်း - &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုများကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> စက်ရှာဖွေစနစ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_pad">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပြီး စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ဒေတာဖျက်ခြင်းတို့ ပြုလုပ်နိုင်သည်။&lt;br />&lt;br />ဤဝန်ဆောင်မှုကို စဖွင့်ရန် အလိုအလျောက် မက်ဆေ့(ချ်)တစ်စောင် ပို့လိုက်နိုင်သည်။ ဤမက်ဆေ့(ချ်)အတွက် ဖုန်းခကုန်ကျနိုင်သည်။ သင့် SIM ကတ်ကို ပြောင်းလျှင် ဤဝန်ဆောင်မှုများကို ပြန်စဖွင့်ရန် အလိုအလျောက် မက်ဆေ့(ချ်)တစ်စောင် ပို့လိုက်နိုင်သည်။ &lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှု ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုအပ်ပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များရယူရန် လိုအပ်ပါသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ခြင်း - &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုများကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> စက်ရှာဖွေစနစ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_phone">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပြီး စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ဒေတာဖျက်ခြင်းတို့ ပြုလုပ်နိုင်သည်။&lt;br />&lt;br />ဤဝန်ဆောင်မှုကို စဖွင့်ရန် အလိုအလျောက် မက်ဆေ့(ချ်)တစ်စောင် ပို့လိုက်နိုင်သည်။ ဤမက်ဆေ့(ချ်)အတွက် ဖုန်းခကုန်ကျနိုင်သည်။ သင့် SIM ကတ်ကို ပြောင်းလျှင် ဤဝန်ဆောင်မှုများကို ပြန်စဖွင့်ရန် အလိုအလျောက် မက်ဆေ့(ချ်)တစ်စောင် ပို့လိုက်နိုင်သည်။ &lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှု ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုအပ်ပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များရယူရန် လိုအပ်ပါသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ခြင်း - &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုများကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> စက်ရှာဖွေစနစ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br /></string>
+    <string name="privacy_doc_cloudservice_pad">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_contact_but_sim">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_but_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_or_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_pad">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပြီး စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ ပြုလုပ်နိုင်သည်။&lt;br />&lt;br /> ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ခြင်း - &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br /></string>
+    <string name="privacy_doc_finddevice_phone">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပြီး စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ ပြုလုပ်နိုင်သည်။&lt;br />&lt;br /> ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ခြင်း - &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပါက စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ လုပ်ခွင့်ပေးသည်။&lt;br />ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။ SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/>အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။&lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ရန်- &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%2$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%3$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br />&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပါက စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ လုပ်ခွင့်ပေးသည်။&lt;br />ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။ SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/>အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။ &lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ရန်- &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%2$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%3$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br />&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_domestic_charge_hint">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပါက စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ လုပ်ခွင့်ပေးသည်။&lt;br />ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။ SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/>အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။&lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ရန်- &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%2$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%3$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br />&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပါက စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ လုပ်ခွင့်ပေးသည်။&lt;br />ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။ SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/>အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။ &lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ရန်- &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%2$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%3$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br />&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပါက စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ လုပ်ခွင့်ပေးသည်။&lt;br />ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။ SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး ပြည်တွင်း SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/>အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။&lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ရန်- &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%2$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%3$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br />&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">စက်ရှာဖွေစနစ်မှ ကြိုဆိုပါသည်။ သင့်စက်ပျောက်ဆုံးလျှင် စက်ကိုရှာရန်၊ စက်ကို သော့ချရန် သို့မဟုတ် စက်ရှိဒေတာများကို ဖျက်ရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့သွားပါက စက်ကိုရှာခြင်း၊ သော့ချခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်းတို့ လုပ်ခွင့်ပေးသည်။&lt;br />ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။ SIM ကတ် ပြောင်းလျှင် ပြန်အသက်သွင်းရန်အတွက် &lt;font color=#0097FF>&lt;b>အခပေး နိုင်ငံတကာ SMS&lt;/b>&lt;/font> &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> စောင် အလိုအလျောက် ပို့ပါမည်။&lt;br/>အထက်ပါလုပ်ဆောင်ချက်များအတွက် SMS စရိတ်အားလုံးကို သင့်ဖုန်းလိုင်းကုမ္ပဏီက ကောက်ခံပါမည်။ Xiaomi က ၎င်းမက်ဆေ့(ချ်)များအတွက် ငွေမကောက်ပါ။&lt;br />&lt;br />ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။&lt;br />ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်လိုပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုသည် - &lt;br />• စက်အချက်အလက်များကို ဖတ်ရန်- &lt;br />သင့်စက်ကို စိစစ်ရန် &lt;br />• တည်နေရာ - &lt;br />စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်&lt;br /> အဆိုပါခွင့်ပြုချက်များမပေးလိုလျှင် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မတင်လိုလျှင် ဤဝန်ဆောင်မှုကို သုံး၍မရပါ။ ဤအက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ထိုကိစ္စများအတွက် ဆက်တင်တွင် ခွင့်ပြုချက်များကို ကန့်သတ်နိုင်သည်။&lt;br /> ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%2$s>&lt;u>အသုံးပြုသူ သဘောတူညီချက် &lt;/u>&lt;/a> နှင့် &lt;a href=%3$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br />&lt;br /></string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="provision_back">နောက်ပြန်</string>
     <string name="provision_next">နောက်တစ်ဆင့်</string>
     <string name="provision_skip_underline">ကျော်ရန်</string>
     <string name="provision_sync_items_loading">အိုင်တမ်များအား ဆင့်ခ်လုပ်ရန် ပြင်ဆင်နေသည်</string>
+    <string name="quick_service_after_sale_policy_title">Policy</string>
+    <string name="quick_service_after_sale_service_title">Services</string>
+    <string name="quick_service_authenticity_check_title">Authentication</string>
+    <string name="quick_service_maintenance_price_title">Repairs</string>
+    <string name="quick_service_title">Quick services</string>
     <string name="reading_status">အခြေအနေ ရယူနေသည်…</string>
     <string name="reading_status_failure">အခြေအနေကို မရယူနိုင်ပါ။</string>
+    <string name="recommend_service_cloudservice_description">Sync system app data, back up settings, Home screen layout, and more</string>
+    <string name="recommend_service_sharelocation_description">Locate, lock, and erase data on missing devices, and share location with your friends and family</string>
+    <string name="recommend_service_title">Recommended services</string>
     <string name="retain_data_high_quality_photo_waring_message">အကောင့်မှထွက်ပြီးနောက် အရည်အသွေးမြင့်ပုံများကို သင့်ပြခန်းမှ ဖျက်လိုက်ပါမည်။ မူလဖိုင်များနှင့် ပတ်သက်သည်များကို ကလောက်တွင် ဆက်သိမ်းထားပါမည်။အကောင့်မထွက်မီ မူလဖိုင်များကိုလည်း ဒေါင်းလုဒ်လုပ်နိုင်သည်။</string>
     <string name="retain_data_high_quality_photo_waring_title">အရည်အသွေးမြင့်ပုံများ မရရှိနိုင်ပါ</string>
+    <string name="saturday">စနေ</string>
+    <string name="saturday_short">စနေ</string>
+    <string name="saturday_shortest">စနေ</string>
+    <string name="send">ပို့ပါ</string>
     <string name="share_cancel">မျှဝေထားသည်ကို ပယ်ဖျက်လိုက်ပါသည်</string>
     <string name="share_failed">မျှဝေ၍ မရနိုင်ပါ</string>
     <string name="share_location_app_name">ရှာရန်</string>
@@ -609,9 +778,12 @@
     <string name="storage_upgrade_card_title">သင့်အစီအစဉ်ကို အဆင့်မြှင့်ပါ</string>
     <string name="sub_alert_notif_content">Xiaomi ကလောက် ဖွင့်ရန်</string>
     <string name="sub_alert_notif_title">Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါ</string>
-    <string name="sub_sync_item_sms_summary">ဓါတ်ပုံ၊ အော်ဒီယို (သို့) အခြားမီဒီယာများပါဝင်သော မက်ဆေ့ချ်များကို သင် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သည့်အခါ ဆင့်ခ်လုပ်ပါ</string>
+    <string name="sub_sync_item_sms_summary">မိုဘိုင်းဒေတာချွေတာပြီး မက်ဆေ့(ချ်)များကို Wi-Fi ရှိမှ ဆင့်(ခ်)လုပ်ရန် ဖွင့်ပါ</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS ကို ဆင့်ခ်လုပ်ရန် Wi-Fi သာ အသုံးပြုပါ</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
+    <string name="sunday">တနင်္ဂနွေ</string>
+    <string name="sunday_short">တနင်္ဂနွေ</string>
+    <string name="sunday_shortest">တနင်္ဂနွေ</string>
     <string name="sync_detail_summary_master_sync_off">ဆင့်ခ်ပိတ်ထားသည်</string>
     <string name="sync_detail_summary_off">ဆင့်ခ်ပိတ်ထားသည်</string>
     <string name="sync_detail_text">ဆင့်ခ် အသေးစိတ်များ</string>
@@ -619,6 +791,7 @@
     <string name="sync_dspt_entrance_provision">သင့်ဓာတ်ပုံများ၊ မှတ်စုများနှင့် အခြားအရာများကို စက်တစ်ခုနှင့်တစ်ခုအကြား ဆင့်(ခ်)လုပ်ပါ။ သင်ဆင့်(ခ်)လုပ်ထားသောအရာများကို %s ၌ မည်သည့်ဘရောက်ဇာမှမဆို ဝင်ရောက်နိုင်သည်။</string>
     <string name="sync_dspt_entrance_provision_confirm_close">အသုံးမပြုပါ</string>
     <string name="sync_dspt_entrance_provision_confirm_content">MIUI ၏ နဂိုပါ အက်(ပ်)များက Xiaomi ကလောက်အား သင့်ဓာတ်ပုံများ၊ မက်ဆေ့(ချ်)များ၊ မှတ်စုများနှင့် အခြားအရာများကို အရန်သိမ်းရန် လိုအပ်သည်။ Xiaomi ကလောက်သည် အခမဲ့ဖြစ်ပြီး စက်တွင် အသင့်ပါရှိသည်။</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_pad">သင့်ဓာတ်ပုံများ၊ မက်ဆေ့(ချ်)များ၊ မှတ်စုများနှင့် အခြားအရာများကို အရန်သိမ်းရန် Xiaomi ကလောက်သုံးနိုင်သည်။ Xiaomi ကလောက်သည် အခမဲ့ဖြစ်ပြီး စက်တွင် အသင့်ပါရှိသည်။</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">MIUI ၏ နဂိုပါ အက်(ပ်)များက Xiaomi ကလောက်အား သင့်ဓာတ်ပုံများ၊ မက်ဆေ့(ချ်)များ၊ မှတ်စုများနှင့် အခြားအရာများကို အရန်သိမ်းရန် လိုအပ်သည်။ Xiaomi ကလောက်သည် အခမဲ့ဖြစ်ပြီး စက်တွင် အသင့်ပါရှိသည်။</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Xiaomi ကလောက် သုံးရန်</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Xiaomi ကလောက် မသုံးဘူးလား။</string>
@@ -630,7 +803,7 @@
     <string name="sync_item_autofill_title">အလိုအလျောက် ဆင့်ခ်လုပ်ပါ</string>
     <string name="sync_item_calllog_summary">ဤဖုန်းတွင် လက်ခံရရှိသောခေါ်ဆိုမှုများနှင့် ပြုလုပ်သောဖုန်းခေါ်ဆိုမှုများ၏ မှတ်တမ်းများကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="sync_item_calllog_title">ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းကို ဆင့်ခ်လုပ်ပါ</string>
-    <string name="sync_item_sms_summary">ဤဖုန်းပေါ်မှ ပို့မက်ဆေ့ချ်နှင့်လက်ခံမက်ဆေ့ချ်ကို ဆင့်ခ်လုပ်ပါ</string>
+    <string name="sync_item_sms_summary">ဤစက်မှ ပို့ထား၊ လက်ခံထားသော မက်ဆေ့(ချ်)များကို ဆင့်(ခ်)လုပ်ရန်</string>
     <string name="sync_item_sms_title">မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="sync_item_title">အက်ပ်ဒေတာကို ဆင့်ခ်လုပ်မည်</string>
     <string name="sync_normal_summary">အောက်ပါစာရင်းထဲမှ အရာအချို့ကို ဆင့်(ခ်)လုပ်မရပါ</string>
@@ -646,17 +819,65 @@
     <string name="sync_page_route_ok">ဖွင့်ရန်</string>
     <string name="sync_page_route_remember">ထပ်မပြပါနှင့်</string>
     <string name="sync_setting_title">ဆက်တင်များကို ဆင့်(ခ်)လုပ်ရန်</string>
-    <string name="sync_sub_1_intl_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် နိုင်ငံတကာ SMS မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
-    <string name="sync_sub_1_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်ခု ပေးပို့ရန် လိုအပ်ပါလိမ့်မည်။ ထိုအတွက် အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
-    <string name="sync_sub_1_sms_1_intl_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် နိုင်ငံတကာ SMS မက်ဆေ့ချ်တစ်ခု နှင့် ပြည်တွင်း မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
-    <string name="sync_sub_2_intl_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် နိုင်ငံတကာ SMS မက်ဆေ့ချ်နှစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
-    <string name="sync_sub_2_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်နှစ်ခု ပေးပို့ရန် လိုအပ်ပါလိမ့်မည်။ထိုအတွက် အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="system_busy_or_network_error">မှားယွင်းမှု တစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="system_cta_retry_get_permission_btn_pad">စရန်</string>
+    <string name="system_cta_retry_get_permission_msg_pad">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
+    <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
+    <string name="the_arbor_day">Arbor နေ့</string>
+    <string name="the_armed_forces_day">တပ်မတော်နေ့</string>
+    <string name="the_armys_day">PLA နေ့</string>
+    <string name="the_childrens_day">ကလေးသူငယ်များနေ့</string>
+    <string name="the_chinese_youth_day">လူငယ်များနေ့</string>
+    <string name="the_christmas_day">ခရစ္စမတ်</string>
+    <string name="the_double_ninth_festival">နဝမနှစ်ထပ်ပွဲတော်</string>
+    <string name="the_dragon_boat_festival">နဂါးလှေပွဲတော်</string>
+    <string name="the_easter_day">အီစတာ</string>
+    <string name="the_eve_of_the_spring_festival">တရုတ်နှစ်သစ်ကူးအကြိုနေ့</string>
+    <string name="the_fifth_day">တရုတ်နှစ်ကူး ပဥ္စမနေ့</string>
+    <string name="the_fools_day">ဧပြီဖူးနေ့</string>
+    <string name="the_forth_day">တရုတ်နှစ်ကူး စတုတ္ထနေ့</string>
+    <string name="the_hksar_establishment_day">ဟောင်ကောင် SAR တည်ထောင်ခြင်းနေ့</string>
+    <string name="the_international_womens_day">အမျိုးသမီးများနေ့</string>
+    <string name="the_laba_festival">Laba ပွဲတော်</string>
+    <string name="the_labour_day">အလုပ်သမားနေ့</string>
+    <string name="the_lantern_festival">မီးထွန်းပွဲတော်</string>
+    <string name="the_mid_autumn_festival">ဆောင်းဦးလယ်ပွဲတော်</string>
+    <string name="the_national_day">အမျိုးသားနေ့</string>
+    <string name="the_national_father_day">ဆွန်ယက်ဆင်မွေးနေ့</string>
+    <string name="the_new_years_day">နှစ်သစ်ကူး</string>
+    <string name="the_night_of_sevens">Qixi ပွဲတော်</string>
+    <string name="the_partys_day">CPC နေ့</string>
+    <string name="the_peace_day">သတိရအောက်မေ့ပွဲနေ့</string>
+    <string name="the_retrocession_day">ပြန်လည်ဆုတ်ခွာခြင်းနေ့</string>
+    <string name="the_second_day">တရုတ်နှစ်ကူး ဒုတိယနေ့</string>
+    <string name="the_seventh_day">တရုတ်နှစ်ကူး သတ္တမနေ့</string>
+    <string name="the_sixth_day">တရုတ်နှစ်ကူး ဆဋ္ဌမနေ့</string>
+    <string name="the_spirit_festival">တစ္ဆေကြီးပွဲတော်</string>
+    <string name="the_spring_festival">တရုတ်နှစ်သစ်ကူး</string>
+    <string name="the_teachers_day">ဆရာများနေ့</string>
+    <string name="the_third_day">တရုတ်နှစ်ကူး တတိယနေ့</string>
+    <string name="the_tw_childrens_day">ကလေးသူငယ်များနေ့</string>
+    <string name="the_tw_youth_day">လူငယ်များနေ့</string>
+    <string name="the_united_nations_day">ကုလသမဂ္ဂနေ့</string>
+    <string name="the_valentines_day">ချစ်သူများနေ့</string>
+    <string name="the_water_lantern_festival">မီးမျှောပွဲတော်</string>
+    <string name="thursday">ကြာသပတေး</string>
+    <string name="thursday_short">ကြာသပတေး</string>
+    <string name="thursday_shortest">ကြာသပတေး</string>
+    <string name="time_picker_dialog_title">နာရီတိုက်ရန်</string>
+    <string name="time_picker_label_hour">နာရီ</string>
+    <string name="time_picker_label_minute">မိနစ်</string>
     <string name="tip_short_cut_added_success">အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ</string>
     <string name="tip_short_cut_already_added">ဖန်တီးပြီးပြီ</string>
     <string name="title_back">နောက်သို့</string>
     <string name="title_reg">Mi အကောင့် ဖန်တီးပါ</string>
+    <string name="today">ယနေ့</string>
+    <string name="tomorrow">မနက်ဖြန်</string>
     <string name="trying_to_connect_to_network">ကွန်ရက်သို့ ချိတ်ဆက်နေသည်…</string>
+    <string name="tuesday">အင်္ဂါ</string>
+    <string name="tuesday_short">အင်္ဂါ</string>
+    <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="user_agreement_content">ဤအင်္ဂါရပ်ကို သုံးခြင်းအားဖြင့် %sကို သင်သဘောတူလက်ခံပြီးဖြစ်သည်။</string>
     <string name="user_agreement_link">Xiaomi ကလောက် ဝန်ဆောင်မှုစည်းမျဉ်းများ</string>
     <string name="user_agreement_p5">"
@@ -676,6 +897,12 @@
     <string name="warning_bar_title_network_unconnected">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="warning_bar_title_short_cut">ပင်မမျက်နှာပြင်တွင် Xiaomi ကလောက်ဖြတ်လမ်းဖိုင် ထည့်လိုသလား။</string>
     <string name="warning_bar_title_sync_off">Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်းကို ပိတ်ထားသည်</string>
+    <string name="web_sso_login_fail">သင် ထပ်မံ ဆိုင်းအင်ဝင်ရန် လိုအပ်သည်</string>
+    <string name="web_sso_login_message">ဆိုင်းအင်ဝင်နေဆဲ…</string>
+    <string name="webview_reload">ထပ်ကြိုးစား</string>
+    <string name="wednesday">ဗုဒ္ဓဟူး</string>
+    <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
+    <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
     <string name="wipe_data_dialog_button_check_sync">ဆင့်ခ်လုပ်ထားသလား စစ်ဆေးကြည့်ပါ</string>
     <string name="wipe_data_dialog_msg">အိုင်တမ် %s ခု ဆင့်ခ်မလုပ်ရသေးပါ။ ထိုအိုင်တမ်များကို သင်၏စက်ပေါ်တွင် သိမ်းဆည်းထားမည်၊ မဖျက်ပစ်ပါ။</string>
     <string name="wipe_data_dialog_msg_and_on">၊နှင့် အခြားအိုင်တမ်များ</string>
@@ -685,4 +912,5 @@
     <string name="wipe_secret_photo_dialog_title">ဝှက်ထားသော ဓာတ်ပုံများကို ဆင့်ခ်မလုပ်ရသေးပါ</string>
     <string name="xiaomi_cloud_service">Xiaomi ကလောက်</string>
     <string name="xiaomi_cloud_service_subtitle">အရေးကြီးသော အိုင်တမ်အားလုံး တစ်နေရာတည်းတွင် စုထားမည်</string>
+    <string name="yesterday">မနေ့က</string>
 </resources>
