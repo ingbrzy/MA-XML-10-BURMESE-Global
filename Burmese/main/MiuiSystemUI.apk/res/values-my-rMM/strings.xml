@@ -531,7 +531,6 @@ EEEE"</string>
     <string name="mock_location_app_not_set">ဆားဗစ်အတု တည်နေရာအက်ပ် မသတ်မှတ်ရသေးပါ</string>
     <string name="mock_location_app_set">ဆားဗစ်အတု တည်နေရာအက်ပ်- %1$s</string>
     <string name="msim_set_sub_not_supported_phone_in_call">ခေါ်ဆိုနေစဉ်အတွင်း သတ်မှတ်၍ မရပါ</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိ</string>
     <string name="notification_control_center">အသိပေးချက်များနှင့် ထိန်းချုပ်စင်တာ</string>
     <string name="notification_group_collapse_button_text">ခေါက်ထားပါ</string>
@@ -589,7 +588,6 @@ EEEE"</string>
     <string name="private_dns_mode_provider">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည်</string>
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည် ရိုက်ထည့်ပါ</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ချိတ်မရပါ။ စက်ကို ပိတ်ပြီး ပြန်ဖွင့်ပါ</string>
     <string name="profile_info_settings_title">ပရိုဖိုင်အချက်အလက်</string>
     <string name="qs_control_big_tile_state_closed">ပိတ်ရန်</string>
