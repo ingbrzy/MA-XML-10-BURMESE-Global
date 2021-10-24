@@ -21,20 +21,20 @@
         <item>စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် လော့ခ်ချပါ</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>အဆက်အသွယ်များ၊ မက်ဆေ့(ချ်)များ၊ မှတ်စုများ၊ ပြက္ခဒိန်နှင့် အခြားအရာများကို ဆင့်(ခ်)လုပ်ရန်</item>
+        <item>အက်(ပ်)များ၊ ပင်မမျက်နှာပြင်အပြင်အဆင်နှင့် နောက်ခံပုံကို အရန်သိမ်းရန်</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် သော့ချပါ</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>အဆက်အသွယ်၊ မက်ဆေ့ချ်၊ မှတ်စု၊ ပြက္ခဒိန်နှင့် အခြားအရာများကို ဆင့်ခ်လုပ်မည်</item>
         <item>အက်ပ်များ၊ ပင်မမျက်နှာပြင်ဖွဲ့စည်းပုံနှင့် နောက်ခံပုံကို အရန်သိမ်းဆည်းမည်</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် သော့ချပါ</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
         <item>သင့်ဓာတ်ပုံများ၊ မှတ်စုများ၊ အသံသွင်းဖိုင်များနှင့် အခြားအရာများကို ဆင့်(ခ်)လုပ်ရန်</item>
-        <item>စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် လော့ခ်ချပါ</item>
+        <item>စက်ပျောက်ဆုံးပါက အဝေးထိန်းစနစ်ဖြင့် သော့ချပါ</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>အဆက်အသွယ်၊ မက်ဆေ့ချ်၊ မှတ်စု၊ ပြက္ခဒိန်နှင့် အခြားအရာများကို ဆင့်ခ်လုပ်မည်</item>
@@ -49,8 +49,8 @@
         <item>စက်ရှာဖွေခြင်း</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray_pad">
-        <item>အက်ပ်ဒေတာကို ဆင့်ခ်လုပ်မည်</item>
-        <item>စက်ကို ရှာပါ</item>
+        <item>အက်(ပ်)ဒေတာဆင့်(ခ်)လုပ်ရန်</item>
+        <item>စက်ရှာဖွေစနစ်</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>သင့်စက်ကို စိစစ်ရန်</item>
@@ -147,7 +147,7 @@
     <string-array name="settings_search_recycle_bin_pad">
         <item>Xiaomi ကလောက်ရှိ ဖျက်လိုက်သောအရာများ</item>
         <item>ဓာတ်ပုံများ၊ မှတ်စုများနှင့် အခြားအရာများကို နဂိုအတိုင်းပြန်ထားရန်</item>
-        <item>အမှိုက်၊ဖျက်လိုက်သောအရာများ၊အမှိုက်ပုံး၊ပြန်ယူရန်။ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
+        <item>အမှိုက်၊ဖျက်လိုက်သောအရာများ၊အမှိုက်ပုံး၊ပြန်ယူရန်၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
     </string-array>
     <string-array name="settings_search_restore_device">
         <item>Xiaomi ကလောက်မှ အရာများကို ပြန်ယူရန်</item>
@@ -161,8 +161,8 @@
     </string-array>
     <string-array name="settings_search_security_pad">
         <item>လုံခြုံရေးကလောက်ဆင့်(ခ်)</item>
-        <item>ဆင့်ခ်အား ဖွင့်ပါ</item>
-        <item>လုံခြုံရေး၊ကလောက်၊Xiaomi ကလောက်၊ ဆင့်(ခ်)၊ ကလောက်ဝန်ဆောင်မှုများ</item>
+        <item>ဆင့်(ခ်)ဖွင့်ရန်</item>
+        <item>လုံခြုံရေး၊ကလောက်၊Xiaomi ကလောက်၊ဆင့်(ခ်)၊ကလောက်ဝန်ဆောင်မှုများ</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>မက်ဆေ့(ချ်)များကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
@@ -180,7 +180,7 @@
         <item>နေရာလွတ်မလုံလောက်ခြင်း၊အဖွဲ့ဝင်ခြင်း၊သိုလှောင်ခန်း၊သိုလှောင်နေရာ၊ကလောက်၊ဆင့်(ခ်)၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်၊အမှိုက်၊ဖျက်ထားသောအရာများ၊လုံခြုံရေး</item>
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
-        <item>Xiaomi ကလောက်။ Mi ဝန်ဆောင်မှုများ ဝန်ဆောင်မှုအားလုံးကို တစ်နေရာတည်းတွင် စုစည်းမှု။</item>
+        <item>Xiaomi ကလောက်။ Mi ဝန်ဆောင်မှုအားလုံး တစ်နေရာတည်းတွင်စုစည်းမှု။</item>
         <item>သင့်ဓာတ်ပုံများ၊ မှတ်စုများနှင့် စက်များကို မည်သည့်နေရာမှမဆို ဝင်ခွင့်ပြုရန်</item>
         <item>နေရာလွတ်မလုံလောက်ခြင်း၊အဖွဲ့ဝင်ခြင်း၊သိုလှောင်ခန်း၊သိုလှောင်နေရာ၊ကလောက်၊ဆင့်(ခ်)၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်၊အမှိုက်၊ဖျက်ထားသောအရာများ၊လုံခြုံရေး</item>
     </string-array>

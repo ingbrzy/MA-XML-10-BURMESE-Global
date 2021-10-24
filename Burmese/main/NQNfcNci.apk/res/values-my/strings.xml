@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">မူလနေရာကို ပြန်သွားရန်</string>
+    <string name="abc_action_bar_up_description">အပေါ်သို့ ရွှေ့ရန်</string>
+    <string name="abc_action_menu_overflow_description">နောက်ထပ် ရွေးစရာများ</string>
+    <string name="abc_action_mode_done">ပြီးပြီ</string>
+    <string name="abc_activity_chooser_view_see_all">အားလုံး ကြည့်ရန်</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုကို ရွေးရန်</string>
+    <string name="abc_capital_off">ပိတ်ရန်</string>
+    <string name="abc_capital_on">ဖွင့်ရန်</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ရှာဖွေရန်…</string>
+    <string name="abc_searchview_description_clear">ရှာဖွေမှုကို ဖယ်ရှားရန်</string>
+    <string name="abc_searchview_description_query">ရှာဖွေရန် မေးခွန်း</string>
+    <string name="abc_searchview_description_search">ရှာရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
+    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာရန်</string>
+    <string name="abc_shareactionprovider_share_with">နှင့် မျှဝေရန်</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
+    <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
     <string name="accessibility_nfc_enabled">NFC ရရှိသည်</string>
     <string name="action_confirm_url_open">လင့်ခ်ဖွင့်ရန်</string>
     <string name="android_beam">Android Beam</string>
@@ -18,7 +45,7 @@
     <string name="beam_try_again">ထပ်ပြီး စက်ကို အတူထားပါ</string>
     <string name="cancel">မလုပ်တော့</string>
     <string name="complete_with">ဖြင့် ပြီးဆုံးပါပြီ</string>
-    <string name="confirm_pairing">ဘလူးတုသ်စက်%1$sနှင့် တွဲချိတ်ရန် ကျိန်းသေပါသလား?</string>
+    <string name="confirm_pairing">ဘလူးတုသ်စက်%1$sနှင့် တွဲချိတ်လိုသည်မှာ သေချာပါသလား။</string>
     <string name="connect_peripheral_failed">%1$s အား မချိတ်ဆက်နိုင်ပါ</string>
     <string name="connected_peripheral">%1$s အား ချိတ်ဆက်ပြီး</string>
     <string name="connecting_peripheral">%1$s အားချိတ်ဆက်နေ၏</string>
@@ -29,12 +56,15 @@
     <string name="disconnecting_peripheral">%1$sအားချိတ်ဆက်မှုဖြတ်တောက်နေ၏</string>
     <string name="failed_to_enable_bt">ဘလူးတုသ်ကို မရရှိနိုင်ပါ</string>
     <string name="nfcUserLabel">NFC</string>
+    <string name="nfc_blocking_alert_message">ပြုပြင်နည်းကို လေ့လာရန် တို့ပါ။</string>
+    <string name="nfc_blocking_alert_title">NFC ပိတ်နေနိုင်သည်</string>
     <string name="pair_no">No</string>
     <string name="pair_yes">Yes</string>
     <string name="pairing_peripheral">%1$sနှင့်တွဲချိတ်နေ၏</string>
     <string name="pairing_peripheral_failed">%1$sနှင့်မတွဲချိတ်နိုင်ပါ</string>
     <string name="pay_with">ဖြင့် ငွေပေးချမေည်</string>
     <string name="prompt_connect_to_network">ကွန်ရက် %1$sကို ချိတ်ဆက်ရမလား?</string>
+    <string name="search_menu_title">ရှာဖွေမှု</string>
     <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="status_unable_to_connect">ကွန်ရက်ကို ချိတ်ဆက် မရခဲ့</string>
     <string name="status_wifi_connected">ချိတ်ဆက်ထားပြီး</string>

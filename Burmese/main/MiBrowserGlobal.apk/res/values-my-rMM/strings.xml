@@ -258,6 +258,8 @@
     <string name="collect_diagnosis_log">မှတ်တမ်းများ စုဆောင်းမည်</string>
     <string name="collection_articles">ဆောင်းပါးများ</string>
     <string name="collection_videos">ဗီဒီယိုများ</string>
+    <string name="columbus_ad_flag_text">ကြော်ငြာ</string>
+    <string name="columbus_skip_ad">ကျော်သွား</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
     <string name="comment_description">မှတ်ချက်</string>
     <string name="comment_hint">မှတ်ချက်</string>
@@ -829,7 +831,7 @@ ID -
     <string name="mw_actionbar_textselection_title">စာသားရွေးပါ</string>
     <string name="mw_actionbar_web_search">ဝက်ဘ် ရှာဖွေမှု</string>
     <string name="mw_autofill_popup_content_description">အော်တိုဖြည့်ပေါ့ပ်အပ် ပြထားသည်</string>
-    <string name="mw_chip_remove_icon_content_description">Remove \"%1$s\"</string>
+    <string name="mw_chip_remove_icon_content_description">\"%1$s\" ကို ဖြုတ်ရန်</string>
     <string name="mw_color_picker_button_black">အမဲရောင်</string>
     <string name="mw_color_picker_button_blue">အပြာရောင်</string>
     <string name="mw_color_picker_button_cancel">ပယ်ဖျက်မည်</string>
@@ -845,7 +847,7 @@ ID -
     <string name="mw_color_picker_hue">အရောင်အဆင်း</string>
     <string name="mw_color_picker_saturation">ပြည့်ဝမှတ်</string>
     <string name="mw_color_picker_value">တန်ဖိုး</string>
-    <string name="mw_common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="mw_common_google_play_services_install_text">%1$s သည် Google ပလေး ဝန်ဆောင်မှုများမပါဘဲ မပွင့်ပါ။ သင့်စက်တွင် ၎င်းတို့ ပျောက်နေသည်။</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">ကလစ်ဘုတ်သို့ ကော်ပီကူး၍ မရခဲ့ပါ</string>
     <string name="mw_data_traffic_prompt_change">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများ ကြည့်ရှုခြင်းသည် ဒေတာသုံးစွဲမှုမြင့်တက်လာစေလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားလျင် သင့်ဖုန်းကုမ္ပဏီက သင့်ထံမှ အပိုစရိတ်များ ကောက်ခံနိုင်ပါသည်။</string>
@@ -869,7 +871,7 @@ ID -
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">လွန်ခဲ့သော လ</string>
     <string name="mw_license_activity_title">စနစ် WebView လိုင်စင်</string>
-    <string name="mw_link_copied">Copied URL successfully</string>
+    <string name="mw_link_copied">URL အောင်မြင်စွာ ကူးပြီးပါပြီ</string>
     <string name="mw_low_memory_error">မှတ်ဉာဏ်နေရာလပ် နည်းပါးနေသောကြောင့် ယခင်လုပ်ဆောင်ချက်ကို အပြီးမသတ်နိုင်ခဲ့ပါ</string>
     <string name="mw_miui_content_copy">ကူးယူရန်</string>
     <string name="mw_miui_content_cut">ဖြတ်ရန်</string>
@@ -974,7 +976,7 @@ ID -
     <string name="mw_save_password_never">လုံးဝ မှတ်မထားပါနှင့်</string>
     <string name="mw_save_password_notnow">ယခုမလုပ်သေးပါ</string>
     <string name="mw_save_password_remember">မှတ်ထားပါ</string>
-    <string name="mw_speech_recognition_service_not_found">"Couldn't find Google speech engine"</string>
+    <string name="mw_speech_recognition_service_not_found">Google စကားပြောအင်ဂျင် ရှာမတွေ့ပါ</string>
     <string name="mw_status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1492,6 +1494,15 @@ ID -
     <string name="restart_phone_bind_message">SMS လက်ခံရရှိရန် အချိန်အနည်းငယ် ကြာနိုင်ပါသည်။ မည်သို့ပင်ဆိုစေ ပြန်စမလား။</string>
     <string name="restart_phone_bind_title">ပြန်၍ရယူရန် ဖုန်းနံပါတ်ကို ပြောင်းမည်</string>
     <string name="return_to_homepage">အစ စာမျက်နှာသို့ ပြန်သွားပါ</string>
+    <string name="risk_continue">ရှေ့ဆက်ရန်</string>
+    <string name="risk_detail">အသေးစိတ်</string>
+    <string name="risk_malicious_url">ဤဝက်ဘဆိုက်တွင် လုံခြုံရေးပြဿနာများ ရှိနိုင်သည်</string>
+    <string name="risk_protect_browsing">Mi ဘရောက်ဇာသည် လုံခြုံရေးပြဿနာများအတွက် ဝက်ဘဆိုက်များကို စစ်ပါသည်</string>
+    <string name="risk_safe_url">ဤဝက်ဘဆိုက် လုံခြုံပါသည်</string>
+    <string name="risk_setting_des">Mi ဘရောက်ဇာအား လုံခြုံရေးပြဿနာများအတွက် ဝက်ဘဆိုက်များကို စစ်ခွင့်ပြုပါ</string>
+    <string name="risk_setting_title">လုံခြုံစွာ ဘရောက်ဇင်းလုပ်ခြင်း</string>
+    <string name="risk_stop">ရပ်ရန်</string>
+    <string name="risk_unspecified_url">ဤဝက်ဘဆိုက်၏ လုံခြုံရေးဆာတီဖီကိတ်တွင် ပြဿနာရှိသည်။</string>
     <string name="rlv_last_refreshing_time">အပ်ဒိတ်လုပ်ထားသော %1$s</string>
     <string name="rlv_loading_more">ခဏစောင့်ပါ…</string>
     <string name="rlv_pull_to_refresh">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>

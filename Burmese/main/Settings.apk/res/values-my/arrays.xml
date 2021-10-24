@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>ခလုတ်</item>
+        <item>လက်ဟန်</item>
+    </string-array>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>အခြားအက်ပ်များပေါ်တွင် မြင်ရခြင်း</item>
+        <item>လမ်းညွှန်ဘား</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>သေး</item>
+        <item>ကြီး</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>လှုပ်ရှားသက်ဝင်ပုံများကိုပိတ်ပါ</item>
         <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၀.၅ဆ</item>
@@ -10,7 +22,7 @@
         <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၁၀ဆ</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>ဘာမှမဟုတ်</item>
+        <item>မရှိ</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP သို့မဟုတ် CHAP</item>
@@ -59,7 +71,7 @@
         <item>ဆက်တင်များ ပြင်ဆင်ရန်</item>
         <item>အပေါ်မှ ဆွဲရန်</item>
         <item>အကြောင်းကြားချက်များအား အသုံးပြုခွင့်</item>
-        <item>Camera</item>
+        <item>ကင်မရာ</item>
         <item>အသံဖမ်းရန်</item>
         <item>အသံဖွင့်ရန်</item>
         <item>နောက်ခံမှတ်တမ်း ဖတ်ရန်</item>
@@ -175,7 +187,7 @@
         <item>အများဆုံးလုပ်ငန်းစဉ်(၄)ခု</item>
     </string-array>
     <string-array name="autofill_logging_level_entries">
-        <item>ပိတ်ထားသည်</item>
+        <item>ပိတ်</item>
         <item>အမှားရှာပြင်ခြင်း</item>
         <item>Verbose</item>
     </string-array>
@@ -279,15 +291,15 @@
         <item>၊ ဖွင့်ထားသည် (ဖုန်း)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
         <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (မူလ)</item>
+        <item>AVRCP 1.5 (မူလ)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
@@ -401,7 +413,7 @@
         <item>သုံးစွဲမှု စက်ဝန်း သတ်မှတ်ရန်...</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>ရှိရင်းစွဲထက်ပိုသော ဧရိယာများကိုပြရန်</item>
         <item>အစိမ်းရောင် မမြင်ရသောဧရိယာများ ပြရန်</item>
     </string-array>
@@ -416,10 +428,9 @@
         <item>၃၀ မိနစ်</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>အတည်မပြုပါ</item>
+        <item>မစိစစ်ပါနှင့်</item>
         <item>အသိအမှတ်ပြုလက်မှတ် အခြေအနေ တောင်းဆိုပါ</item>
         <item>အသိအမှတ်ပြုလက်မှတ် လိုအပ်သည်</item>
-        <item>ယုံကြည်စိတ်ချရခြင်းမရှိသည့် အသိအမှတ်ပြုလက်မှတ် အခြေအနေများအားလုံး လိုအပ်သည်</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>မရှိ</item>
@@ -454,6 +465,11 @@
         <item>၁၀ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
     </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>အတို</item>
+        <item>အလယ်အလတ်</item>
+        <item>အရှည်</item>
+    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>အတို</item>
         <item>အတော်အသင့်</item>
@@ -464,7 +480,6 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-        <item>ICCID</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>မရှိ</item>
@@ -491,7 +506,7 @@
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
-        <item>ကမ္ဘာအနှံ့</item>
+        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
         <item>LTE</item>
         <item>LTE / WCDMA</item>
         <item>TDSCDMA သာ</item>
@@ -508,7 +523,7 @@
         <item>NR/LTE</item>
         <item>NR/LTE/CDMA/EvDo</item>
         <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>ကမ္ဘာအနှံ့</item>
         <item>NR/LTE/WCDMA</item>
         <item>NR/LTE/TDSCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM</item>
@@ -560,41 +575,41 @@
         <item>အမြဲခွင့်ပြုပါ</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 64K</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 256K</item>
         <item>မှတ်တမ်းကြားခံနယ် တစ်ခုလျှင် 1M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 4M</item>
-        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 16M</item>
+        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 8M</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
         <item>4M</item>
-        <item>16M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်များ အားလုံး</item>
         <item>ရေဒီယို မှတ်တမ်းသိမ်းဆည်းရန်လျာထားချက်မှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်သာ</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>အားလုံး</item>
         <item>ရေဒီယိုမှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်သာ</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>စတုဂံမဟုတ်သော ဖောက်ရန်အပိုင်းကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
         <item>စမ်းသပ်ထားသော ပုံဆွဲရန်ညွှန်ကြားချက်များကို အစိမ်းရောင်ဖြင့် အသားပေး ဖော်ပြပါ</item>
     </string-array>
@@ -612,7 +627,7 @@
         <item>အားလုံး</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်</item>
         <item>ဖန်သားပြင်ပေါ်မှာ မျဉ်းတန်းကဲ့သို့</item>
         <item>adb shell dumpsys gfxinfo ဖြင့်</item>
     </string-array>
@@ -697,8 +712,8 @@
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>အလိုအလျောက် ရှာရန်</item>
-        <item>အခမဲ့ မဟုတ်သော အသုံးပြုခြင်းအဖြစ် သတ်မှတ်ရန်</item>
-        <item>အခမဲ့ အသုံးပြုခြင်းအဖြစ် သတ်မှတ်ရန်</item>
+        <item>အခမဲ့မဟုတ်အဖြစ် သတ်မှတ်ရန်</item>
+        <item>အခမဲ့အဖြစ် သတ်မှတ်ရန်</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>ချိတ်ဆက်ထားသည်</item>
@@ -725,7 +740,7 @@
     </string-array>
     <string-array name="wifi_privacy_entries">
         <item>ကျပန်း MAC ကို အသုံးပြုရန် (မူရင်း)</item>
-        <item>ကိရိယာ၏ MAC သုံးရန်</item>
+        <item>စက်၏ MAC သုံးရန်</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>မရှိ</item>
@@ -772,6 +787,20 @@
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>ရှာဖွေနေသည်…</item>
+        <item>ချိတ်ဆက်နေသည်…</item>
+        <item>အထောက်အထားစိစစ်နေသည်…</item>
+        <item>IP လိပ်စာ ရယူနေသည်…</item>
+        <item>ချိတ်ဆက်ထားသည်</item>
+        <item>ဆိုင်းငံ့ထားသည်</item>
+        <item>ချိတ်ဆက်မှု ဖြတ်နေသည်…</item>
+        <item>ချိတ်ဆက်မထားပါ</item>
+        <item>မအောင်မြင်ပါ</item>
+        <item>ပိတ်ထားသည်</item>
+        <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ထားသည်</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>

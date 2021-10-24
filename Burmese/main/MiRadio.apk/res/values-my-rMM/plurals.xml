@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="toast_channel_searched">
-        <item quantity="other">အသံလွှင့်ဌာန %1$d ခု စကန်ဖတ်ခဲ့သည်</item>
-    </plurals>
-</resources>

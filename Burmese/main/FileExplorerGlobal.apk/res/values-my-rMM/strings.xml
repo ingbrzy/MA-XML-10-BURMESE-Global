@@ -170,7 +170,7 @@
     <string name="folder_name_empty">ဖိုလ်ဒါအမည် လွတ်နေ၍မရပါ</string>
     <string name="folder_name_illegal">မမှန်သော ဖိုလ်ဒါအမည်</string>
     <string name="found_usb">USB သိုလှောင်မှုနှင့်ချိတ်ဆက်ခဲ့</string>
-    <string name="ftp_account_req_notice">အက္ခရာများ၊ စာလုံးများနှင့် ဂဏန်းများ ၄-၁၆ လုံး၊ စာလုံးကြီးသေး အရေးကြီးသည်</string>
+    <string name="ftp_account_req_notice">အသုံးပြုသူအမည် နှင့် စကားဝှက်သည် စာလုံးအကြီးအသေး နှင့် %1$d%2$d အက္ခရာများပါရမည်။ အင်္ဂလိပ်စာ စာလုံး၊ အထူး သင်္ကေတများ နှင့် နံပါတ်များ ရောစပ်နိုင်သည်။</string>
     <string name="ftp_anonymous_login">အမည်ဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="ftp_invalid_username_or_password">သင်ရိုက်ထည့်လိုက်သည် အသုံးပြုသူအမည်နှင့် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="ftp_open_port_error">ဝင်ပေါက်အား ဖွင့်၍မရပါ။ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးပါ သို့မဟုတ် ဝင်ပေါက် နံပါတ်အား ပြန်သတ်မှတ်ပါ။</string>
@@ -178,7 +178,7 @@
     <string name="ftp_port_number">ဝင်ပေါက် နံပါတ်</string>
     <string name="ftp_random_port">ကြုံရာ ဝင်ပေါက်</string>
     <string name="ftp_transfer_secure">လုံခြုရေး</string>
-    <string name="ftp_username_and_passworld">ဆိုင်းအင်ဝင်မည်</string>
+    <string name="ftp_username_and_passworld">အသုံးပြုသူအမည် နှင့် စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="ftp_username_hint">သုံးသူအမည်</string>
     <string name="gbk_summary">တရုတ်စာလုံးတို ဝင်းဒိုးများ၏ သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="gigabyteShort">GB</string>
@@ -325,14 +325,6 @@
     <string name="phone_storage_zip_title">မော်ကွန်းများ−</string>
     <string name="pick_file">ဖိုင်များအား ရွေးပါ</string>
     <string name="pick_folder">ဖိုဒါရွေးပါ</string>
-    <string name="player_tips_brightness">တောက်ပမှုအား ချိန်ညှိမည်</string>
-    <string name="player_tips_double_click">မျက်နှာပြင်အား နှစ်ချက်ထိနှိပ်ပါ</string>
-    <string name="player_tips_landscape">အလျားလိုက် ပွတ်ဆွဲပါ</string>
-    <string name="player_tips_pause_player">ထုတ်လွှင့်မှုအား ခေတ္တရပ်ဆိုင်းမည်/ပြန်ဖွင့်မည်</string>
-    <string name="player_tips_rewind">ထုတ်လွှင့်မှုအား ချိန်ညှိမည်</string>
-    <string name="player_tips_up_down_left">ဘယ်ဘက်မှ ဒေါင်လိုက် ပွတ်ဆွဲပါ</string>
-    <string name="player_tips_up_down_right">ညာဘက်မှ ဒေါင်လိုက် ပွတ်ဆွဲပါ</string>
-    <string name="player_tips_volume">အသံပမာဏ ချိန်ညှိမည်</string>
     <string name="port">ဝင်ပေါက်</string>
     <string name="port_range">ဝင်ပေါက်နံပါတ်မှာ ၁၀၂၄ နှင့် ၆၅၅၃၅ အကြားရှိရပါမည်</string>
     <string name="possible_permissions">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
@@ -383,8 +375,6 @@
     <string name="rlv_release_to_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
     <string name="save_seven_day">တစ်ပတ် တစ်ကြိမ် ရှင်းလင်းပါ</string>
     <string name="scan_code_download_from_play">ပလေးစတိုးမှ ဒေါင်းလုဒ်လုပ်ရန် ဤ QR ကုဒ်အား စကန်ဖတ်ပါ</string>
-    <string name="screenshot_fail">မျက်နှာပြင်ပုံ ရိုက်၍မရပါ</string>
-    <string name="screenshot_success">မျက်နှာပြင်ပုံများအား %1$s သို့ သိမ်းပါ</string>
     <string name="search_description">စက်ပေါ်ရှိဖိုင်အားလုံးအား ရှာဖွေပါ</string>
     <string name="search_empty_view_hint">တစ်ခုမှရှာမတွေ့ပါ</string>
     <string name="search_error_hint">ရှာ​ဖွေ</string>
@@ -441,8 +431,6 @@
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="terms_conditions_desc">အောက်ပါ အိုင်တမ်များအား သေချာစွာ ဖတ်ရှုပြီး သဘောတူ/မတူ ရွေးပါ။</string>
-    <string name="time_am">နံနက်</string>
-    <string name="time_pm">ညနေ</string>
     <string name="time_to_upgrade">အပ်ဒိတ် လုပ်နိုင်ပါပြီ</string>
     <string name="tip">ဂရုစိုက်ခြင်း</string>
     <string name="tips_by_forbid_access">Android R တွင် မိတ်ဆက်ထားသော စနစ်ကန့်သတ်ချက်များကြောင့် ဤဖိုဒါရှိအရာများကို ဝင်နိုင်တော့မည် မဟုတ်ပါ။ ဤဖိုဒါမှ သင့်ကိုယ်ရေးကိုယ်တာဖိုင်များကို အမြန်ဆုံး ဖယ်ရှားပါ။</string>
@@ -472,9 +460,11 @@
     <string name="user_notice_term_of_service">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="utf8_summary">စက်စနစ် FTP သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="version_name">ဗားရှင်း</string>
-    <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
     <string name="view_by_document">\"ဖိုင်မျာ\" တွင် ကြည့်ပါ</string>
     <string name="wechat_video">%s က ဗီဒီယို</string>
+    <string name="whatsapp_cache_garbage">ကက်ချ်</string>
+    <string name="whatsapp_cache_garbage_cleanup">ရှင်းမည်</string>
+    <string name="whatsapp_cache_garbage_tip">ကက်ချ် ရှင်းခြင်းသည် အရေးကြီးသည့်အရာကို မဖျက်ပါ။ ၎င်းနောက် သင်သည် အက်ပ်ကို ပုံမှန်အတိုင်း အသုံးပြုနိုင်မည်။</string>
     <string name="wifi_state">Wi-Fi အခြေအနေ</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yes">ဟုတ်ပါသည်</string>

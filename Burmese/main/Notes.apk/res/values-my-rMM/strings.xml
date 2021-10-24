@@ -401,6 +401,7 @@
     <string name="note_gesture_guide_step3">မှတ်စုတစ်ခုအား ဖိုဒါတစ်ခုအတွင်းသို့ ပြောင်းရွှေ့ရန်အတွက် ထိုမှတ်စုအား ဖိနှိပ်ထားပြီးနောက် ထိုဖိုဒါပေါ်သို့ ရွှေ့ဆွဲသွားပါ</string>
     <string name="note_header_first_enter_guide">နောက်ထပ်ကြည့်ရန် အောက်သို့ဆွဲချပါ</string>
     <string name="note_invalid_mindnote_hint">ဤဗားရှင်းတွင် စိတ်ကူးပြမြေပုံများ မရနိုင်ပါ။ ဤအင်္ဂါရပ်ကိုသုံးရန် ဤအက်ပ်အား အပ်ဒိတ်လုပ်ပါ။</string>
+    <string name="note_item_default_title">မှတ်စုအလွတ်</string>
     <string name="note_link_email">အီးမေးလ်ရေးရန်</string>
     <string name="note_link_other">မြေပုံအက်ပ်သုံး၍ဖွင့်ပါ</string>
     <string name="note_link_select">စာသား ရွေးပါ</string>
@@ -414,6 +415,7 @@
     <string name="note_sort_way">စီရန်</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">မှတ်စုများသည် စနစ်အက်(ပ်)များဖြစ်သည်။ ဤအက်(ပ်)ကို ဖြုတ်ပြီးနောက် သုံးမရတော့ပါ။</string>
     <string name="notes_description_title">မှတ်စုများပြန်ဖြုတ်လိုသလား။</string>
     <string name="notification_content_add_todo_from_other_app">လုပ်ငန်းအသစ်တစ်ခု သင် ထည့်ထားပါသည်။ ကြည့်ရန် တို့ပါ။</string>
@@ -471,6 +473,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">လက်ချောင်း နှစ်ချောင်းဖြင့် အပေါ်သို့ ပွတ်ဆွဲ၍ မှတ်စုအား ဖျက်ပါက အတည်ပြုရန် မလိုပါ</string>
     <string name="pref_desc_todo_float_mode">လုပ်ငန်းစဥ် ကိရိယာဘောက်စ်ဖွင့်ရန် မျက်နှာပြင် အစွန်းမှ ပွတ်ဆွဲပါ</string>
     <string name="pref_excerpt_link_float">URL တစ်ခုကို ကူးပြီးတိုင်း ကောက်နုတ်ချက်ပြုလုပ်ရန် သတိပေးချက်ရယူပါ</string>
+    <string name="pref_permission_allowed">ခွင့်ပြုထားသည်</string>
+    <string name="pref_permission_manage">ခွင့်ပြုချက်အသေးစိတ်</string>
+    <string name="pref_permission_manage_key_contact">အဆက်အသွယ်များ ဖတ်ခွင့်ပြုရန်</string>
+    <string name="pref_permission_manage_key_recording">အသံသွင်းရန်</string>
+    <string name="pref_permission_manage_key_storage">သိုလှောင်ခန်းဖတ်ခွင့်ပြုရန်</string>
+    <string name="pref_permission_not_allowed">ခွင့်မပြုထားပါ</string>
     <string name="pref_quick_note_desc">မျက်နှာပြင်အစွန်းရှိ ရှော့ကတ်ကိုသုံးပြီး မှတ်စုများနှင့် လုပ်ငန်းတာဝန်များ ပြုလုပ်နိုင်ပြီး ကူးထားသော URL များနှင့် ပုံများကို မှတ်စုများသို့ သိမ်းနိုင်သည်။</string>
     <string name="pref_remind_type_summary">သတိပေးချက်များအတွက် အသံတိတ်မုဒ်တွင် အသံမြည်ရန်</string>
     <string name="pref_remind_type_summary_new">အသံတိတ်မုဒ်ကို လစ်လျူရှုပြီး နှိုးစက်ပိတ်သည်အထိ အသံဖွင့်ပါ</string>
@@ -781,6 +789,9 @@
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">အကြီး</string>
+    <string name="widget_size_item_medium">အလယ်အလတ်</string>
+    <string name="widget_size_item_small">အသေး</string>
     <string name="widget_take_notes_title">မှတ်စုများ</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

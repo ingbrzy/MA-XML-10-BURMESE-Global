@@ -393,11 +393,19 @@
     <string name="other_settings">ထပ်ဆောင်းဆက်တင်</string>
     <string name="pause">တန့်ရပ်ပါ</string>
     <string name="percentage_sign">%</string>
+    <string name="permission_desc">ခွင့်ပြုချက်အသေးစိတ်</string>
+    <string name="permission_granted">ခွင့်ပြုထားသည်</string>
+    <string name="permission_rejected">ခွင့်မပြုထားပါ</string>
+    <string name="permission_related">ခွင့်ပြုချက်များ</string>
     <string name="personal_recommend">အကြောင်းအရာ စိတ်ကြိုက်လုပ်ခြင်း အကြံပြုချက်</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="privacy_policy_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="privacy_settings_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
+    <string name="query_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="reach_upper_limit">အချိန်ကိုက်စနစ်များ ထပ်ထည့်မရတော့ပါ</string>
+    <string name="read_external_storage_permission_desc">စိတ်ကြိုက်ဖုန်းခေါ်သံများ သတ်မှတ်ရန်</string>
+    <string name="read_internal_storage">သိုလှောင်ခန်းဖတ်ခွင့်ပြုရန်</string>
     <string name="remind_ringtone">ဖုန်းမြည်သံ</string>
     <string name="repeat_count">အချိန်များ</string>
     <string name="repeat_count_value_five">၅</string>
@@ -446,6 +454,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၁၀ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -496,6 +505,7 @@
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပါ။</string>
     <string name="system_permission_main_purpose">အချိန်ကြည့်ခြင်း၊ နှိုးစက်နှင့် တိုင်မာများ သတ်မှတ်ခြင်း၊ ချိန်ကိုက်နာရီသုံးခြင်း</string>
     <string name="system_permission_purpose">ရုံးဖွင့်ရက်နှိုးစက်များပြုလုပ်ခြင်းနှင့် စိတ်ကြိုက်ဖုန်းသံများ သတ်မှတ်ခြင်း</string>

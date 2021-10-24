@@ -232,6 +232,7 @@
     <string name="incompatible_dialog_ok">နားလည်ပါပြီ</string>
     <string name="incompatible_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေ…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
     <string name="item_resource_audio_optional_color_ring">Ringback အသံ</string>
     <string name="item_resource_audio_optional_notification_ring">အသိပေးချက်များ</string>
@@ -383,6 +384,9 @@
     <string name="payment_coins_balance">(လက်ကျန် - %1s)</string>
     <string name="payment_coins_insufficient_balance">(လက်ကျန်ငွေ မလုံလောက်ပါ)</string>
     <string name="payment_method">ငွေပေးချေမှုနည်းလမ်း</string>
+    <string name="permission_desc">သိမ်းထားသောအပြင်အဆင်များနှင့် အခြားအရာများကို သိုလှောင်ရန်</string>
+    <string name="permission_summary">မရှိမဖြစ်ခွင့်ပြုချက်များ (အပလီကေးရှင်း၏ အခြေခံဝန်ဆောင်မှုများနှင့် လုပ်ဆောင်ချက်များအတွက်)</string>
+    <string name="permission_title">စက်ရှိ ဓာတ်ပုံများ သို့မဟုတ် ဖိုင်များကို ဖတ်ခွင့်ပြုရန်</string>
     <string name="personal_recommend_desc">သင်၏ နှစ်သက်မှုအပေါ် အခြေခံသော အကြောင်းအရာအကြံပြုချက်များ ရယူပါ</string>
     <string name="personal_recommend_title">စိတ်ကြိုက်အကြံပြုချက်များ</string>
     <string name="peyment_pay_now_btn">ပေးချေရန်</string>
@@ -440,6 +444,7 @@
     <string name="related_theme">သင်းမ်</string>
     <string name="related_wallpaper">နောက်ခံပုံ</string>
     <string name="reload">ထပ်ကြိုးစား</string>
+    <string name="res_migrate_tip">အပြင်အဆင်များကို လာမည့် Android ဗားရှင်းများနှင့် တွဲသုံးနိုင်ရန် သင်ဒေါင်းလုဒ်ထားသောအရာများကို နေရာအသစ်သို့ ပို့ထားသည်။ အပြောင်းအလဲများအကျုံးဝင်ရန် အက်(ပ်)ကို ပြန်စပြီး ဒေါင်းလုဒ်ထားသောအရာများကို ကြည့်ပါ။</string>
     <string name="resource_account_abnormal_state">အကောင့် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="resource_account_fail_to_add">အကောင့် ပေါင်းထည့်လို့ မရပါ</string>
     <string name="resource_account_login">ဆိုင်းအင်ဝင်ခြင်း</string>
@@ -578,6 +583,7 @@
     <string name="resource_pack_price_info">မူရင်းစျေးနှုန်း: %1$s</string>
     <string name="resource_pack_warning">ဤသင်းမ်ထဲက %1$d အစိတ်အပိုင်းများကို သင်ဝယ်ယူထားပြီးဖြစ်သည်။ အကယ်၍ ကျန်နေသော အစိတ်အပိုင်းများကို တစ်ချချင်း သင် ဝယ်ယူပါက၊ ပို၍ စျေးချိုပါသည်။</string>
     <string name="resource_present">လက်ဆောင်</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">အခမဲ့</string>
     <string name="resource_price_unit"> Mi ခရက်ဒစ်</string>
     <string name="resource_purchase_common_error">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
@@ -589,6 +595,7 @@
     <string name="resource_ranking">လူကြိုက်များသော</string>
     <string name="resource_ranking_free">အခမဲ့</string>
     <string name="resource_ranking_purchase">အခပေး</string>
+    <string name="resource_right_ack_check_error">ဤကုဒ်သက်တမ်းကုန်ပါပြီ</string>
     <string name="resource_ringtone_default">ဖုန်းမြည်သံများ</string>
     <string name="resource_ringtone_playing_error">အမှား</string>
     <string name="resource_ringtone_volume_mute">အသံစက်ကို အသံပိတ်ထားသည်</string>
@@ -807,6 +814,7 @@
     <string name="theme_is_external_priority_storage">SD ကဒ်မှာသိမ်းဆည်းပါ</string>
     <string name="theme_is_external_priority_storage_summary">သင်းမ်အက်ပ်များသည် အကျိုးသက်ရောက်မှုရှိရန် ချက်ချင်းပြန်စတင်လိမ့်မည်</string>
     <string name="theme_multiple_button_title_customize">စိတ်ကြိုက်စီစဉ်ပါ</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">မသိမ်းပါ</string>
     <string name="theme_on_the_phone_alert">ဖုန်းပြောနေစဉ် ဖွင့်မရပါ</string>
     <string name="theme_select_others">အင်တာနက်တွင်ရှာဖွေပါ</string>

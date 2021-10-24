@@ -4,6 +4,7 @@
     <string name="access_token_expired_warning">Weibo အကောင့်က သက်တမ်းကုန်နေပါပြီ</string>
     <string name="access_token_invalid_warning">Weibo အကောင့်က မမှန်ပါ</string>
     <string name="account">အကောင့်</string>
+    <string name="account_and_password">စကားဝှက်</string>
     <string name="account_bind_devices">ကိရိယာများ</string>
     <string name="account_bind_secure_email_title">အီးမေးလ်ပေါင်းထည့်ပါ</string>
     <string name="account_bind_secure_phone_title">ဖုန်းနံပါတ် ပေါင်းထည့်ပါ</string>
@@ -35,7 +36,7 @@
  သင်၏အကောင့်ID- %s"</string>
     <string name="account_token_expired_title">မှန်ကန်ကြောင်း အတည်မပြုနိုင်ပါ</string>
     <string name="account_user_avatar">ပရိုဖိုင်ပုံ</string>
-    <string name="account_user_avatar_from_album">Select photo</string>
+    <string name="account_user_avatar_from_album">ဓာတ်ပုံရွေးပါ</string>
     <string name="account_user_avatar_from_camera">ဓာတ်ပုံ ရိုက်ပါ</string>
     <string name="account_user_base_info">ကိုယ်ရေးအချက်အလက်</string>
     <string name="account_user_birthday">မွေးနေ့</string>
@@ -48,7 +49,11 @@
     <string name="account_user_name_dialog_title">သုံးသူအမည် ထည့်သွင်းပါ</string>
     <string name="account_user_other_info">အရင်းအမြစ်ထပ်မံ၍</string>
     <string name="account_user_phone">အရန် ဖုန်း</string>
+    <string name="account_user_phone_show">ဖုန်း - %s</string>
     <string name="account_user_region">ဒေသ</string>
+    <string name="account_verify_guide_bind_mail_desc">အရန်အီးမေး(လ်)ထည့်ပါ</string>
+    <string name="account_verify_guide_bind_phone_desc">အရန်ဖုန်းထည့်ပါ</string>
+    <string name="account_verify_guide_set_password_desc">စကားဝှက်သတ်မှတ်ပါ</string>
     <string name="account_xiaomi_service">ဝန်ဆောင်မှုများ</string>
     <string name="action_add_phone">ဖုန်းနံပါတ် ပေါင်းထည့်မည်</string>
     <string name="action_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -131,16 +136,17 @@
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Facebook ဖြင့် အကောင့်ဝင်ရန်</string>
     <string name="failed_dup_secure_phone_number">ဒီဖုန်းနံပါတ်က အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပြီးသား ဖြစ်သည်</string>
+    <string name="family_share">မိသားစုမျှသုံးမှု</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">စက်ကို ရှာမည်</string>
     <string name="find_device_access_denied">အခြေအနေအား မရရှိနိုင်ပါ၊ ဝင်ရောက်မှုအား ပယ်ချခဲ့သည်</string>
     <string name="find_device_account_error">အကောင့်အမှားကြောင့် အခြေအနေအား မရရှိနိုင်ခဲ့ပါ</string>
     <string name="find_device_activate_account">အကောင့်အား အသက်သွင်း</string>
-    <string name="find_device_bad_response_error">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="find_device_bad_response_error">ဆာဗာအမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ် စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="find_device_clear_data">ဒေတာကို ဖျက်မည်</string>
     <string name="find_device_close">ပိတ်</string>
     <string name="find_device_error_password_not_confirmed">စက်အား ရှာဖွေပါကို ပိတ်၍မရပါ။ Mi အကောင့်စကားဝှက်အား ထပ်မံရိုက်ထည့်ပါ။</string>
-    <string name="find_device_error_password_recently_changed">"You've changed your password within last %d days. Can't turn off Find device now due to security reasons."</string>
+    <string name="find_device_error_password_recently_changed">သင်သည် စကားဝှက်ကို လွန်ခဲ့သော %d ရက်အတွင်းက ပြောင်းထားသည်။ လုံခြုံရေးအကြောင်းများကြောင့် စက်ရှာဖွေစနစ်ကို ယခု ပိတ်မရပါ။</string>
     <string name="find_device_interrupted">လုပ်ဆောင်ချက် ကြားဖြတ်ခံခဲ့ရသည်၊ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="find_device_io_error">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="find_device_location">တည်နေရာရှာဖွေမည်</string>
@@ -159,7 +165,8 @@
     <string name="find_device_request_prepare_error">အချက်အလက်မရရှိနိုင်၊ နောက်မှပြန်လုပ်ကြည့်ပါ</string>
     <string name="find_device_set_lost_model">ပျောက်ဆုံးနေသော မုဒ်</string>
     <string name="find_device_title">စက်ကို ရှာမည်</string>
-    <string name="find_device_unknown_error">"Can't get device status. Wait a minute or two and try again."</string>
+    <string name="find_device_unknown_error">စက်အခြေအနေကို ယူမရပါ။ တစ်မိနစ်၊ နှစ်မိနစ် စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="find_equipment">စက်ရှာဖွေစနစ်</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -216,6 +223,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="get_back_password">စကားဝှက်ပြန်သတ်မှတ်ရန်</string>
     <string name="get_back_pwd">စကားဝှက်ကို ပြန်လည်သတ်မှတ်နေသည်</string>
     <string name="get_device_list_failed">ကိရိယာများကို မရယူနိုင်ပါ</string>
     <string name="get_identity_auth_url_failed">အတည်ပြု၍ မရပါ</string>
@@ -249,13 +257,14 @@
     <string name="loading_micloud_sync_data">ခဏစောင့်ပါ…</string>
     <string name="login_check_find_device">စက်လုံခြုံရေးအချက်အလက်များ ရယူနေပါသည်…</string>
     <string name="login_check_find_device_failed_title">စက်လုံခြုံရေးအချက်အလက်များအား မစစ်ဆေးနိုင်ခဲ့ပါ</string>
-    <string name="login_find_device_bind">This device is associated with an existing Mi Account ID (%s).</string>
+    <string name="login_find_device_bind">ဤစက်သည် ရှိပြီးသား Mi အကောင့် ID (%s) နှင့် ချိတ်ထားပြီးဖြစ်သည်။</string>
     <string name="logout_account">ဆိုင်းအောက်ထွက်မည်</string>
     <string name="logout_failed">ဆိုင်းအောက်ထွက်လို့ မရပါ</string>
     <string name="mi_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
     <string name="mi_finance">ကျွန်ုပ်၏ ဘဏ္ဍာရေး</string>
     <string name="mi_finance_info">လူသစ်အတွက် ဆုကြေးငွေ</string>
     <string name="mi_health">Xiaomi ကျန်းမာရေး</string>
+    <string name="mi_member">Mi ရပ်ဝန်း</string>
     <string name="mi_vip_info">အခွင့်ထူးများအား ကြည့်မည်</string>
     <string name="midnight">ည</string>
     <string name="mipay">Pay</string>
@@ -266,6 +275,7 @@
     <string name="mipay_indentity_done">အတည်ပြုပါ</string>
     <string name="mipay_others">အခြားသော</string>
     <string name="mipay_transit_card">သယ်ယူပို့ဆောင်ရေးကဒ်</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -335,13 +345,17 @@
     <string name="my_device_title">လက်ရှိ ကိရိယာ</string>
     <string name="need_install_wechat">WeChat အား ဦးစွာ ထည့်သွင်းပါ</string>
     <string name="night">ညနေ</string>
+    <string name="no_install">မထည့်သွင်းထားပါ</string>
     <string name="no_network_btn">ရီဖရှက်ရ်လုပ်</string>
     <string name="no_network_title">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။</string>
+    <string name="no_password_set">မသတ်မှတ်ထားပါ</string>
     <string name="no_phone">ဖုန်းနံပါတ်မရှိပါ</string>
     <string name="no_response_retry">တုံ့ပြန်မှု မရှိပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="no_sim_card_or_unactivated">ဆင်းမ်ကဒ်မတပ်ဆင်ထားပါ သို့မဟုတ် အသက်ဝင်မနေပါ</string>
     <string name="nobind">ချိတ်ဆက်မနေပါ</string>
     <string name="noon">မွန်းတည့်</string>
+    <string name="notify_bind_security_phone">အရန်ဖုန်းထည့်ပါ</string>
+    <string name="notify_complete_security_info">အကောင့်ဆယ်အချက်အလက်ထည့်ပါ</string>
     <string name="notify_network_restricted_content_bg_network">Mi အကောင့် အင်တာနက်အား ကန့်သတ်ထားသည်။ ခွင့်ပြုရန် ထိနှိပ်ပါ။</string>
     <string name="notify_network_restricted_content_hidden_state">Mi အကောင့် နောက်ခံလုပ်ဆောင်ချက်များအား ကန့်သတ်ထားသည်။ ခွင့်ပြုရန် ထိနှိပ်ပါ</string>
     <string name="notify_network_restricted_content_mobile_network">Mi အကောင့် အင်တာနက်အား ကန့်သတ်ထားသည်။ ခွင့်ပြုရန် ထိနှိပ်ပါ။</string>
@@ -374,6 +388,7 @@
     <string name="passport_activing_account">အသက်သွင်းနေသည်…</string>
     <string name="passport_adding_account">အကောင့် ပေါင်းထည့်နေသည်…</string>
     <string name="passport_area_code_hot">ကြိမ်ဖန်များစွာအသုံးပြုသော</string>
+    <string name="passport_area_code_others">အခြားရှေ့စာလုံးသုံးပါ</string>
     <string name="passport_area_code_title">နိုင်ငံကုဒ်</string>
     <string name="passport_auto_generate_pwd">လုံခြုံသောစကားဝှက်အား ထုတ်လုပ်</string>
     <string name="passport_back">နောက်သို့</string>
@@ -566,6 +581,7 @@
     <string name="passport_title_reg">အကောင့်တစ်ခု ဖန်တီးပါ</string>
     <string name="passport_trust_device">စက်များအား အတည်ပြုရန် ဤစက်အား ပေါင်းထည့်ပါ</string>
     <string name="passport_trying_read_verify_code_sms">အတည်ပြုကုဒ် ရယူနေ…</string>
+    <string name="passport_tz_invalid">လုံခြုံရေးအန္တရာယ်တွေ့ပါသည်။ ဤစက်ကို ရုဒ်ဖောက်ထား သို့မဟုတ် ဖလက်(ရှ်)လုပ်ထားပုံရသည်။ အခြားအကောင့်ဝင်နည်းများဖြင့် စမ်းကြည့်ပါ။</string>
     <string name="passport_uplink_reg">ဖုန်းနံပါတ်အား အသုံးပြု</string>
     <string name="passport_uplink_send_sms_hint">စီထားသောစာပါသည့် စာမျက်နှာသို့ ရောက်ပြီးနောက် \"ပို့ရန်\" ကို နှိပ်ပါ။</string>
     <string name="passport_uplink_slot1_reg">ဆင်းမ်1 ကိုသုံးပါ</string>
@@ -603,6 +619,7 @@
     <string name="permission_group_phone">ဖုန်း</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">သိုလှောင်ခန်း</string>
+    <string name="personal_info_desc">ဓာတ်ပုံ၊ အမည်ပြောင်နှင့် အခြားအရာများ</string>
     <string name="phone_num_use_for">အောက်ပါအတွက် ဖုန်းနံပါတ်ကို သုံးမည်-</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ</string>
     <string name="pm">ညနေ</string>
@@ -647,6 +664,7 @@
     <string name="search_user_detail_path">ဆက်တင်များ/Mi အကောင့်/ပုဂ္ဂိုလ်ရေးအချက်အလက်</string>
     <string name="search_user_detail_top_key_words">ပုဂ္ဂိုလ်ရေးအချက်အလက်၊ပရိုဖိုင်ဓာတ်ပုံပြောင်းလဲရန်၊သုံးသူအမည်ပြောင်းလဲရန်၊အမည်ပြောင်ပြောင်းလဲရန်၊မွေးနေ့ပြောင်းလဲရန်၊ကျားမပြောင်းလဲရန်</string>
     <string name="select_all">အားလုံး ရွေးပါ</string>
+    <string name="self_account_info">ကိုယ်ရေးအချက်အလက်</string>
     <string name="send">ပို့ပါ</string>
     <string name="send_diagnosis_log">ချွတ်ယွင်းမှုရှာဖွေရေး မှတ်တမ်းအား ပေးပို့မည်</string>
     <string name="send_email_activate_message">အတည်ပြုခြင်း အီးမေးလ် ပေးပို့ခဲ့ပြီး</string>
@@ -714,6 +732,7 @@
     <string name="the_united_nations_day">ကုလသမဂ္ဂနေ့</string>
     <string name="the_valentines_day">ချစ်သူများနေ့</string>
     <string name="the_water_lantern_festival">မီးမျှောပွဲတော်</string>
+    <string name="third_party_login">ပြင်ပပါတီအကောင့်များ</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>

@@ -37,6 +37,13 @@
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">ဆက်တင်များ</string>
+    <string name="size_byte">ဘိုက်</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">ကီလိုဘိုက်</string>
+    <string name="size_mega_byte">မီဂါဘိုက်</string>
+    <string name="size_peta_byte">ပီတာဘိုက်</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">တီရာဘိုက်</string>
     <string name="tencent_dialog_cloudscan">အက်ပ်အမည်များနှင့် အသေးစိတ်များကို အွန်လိုင်းဗိုင်းရပ်စ်ဆိုင်ရာ သတ်မှတ်ချက်များအား သုံး၍ အပ်လုတ်တင်ပြီး စကန်ဖတ်ပါ။</string>
     <string name="tencent_dialog_dbupdate">ဗိုင်းရပ်စ်သတ်မှတ်ချက်ကိုအလိုအလျောက်မွမ်းမံမည်</string>
     <string name="tencent_dialog_header">ဒီအင်္ဂါရပ်သည် သင့်ကိရိယာ၏ ID ကို Tencent ၏ ဆာဗာများ (%s) ဆီသို့ လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းပေးပြီး အပ်လုတ်တင်ပေးသည်။</string>

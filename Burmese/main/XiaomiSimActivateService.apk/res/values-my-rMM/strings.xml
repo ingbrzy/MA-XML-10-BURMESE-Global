@@ -148,6 +148,7 @@
     <string name="app_name">Xiaomi ဆင်းမ် အသက်သွင်းခြင်း ဝန်ဆောင်မှု</string>
     <string name="checking_client">အသက်သွင်းခြင်း ပတ်ဝန်းကျင်အား စစ်ဆေးနေသည်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="close">ပိတ်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -174,6 +175,8 @@
     <string name="explain_send_sms_permission_button">အတည်ပြု</string>
     <string name="explain_send_sms_permission_msg">%s အားဖွင့်ရန်၊ Xiaomi ဝန်ဆောင်မှု ဖရိမ်ဝေါ့သည် သင့်ဖုန်းနံပါတ်အား အတည်ပြုရန် SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းကယ်ရီယာအား ပုံမှန်ကြေးပေးဆောင်ရ နိုင်ပါသည်။</string>
     <string name="explain_send_sms_permission_title">သင့်ဖုန်းနံပါတ်အား အတည်ပြုပါ</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
@@ -189,7 +192,11 @@
     <string name="fmt_date_short_month_day">MM/dd</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -208,8 +215,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
@@ -292,6 +309,7 @@
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
+    <string name="send">ပို့ပါ</string>
     <string name="sim_activate_failed">ဝန်ဆောင်မှုကို အသက်သွင်းမရပါ</string>
     <string name="sim_activate_prepare">ဝန်ဆောင်မှုအသက်သွင်းရန်</string>
     <string name="sim_activated_failed_msg">ဝန်ဆောင်မှုကို အသက်သွင်းမရပါ။ ပြန်ကြိုးစားကြည့်ရန် ထိနှိပ်ပါ။</string>
