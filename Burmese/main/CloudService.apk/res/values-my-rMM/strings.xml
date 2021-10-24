@@ -109,8 +109,6 @@
     <string name="feedback_custom_hint">သင်ကြုံတွေ့ခဲ့ရသော ပြဿနာများအကြောင်းကို ဤနေရာတွင် ဖော်ပြပေးပါ။ အကြံပြုချက်များ ပေးအပ်နေခြင်းဖြစ်ပါက အသေးစိတ်အချက်အလက်များအား ကျွုန်ုပ်တို့ပိုမိုနှစ်သက်ပါသည်။</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
     <string name="find_device_dspt_provision">သင့်စက် ပျောက်သွားပါက စက်ရှာဖွေရန်၊ သော့ခတ်ရန် သို့မဟုတ် ပြန်သတ်မှတ်ရန် &lt;font color=#0097FF>%s&lt;/font>သို့ သွားပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင် အချိန်မရွေး ဖွင့်/ပိတ် လုပ်နိုင်ပါသည်။</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">စက်ရှာဖွေစနစ်ကို ဖွင့်ခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ <a href="app://com.miui.cloudservice.gdpr.license"><u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</u></a>" ကို သဘောတူရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်ကို ပိတ်ပါ။ "</string>
     <string name="find_device_operation_failure_rpc">RPC အမှားကြောင့် လုပ်ငန်းစဉ်လုပ်ဆောင်၍မရပါ။</string>
     <string name="find_device_send_sms_alert">"
@@ -335,13 +333,10 @@
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened">စက်ကိုရှာပါကို ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>
     <string name="micloud_find_device_verify_close">စက်ရှာဖွေခြင်းအား ပိတ်မည်။</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေစနစ်ကို အသက်သွင်းမရပါ</string>
     <string name="micloud_find_device_verify_progress">…စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းနေသည်။</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">ဆင့်ခ်လုပ်ခြင်းအား ဖျက်သိမ်းလိုက်သည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="micloud_main_head_menu_cloud_backup">အရန်သိမ်းဖိုင်များ</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">စနစ်ဆက်တင်များနှင့် ပင်မမျက်နှာပြင် အပြင်အဆင်</string>

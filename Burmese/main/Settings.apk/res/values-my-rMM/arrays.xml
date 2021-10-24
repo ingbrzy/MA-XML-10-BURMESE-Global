@@ -511,31 +511,6 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
-    <array name="click_bottom">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom08</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-    </array>
     <string-array name="color_mode_descriptions">
         <item>တိုးမြှင့်ထားသော အရောင်</item>
         <item>မျက်စိဖြင့် မြင်ရသော သဘာဝအရောင်</item>
@@ -628,15 +603,6 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
-    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>မျက်နှာပြင်ကို မနှိုးရန်</item>
         <item>မျက်နှာပြင်ကို နှိုးရန်</item>
@@ -669,43 +635,6 @@
         <item>After 5 minutes</item>
         <item>Never</item>
     </string-array>
-    <array name="long_press">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-    </array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
         <item>Quick snap mode (photo)</item>
@@ -768,14 +697,6 @@
         <item>Access mounted device: mtpfs /media/mtp via File Manager; same as local folder.</item>
         <item>"Uninstall device: fusermount -u /media/mtp
 Note: Only for Ubuntu 8.04!"</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>@string/msd_install_retry_reinstall_mac</item>
-        <item>@string/msd_install_retry_connect</item>
-        <item>@string/msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -875,97 +796,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Single mic noise suppression</item>
         <item>Dual mic noise suppression</item>
     </string-array>
-    <array name="power_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-    </array>
-    <array name="power_long_press">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>Performance</item>
         <item>Balanced</item>
@@ -1023,11 +853,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Vivid (recommended)</item>
         <item>Saturated</item>
         <item>Standard</item>
-    </string-array>
-    <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -1091,10 +916,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>စတုဂံမဟုတ်သော ပိုင်းဖြတ်နေရာကို အပြာရောင်ဖြင့် ဆွဲပါ</item>
         <item>စမ်းသပ်ပုံဆွဲရန် အမိန့်ကို အစိမ်းရောင်ဖြင့် ဟိုက်လိုက်လုပ်ပါ</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Always</item>
         <item>30 minutes</item>
@@ -1122,31 +943,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Base</item>
         <item>Pop</item>
     </string-array>
-    <array name="three_drop">
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop02</item>
-        <item>@drawable/threedrop03</item>
-        <item>@drawable/threedrop04</item>
-        <item>@drawable/threedrop05</item>
-        <item>@drawable/threedrop06</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-    </array>
     <string-array name="time_format_entries">
         <item>12-hour 1:00 PM</item>
         <item>24-hour 13:00</item>
@@ -1262,14 +1058,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ကိန်းဂဏန်းဖြင့်</item>
         <item>ရာခိုင်နှုန်း (သင်္ကေတဖြင့်)</item>
         <item>ရာခိုင်နှုန်း (သတိပေးအသိပေးချက်အတန်းရှိ သင်္ကေတဘေးတွင်)</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>@string/wifi_ap_ssid_off</item>
-        <item>@string/wifi_ap_ssid_on</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>

@@ -707,7 +707,6 @@ ID -
     <string name="off_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိမည်မဟုတ်ပါ</string>
     <string name="ok">အိုကေ</string>
     <string name="on_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိပါမည်</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="out_of_memory_background_playback_is_suspended">မန်မိုရီမလုံလောက်၍ နောက်ခံ၌ ပြသခြင်း ရပ်သွားသည်</string>
