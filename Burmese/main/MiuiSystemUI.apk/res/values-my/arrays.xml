@@ -98,15 +98,15 @@
         <item>၊ ဖွင့်ထားသည် (ဖုန်း)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
-        <item>avrcp13</item>
         <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (မူလ)</item>
+        <item>AVRCP 1.4 (မူလ)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
@@ -140,7 +140,7 @@
         <item>စံ</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>ရှိရင်းစွဲထက်ပိုသော ဧရိယာများကိုပြရန်</item>
         <item>အစိမ်းရောင် မမြင်ရသောဧရိယာများ ပြရန်</item>
     </string-array>
@@ -187,171 +187,46 @@
         <item>720p, 1080p (dual screen)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 64K</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 256K</item>
         <item>မှတ်တမ်းကြားခံနယ် တစ်ခုလျှင် 1M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 4M</item>
-        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 8M</item>
+        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 16M</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
         <item>4M</item>
-        <item>8M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်များ အားလုံး</item>
         <item>ရေဒီယို မှတ်တမ်းသိမ်းဆည်းရန်လျာထားချက်မှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်သာ</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>အားလုံး</item>
         <item>ရေဒီယိုမှလွဲ၍ အားလုံး</item>
         <item>ကာနယ်သာ</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>စတုဂံမဟုတ်သော ဖောက်ရန်အပိုင်းကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
         <item>စမ်းသပ်ထားသော ပုံဆွဲရန်ညွှန်ကြားချက်များကို အစိမ်းရောင်ဖြင့် အသားပေး ဖော်ပြပါ</item>
     </string-array>
-    <string-array name="tile_states_airplane">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_alarm">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_battery">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_bt">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_cameratoggle">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_cast">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_cell">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_controls">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_dark">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_dnd">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_flashlight">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_hotspot">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_internet">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_inversion">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_location">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_mictoggle">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_night">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_reduce_brightness">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_reverse">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_rotation">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_saver">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_screenrecord">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_wallet">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_wifi">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
-    <string-array name="tile_states_work">
-        <item>မရနိုင်ပါ</item>
-        <item>ပိတ်</item>
-        <item>ဖွင့်</item>
-    </string-array>
     <string-array name="track_frame_time_entries">
-        <item>ပိတ်</item>
+        <item>ပိတ်ရန်</item>
         <item>ဖန်သားပြင်ပေါ်မှာ မျဉ်းတန်းကဲ့သို့</item>
         <item>adb shell dumpsys gfxinfo ဖြင့်</item>
     </string-array>
@@ -410,20 +285,6 @@
         <item>မအောင်မြင်ပါ</item>
         <item>ပိတ်ထားသည်</item>
         <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
-    </string-array>
-    <string-array name="wifitrackerlib_wifi_status">
-        <item></item>
-        <item>ရှာဖွေနေသည်…</item>
-        <item>ချိတ်ဆက်နေသည်…</item>
-        <item>အထောက်အထားစိစစ်နေသည်…</item>
-        <item>IP လိပ်စာ ရယူနေသည်…</item>
-        <item>ချိတ်ဆက်ထားသည်</item>
-        <item>ဆိုင်းငံ့ထားသည်</item>
-        <item>ချိတ်ဆက်မှု ဖြတ်နေသည်…</item>
-        <item>ချိတ်ဆက်မထားပါ</item>
-        <item>မအောင်မြင်ပါ</item>
-        <item>ပိတ်ထားသည်</item>
-        <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ထားသည်</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>

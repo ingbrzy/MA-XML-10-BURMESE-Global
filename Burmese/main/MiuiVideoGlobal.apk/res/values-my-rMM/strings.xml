@@ -175,7 +175,7 @@ ID -
     <string name="dialog_privacy_revoke_fail">ခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="dialog_privacy_revoke_ok">ရုပ်သိမ်းရန်</string>
     <string name="dialog_privacy_revoke_success">အောင်မြင်စွာ ရုပ်သိမ်းပြီးပါပြီ</string>
-    <string name="dialog_privacy_revoking">သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းနေသည်…</string>
+    <string name="dialog_privacy_revoking">သဘောတူခွင့်ပြုချက်ရုတ်သိမ်းနေသည်…</string>
     <string name="dialog_privacy_title">စည်းမျဉ်းစည်းကမ်းများ</string>
     <string name="dialog_revoke_privacy_info_new2">ခွင့်ပြုချက်ရုတ်သိမ်းပြီးပါက အက်(ပ်)သည် ဒေတာကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး အခြား သက်ဆိုင်ရာဒေတာများကို ကျွန်ုပ်တို့၏ ဆာဗာများမှ ဖျက်လိုက်ပါမည်။ ဤလုပ်ရပ်ကြောင့် အက်(ပ်)ကို သုံး၍ ရတော့မည်မဟုတ်ပါ။ ခွင့်ပြုချက်ကို မဖြစ်မနေ ရုတ်သိမ်းလိုပါသလား။</string>
     <string name="dialog_revoke_privacy_title">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းနေသည်</string>
@@ -428,7 +428,7 @@ ID -
     <string name="live_title">တိုက်ရိုက်</string>
     <string name="live_tv_title">Live TV</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
-    <string name="local_empty_guide">The videos you film will appear here</string>
+    <string name="local_empty_guide">သင်ရိုက်သော ဗီဒီယိုများ ဤနေရာတွင် ပေါ်ပါမည်</string>
     <string name="local_play_tip">စက်အတွင်းရှိဗီဒီယိုကို ဖွင့်ထားသည်</string>
     <string name="local_push_setting_power_tag">စက်တွင်းဗီဒီယိုများအတွက် အသိပေးချက်များ</string>
     <string name="local_push_title">ယနေ့လူကြိုက်များသော</string>
@@ -707,6 +707,7 @@ ID -
     <string name="off_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိမည်မဟုတ်ပါ</string>
     <string name="ok">အိုကေ</string>
     <string name="on_tip_firework_recommend">သင်သည် Firework မှ စိတ်ကြိုက်အကြောင်းအရာ အကြံပြုချက်များ ရရှိပါမည်</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="out_of_memory_background_playback_is_suspended">မန်မိုရီမလုံလောက်၍ နောက်ခံ၌ ပြသခြင်း ရပ်သွားသည်</string>
@@ -1085,7 +1086,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="remaining_space_not_enough">နေရာလွတ်မလုံလောက်၍ ဒေါင်းလုဒ်လုပ်မရပါ။</string>
     <string name="reminder">သတိပြုရန်</string>
     <string name="rename">အမည်ပြန်ပေးမည်</string>
-    <string name="rename_word_out">This filename is too long</string>
+    <string name="rename_word_out">ဤဖိုင်အမည် ရှည်လွန်းသည်</string>
     <string name="report">အစီရင်ခံပါ</string>
     <string name="report_content_dislike">အကြမ်းဖက်မှု သို့မဟုတ် မသင့်လျော်သော အပြုအမူ</string>
     <string name="report_content_fakement">စပမ်း သို့မဟုတ် အယောင်ဆောင်</string>
@@ -1198,6 +1199,7 @@ Mi ဗီဒီယိုအား နောက်ဆုံး ဗားရှင
     <string name="tab_name_moment">လှုပ်ရှားမှုများ</string>
     <string name="tab_name_trending">ခေတ်စီးကြောင်း</string>
     <string name="tab_name_video">ဗီဒီယိုများ</string>
+    <string name="target_sdk_version_30_upgrade_tips">Android 11 အကန့်အသတ်များကြောင့် အချို့ဗီဒီယိုများကို ဤနေရာတွင် ကြည့်မရပါ။ အခြားဗီဒီယိုများရှာရန် \"ဖိုင်များ\"ကို တို့ပါ။</string>
     <string name="temporary_not_available">ဤဖီးခြားကို မရရှိနိုင်သေးပါ</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>

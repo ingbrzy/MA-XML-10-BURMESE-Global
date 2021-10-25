@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_device_info">ကိရိယာ၏ အသေးစိတ်များကို ကြည့်ပါ</string>
+    <string name="accept">ခွင့်ပြုရန်</string>
     <string name="access_token_expired_warning">Weibo အကောင့်က သက်တမ်းကုန်နေပါပြီ</string>
     <string name="access_token_invalid_warning">Weibo အကောင့်က မမှန်ပါ</string>
     <string name="account">အကောင့်</string>
@@ -80,6 +81,7 @@
     <string name="binded_description" formatted="false">"%s အား Mi အကောင့်ဖြင့် ချိတ်ဆက်ထားပြီ။
 ယခု Mi အကောင့်သို့ %sဖြင့် ဆိုင်းအင်ဝင်နိုင်ပါပြီ။"</string>
     <string name="button_unbind">ချိတ်ဆက်ဖြတ်ပါ</string>
+    <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="change_activate_email">အီးမေးလ်လိပ်စာ ပြောင်းပါ</string>
     <string name="change_email_address">အီးမေးလ်လိပ်စာ ပြောင်းပါ</string>
     <string name="change_password">စကားဝှက် ပြောင်းပါ</string>
@@ -111,6 +113,7 @@
     <string name="delete_device_btn">ဖယ်ရှားပါ</string>
     <string name="delete_device_failed">ကိရိယာကို ဖယ်ရှားလို့ မရပါ</string>
     <string name="delete_device_notice">ကိရိယာကို ဖယ်ရှားပြီးနောက်တွင်၊ ၎င်းက သင်၏ Mi အကောင့်ကနေ အလိုလို ဆိုင်းအောက်ထွက်ပါလိမ့်မည်။ သင့်အနေနှင့် ဓာတ်ပုံများ၊ မက်ဆေ့ခ်ျများ (သို့) သင့်အကောင့်၌ သိမ်းထားသော အခြား အကြောင်းအရာကို ဝင်ကြည့်ဖို့၊ ဒီကိရိယာအား သုံးနိုင်တော့မည်မဟုတ်ပါ။</string>
+    <string name="deny">ငြင်းရန်</string>
     <string name="device_delete_success_message">အကယ်၍ ဒီကိရိယာပေါ်၌ သင် ဆိုင်းအင်မဝင်ခဲ့ပါက၊ သင့်စကားဝှက်ကို ချက်ချင်း ပြောင်းပါ။</string>
     <string name="device_delete_success_title">ဆိုင်းအောက်ထွက်ထားသည်</string>
     <string name="device_list__header">ကျွန်ုပ်ကိရိယာများ</string>
@@ -124,6 +127,7 @@
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="empty_device_list_notice">ကိရိယာများ မရှိပါ</string>
+    <string name="enable">ဆက်တင်</string>
     <string name="ep_unsupported">သင့်စက်ရှိ Mi အကောင့်ကို ဝင်မရပါ</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
@@ -231,6 +235,7 @@
     <string name="get_phone_verifycode_exceed_limit">အတည်ပြုကုဒ် အများအပြားကို ဒီနံပါတ်သို့ ပို့ထားသည်။ ၂၄ နာရီခန့် စောင့်ပြီးနောက်၊ ထပ်ကြိုးစားပါ။</string>
     <string name="google">Google</string>
     <string name="google_login">Google ဖြင့် အကောင့်ဝင်ရန်</string>
+    <string name="goto_accept">အိုကေ</string>
     <string name="guest_account_label">Mi ဧည့်သည်အကောင့်</string>
     <string name="health_action_activate">အသက်သွင်းမည်</string>
     <string name="health_action_install">ထည့်သွင်းမည်</string>
@@ -255,9 +260,11 @@
     <string name="kr_permission_sms_desc">အတည်ပြုကုဒ်အား အော်တို ဖြည့်နိုင်ရန်</string>
     <string name="kr_permission_storage_desc">ချို့ယွင်းမှုပြင်ဆင်ချက်များ သိမ်းဆည်းနိုင်ရန်</string>
     <string name="loading_micloud_sync_data">ခဏစောင့်ပါ…</string>
+    <string name="login_3rd_app_with_system_account">%s သို့ အကောင့်ဝင်ရန်</string>
     <string name="login_check_find_device">စက်လုံခြုံရေးအချက်အလက်များ ရယူနေပါသည်…</string>
     <string name="login_check_find_device_failed_title">စက်လုံခြုံရေးအချက်အလက်များအား မစစ်ဆေးနိုင်ခဲ့ပါ</string>
     <string name="login_find_device_bind">ဤစက်သည် ရှိပြီးသား Mi အကောင့် ID (%s) နှင့် ချိတ်ထားပြီးဖြစ်သည်။</string>
+    <string name="login_with_other">အခြားရွေးစရာများ</string>
     <string name="logout_account">ဆိုင်းအောက်ထွက်မည်</string>
     <string name="logout_failed">ဆိုင်းအောက်ထွက်လို့ မရပါ</string>
     <string name="mi_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
@@ -388,7 +395,6 @@
     <string name="passport_activing_account">အသက်သွင်းနေသည်…</string>
     <string name="passport_adding_account">အကောင့် ပေါင်းထည့်နေသည်…</string>
     <string name="passport_area_code_hot">ကြိမ်ဖန်များစွာအသုံးပြုသော</string>
-    <string name="passport_area_code_others">အခြားရှေ့စာလုံးသုံးပါ</string>
     <string name="passport_area_code_title">နိုင်ငံကုဒ်</string>
     <string name="passport_auto_generate_pwd">လုံခြုံသောစကားဝှက်အား ထုတ်လုပ်</string>
     <string name="passport_back">နောက်သို့</string>
@@ -615,10 +621,14 @@
     <string name="passport_yes">ဟုတ်ပါသည်</string>
     <string name="password_view_hide_password">စကားဝှက်အား ဖျောက်ထားရန်</string>
     <string name="password_view_show_password">စကားဝှက်ပြရန်</string>
+    <string name="permission_desc_read_sms">အတည်ပြုကုဒ်များ အလိုအလျောက်ဖြည့်ရန်</string>
+    <string name="permission_desc_write_external_storage">တုံ့ပြန်အကြံပြုမှုအတွက် မှတ်တမ်းများတင်ရန်</string>
     <string name="permission_group_contacts">အဆက်အသွယ်များ</string>
     <string name="permission_group_phone">ဖုန်း</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">သိုလှောင်ခန်း</string>
+    <string name="permission_read_sms">မက်ဆေ့(ချ်)များဖတ်ရန်</string>
+    <string name="permission_write_external_storage">သိုလှောင်ခန်းတွင် အကြောင်းအရာများကို ဖတ်ရန်နှင့် သိမ်းရန်</string>
     <string name="personal_info_desc">ဓာတ်ပုံ၊ အမည်ပြောင်နှင့် အခြားအရာများ</string>
     <string name="phone_num_use_for">အောက်ပါအတွက် ဖုန်းနံပါတ်ကို သုံးမည်-</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ</string>
@@ -636,6 +646,12 @@
     <string name="recycle_phone_notification_title">Mi အကောင့်လုံခြုံရေး အန္တရာယ်</string>
     <string name="removing_account">ဆိုင်းအောက်ထွက်ပါ…</string>
     <string name="replace_binded_phone">ဖုန်း လဲပါ</string>
+    <string name="request_open_permission">ခွင့်ပြုချက်များ လိုသည်</string>
+    <string name="request_use_camera_message">Mi အကောင့်ကို သင့်ဖုန်းကင်မရာ ဖတ်ခွင့်ပြုလိုသလား။</string>
+    <string name="request_use_camera_title">ကင်မရာဖတ်ခြင်း</string>
+    <string name="request_use_gallery_message">Mi အကောင့်ကို ပြခန်းဖတ်ခွင့်ပြုလိုသလား။</string>
+    <string name="request_use_gallery_title">ပြခန်းသို့ ဝင်ရောက်ခြင်း</string>
+    <string name="request_use_writing_clipboard_message">Mi အကောင့် ID ကို ကူးနိုင်ရန်အတွက် Mi အကောင့်အား အကြောင်းအရာများကို ကလစ်ဘုတ်သို့ ကူးခွင့်ပြုပါ။</string>
     <string name="resend_active_email">ပြန်ပို့ပါ</string>
     <string name="resend_email_reach_limit_message">အတည်ပြုခြင်းအီးမေးလ်အမြောက်အများ တောင်းခံခဲ့သည်။ အတည်ပြုခြင်းအီးမေးလ်မှာ သင့်အီးမေးလ် အမှိုက်စာဖိုလ်ဒါထဲတွင် ရှိမရှိ သေချာအောင်စစ်ကြည့်ပါ။</string>
     <string name="resend_email_reach_limit_title">အီးမေးလ်မပို့နိုင်ပါ</string>
@@ -765,6 +781,10 @@
     <string name="used_cloud_storage_info">%s သုံးထားသည်</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းပါ</string>
     <string name="user_avatar_uploading">ခဏစောင့်ပါ…</string>
+    <string name="user_instruction_all_purpose">Mi အကောင့်မှ ကြိုဆိုပါသည်။ သင့်အကောင့်ကို Xiaomi နှင့် ဆက်စပ်ကုမ္ပဏီများမှ ပံ့ပိုးသော ဝန်ဆောင်မှုများ ဥပမာ - Mi.com၊ Xiaomi ကလောက်နှင့် GetApps တို့ကို ရယူရန် သုံးနိုင်သည်။ Mi ဒင်္ဂါးပြားရယူခြင်း၊ ဗာကျူဝယ်ကုန်ဝယ်ခြင်းနှင့် ဂိမ်းများ၊ အပြင်အဆင်များနှင့် အီလက်ထရောနစ်စာအုပ်များကဲ့သို့ တန်ဖိုးမြှင့်ဝန်ဆောင်မှုများရယူခြင်းတို့ ပြုလုပ်နိုင်သည်။</string>
+    <string name="user_instruction_tip">အကောင့်ဝင်နိုင်ရန် စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="user_license_with_3rd_app">&lt;Data>ကျွန်ုပ်၏ Mi အကောင့်သို့ အကောင့်ဝင်ခြင်းဖြင့် ကျွန်ုပ်သည် &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> အပြင် Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူကြောင်း အတည်ပြုရာရောက်သည်။&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး၍ သဘောတူပါသည်။&lt;/Data></string>
     <string name="vip_account_settings">VIP ဆက်တင်များ</string>
     <string name="vip_settings_info">VIP ဆက်တင်များ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>

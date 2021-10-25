@@ -42,12 +42,6 @@
     <plurals name="clone_guide_tip2">
         <item quantity="other">တစ်ကြိမ်တိုင်းတွင် ပုံတူကူးယူမှု %d အထိ ဖန်တီးနိုင်ပါသည်။</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>ကင်မရာချိတ်မရပါ။&lt;br>&lt;font color=#FFCE16>&lt;b>%1$d စက္ကန့်&lt;/b>&lt;/font> ကြာအတွင်း ဤအက်(ပ်)ပိတ်သွားပါမည်။ ၎င်းနောက် တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>စက်အလွန်ပူနေသည်။&lt;br>&lt;font color=#FFCE16>&lt;b>%1$d စက္ကန့်&lt;/b>&lt;/font> ကြာအတွင်း ဤအက်(ပ်)ပိတ်သွားပါမည်။ လက်ရှိလုပ်ဆောင်ချက်ကို အလိုအလျောက် သိမ်းလိုက်ပါပြီ။&lt;/Data></item>
-    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d မိနစ်</item>
     </plurals>

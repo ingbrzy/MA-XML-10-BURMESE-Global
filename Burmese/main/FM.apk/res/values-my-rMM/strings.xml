@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM ရေဒီယို ဝန်ဆောင်မှု</string>
+    <string name="frequency_mhz_fomart">%sMHZ</string>
+    <string name="notification_rec_title">အသံဖမ်းယူမှုကို ကြည့်ရန် နှိပ်ပါ</string>
+    <string name="record_completed">အသံဖမ်းယူမှု ပြီးမြောက်ပါပြီ</string>
+    <string name="station_freq_format">%sMHz</string>
+</resources>

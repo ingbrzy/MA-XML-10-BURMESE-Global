@@ -10,7 +10,7 @@
     <string name="autoconnect">အလိုအလျောက် ချိတ်ဆက်မည်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="close">ပိတ်</string>
-    <string name="copyright">Copyright</string>
+    <string name="copyright">မူပိုင်ခွင့်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -77,7 +77,7 @@
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="ime_privacy_policy">ကီးဘုတ်ရွေးချယ်ပါ</string>
-    <string name="instruction">Important safety information</string>
+    <string name="instruction">အရေးကြီးသော လုံခြုံရေးအချက်လက်</string>
     <string name="license_host_unreachable">"ကွန်ရက်သို့မချိတ်ဆက်နိုင်ခဲ့ပါ။ ဤအချက်အလက်ကိုယခု ကြည့်ရန် ၊
  အခြားချိတ်ဆက်ထားသော စက်ပေါ်ရှိ %s သို့သွားရောက်ပါ။"</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
@@ -158,9 +158,9 @@
     <string name="poco_privacy_policy">POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ &amp; POCO Launcher အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="policy_name">ပရိုတိုခေါ−%s</string>
     <string name="pre_installed_apps">ကြိုတင်ထည့်သွင်းထားသော အက်ပ်များ</string>
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
     <string name="privacy_station_title">Xiaomi ရှိ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
-    <string name="sar">RF Exposure Information</string>
+    <string name="sar">RF ထိတွေ့မှုသတင်းအချက်လက်</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
@@ -235,9 +235,9 @@
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
-    <string name="user_agreement">Terms of Service</string>
-    <string name="user_experience_program">User Experience Program</string>
-    <string name="user_manual">User guide</string>
+    <string name="user_agreement">ဝန်ဆောင်မှုသတ်မှတ်ချက်များ</string>
+    <string name="user_experience_program">သုံးစွဲသူအတွေ့အကြုံ ပရိုဂရမ်</string>
+    <string name="user_manual">သုံးသူလမ်းညွှန်</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>

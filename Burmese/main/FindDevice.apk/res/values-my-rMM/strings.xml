@@ -9,7 +9,6 @@
     <string name="captcha">ကက်ပ်ချာ</string>
     <string name="change_find_device_status_failed">သော့ဖြေ၍မရနိုင်ခဲ့ပါ။%s</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
-    <string name="close">ပိတ်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -33,10 +32,10 @@
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
-    <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
-    <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
-    <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
-    <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
+    <string name="find_device_capture_done_notification_content">ဓာတ်ပုံကို i.mi.com တွင် ကြည့်ပါ</string>
+    <string name="find_device_capture_done_notification_title">စက်ရှာစနစ်က အဝေးရောက်ဓာတ်ပုံရိုက်ထားပါသည်</string>
+    <string name="find_device_capture_notification_content">ဤစက်ဖြင့် အဝေးရောက်ဓာတ်ပုံရိုက်ရန် တောင်းဆိုချက်ကို သင့်အကောင့်မှ တင်ထားသည်</string>
+    <string name="find_device_capture_notification_title">စက်ရှာဖွေစနစ်က မကြာမီ ဓာတ်ပုံရိုက်ပါတော့မည်</string>
     <string name="find_device_crash">မမျှော်လင့်ဘဲ စက်ရှာဖွေခြင်းပိတ်သွားသည်။</string>
     <string name="find_device_error_access_denied">ဝင်ရောက်ချိတ်ဆက်ရန် ငြင်းဆိုသည်။</string>
     <string name="find_device_error_account_sys_timeout">Mi အကောင့်အား မချိတ်ဆက်နိုင်ခဲ့ပါ</string>
@@ -47,16 +46,14 @@
     <string name="find_device_error_server">ဆာဗာအမှား(%s)</string>
     <string name="find_device_error_unknown">အမည်မသိအမှား(%s)</string>
     <string name="find_device_noise_title">စက်ရှာတွေ့မှု အနှိုးစက်</string>
-    <string name="find_device_notice">သင့်စက်တည်နေရာသိရန်နှင့် ပိတ်ပစ်ရန်၊ ပျောက်တယ်လို့သတ်မှတ်ရန်၊ ဒေတာတွေဖျက်ပစ်ရန် သို့မဟုတ် အဝေးကနေ ပုံလှမ်းယူရန် &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> ဆီသွားပါ။</string>
+    <string name="find_device_notice">စက်ပျောက်ပါက တည်နေရာရှာရန်၊ သော့ချရန် သို့မဟုတ် ဒေတာများကို အဝေးရောက်ဖျက်ရန် &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> သို့ သွားနိုင်သည်။</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">SIM အခြေအနေကို အပ်ပဒိတ်လုပ်ရန်နှင့် ဝန်ဆောင်မှုအားလုံး ကောင်းစွာအလုပ်လုပ်ကြောင်း သေချာစေရန် SIM ကတ် လဲပြီးနောက် &lt;font color=#0097FF>&lt;b>ငွေကြေးကုန်ကျမှုရှိသော စာသားမက်ဆေ့(ချ်)တစ်စောင်&lt;/b>&lt;/font> ကို ပို့ပေးပါမည်။ ၎င်းမက်ဆေ့(ချ်)အတွက် ကုန်ကျစရိတ်ကို ဖုန်းလိုင်းကုမ္ပဏီက သင့်ထံမှ ကောက်ယူပါမည်။</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">SIM အခြေအနေကို အပ်ပဒိတ်လုပ်ရန်နှင့် ဝန်ဆောင်မှုအားလုံး ကောင်းစွာအလုပ်လုပ်ကြောင်း သေချာစေရန် SIM ကတ် လဲပြီးနောက် &lt;font color=#0097FF>&lt;b>ငွေကြေးကုန်ကျမှုရှိသော ပြည်တွင်း စာသားမက်ဆေ့(ချ်)တစ်စောင်&lt;/b>&lt;/font> ကို ပို့ပေးပါမည်။ ၎င်းမက်ဆေ့(ချ်)အတွက် ကုန်ကျစရိတ်ကို ဖုန်းလိုင်းကုမ္ပဏီက သင့်ထံမှ ကောက်ယူပါမည်။</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">SIM အခြေအနေကို အပ်ပဒိတ်လုပ်ရန်နှင့် ဝန်ဆောင်မှုအားလုံး ကောင်းစွာအလုပ်လုပ်ကြောင်း သေချာစေရန် SIM ကတ် လဲပြီးနောက် &lt;font color=#0097FF>&lt;b>ငွေကြေးကုန်ကျမှုရှိသော နိုင်ငံတကာ စာသားမက်ဆေ့(ချ်)တစ်စောင်&lt;/b>&lt;/font> ကို ပို့ပေးပါမည်။ ၎င်းမက်ဆေ့(ချ်)အတွက် ကုန်ကျစရိတ်ကို ဖုန်းလိုင်းကုမ္ပဏီက သင့်ထံမှ ကောက်ယူပါမည်။</string>
     <string name="find_device_stop_noise">အသံတိတ်ရန် အိုကေကို ထိပါ</string>
-    <string name="find_device_storage_corrupted">ပျက်စီးသွားသော စက်သိုလှောင်မှုအား ရှာဖွေပါ။ သင့်စက်သည်ယခုမလုံခြုံပါ။</string>
-    <string name="find_device_success_title">စက်ကိုရှာပါကို ဖွင့်ထားသည်</string>
+    <string name="find_device_storage_corrupted">စက်ရှာဖွေစနစ်သိုလှောင်ခန်း ပျက်သွားပါသည်။ သင့်စက်မလုံခြုံတော့ပါ။</string>
+    <string name="find_device_success_title">စက်ရှာဖွေစနစ်ပွင့်နေသည်</string>
     <string name="find_device_telephony_fault">စက်ရှာဖွေပါ−တယ်လီဖုန်းဆိုင်ရာအမှား(%s)။</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
@@ -72,11 +69,7 @@
     <string name="fmt_date_short_month_day">MM/dd</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">MM/dd/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -95,18 +88,8 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
@@ -197,7 +180,6 @@
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
-    <string name="send">ပို့ပါ</string>
     <string name="stop_on_empty_captcha">ကက်ပ်ချာ ကွက်လပ်ဖြစ်၍မရပါ</string>
     <string name="stop_on_empty_password">စကားဝှက် လွတ်နေ၍မရပါ</string>
     <string name="sunday">တနင်္ဂနွေ</string>

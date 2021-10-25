@@ -29,6 +29,7 @@
     <string name="dual_app_title">နှစ်ခုတွဲအက်ပ်</string>
     <string name="dual_app_words">အကောင့်တိုင်းအတွက် အက်ပ်ကိုယ်စီ</string>
     <string name="early_morning">နံနက်</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -206,7 +207,6 @@
     <string name="gb_pannel_control_mode_power_saving">ပါဝါ ချွေတာမည်</string>
     <string name="gb_weixinpay_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
     <string name="gdpr_msg">&lt;Data>လုံခြုံရေးဆိုင်ရာ အခြေခံအထူးအစီအစဉ်များကို အသုံးပြုနိုင်ရန်အတွက် လုံခြုံရေးဆိုင်ရာ အထူးအစီအစဉ်များ (ဥပမာ - မိုဘိုင်းဒေတာအသုံးပြုမှု ကိန်းဂဏန်းများ၊ အန္တရာယ်ရှိသောဆော့ဖ်ဝဲ၊ သင့်စက်ဖြင့်သက်ဆိုင်သော အခြေခံအချက်အလက်များ) နှင့် ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တွင် အသေးစိတ် ဖော်ပြထားသည့် အခြားသော အချက်အလက်အမျိုးအစားများကို သင်အသုံးပြုပုံများနှင့်သက်ဆိုင်သည့် အချက်အလက်များအပါအဝင် သင်၏ ကိုယ်ရေးအချက်အလက်များအား Xiaomi က စုဆောင်း၊ စီမံ၊ အသုံးပြုသွားမည်ဆိုသည်ကို သင်သဘောတူရပါမည်။&lt;/Data></string>
-    <string name="hybrid_provider">%1$sမှ ထောက်ပံ့ထားသော</string>
     <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">ဟုန်ပေါင်း</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
@@ -283,7 +283,6 @@
     <string name="net_booster_overdue_notification_tip">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်။ သက်တမ်းတိုးလိုပါသလား။</string>
     <string name="network_not_available">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="night">ညနေ</string>
-    <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="ok_button">အိုကေ</string>
@@ -391,9 +390,6 @@
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
-    <string name="web_sso_login_fail">သင် ထပ်မံ ဆိုင်းအင်ဝင်ရန် လိုအပ်သည်</string>
-    <string name="web_sso_login_message">ဆိုင်းအင်ဝင်နေဆဲ…</string>
-    <string name="webview_reload">ထပ်ကြိုးစား</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
