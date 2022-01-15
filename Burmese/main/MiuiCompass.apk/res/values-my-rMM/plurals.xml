@@ -27,6 +27,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">စာမျက်နှာ %d ကို ကြည့်နေသည်</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
@@ -50,5 +53,8 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">စုစုပေါင်း %d မျက်နှာ</item>
     </plurals>
 </resources>

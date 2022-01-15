@@ -24,6 +24,7 @@
     <string name="calibrate_success">စံချိန်ကိုက်ညှိပြီးပြီ</string>
     <string name="calibrate_tip">စက်ဝန်းပတ်လည်တွင် ဘောလုံးလိမ့်နေစေရန်၊ သင့်ကိရိယာကို တိမ်းစောင်းပေးပါ</string>
     <string name="calibrate_title">သံလိုက်အိမ်မြှောင်ကို စံချိန်ကိုက်ညှိပါ</string>
+    <string name="calibrating">သံလိုက်အိမ်မြှောင်ကို စံချိန်ညှိနေသည်</string>
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
@@ -196,6 +197,7 @@
     <string name="month_september_shortest">စက်တင်ဘာ</string>
     <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
+    <string name="new_cta_app_purpose">လမ်းညွှန်များနှင့် ကိုသြဒိနိတ်များကြည့်ရန်</string>
     <string name="new_cta_v2_app_purpose">လမ်းညွှန်များ၊ ကိုသြဒိနိတ်များ၊ လေထုဖိအားနှင့် လက်ရှိပင်လယ်ရေမျက်နှာပြင်အမြင့်တို့ကို ပြသခြင်း</string>
     <string name="new_permission_camera_desc">စံချိန်ညှိရန်</string>
     <string name="new_permission_location_desc">ကိုသြဒိနိတ်များ ပြသရန်</string>
@@ -206,6 +208,7 @@
     <string name="open_perm_msg">သံလိုက်အိမ်မြှောင်သည် တည်နေရာအချက်အလက်နှင့် ကင်မရာသို့ ဝင်ရောက်ခွင့် လိုအပ်သည်။ ကိုသြဒီနိတ်ဆုံးဖြတ်ရန်နှင့် တိုက်ရိုက်ကြည့်ရှုမှုများအတွက် ဖြစ်သည်။ ခွင့်ပြုမလား?</string>
     <string name="open_perm_msg_no_camera">သံလိုက်အိမ်မြောင်သည် ကိုသြဒီနိတ်ကို ဆုံးဖြတ်နိုင်ရန် တည်နေရာအချက်အလက်ကို မျှဝေရန်လိုပါသည်။ ခွင့်ပြုပါသလား။</string>
     <string name="open_perm_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="pageIndicator">%1$s. %2$s။</string>
     <string name="permission_camera_desc">တိုက်ရိုက်အစမ်းကြည့်ရှုမှုတစ်ခုတွင် azimuth ပြသခြင်းအတွက်</string>
     <string name="permission_description">ခွင့်ပြုချက်အသေးစိတ်</string>
     <string name="permission_location_desc">ကိုသြဒိနိတ်မျဥ်း ပြသခြင်းအတွက်</string>

@@ -198,12 +198,12 @@
     <string name="noon">မွန်းတည့်</string>
     <string name="operation_delete">ဖျက်ပစ်မည်</string>
     <string name="operation_send">ပေးပို့</string>
-    <string name="permission_desc">Permissions details</string>
+    <string name="permission_desc">ခွင့်ပြုချက်အသေးစိတ်</string>
     <string name="permission_intro_microphone">အသံသွင်းသောအခါ အသံအား မိုက်ခရိုဖုန်းမှ ဖမ်းနိုင်ရန်</string>
     <string name="permission_intro_storage">မျက်နှာပြင် မှတ်တမ်းတင်မှုအား သိမ်းနိုင်ရန်</string>
     <string name="permission_microphone_desc">မိုက်ခရိုဖုန်းများကို မျက်နှာပြင်ရိုက်ကူးခြင်းခြင်း၏ အသံအရင်းအမြစ်အဖြစ် အသုံးပြုဖြင်း</string>
     <string name="pm">ညနေ</string>
-    <string name="privacy_settings">Privacy</string>
+    <string name="privacy_settings">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="quit_recording">မျက်နှာပြင်ရီကော်တာမှ ထွက်မည်</string>
     <string name="recording_failure">မှတ်တမ်း မတင်နိုင်ခဲ့ပါ၊ ပြန်လည်စတင်ပါ</string>
     <string name="recording_max_size">ဗီဒီယိုဖိုင်သည် ကြီးလွန်းသောကြောင့် အသံဖမ်းယူခြင်း ရပ်တန့်သွားသည်။ အသံဖမ်းယူခြင်း မပြီးဆုံးသေးပါက ရပ်တန့်သောနေရာမှ ပြန်လည်စတင်နိုင်ပါသည်။</string>
@@ -221,7 +221,7 @@
     <string name="send">ပို့ပါ</string>
     <string name="settings">ဆက်တင်</string>
     <string name="settings_other">အခြား</string>
-    <string name="settings_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="settings_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="show_hard_key">လမ်းညွှန်ခလုတ်များအား မြင်အောင်လုပ်ပါ</string>
     <string name="show_hard_key_new">ခလုတ်တုံးများပြရန်</string>
     <string name="show_hard_key_summary">ဟုမ်း၊မီနူး၊နောက်သို့စသည့်ခလုတ်များကို နှိပ်စဉ် အချက်ပြပါ</string>
@@ -303,7 +303,7 @@
     <string name="uninstall_warning_title">မျက်နှာပြင်ဗီဒီယိုဖမ်းစနစ်ကို ပြန်ဖြုတ်လိုသလား။</string>
     <string name="using_record_confirm_cancel">ကန့်သတ်မည်</string>
     <string name="using_record_confirm_ok">ခွင့်ပြုမည်</string>
-    <string name="view_privacy">View Privacy Policy</string>
+    <string name="view_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="view_recorded_file">မှတ်တမ်းယူထားသောဖိုင်ကို ကြည့်ရန် တို့ပါ</string>
     <string name="view_recorded_videos">မှတ်တမ်းတင်မှုကို ကြည့်ရန်</string>
     <string name="warning_recording_when_a2dp_connect">ဘလူးတုသ်နားကြပ် သုံးနေစဥ် စနစ်ထဲရှိ အသံများအား အသံသွင်း၍ မရပါ။</string>

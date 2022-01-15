@@ -138,7 +138,6 @@
     <string name="clipboard_read_ai_deny_once">%1$s အတွက် ကလစ်ဘုတ်ကို ဝင်ခွင့် ကန့်သတ်ထားသည်</string>
     <string name="clipboard_read_allow_once">%1$s သည် ကလစ်ဘုတ်ရှိ အကြောင်းအရာများကို ဖတ်ထားသည်</string>
     <string name="clipboard_read_deny_dialog_title">%1$s အတွက် ကလစ်ဘုတ်ကို ဝင်ခွင့် ကန့်သတ်ထားသည်</string>
-    <string name="close">ပိတ်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -330,7 +329,6 @@
     <string name="screen_overlay_button">ဆက်တင်မျာအား ဖွင့်ပါ</string>
     <string name="screen_overlay_message">ဤခွင့်ပြုချက်အား ပြောင်းလဲရန် ဆက်တင်များ > အက်ပ်များတွင်တစ်ဆင့်ခံမျက်နှာပြင်အား ဦးစွာပိတ်ရမည်။</string>
     <string name="screen_overlay_title">တစ်ဆင့်ခံမျက်နှာပြင် ထောက်လှမ်းမိ</string>
-    <string name="send">ပို့ပါ</string>
     <string name="size_byte">ဘိုက်</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">ကီလိုဘိုက်</string>

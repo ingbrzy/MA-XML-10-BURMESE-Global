@@ -206,8 +206,8 @@ EE"</string>
     <string name="my_style_title">ကျွန်ုပ်၏ အပြင်အဆင်များ</string>
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
-    <string name="notification_anim_pulse">သွေးခုန်နှုန်း</string>
-    <string name="notification_anim_rhythm">ရစ်သမ်</string>
+    <string name="notification_anim_pulse">လိုင်း (အနီ)</string>
+    <string name="notification_anim_rhythm">လိုင်း (အပြာ)</string>
     <string name="notification_anim_star">ကြယ်အလင်းရောင်</string>
     <string name="notification_nothing">တစ်ခုမျှ မလုပ်ပါ</string>
     <string name="notification_screen_on">မျက်နှာပြင် အလင်းရောင်ထတောက်ခြင်း</string>
@@ -260,6 +260,7 @@ EE"</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
     <string name="temporary_style">မျက်နှာပြင်အား ထိနှိပ်ပြီးနောက် ၁၀ စက္ကန့် လင်းမည်</string>
+    <string name="temporary_style_5">တို့ပြီး ၅ စက္ကန့်ခန့်</string>
     <string name="temporary_style_summary">အကြံပြုထားသည်</string>
     <string name="text_color">စာလုံးအရောင်</string>
     <string name="text_length_exceed_limit_alert">*ထည့်ထားသောစာသား အလွန်ရှည်သည်</string>

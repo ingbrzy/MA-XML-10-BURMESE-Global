@@ -121,6 +121,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="day">ရက်</string>
@@ -377,6 +378,7 @@
     <string name="midnight">ည</string>
     <string name="missing_name">(အမည်မရှိ)</string>
     <string name="missing_required_permission">လိုအပ်သော ခွင့်ပြုချက်အား သင် ကန့်သတ်ထားသည်။</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -700,6 +702,7 @@
     <string name="talk_back_read_date">%1$s (တရုတ်ရိုးရာပြက္ခဒိန် အရ- %2$s)။</string>
     <string name="talk_back_setting">ဆက်တင်</string>
     <string name="talk_back_tab_switch">မြင်ကွင်းများ အကြား ကူးပြောင်းမည်</string>
+    <string name="talk_back_tab_switch_language">ပြက္ခဒိန် ဘာသာစကား ရွေးပါ</string>
     <string name="talkback_bengali">ဘင်္ဂါလီ</string>
     <string name="talkback_english">အင်္ဂလိပ်</string>
     <string name="talkback_gujarati">ဂူဂျရတီ</string>

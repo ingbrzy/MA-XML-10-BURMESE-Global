@@ -208,7 +208,7 @@
     <string name="category_folder">ဖိုလ်ဒါ</string>
     <string name="category_installed_app">ထည့်သွင်းထားသော အက်ပ်များ</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">မျက်နှာပြင် အပေါ်ပိုင်းသို့ အိုင်တမ် ၃ မှ ၇ ခုအထိ ရွှေ့နိုင်သည်</string>
+    <string name="category_move_limit_notice">မျက်နှာပြင်အပေါ်ပိုင်းတွင် အကြောင်းအရာ %1$d မှ %2$d ထိ ရွှေ့နိုင်သည်</string>
     <string name="category_music">သီချင်း</string>
     <string name="category_other">အခြား</string>
     <string name="category_photo">ဓာတ်ပုံများ</string>
@@ -305,6 +305,9 @@
     <string name="contextmenu_webpage_snapshot">ပေ့ဂျ်အား သိမ်းဆည်း</string>
     <string name="copy_url">URL ကို ကူးပါ</string>
     <string name="could_not_load_data">ဒေတာ မရယူနိုင်ပါ၊ ပြန်လန်းဆန်းစေပြီး ထပ်ကြိုးစားကြည့်ပါ</string>
+    <string name="crash_page_button">ထပ်လုပ်ကြည့်ပါ</string>
+    <string name="crash_page_description">ဤဝက်ဘဆိုက်ကိုပြသစဉ် အမှားအယွင်းရှိသည်။</string>
+    <string name="crash_page_title">တင်မရပါ။</string>
     <string name="create_qr_code">QR ကုဒ်</string>
     <string name="current_version_pad">Pad</string>
     <string name="current_version_pc">ဒက်စတော့</string>
@@ -363,7 +366,7 @@ ID -
     <string name="download_btn_select_none">အားလုံးကို မရွေးပါနှင့်</string>
     <string name="download_business_app_new_version">ဤအက်ပ်၏ နောက်ဆုံးဗားရှင်းကို ထည့်သွင်းပြီးသား ဖြစ်သည်</string>
     <string name="download_business_app_update_install">အသစ်မွမ်းမံမှု ထည့်သွင်းရန် အသင့်ဖြစ်ပါပြီ။</string>
-    <string name="download_business_v5_edit_mode_title_empty">၀ခု ရွေးထားသည်</string>
+    <string name="download_business_v5_edit_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="download_change_dir">ဖိုလ်ဒါ ပြောင်းမည်</string>
     <string name="download_complete">အောင်မြင်စွာ ဒေါင်းလုတ်လုပ်ခဲ့သည်</string>
     <string name="download_completed">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -384,7 +387,7 @@ ID -
     <string name="download_dialog_failed_body">ဒေါင်းလုဒ်တန်းစီထားခြင်းမှ ဤဖိုင်အား ဖယ်ရှားမလား သို့မဟုတ် နောက်မှ ပြန်ကြိုးစားမလား?</string>
     <string name="download_dialog_file_already_exists">ဤဖိုင်အား ဒေါင်းလုဒ်လုပ်ပြီးပြီ</string>
     <string name="download_dialog_file_length_hint_txt">"ဖိုင်အရွယ်အစား-: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">1KB ထက်နည်းသည်</string>
+    <string name="download_dialog_file_length_lessthan1kb">%1$dKB အောက်</string>
     <string name="download_dialog_file_length_nolength_error_txt">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="download_dialog_file_length_nolength_txt">ခဏစောင့်ပါ…</string>
     <string name="download_dialog_file_missing_body">ဖိုင်အား မတွေ့ပါ။ ပြောင်းရွှေ့လိုက်ပါသလား သို့မဟုတ် ဖျက်လိုက်ပါသလား?</string>
@@ -591,6 +594,8 @@ ID -
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="game_center_recommend_play">ကစားရန်</string>
+    <string name="game_center_recommend_title">သင့်အတွက် အကြံပြုထားသည်</string>
     <string name="game_played">မကြာသေးမီက</string>
     <string name="geolocation_permissions_prompt_dont_share">ငြင်းဆို</string>
     <string name="geolocation_permissions_prompt_message">%s မှသင့်တည်နေရာအား သိလိုပါသည်</string>
@@ -701,9 +706,9 @@ ID -
     <string name="lockpattern_need_to_unlock_wrong">ထပ်လုပ်ကြည့်ပါ</string>
     <string name="lockpattern_pattern_confirmed_header">ဤသည်မှာ သင့်သော့ဖွင့်ပုံစံဖြစ်သည် -</string>
     <string name="lockpattern_pattern_entered_header">ပြီးပါပြီ။</string>
-    <string name="lockpattern_recording_incorrect_too_short">ထပ်လုပ်ကြည့်ပါ။ အနည်းဆုံး အစက် ၄ စက်ကို ဆက်ဆွဲပါ။</string>
+    <string name="lockpattern_recording_incorrect_too_short">ထပ်လုပ်ကြည့်ပါ။ အနည်းဆုံး အစက် %1$d စက် ဆက်ပါ။</string>
     <string name="lockpattern_recording_inprogress">ပုံစံပြီးလျှင် လက်လွှတ်ပေးပါ</string>
-    <string name="lockpattern_recording_intro_header">အနည်းဆုံး အစက် ၄ စက်ကို ဆက်ဆွဲပါ</string>
+    <string name="lockpattern_recording_intro_header">အနည်းဆုံး အစက် %1$d စက် ဆက်ပါ</string>
     <string name="lockpattern_retry_button_text">ပြန်သတ်မှတ်ရန်</string>
     <string name="login_failed_toast">ဆိုင်းအင်မဝင်နိုင်ခဲ့ပါ၊ ပြန်လန်းဆန်းပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="login_or_register">သို့မဟုတ်</string>
@@ -714,7 +719,7 @@ ID -
     <string name="make_private_msg_1">ဤဖိုင်အားဝှက်မည်လား?</string>
     <string name="make_private_msg_2">ဤဖိုင်များအား ဝှက်မည်လား?</string>
     <string name="max_tabs_warning">နောက်ထပ်တက်ဘ် မဖွင့်နိုင်တော့ပါ</string>
-    <string name="maximum_input_alert">အက္ခရာအရေအတွက် ၂၀၄၈လုံးထက်ပိုရိုက်၍မရပါ</string>
+    <string name="maximum_input_alert">အက္ခရာ %1$d လုံးထက် ပိုထည့်မရပါ</string>
     <string name="menu_addtodesk">အိမ်မျက်နှာပြင်သို့ ပေါင်းထည့်ပါ</string>
     <string name="menu_exit_nightmode">ထွက်ရန်</string>
     <string name="menu_hv_swap">V/A မျက်နှာပြင်</string>
@@ -1218,7 +1223,7 @@ ID -
     <string name="pf_guide_msg_if_has_downloading">လက်ရှိဒေါင်းလုဒ်လုပ်ဆဲအရာများကို တစ်ကိုယ်ရေသီးသန့်ဖိုဒါသို့ ထည့်မရပါ</string>
     <string name="pf_move_out">တစ်ကိုယ်ရေသီးသန့်ဖိုဒါမှ ဖယ်ရှားရန်</string>
     <string name="pf_move_out_dialog_btn_confirm">ဖယ်ရှားရန်</string>
-    <string name="pf_move_out_dialog_content">ဖယ်ရှားလိုက်သောအရာများကို ၎င်းတို့၏ မူလနေရာတွင် သိမ်းပါမည်။</string>
+    <string name="pf_move_out_dialog_content">ဖြုတ်လိုက်သောအရာများကို လတ်တလောဖိုင်များတွင် ပြသပါမည်။</string>
     <string name="pf_move_out_dialog_title">တစ်ကိုယ်ရေသီးသန့်ဖိုဒါမှ ဖယ်ရှားနေသည်</string>
     <string name="pf_toast_add_success">တစ်ကိုယ်ရေသီးသန့်ဖိုဒါသို့ အောင်မြင်စွာ ရွှေ့ပြီးပါပြီ</string>
     <string name="phone">အတွင်းသိုလှောင်ခန်း</string>
@@ -1508,7 +1513,7 @@ ID -
     <string name="rlv_pull_to_refresh">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
     <string name="rlv_refreshing">ပြန်လန်းဆန်းနေ…</string>
     <string name="rlv_release_to_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
-    <string name="rlz_access_point">Y1</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">တစ်ခုမှမရှိ</string>
     <string name="router_download_exist">ဤဖိုင်မှာ တည်ရှိနေပြီးဖြစ်သည်</string>
     <string name="router_download_failed">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
@@ -1558,7 +1563,7 @@ ID -
     <string name="search_file_type_video">ဗီဒီယို</string>
     <string name="search_google">Google</string>
     <string name="search_hint">ရှာ​ဖွေ</string>
-    <string name="search_s139">139</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">ဝက်ဘ်မှတ်တမ်းနှင့်စာအုပ်မှတ်များ</string>
     <string name="search_shipin">ဗီဒီယို</string>
     <string name="search_sm">SM</string>
@@ -1853,8 +1858,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">%1$s အနက် %2$s သုံးထားပြီး</string>
     <string name="vpn_detail_guide1">ချိတ်ဆက်မှုမြန်စေရန် ဆာဗာအားလုံးကို သော့ဖွင့်ပါ</string>
     <string name="vpn_detail_guide2">နောက်ထပ်ဝက်ဘဆိုက်များကို ဝင်နိုင်ရန် VPN ကို စာရင်းသွင်းရယူပါ</string>
-    <string name="vpn_detail_guide3">သွားလာခွင့် ကုန်ခါနီးပါပြီ။ ၁၂-လ ပလန်ကို စမ်းကြည့်ပါ။ ရွေးချယ်စရာများအကြောင်း လေ့လာရန် တို့ပါ။</string>
-    <string name="vpn_detail_guide4">သွားလာခွင့် ကုန်ပါပြီ။ ၁၂-လ ပလန်ကို စမ်းကြည့်ပါ။ ရွေးချယ်စရာများအကြောင်း လေ့လာရန် တို့ပါ။</string>
+    <string name="vpn_detail_guide3">သွားလာခွင့် ကုန်ခါနီးပါပြီ။ %1$d-လ ပလန်ကို စမ်းကြည့်ပါ။ ရွေးချယ်စရာများအကြောင်း လေ့လာရန် တို့ပါ။</string>
+    <string name="vpn_detail_guide4">သွားလာခွင့် ကုန်ပါပြီ။ %1$d-လ ပလန်ကို စမ်းကြည့်ပါ။ ရွေးချယ်စရာများအကြောင်း လေ့လာရန် တို့ပါ။</string>
     <string name="vpn_detail_guide5">သွားလာခွင့် ကုန်ခါနီးပါပြီ။</string>
     <string name="vpn_detail_guide6">သွားလာခွင့် ကုန်ပါပြီ။</string>
     <string name="vpn_detail_subscribe">စာရင်းသွင်းရယူရန်</string>
@@ -1885,7 +1890,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">အလုပ်လုပ်ပုံ</string>
     <string name="whatsapp_intro_dialog_title">အင်္ဂါရပ် အသစ်</string>
     <string name="whatsapp_no_status_tips">ဤနေရာတွင် ဓာတ်ပုံသို့မဟုတ် ဗီဒီယိုများ မရှိသေးပါ။ သင့် WhatsApp အခြေအနေ အပ်ပဒိတ်များကို ကြည့်ပြီး ဤနေရာသို့ ပြန်လာပါ။</string>
-    <string name="whatsapp_principle_page_message">WhatsApp သည် သင်ရှာကြည့်သော ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ကွယ်ဝှက်ဖိုဒါတစ်ခုသို့ သိမ်းပေးသည်။ ၎င်းအရာများသည် ၂၄ နာရီကျော်လျှင် ပျောက်သွားသည်။ ၎င်းတို့ကို သိမ်းရန် Mi ဘရောက်ဇာကို သုံးနိုင်ပါပြီ။</string>
+    <string name="whatsapp_principle_page_message">WhatsApp သည် သင်ရှာကြည့်သော ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ကွယ်ဝှက်ဖိုဒါတစ်ခုသို့ သိမ်းပေးသည်။ ၎င်းအရာများသည် %1$d နာရီကျော်လျှင် ပျောက်သွားသည်။ ၎င်းတို့ကို သိမ်းရန် Mi ဘရောက်ဇာ သုံးနိုင်ပါပြီ။</string>
     <string name="whatsapp_principle_page_title">Mi ဘရောက်ဇာသုံးပြီး WhatsApp အခြေအနေများမှ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို သိမ်းနိုင်သည်</string>
     <string name="whatsapp_principle_step_1">WhatsApp ရှိ \"အခြေအနေ\" တဘ်မှ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ရှာကြည့်ပါ။</string>
     <string name="whatsapp_principle_step_2">၎င်းတို့ကို သိမ်းရန် ဤနေရာသို့ ပြန်လာပါ။</string>

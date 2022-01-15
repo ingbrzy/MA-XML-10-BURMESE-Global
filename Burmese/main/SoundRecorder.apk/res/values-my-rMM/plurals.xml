@@ -93,6 +93,9 @@
     <plurals name="search_result">
         <item quantity="other">မှတ်တမ်း %d ခု ရှာတွေ့ထားသည်</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">အသံသွင်းဖိုင် အသစ် %d ခု</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d ရက် ကျန်ပါသည်</item>
     </plurals>

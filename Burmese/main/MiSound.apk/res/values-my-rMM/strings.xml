@@ -29,6 +29,9 @@
     <string name="dolby_dax_setting">Dolby အထူးပြုလုပ်ချက်များ</string>
     <string name="dolby_dax_title">ပတ်လည်အသံ</string>
     <string name="early_morning">နံနက်</string>
+    <string name="effect_3dsurround">ပတ်ပတ်လည်အသံ</string>
+    <string name="effect_3dsurround_summary">နားကြပ်များနှင့် စပီကာများအတွက် အသံပြန်ထုတ်ခြင်း အတိမ်အနက်ကိုမြှင့်ရန်</string>
+    <string name="effect_3dsurround_summary_headphone">နားကြပ်များအတွက် အသံပြန်ထုတ်ခြင်း အတိမ်အနက်ကိုမြှင့်ရန်</string>
     <string name="empty" />
     <string name="end_wireless_transmission">ရပ်ရန်</string>
     <string name="eq_auto">ကိုယ်တိုင်စီစဉ်မည်</string>
@@ -74,7 +77,7 @@
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_short_year_month_day">yyyy, MMM d</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -92,12 +95,12 @@
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_millis">"S'မီလီစက္ကန့်'"</string>
+    <string name="fmt_time_minute">"m'မိနစ်'"</string>
+    <string name="fmt_time_minute_second">"m'မိနစ်' s'စက္ကန့်'"</string>
+    <string name="fmt_time_minute_second_millis">"m'မိနစ်' s.S'စက္ကန့်'"</string>
+    <string name="fmt_time_second">"s'စက္ကန့်'"</string>
+    <string name="fmt_time_second_millis">"s.S'စက္ကန့်'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>

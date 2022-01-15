@@ -10,6 +10,7 @@
     <string name="alert_message_delete_record">သင်စက်မှ ဤမှတ်တမ်းတင်မှုကို ဖျက်ခြင်းသည် Xiaomi Cloud မှ ဤမှတ်တမ်းတင်မှုကိုလည်း ဖျက်ပစ်ပါမည်။ ယခု ဖျက်မလား။</string>
     <string name="alert_message_delete_record_title">အသံဖမ်းယူမှုကို ဖျက်ပစ်မလား။?</string>
     <string name="all_record">အသံသွင်းမှုအားလုံး</string>
+    <string name="allowed">ခွင့်ပြုထားသည်</string>
     <string name="am">နံနက်</string>
     <string name="app_name">ရီကော်တာ</string>
     <string name="app_record">အက်(ပ်)အသံသွင်းခြင်းများ</string>
@@ -148,6 +149,7 @@
     <string name="head_set_tip_dialog_ok">နားလည်ပါပြီ</string>
     <string name="head_set_tip_dialog_title">အတွင်းမိုက်ကို အသုံးပြုပါ</string>
     <string name="invalid_argument">ဘောင်မဝင်သော ငြင်းဆိုမှု</string>
+    <string name="invisible_mode_error_tip">မိုက်ခရိုဖုန်းသုံးနိုင်ရန် ဆက်တင်တွင် ရုပ်ဖျက်မုဒ်ကို ပိတ်ပါ</string>
     <string name="keywords_search_call_record">ခေါ်ဆိုမှုများအား မှတ်တမ်းတင်၊ ခေါ်ဆိုမှုအား ရီကော့လုပ်၊ ခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်း၊ ခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်းများ</string>
     <string name="keywords_search_record">မှတ်တမ်းအသစ်၊ မှတ်တမ်းပေါင်းထည့်၊ရီကောဒင်း၊ရီကောဒင်းများ၊မှတ်တမ်း၊မှတ်တမ်းများ၊ရီကော်တာ၊စကားပြောရီကော်တာ၊အသံရီကော်တာ၊ရီကော်တာ အက်ပ်၊ ရီကောဒင်းအက်ပ်၊အမည်သို့ မှတ်တမ်းတင်မည်နည်း၊ အသံတစ်ခုအား မည်သို့မှတ်တမ်းတင်မည်နည်း၊ ရီကော်တာ ဘယ်မှာလဲ၊MIUI ရီကော်တာ</string>
     <string name="keywords_search_record_list">ရီကော်တာ၊မှတ်တမ်း၊မှတ်တမ်းများ၊မှတ်တမ်းတင်၊မှတ်တမ်းအား ဝေမျှ၊မှတ်တမ်းများအား ဝေမျှ၊မှတ်တမ်းတင်နေသည်၊မှတ်တမ်းများ</string>
@@ -172,6 +174,7 @@
     <string name="mi_account_ok">ဆိုင်းအင်ဝင်မည်</string>
     <string name="mi_account_title">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="midnight">ည</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -252,6 +255,7 @@
     <string name="no_records">ဤနေရာတွင် မှတ်တမ်းများ မရှိသေးပါ</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="normal_settings_pref_title">အထွေထွေ ဆက်တင်</string>
+    <string name="not_allowed">ခွင့်မပြုထားပါ</string>
     <string name="notification_message_all_paused">Wi-Fiချိတ်ဆက်မှုကို စောင့်နေသည်။</string>
     <string name="notification_playback">ဖွင့်ထားဆဲ…</string>
     <string name="notification_recording">အသံဖမ်းယူနေဆဲ…</string>
@@ -295,6 +299,15 @@
     <string name="pay_error_cancel">ပေးချေမှုအား ပယ်ဖျက်ခဲ့သည်</string>
     <string name="pay_error_null">ပေးချေမှု မပြီးဆုံးပါ။ သင့်အကောင့်အား စစ်ဆေးပါ။</string>
     <string name="pay_error_unknown">အမည်မသိ အမှား</string>
+    <string name="permission_desc">ခွင့်ပြုချက်အသေးစိတ်</string>
+    <string name="permission_dialog_cancel">မလုပ်တော့ရန်</string>
+    <string name="permission_dialog_ok">ဆက်တင်များ</string>
+    <string name="permission_record">အသံသွင်းရန်</string>
+    <string name="permission_record_description">အသံသွင်းဝန်ဆောင်မှုများပေးရန်</string>
+    <string name="permission_storage">သိုလှောင်ခန်း ဖတ်ရန်</string>
+    <string name="permission_storage_description">အသံသွင်းဖိုင်များကို စီမံခန့်ခွဲရန်နှင့် ကလောက်မှဒေါင်းလုဒ်လုပ်ရန်</string>
+    <string name="permission_storage_description_for_download">အသံသွင်းဖိုင်များကို ကလောက်မှဒေါင်းလုဒ်လုပ်ရန်</string>
+    <string name="permission_storage_description_for_manage_files">အသံသွင်းဖိုင်များကို စီမံခန့်ခွဲရန်</string>
     <string name="play_speed">%1$.1f X အြမန်နူန်း</string>
     <string name="playback_delete_records">အသံဖမ်းယူမှုကို ဖျက်ပစ်ပါ</string>
     <string name="playback_share_records">အသံဖမ်းယူခြင်းကိုမျှဝေပါ</string>
@@ -315,6 +328,8 @@
     <string name="preference_status_bar_indicator_prompt">အသံဖမ်းစဉ် သော့ချမျက်နှာပြင်တွင် အပြာရောင်အညွှန်းကို ပြသရန်</string>
     <string name="preference_tip_rename">အသံဖမ်းယူထားသည်များကို ကိုယ်တိုင် အမည်ပြန်ပေးပါ</string>
     <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_settings">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
+    <string name="progress">ပြန်ဖွင့်ခြင်း တိုးတက်မှုဘားတန်း</string>
     <string name="recognition_button_add_to_queue">တန်းစီစာရင်းသို့ ထည့်ရန်</string>
     <string name="recognition_button_cancel">ယခုမထည့်ပါ</string>
     <string name="recognition_button_start">စာသားပြောင်းရန်</string>
@@ -382,6 +397,7 @@
     <string name="record_mark_point">အမှတ် %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">မိုက်ခရိုဖုန်းခွင့်ပြုချက်များ လိုအပ်သည်</string>
     <string name="record_quliaty_preference_title">အသံဖမ်း အရည်အသွေး</string>
     <string name="record_resotre">အသံသွင်းမှု ပြန်လည်ရယူပါ</string>
     <string name="recorder_record">အော်ဒီယို</string>
@@ -414,6 +430,11 @@
     <string name="rename_no_more_tip">ထပ်မံ မပြပါနှင့်</string>
     <string name="retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="runtime_permission_ungranted">မှတ်တမ်းတင်သူအား အာမခံမရှိသော ခွင့်ပြုချက်များကြောင့် အသုံးပြု၍မရနိုင်ပါ</string>
+    <string name="saf_permission_dialog_content">Android အကန့်အသတ်များကြောင့် ရီကော်တာသည် အခြားအက်(ပ်)များမှ သွင်းထားသော အသံသွင်းဖိုင်များကို ဖတ်ရန်လိုသည်။ ရီကော်တာအား အသံသွင်းဖိုင်များကို ကြည့်နိုင်ရန် ဖတ်ခွင့်ပြုပါ။</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">ဆက်တင်များ</string>
+    <string name="saf_permission_dialog_later">မလိုအပ်ပါ</string>
+    <string name="saf_permission_dialog_no_more_tip">ထပ်မပြပါနှင့်</string>
+    <string name="saf_permission_dialog_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
@@ -431,6 +452,7 @@
     <string name="search_tip_rename">အသံဖမ်းယူထားသည်များကို ကိုယ်တိုင် အမည်ပြန်ပေးပါ</string>
     <string name="send">ပို့ပါ</string>
     <string name="service_instructions">iflyrec.com အကြောင်း</string>
+    <string name="settings_saf_permission">ဖိုင်စီမံခန့်ခွဲရေးခွင့်ပြုချက်များ</string>
     <string name="share">မျှဝေခြင်း</string>
     <string name="share_dialog_title">သုံးပြီး မျှဝေပါ</string>
     <string name="shortcut_records">အသံဖမ်းယူမှုများ</string>
@@ -450,6 +472,7 @@
     <string name="status_bar_back">ရီကော်တာသို့ ပြန်သွားရန် နှိပ်ပါ</string>
     <string name="status_bar_recording">အသံဖမ်းယူနေဆဲ…</string>
     <string name="status_bar_recording_pause">ရီကော်တာကို တန့်ရပ်ပြီးပြီ</string>
+    <string name="storage_permission_dialog_title">သိုလှောင်ခန်းခွင့်ပြုချက်များ လိုအပ်သည်</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
@@ -536,6 +559,7 @@
     <string name="uninstall_warning_title">ရီကော်တာကို ပြန်ဖြုတ်လိုသလား။</string>
     <string name="usage_description">ကလောက်ဖြင့် အသံကို စာပြန်ရိုက်ခြင်းနှင့် အရာဝတ္ထုများ ဆင့်(ခ်)လုပ်ခြင်း</string>
     <string name="user_feedback">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="view_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="webview_check_network">ကွန်ရက် ဆက်တင်</string>
     <string name="webview_data_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="webview_locating_fail">သင့်တည်နေရာကို ရှာမတွေ့ပါ</string>

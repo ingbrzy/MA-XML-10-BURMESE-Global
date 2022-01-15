@@ -79,10 +79,14 @@
     <string name="device_status_success">အောင်မြင်စွာ ပို့ပြီးပါပြီ</string>
     <string name="device_status_waiting">စောင့်နေသည်…</string>
     <string name="device_type_pc">ကွန်ပျူတာ</string>
+    <string name="disable_nfc">ကြိုးမဲ့အားသွင်းရန် NFC ကို ပိတ်ထားသည်</string>
+    <string name="disable_nfc_reverse">ကြိုးမဲ့အားသွင်းရန် ပြောင်းခြင်းအတွက် NFC ကို ပိတ်ထားသည်</string>
     <string name="eighthours">၈ နာရီ</string>
     <string name="enable_livetalk_summary">သင့်ဖုန်းခေါ်ဆိုများ၏70%အား ခ​ျွေတာပါ</string>
     <string name="enable_livetalk_title">ငွေဖြည့်ကဒ်အား ဖွင့်ပါ</string>
     <string name="enable_midrop">ဖွင့်ရန်</string>
+    <string name="enable_nfc">အားမသွင်းတော့ပါ။ NFC ပြန်ပွင့်ပါပြီ။</string>
+    <string name="enable_nfc_reverse">အားသွင်းရန် မပြောင်းတော့ပါ။ NFC ပြန်ပွင့်ပါပြီ။</string>
     <string name="fc_dialog_body">စိစစ်မှုများပြုလုပ်နိုင်ရန် Mi သို့ အစီရင်ခံစာပေးပို့မလား? ဤအစီရင်ခံစာတွင် ကိုယ်ရေးဆိုင်ရာအချက်အလက်များ ပါဝင်နိုင်ပါသည်။ သင့်အစီရင်ခံစာသည် ဤချွတ်ယွင်းမှုအား ဖြေရှင်းရာ၌ အထောက်အကူပြုနိုင်သည်၊ စီပွားရေးဆိုင်ရာအကြောင်းအရာများအား မျှဝေမည်မဟုတ်ပါ။</string>
     <string name="fc_dialog_jump_to_preview">ဝက်ဘ်ကြည့်ရှုခြင်း အနှစ်ချုပ်</string>
     <string name="file_cannot_print">ဤအရာကို ပရင့်ထုတ်မရပါ။</string>
@@ -159,7 +163,6 @@
     <string name="open_close_tip_content">မျောလွင့်အကွက်ကို ပိတ်ရန် အက်ရှင်ဘားကိုထိ၍ ဖိထားပြီး အပေါ်သို့ ပွတ်ဆွဲပါ</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="other_ime">အခြားကီးဘုတ်များ</string>
     <string name="package_delete_confirm_step_1">%s အား ဖြုတ်ချမလား?</string>
     <string name="package_delete_confirm_step_2">ဤအက်ပ်ကို ဖြုတ်ပစ်ပါက သင့်စနစ်အား မတည်မငြိမ်ဖြစ်စေနိုင်သည်။</string>
     <string name="package_delete_confirm_step_3">ဤအက်ပ်ဖြုတ်ပြီးနောက် ပြန်ဖွင့်၍ရတော့မည် မဟုတ်ပါ။</string>

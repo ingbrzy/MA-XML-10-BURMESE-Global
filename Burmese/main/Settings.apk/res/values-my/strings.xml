@@ -757,6 +757,14 @@
     <string name="bluetooth_battery_level_untethered">L− ဘက်ထရီ %1$s၊ R− ဘက်ထရီ %2$s</string>
     <string name="bluetooth_broadcasting">ထုတ်လွှင့်ခြင်း</string>
     <string name="bluetooth_confirm_passkey_msg">:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>များနှင့်တွဲချိတ်စေရန် &lt;br>&lt;b>%2$s&lt;/b>ဖြတ်သန်းခွင့်ကီးပြသစေရန် သေချာပါစေ</string>
+    <string name="bluetooth_connect_access_dialog_content">"%1$s က ဤဖုန်းကို ချိတ်ဆက်လိုသည်။
+
+သင်သည် %2$s ကို ယခင်က မချိတ်ဆက်ဖူးပါ။"</string>
+    <string name="bluetooth_connect_access_dialog_negative">မချိတ်ဆက်ပါနှင့်</string>
+    <string name="bluetooth_connect_access_dialog_positive">ချိတ်ဆက်ရန်</string>
+    <string name="bluetooth_connect_access_dialog_title">ဘလူးတုသ်သုံးစက်ကို ချိတ်ဆက်မလား။</string>
+    <string name="bluetooth_connect_access_notification_content">စက်တစ်ခုက ချိတ်ဆက်လိုသည်။ အသေးစိတ်အချက်အလက်များအတွက် တို့ပါ။</string>
+    <string name="bluetooth_connect_access_notification_title">ဘလူးတုသ်သုံးစက် ရနိုင်သည်</string>
     <string name="bluetooth_connect_failed">ချိတ်ဆက်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="bluetooth_connect_specific_profiles_title">ကိုချိတ်ဆက်ရန်</string>
     <string name="bluetooth_connected">%1$s ချိတ်ဆက်ပြီးပြီ</string>
@@ -853,6 +861,11 @@
     <string name="bluetooth_max_connected_audio_devices_dialog_title">ချိတ်ဆက်ထားနိုင်သည့် ဘလူးတုသ် ချိတ်ဆက်နိုင်သည့် အများဆုံးအရေအတွက်ကို ရွေးပါ</string>
     <string name="bluetooth_max_connected_audio_devices_string">ဘလူးတုသ်စက်ပစ္စည်း အများဆုံးချိတ်ဆက်ထားနိုင်သည့် အရေအတွက်</string>
     <string name="bluetooth_menu_advanced">အဆင့်မြင့်</string>
+    <string name="bluetooth_message_access_dialog_content">"ဘလူးတုသ်သုံးစက် %1$s က သင်၏ မက်ဆေ့ဂျ်များသို့ ဝင်ခွင့်ရလိုသည်။
+
+သင်သည် %2$s ကို ယခင်က မချိတ်ဆက်ဖူးပါ။"</string>
+    <string name="bluetooth_message_access_dialog_title">မက်ဆေ့ဂျ်များကို အသုံးပြုခွင့်ပေးမလား။</string>
+    <string name="bluetooth_message_access_notification_content">စက်က သင်၏ မက်ဆေ့ဂျ်များသို့ ဝင်ခွင့်ရလိုသည်။ အသေးစိတ်အချက်အလက်များအတွက် တို့ပါ။</string>
     <string name="bluetooth_middle_name">နားကြပ်အိတ်</string>
     <string name="bluetooth_name_not_set">မည်သည့်အမည်မှ သတ်မှတ်မထားပါ။ အကောင့်အမည်သုံးပါမည်။</string>
     <string name="bluetooth_no_devices_found">အနီးအနားတွင် မည်သည့်ဘလူးတုသ်စက်မှမရှိပါ</string>
@@ -890,6 +903,11 @@
     <string name="bluetooth_pan_user_profile_summary_connected">အင်တာနက် ချိတ်ထားသည်</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s သည် သင့်အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းကို အသုံးပြုလိုပါသည်။ %2$s ကို အသုံးပြုခွင့်ပေးလိုပါသလား။</string>
     <string name="bluetooth_pb_remember_choice">နောက်ထပ်မမေးပါနှင့်</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"ဘလူးတုသ်သုံးစက် %1$s က သင်၏ အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှတ်တမ်းသို့ ဝင်ခွင့်ရလိုသည်။ ၎င်းတွင် အဝင်နှင့် အထွက်ခေါ်ဆိုမှုများဆိုင်ရာ ဒေတာ ပါဝင်သည်။
+
+သင်သည် %2$s ကို ယခင်က မချိတ်ဆက်ဖူးပါ။"</string>
+    <string name="bluetooth_phonebook_access_dialog_title">အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းသို့ ဝင်ခွင့်ပေးမလား။</string>
+    <string name="bluetooth_phonebook_access_notification_content">စက်က သင်၏ အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းသို့ ဝင်ခွင့်ရလိုသည်။ အသေးစိတ်အချက်အလက်များအတွက် တို့ပါ။</string>
     <string name="bluetooth_phonebook_request">ဖုန်းလိပ်စာစာအုပ်သုံးစွဲခွင့်တောင်းခံခြင်း</string>
     <string name="bluetooth_pin_values_hint">ပုံမှန်အားဖြင့် 0000 သို့မဟုတ် 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">ဂဏန်း ၁၆ လုံး ရှိရမည်</string>
@@ -960,6 +978,12 @@
     <string name="bluetooth_show_devices_without_names_summary">အမည်မရှိသော (MAC လိပ်စာများသာပါသော) ဘလူးတုသ်စက်ပစ္စည်းများကို ပြသပါမည်</string>
     <string name="bluetooth_show_files_received_via_bluetooth">ဘလူးတုသ်မှ ရရှိသော ဖိုင်များ</string>
     <string name="bluetooth_show_received_files">လက်ခံရရှိထားသော ဖိုင်များ</string>
+    <string name="bluetooth_sim_card_access_dialog_content">"ဘလူးတုသ်သုံးစက် %1$s က သင့်ဆင်းမ်ကတ်ရှိ ဒေတာကို သုံးခွင့်ရလိုသည်။ ၎င်းတွင် သင်၏ အဆက်အသွယ်များ ပါဝင်သည်။
+
+ချိတ်ဆက်ထားစဉ် %3$s သို့ ခေါ်ဆိုမှုအားလုံးကို %2$s က လက်ခံရရှိမည်။"</string>
+    <string name="bluetooth_sim_card_access_dialog_title">ဆင်းမ်ကတ်ကို သုံးခွင့်ပြုမလား။</string>
+    <string name="bluetooth_sim_card_access_notification_content">စက်တစ်ခုက သင့်ဆင်းမ်ကတ်ကို သုံးခွင့်ရလိုသည်။ အသေးစိတ်အချက်အလက်များအတွက် တို့ပါ။</string>
+    <string name="bluetooth_sim_card_access_notification_title">ဆင်းမ်ကတ်သုံးခွင့် တောင်းဆိုချက်</string>
     <string name="bluetooth_talkback_bluetooth">ဘလူးတုသ်</string>
     <string name="bluetooth_talkback_computer">ကွန်ပျူတာ</string>
     <string name="bluetooth_talkback_headphone">နားကြပ်</string>
@@ -2236,6 +2260,7 @@
     <string name="legal_information">ဥပဒေဆိုင်ရာအချက်အလက်များ</string>
     <string name="license_title">လိုင်စင်</string>
     <string name="lift_to_wake_title">နှိုးပေးဖို့ မ’ယူရန်</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="live_caption_summary">အလိုအလျောက် စာတန်းထိုးရန်</string>
     <string name="live_caption_title">တိုက်ရိုက်စာတန်းထိုး</string>
     <string name="load_networks_progress">ရှာဖွေနေသည်…</string>
@@ -2557,6 +2582,7 @@
     <string name="memory_summary">ယာယီမှတ်ဉာဏ် %2$s မှ ပျှမ်းမျှ %1$s ကိုအသုံးပြုထားသည်</string>
     <string name="memory_usage">မှတ်ဉာဏ် သုံးစွဲမှု</string>
     <string name="memory_usage_apps">အက်ပ်များမှ အသုံးပြုသော မှတ်ဉာဏ်</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s လွန်ခဲ့သော ၃ နာရီအတွင်း သုံးသည့် ပျမ်းမျှ မှတ်ဉာဏ်</string>
     <string name="menu_cancel">ဖယ်ပစ်ရန်</string>
     <string name="menu_delete">APNကိုဖျက်မည်</string>
@@ -2712,6 +2738,7 @@
     <string name="nfc_how_it_works_got_it">ရပါပြီ</string>
     <string name="nfc_how_it_works_title">ငွေချေစက်တွင် ငွေပေးချေခြင်း</string>
     <string name="nfc_more_title">နောက်ထပ်...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">မူရင်းအဖြစ် သတ်မှတ်ရန်</string>
     <string name="nfc_payment_btn_text_update">အပ်ဒိတ်လုပ်ရန်</string>
     <string name="nfc_payment_default">ငွေချေရန် မူရင်းသတ်မှတ်ခြင်း</string>
@@ -2945,6 +2972,7 @@
     <string name="overlay_settings_title">"'ဆက်တင်များ' ပေါ် ဖန်သားပြင်ထပ်ဆင့်ပြခွင့်ပြုခြင်း"</string>
     <string name="overlay_toast_failed_to_apply">ထပ်ပိုးလွှာထည့်၍ မရပါ</string>
     <string name="owner_info_settings_edit_text_hint">ဥပမာ၊ Joe ၏ Android</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">မရှိ</string>
     <string name="owner_info_settings_title">လော့ခ်စကရင်တွင် စာသားထည့်ခြင်း</string>
     <string name="packages_subtitle">ပါဝင်သော ဆော့ဝဲလ်များ</string>
@@ -3022,6 +3050,7 @@
     <string name="power_remaining_less_than_duration_only">%1$s အောက် ကျန်သည်</string>
     <string name="power_remaining_more_than_subtext">%1$s အထက် (%2$s) ကျန်သည်</string>
     <string name="power_remaining_only_more_than_subtext">%1$s အထက် ကျန်သည်</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">ဖန်သားပြင်</string>
     <string name="power_suggestion_battery_run_out">%1$s တွင် ဘက်ထရီကုန်သွားနိုင်သည်</string>
     <string name="power_unaccounted">အထွေထွေ အကြောင်းအရာများ</string>
@@ -3135,6 +3164,8 @@
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS ဝန်ဆောင်ပေးသူအမည်ကို ထည့်ပါ</string>
     <string name="process_dex2oat_label">အက်ပ်ပိုမိုကောင်းအောင်ပြုခြင်း</string>
+    <string name="process_format">%1$s ( %2$d )</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_provider_in_use_description">%1$s ပံ့ပိုးသူမှ အသုံးပြုနေသည်</string>
     <string name="process_service_in_use_description">%1$sဝန်ဆောင်မှုအား အသုံးပြုနေသည်</string>
@@ -3214,6 +3245,7 @@
     <string name="remove_device_admin">ဤစက်၏ စီမံအက်ပ်ကို ပိတ်ရန်</string>
     <string name="remove_managed_profile_label">အလုပ်ပရိုဖိုင် ဖယ်ရှားရန်</string>
     <string name="repeat_title">ထပ်လုပ်ရန်</string>
+    <string name="request_manage_bluetooth_permission_dont_allow">ခွင့်မပြုပါ</string>
     <string name="reset_app_preferences">အက်ပ်သတ်မှတ်ချက်များ ပြန်လုပ်ရန်</string>
     <string name="reset_app_preferences_button">အက်ပ်ပြန်လည်သတ်မှတ်ရန်</string>
     <string name="reset_app_preferences_desc">"၎င်းက အောက်ပါတို့အတွက် သတ်မှတ်ချက်အားလုံးကို ပြင်ဆင်သတ်မှတ်ပါမည်-
@@ -3722,6 +3754,7 @@
     <string name="sim_select_card">ဆင်းမ် ကဒ်ကို ရွေးရန်</string>
     <string name="sim_selection_channel_title">ဆင်းမ် ရွေးချယ်ရန်</string>
     <string name="sim_selection_required_pref">ရွေးချယ်ရန် လိုအပ်</string>
+    <string name="sim_settings_summary">အမည် %1$s နံပါတ်%2$s</string>
     <string name="sim_settings_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_setup_wizard_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -3781,6 +3814,7 @@
     <string name="standby_bucket_summary">အက်ပ်ကို အရန်သင့်ထားရှိခြင်း အခြေအနေ- %s</string>
     <string name="starting_android">Android စနေစဉ်…</string>
     <string name="status_awake_time">ပြန်ပွင့်မည်အချိန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="status_bt_address">ဘလူးတုသ်လိပ်စာ</string>
     <string name="status_data_network_type">မိုဘိုင်းဒေတာ ကွန်ရက် အမျိုးအစား</string>
     <string name="status_data_state">မိုဘိုင်းကွန်ရက်အခြေအနေ</string>
@@ -4017,6 +4051,7 @@
     <string name="sum_carrier_select">ကွန်ယက်ဝန်ဆောင်မှုကို ရွေးချယ်ပါ</string>
     <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
     <string name="summary_divider_text">"၊ "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s မှ %2$s</string>
     <string name="summary_separator">" / "</string>
     <string name="support_summary">အကူအညီ ဆောင်းပါးများ၊ ဖုန်းနှင့် ချတ်၊ စတင်ရန်</string>
@@ -5180,8 +5215,10 @@
     <string name="zen_suggestion_title">"'မနှောင့်ယှက်ရ' ကို အပ်ဒိတ်လုပ်ခြင်း"</string>
     <string name="zone_auto_title">ကွန်ရက်က ဖော်ပြထားသောအချိန်ဇုန်ကို သုံးရန်</string>
     <string name="zone_change_to_from_dst">%1$s သည် %2$s တွင် စတင်ပါသည်။</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">%1$s ကို အသုံးပြုသည်။ %2$s သည် %3$s တွင် စတင်ပါမည်။</string>
     <string name="zone_info_footer_no_dst">%1$s ကို အသုံးပြုသည်။ စံတော်ချိန်ထက် တစ်နာရီ စောထားသော အချိန် မရှိပါ။</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">UTC အော့ဖ်ဆက်အလိုက် ရွေးရန်</string>
     <string name="zone_menu_by_region">ဒေသအလိုက် ရွေးရန်</string>
     <string name="zone_time_type_dst">ဆောင်းရာသီ စံတော်ချိန်</string>

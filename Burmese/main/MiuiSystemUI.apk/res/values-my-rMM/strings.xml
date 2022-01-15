@@ -21,7 +21,6 @@
     <string name="accessibility_keyguard_face_unlock_view">မျက်နှာဖြင့် လော့ခ်ဖြည်ခြင်း</string>
     <string name="accessibility_left_control_center_button">ရှော့ကဒ်</string>
     <string name="accessibility_left_lock_screen_magazine_button">နောက်ခံပုံ လှည့်ပြခြင်း</string>
-    <string name="accessibility_left_xmyzl_button">Xiaomi မှော်ထိန်းချုပ်စနစ်</string>
     <string name="accessibility_manual_zen_less_time">အချိန် လျော့ပါ။</string>
     <string name="accessibility_manual_zen_more_time">အချိန် တိုးပါ။</string>
     <string name="accessibility_no_wifi">Wi-Fi နှင့် ချိတ်ဆက်မှု ပြတ်သွားသည်။</string>
@@ -216,7 +215,6 @@
     <string name="category_personal">ကိုယ်ရေးကိုယ်တာ</string>
     <string name="category_work">အလုပ်</string>
     <string name="charge_length_format">%1$s အကြာက</string>
-    <string name="choose_clock_dual_clock_hint_text">နှစ်ခုတွဲ နာရီကို ဖွင့်ထားစဉ် ပုံစံပြောင်း၍ မရပါ</string>
     <string name="choose_clock_panel_title">သော့ချမျက်နှာပြင် အပြင်အဆင်</string>
     <string name="choose_clock_third_theme_hint_text">လက်ရှိသုံးထားသော အပြင်အဆင်မှ သော့ချမျက်နှာပြင်</string>
     <string name="choose_clock_title_left_top">ဘယ်အပေါ်</string>
@@ -279,9 +277,6 @@
     <string name="development_settings_not_available">ဤသုံးစွဲသူသည် ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများကို အသုံးပြု၍မရပါ</string>
     <string name="development_settings_summary">အက်ပ်ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများ သတ်မှတ်ပါ</string>
     <string name="development_settings_title">ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများ</string>
-    <string name="device_locked_without_biometric">ပြင်ပပါတီ မျက်နှာပြင်သော့ကို သုံးချိန်တွင် ဤစက်ကို လက်ဗွေ သို့မဟုတ် မျက်နှာဒေတာနှင့် သော့ဖွင့်မရပါ။</string>
-    <string name="device_locked_without_biometric_face">ပြင်ပပါတီ မျက်နှာပြင်သော့ကို သုံးချိန်တွင် ဤစက်ကို မျက်နှာဒေတာနှင့် သော့ဖွင့်မရပါ။</string>
-    <string name="device_locked_without_biometric_finger">ပြင်ပပါတီ မျက်နှာပြင်သော့ကို သုံးချိန်တွင် ဤစက်ကို လက်ဗွေနှင့် သော့ဖွင့်မရပါ။</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">မှတ်ချက် - စက်ပြန်ဖွင့်ပြီးနောက် သင့်စက်ကို သော့မဖွင့်မချင်း ဤအက်(ပ်)က စတင်မည်မဟုတ်ပါ။</string>
     <string name="disable_overlays">HW ထပ်ဆင့်လွှာအား ပိတ်မည်</string>
@@ -325,7 +320,6 @@
     <string name="face_unlock_pin_and_fingerprint">သော့ဖွင့်ရန် ပင်နံပါတ်ထည့်ပါ သို့မဟုတ် လက်ဗွေသုံးပါ</string>
     <string name="face_unlock_reveal_eye">သင့်မျက်စိကို မြင်နိုင်စေပါ</string>
     <string name="face_unlock_reveal_mouth">သင့်နှုတ်ခမ်းကို မြင်နိုင်စေပါ</string>
-    <string name="face_unlock_success">အောင်မြင်စွာသော့ဖွင့်ပြီးပါပြီ</string>
     <string name="failed_to_open_app_settings_toast">%1$s အတွက် ဆက်တင်ကို ဖွင့်၍မရပါ</string>
     <string name="fingerprint_add_text">လက်ဗွေအင်တာဖေ့စ်အား အပ်ဒိတ်လုပ်ထားသည်။သင်၏ လက်ဗွေကို ပြန်ပေါင်းထည့်ပါ။</string>
     <string name="fingerprint_add_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
@@ -352,7 +346,6 @@
     <string name="fs_gesture_back_ready_title">နောက်သို့သွားပါ</string>
     <string name="fs_gesture_final_over">ပြီးပါပြီ</string>
     <string name="fs_gesture_final_restart">နောက်တစ်ကြိမ်</string>
-    <string name="fs_gesture_final_see_more">အခြားအစမ်းသုံးများကို ဆက်တင် > ပင်မမျက်နှာပြင် > စနစ်အညွှန်းတွင် ကြည့်ပါ</string>
     <string name="fs_gesture_final_summary">ဆက်တင် > မျက်နှာပြင်အပြည့် ပြသမှုတွင် ပြောင်းလဲနိုင်သည်</string>
     <string name="fs_gesture_final_title">စတင်ရန် အသင့်ဖြစ်နေပြီ။</string>
     <string name="fs_gesture_finish">ပြီးပါပြီ။</string>
@@ -367,6 +360,28 @@
     <string name="guest_nickname">ဧည့်သည်</string>
     <string name="gxzw_area">လက်ဗွေ စကန်နာ</string>
     <string name="gxzw_press_harder">အားနှင့်ဖိထားပါ</string>
+    <string name="gxzw_quick_close">ပိတ်ရန်</string>
+    <string name="gxzw_quick_open_add_event">အချိန်ဇယား ပေါင်းထည့်မည်</string>
+    <string name="gxzw_quick_open_add_event_sub">ပြက္ခဒိန်</string>
+    <string name="gxzw_quick_open_alipay_pay">ပေးချေမှု ကုဒ်</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
+    <string name="gxzw_quick_open_alipay_scan">စကန်နာ</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
+    <string name="gxzw_quick_open_qr_code">QR ကုဒ်</string>
+    <string name="gxzw_quick_open_qr_code_sub">စကန်နာ</string>
+    <string name="gxzw_quick_open_search">ရှာဖွေရန်</string>
+    <string name="gxzw_quick_open_search_sub">ဘရောက်ဇာ</string>
+    <string name="gxzw_quick_open_skip_teach">ကျူတိုရီရယ်အား ကျော်သွားမည်</string>
+    <string name="gxzw_quick_open_title">ပွင့်နေသော ဖြတ်လမ်းသင်္ကေတမီနူး</string>
+    <string name="gxzw_quick_open_wechat_pay">ပေးချေမှု ကုဒ်</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">စကန်နာ</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_title1">သင် ဖွင့်လိုသော အက်ပ်၏ အမည်ကို ပြောပါ</string>
+    <string name="gxzw_quick_open_xiaoai_title2">သင် သုံးလိုသော အင်္ဂါရပ်၏ အမည်ကို ပြောပါ</string>
+    <string name="gxzw_quick_tip_press">ဆက်လက် ဖိထားပါ…</string>
+    <string name="gxzw_quick_tip_slide">လက်မလွှတ်ဘဲ အပေါ်သို့ ပွတ်ဆွဲပြီး ရွေးပါ။</string>
     <string name="gxzw_try_again">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="gxzw_try_more_again">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="gxzw_use_password">စကားဝှက်ဖြင့် လော့ခ်ဖြည်ပါ</string>
@@ -400,15 +415,13 @@
     <string name="input_lockscreen_password_hint_text">စကားဝှက်ထည့်ပါ</string>
     <string name="input_lockscreen_pattern_hint_text">သော့ဖွင့်ပုံစံဆွဲပါ</string>
     <string name="input_lockscreen_pin_hint_text">PIN ထည့်ပါ</string>
-    <string name="input_password_after_boot_msg">စက်ကို ရီဘုလုပ်ချိန်တွင် စကားဝှက်ထည့်ရန်လိုသည်။</string>
+    <string name="input_password_after_boot_msg">သင့်စက်အား လော့ခ်ဖြည်ရန် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် နေရာနှစ်ခုအကြား ကူးပြောင်း၍မရပါ</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">မိဘ ထိန်းချုပ်မှုအား ဖွင့်ထားပါက နေရာတစ်ခုနှင့်တစ်ခုကြား ကူးပြောင်း၍ မရပါ</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Ultra ဓာတ်ခဲချွေတာခြင်းကို ဖွင့်ထားစဉ် နေရာတစ်ခုနှင့် တစ်ခုအကြား ပြောင်းမရပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်အားရီဘုလုပ်ပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_hint_text">စကားဝှက် ရိုက်ထည့်ပါ</string>
-    <string name="input_pattern_after_boot_msg">စက်ကို ရီဘုလုပ်ချိန်တွင် သော့ဖွင့်ပုံစံဆွဲရန်လိုသည်။</string>
     <string name="input_pattern_hint_text">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ</string>
-    <string name="input_pin_after_boot_msg">စက်ကို ရီဘုလုပ်ချိန်တွင် PIN ထည့်ရန်လိုသည်။</string>
     <string name="input_pin_code">PIN ရိုက်ထည့်ပါ</string>
     <string name="input_puk_code">PUK ရိုက်ထည့်ပါ</string>
     <string name="install_other_apps">အမည်မသိ အက်ပ်များအား ထည့်သွင်းမည်</string>
@@ -420,7 +433,6 @@
     <string name="keyboard_key_space">စပေ့(စ်)ဘား</string>
     <string name="keyguard_charging_back_to_lockscreen">သော့ခတ်မျက်နှာပြင်သို့ ပြန်သွားပါ</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
-    <string name="keyguard_charging_double_fast_and_level_tip">အားသွင်းနှုန်းကို %s မြှင့်နေသည်</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">မနေ့က %s</string>
@@ -508,7 +520,7 @@ EEEE"</string>
     <string name="mock_location_app">ဆားဗစ်အတု တည်နေရာအက်ပ်ကို ရွေးပါ</string>
     <string name="mock_location_app_not_set">ဆားဗစ်အတု တည်နေရာအက်ပ် မသတ်မှတ်ရသေးပါ</string>
     <string name="mock_location_app_set">ဆားဗစ်အတု တည်နေရာအက်ပ်- %1$s</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">ခေါ်ဆိုနေစဉ်အတွင်း သတ်မှတ်၍ မရပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">မရှိ</string>
     <string name="notification_control_center">အသိပေးချက်များနှင့် ထိန်းချုပ်စင်တာ</string>
     <string name="notification_group_collapse_button_text">ခေါက်ထားပါ</string>
@@ -519,7 +531,6 @@ EEEE"</string>
     <string name="open_camera_hint_text">ကင်မရာဖွင့်ရန် သင်္ကေတပုံကို ဖိဆွဲပါ</string>
     <string name="open_lock_screen_magazine_hint_text">နောက်ထပ် ရွေးချယ်မှုများအတွက် ညာသို့ ပွတ်ဆွဲပါ</string>
     <string name="open_remote_center_hint_text">ထိန်းချုပ်မှုများကို ကြည့်ရန် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
-    <string name="open_xmyzl_hint_text">Xiaomi မှော်ထိန်းချုပ်စနစ်ကို ဖွင့်ရန် ညာသို့ ပွတ်ဆွဲပါ</string>
     <string name="osu_completing_sign_up">မှတ်ပုံတင်ခြင်း ပြီးဆုံးပါပြီ</string>
     <string name="osu_connect_failed">ချိတ်ဆက်၍ မရပါ</string>
     <string name="osu_opening_provider">%1$s အား ဖွင့်နေသည်</string>
@@ -533,7 +544,7 @@ EEEE"</string>
     <string name="phone_locked_foget_password_method_content">&lt;Data>ဓာတ်ပုံများနှင့် အဆက်အသွယ်များအပါအဝင် သင့်စက်ရှိ&lt;font color=#a5220e>ဒေတာအားလုံးကို ဖျက်ပြီး&lt;/font> သော့ချမျက်နှာပြင်စကားဝှက်အသစ်တစ်ခု သတ်မှတ်ရပါမည်။&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">နောက်တစ်ဆင့်</string>
     <string name="phone_locked_foget_password_ok">နားလည်ပါပြီ</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>စက်ကို ပါဝါပိတ်ပြီး &lt;font color=#e6e6e6>[Power]&lt;/font> နှင့် &lt;font color=#e6e6e6>[အသံ +]&lt;/font> ခလုတ်တို့ကို until you see &lt;img src=\"\"> မြင်သည်အထိ ထိပြီး ဖိထားရပါမည်။</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>သင့်စက်ကို ပါဝါပိတ်ပြီး၊ &lt;font color=#a5220e>ပါဝါခလုတ် &lt;/font> နှင့် &lt;font color=#a5220e>အသံမြှင့်ခလုတ် &lt;/font>ကို Mi လိုဂိုတွေ့သည်အထိ တစ်ပြိုင်တည်းဖိနှိပ်ထားပါ။&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>ရွေးချယ်မည် &lt;font color=#a5220e>\"ရှင်းလင်းမည် &amp;amp; ပြန်လည်သတ်မှတ်မည်\"&lt;/font> စက်ပိတ်ပြီးပြန်ဖွငိ့ခြင်းကို စောင့်မည်&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ဒေတာအား မည်သို့ဖျက်မည်နည်း?</string>
     <string name="phone_locked_string">ဤစက်ကို လော့ခ်ချထားသည်</string>
@@ -566,6 +577,7 @@ EEEE"</string>
     <string name="private_dns_mode_provider">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည်</string>
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">ကိုယ်ပိုင် DNS ပံ့ပိုးသူ အမည် ရိုက်ထည့်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ချိတ်မရပါ။ စက်ကို ပိတ်ပြီး ပြန်ဖွင့်ပါ</string>
     <string name="profile_info_settings_title">ပရိုဖိုင်အချက်အလက်</string>
     <string name="qs_control_big_tile_state_closed">ပိတ်ရန်</string>
@@ -608,7 +620,7 @@ EEEE"</string>
     <string name="quick_settings_papermode_label">ဖတ်ရှုမုဒ်</string>
     <string name="quick_settings_powermode_label">လုပ်ဆောင်ရည်မုဒ်</string>
     <string name="quick_settings_quietmode_label">မနှောင့်ယှက်ပါနှင့်</string>
-    <string name="quick_settings_rotationlock_label">သော့ခတ်အနေအထား</string>
+    <string name="quick_settings_rotationlock_label">ဖုန်းလည်ပတ်မှုအား ပိတ်ထားသည်</string>
     <string name="quick_settings_screenbutton_label">ခလုတ်များ</string>
     <string name="quick_settings_screenlock_label">သော့ခတ်မျက်နှာပြင်</string>
     <string name="quick_settings_screenshot_label">မျက်နှာပြင်ရိုက်ချက်</string>
@@ -670,8 +682,6 @@ EEEE"</string>
     <string name="show_screen_updates_summary">Surface အပ်ဒိတ်လုပ်နေပါက မျက်နှာပြင်တစ်ခုလုံးကို ဖလက်ရှ်လုပ်ပါ</string>
     <string name="show_touches">ထိနှိပ်မှုကို ပြပါ</string>
     <string name="show_touches_summary">ထိနှိပ်မှုအတွက် မြင်နိုင်သော တုံ့ပြန်ချက် ပြပါ</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>&lt;font color=#e6e6e6>[Power]&lt;/font> နှင့် &lt;font color=#e6e6e6>[Volume +]&lt;/font> ခလုတ်များကို buttons until you see &lt;img src=\"\"> မြင်သည်အထိ ထိပြီးဖိထားပါ။</Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>&lt;font color=#e6e6e6>[ဒေတာဖျက်ရန်]&lt;/font> ကို ရွေးပြီး &lt;font color=#e6e6e6>[Reboot]&lt;/font> ကို တို့ပါ။</Data></string>
     <string name="sim_state_locked_dialog_title">SIM ကဒ် မမှန်ပါ</string>
     <string name="sim_state_locked_puk_dialog_message">မမှန်ကန်သော PUK ကုဒ်အား အနည်းဆုံးအားဖြင့် %d ကြိမ်မျှ သင်ထည့်သွင်းခဲ့ပါသည်။ ယခုအခါတွင် သင်၏ SIM ကဒ်ကို သုံး၍မရတော့ပါ။ ဤ SIM ကဒ်နေရာတွင် အခြားကဒ်တစ်ခုဖြင့် အစားထိုးပါ။</string>
     <string name="simulate_color_space">အရောင်ကို တူအောင်ဖန်တီးသည်</string>

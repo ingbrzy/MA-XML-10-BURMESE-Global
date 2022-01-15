@@ -30,6 +30,16 @@
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$sနာရီ %2$s"</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">အက္ခရာစပေ့ကို လျှော့ထားသည်။ အက္ခရာစပေ့ %s။</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">အက္ခရာစပေ့ကို တိုးထားသည်။ အက္ခရာစပေ့ %s။</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"အန်နီမေးရှင်းများအတွက် ပြန်ဖွင့်ခြင်းသည် %d စက္ကန့်ထက် မကျော်ရပါ။
+ထိုထက်ပိုရှည်သော အန်နီမေးရှင်းများက ဤနေရာတွင် ရပ်သွားပါမည်။"</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">%d ခု ရွေးထားပါသည်</item>
     </plurals>
@@ -50,6 +60,12 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">ယခုလေးတင်</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">လိုင်းစပေ့ကို တိုးထားသည်။ လိုင်းစပေ့ %s။</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">လိုင်းစပေ့ကို လျှော့ထားသည်။ လိုင်းစပေ့ %s။</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသော</item>

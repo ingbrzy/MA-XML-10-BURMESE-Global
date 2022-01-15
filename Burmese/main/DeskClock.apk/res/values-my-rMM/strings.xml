@@ -40,6 +40,7 @@
     <string name="alert_vibrate_enable_summary">နှိုးစက်ပိတ်သွားသောအခါ တုန်ခါပါ</string>
     <string name="alert_volume">မြည်သံအတိုးအကျယ်</string>
     <string name="alert_volume_summary">နှိုးစက်နှင့် ချိန်ကိုက်စက်တို့အတွက် နှိုးစက်သံအတိုးအကျယ်ကို သတ်မှတ်ပါ</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI စကားပြောနေသည်…</string>
     <string name="already_exist">ဤအချိန်ကိုက်စနစ်ရှိထားပြီးဖြစ်သည်</string>
     <string name="am">နံနက်</string>
     <string name="analog_gadget">ရိုးရိုးနာရီ</string>
@@ -83,6 +84,7 @@
     <string name="channel_name_timer">တိုင်မာ</string>
     <string name="check_theme_app_install">သင့်ဖုန်းတွင် သင်းမ် အက်ပ် ထည့်သွင်းထားပါ။</string>
     <string name="check_voice_assist_app_version">Mi AI အား နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။</string>
+    <string name="cities_show_limit_desc">နောက်ထပ်နာရီများကို ပြသမရပါ</string>
     <string name="city_time_contrast_desc">မြို့အမျိုးမျိုးရှိ စံတော်ချိန်များကို နှိုင်းယှဉ်ရန် တို့ပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="clock_bg_button_setting_summary_common">နာရီ အက်ပ်အတွက် နောက်ခံအရောင် ရွေးပါ</string>
@@ -327,7 +329,7 @@
     <string name="module_white_noise_download_data">ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန်အတွက် နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဤဒေါင်းလုဒ်အတွက် သင်၏ မိုဘိုင်းဒေတာထဲမှ ≈30MB အသုံးပြုပါမည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data> ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် (≈30MB) နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင်သည် ယခု မိုဘိုင်းဒေတာကို သုံးပါတော့မည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="module_white_noise_download_wifi">ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန်အတွက် နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data> ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန်နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>ပတ်ဝန်းကျင်ဆူညံသံများ အချိန်ကိုက်စနစ်များအတွက် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန်နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>
@@ -400,7 +402,7 @@
     <string name="personal_recommend">အကြောင်းအရာ စိတ်ကြိုက်လုပ်ခြင်း အကြံပြုချက်</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="privacy_policy_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="privacy_settings_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="query_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="reach_upper_limit">အချိန်ကိုက်စနစ်များ ထပ်ထည့်မရတော့ပါ</string>
@@ -413,6 +415,7 @@
     <string name="repeat_count_value_ten">၁၀</string>
     <string name="repeat_count_value_three">၃</string>
     <string name="repeat_count_value_two">၂</string>
+    <string name="repeat_type">ထပ်တလဲလဲလုပ်ရန်</string>
     <string name="reset">ပြန်သတ်မှတ်ပါ</string>
     <string name="revert">ပြောင်းပြန်ပြန်</string>
     <string name="ringtone_all">နှိုးစက်သံများအားလုံး</string>
@@ -431,7 +434,9 @@
     <string name="search_stopwatch_keywords">စံချိန်ယူနာရီ</string>
     <string name="search_timer_keywords">တိုင်မာ</string>
     <string name="search_worldclock_keywords">အချိန်၊ ကမ္ဘာ့အချိန်၊ နာရီ</string>
+    <string name="select_all">အားလုံးရွေးရန်</string>
     <string name="select_operation">ရွေးပါ</string>
+    <string name="selected">ရွေးထားသည်</string>
     <string name="send">ပို့ပါ</string>
     <string name="set_alarm">အချိန် ရွေးပါ</string>
     <string name="set_alarm_choose_ringtone">နှိုးစက်သံရွေးရန်</string>
@@ -454,6 +459,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၁၀ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -504,6 +510,7 @@
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပါ။</string>
     <string name="system_permission_main_purpose">အချိန်ကြည့်ခြင်း၊ နှိုးစက်နှင့် တိုင်မာများ သတ်မှတ်ခြင်း၊ ချိန်ကိုက်နာရီသုံးခြင်း</string>
     <string name="system_permission_purpose">ရုံးဖွင့်ရက်နှိုးစက်များပြုလုပ်ခြင်းနှင့် စိတ်ကြိုက်ဖုန်းသံများ သတ်မှတ်ခြင်း</string>
@@ -610,6 +617,11 @@
     <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="turn_off_a_repeat_alarm">ထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
+    <string name="tv_blank_list_other_text">ဤနေရာတွင် ဘာမျှမရှိသေးပါ။</string>
+    <string name="tv_blank_list_show_text">ဤနေရာတွင် ဘာမျှမရှိသေးပါ။ တည်နေရာတစ်ခုရှာပြီး ကမ္ဘာသုံးနာရီတွင်ထည့်ပါ။</string>
+    <string name="tv_world_clock_edit_title1">ပင်မမျက်နှာပြင်တွင် ပြထားသော တည်နေရာများ</string>
+    <string name="tv_world_clock_edit_title2">သိမ်းထားသော အခြားတည်နေရာများ</string>
+    <string name="unselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="upcoming_alarm">နောက်လာမည့် နှိုးစက်- %s</string>
     <string name="upcoming_alarm_hint">ဤနှိုးစက်ကို ပိတ်နိုင်ပါပြီ</string>
     <string name="update_health_app">Xiaomi Health ကို အပ်ဒိတ်လုပ်ရန်</string>
@@ -635,8 +647,10 @@
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
     <string name="week_ringtone_recommend_desc">ရက်စွဲပေါ်မူတည်ပြီး သဘာဝ နိူးစက်က မတူညီသော အသံများ ဖွင့်ပေးသည်။ သင်၏ မူလ နိူးစက်အဖြစ် သတ်မျတ်လိုပါသလား။</string>
+    <string name="white_noise">ပတ်ဝန်းကျင်ဆူညံသံ</string>
     <string name="white_noise_selector">အသံရွေးပါ</string>
     <string name="workday_alarm_clock">အလုပ်ဆင်းရက် နှိုးစက်</string>
+    <string name="worldclock_edit_label">ကမ္ဘာသုံးနာရီ</string>
     <string name="worldclock_empty_text">အချိန်နာရီများ မရှိပါ</string>
     <string name="worldclock_input_hint_text">နိုင်ငံ သို့မဟုတ် မြို့များ ရှာရန်</string>
     <string name="worldclock_local_time">ဒေသစံတော်ချိန်</string>
@@ -654,5 +668,6 @@
     <string name="worldcolock_timezone_date">MMM dd</string>
     <string name="worldcolock_timezone_gap">%s နာရီ</string>
     <string name="worldcolock_timezone_local">ဒေသစံတော်ချိန်နှင့် တူညီသည်</string>
+    <string name="xiaoai_ringtone_title">Mi AI ဖုန်းမြည်သံများ</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

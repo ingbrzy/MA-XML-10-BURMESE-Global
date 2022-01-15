@@ -132,4 +132,10 @@
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">စာတန်းများ နောက်သို့ %.1fစက္ကန့် ရွေ့ထားသည်</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">စာညှပ် %d ခု အထိ ထည့်ရန်</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">ကြည့်သူ %d ဦး</item>
+    </plurals>
 </resources>

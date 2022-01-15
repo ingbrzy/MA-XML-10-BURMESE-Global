@@ -18,9 +18,6 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">စက် %d လုံး ရှိသည်</item>
     </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">%d စက္ကန့် တစ်ကြိမ်</item>
-    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">စက်%d ခု</item>
     </plurals>

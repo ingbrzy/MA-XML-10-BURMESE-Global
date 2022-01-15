@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="account_bind_secure_email_title">ပြန်လည်ရယူရန် အီးမေးလ်ကို ထည့်သွင်းပါ</string>
     <string name="account_bind_secure_phone_title">ပြန်လည်ရယူရန် ဖုန်းနံပါတ်ကို ထည့်သွင်းပါ</string>
     <string name="account_crop_user_avatar">ဓာတ်ပုံကို ဖြတ်ထုတ်ပါ</string>
@@ -51,7 +52,7 @@
     <string name="confirm_activate_email">အတည်ပြုပြီးပါပြီ</string>
     <string name="confirm_bundled_phone_dialog_title">ဆက်စပ်ဖုန်းနံပါတ်ကို အတည်ပြုပါ</string>
     <string name="confirm_new_pwd">စကားဝှက်အသစ် ထည့်သွင်းပါ</string>
-    <string name="confirm_unbundled_phone_dialog_message">ဤဖုန်းနံပါတ်အား %1$s ပေါ်မှ Mi အကောင့် %2$s နှင့် တွဲသုံးထားပါသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %2$s နှင့် တွဲထားတော့မည် မဟုတ်ပါ။ ဆက်လုပ်လိုပါသလား။</string>
+    <string name="confirm_unbundled_phone_dialog_message">ဤဖုန်းနံပါတ်အား %1$s ပေါ်မှ Mi အကောင့် %2$s နှင့် တွဲသုံးထားပါသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %3$s နှင့် တွဲထားတော့မည် မဟုတ်ပါ။ ဆက်လုပ်လိုပါသလား။</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -59,8 +60,11 @@
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="diagnosis_log_send_failed">မှတ်တမ်းများကို ပို့မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="diagnosis_log_sent_format">"မှတ်တမ်းများကို အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ။
-ID -
+ID - %s
 ကြီးကြပ်သူထံ ဤကုဒ်ကို ပေးပို့မည်။"</string>
+    <string name="doing_login">အကောင့်ဝင်နေသည်…</string>
+    <string name="doing_query_account">အကောင့်အချက်အလက်များစစ်နေသည်…</string>
+    <string name="doing_register">အကောင့်လုပ်နေသည်…</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
@@ -132,13 +136,20 @@ ID -
     <string name="get_phone_bind_exceed_limit">ဖုန်းနံပါတ်တစ်ခုဖြင့် Mi အကောင့်သုံးခုအထိသာ တွဲသုံးနိုင်ပါသည်။ အကောင့်အသစ် ထည့်သွင်း၍ မရတော့ပါ။</string>
     <string name="get_phone_verifycode_exceed_limit">ဤနံပါတ်သို့ အတည်ပြုကုဒ်နံပါတ်များစွာ ပေးပို့ထားပြီး ဖြစ်ပါသည်။ ၂၄ နာရီ စောင့်ဆိုင်းပြီးမှ ထပ်မံကြိုးစားပါ။</string>
     <string name="goto_sign_up">အကောင့်တစ်ခု ဖန်တီးမည်</string>
+    <string name="i_know">နားလည်ပါပြီ</string>
     <string name="identity">အတည်ပြုမှု</string>
     <string name="inconsistent_pwd">စကားဝှက် မကိုက်ညီပါ</string>
     <string name="input_email_address_notice">သင့်အကောင့်ကို အတည်ပြုစစ်ဆေးရန် ဤအီးမေးလ်ကို အသုံးပြုသွားပါမည်</string>
+    <string name="input_length_exceeds_limit">သင် ရိုက်ထည့်သော စာသားမှာ ရှည်လွန်းသည်။</string>
     <string name="input_new_pwd">စကားဝှက်အသစ် ထည့်သွင်းပါ</string>
     <string name="isornot_your_mi_account">သင်၏ Mi အကောင့် ဟုတ်ပါသလား?</string>
     <string name="just_a_second">တစ်စက္ကန့်စောင့်ပါ…</string>
     <string name="loading">စက္ကန့်အနည်းငယ် စောင့်ပါ…</string>
+    <string name="login_by_local_phone_long_text">ယခုအကောင့်ဝင်ရန်</string>
+    <string name="login_by_local_phone_short_text">အကောင့်ဝင်ရန်</string>
+    <string name="login_other">အခြား Mi အကောင့်</string>
+    <string name="login_register_by_local_phone_long_text">အကောင့်လုပ်ရန်</string>
+    <string name="login_with_sns">အကောင့်ဝင်ရန် အခြားနည်းလမ်းများ</string>
     <string name="logout_account">ဆိုင်းအောက်လုပ်မည်</string>
     <string name="midnight">ည</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
@@ -204,12 +215,15 @@ ID -
     <string name="month_september_shortest">စက်တင်ဘာ</string>
     <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
+    <string name="network_error_info">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="network_timeout_info">ကွန်ရက်ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="nick_name">ချစ်စနိုးအမည်</string>
     <string name="night">ညနေ</string>
     <string name="no_account">အကောင့်ဝင်မထားပါ</string>
     <string name="no_phone">ဖုန်းနံပါတ် မရှိပါ</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="ok">အိုကေ</string>
+    <string name="open_settings">ဆက်တင်</string>
     <string name="passport_access_denied">ဝင်သုံးခွင့်ကို ငြင်းပယ်ထားသည်</string>
     <string name="passport_account_label">Mi အကောင့်</string>
     <string name="passport_account_name">"အကောင့် - %1$s "</string>
@@ -217,6 +231,7 @@ ID -
     <string name="passport_area_code_title">ဧရိယာကုဒ်</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_barcode_add_account_prompt">အကောင့်တစ်ခု ထည့်သွင်းရန်အတွက် အကောင့်ဝင်ပြီးနောက်တွင် QR ကုဒ်ကို နောက်တစ်ကြိမ် စကန်ဖတ်ပါ။</string>
+    <string name="passport_can_not_receive_verification_code">အတည်ပြုကုဒ် မရဘူးလား။</string>
     <string name="passport_captcha_title">ပုံ၌ပြသောကုဒ်</string>
     <string name="passport_checking_account">စကားဝှက်ကို စစ်ဆေးနေသည်…</string>
     <string name="passport_close">ပိတ်ပါ</string>
@@ -305,8 +320,18 @@ ID -
     <string name="phone_number">ဖုန်းနံပါတ်</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ။</string>
     <string name="pm">ညနေ</string>
+    <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="psw_hint">စကားဝှက်</string>
     <string name="psw_sign_in">စကားဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
+    <string name="register_by_local_phone_long_text">အကောင့်လုပ်ရန်</string>
+    <string name="register_by_local_phone_short_text">အကောင့်လုပ်ရန်</string>
+    <string name="request_agree">ခွင့်ပြုရန်</string>
+    <string name="request_camera_permission_message">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တည်ဆဲဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့်အညီ ကာကွယ်ပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် - &lt;br>&lt;br>&lt;b>ကင်မရာအသုံးပြုခြင်း (သင့်ပရိုဖိုင်ပုံကို သတ်မှတ်ရန်)&lt;/b>&lt;br>&lt;br> ထိုခွင့်ပြုချက်များကို သင်သဘောမတူပါက ဤအက်(ပ်)၏ အချို့အင်္ဂါရပ်များကို သုံးနိုင်မည်မဟုတ်ဘဲ အခြေခံလုပ်ဆောင်ချက်များသာ ရရှိပါမည်။ ဆက်တင်များထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ခြင်း သို့မဟုတ် ပြန်ရုတ်သိမ်းခြင်းကို အချိန်မရွေး ပြုလုပ်နိုင်သည်။</string>
+    <string name="request_cancel">မလုပ်တော့ရန်</string>
+    <string name="request_error_invalid_token">အတည်ပြုမရပါ</string>
+    <string name="request_error_network">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="request_error_unknown">စနစ်အမှားအယွင်းရှိသည်။ နောက်ပြန်သွားပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="request_gallery_permission_message">ပြခန်းသို့ ဝင်ခွင့်ပြုရန် -&lt;br />ဆက်တင်ပရိုဖိုင်ပုံများအတွက်</string>
     <string name="resend_active_email">ပြန်ပို့ပြီးပါပြီ</string>
     <string name="resend_email_reach_limit_message">အတည်ပြုရန် အီးမေးလ်များစွာကို သင်တောင်းခံခဲ့ပါသည်။ အတည်ပြုရန် အီးမေးလ်မှာ သင်၏ အဝင်စာတိုက်ပုံး၏ အမှိုက်စာ ဖိုလ်ဒါအတွင်းတွင် ရှိမနေစေရန် အသေအချာ ဆောင်ရွက်ပါ။</string>
     <string name="resend_email_reach_limit_title">အကြိမ်များစွာ ကြိုးစားထားသည်</string>
@@ -327,6 +352,7 @@ ID -
     <string name="sign_in">အကောင့်ဝင်နေသည်</string>
     <string name="sign_in_progress">အကောင့်ဝင်နေသည်…</string>
     <string name="sign_in_title">သင်၏ Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="skip_query_account">ကျော်ရန်</string>
     <string name="sms_send_success">အောင်မြင်စွာ ပို့ပြီးပါပြီ</string>
     <string name="sns_access_token_expired_warning">ခွင့်ပြုချိန် ကုန်သွားပါပြီ။ ဤအကောင့်နှင့် ပြန်လည်ချိတ်ဆက်ရန် နောက်တစ်ကြိမ် အကောင့်ဝင်ပါ။</string>
     <string name="sns_bind_limit">အကြိမ်များစွာ ကြိုးစားထားသည်။ အကောင့်ဝင်ရန် အခြားနားလမ်းများဖြင့် ကြိုးစားပေးပါ။</string>
@@ -334,6 +360,7 @@ ID -
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="temporary_not_available">ဤဖီးခြားကို မရရှိနိုင်သေးပါ</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
@@ -389,13 +416,24 @@ ID -
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
+    <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="update_email_address_dialog_message">သင်၏ အကောင့်ပြန်ယူရန် အီးမေးလ်ကို အပ်ဒိတ်မလုပ်မီတွင် သင်မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုရန် လိုအပ်ပါသည်။</string>
     <string name="update_email_address_dialog_title">အကောင့်ပြန်ယူရန် အီးမေးလ်ကို အပ်ဒိတ်လုပ်မည်</string>
     <string name="update_phone_notice">လုံခြုံရေးဆက်တင်များကို ပြောင်းမည်</string>
     <string name="upload_error_log">မှတ်တမ်းကို အပ်လုဒ်လုပ်မည်</string>
+    <string name="user_agreement_hint_3rd_app">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> အပြင် Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_default">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_first_login">သင့်ဖုန်းနံပါတ်ကို ပထမအကြိမ်အသုံးပြုခြင်းဖြစ်ပါက အလိုအလျောက် အကောင့်ဖွင့်ပေးပါမည်။</string>
+    <string name="user_agreement_hint_with_mobile">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_with_telecom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_with_unicom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းမည်</string>
     <string name="user_avatar_uploading">တစ်စက္ကန့်စောင့်ပါ…</string>
     <string name="user_id_hint">အီးမေးလ်/ဖုန်း/Mi အကောင့် ID</string>
+    <string name="user_name_phone_number">ဖုန်းနံပါတ်</string>
     <string name="v_code_title">အတည်ပြုကုဒ် ထည့်သွင်းပါ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>

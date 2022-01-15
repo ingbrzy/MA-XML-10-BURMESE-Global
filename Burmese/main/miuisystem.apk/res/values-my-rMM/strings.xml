@@ -15,11 +15,11 @@
     <string name="device_xiaomi">Mi Phone</string>
     <string name="notice_audition">သဘာဝ အသံ</string>
     <string name="acousticguitar">လျှပ်စစ်နှင့် မဟုတ်သော ဂီတာ</string>
+    <string name="africaanimals_preview">ဆာဗားနား</string>
     <string name="alarmclock">နှိုးစက်နာရီ</string>
+    <string name="amazonanimals_preview">မိုးသစ်တော</string>
     <string name="android_ringtone_default_with_actual">မူလ သတ်မှတ်ထားသော ဖုန်းမြည်သံ (%1$s)</string>
     <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
-    <string name="anti_aggression_day">反侵略日</string>
-    <string name="arbor_day">植树节</string>
     <string name="miui_lock_screen_date">dd/MM EEEE</string>
     <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
     <string name="miui_lock_screen_large_date">"dd/MM
@@ -35,15 +35,19 @@ mm"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_clock_city_name_local">ဌာနေ</string>
+    <string name="anti_aggression_day">反侵略日</string>
+    <string name="arbor_day">植树节</string>
+    <string name="arcticanimals_preview">အာတိတ်</string>
     <string name="armed_forces_day">軍人節</string>
     <string name="asend">ပေးပို့</string>
     <string name="atlantis">အတ္တလန္တိတ် (စတီရီယို)</string>
+    <string name="miui_clock_city_name_second">ဒုတိယ နာရီ</string>
+    <string name="australiaanimals_preview">သြစတြေးလျ</string>
     <string name="autumn_begins">立秋</string>
     <string name="autumn_equinox">秋分</string>
     <string name="beep">ဘီးပ်သံ</string>
-    <string name="miui_clock_city_name_second">ဒုတိယ နာရီ</string>
     <string name="bells">ခေါင်းလောင်း</string>
-    <string name="birdcicada_preview">သဘာဝ - ငှက်များနှင့် ပိုးစုန်းကြူးမျူး</string>
+    <string name="birdcicada_preview">ငှက်များနှင့် ပိုးစုန်းကြူးမျူး</string>
     <string name="blues">ဘလူးစ်ဂီတ</string>
     <string name="bottle">ပုလင်းဖွင့်သံ</string>
     <string name="breeze">လေပြေညင်း</string>
@@ -188,9 +192,11 @@ mm"</string>
     <string name="slight_cold">小寒</string>
     <string name="slight_heat">小暑</string>
     <string name="solar_calendar">公历</string>
+    <string name="southwestmountain_preview">တောင်များ</string>
     <string name="spaceage">အာကာသ ခေတ်</string>
     <string name="spring">စပရိန်</string>
     <string name="spring_begins">立春</string>
+    <string name="stoneskimming_preview">အလင်းအဆင့်များ</string>
     <string name="stopping_the_heat">处暑</string>
     <string name="summer_begins">立夏</string>
     <string name="summer_solstice">夏至</string>
@@ -229,7 +235,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">သဘာဝပုံစံများ</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA၊ JPL၊ အရီဇိုးနား တက္ကသိုလ်</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
-    <string name="waterdrop_preview">သဘာဝ - မိုးရေစက်များ</string>
+    <string name="waterdrop_preview">မိုးရေစက်များ</string>
     <string name="white_dews">白露</string>
     <string name="windchime">ဆည်းလည်းများ</string>
     <string name="winter_begins">立冬</string>

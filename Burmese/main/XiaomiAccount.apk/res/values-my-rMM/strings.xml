@@ -80,6 +80,9 @@
     <string name="binded">ချိတ်ဆက်နေသည်</string>
     <string name="binded_description" formatted="false">"%s အား Mi အကောင့်ဖြင့် ချိတ်ဆက်ထားပြီ။
 ယခု Mi အကောင့်သို့ %sဖြင့် ဆိုင်းအင်ဝင်နိုင်ပါပြီ။"</string>
+    <string name="button_agree">သဘောတူသည်</string>
+    <string name="button_close">ပိတ်ရန်</string>
+    <string name="button_refuse">သဘောမတူပါ</string>
     <string name="button_unbind">ချိတ်ဆက်ဖြတ်ပါ</string>
     <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="change_activate_email">အီးမေးလ်လိပ်စာ ပြောင်းပါ</string>
@@ -395,6 +398,7 @@
     <string name="passport_activing_account">အသက်သွင်းနေသည်…</string>
     <string name="passport_adding_account">အကောင့် ပေါင်းထည့်နေသည်…</string>
     <string name="passport_area_code_hot">ကြိမ်ဖန်များစွာအသုံးပြုသော</string>
+    <string name="passport_area_code_others">အခြားရှေ့စာလုံးသုံးပါ</string>
     <string name="passport_area_code_title">နိုင်ငံကုဒ်</string>
     <string name="passport_auto_generate_pwd">လုံခြုံသောစကားဝှက်အား ထုတ်လုပ်</string>
     <string name="passport_back">နောက်သို့</string>
@@ -627,12 +631,18 @@
     <string name="permission_group_phone">ဖုန်း</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">သိုလှောင်ခန်း</string>
+    <string name="permission_instructions">ခွင့်ပြုချက်အသုံးပြုနှုန်း</string>
     <string name="permission_read_sms">မက်ဆေ့(ချ်)များဖတ်ရန်</string>
+    <string name="permission_withdraw">ရုပ်သိမ်းရန်</string>
     <string name="permission_write_external_storage">သိုလှောင်ခန်းတွင် အကြောင်းအရာများကို ဖတ်ရန်နှင့် သိမ်းရန်</string>
     <string name="personal_info_desc">ဓာတ်ပုံ၊ အမည်ပြောင်နှင့် အခြားအရာများ</string>
     <string name="phone_num_use_for">အောက်ပါအတွက် ဖုန်းနံပါတ်ကို သုံးမည်-</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ</string>
     <string name="pm">ညနေ</string>
+    <string name="privacy_policy_reject_confirm_msg">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဗားရှင်းအသစ်ကို သဘောမတူပါက Mi အကောင့်ကို သုံးမရပါ။ အပ်ပဒိတ်လုပ်ထားသော Mi အကောင့်၏ &lt;a href=%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ယခုသဘောတူလိုသလား။</string>
+    <string name="privacy_policy_reject_confirm_title">Mi အကောင့်ကို သုံးမရပါ</string>
+    <string name="privacy_policy_update_msg">Mi အကောင့်၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို အပ်ပဒိတ်လုပ်ထားသည် -&lt;br/>%1$s&lt;br/>ရှေ့မဆက်မီ &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> ဗားရှင်းအသစ်ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
+    <string name="privacy_policy_update_title">အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="provision_back">နောက်ပြန်</string>
     <string name="provision_next">နောက်တစ်ဆင့်</string>
     <string name="provision_skip_underline">ကျော်ရန်</string>
@@ -659,6 +669,9 @@
     <string name="restart_action">ပြန်စ</string>
     <string name="restart_phone_bind_message">SMS လက်ခံရရှိရန် အချိန်တစ်ခုလိုအပ်ပါလိမ့်မည်။ မည်သို့ပင်မဆိုပြန်စတင်မည်လား?</string>
     <string name="restart_phone_bind_title">ပြန်ဆယ်တင်ရေးဖုန်း ပြောင်းပါ</string>
+    <string name="revoke_privacy_policy">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
+    <string name="revoke_privacy_policy_instructions">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် Mi အကောင့်၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းကို ရပ်လိုက်ပါမည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ Mi အကောင့်သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် Mi အကောင့်ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
+    <string name="revoke_privacy_policy_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="risky_pwd_not_allow">စကားဝှက်အသစ်သည် လုံခြုံမှုမရှိပါ။ နောက်ထပ်တစ်ခု သတ်မှတ်ပေးပါ။</string>
     <string name="same_new_and_old_pwd">စကားဝှက်အသစ်နှင့် အဟောင်း မတူရပါ</string>
     <string name="saturday">စနေ</string>
@@ -784,7 +797,15 @@
     <string name="user_instruction_all_purpose">Mi အကောင့်မှ ကြိုဆိုပါသည်။ သင့်အကောင့်ကို Xiaomi နှင့် ဆက်စပ်ကုမ္ပဏီများမှ ပံ့ပိုးသော ဝန်ဆောင်မှုများ ဥပမာ - Mi.com၊ Xiaomi ကလောက်နှင့် GetApps တို့ကို ရယူရန် သုံးနိုင်သည်။ Mi ဒင်္ဂါးပြားရယူခြင်း၊ ဗာကျူဝယ်ကုန်ဝယ်ခြင်းနှင့် ဂိမ်းများ၊ အပြင်အဆင်များနှင့် အီလက်ထရောနစ်စာအုပ်များကဲ့သို့ တန်ဖိုးမြှင့်ဝန်ဆောင်မှုများရယူခြင်းတို့ ပြုလုပ်နိုင်သည်။</string>
     <string name="user_instruction_tip">အကောင့်ဝင်နိုင်ရန် စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
     <string name="user_license_with_3rd_app">&lt;Data>ကျွန်ုပ်၏ Mi အကောင့်သို့ အကောင့်ဝင်ခြင်းဖြင့် ကျွန်ုပ်သည် &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> အပြင် Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူကြောင်း အတည်ပြုရာရောက်သည်။&lt;/Data></string>
+    <string name="user_license_with_3rd_app_mobile">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_license_with_3rd_app_no_operator">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> အပြင် Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_license_with_3rd_app_telcom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_license_with_3rd_app_unicom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_license_without_3rd_app">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး၍ သဘောတူပါသည်။&lt;/Data></string>
+    <string name="user_license_without_3rd_mobile">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_license_without_3rd_telcom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_license_without_3rd_unicom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="vip_account_settings">VIP ဆက်တင်များ</string>
     <string name="vip_settings_info">VIP ဆက်တင်များ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>

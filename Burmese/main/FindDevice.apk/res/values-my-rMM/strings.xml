@@ -9,6 +9,9 @@
     <string name="captcha">ကက်ပ်ချာ</string>
     <string name="change_find_device_status_failed">သော့ဖြေ၍မရနိုင်ခဲ့ပါ။%s</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်အတွက် ဖုန်းနံပါတ် ဖတ်ခွင့်ပြုရန်</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
