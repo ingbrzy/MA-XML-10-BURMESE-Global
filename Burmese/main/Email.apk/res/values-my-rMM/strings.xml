@@ -228,7 +228,6 @@
     <string name="back">နောက်သို့</string>
     <string name="bank_card_detail">ခရက်ဒစ်ကဒ် အသေးစိတ်များ</string>
     <string name="bcc">Bcc</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">ဘေလ်ဆက်တင်များ</string>
     <string name="bill_center_setting_head">ထိုအကောင့်များမှ အချက်အလက်များအား ထည့်သွင်းပါ</string>
     <string name="bill_cycle_text">ဘေလ်လုပ်ငန်းစဉ်</string>
@@ -250,7 +249,6 @@
     <string name="cancel_pop3_attchemt_downloading">POP3 အကောင့်များတွင် လက်ရှိ ပြုလုပ်နေသော ပူးတွဲဖိုင်များ၏ ဒေါင်းလုဒ်ကို ပယ်ဖျက်၍မရပါ</string>
     <string name="cant_move_or_change_labels">အကောင့်များစွာမှ အိုင်တမ်များအား ရွေ့၍မရနိုင်ပါ</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">အသိမှတ်ပြုလက်မှတ် \"%s\" ကို ပေါင်းထည့်၍ မရခဲ့ပါ</string>
@@ -280,7 +278,6 @@
     <string name="click_to_reload">ပြန်လန်းဆန်းရန် မျက်နှာပြင်အား ထိနှိပ်ပါ</string>
     <string name="close">ပိတ်</string>
     <string name="collapse_recipient_details">လက်ခံသူအသေးစိတ်မျာအား မကြည့်တော့</string>
-    <string name="colon">:</string>
     <string name="compose">စာရေးသား</string>
     <string name="compose_event">ဖိတ်ခေါ်ချက်</string>
     <string name="compose_paste_address_oob">အက္ခရာများလွန်းနေ</string>
@@ -591,7 +588,6 @@
     <string name="go_to_mail_content">အီးမေး(လ်)ကြည့်ရန်</string>
     <string name="have_auth_code">ကျွန်ုပ်တွင် ကုဒ်တစ်ခု ရှိပါသည်</string>
     <string name="header_category_account">အကောင့်များ</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
     <string name="help_me_get_qq_auth">ကုဒ်ရယူရန်</string>
@@ -611,7 +607,6 @@
     <string name="invalid_recipient">လိပ်စာ %s မှာ ဘောင်မဝင်ပါ။</string>
     <string name="invalid_recipient_title">လက်ခံသူ အမှား</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">အီးမေးလ် မရှိသေးပါ။</string>
     <string name="load_from_remote">ဆာဗာတွင် မေးလ်သေတ္တာအား ရှာဖွေ</string>
     <string name="load_more">ထပ်ရှာ</string>
@@ -1113,7 +1108,6 @@
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="size_byte">ဘိုက်</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">ကီလိုဘိုက်</string>
