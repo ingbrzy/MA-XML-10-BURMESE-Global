@@ -120,6 +120,7 @@
     <string name="calllog_menu_blacklist">ဘလော့လုပ်ပါ</string>
     <string name="calllog_menu_edit_before_call">ပြုပြင်ရန်</string>
     <string name="calllog_menu_send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
+    <string name="calllog_record_none_toast">ဖုန်းပြောအသံသွင်းဖိုင် ပြစရာမရှိပါ</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dမိနစ် %2$dစက္ကန့်</string>
     <string name="callrecordview_item_op_time_missed">မချိတ်ဆက်ပါနှင့်</string>
     <string name="callrecordview_item_op_time_only_minutes">%d မိနစ်</string>
@@ -473,6 +474,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="ghostData_company">ကုမ္ပဏီ</string>
@@ -598,6 +600,7 @@
     <string name="menu_sync_remove">ဆင့်ခ်အုပ်စု ဖယ်ရှားပါ</string>
     <string name="midnight">ည</string>
     <string name="miprofile_account_type">ဆက်သွယ်မှု ကဒ်များ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_name">ကျွန်ုပ်၏ပရိုဖိုင်</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -691,6 +694,12 @@
     <string name="name_phonetic_middle">အသံထွက် အလယ်အမည်</string>
     <string name="name_prefix">အမည်၏ ရှေ့ဆက်ဂုဏ်ပုဒ်</string>
     <string name="name_suffix">အမည်၏ နောက်ဆက်ဂုဏ်ပုဒ်</string>
+    <string name="new_saf_permission_dialog_content">"အဆက်အသွယ်များခွင့်ပြုချက်များကို အပ်ပဒိတ်လုပ်ထားပါသည်။ အဆက်အသွယ်များအား ခေါ်ဆိုမှုမှတ်တမ်းများကို ဖတ်ခွင့်ပြုပါ။
+
+ခွင့်ပြုချက်များပေးနည်း
+\"%1$s\"ကို တို့ပြီး \"%2$s\" ကို ရွေးပါ။"</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">ရှေ့သို့</string>
+    <string name="new_saf_permission_dialog_title"><b>ခွင့်ပြုချက်များလိုအပ်သည်</b></string>
     <string name="next">နောက်တစ်ဆင့်</string>
     <string name="next_birthday">နောက်မွေးနေ့- %s</string>
     <string name="nfc_vcard_file_name">NFC မှ လက်ခံရရှိခဲ့သည် အဆက်အသွယ်များ</string>
@@ -747,6 +756,7 @@
     <string name="permission_retry_dialog_msg_pad">သင့် SIM ကတ်ကို ဤအက်(ပ်)နှင့် သုံးပြီး သင့်အဆက်အသွယ်များကို စီမံခန့်ခွဲနိုင်ရန်အတွက် ဤအက်(ပ်)အား သင့်အဆက်အသွယ်များကို ဖတ်ခွင့်နှင့် တည်းဖြတ်ခွင့်အပြင် စက်အချက်အလက်ကိုဖတ်ခွင့်ပါ ပေးရပါမည်။</string>
     <string name="permission_retry_setting">ဆက်တင်များ</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">ဖုန်းထဲတွင် မည်သည့်ပုံမျှ မရှိပါ။</string>
@@ -803,7 +813,7 @@
     <string name="preference_privacy_settings_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="preference_remove_duplicate">နှစ်ခုထပ်နေသော အဆက်အသွယ်များကို ပေါင်းပါ</string>
     <string name="preference_show_firewall_calllog">ခေါ်ဆိုမှုသမိုင်းတွင် ဘလော့လုပ်ထားသော ခေါ်ဆိုမှုများကို ပြပါ</string>
-    <string name="preference_show_yellowpage_tab_description">ဤအင်္ဂါရပ်ကို ပိတ်ထားပါက ဖုန်းလမ်းညွှန်များ ပုံမှန်အလုပ်လုပ်နိုင်မည် မဟုတ်ပါ။</string>
+    <string name="preference_show_yellowpage_tab_description">ဤအင်္ဂါရပ်ကိုပိတ်လျှင် အဝါရောင်စာမျက်နှာများနှင့် ၎င်း၏ဝန်ဆောင်မှုများကို ပြမည်မဟုတ်ပါ</string>
     <string name="preference_show_yellowpage_tab_title">ဖုန်းလမ်းညွှန်များကို ပြပါ</string>
     <string name="preference_simple_mode_title">ဓါတ်ပုံများနှင့် အချက်အလက်များ ပြသပါ</string>
     <string name="preference_smart_group_company_summary">ကုမ္ပဏီအလိုက်အုပ်စုဖွဲ့ပါ</string>
@@ -814,6 +824,7 @@
     <string name="preference_smart_group_location_title">တည်နေရာများ</string>
     <string name="preference_smart_group_title">စမတ်အုပ်စုများ</string>
     <string name="preference_tone_title">မြည်သံများ</string>
+    <string name="preference_yellowpage_function_setting">အဝါရောင်စာမျက်နှာများဆက်တင်</string>
     <string name="previous">နောက်သို့</string>
     <string name="privacy_password_message1">ပုဂ္ဂိုလ်ရေးကာကွယ်မှုစကားဝှက်သည် ဓာတ်ပုံများ၊ မှတ်စုများနှင့် ဖျောက်ထားသော ဖိုဒါများအတွက် အလုပ်လုပ်ပါသည်။</string>
     <string name="privacy_password_message2">ပုဂ္ဂိုလ်ရေးအကာကွယ် စကားဝှက်ကို သုံးပါ။ ၎င်းသည် ဓာတ်ပုံများ၊ မှတ်စုများနှင့် ဖျောက်ထားသော ဖိုဒါများအတွက် အလုပ်လုပ်ပါသည်။</string>
@@ -823,6 +834,7 @@
     <string name="privacy_password_title2">ပုဂ္ဂိုလ်ရေးအကာကွယ် စကားဝှက်ကို သုံးရန်</string>
     <string name="privacy_password_title3">သင့်စကားဝှက်ကို အဆင့်မြှင့်တင်ရန်</string>
     <string name="privacy_password_title4">စကားဝှက်အား ဆင့်မြှင့်တင်ခဲ့သည်</string>
+    <string name="privacy_settings_blue_scan_connect">အနီးအနားရှိစက်များနှင့် ချိတ်ရန်</string>
     <string name="privacy_settings_call_phone">ဖုန်းခေါ်ရန်</string>
     <string name="privacy_settings_call_phone_description">ပင်မမျက်နှာပြင်ရှော့ကတ်များမှတစ်ဆင့် ဖုန်းခေါ်ရန်</string>
     <string name="privacy_settings_call_phone_description_for_pad">ပြင်ပပါတီအက်(ပ်)များတွင် ဖုန်းခေါ်ရန်</string>
@@ -985,6 +997,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1083,6 +1096,7 @@
     <string name="the_united_nations_day">ကုလသမဂ္ဂနေ့</string>
     <string name="the_valentines_day">ချစ်သူများနေ့</string>
     <string name="the_water_lantern_festival">မီးမျှောပွဲတော်</string>
+    <string name="this_folder">ဤဖိုင်တွဲကို အသုံးပြုပါ</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
@@ -1100,6 +1114,7 @@
     <string name="toast_for_failed_saving_nickname">အမည်ပြောင် သိမ်းလို့မရပါ</string>
     <string name="toast_for_saving_nickname">အမည်ပြောင် သိမ်းပြီးပါပြီ</string>
     <string name="toast_join_with_empty_contact">အဆက်အသွယ်တစ်ခုနှင့် တစ်ခု မပေါင်းစပ်မီ အဆက်အသွယ်မည်ကို ရိုက်ထည့်ပါ</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">အခြားစက်များမှ အဆက်အသွယ်များတင်သွင်းနိုင်ရန် ဤအင်္ဂါရပ်ကို ဘလူးတုမှတစ်ဆင့် အနီးအနားရှိစက်များနှင့် ချိတ်ခွင့်ပြုပါ။</string>
     <string name="toast_not_show_camera_perm_req">ကင်မရာကို ပရိုဖိုင်ပုံများရိုက်ရာတွင် သုံးနိုင်ရန်အတွက် ဤအက်(ပ်)အား ဓာတ်ပုံနှင့် ဗီဒီယိုရိုက်ခွင့် ဦးစွာပေးရပါမည်။</string>
     <string name="toast_not_show_location_perm_req">အခြားစက်များမှ အဆက်အသွယ်များကို ဘလူးတုမှတစ်ဆင့် တင်သွင်းနိုင်ရန်အတွက် ဤအက်(ပ်)အား သင့်တည်နေရာဖတ်ခွင့် ဦးစွာပေးရပါမည်။</string>
     <string name="toast_not_show_read_calllogs_perm_req">ခေါ်ဆိုမှုမှတ်တမ်းကို ကြည့်နိုင်ရန်အတွက် ဤအက်(ပ်)အား ခေါ်ဆိုမှုမှတ်တမ်းဖတ်ခွင့် ဦးစွာပေးရပါမည်။</string>

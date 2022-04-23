@@ -27,9 +27,6 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">အိုင်တမ် %s ခုကို ဆင့်ခ်လုပ်၍ မရပါ</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">ပိတ်ဆို့စာရင်း ထည့်သွင်းမှု %d ခု</item>
     </plurals>
@@ -51,9 +48,6 @@
     <plurals name="dirty_mms_count">
         <item quantity="other">မက်ဆေ့ချ် %d စောင်</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">သီချင်း %d ပုဒ်</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">မှတ်စု %d ခု</item>
     </plurals>
@@ -69,17 +63,26 @@
     <plurals name="dirty_recorder_count">
         <item quantity="other">မှတ်တမ်း %d ခု</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">ဝှက်ထားသော ဓာတ်ပုံ %d ပုံ ဆင့်ခ်မလုပ်ရသေးပါ။ အိုင်တမ်အားလုံး ဆင့်ခ်လုပ်ပြီးမှ ဆိုင်းအောက်ထွက်ပါ၊ သို့မဟုတ်ပါက အိုင်တမ်များကို ဖျက်ပစ်လိမ့်မည်။</item>
-    </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">Wi-Fi ကွန်ရက်များ%d ခု</item>
     </plurals>
     <plurals name="dirty_wlan_count_china">
         <item quantity="other">%d WLAN networks</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s နာရီ</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s မိနစ်</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s စက္ကန့်</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">%d စက္ကန့်အကြာတွင် ထပ်စမ်းကြည့်ပါ</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">အကြောင်းအရာ %s ခု ဆင့်(ခ်)လုပ်မရပါ</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>

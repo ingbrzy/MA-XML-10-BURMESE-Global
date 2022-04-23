@@ -28,6 +28,15 @@
     <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
     <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
     <string name="copy">မိတ္တူကူးရန်</string>
+    <string name="exo_download_completed">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
+    <string name="exo_download_description">ဒေါင်းလုဒ် လုပ်ရန်</string>
+    <string name="exo_download_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
+    <string name="exo_download_failed">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
+    <string name="exo_download_notification_channel_name">ဒေါင်းလုဒ်များ</string>
+    <string name="exo_download_paused">ဒေါင်းလုဒ်များ ခဏရပ်ထားသည်</string>
+    <string name="exo_download_paused_for_network">ဒေါင်းလုဒ်များက အင်တာနက်ရရန် စောင့်နေသည်</string>
+    <string name="exo_download_paused_for_wifi">ဒေါင်းလုဒ်များက WiFi ရရန် စောင့်နေသည်</string>
+    <string name="exo_download_removing">ဒေါင်းလုဒ်များ ဖယ်ရှားနေသည်</string>
     <string name="expand_button_title">အဆင့်မြင့်</string>
     <string name="not_set">သတ်မှတ်မထားပါ</string>
     <string name="preference_copied">\"%1$s\" ကို ကလစ်ဘုတ်သို့ မိတ္တူကူးယူပြီးပါပြီ။</string>

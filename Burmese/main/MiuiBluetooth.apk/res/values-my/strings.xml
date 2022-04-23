@@ -300,7 +300,7 @@
     <string name="ims_reg_status_not_registered">မှတ်ပုံတင်မထားပါ</string>
     <string name="ims_reg_status_registered">မှတ်ပုံတင်ထားသည်</string>
     <string name="ims_reg_title">IMS မှတ်ပုံတင်ခြင်း အခြေအနေ</string>
-    <string name="imsi_protection_warning">ဤကွန်ရက်က စက်တည်နေရာကို ခြေရာခံရန် အသုံးပြုနိုင်သည့် သီးသန့် ID ကို ရရှိပါသည်။ <annotation id="url">ပိုမိုလေ့လာရန်</annotation></string>
+    <string name="imsi_protection_warning">ဤကွန်ရက်က စက်တည်နေရာကို ခြေရာခံရန် အသုံးပြုနိုင်သည့် SIM ID တစ်ခုကို ရရှိပါသည်။ <annotation id="url">ပိုမိုလေ့လာရန်</annotation></string>
     <string name="inactive_app_active_summary">ပွင့်နေသည်။ ပြောင်းရန်တို့ပါ။</string>
     <string name="inactive_app_inactive_summary">ပွင့်မနေပါ။ ပြောင်းရန်တို့ပါ။</string>
     <string name="inactive_apps_title">အရန်သင့်ထားရှိသော အက်ပ်များ</string>
@@ -538,6 +538,7 @@
     <string name="wifi_cant_connect">ချိတ်ဆက်၍ မရပါ</string>
     <string name="wifi_cant_connect_to_ap">"'%1$s' နှင့် ချိတ်ဆက်၍ မရပါ"</string>
     <string name="wifi_check_password_try_again">စကားဝှက်ကို စစ်ဆေးပြီး ထပ်လုပ်ကြည့်ပါ</string>
+    <string name="wifi_connected_low_quality">အရည်အသွေး နိမ့်သည်</string>
     <string name="wifi_connected_no_internet">အင်တာနက် မရှိပါ</string>
     <string name="wifi_disabled_by_recommendation_provider">ကွန်ရက်ချိတ်ဆက်မှု အားနည်းသည့်အတွက် ချိတ်ဆက်ထားခြင်း မရှိပါ</string>
     <string name="wifi_disabled_generic">ပိတ်ထားသည်</string>

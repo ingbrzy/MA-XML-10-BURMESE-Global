@@ -132,7 +132,7 @@
     <string name="auto_add_app_shortcut">အက်(ပ်)အသစ်များကို ပင်မမျက်နှာပြင်တွင် ထားရန်</string>
     <string name="auto_delete_category_dialog_content">လက်ရှိအက်ပ်များအား ဤအမျိုးအစားအုပ်စုအတွင်းမှ ဖယ်ရှားသွားမည်ဖြစ်ပြီး ဤအမျိုးအစားအုပ်စုကိုလည်း ဖျက်ပစ်ပါတော့မည်။ ဤအမျိုးအစားအုပ်စုကို ယခုပင် ဖျက်ပစ်မလား။</string>
     <string name="auto_delete_category_dialog_title">အမျိုးအစားအုပ်စုကို ဖျက်နေသည်</string>
-    <string name="auto_disable_screenbuttons_summary">ပြန်ဖွင့်ရန်အတွက် လမ်းညွှန်ခလုတ်တစ်ခုခုကို နှစ်ချက်ထိနှိပ်ပါ။</string>
+    <string name="auto_disable_screenbuttons_summary">အခြေအနေပြဘားတန်းကို မပြချိန်တွင် လမ်းညွှန်ခလုတ်များကို အလိုအလျောက်ပိတ်ရန်။ ပြန်ဖွင့်ရန် ကြိုက်ရာလမ်းညွှန်ခလုတ်ကို နှစ်ချက်တို့ပါ။</string>
     <string name="auto_disable_screenbuttons_title">လမ်းညွှန်ခလုတ်အား အလိုအလျောက် ပိတ်</string>
     <string name="back">ယခင်သို့</string>
     <string name="backup_fail">အစပျိုးစက်အား အရန်သိမ်း၍ မရပါ</string>
@@ -431,6 +431,7 @@
     <string name="menu_launcher_setting">အစပျိုးစက် ဆက်တင်များ</string>
     <string name="menu_lock">သော့ခတ်မျက်နှာပြင် အပြင်အဆင်</string>
     <string name="menu_more">နောက်ထပ်</string>
+    <string name="menu_no_word">စာသားမပြပါနှင့်</string>
     <string name="menu_picktheme">သင်းမ်တစ်ခု ရွေးပါ</string>
     <string name="menu_reset_scene">မူလပုံစံ အပြင်အဆင်သို့ ပြန်သတ်မှတ်ပါ</string>
     <string name="menu_search">ရှာဖွေမည်</string>
@@ -443,6 +444,7 @@
     <string name="midnight">ည</string>
     <string name="minus_one_screen">အက်ပ် မီးခံသေတ္တာ</string>
     <string name="miui_screen_config_title">ပင်မမျက်နှာပြင် ဆက်တင်</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -625,7 +627,7 @@
     <string name="recents_layout_style_vertical">ထောင်လိုက်</string>
     <string name="recents_smallwindow_drag_text">ပင်တွဲရန် ဤနေရာသို့ ဆွဲယူပါ</string>
     <string name="recents_smallwindow_text">ထည့်ရန် လက်လွှတ်ပါ</string>
-    <string name="recents_task_screening">လွှင့်တင်နေသည်</string>
+    <string name="recents_task_screening">လွှင့်တင်နေသည်</string>
     <string name="recents_title_app_manager">အက်(ပ်)များစီမံခန့်ခွဲရန်</string>
     <string name="recents_title_game">ဂိမ်းများ</string>
     <string name="recents_title_garbage_cleanup">သန့်ရှင်းစနစ်</string>
@@ -633,6 +635,11 @@
     <string name="recents_title_market">အက်(ပ်)များရှာရန်</string>
     <string name="recents_title_security_scan">လုံခြုရေးစကန်</string>
     <string name="recents_tv_small_window_text">မျောလွင့် အကွက်များ</string>
+    <string name="recents_worldcirculate_text">ရွေးရန်လက်လွှတ်ပါ</string>
+    <string name="recnets_worldcirculate_button_text">Mi စမတ် Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">ဤအက်(ပ်)က %s တွင် အလုပ်လုပ်နေသည်။</string>
+    <string name="recnets_worldcirculate_display_default_info">ဤနေရာတွင်ပြန်ထားရန် တို့ပါ။</string>
+    <string name="recnets_worldcirculate_display_pad_info">ဤအက်(ပ်)က %s တွင် အလုပ်လုပ်နေသည်။</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">အက်ပ် အကြံပြုချက်များ</string>
     <string name="recommend_apps_default_title">အလွတ်</string>

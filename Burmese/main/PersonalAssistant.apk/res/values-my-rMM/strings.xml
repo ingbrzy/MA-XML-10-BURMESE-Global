@@ -71,7 +71,6 @@
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="midnight">ည</string>
-    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -142,8 +141,6 @@
     <string name="morning">နံနက်</string>
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
-    <string name="passport_oauth_actionbar_title">Mi အကောင့်</string>
-    <string name="passport_oauth_sucess_tip">Authorized success</string>
     <string name="pm">ညနေ</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>

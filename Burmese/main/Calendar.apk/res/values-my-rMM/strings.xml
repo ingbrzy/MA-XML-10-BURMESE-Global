@@ -30,6 +30,7 @@
     <string name="alert_title">ပြက္ခဒိန်အသိပေးချက်များ</string>
     <string name="all_events">လုပ်ငန်းစဉ် အားလုံး</string>
     <string name="all_records">မှတ်တမ်းများအားလုံး</string>
+    <string name="already_num">%s ပြီးကတည်းက ကုန်လွန်ချိန်</string>
     <string name="am">နံနက်</string>
     <string name="anniversary_event_title">နှစ်ပတ်လည်နေ့−%1$s</string>
     <string name="anniversary_secondary_tag">နှစ်ပတ်လည်နေ့</string>
@@ -84,6 +85,7 @@
     <string name="close">ပိတ်</string>
     <string name="close_alarm">ပိတ်မည်</string>
     <string name="contacts_permission_desc">အဆက်အသွယ် အချက်အလက်သို့ ဝင်ရောက်မည်</string>
+    <string name="count_down_date_view">ကောင့်ဒေါင်း</string>
     <string name="countdown_event_title">နောက်ပြန်ရေတွက်ခြင်း−%1$s</string>
     <string name="countdown_notify_before_3_day_title">စောင့်ဆိုင်းချိန် - %1$s %2$d ရက်အတွင်း</string>
     <string name="countdown_notify_title">နောက်ပြန်ရေတွက်ခြင်း−%1$s</string>
@@ -121,8 +123,10 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="date_today">" (ယနေ့)"</string>
+    <string name="date_view">ရက်စွဲ</string>
     <string name="day">ရက်</string>
     <string name="day_view_new_event_hint">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="default_reminder_mode">သတိပေးချက်များ</string>
@@ -318,6 +322,7 @@
     <string name="import_action">တင်သွင်း</string>
     <string name="import_birthday">မွေးနေ့တင်သွင်း</string>
     <string name="imported">သွင်းပြီးပါပြီ</string>
+    <string name="in_progress">လုပ်ဆောင်နေသည်</string>
     <string name="insert_event_dialog_btn_negative">မဟုတ်ပါ</string>
     <string name="insert_event_dialog_btn_positive">ဟုတ်ပါသည်</string>
     <string name="insert_event_dialog_message">ပြက္ခဒိန်သို့ ဤဖြစ်စဉ်အား ပေါင်းထည့်မည်လား?</string>
@@ -468,6 +473,7 @@
     <string name="movie_card_title">ရုပ်ရှင်များ</string>
     <string name="movie_card_trailer">နမူနာများ</string>
     <string name="name_title_menstruation_today_end">ယနေ့တွင် ဓမ္မတာပြီးဆုံးမည်ဟု ခန့်မှန်းပါသည်</string>
+    <string name="near_agenda_view">လာမည့်လုပ်ငန်းစဉ်များ</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="never">ဘယ်တော့မှ</string>
     <string name="new_event_description">အသစ်</string>
@@ -668,8 +674,11 @@
     <string name="size_tera_byte">တီရာဘိုက်</string>
     <string name="skip">ကျော်ရန်</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
+    <string name="spec_agenda_view">အထူးလုပ်ငန်းစဉ်များ</string>
     <string name="start_date_calculate">တွက်ချက်</string>
     <string name="stats_title">စာရင်းကိန်းဂဏန်းများ</string>
+    <string name="still_num">%s ရောက်ရန် ကျန်ချိန်</string>
     <string name="storage_permission_denied">သိုလှောင်ခန်းသို့ ဦးစွာ ဝင်ရောက်ခွင့်ပြုပါ</string>
     <string name="subscribe_card">ယခုမှာယူပါ</string>
     <string name="subscribe_card_success">မှာယူမှုအောင်မြင်ခဲ့သည်! အိမ်မျက်နှာပြင်တွင် အသေးစိတ်အချက်အလက်များကို စစ်ဆေးပါ</string>
@@ -793,6 +802,7 @@
     <string name="today">ယနေ့</string>
     <string name="today_at_time_fmt">ယနေ့ %s</string>
     <string name="today_icon_voice_contentdescription">ယနေ့သို့ ပြန်သွားပါ</string>
+    <string name="today_no_event">ယနေ့အတွက် လုပ်ငန်းစဉ်မရှိပါ။</string>
     <string name="today_no_events">လုပ်ငန်းစဉ်များ မရှိပါ</string>
     <string name="todays_panchang_title">ယနေ့ Panchang</string>
     <string name="todo_audio_event">"[အသံ လုပ်ငန်းစဥ်] "</string>
@@ -819,7 +829,7 @@
     <string name="travel_load_failed">မရယူနိုင်ပါ</string>
     <string name="travel_loaded">Veryzhun မှထောက်ပံ့ထားသော</string>
     <string name="travel_loading">ခဏစောင့်ပါ…</string>
-    <string name="travel_local">ဦးတည်ရာနေရာ</string>
+    <string name="travel_local">ဦးတည်ရာနေရာ ù</string>
     <string name="travel_seat_number_text">ထိုင်ခုံ</string>
     <string name="travel_train_number_text">မီးရထား</string>
     <string name="travel_train_station">မီးရထားဘူတာ</string>
@@ -856,7 +866,13 @@
     <string name="widget_events">လာမည့် လုပ်ငန်းစဉ်</string>
     <string name="widget_get_weather_info">မိုးလေဝသအချက်အလက်ကို ရယူပါ</string>
     <string name="widget_no_events">လုပ်ငန်းစဉ်များ မရှိပါ</string>
+    <string name="widget_normal_agenda_tip_empty">ယနေ့အတွက် လုပ်ငန်းစဉ်မရှိပါ။</string>
+    <string name="widget_normal_agenda_today_done">ယနေ့လုပ်ငန်းစဉ်အားလုံး ပြီးဆုံးပါပြီ။</string>
+    <string name="widget_normal_more_event">နောက်ထပ်လုပ်ငန်းစဉ်များ</string>
+    <string name="widget_normal_new_event">လုပ်ငန်းစဉ်ထည့်ရန်</string>
+    <string name="widget_normal_weekN">ရက်သတ္တပတ် %d</string>
     <string name="widget_select_style">စတိုင်တစ်ခု ရွေးပါ</string>
+    <string name="widget_spec_agenda_birth_today">ယနေ့</string>
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">ပြက္ခဒိန်သည် စနစ်အက်(ပ်)တစ်ခု ဖြစ်ပြီး ၎င်းတွင် ဖြစ်စဉ်များကို ပြုလုပ် စီမံခန့်ခွဲနိုင်သည်။ ပင်မစာမျက်နှာရှော့ကတ်ကို ဖြုတ်လိုက်ပြီးလျှင်လည်း ၎င်း၏အင်္ဂါရပ်အချို့ကို ဆက်သုံးနိုင်ပါမည်။</string>
     <string name="xiaomi_calendar_delete_title">\"ပြက္ခဒိန်ကို\" ပင်မစာမျက်နှာမှ ဖြုတ်လိုသလား။</string>

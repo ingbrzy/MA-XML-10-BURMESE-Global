@@ -55,6 +55,7 @@
     <string name="account_verify_guide_bind_mail_desc">အရန်အီးမေး(လ်)ထည့်ပါ</string>
     <string name="account_verify_guide_bind_phone_desc">အရန်ဖုန်းထည့်ပါ</string>
     <string name="account_verify_guide_set_password_desc">စကားဝှက်သတ်မှတ်ပါ</string>
+    <string name="account_verify_guide_verify_phone_desc">ပြန်ဆယ်တင်ရေးဖုန်း အတည်ပြုပါ</string>
     <string name="account_xiaomi_service">ဝန်ဆောင်မှုများ</string>
     <string name="action_add_phone">ဖုန်းနံပါတ် ပေါင်းထည့်မည်</string>
     <string name="action_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -94,6 +95,10 @@
     <string name="cloud_description_closed">သုံးထားသည် | ဆင့်ခ်ကို ပိတ်ထားသည်</string>
     <string name="cloud_description_normal">သုံးထားသော</string>
     <string name="cloud_service">Xiaomi ကလောက်</string>
+    <string name="cloud_service_status_backup_not_open">အရံသိမ်းမှု ပိတ်ထားသည်</string>
+    <string name="cloud_service_status_cloud_not_open">ပိတ်မည်</string>
+    <string name="cloud_service_status_storage_full">သိုလှောင်ခန်းပြည့်နေသည်</string>
+    <string name="cloud_service_status_storage_not_enough">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
     <string name="collect_diagnosis_log">ချွတ်ယွင်းချက် ရှာဖွေရေး မှတ်တမ်း ဖန်တီးမည်</string>
     <string name="completed">အားလုံး သတ်မှတ်ပြီးပြီ!</string>
     <string name="confirm_activate_email">အတည်ပြုပြီးသော</string>
@@ -370,6 +375,8 @@
     <string name="notify_network_restricted_content_hidden_state">Mi အကောင့် နောက်ခံလုပ်ဆောင်ချက်များအား ကန့်သတ်ထားသည်။ ခွင့်ပြုရန် ထိနှိပ်ပါ</string>
     <string name="notify_network_restricted_content_mobile_network">Mi အကောင့် အင်တာနက်အား ကန့်သတ်ထားသည်။ ခွင့်ပြုရန် ထိနှိပ်ပါ။</string>
     <string name="notify_network_restricted_title">Mi အကောင့်သည် ကွန်ရက်သို့ချိတ်ဆက် မရနိုင်ခဲ့ပါ</string>
+    <string name="notify_verify_again_security_phone">အတည်ပြုမည်</string>
+    <string name="notify_verify_security_phone">ဖုန်း</string>
     <string name="oauth_get_scopes_failed">အကောင့်အချက်အလက် မရရှိနိုင်ခဲ့ပါ</string>
     <string name="oauth_getting_scopes">အကောင့်အား အတည်ပြုနေ…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> အောက်ပါခွင့်ပြုချက်များ ရရှိလိမ့်မည်−&lt;br> &lt;br> %3$s</string>
@@ -503,7 +510,7 @@
     <string name="passport_phone_num_hint_text">ဖုန်းနံပါတ်</string>
     <string name="passport_phone_ticket_login">SMS ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="passport_prev">နောက်သို့</string>
-    <string name="passport_privacy_policy">ကိုယ်ရေးလုံခြုံမှုဝါဒ</string>
+    <string name="passport_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="passport_privacy_policy_required">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
     <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
@@ -604,7 +611,7 @@
     <string name="passport_uplink_suggest_dialog_title">သတိပြုရန်</string>
     <string name="passport_use_generated_pwd_message">သင့်စကားဝှက်အား မှတ်မိကြောင်းသေချာစေပါ။ အခြား Mi ဝန်ဆောင်မှုများအား ဆိုင်းအင်ဝင်ရန် အသုံးပြုနိုင်ပါသည်။</string>
     <string name="passport_use_generated_pwd_title">သင့်စကားဝှက်အား မှတ်ထားပါ။</string>
-    <string name="passport_user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
+    <string name="passport_user_agreement">အသုံးပြုသူ သဘောတူညီချက်</string>
     <string name="passport_user_agreement_link">&lt;Data>ကျွန်ုပ်သည် Xiaomi ၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး၍ သဘောတူပါသည်။&lt;/Data></string>
     <string name="passport_user_agreement_required">အသုံးပြုသူ သဘောတူညီမှု (မဖြစ်မနေ)</string>
     <string name="passport_user_id_notice">သင်၏ Mi အကောင့် ID သည် %s ဖြစ်သည်။</string>

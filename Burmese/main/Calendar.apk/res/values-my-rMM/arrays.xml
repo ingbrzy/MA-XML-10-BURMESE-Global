@@ -87,6 +87,10 @@
         <item>ယခုနှင့် နောင်လုပ်ငန်းစဉ်များ</item>
         <item>လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>မေထုန်ရာသီဖွား</item>
@@ -129,7 +133,7 @@
         <item>တနင်္လာ</item>
         <item>အင်္ဂါ</item>
         <item>ဗုဒ္ဓဟူး</item>
-        <item>ကြာသပတေး</item>
+        <item>ကြာသာပတေး</item>
         <item>သောကြာ</item>
         <item>စနေ</item>
     </string-array>
@@ -388,7 +392,7 @@
         <item>၄ နာရီမတိုင်ခင်က</item>
         <item>၅ နာရီမတိုင်ခင်က</item>
         <item>၆ နာရီမတိုင်ခင်က</item>
-        <item>" ၁ရက် မတိုင်ခင်က"</item>
+        <item>၁ရက် မတိုင်ခင်က</item>
     </string-array>
     <string-array name="vikrami_samvat_month_names">
         <item>Chaitra</item>

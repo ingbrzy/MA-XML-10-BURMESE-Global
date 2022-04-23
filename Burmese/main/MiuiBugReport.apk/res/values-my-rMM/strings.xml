@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="account_bind_secure_email_title">ပြန်လည်ရယူရန် အီးမေးလ်ကို ထည့်သွင်းပါ</string>
     <string name="account_bind_secure_phone_title">ပြန်လည်ရယူရန် ဖုန်းနံပါတ်ကို ထည့်သွင်းပါ</string>
     <string name="account_crop_user_avatar">ဓာတ်ပုံကို ဖြတ်ထုတ်ပါ</string>
@@ -77,12 +78,12 @@
     <string name="catch_full_log_item_title_audio">အော်ဒီယို၊ ခေါ်ဆိုမှု အသံ၊ နှင့် အော်ဒီယို အသံသွင်းယူမှု</string>
     <string name="catch_full_log_item_title_bt">ဘလူးတုသ်</string>
     <string name="catch_full_log_item_title_camera">ကင်မရာ</string>
-    <string name="catch_full_log_item_title_charge">Charge</string>
+    <string name="catch_full_log_item_title_charge">အားသွင်းခြင်း</string>
     <string name="catch_full_log_item_title_dump_heap">နောက်ကျသော</string>
     <string name="catch_full_log_item_title_gps">တည်နေရာပြ ၀န်ဆောင်မှုများ</string>
     <string name="catch_full_log_item_title_sensor">အာရုံခံကိရိယာ</string>
     <string name="catch_full_log_item_title_signal">ဖုန်း၊ လိုင်းအားနှင့် မိုဘိုင်းကွန်ရက်များ</string>
-    <string name="catch_full_log_item_title_trace">Jank</string>
+    <string name="catch_full_log_item_title_trace">ဖုန်းဟန်းခြင်း</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
     <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">မှတ်တမ်းများသို့ ပြန်သွားရန် ထိနှိပ်ပါ</string>
@@ -90,11 +91,11 @@
     <string name="catch_full_log_privacy_content_audio">မှတ်တမ်းများအား ဖန်တီးပြီး သင့်စက်ထဲတွင် သိမ်းဆည်းနေသည်။ ထိုမှတ်တမ်းများတွင် ကြည့်ရှုမှု သမိုင်း၊ ရိုက်ကူးမှု မှတ်တမ်း အပါအဝင် သင့်စက်ထဲရှိ အော်ဒီယို အချက်အလက်များ ပါဝင်နိုင်သည်။ မှတ်တမ်းများအား အခြားသူထံ မပြပါနှင့်။ အောက်ရှိ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ပြဿနာများအား ရှာဖွေ၊ ဖြေရှင်းရန် မှတ်တမ်းများ ဖန်တီးနေစဥ် ကျွန်ုပ်တို့မှ အထက်ပါ ဒေတာများအား စုဆောင်း၍ ဆာဗာသို့ အပ်လုဒ်တင်ခြင်းကို သင် သဘောတူသည်ဟု ယူဆပါမည်။</string>
     <string name="catch_full_log_privacy_content_bt">မှတ်တမ်းများအား ဖန်တီးပြီး သင့်စက်ထဲတွင် သိမ်းဆည်းနေသည်။ ထိုမှတ်တမ်းများတွင် ဘလူးတုသ် သုံးစွဲမှု အချက်အလက်များ (ခေါ်ဆိုမှု သမိုင်း၊ မက်ဆေ့ချ်၊ လွဲပြောင်းဖူးသော ဖိုင်များ စသည်တို့) ပါဝင်နိုင်သည်။ မှတ်တမ်းများအား အခြားသူထံ မပြပါနှင့်။ အောက်ရှိ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ပြဿနာများအား ရှာဖွေ၊ ဖြေရှင်းရန် မှတ်တမ်းများ ဖန်တီးနေစဥ် ကျွန်ုပ်တို့မှ အထက်ပါ ဒေတာများအား စုဆောင်း၍ ဆာဗာသို့ အပ်လုဒ်တင်ခြင်းကို သင် သဘောတူသည်ဟု ယူဆပါမည်။</string>
     <string name="catch_full_log_privacy_content_camera">သင်သည် မှတ်တမ်းများထုတ်နေပြီး ၎င်းတို့ကို သင့်စက်တွင် သိမ်းနေသည်။ မှတ်တမ်းများတွင် ကင်မရာအသုံးပြုမှုဆိုင်ရာ အချက်အလက်များ (ဥပမာ - CPU ကြိမ်နှုန်း၊ စနစ်ခေါ်ဆိုမှု၊ မန်မိုရီအသုံးပြုမှု စသည်) တို့ ပါနိုင်သည်။ ဤမှတ်တမ်းများကို ဂရုစိုက်ပြီး အခြားသူများနှင့် မမျှဝေပါနှင့်။ အောက်ပါ \"သဘောတူသည်\" ကို နှိပ်ခြင်းဖြင့် ကျွန်ုပ်တို့သည် သင်တိုင်ကြားသော ပြဿနာများကို နေရာရှာရန်နှင့် ရှင်းပေးရန်အတွက် မှတ်တမ်းများထုတ်စဉ် အထက်ပါဒေတာများကို ကောက်ယူပြီး ကျွန်ုပ်တို့၏ ဆာဗာများတွင် သိမ်းမည်ဖြစ်ကြောင်း သဘောတူရာရောက်သည်။</string>
-    <string name="catch_full_log_privacy_content_charge">"You're generating logs and saving them on your device. The logs may contain Charge info. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_charge">သင်သည် မှတ်တမ်းများထုတ်နေပြီး ၎င်းတို့ကို သင့်စက်တွင် သိမ်းနေသည်။ မှတ်တမ်းများတွင် အားသွင်းခြင်းအချက်အလက်များ ပါနိုင်သည်။ ဤမှတ်တမ်းများကို ဂရုစိုက်ပြီး အခြားသူများနှင့် မမျှဝေပါနှင့်။ အောက်ပါ \"သဘောတူသည်\" ကို နှိပ်ခြင်းဖြင့် ကျွန်ုပ်တို့သည် သင်တိုင်ကြားသော ပြဿနာများကို နေရာရှာရန်နှင့် ရှင်းပေးရန်အတွက် မှတ်တမ်းများထုတ်စဉ် အထက်ပါဒေတာများကို ကောက်ယူပြီး ကျွန်ုပ်တို့၏ ဆာဗာများတွင် သိမ်းမည်ဖြစ်ကြောင်း သင်သဘောတူရာရောက်သည်။</string>
     <string name="catch_full_log_privacy_content_gps">မှတ်တမ်းများအား ဖန်တီးပြီး သင့်စက်ထဲတွင် သိမ်းဆည်းနေသည်။ ထိုမှတ်တမ်းများတွင် သင်၏ ပုဂ္ဂိုလ်ရေးရာ အချက်လက် နှင့် တည်နေရာ အချက်အလက်များ ပါဝင်နိုင်သည်။ မှတ်တမ်းများအား အခြားသူထံ မပြပါနှင့်။ အောက်ရှိ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ပြဿနာများအား ရှာဖွေ၊ ဖြေရှင်းရန် မှတ်တမ်းများ ဖန်တီးနေစဥ် ကျွန်ုပ်တို့မှ အထက်ပါ ဒေတာများအား စုဆောင်း၍ ဆာဗာသို့ အပ်လုဒ်တင်ခြင်းကို သင် သဘောတူသည်ဟု ယူဆပါမည်။</string>
     <string name="catch_full_log_privacy_content_sensor">မှတ်တမ်းများအား ဖန်တီးပြီး သင့်စက်ထဲတွင် သိမ်းဆည်းနေသည်။ ထိုမှတ်တမ်းများတွင် စက် အာရုံခံကိရိယာမှ စုဆောင်းထားသော အချက်အလက်များ (ပတ်ဝန်းကျင် အလင်းခံ ကိရိယာ၊ လေဖိအားတိုင်း ကိရိယာ၊ ခြေလှမ်းတွက်စက်နှင့် သံလိုက်စက်ကွင်းတိုင်း ကိရိယာ စသည်တို့) ပါဝင်နိုင်သည်။ မှတ်တမ်းများအား အခြားသူထံ မပြပါနှင့်။ အောက်ရှိ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ပြဿနာများအား ရှာဖွေ၊ ဖြေရှင်းရန် မှတ်တမ်းများ ဖန်တီးနေစဥ် ကျွန်ုပ်တို့မှ အထက်ပါ ဒေတာများအား စုဆောင်း၍ ဆာဗာသို့ အပ်လုဒ်တင်ခြင်းကို သင် သဘောတူသည်ဟု ယူဆပါမည်။</string>
     <string name="catch_full_log_privacy_content_signal">မှတ်တမ်းများအား ဖန်တီးပြီး သင့်စက်ထဲတွင် သိမ်းဆည်းနေသည်။ ထိုမှတ်တမ်းများတွင် သင်၏ မက်ဆေ့ချ်၊ ခေါ်ဆိုမှု သမိုင်း၊ ကွန်ရက် အချက်အလက်နှင့် ဆက်သွယ်ရေး ဒေတာများ ပါဝင်နိုင်သည်။ မှတ်တမ်းများအား အခြားသူထံ မပြပါနှင့်။ အောက်ရှိ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ပြဿနာများအား ရှာဖွေ၊ ဖြေရှင်းရန် မှတ်တမ်းများ ဖန်တီးနေစဥ် ကျွန်ုပ်တို့မှ အထက်ပါ ဒေတာများအား စုဆောင်း၍ ဆာဗာသို့ အပ်လုဒ်တင်ခြင်းကို သင် သဘောတူသည်ဟု ယူဆပါမည်။</string>
-    <string name="catch_full_log_privacy_content_trace">"You're generating logs and saving them on your device. The logs may contain Program running record (including CPU frequency, system call, memory usage etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="catch_full_log_privacy_content_trace">သင်သည် မှတ်တမ်းများထုတ်နေပြီး ၎င်းတို့ကို သင့်စက်တွင် သိမ်းနေသည်။ မှတ်တမ်းများတွင် အက်(ပ်)အသုံးပြုမှုဆိုင်ရာ ကိန်းဂဏန်းများ (ဥပမာ - CPU ကြိမ်နှုန်း၊ စနစ်ခေါ်ဆိုမှု၊ မန်မိုရီအသုံးပြုမှု စသည်) တို့ ပါနိုင်သည်။ ဤမှတ်တမ်းများကို ဂရုစိုက်ပြီး အခြားသူများနှင့် မမျှဝေပါနှင့်။ အောက်ပါ \"သဘောတူသည်\" ကို နှိပ်ခြင်းဖြင့် ကျွန်ုပ်တို့သည် သင်တိုင်ကြားသော ပြဿနာများကို နေရာရှာရန်နှင့် ရှင်းပေးရန်အတွက် မှတ်တမ်းများထုတ်စဉ် အထက်ပါဒေတာများကို ကောက်ယူပြီး ကျွန်ုပ်တို့၏ ဆာဗာများတွင် သိမ်းမည်ဖြစ်ကြောင်း သင်သဘောတူရာရောက်သည်။</string>
     <string name="catch_full_log_privacy_content_wifi">မှတ်တမ်းများအား ဖန်တီးပြီး သင့်စက်ထဲတွင် သိမ်းဆည်းနေသည်။ ထိုမှတ်တမ်းများတွင် သင်၏ ပုဂ္ဂိုလ်ရေးရာ အချက်လက်၊ IP နှင့် MAC လိပ်စာ အပါအဝင် တည်နေရာ အချက်အလက် စသည်တို့ ပါဝင်နိုင်သည်။ လျှို့ဝှက်ကုဒ် မခံထားသော Wi-Fi အား ချိတ်ဆက်ဖူးပါက ဆက်သွယ်ရေး အချက်အလက် အချို့လည်း ပါဝင်နိုင်သည်။ မှတ်တမ်းများအား အခြားသူထံ မပြပါနှင့်။ အောက်ရှိ \"သဘောတူပါသည်\"အား ထိနှိပ်ခြင်းဖြင့် ပြဿနာများအား ရှာဖွေ၊ ဖြေရှင်းရန် မှတ်တမ်းများ ဖန်တီးနေစဥ် ကျွန်ုပ်တို့မှ အထက်ပါ ဒေတာများအား စုဆောင်း၍ ဆာဗာသို့ အပ်လုဒ်တင်ခြင်းကို သင် သဘောတူသည်ဟု ယူဆပါမည်။</string>
     <string name="catch_full_log_privacy_content_wifi_china">"You're generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you're connected to an unencrypted WLAN network, we might also be able to access parts of your communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
     <string name="catch_full_log_start_dump_hprof">နောက်ကျသော မှတ်တမ်းအား ရယူမည်</string>
@@ -110,7 +111,7 @@
     <string name="confirm_activate_email">အတည်ပြုပြီးပါပြီ</string>
     <string name="confirm_bundled_phone_dialog_title">ဆက်စပ်ဖုန်းနံပါတ်ကို အတည်ပြုပါ</string>
     <string name="confirm_new_pwd">စကားဝှက်အသစ် ထည့်သွင်းပါ</string>
-    <string name="confirm_unbundled_phone_dialog_message">ဤဖုန်းနံပါတ်အား %1$s ပေါ်မှ Mi အကောင့် %2$s နှင့် တွဲသုံးထားပါသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %2$s နှင့် တွဲထားတော့မည် မဟုတ်ပါ။ ဆက်လုပ်လိုပါသလား။</string>
+    <string name="confirm_unbundled_phone_dialog_message">ဤဖုန်းနံပါတ်အား %1$s ပေါ်မှ Mi အကောင့် %2$s နှင့် တွဲသုံးထားပါသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %3$s နှင့် တွဲထားတော့မည် မဟုတ်ပါ။ ဆက်လုပ်လိုပါသလား။</string>
     <string name="cta_cancel">ပယ်ဖျက်မည်</string>
     <string name="cta_confirm">အိုကေ</string>
     <string name="cta_dialog_content">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။</string>
@@ -127,12 +128,15 @@
     <string name="description">အကြောင်းကိစ္စ ဖော်ပြပါ</string>
     <string name="diagnosis_log_send_failed">မှတ်တမ်းများကို ပို့မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="diagnosis_log_sent_format">"မှတ်တမ်းများကို အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ။
-ID -
+ID - %s
 ကြီးကြပ်သူထံ ဤကုဒ်ကို ပေးပို့မည်။"</string>
     <string name="discard_draft_dialog_button_cancel">ဒီမှာပဲ ရှိနေစေပါ</string>
     <string name="discard_draft_dialog_button_discard">စွန့်ပစ်ပါ</string>
     <string name="discard_draft_dialog_content">ဒီရီပို့ထဲ၌ သင်ပြုလုပ်သော အပြောင်းအလဲအားလုံး ပျောက်ဆုံးပါလိမ့်မည်။</string>
     <string name="discard_draft_dialog_title">အကြမ်းကို စွန့်ပစ်မလား။</string>
+    <string name="doing_login">အကောင့်ဝင်နေသည်…</string>
+    <string name="doing_query_account">အကောင့်အချက်အလက်များစစ်နေသည်…</string>
+    <string name="doing_register">အကောင့်လုပ်နေသည်…</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
@@ -334,10 +338,12 @@ ID -
     <string name="goon_feedback_main">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="goto_sign_up">အကောင့်တစ်ခု ဖန်တီးမည်</string>
     <string name="hint_feedback_main">အကြောင်းကိစ္စ ဖော်ပြပါ</string>
-    <string name="i_get_it">Got it</string>
+    <string name="i_get_it">ရပါပြီ</string>
+    <string name="i_know">နားလည်ပါပြီ</string>
     <string name="identity">အတည်ပြုမှု</string>
     <string name="inconsistent_pwd">စကားဝှက် မကိုက်ညီပါ</string>
     <string name="input_email_address_notice">သင့်အကောင့်ကို အတည်ပြုစစ်ဆေးရန် ဤအီးမေးလ်ကို အသုံးပြုသွားပါမည်</string>
+    <string name="input_length_exceeds_limit">သင် ရိုက်ထည့်သော စာသားမှာ ရှည်လွန်းသည်။</string>
     <string name="input_new_pwd">စကားဝှက်အသစ် ထည့်သွင်းပါ</string>
     <string name="isornot_your_mi_account">သင်၏ Mi အကောင့် ဟုတ်ပါသလား?</string>
     <string name="issue_search">ရှာ​ဖွေမည်</string>
@@ -363,6 +369,11 @@ ID -
     <string name="kr_authorization_user_protocol">အသုံးပြုသူ သဘောတူညီမှု (မဖြစ်မနေ)</string>
     <string name="loading">စက္ကန့်အနည်းငယ် စောင့်ပါ…</string>
     <string name="loading_apps">စာရင်းဆွဲချနေဆဲ…</string>
+    <string name="login_by_local_phone_long_text">ယခုအကောင့်ဝင်ရန်</string>
+    <string name="login_by_local_phone_short_text">အကောင့်ဝင်ရန်</string>
+    <string name="login_other">အခြား Mi အကောင့်</string>
+    <string name="login_register_by_local_phone_long_text">အကောင့်လုပ်ရန်</string>
+    <string name="login_with_sns">အကောင့်ဝင်ရန် အခြားနည်းလမ်းများ</string>
     <string name="logo_title">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="logout_account">ဆိုင်းအောက်လုပ်မည်</string>
     <string name="menu_copy">ကော်ပီကူးပါ</string>
@@ -464,6 +475,8 @@ ID -
     <string name="morning">နံနက်</string>
     <string name="net_error_info">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ၊ ဆက်တင်များသို့သွားရန် ဤနေရာကို တို့ပါ</string>
     <string name="network_err">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။</string>
+    <string name="network_error_info">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="network_timeout_info">ကွန်ရက်ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="network_unavailable_dialog_button_ok">အိုကေ</string>
     <string name="network_unavailable_dialog_content">သင့်ရီပို့ကို သင့်၌ ဒေတာချိတ်ဆက်မှုတစ်ခု ရှိလာချိန်မှာ ပို့ပါလိမ့်မည်။</string>
     <string name="network_unavailable_dialog_title">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
@@ -476,6 +489,7 @@ ID -
     <string name="nothing">--</string>
     <string name="ok">အိုကေ</string>
     <string name="open_feedback_main">နောက်ထပ်</string>
+    <string name="open_settings">ဆက်တင်</string>
     <string name="passport_access_denied">ဝင်သုံးခွင့်ကို ငြင်းပယ်ထားသည်</string>
     <string name="passport_account_label">Mi အကောင့်</string>
     <string name="passport_account_name">"အကောင့် - %1$s "</string>
@@ -483,6 +497,7 @@ ID -
     <string name="passport_area_code_title">ဧရိယာကုဒ်</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_barcode_add_account_prompt">အကောင့်တစ်ခု ထည့်သွင်းရန်အတွက် အကောင့်ဝင်ပြီးနောက်တွင် QR ကုဒ်ကို နောက်တစ်ကြိမ် စကန်ဖတ်ပါ။</string>
+    <string name="passport_can_not_receive_verification_code">အတည်ပြုကုဒ် မရဘူးလား။</string>
     <string name="passport_captcha_title">ပုံ၌ပြသောကုဒ်</string>
     <string name="passport_checking_account">စကားဝှက်ကို စစ်ဆေးနေသည်…</string>
     <string name="passport_close">ပိတ်ပါ</string>
@@ -551,8 +566,8 @@ ID -
     <string name="passport_unknow_error">အမည်မသိသော ချို့ယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="passport_unknow_host_network_error">ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="passport_unknow_network_error">ကွန်ယက်ချို့ယွင်းမှု ဖြစ်ပေါ်ခဲ့သည်</string>
-    <string name="passport_user_agreement_link">&lt;Data>ကျွန်ုပ်သည် Xiaomi ၏ &lt;a href=\"%1$s\">သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>ကျွန်ုပ်သည် အောက်ဖော်ပြပါ မှတ်တမ်းများ ဖြစ်ကြသော Xiaomi ၏ &lt;a href=\"%1$s\">သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%4$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>ကျွန်ုပ်သည် Xiaomi ၏ &lt;a href=%1$s>သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=%2$s>ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>ကျွန်ုပ်သည် အောက်ဖော်ပြပါ မှတ်တမ်းများ ဖြစ်ကြသော Xiaomi ၏ &lt;a href=%1$s>သုံးစွဲသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=%4$s>ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>တို့အား ဖတ်ရှုနားလည်၍ သဘောတူလက်ခံပါသည်။&lt;/Data></string>
     <string name="passport_user_id_intro">%1$s အတွက် စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="passport_v_code_error">အတည်ပြုကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_vcode_notification_title">သင်၏ အကောင့်ဝင်ရန် အတည်ပြုမှု မပြီးသေးပါ</string>
@@ -574,19 +589,29 @@ ID -
     <string name="post_miui_bbs_failed">MIUI ဖိုရမ်သို့ ပို့စ်မတင်နိုင်ခဲ့ပါ</string>
     <string name="privacy_category_title">ကိုယ်ရေးလုံခြုံမှု</string>
     <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
+    <string name="privacy_policy_update_hint">"%1$s ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို အပ်ပဒိတ်လုပ်ထားသည် -
 %2$s
-Read and agree to the new version of %3$s before you continue."</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+ရှေ့မဆက်မီ %3$s ဗားရှင်းအသစ်ကို ဖတ်ရှုပြီး သဘောတူပါ။"</string>
+    <string name="privacy_policy_update_title">အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="psw_hint">စကားဝှက်</string>
     <string name="psw_sign_in">စကားဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="refresh">ပြန်လန်းဆန်း</string>
+    <string name="register_by_local_phone_long_text">အကောင့်လုပ်ရန်</string>
+    <string name="register_by_local_phone_short_text">အကောင့်လုပ်ရန်</string>
     <string name="related_question_answer_details">ဆက်စပ်ကိစ္စများ</string>
     <string name="reply_failed">စာမပြန်နိုင်ခဲ့ပါ</string>
     <string name="reply_option_log_hint">ရွေးချယ်နိုင်သော</string>
     <string name="reply_select_log_hint">မှတ်တမ်း ရွေးပါ</string>
     <string name="reply_successful">စာပြန်မှု အောင်မြင်ခဲ့သည်</string>
     <string name="report_miui">ချွတ်ယွင်းမှု ရီပို့တင်ပါ</string>
+    <string name="request_agree">ခွင့်ပြုရန်</string>
+    <string name="request_camera_permission_message">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တည်ဆဲဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့်အညီ ကာကွယ်ပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် - &lt;br>&lt;br>&lt;b>ကင်မရာအသုံးပြုခြင်း (သင့်ပရိုဖိုင်ပုံကို သတ်မှတ်ရန်)&lt;/b>&lt;br>&lt;br> ထိုခွင့်ပြုချက်များကို သင်သဘောမတူပါက ဤအက်(ပ်)၏ အချို့အင်္ဂါရပ်များကို သုံးနိုင်မည်မဟုတ်ဘဲ အခြေခံလုပ်ဆောင်ချက်များသာ ရရှိပါမည်။ ဆက်တင်များထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ခြင်း သို့မဟုတ် ပြန်ရုတ်သိမ်းခြင်းကို အချိန်မရွေး ပြုလုပ်နိုင်သည်။</string>
+    <string name="request_cancel">မလုပ်တော့ရန်</string>
+    <string name="request_error_invalid_token">အတည်ပြုမရပါ</string>
+    <string name="request_error_network">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="request_error_unknown">စနစ်အမှားအယွင်းရှိသည်။ နောက်ပြန်သွားပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="request_gallery_permission_message">ပြခန်းသို့ ဝင်ခွင့်ပြုရန် -&lt;br />ဆက်တင်ပရိုဖိုင်ပုံများအတွက်</string>
     <string name="resend_active_email">ပြန်ပို့ပြီးပါပြီ</string>
     <string name="resend_email_reach_limit_message">အတည်ပြုရန် အီးမေးလ်များစွာကို သင်တောင်းခံခဲ့ပါသည်။ အတည်ပြုရန် အီးမေးလ်မှာ သင်၏ အဝင်စာတိုက်ပုံး၏ အမှိုက်စာ ဖိုလ်ဒါအတွင်းတွင် ရှိမနေစေရန် အသေအချာ ဆောင်ရွက်ပါ။</string>
     <string name="resend_email_reach_limit_title">အကြိမ်များစွာ ကြိုးစားထားသည်</string>
@@ -610,6 +635,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="sign_in">အကောင့်ဝင်နေသည်</string>
     <string name="sign_in_progress">အကောင့်ဝင်နေသည်…</string>
     <string name="sign_in_title">သင်၏ Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="skip_query_account">ကျော်ရန်</string>
     <string name="sms_send_success">အောင်မြင်စွာ ပို့ပြီးပါပြီ</string>
     <string name="sns_access_token_expired_warning">ခွင့်ပြုချိန် ကုန်သွားပါပြီ။ ဤအကောင့်နှင့် ပြန်လည်ချိတ်ဆက်ရန် နောက်တစ်ကြိမ် အကောင့်ဝင်ပါ။</string>
     <string name="sns_bind_limit">အကြိမ်များစွာ ကြိုးစားထားသည်။ အကောင့်ဝင်ရန် အခြားနားလမ်းများဖြင့် ကြိုးစားပေးပါ။</string>
@@ -622,6 +648,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="submit_dialog_confirm">သဘောတူပါသည်</string>
     <string name="submit_dialog_content">&lt;Data>တုံ့ပြန်အကြံပြုချက်မပို့မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင်တိုင်ကြားသော ပြဿနာနှင့် ပူးတွဲပို့ထားသော (ကိုယ်ရေးအချက်အလက်များနှင့် သင့်စက်ပစ္စည်းနှင့် ကွန်ရက်ဆိုင်ရာအချက်အလက်များပါဝင်နိုင်သည့်) အကြောင်းအရာများကို MIUI ဆာဗာများတွင် တင်ပါမည်။ သို့မှသာ သင်တိုင်ကြားသော ပြဿနာများကို နေရာရှာပြီး ဖြေရှင်းနိုင်မည်ဖြစ်သည်။ စက်အမျိုးမျိုးအတွက် ပြဿနာများကို တိုင်ကြားလိုပါက သင့် Mi အကောင့်သုံးသော အခြားစက်များမှ မှတ်တမ်းများကိုလည်း တင်ပါမည်။&lt;/Data></string>
     <string name="submit_dialog_content_global">&lt;Data>သင်၏ တုံ့ပြန်အကြံပြုချက်နှင့်အတူ ပူးပွဲပါဖိုင်များ (တွဲထားပါက) နှင့် မှတ်တမ်းများ (မတင်လိုပါက သက်ဆိုင်ရာအကွက်တွင် အမှန်မခြစ်ပါနှင့်) တို့ကို MIUI ဆာဗာများတွင် တင်ပါမည်။ မှတ်တမ်းများတွင် သင်၏ ကိုယ်ရေးအချက်အလက်များနှင့် သင့်တည်နေရာအချက်အလက်များ ပါဝင်နိုင်သည်။ \"သဘောတူသည်\" ကို ရွေးခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရာရောက်ပါသည်။&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>သင့်တုံ့ပြန်အကြံပြုချက်နှင့်တကွ ပူးတွဲပါဖိုင်များ (တွဲထားပါက)၊ မှတ်တမ်းများ (မတင်လိုပါက သက်ဆိုင်ရာအကွက်တွင် အမှန်မခြစ်ပါနှင့်)၊ ဖုန်းနံပါတ် သို့မဟုတ် အီးမေး(လ်)တို့ကို MIUI ဆာဗာများတွင် တင်ပါမည်။ မှတ်တမ်းများတွင် ကိုယ်ရေးကိုယ်တာအချက်အလက်များနှင့် တည်နေရာအချက်အလက်များ ပါနိုင်သည်။ \"သဘောတူသည်\" ကို ရွေးခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏&lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရာရောက်သည်။&lt;/Data></string>
     <string name="submit_dialog_not_show_again">ထပ်မပြပါနှင့်</string>
     <string name="submit_dialog_title">အစီရင်ခံစာ ပေးပို့မည်</string>
     <string name="submit_feedback_info_failed">အစီရင်ခံစာကို ပို့လို့မရပါ</string>
@@ -634,6 +661,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
     <string name="system_app_select">အပြီးတပ်ဆင်ထားသော အက်ပ်များ</string>
+    <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="tab_title_chat">မေးလေ့ရှိသော မေးခွန်းများ</string>
     <string name="tab_title_my_reports">ကျွန်ုပ်၏အစီရင်ခံစာများ</string>
     <string name="tab_title_preferences">ဆက်တင်</string>
@@ -725,6 +753,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
+    <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="update_dialog_cancel">မလုပ်တော့ရန်</string>
     <string name="update_dialog_confirm">အပ်ပဒိတ်လုပ်မည်</string>
     <string name="update_dialog_content_log">"ဘာအသစ်ရှိလဲ - 
@@ -737,21 +766,31 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="update_phone_notice">လုံခြုံရေးဆက်တင်များကို ပြောင်းမည်</string>
     <string name="upload_error_log">မှတ်တမ်းကို အပ်လုဒ်လုပ်မည်</string>
     <string name="upload_log_failed">မှတ်တမ်းများကို ပို့လို့မရပါ</string>
+    <string name="user_agreement_hint_3rd_app">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> အပြင် Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_default">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_first_login">သင့်ဖုန်းနံပါတ်ကို ပထမအကြိမ်အသုံးပြုခြင်းဖြစ်ပါက အလိုအလျောက် အကောင့်ဖွင့်ပေးပါမည်။</string>
+    <string name="user_agreement_hint_with_mobile">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_with_telecom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_hint_with_unicom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းမည်</string>
     <string name="user_avatar_uploading">တစ်စက္ကန့်စောင့်ပါ…</string>
     <string name="user_id_hint">အီးမေးလ်/ဖုန်း/Mi အကောင့် ID</string>
-    <string name="user_must_known">Attention</string>
-    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_must_known">သတိပြုရန်</string>
+    <string name="user_must_known_content">ကျွန်ုပ်တို့၏ %s ဗားရှင်းအသစ်ကို သဘောမတူပါက ဝန်ဆောင်မှုများကို သုံးမရပါ။ အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို ယခုသဘောတူလိုသလား။</string>
+    <string name="user_name_phone_number">ဖုန်းနံပါတ်</string>
     <string name="v_code_title">အတည်ပြုကုဒ် ထည့်သွင်းပါ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
     <string name="withdraw">ရုပ်သိမ်းရန်</string>
     <string name="withdraw_consent">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
-    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
-    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="withdraw_consent_hint">"If you continue, you'll withdraw your consent to the Privacy Policy of %1$s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %2$s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %3$s services. Withdraw consent now?"</string>
-    <string name="withdrawing">Withdrawing consent…</string>
+    <string name="withdraw_consent_failed">သဘောတူခွင့်ပြုချက် ရုပ်သိမ်းမရပါ</string>
+    <string name="withdraw_consent_failed_hint">ဆာဗာအမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ် စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="withdraw_consent_failed_hint_connect_net">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="withdraw_consent_hint">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် %1$s ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ %2$s သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် %3$s ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
+    <string name="withdrawing">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းနေသည်…</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

@@ -8,8 +8,10 @@
     <string name="afternoon">နေ့လယ်</string>
     <string name="am">နံနက်</string>
     <string name="app_name">မျက်နှာပြင်ရိုက်ချက်</string>
+    <string name="can_drag">ထည့်ရန် သို့မဟုတ် ပို့ရန် ဖိဆွဲပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="close">ပိတ်</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">မျက်နှာပြင်ဓာတ်ပုံများသိမ်းရန်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -75,12 +77,16 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="long_screenshot_error">အမှားအယွင်းရှိသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="long_screenshot_guide_text">"မျက်နှာပြင်ရိုက်ချက် အရှည်
 ရိုက်ယူရန် ထိနှိပ်ပါ"</string>
+    <string name="long_screenshot_intercepted_error">မျက်နှာပြင်ပုံ ရိုက်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="long_screenshot_out_of_memory_error">ရုပ်ပုံအရွယ်အစား ကြီးလွန်းသည်</string>
     <string name="long_screenshot_processing">လုပ်ဆောင်နေသည်…</string>
+    <string name="long_screenshot_processing_description_accessibility">လုပ်ဆောင်နေသည်</string>
     <string name="long_screenshot_stop">ပြီးပြီ</string>
     <string name="long_screenshot_top_msg">မျက်နှာပြင်ရိုက်ချက်ဖန်တီးနေ…</string>
+    <string name="long_screenshot_top_msg_description_accessibility">မျက်နှာပြင်ဓာတ်ပုံရိုက်ခြင်း</string>
     <string name="long_screenshot_top_msg_manual">မျက်နှာပြင်ရိုက်ချက်အား ဖြတ်ထုတ်ပြီ အပြီးသတ်ရန် ခလုတ်အား ထိနှိပ်ပါ</string>
     <string name="midnight">ည</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
@@ -160,11 +166,13 @@
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
+    <string name="save_success">အောင်မြင်စွာသိမ်းပြီးပါပြီ</string>
     <string name="screenshot_edit">တည်းဖြတ်</string>
     <string name="screenshot_failed_in_landscape_mode">အလျားလိုက်မုဒ်တွင် မျက်နှာပြင်ရိုက်ချက်များကို ရွှေ့မရပါ</string>
     <string name="screenshot_feedback_txt">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="screenshot_insert_failed">မျက်နှာပြင်ရိုက်ချက်အား ရယူ၍ မရပါ။ ပုံအသစ် ပြန်ရိုက်ပါ သို့မဟုတ် ပြခန်းတွင် ပုံအား စစ်ကြည့်ပါ။</string>
     <string name="screenshot_long_screenshot">စာလိပ်</string>
+    <string name="screenshot_save">သိမ်းရန်</string>
     <string name="screenshot_send">ပေးပို့</string>
     <string name="screenshot_thumbnail">မျက်နှာပြင်ရိုက်ချက်ပုံငယ်</string>
     <string name="send">ပို့ပါ</string>

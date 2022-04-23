@@ -52,30 +52,10 @@
         <item>အက်(ပ်)ဒေတာဆင့်(ခ်)လုပ်ရန်</item>
         <item>စက်ရှာဖွေစနစ်</item>
     </string-array>
-    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
-        <item>သင့်စက်ကို စိစစ်ရန်</item>
-        <item>စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်</item>
-    </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
         <item>စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်</item>
         <item>အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်</item>
         <item>အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်အတွက် ဖုန်းနံပါတ် ဖတ်ခွင့်ပြုရန်</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>ဖြစ်ရပ်များ ဆင့်(ခ်)လုပ်ရန်</item>
-        <item>မက်ဆေ့(ချ်)များ ဆင့်(ခ်)လုပ်ရန်</item>
-        <item>မက်ဆေ့(ချ်)များ ဆင့်(ခ်)လုပ်ရန်</item>
-        <item>အဆက်အသွယ်များ ဆင့်(ခ်)လုပ်ရန်</item>
-        <item>အဆက်အသွယ်များ ဆင့်(ခ်)လုပ်ရန်</item>
-        <item>သင့်စက်တွင် (ပုံများ၊ ဗီဒီယိုများ၊ သီချင်းများ) စသော အရာများ သိမ်းရန်</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_title">
-        <item>ပြက္ခဒိန်ဖြစ်စဉ်များ ဖတ်ခွင့်ပြုရန်</item>
-        <item>SMS ပို့ရန်</item>
-        <item>MMS ဖတ်ရန်</item>
-        <item>အဆက်အသွယ်များ ဖတ်ခွင့်ပြုရန်</item>
-        <item>အဆက်အသွယ်များကို တည်းဖြတ်ရန်နှင့် ဖျက်ရန်</item>
-        <item>စက်ရှိ ဓာတ်ပုံများ သို့မဟုတ် ဖိုင်များကို ဖတ်ခွင့်ပြုရန်</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>အရန်သိမ်းခြင်းများ</item>
@@ -121,11 +101,6 @@
         <item>ပြခန်းကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
         <item>ဆင့်ခ်အား ဖွင့်မည်/သတ်မှတ်မည်</item>
         <item>ပြခန်း၊ဓာတ်ပုံများ၊ကလောက်၊ဆင့်(ခ်)၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
-    </string-array>
-    <string-array name="settings_search_music">
-        <item>တေးဂီတကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
-        <item>ဆင့်ခ်အား ဖွင့်ပါ</item>
-        <item>တေးဂီတ၊ကလောက်၊ဆင့်(ခ်)၊ကလောက် ဝန်ဆောင်မှုများ၊Xiaomi ကလောက်</item>
     </string-array>
     <string-array name="settings_search_notes">
         <item>မှတ်စုများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</item>
@@ -206,9 +181,5 @@
         <item>Sync WLAN settings with Xiaomi Cloud</item>
         <item>Turn on sync</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="user_detail_fixed_items">
-        <item>ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များကို ကြည့်ရှုရန်</item>
-        <item>သိုလှောင်မှု အသေးစိတ်များ</item>
     </string-array>
 </resources>

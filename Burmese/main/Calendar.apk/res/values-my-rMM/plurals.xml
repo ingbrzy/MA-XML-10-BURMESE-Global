@@ -45,6 +45,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">%d မိနစ်အတွင်း</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s ရက်</item>
     </plurals>
@@ -141,6 +144,9 @@
     <plurals name="num_picker_hint">
         <item quantity="other">"  ရက်"</item>
     </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">နောက်ထပ်လုပ်ငန်းစဉ် %d ခု</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">%1$s ၏ %2$s တိုင်း</item>
     </plurals>
@@ -177,11 +183,32 @@
     <plurals name="title_menstruation_predict_period">
         <item quantity="other">ဓမ္မတာလာရန် ခန့်မှန်းရက် %1$d ရက်</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">ယနေ့လုပ်ငန်းစဉ် %d ခု</item>
+    </plurals>
     <plurals name="travel_eta_advice">
         <item quantity="other">%1$sသို့ မောင်းရန် %2$sမိနစ် ကြာမည်။</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">%d အပတ်</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s ရက်</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d ရက်</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">လုပ်ငန်းစဉ် %d ခု လုပ်ဆောင်နေသည်</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">%d မိနစ်အတွင်း လာမည့်လုပ်ငန်းစဉ်</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">မနက်ဖြန် လုပ်ငန်းစဉ် %d ခု</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">ရက်သတ္တပတ် %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">အလုပ်လုပ်ရက် %d ရက်</item>

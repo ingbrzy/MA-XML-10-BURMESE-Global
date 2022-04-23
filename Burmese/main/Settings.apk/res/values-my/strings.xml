@@ -1145,7 +1145,7 @@
     <string name="clear_activities">မူရင်းများကို ရှင်းလင်းခြင်း</string>
     <string name="clear_adb_keys">USB အမှားရှာပြင်ဆင်ခွင့်များ ပြန်ရုပ်သိမ်းခြင်း</string>
     <string name="clear_cache_btn_text">ကက်ရှ် ရှင်းလင်းရန်</string>
-    <string name="clear_data_dlg_text">ဤအက်ပ်၏ ဒေတာအားလုံးကို အပြီးဖျက်ပါမည်။ ဖိုင်၊ ဆက်တင်၊ အကောင့်၊ ဒေတာဘေ့စ်စသည်တို့ အားလုံးပါဝင်သည်။</string>
+    <string name="clear_data_dlg_text">ဤအက်ပ်၏ ဒေတာကို အပြီးဖျက်ပါမည်။ ၎င်းတွင် ဖိုင်၊ ဆက်တင်၊ ဒေတာဘေ့စ်နှင့် အခြားအက်ပ် ဒေတာများ ပါဝင်သည်။</string>
     <string name="clear_data_dlg_title">အက်ပ်ဒေတာ ဖျက်မလား။</string>
     <string name="clear_failed_dlg_text">အက်ပ်အတွက် သိုလှောင်ခန်းကို ရှင်းလင်း၍မရပါ။</string>
     <string name="clear_instant_app_confirmation">ဤချက်ချင်းသုံးအက်ပ်ကို ဖယ်ရှားလိုပါသလား။</string>
@@ -1176,7 +1176,6 @@
     <string name="color_unspecified">ပုံသေ</string>
     <string name="color_white">အဖြူ</string>
     <string name="color_yellow">အဝါ</string>
-    <string name="common_google_play_services_unknown_issue">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="computing_size">တွက်ချက်နေသည်…</string>
     <string name="condition_airplane_summary">ကွန်ရက်များ မရနိုင်ပါ</string>
     <string name="condition_airplane_title">လေယာဉ်ပျံမုဒ် ဖွင့်ထားသည်</string>
@@ -2059,7 +2058,7 @@
     <string name="ims_reg_status_not_registered">မှတ်ပုံတင်မထားပါ</string>
     <string name="ims_reg_status_registered">မှတ်ပုံတင်ထားသည်</string>
     <string name="ims_reg_title">IMS မှတ်ပုံတင်ခြင်း အခြေအနေ</string>
-    <string name="imsi_protection_warning">ဤကွန်ရက်က စက်တည်နေရာကို ခြေရာခံရန် အသုံးပြုနိုင်သည့် သီးသန့် ID ကို ရရှိပါသည်။ <annotation id="url">ပိုမိုလေ့လာရန်</annotation></string>
+    <string name="imsi_protection_warning">ဤကွန်ရက်က စက်တည်နေရာကို ခြေရာခံရန် အသုံးပြုနိုင်သည့် SIM ID တစ်ခုကို ရရှိပါသည်။ <annotation id="url">ပိုမိုလေ့လာရန်</annotation></string>
     <string name="inactive_app_active_summary">ပွင့်နေသည်။ ပြောင်းရန်တို့ပါ။</string>
     <string name="inactive_app_inactive_summary">ပွင့်မနေပါ။ ပြောင်းရန်တို့ပါ။</string>
     <string name="inactive_apps_title">အရန်သင့်ထားရှိသော အက်ပ်များ</string>
@@ -2260,6 +2259,7 @@
     <string name="legal_information">ဥပဒေဆိုင်ရာအချက်အလက်များ</string>
     <string name="license_title">လိုင်စင်</string>
     <string name="lift_to_wake_title">နှိုးပေးဖို့ မ’ယူရန်</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="live_caption_summary">အလိုအလျောက် စာတန်းထိုးရန်</string>
     <string name="live_caption_title">တိုက်ရိုက်စာတန်းထိုး</string>
     <string name="load_networks_progress">ရှာဖွေနေသည်…</string>
@@ -2581,6 +2581,7 @@
     <string name="memory_summary">ယာယီမှတ်ဉာဏ် %2$s မှ ပျှမ်းမျှ %1$s ကိုအသုံးပြုထားသည်</string>
     <string name="memory_usage">မှတ်ဉာဏ် သုံးစွဲမှု</string>
     <string name="memory_usage_apps">အက်ပ်များမှ အသုံးပြုသော မှတ်ဉာဏ်</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s လွန်ခဲ့သော ၃ နာရီအတွင်း သုံးသည့် ပျမ်းမျှ မှတ်ဉာဏ်</string>
     <string name="menu_cancel">ဖယ်ပစ်ရန်</string>
     <string name="menu_delete">APNကိုဖျက်မည်</string>
@@ -2736,6 +2737,7 @@
     <string name="nfc_how_it_works_got_it">ရပါပြီ</string>
     <string name="nfc_how_it_works_title">ငွေချေစက်တွင် ငွေပေးချေခြင်း</string>
     <string name="nfc_more_title">နောက်ထပ်...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">မူရင်းအဖြစ် သတ်မှတ်ရန်</string>
     <string name="nfc_payment_btn_text_update">အပ်ဒိတ်လုပ်ရန်</string>
     <string name="nfc_payment_default">ငွေချေရန် မူရင်းသတ်မှတ်ခြင်း</string>
@@ -2969,6 +2971,7 @@
     <string name="overlay_settings_title">"'ဆက်တင်များ' ပေါ် ဖန်သားပြင်ထပ်ဆင့်ပြခွင့်ပြုခြင်း"</string>
     <string name="overlay_toast_failed_to_apply">ထပ်ပိုးလွှာထည့်၍ မရပါ</string>
     <string name="owner_info_settings_edit_text_hint">ဥပမာ၊ Joe ၏ Android</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">မရှိ</string>
     <string name="owner_info_settings_title">လော့ခ်စကရင်တွင် စာသားထည့်ခြင်း</string>
     <string name="packages_subtitle">ပါဝင်သော ဆော့ဝဲလ်များ</string>
@@ -3046,6 +3049,7 @@
     <string name="power_remaining_less_than_duration_only">%1$s အောက် ကျန်သည်</string>
     <string name="power_remaining_more_than_subtext">%1$s အထက် (%2$s) ကျန်သည်</string>
     <string name="power_remaining_only_more_than_subtext">%1$s အထက် ကျန်သည်</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">ဖန်သားပြင်</string>
     <string name="power_suggestion_battery_run_out">%1$s တွင် ဘက်ထရီကုန်သွားနိုင်သည်</string>
     <string name="power_unaccounted">အထွေထွေ အကြောင်းအရာများ</string>
@@ -3159,6 +3163,8 @@
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS ဝန်ဆောင်ပေးသူအမည်ကို ထည့်ပါ</string>
     <string name="process_dex2oat_label">အက်ပ်ပိုမိုကောင်းအောင်ပြုခြင်း</string>
+    <string name="process_format">%1$s ( %2$d )</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_provider_in_use_description">%1$s ပံ့ပိုးသူမှ အသုံးပြုနေသည်</string>
     <string name="process_service_in_use_description">%1$sဝန်ဆောင်မှုအား အသုံးပြုနေသည်</string>
@@ -3747,6 +3753,7 @@
     <string name="sim_select_card">ဆင်းမ် ကဒ်ကို ရွေးရန်</string>
     <string name="sim_selection_channel_title">ဆင်းမ် ရွေးချယ်ရန်</string>
     <string name="sim_selection_required_pref">ရွေးချယ်ရန် လိုအပ်</string>
+    <string name="sim_settings_summary">အမည် %1$s နံပါတ်%2$s</string>
     <string name="sim_settings_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_setup_wizard_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -3806,6 +3813,7 @@
     <string name="standby_bucket_summary">အက်ပ်ကို အရန်သင့်ထားရှိခြင်း အခြေအနေ- %s</string>
     <string name="starting_android">Android စနေစဉ်…</string>
     <string name="status_awake_time">ပြန်ပွင့်မည်အချိန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="status_bt_address">ဘလူးတုသ်လိပ်စာ</string>
     <string name="status_data_network_type">မိုဘိုင်းဒေတာ ကွန်ရက် အမျိုးအစား</string>
     <string name="status_data_state">မိုဘိုင်းကွန်ရက်အခြေအနေ</string>
@@ -4042,6 +4050,7 @@
     <string name="sum_carrier_select">ကွန်ယက်ဝန်ဆောင်မှုကို ရွေးချယ်ပါ</string>
     <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
     <string name="summary_divider_text">"၊ "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s မှ %2$s</string>
     <string name="summary_separator">" / "</string>
     <string name="support_summary">အကူအညီ ဆောင်းပါးများ၊ ဖုန်းနှင့် ချတ်၊ စတင်ရန်</string>
@@ -4659,6 +4668,7 @@
     <string name="wifi_configure_settings_preference_summary_wakeup_on">Wi‑Fi သည် အလိုအလျှောက် ပြန်ဖွင့်သည်</string>
     <string name="wifi_configure_settings_preference_title">Wi‑Fi ဦးစားပေးများ</string>
     <string name="wifi_connect">ချိတ်ဆက်ရန်</string>
+    <string name="wifi_connected_low_quality">အရည်အသွေး နိမ့်သည်</string>
     <string name="wifi_connected_no_internet">အင်တာနက် မရှိပါ</string>
     <string name="wifi_connected_to_message">%1$s သို့ ချိတ်ဆက်ထားသည်</string>
     <string name="wifi_connecting">ချိတ်ဆက်နေသည်…</string>
@@ -5205,8 +5215,10 @@
     <string name="zen_suggestion_title">"'မနှောင့်ယှက်ရ' ကို အပ်ဒိတ်လုပ်ခြင်း"</string>
     <string name="zone_auto_title">ကွန်ရက်က ဖော်ပြထားသောအချိန်ဇုန်ကို သုံးရန်</string>
     <string name="zone_change_to_from_dst">%1$s သည် %2$s တွင် စတင်ပါသည်။</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">%1$s ကို အသုံးပြုသည်။ %2$s သည် %3$s တွင် စတင်ပါမည်။</string>
     <string name="zone_info_footer_no_dst">%1$s ကို အသုံးပြုသည်။ စံတော်ချိန်ထက် တစ်နာရီ စောထားသော အချိန် မရှိပါ။</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">UTC အော့ဖ်ဆက်အလိုက် ရွေးရန်</string>
     <string name="zone_menu_by_region">ဒေသအလိုက် ရွေးရန်</string>
     <string name="zone_time_type_dst">ဆောင်းရာသီ စံတော်ချိန်</string>

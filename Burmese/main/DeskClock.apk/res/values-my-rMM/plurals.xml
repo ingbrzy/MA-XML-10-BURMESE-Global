@@ -115,10 +115,10 @@
         <item quantity="other">အချိန်မှတ်နာရီ ပွင့်နေသည်မှာ %s နာရီ ရှိပါပြီ။ ကြည့်ရန် တို့ပါ။</item>
     </plurals>
     <plurals name="timer_message_hour">
-        <item quantity="other">%1$d နာရီ</item>
+        <item quantity="other">"%1$d နာရီ "</item>
     </plurals>
     <plurals name="timer_message_minute">
-        <item quantity="other">%1$d မိနစ်</item>
+        <item quantity="other">"%1$d မိနစ် "</item>
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d စက္ကန့်</item>

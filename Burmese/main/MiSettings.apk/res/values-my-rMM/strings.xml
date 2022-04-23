@@ -132,6 +132,7 @@
     <string name="dc_lignt_enable_hint">ရောင်ပြန်နိမ့်မုဒ်က မျက်နှာပြင်၏ ရီဖရက်(ရှ်)နှုန်းကို 60 Hz အထိ လျှော့ချပါမည်။ ရောင်ပြန်နိမ့်မုဒ် သို့ ပြောင်းလိုပါသလား။</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
     <string name="desktop_widget_authorization">ကိန်းဂဏန်းများကြည့်နိုင်ရန်အတွက် ခွင့်ပြုချက်များပေးရန် တို့ပါ</string>
+    <string name="desktop_widget_authorization_new">မျက်နှာပြင်ဖွင့်ထားချိန်ကိန်းဂဏန်းများကိုကြည့်ရန် တို့ပါ</string>
     <string name="desktop_widget_not_support">မျက်နှာပြင်ဖွင့်ထားချိန်ကိန်းဂဏန်းများကို ဒုတိယနေရာတွင် မထုတ်လွှတ်ပါ</string>
     <string name="desktop_widget_screen_use_time">မျက်နှာပြင်ဖွင့်ထားချိန်</string>
     <string name="display_description">သင်္ကေတများပိုကြီးရန်၊ စာလုံးကြီးရန်၊ မြင်ကွင်းကျပ်သိပ်မှု လျှော့ရန်</string>
@@ -258,7 +259,7 @@
     <string name="hsv_space_color_saturation">တောက်ပမှုပြင်းအား</string>
     <string name="hsv_space_color_value">တန်ဖိုး</string>
     <string name="intelligent_radio_btn_summary">ဖြစ်စဉ်အပေါ်မူတည်ပြီး စွမ်းဆောင်ရည်နှင့် ဓာတ်အားသုံးစွဲမှု မျှတစေရန် ရီဖရက်(ရှ်)နှုန်းကို အကောင်းဆုံး ညှိပေးသည်။</string>
-    <string name="intelligent_radio_btn_title">အလိုအလျောက် (အကြံပြုသည်)</string>
+    <string name="intelligent_radio_btn_title">နဂို (အကြံပြုသည်)</string>
     <string name="intelligent_recognition_item_summary">ကုန်ပို့နှင့် တက္ကစီဝန်ဆောင်မှုများထံမှ အဝင်ဖုန်းများအတွက် သတ်မှတ် ဖုန်းခေါ်သံသုံးပါ။ %s ကို သင့်အမြဲသုံး ဖုန်းသံအဖြစ် သတ်မှတ်ထားစဉ်တွင် ဤဝန်ဆောင်မှု အလုပ်လုပ်ပါမည်။</string>
     <string name="intelligent_recognition_item_title">ဝန်ဆောင်မှုများစိစစ်ရန်</string>
     <string name="item_anura">Anura</string>
@@ -433,7 +434,7 @@
     <string name="primary_color_region">မူရင်း</string>
     <string name="primary_color_region_chinese_only">nature</string>
     <string name="primary_color_region_summary">အရောင်ချိန်ညှိမှုမှတစ်ဆင့် အရောင်စုံကို အလိုအလျောက် စိစစ်ဖော်ထုတ်ပါ</string>
-    <string name="privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="puffin">Atlantic puffin</string>
     <string name="random_play_sound_alert">အသိပေးချက်များရချိန်တွင် ဤနယ်မြေမှ တိရစ္ဆာန်အသံများ ကြားရပါမည်</string>
     <string name="red_billed_hornbill">Red-billed hornbill</string>
@@ -608,14 +609,14 @@
     <string name="usage_app_over_content">ဤအက်(ပ်)ကို ယနေ့ %s ကြာ သုံးပြီးပါပြီ။</string>
     <string name="usage_app_over_summary">ကန့်သတ်ချက်ပြည့်သွားပါပြီ။ အချိန်ကုန်ပါပြီ။</string>
     <string name="usage_app_set_limit_time">ကန့်သတ်ချက် သတ်မှတ်ရန်</string>
-    <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
+    <string name="usage_app_stop_desc">ဤအင်္ဂါရပ်ကိုပိတ်ပြီးနောက် တစ်ခုချင်းဆက်တင်များအပါအဝင် မျက်နှာပြင်ဖွင့်ချိန်ဒေတာများနှင့် ခွင့်ပြုချက်များ၊ စက်အတွင်းသိမ်းထားသော သက်ဆိုင်ရာအရာများကို ဖျက်လိုက်ပါမည်။</string>
     <string name="usage_app_system_app_summary">စက်စနစ်အက်(ပ်)များအတွက် မျက်နှာပြင်ဖွင့်ထားချိန် ကန့်သတ်မရပါ</string>
     <string name="usage_app_weekday_limit">ရုံးဖွင့်ရက်များ</string>
     <string name="usage_app_weekend_limit">စနေ၊ တနင်္ဂနွေများ</string>
     <string name="usage_beat_fans">Mi Fans ၏ %s ထက် ပိုကောင်းသည်</string>
     <string name="usage_continuous_days">ဆက်တိုက်</string>
     <string name="usage_creating_weekly_report">အပတ်စဉ် အစီရင်ခံစာ ပြုလုပ်နေသည်…</string>
-    <string name="usage_cta_desc">"Welcome to Settings! To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings. The collected data will only be stored locally on this device.
+    <string name="usage_cta_desc">"ဆက်တင်များမှ ကြိုဆိုပါသည။ သင့်အား မျက်နှာပြင်ဖွင့်ထားချိန်နှင့် ဆုံချက်မုဒ် မှတ်တမ်းများကို ပေးနိုင်ရန်အတွက် ဤအက်(ပ်)က အောက်ပါဒေတာများကို ကောက်ယူရန်လိုသည် - စက်ကို သော့ဖွင့်သည့် အကြိမ်ရေ၊ အက်(ပ်)စာရင်းနှင့် ၎င်းတို့ တစ်ခုချင်းစီကို သုံးသည့်ကြာချိန်၊ မျက်နှာပြင်အလင်း ပွင့်သည့် အကြိမ်ရေနှင့် ဆုံချက်မုဒ်ဆက်တင်များ။ ကောက်ယူသောဒေတာများကို ဤစက်အတွင်း၌သာ သိမ်းပါမည်။
 "</string>
     <string name="usage_current_week_usage">ပြီးခဲ့သည့် ၇ ရက်အတွင်း ပျမ်းမျှ %s ဖွင့်သည်</string>
     <string name="usage_device_limit_app_prolong">အချိန်ထည့်ရန်</string>

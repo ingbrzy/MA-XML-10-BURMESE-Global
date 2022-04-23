@@ -70,7 +70,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
-    <string name="i_get_it">Got it</string>
+    <string name="i_get_it">ရပါပြီ</string>
     <string name="icon_add_description">ပင်မစာမျက်နှာရှော့ကတ်ထည့်ရန်</string>
     <string name="icon_remove_confirm">ဖယ်ရှားရန်</string>
     <string name="icon_remove_description_content">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုမှု\" သည် စနစ်အက်(ပ်)ဖြစ်သည်။ ၎င်းကို ပင်မစာမျက်နှာရှော့ကတ်မှ ဖယ်ရှားပြီးနောက်တွင်လည်း ဆက်တင်များမှတစ်ဆင့် ဆက်သုံးနိုင်သည်။</string>
@@ -156,6 +156,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">100MB ထက်ကြီးသော ပုံ သို့မဟုတ် ဗီဒီယို တင်မရပါ</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">အက်(ပ်)အမည်ထည့်ရန်</string>
     <string name="miui_feedback_main_answer_title">ဤမေးခွန်းအတွက် အဖြေတစ်ခုရှိပါသည်</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"ဝန်ဆောင်မှုဟော့လိုင်း - 0120-300-521
+ရုံးချိန် - 9:00 - 18:00 (ဘဏ်ပိတ်ရက်နှင့် သတ်မှတ်အားလပ်ရက်များမှအပ)
+အီးမေး(လ်) - service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">မေးလေ့ရှိသောမေးခွန်းများ</string>
     <string name="miui_feedback_main_item_catch_full_log">စာရင်းများ ရယူရန်</string>
     <string name="miui_feedback_main_item_customer_service">ရောင်းပြီးနောက် ဝန်ဆောင်မှုများ</string>
@@ -179,7 +182,7 @@
     <string name="miui_guide_item_complete">ပြီးပါပြီ</string>
     <string name="miui_guide_item_new">အသစ်</string>
     <string name="miui_guide_item_progress">%1$d%2$d ပြီးပါပြီ</string>
-    <string name="miui_guide_menu_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="miui_guide_menu_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="miui_guide_top_bar_sub_title">MIUI လုပ်နိုင်သည်များကို လေ့လာရန်</string>
     <string name="miui_guide_top_bar_title">စသုံးသူလမ်းညွှန်</string>
     <string name="miui_main_back">နောက်သို့</string>
@@ -309,10 +312,10 @@
     <string name="permission_storage_introduce">သင့်စက်တွင်အမယ်များသိမ်းဆည်းခြင်းအတွက်</string>
     <string name="permission_user_protocol">အသုံးပြုသူသဘောတူညီချက် (မဖြစ်မနေ)</string>
     <string name="pm">ညနေ</string>
-    <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
+    <string name="privacy_policy_update_hint">"%1$s ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို အပ်ပဒိတ်လုပ်ထားသည် -
 %2$s
-Read and agree to the new version of %3$s before you continue."</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+ရှေ့မဆက်မီ %3$s ဗားရှင်းအသစ်ကို ဖတ်ရှုပြီး သဘောတူပါ။"</string>
+    <string name="privacy_policy_update_title">အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="public_authorize_now">ဆက်တင်များ</string>
     <string name="public_loading_text">ခေတ္တစောင့်ပါ…</string>
     <string name="public_net_error_retry">ထပ်လုပ်ကြည့်ပါ</string>
@@ -379,14 +382,14 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
-    <string name="user_must_known">Attention</string>
-    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_must_known">သတိပြုရန်</string>
+    <string name="user_must_known_content">ကျွန်ုပ်တို့၏ %s ဗားရှင်းအသစ်ကို သဘောမတူပါက ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို သုံးမရပါ။ အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို ယခုသဘောတူလိုသလား။</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
-    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
-    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="withdrawing">Withdrawing consent…</string>
+    <string name="withdraw_consent_failed">သဘောတူခွင့်ပြုချက် ရုပ်သိမ်းမရပါ</string>
+    <string name="withdraw_consent_failed_hint">ဆာဗာအမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ် စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="withdraw_consent_failed_hint_connect_net">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="withdrawing">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းနေသည်…</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

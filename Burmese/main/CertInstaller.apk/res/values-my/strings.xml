@@ -60,7 +60,7 @@ Auth method: EAP-%5$s
     <string name="wifi_detail_title">%s အတွက်သေးစိတ်</string>
     <string name="wifi_dismiss_label">ပယ်ရန်</string>
     <string name="wifi_install_label">တပ်ဆင်ရန်</string>
-    <string name="wifi_installer_detail">%1$s မှတဆင့် ရနိုင်သော ကွန်ယက်များအား ချိတ်ဆက်ရန် ဝိုင်ဖိုင်အထောက်အထားများ သွင်းယူပါ</string>
+    <string name="wifi_installer_detail">%1$s မှတစ်ဆင့် ရနိုင်သော ကွန်ယက်များအား ချိတ်ဆက်ရန် ဝိုင်ဖိုင်အထောက်အထားများ သွင်းယူပါ</string>
     <string name="wifi_installer_download_error">ဒေါင်းလုပ်ရယူထားသော ဖိုင်များတွင် ပြဿနာရှိပြီး သွင်းယူမရနိုင်ပါ။ ဖိုင်အား မှန်ကန်သောနေရာမှ ဒေါင်းလုပ်ရယူထားကြောင်း သေချာပါစေ။</string>
     <string name="wifi_installer_fail">"Wi-Fi  အထောက်အထားများအား သွင်းယွင်းနိုင်ခြင်းမရှိပါ။ ဖိုင်အား ထပ်မံ၍ ဒေါင်းလုပ်ရယူပါ။"</string>
     <string name="wifi_installer_fail_no_wifi">ဝိုင်ဖိုင်ကို ဖွင့်ကာ ထပ်မံကြိုးစားပါ။</string>

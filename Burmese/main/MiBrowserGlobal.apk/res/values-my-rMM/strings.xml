@@ -649,6 +649,7 @@ ID -
     <string name="homepage_search_hint">ရှာ​ဖွေ</string>
     <string name="homepage_top_card_menu">ထိပ်ပိုင်း</string>
     <string name="hot_games">လူကြိုက်များသော</string>
+    <string name="i_know">ရပ်ရန်</string>
     <string name="identity">အတည်ပြုမှု</string>
     <string name="if_cancel">ဤအော်ပရေးရှင်းအား ပယ်ဖျက်မည်လား?</string>
     <string name="ignore_add_game_center_dialog_this_week">ယခုတစ်ပတ်တွင် မပြပါနှင့်</string>

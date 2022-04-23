@@ -75,6 +75,15 @@
     <plurals name="lv_video_count">
         <item quantity="other">ဗီဒီယို %dခု</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">ဇာတ်လမ်းတွဲ %1$2d ခု အနက် %2$1d ရနိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">ဇာတ်လမ်းတွဲ %1$2d ခု အနက် %2$1d ရနိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">စုစုပေါင်းဇာတ်လမ်းတွဲ %d ခု</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s စက္ကန့် ကျန်သေးသည်</item>
     </plurals>

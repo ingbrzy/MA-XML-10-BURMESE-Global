@@ -9,7 +9,7 @@
     <string name="data_received">လက်ခံရရှိသည်</string>
     <string name="data_transmitted">ပို့သည်-</string>
     <string name="data_value_format">%1$s bytes / %2$s packets</string>
-    <string name="disconnect">ချိတ်ဆက်မှုဖြုတ်ရန်</string>
+    <string name="disconnect">ချိတ်ဆက်ခြင်းရပ်ရန်</string>
     <string name="dismiss">ပယ်ရန်</string>
     <string name="duration">အချိန်ကာလ-</string>
     <string name="legacy_title">VPNနှင့်ချိတ်ဆက်ထားသည်</string>

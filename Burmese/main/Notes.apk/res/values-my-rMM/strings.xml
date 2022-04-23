@@ -21,6 +21,7 @@
     <string name="alert_message_delete_excerpt">ဤမှတ်စုကို ဖျက်လိုသလား။ ကောက်နုတ်ချက်လည်း ပျက်သွားပါမည်။</string>
     <string name="alert_message_delete_note">ဒီမှတ်ချက်ကို ဖျက်ပစ်မလား။</string>
     <string name="alert_message_edit_anyway">ဤမှတ်ချက်ကို တည်းဖြတ်ပါက၊ ၎င်း၌ပါသော အကြောင်းအရာအချို့ ပျောက်ဆုံးနိုင်သည်။</string>
+    <string name="alert_message_edit_anyway_new">ဤမှတ်စုတွင် မပံ့ပိုးသောအကြောင်းအရာများ ပါဝင်သည်။ ၎င်းကိုပြင်ပါက ဖောမတ်ပြောင်းခြင်း သို့မဟုတ် ဒေတာပျောက်ဆုံးခြင်း ဖြစ်နိုင်သည်။</string>
     <string name="alert_message_restore">ဤမှတ်စုအား မဖွင့်နိုင်ခဲ့ပါ။ အကြောင်းအရာအား တည်းဖြတ်ရန် ၄င်းအား ပြန်လည်ရယူပါ။</string>
     <string name="alert_title_delete">မှတ်စုကို ဖျက်ပစ်ပါ</string>
     <string name="alert_title_edit_anyway">ဒီမှတ်ချက်တွင် မပံ့ပိုးသော အကြောင်းအရာများ ပါရှိသည်</string>
@@ -41,7 +42,7 @@
     <string name="audio_create_will_cancel_state">ဖျက်သိမ်းရန် လက်လွှတ်ပါ</string>
     <string name="audio_dialog_mode_meeting">အစည်းအဝေးမုဒ် (အစမ်း)</string>
     <string name="audio_dialog_mode_meeting_exit">မလုပ်လိုပါ</string>
-    <string name="audio_dialog_mode_meeting_sum">အစည်းအဝေးမုဒ်က အများဆုံး လူ ၄ ဦး၏ အသံများကို မှတ်မိစေသည်။ အစမ်းဗားရှင်းတွင် မှတ်မိခြင်းအမှားအချို့ ရှိနိုင်သည်။</string>
+    <string name="audio_dialog_mode_meeting_sum">အစည်းအဝေးမုဒ်တွင် လူ %1$d-%2$d ဦး အသံကို မှတ်ထားခွင့်ပြုသည်။ အစမ်းဗားရှင်းတွင် မှတ်မိခြင်းဆိုင်ရာအမှားများ ပေါ်နိုင်သည်။</string>
     <string name="audio_dialog_mode_meeting_use">စရန်</string>
     <string name="audio_panel_time_counter_default">၀၀:၀၀</string>
     <string name="audio_toast_file_invalid">အသံဖိုင်များ တရားမဝင်ပါ</string>
@@ -169,6 +170,7 @@
     <string name="error_send_empty_note">လွတ်နေသောမှတ်စုအား ပေးပို့၍မရပါ</string>
     <string name="error_send_empty_note_to_weibo">Weibo သို့ လွတ်နေသောမှတ်စုအား ပေးပို့၍မရပါ</string>
     <string name="error_unsupport_content">ဤမှတ်စုတွင် မပံ့ပိုးထားသော အကြောင်းအရာများပါရှိပါသည်၊ အသစ်မွမ်းမံရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
+    <string name="error_unsupport_content_format">ဤမှတ်စုတွင် မပံ့ပိုးသောအကြောင်းအရာများ ပါဝင်သည်။ ဗားရှင်း %1$s သို့ အပ်ပဒိတ်လုပ်ပါ သို့မဟုတ် နောက်မှလုပ်ပါ။</string>
     <string name="error_widget_exist_for_send_to_desktop">ဒီမှတ်ချက်က သင်၏ အိမ်မျက်နှာပြင်ပေါ်၌ ရှိနေပြီးသားဖြစ်သည်</string>
     <string name="evening">နေ့လယ်</string>
     <string name="exceed_todo_text_limitation">လုပ်ငန်းစဥ်ဖော်ပြချက် ရှည်လွန်းသည်။</string>
@@ -287,6 +289,7 @@
     <string name="menu_create_folder">ဖိုလ်ဒါအသစ်</string>
     <string name="menu_delete">ဖျက်ပစ်မည်</string>
     <string name="menu_delete_forever">အပြီးတိုင် ဖျက်ပစ်ပါ</string>
+    <string name="menu_edit">တည်းဖြတ်ရန်</string>
     <string name="menu_folders">ဖိုလ်ဒါများ</string>
     <string name="menu_group">ဖိုင်တွဲတစ်ခုပြုလုပ်ရန်</string>
     <string name="menu_hide">ဝှက်ထားပါ</string>
@@ -467,10 +470,12 @@
     <string name="note_mindnote_entrance_hint_newversion">"စာရိုက်နေသည် "</string>
     <string name="note_mindnote_entrance_icon_text">စိတ်ကူးပြမြေပုံတစ်ခု ဖန်တီးရန်</string>
     <string name="note_mindnote_entrance_icon_text_newversion">စိတ်ကူးပြမြေပုံတစ်ခု ဖန်တီးရန်</string>
+    <string name="note_module_name">မှတ်စုများ</string>
     <string name="note_not_text_stub">စာသားမရှိပါ</string>
     <string name="note_sort_way">စီရန်</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">မှတ်စုများသည် စနစ်အက်(ပ်)များဖြစ်သည်။ ဤအက်(ပ်)ကို ဖြုတ်ပြီးနောက် သုံးမရတော့ပါ။</string>
     <string name="notes_description_title">မှတ်စုများပြန်ဖြုတ်လိုသလား။</string>
     <string name="notification_content_add_todo_from_other_app">လုပ်ငန်းအသစ်တစ်ခု သင် ထည့်ထားပါသည်။ ကြည့်ရန် တို့ပါ။</string>
@@ -625,6 +630,13 @@
     <string name="select_account_prompt">မှတ်စုများကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="send">ပို့ပါ</string>
     <string name="set_alarm_description">နှိုးစက်သတ်မှတ်</string>
+    <string name="setting_big_screen_layout_columns">ဘေးတန်း</string>
+    <string name="setting_big_screen_layout_flat">အကွက်များ</string>
+    <string name="setting_big_screen_layout_title">မျက်နှာပြင်ကျယ်အပြင်အဆင်</string>
+    <string name="setting_cloud_service">ကလောက်ဝန်ဆောင်မှုများ</string>
+    <string name="setting_layout">အပြင်အဆင်</string>
+    <string name="setting_micloud_sync_title">Xiaomi ကလောက်</string>
+    <string name="setting_note_list_layout_title">အပြင်အဆင်</string>
     <string name="setting_other">အခြား</string>
     <string name="setting_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="single_link_excerpt_saving">အရာဝတ္ထုများ သိမ်းနေသည်…</string>
@@ -844,6 +856,15 @@
     <string name="undo">ပြန်မလုပ်</string>
     <string name="unknown_source">အမည်မသိရင်းမြစ်</string>
     <string name="view_all_notes">အားလုံးကြည့်ရန်</string>
+    <string name="warn_cannot_add_new_bullet">မှတ်စုရှည်လွန်းသောကြောင့် အစက်ချစာရင်းအသစ် ထည့်မရပါ</string>
+    <string name="warn_cannot_add_new_checkbox">မှတ်စုရှည်လွန်းသောကြောင့် Checkbox အသစ် ထည့်မရပါ</string>
+    <string name="warn_cannot_add_new_doodle">မှတ်စုရှည်လွန်းသောကြောင့် ရေးခြစ်ပုံအသစ် ထည့်မရပါ</string>
+    <string name="warn_cannot_add_new_element">မှတ်စုရှည်လွန်းသောကြောင့် အကြောင်းအရာအသစ် ထည့်မရပါ</string>
+    <string name="warn_cannot_add_new_link_card">မှတ်စုရှည်လွန်းသောကြောင့် လင့်အသစ် ထည့်မရပါ</string>
+    <string name="warn_cannot_add_new_picture">မှတ်စုရှည်လွန်းသောကြောင့် ပုံအသစ် ထည့်မရပါ</string>
+    <string name="warn_cannot_add_new_style">မှတ်စုရှည်လွန်းသောကြောင့် ဖောမတ်အသစ် ထည့်မရပါ</string>
+    <string name="warn_disable_edit_in_browse_mode">ဖတ်ရန်သာမုဒ်တွင် မှတ်စုများကို ပြင်မရပါ</string>
+    <string name="warn_enter_browse_mode">ဖတ်ရန်သာမုဒ်ထဲ ရောက်နေသည်</string>
     <string name="web_sso_login_fail">သင် ထပ်မံ ဆိုင်းအင်ဝင်ရန် လိုအပ်သည်</string>
     <string name="web_sso_login_message">ဆိုင်းအင်ဝင်နေဆဲ…</string>
     <string name="webview_reload">ထပ်ကြိုးစား</string>

@@ -9,6 +9,7 @@
     <string name="captcha">ကက်ပ်ချာ</string>
     <string name="change_find_device_status_failed">သော့ဖြေ၍မရနိုင်ခဲ့ပါ။%s</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="close">ပိတ်</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်အတွက် ဖုန်းနံပါတ် ဖတ်ခွင့်ပြုရန်</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">စက်ကိုရှာပြီး ပျောက်ဆုံးမုဒ်သို့ ပြောင်းရန်</string>
@@ -57,6 +58,8 @@
     <string name="find_device_storage_corrupted">စက်ရှာဖွေစနစ်သိုလှောင်ခန်း ပျက်သွားပါသည်။ သင့်စက်မလုံခြုံတော့ပါ။</string>
     <string name="find_device_success_title">စက်ရှာဖွေစနစ်ပွင့်နေသည်</string>
     <string name="find_device_telephony_fault">စက်ရှာဖွေပါ−တယ်လီဖုန်းဆိုင်ရာအမှား(%s)။</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
@@ -72,7 +75,11 @@
     <string name="fmt_date_short_month_day">MM/dd</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -91,8 +98,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
@@ -183,6 +200,7 @@
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
+    <string name="send">ပို့ပါ</string>
     <string name="stop_on_empty_captcha">ကက်ပ်ချာ ကွက်လပ်ဖြစ်၍မရပါ</string>
     <string name="stop_on_empty_password">စကားဝှက် လွတ်နေ၍မရပါ</string>
     <string name="sunday">တနင်္ဂနွေ</string>
@@ -192,6 +210,9 @@
     <string name="sys_notification_async_open_failed_title">စက်ရှာဖွေခြင်းအား ဖွင့်၍မရပါ။</string>
     <string name="sys_notification_async_verify_content">ကျွန်ုပ်တို့၏ အပ်ဒိတ်လုပ်ထားသော လုံခြုံရေးပေါ်လစီကြောင့် စက်ရှာဖွေခြင်းကိုပြန်လည်အသက်သွင်းရန် လိုအပ်သည်။</string>
     <string name="sys_notification_async_verify_title">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>
+    <string name="talkback_back">နောက်သို့</string>
+    <string name="talkback_hide_pwd">စကားဝှက်ဖုံးထားရန်</string>
+    <string name="talkback_show_pwd">စကားဝှက်ပြရန်</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>

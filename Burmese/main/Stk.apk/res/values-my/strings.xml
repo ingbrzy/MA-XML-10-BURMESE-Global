@@ -33,6 +33,7 @@
     <string name="button_no">No</string>
     <string name="button_ok">OK</string>
     <string name="button_yes">Yes</string>
+    <string name="copy">မိတ္တူကူးရန်</string>
     <string name="default_call_setup_msg">ခေါ်ဆိုနေပါသည်</string>
     <string name="default_close_channel_msg">လှိုင်းပိတ်ထားသည်</string>
     <string name="default_open_channel_msg">လှိုင်း ဖွင့်မည်လား?</string>
@@ -43,10 +44,13 @@
     <string name="digits">ဂဏန်းများ (0-9, *, #, +)</string>
     <string name="disable_app">သုံးမရအောင် ပိတ်ထားခြင်း</string>
     <string name="enable_app">ဖွင့်ထားသည်</string>
+    <string name="expand_button_title">အဆင့်မြင့်</string>
     <string name="help">အကူအညီ</string>
     <string name="menu_back">နောက်သို့</string>
     <string name="menu_end_session">သတ်မှတ်ကဏ္ဏကို ပြီးဆုံးမည်</string>
     <string name="no_sim_card_inserted">SIM တူးလ်ကစ်အား စတင်ရန် SIM ကိုကျေးဇူးပြု၍ ထည့်သွင်းပါ။</string>
+    <string name="not_set">သတ်မှတ်မထားပါ</string>
+    <string name="preference_copied">\"%1$s\" ကို ကလစ်ဘုတ်သို့ မိတ္တူကူးယူပြီးပါပြီ။</string>
     <string name="search_menu_title">ရှာဖွေမှု</string>
     <string name="service_name">ဝန်ဆောင်မှုအမည်</string>
     <string name="status_bar_notification_info_overflow">၉၉၉+</string>
@@ -56,4 +60,7 @@
     <string name="stk_dialog_reject">NO</string>
     <string name="stk_dialog_title">SIM တူးလ်ကစ်</string>
     <string name="stk_no_service">ဆက်သွယ်ချိတ်ဆက်ရန် ဝန်ဆောင်မှု တစ်ခုမှမရှိပါ</string>
+    <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
+    <string name="v7_preference_off">ပိတ်ရန်</string>
+    <string name="v7_preference_on">ဖွင့်ရန်</string>
 </resources>

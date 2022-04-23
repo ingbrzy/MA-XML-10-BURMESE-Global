@@ -26,6 +26,7 @@
     <string name="app_name_miuiringtone">ဖုန်းမြည်သံ</string>
     <string name="app_name_miuiwallpaper">နောက်ခံပုံ</string>
     <string name="app_name_screenshot">မျက်နှာပြင်ပုံများ</string>
+    <string name="app_name_transport">ဘလူးတုနှင့် ဒေါင်းလုဒ်များ</string>
     <string name="app_permissions">အက်ပ် ခွင့်ပြုချက်များ</string>
     <string name="app_permissions_desc">ဖိုင်မန်နေဂျာမှ ပုံမှန် အလုပ်လုပ်နိုင်ရန် ခွင့်ပြုချက် အချို့ လိုအပ်သည်။</string>
     <string name="authorization_item_desc">ခွင့်ပြုချက်ပေးရန် သို့မဟုတ် ရုတ်သိမ်းရန် ဤခလုတ်ကို အဖွင့်အပိတ်လုပ်ပါ</string>
@@ -62,6 +63,7 @@
     <string name="category_picture">ရုပ်ပုံများ</string>
     <string name="category_recent">မကြာမီက</string>
     <string name="category_theme">သင်းမ်များ</string>
+    <string name="category_transport">ဘလူးတုနှင့် ဒေါင်းလုဒ်များ</string>
     <string name="category_type_other">အခြား</string>
     <string name="category_video">ဗီဒီယိုများ</string>
     <string name="category_zip">ZIP</string>
@@ -72,6 +74,8 @@
     <string name="clean_marquee_text">နောက်ထပ် အမှိုက်ဖိုင်များအား စကန်ဖတ်ပါ</string>
     <string name="click_to_switch_volume">အတွင်းသိုလှောင်မှုနှင့် SD ကဒ်အကြား ပြောင်းလဲရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
     <string name="click_to_switch_volume_pad">အတွင်းသိုလှောင်မှုနှင့် SD ကဒ်အကြား ပြောင်းလဲရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
+    <string name="columbus_ad_flag_text">ကြော်ငြာ</string>
+    <string name="columbus_skip_ad">ကျော်သွား</string>
     <string name="compress_fail">ဖိနှပ်ခြင်းမပြုနိုင်ခဲ့။ အမည်တူဖိုင်တစ်ခုရှိနေပြီးဖြစ်။</string>
     <string name="compress_fail_unknown">မဖိနှိပ်နိုင်ခဲ့ပါ။ သိုလ်လှောင်မှုပြည့်နေသည် သို့မဟုတ် အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်</string>
     <string name="compress_message">...သို့ ချုံ့ထည့်ပါ</string>
@@ -122,7 +126,7 @@
     <string name="display_name">အမည် ပြပါ</string>
     <string name="domain">ဒိုမိန်း</string>
     <string name="download_success">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
-    <string name="empty_by_forbid_access">Android 11 အကန့်အသတ်များကြောင့် ဤဖိုင်တွဲရှိအရာများကို ဤနေရာတွင် ပြမရပါ။</string>
+    <string name="empty_by_forbid_access">Android အကန့်အသတ်များကြောင့် ဤဖိုင်တွဲရှိအရာများကို ဤနေရာတွင် ပြမရပါ။</string>
     <string name="enable_documentsui">%s အား ဆက်တင်များဝင် ဖွင့်လိုက်ပါ> အက်ပ်အား ဦးစွာတပ်ဆင်ပါ</string>
     <string name="enable_sd_card">SD ကဒ် ထည့်သွင်းပါ (သို့) USB ဒေတာအများအပြား သိုလှောင်ခန်းကို ပိတ်ပါ။.</string>
     <string name="enable_usb">USB ဖြင့်ချိတ်ဆက်ပါ</string>
@@ -170,7 +174,7 @@
     <string name="folder_name_empty">ဖိုလ်ဒါအမည် လွတ်နေ၍မရပါ</string>
     <string name="folder_name_illegal">မမှန်သော ဖိုလ်ဒါအမည်</string>
     <string name="found_usb">USB သိုလှောင်မှုနှင့်ချိတ်ဆက်ခဲ့</string>
-    <string name="ftp_account_req_notice">အက္ခရာများ၊ စာလုံးများနှင့် ဂဏန်းများ ၄-၁၆ လုံး၊ စာလုံးကြီးသေး အရေးကြီးသည်</string>
+    <string name="ftp_account_req_notice">အသုံးပြုသူအမည် နှင့် စကားဝှက်သည် စာလုံးအကြီးအသေး နှင့် %1$d%2$d အက္ခရာများပါရမည်။ အင်္ဂလိပ်စာ စာလုံး၊ အထူး သင်္ကေတများ နှင့် နံပါတ်များ ရောစပ်နိုင်သည်။</string>
     <string name="ftp_anonymous_login">အမည်ဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="ftp_invalid_username_or_password">သင်ရိုက်ထည့်လိုက်သည် အသုံးပြုသူအမည်နှင့် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="ftp_open_port_error">ဝင်ပေါက်အား ဖွင့်၍မရပါ။ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးပါ သို့မဟုတ် ဝင်ပေါက် နံပါတ်အား ပြန်သတ်မှတ်ပါ။</string>
@@ -178,7 +182,7 @@
     <string name="ftp_port_number">ဝင်ပေါက် နံပါတ်</string>
     <string name="ftp_random_port">ကြုံရာ ဝင်ပေါက်</string>
     <string name="ftp_transfer_secure">လုံခြုရေး</string>
-    <string name="ftp_username_and_passworld">ဆိုင်းအင်ဝင်မည်</string>
+    <string name="ftp_username_and_passworld">အသုံးပြုသူအမည် နှင့် စကားဝှက် သတ်မှတ်ပါ</string>
     <string name="ftp_username_hint">သုံးသူအမည်</string>
     <string name="gbk_summary">တရုတ်စာလုံးတို ဝင်းဒိုးများ၏ သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="gigabyteShort">GB</string>
@@ -201,6 +205,7 @@
     <string name="invalid_name_or_password">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="just_now">ယခုလေးတင်</string>
     <string name="kilobyteShort">KB</string>
+    <string name="lack_perm_dialog_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="list_order">စီတန်းမြင်ကွင်း</string>
     <string name="load_more">နောက်ထပ် ကြည့်ပါ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
@@ -302,6 +307,7 @@
     <string name="partial_delete_failure">ဖိုင်အချို့ကို ဖျက်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="partial_encrypt_success">ဖိုင်အချို့ကို ကိုယ်ပိုင်သီးသန့်လုပ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="passive">အပြုခံ</string>
+    <string name="perm_manage_external_storage">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ဖိုင်မန်နေဂျာအား ဓာတ်ပုံနှင့် ဗီဒီယိုများ ဖတ်ခွင့်ပြုပါ။ ၎င်းကို ဆက်တင်တွင် ပြုလုပ်နိုင်သည်။</string>
     <string name="permission_denial">ဖိုင်များအား ဖွင့်၍မရပါ။ ဆက်တင်သို့သွား၍ ဖိုင်မန်နေဂျာကို ဖိုင်သုံးခွင့်ပေးပါ။</string>
     <string name="permission_phone">ဖုန်း</string>
     <string name="permission_phone_desc">ကိုယ်ပိုင်သီးသန့်ဖိုင်များကို စိစစ်ရန်၊ သိမ်းဆည်းရန်နှင့် ကိုင်တွယ်ရန်အတွက် IMEI ကို ဖတ်ပါသည်</string>
@@ -325,14 +331,6 @@
     <string name="phone_storage_zip_title">မော်ကွန်းများ−</string>
     <string name="pick_file">ဖိုင်များအား ရွေးပါ</string>
     <string name="pick_folder">ဖိုဒါရွေးပါ</string>
-    <string name="player_tips_brightness">တောက်ပမှုအား ချိန်ညှိမည်</string>
-    <string name="player_tips_double_click">မျက်နှာပြင်အား နှစ်ချက်ထိနှိပ်ပါ</string>
-    <string name="player_tips_landscape">အလျားလိုက် ပွတ်ဆွဲပါ</string>
-    <string name="player_tips_pause_player">ထုတ်လွှင့်မှုအား ခေတ္တရပ်ဆိုင်းမည်/ပြန်ဖွင့်မည်</string>
-    <string name="player_tips_rewind">ထုတ်လွှင့်မှုအား ချိန်ညှိမည်</string>
-    <string name="player_tips_up_down_left">ဘယ်ဘက်မှ ဒေါင်လိုက် ပွတ်ဆွဲပါ</string>
-    <string name="player_tips_up_down_right">ညာဘက်မှ ဒေါင်လိုက် ပွတ်ဆွဲပါ</string>
-    <string name="player_tips_volume">အသံပမာဏ ချိန်ညှိမည်</string>
     <string name="port">ဝင်ပေါက်</string>
     <string name="port_range">ဝင်ပေါက်နံပါတ်မှာ ၁၀၂၄ နှင့် ၆၅၅၃၅ အကြားရှိရပါမည်</string>
     <string name="possible_permissions">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
@@ -383,8 +381,6 @@
     <string name="rlv_release_to_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
     <string name="save_seven_day">တစ်ပတ် တစ်ကြိမ် ရှင်းလင်းပါ</string>
     <string name="scan_code_download_from_play">ပလေးစတိုးမှ ဒေါင်းလုဒ်လုပ်ရန် ဤ QR ကုဒ်အား စကန်ဖတ်ပါ</string>
-    <string name="screenshot_fail">မျက်နှာပြင်ပုံ ရိုက်၍မရပါ</string>
-    <string name="screenshot_success">မျက်နှာပြင်ပုံများအား %1$s သို့ သိမ်းပါ</string>
     <string name="search_description">စက်ပေါ်ရှိဖိုင်အားလုံးအား ရှာဖွေပါ</string>
     <string name="search_empty_view_hint">တစ်ခုမှရှာမတွေ့ပါ</string>
     <string name="search_error_hint">ရှာ​ဖွေ</string>
@@ -441,8 +437,6 @@
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="terms_conditions_desc">အောက်ပါ အိုင်တမ်များအား သေချာစွာ ဖတ်ရှုပြီး သဘောတူ/မတူ ရွေးပါ။</string>
-    <string name="time_am">နံနက်</string>
-    <string name="time_pm">ညနေ</string>
     <string name="time_to_upgrade">အပ်ဒိတ် လုပ်နိုင်ပါပြီ</string>
     <string name="tip">ဂရုစိုက်ခြင်း</string>
     <string name="tips_by_forbid_access">Android R တွင် မိတ်ဆက်ထားသော စနစ်ကန့်သတ်ချက်များကြောင့် ဤဖိုဒါရှိအရာများကို ဝင်နိုင်တော့မည် မဟုတ်ပါ။ ဤဖိုဒါမှ သင့်ကိုယ်ရေးကိုယ်တာဖိုင်များကို အမြန်ဆုံး ဖယ်ရှားပါ။</string>
@@ -472,9 +466,11 @@
     <string name="user_notice_term_of_service">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="utf8_summary">စက်စနစ် FTP သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="version_name">ဗားရှင်း</string>
-    <string name="video_replay_btn">ပြန်ဖွင့်ပါ</string>
     <string name="view_by_document">\"ဖိုင်မျာ\" တွင် ကြည့်ပါ</string>
     <string name="wechat_video">%s က ဗီဒီယို</string>
+    <string name="whatsapp_cache_garbage">ကက်ချ်</string>
+    <string name="whatsapp_cache_garbage_cleanup">ရှင်းမည်</string>
+    <string name="whatsapp_cache_garbage_tip">ကက်ချ် ရှင်းခြင်းသည် အရေးကြီးသည့်အရာကို မဖျက်ပါ။ ၎င်းနောက် သင်သည် အက်ပ်ကို ပုံမှန်အတိုင်း အသုံးပြုနိုင်မည်။</string>
     <string name="wifi_state">Wi-Fi အခြေအနေ</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yes">ဟုတ်ပါသည်</string>

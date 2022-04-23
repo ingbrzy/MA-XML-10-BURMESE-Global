@@ -11,7 +11,7 @@
     <string name="httpErrorUnsupportedScheme">ပရိုတိုကောကို ပံ့ပိုး မပေးပါ။</string>
     <string name="no">မလုပ်တော့</string>
     <string name="ok">OK</string>
-    <string name="paste">Paste</string>
+    <string name="paste">ကူးထည့်ရန်</string>
     <string name="search_go">ရှာဖွေခြင်း</string>
     <string name="selectAll">အားလုံးရွေးရန်</string>
     <string name="unknownName">မသိ</string>
@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">သတိပြုရန်</string>
     <string name="VideoView_error_text_invalid_progressive_playback">ဒီဗိဒီယိုမှာ ဒီကိရိယာ ပေါ်မှာ ဖွင့်ကြည့်၍ မရနိုင်ပါ။</string>
     <string name="selectTextMode">စာသား ရွေးရန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="fingerprint_icon_content_description">လက်ဗွေ သင်္ကေတ</string>
     <string name="paste_as_plain_text">စာသားအတိုင်း ကူးထည့်ပါ</string>
     <string name="autofill">အော်တိုဖြည့်</string>
@@ -343,14 +344,14 @@
     <string name="badPin">သင် ရိုက်ထည့်သော PIN ဟောင်းမှာ မမှန်ပါ။</string>
     <string name="badPuk">သင်ရိုက် ထည့်သော PUK မှာ မမှန်ကန်ပါ။</string>
     <string name="battery_saver_charged_notification_summary">ဖုန်းတွင် ဘက်ထရီအား အလုံအလောက် ရှိသည်။ လုပ်ဆောင်ချက်များကို ကန့်သတ်မထားတော့ပါ။</string>
-    <string name="battery_saver_description">"ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် 'ဘက်ထရီအားထိန်း' က- 
+    <string name="battery_saver_description">"ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် 'ဘက်ထရီအားထိန်း' က-
 
 •မှောင်သည့် အပြင်အဆင်ကို ဖွင့်သည်
 •နောက်ခံလုပ်ဆောင်ချက်၊ ပြသမှုဆိုင်ရာ အထူးပြုလုပ်ချက်အချို့နှင့် “Ok Google” ကဲ့သို့ အခြား ဝန်ဆောင်မှုများကို ပိတ်သည် သို့မဟုတ် ကန့်သတ်သည်"</string>
     <string name="battery_saver_description_with_learn_more">"ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် 'ဘက်ထရီအားထိန်း' က- 
 
-•မှောင်သည့် အပြင်အဆင်ကို ဖွင့်သည်
-•နောက်ခံလုပ်ဆောင်ချက်၊ ပြသမှုဆိုင်ရာ အထူးပြုလုပ်ချက်အချို့နှင့် “Ok Google” ကဲ့သို့ အခြား ဝန်ဆောင်မှုများကို ပိတ်သည် သို့မဟုတ် ကန့်သတ်သည်
+• မှောင်သည့် အပြင်အဆင်ကို ဖွင့်သည်
+• နောက်ခံလုပ်ဆောင်ချက်၊ ပြသမှုဆိုင်ရာ အထူးပြုလုပ်ချက်အချို့နှင့် “Ok Google” ကဲ့သို့ အခြား ဝန်ဆောင်မှုများကို ပိတ်သည် သို့မဟုတ် ကန့်သတ်သည်
 
 "<annotation id="url">ပိုမိုလေ့လာရန်</annotation></string>
     <string name="battery_saver_notification_channel_name">ဘက်ထရီ အားထိန်း</string>
@@ -624,6 +625,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">ပုံစံကုတ်ပြီးဆုံးသည်</string>
     <string name="fcError">ဆက်သွယ်မှုဆိုင်ရာပြသနာ သို့မဟုတ် တရားမဝင်သောပုံစံကုတ်</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">ရှာဖွေရန်</string>
     <string name="find_next">နောက်တစ်ခု ရှာဖွေရန်</string>
     <string name="find_on_page">စာမျက်နှာတွင်ရှာဖွေရန်</string>
@@ -831,6 +833,7 @@
     <string name="kg_reordering_delete_drop_target_text">ဖယ်ရှားရန်</string>
     <string name="kg_sim_pin_instructions">ဆင်းမ်ကဒ် ပင် နံပါတ် ရိုက်ထည့်ပါ</string>
     <string name="kg_sim_unlock_progress_dialog_message">ဆင်းမ်ကဒ် ကို သော့ဖွင့်နေပါသည်</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"သင်သည် စကားဝှက်ကို  %1$d ကြိမ် မှားရိုက်ပြီးပါပြီ။ 
 
  %2$d စက္ကန့်အကြာ ပြန်လည်ကြိုးစားပါ"</string>
@@ -868,7 +871,7 @@
     <string name="lockscreen_access_pattern_detected">ပုံစံပြီးဆုံးခြင်း</string>
     <string name="lockscreen_access_pattern_start">ပုံစံစတင်ခြင်း</string>
     <string name="lockscreen_carrier_default">ဝန်ဆောင်မှု မရှိပါ</string>
-    <string name="lockscreen_emergency_call">အရေးပေါ်</string>
+    <string name="lockscreen_emergency_call">အရေးပေါ် ခေါ်ဆိုမှု</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">သင့်ဖုန်းအား မှားယွင်းစွာ %1$dကြိမ်ဖွင့်ရန် ကြိုးစားနေပါသည်။ နောက်ထပ်%2$dကြိမ်မအောင်မြင်ပါက မူလစက်ရုံ အနေအထားသို့ပြန်လည်ရောက်ရှိကာ အသုံးပြုသူ၏ဒေတာအားလုံးဆုံးရှုံးပါမည်။</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"သင်သည် သော့ဖွင့် ပုံစံကို %1$d ကြိမ် မမှန်မကန် ရေးဆွဲခဲ့သည်။ နောက်ထပ် %2$d မအောင်မြင်သည့် ကြိုးပမ်းမှု နောက်မှာ၊ သင်၏ ဖုန်းကို Google လက်မှတ်ထိုး ဝင်မှုဖြင့် ဖွင့်ရန် တောင်းဆိုခံရမည်။ 
 
@@ -1141,6 +1144,7 @@
     <string name="notification_hidden_text">အကြောင်းကြားချက်အသစ်</string>
     <string name="notification_history_title_placeholder">စိတ်ကြိုက်အက်ပ် အကြောင်းကြားချက်</string>
     <string name="notification_listener_binding_label">အကြောင်းကြားချက် နားတောင်သူ</string>
+    <string name="notification_messaging_title_template">%1$s− %2$s</string>
     <string name="notification_ranker_binding_label">သတိပေးချက် အဆင့်သတ်မှတ်ခြင်းဝန်ဆောင်မှု</string>
     <string name="notification_reply_button_accessibility">စာပြန်ရန်</string>
     <string name="notification_title">%1$s ဝင်ရာ အမှား</string>
@@ -1212,7 +1216,7 @@
     <string name="permdesc_changeWifiState">အပလီကေးရှင်းအား ဝိုင်ဖိုင်တည်နေရာများအား ဆက်သွယ်ခြင်း၊ ဆက်သွယ်မှု ရပ်ဆိုင်းခြင်း၊ ဝိုင်ဖိုင်ကွန်ရက်အတွက် စက်အပြင်အဆင်များ ပြုလုပ်ခြင်း ခွင့်ပြုပါ</string>
     <string name="permdesc_changeWimaxState">အပလီကေးရှင်းအား ဖုန်းကို ဝိုင်မက်စ် ကွန်ရက်များနဲ့ ဆက်သွယ်ခြင်း၊ ဆက်သွယ်မှု ရပ်ဆိုင်းခြင်းများ လုပ်ခွင့်ပြုပါ</string>
     <string name="permdesc_connection_manager">အက်ပ်အား တယ်လီကွမ် ဆက်သွယ်မှုများကို စီမံခွင့် ပြုပါ။</string>
-    <string name="permdesc_control_incall_experience">အက်ပ်အား အသုံးပြုသူ အတွက် ခေါ်ဆိုမှုအဝင် လုပ်ကိုင်ပုံကို စီစဉ်ခွင့် ပြုသည်။</string>
+    <string name="permdesc_control_incall_experience">အဝင်ခေါ်ဆိုမှုအတွက် အသုံးပြုသူ၏ နှစ်သက်မှုကို ပံ့ပိုးပေးရန် အက်ပ်အား ခွင့်ပြုသည်။</string>
     <string name="permdesc_createNetworkSockets">အက်ပ်အား ကွန်ရက်ဆော့ကတ်များ တည်ဆောက်ခွင့်၊ တသီးတသန့် ကွန်ရက် ပရိုတိုကောလ်များ သုံးခွင့် ပြုပါ။ အင်တာနက်မှ အချက်အလက်များ ပေးပို့ခြင်းကို ဘရောက်ဇာနှင့် တခြား အက်ပ်များက လုပ်ဆောင်ပေးသောကြောင့် ဒီခွင့်ပြုချက်က အင်တာနက်မှ အချက်အလက် ပေးပို့ခြင်း မလိုအပ်ပါ</string>
     <string name="permdesc_disableKeyguard">အပလီကေးရှင်းအား သော့ချခြင်းနှင့် သက်ဆိုင်ရာ စကားဝှက်သတ်မှတ်ခြင်းများအား မသုံးနိုင်အောင် ပိတ်ခြင်းကို ခွင့်ပြုရန်။ ဥပမာ ဖုန်းလာလျှင် သော့ပိတ်ခြင်း ပယ်ဖျက်ခြင်း၊ ဖုန်းပြောပြီးလျှင် သော့ကို အလိုအလျောက် ပြန်ပိတ်ခြင်း</string>
     <string name="permdesc_enableCarMode">အက်ပ်အား ကား မုဒ် ဖွင့်ခွင့် ပြုသည်။</string>
@@ -1365,7 +1369,7 @@
     <string name="permlab_changeWifiState">ဝိုင်ဖိုင်အား ချိတ်ဆက်ရန် နှင့် ဆက်သွယ်မှု ဖြတ်တောက်ရန်</string>
     <string name="permlab_changeWimaxState">WiMAX အခြေအနေကို ပြောင်းရန် ပြင်ရန်</string>
     <string name="permlab_connection_manager">တယ်လီကွမ် ဆက်သွယ်မှုများကို စီမံရန်</string>
-    <string name="permlab_control_incall_experience">အသုံးပြုသူ အတွက် ခေါ်ဆိုမှုအဝင် လုပ်ကိုင်ပုံကို စီစဉ်ပေးခြင်း</string>
+    <string name="permlab_control_incall_experience">အဝင်ခေါ်ဆိုမှုအတွက် အသုံးပြုသူ၏ နှစ်သက်မှုကို ခွင့်ပြုခြင်း</string>
     <string name="permlab_createNetworkSockets">ကွန်ရက်ကို အပြည့်အဝ ရယူသုံးနိုင်</string>
     <string name="permlab_disableKeyguard">ဖန်သားပြင် သော့ချခြင်းအား မလုပ်နိုင်အောင် ပိတ်ရန်</string>
     <string name="permlab_enableCarMode">ကားမောင်းနေစဥ်စနစ်အား ရရှိစေခြင်း</string>
@@ -1762,7 +1766,7 @@
     <string name="turn_on_radio">wirelessအားဖွင့်မည်</string>
     <string name="tutorial_double_tap_to_zoom_message_short">ဇူးမ်အသုံးပြုရန် နှစ်ချက်တို့ပါ</string>
     <string name="twilight_service">နေဝင်ဆည်းဆာ ဝန်ဆောင်မှု</string>
-    <string name="undo">ပြန်ဖျက်ရန်</string>
+    <string name="undo">တစ်ဆင့်နောက်ပြန်ရန်</string>
     <string name="unpin_specific_target">%1$s ကို ပင်ဖြုတ်ရန်</string>
     <string name="unpin_target">ဖြုတ်ပါ</string>
     <string name="unread_convo_overflow">%1$d+</string>
@@ -1850,7 +1854,7 @@
     <string name="wfc_mode_cellular_preferred_summary">မိုဘိုင်းကွန်ရက်သုံး၍ ခေါ်ဆိုသည်</string>
     <string name="wfc_mode_wifi_only_summary">ကြိုးမဲ့အင်တာနက် သာလျှင်</string>
     <string name="wfc_mode_wifi_preferred_summary">Wi-Fi သုံး၍ ခေါ်ဆိုသည်</string>
-    <string name="whichApplication">အသုံးပြု၍ ဆောင်ရွက်မှုအားပြီးဆုံးစေခြင်း</string>
+    <string name="whichApplication">အောက်ပါတို့ကို အသုံးပြုမှု အပြီးသတ်ခြင်း</string>
     <string name="whichApplicationLabel">လုပ်ဆောင်ချက်ကို အပြီးသတ်ပါ</string>
     <string name="whichApplicationNamed">%1$s ကို သုံးပြီး လုပ်ဆောင်ချက် ပြီးဆုံးပါစေ</string>
     <string name="whichEditApplication">...နှင့် တည်းဖြတ်ရန်</string>
@@ -1901,6 +1905,7 @@
     <string name="zen_mode_feature_name">မနှောင့်ယှက်ရ</string>
     <string name="zen_mode_forever">သင်ပိတ်လိုက်သည် အထိ</string>
     <string name="zen_mode_forever_dnd">မနှောင့်ယှက်ရန် ကိုသင်ပိတ်သည်အထိ</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">%1$sအထိ</string>
     <string name="zen_upgrade_notification_content">ပိတ်ထားသည့်အရာများကို ကြည့်ရန် တို့ပါ။</string>
     <string name="zen_upgrade_notification_title">"'မနှောင့်ယှက်ရ' ပြောင်းလဲသွားပါပြီ"</string>
