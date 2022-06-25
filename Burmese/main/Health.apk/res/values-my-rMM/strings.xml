@@ -197,6 +197,11 @@ Xiaomi Health အနေဖြင့် အရေးကြီးသော အက�
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">အိပ်စက်ချိန်ကို ပိုမိုတိကျစွာ မှတ်သားရန်အတွက် Xiaomi Health ကို အလိုအလျောက် စတင်ခွင့်ပြုပါ။</string>
     <string name="dialog_sure">အိုကေ</string>
+    <string name="dialog_upgrade_description">"၁။ ဒီဇိုင်းအသစ်။
+၂။ ဒေတာများကို စက်များအကြား ဆင့်(ခ်)လုပ်ရန်။
+၃။ ကျန်းမာရေး၊ Xiaomi Wear နှင့် အခြားအက်(ပ်)များမှ ကျန်းမာရေးဒေတာကို တစ်နေရာတည်းတွင် ကြည့်ရန်။"</string>
+    <string name="dialog_upgrade_positive_btn">အပ်ပဒိတ်လုပ်ရန်</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">Xiaomi ကျန်းမာရေးမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)ကို ခြေလှမ်းများရေရန်၊ အိပ်ချိန်၊ ဓမ္မတာလာချိန်နှင့် ကိုယ်အလေးချိန်မှတ်သားရန်တို့အပြင် ၎င်းကိန်းဂဏန်းများကို ကလောက်တွင် ဆင့်(ခ်)လုပ်ရန်သုံးနိုင်သည်။</string>
     <string name="dialog_user_agreement_purpose2">Xiaomi ကျန်းမာရေးမှ ကြိုဆိုပါသည်။ သင့်ခြေလှမ်းများကိုရေရန်၊ အိပ်ချိန်ဆန်းစစ်ရန်၊ ဓမ္မတာများကို မှတ်သားရန်၊ ကိုယ်အလေးချိန် မှတ်သားရန်နှင့် အခြားအရာများအတွက် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="disable">Off</string>

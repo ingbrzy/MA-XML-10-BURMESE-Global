@@ -2,6 +2,7 @@
 <resources>
     <string name="about_device_info">ကိရိယာ၏ အသေးစိတ်များကို ကြည့်ပါ</string>
     <string name="accept">ခွင့်ပြုရန်</string>
+    <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="access_token_expired_warning">Weibo အကောင့်က သက်တမ်းကုန်နေပါပြီ</string>
     <string name="access_token_invalid_warning">Weibo အကောင့်က မမှန်ပါ</string>
     <string name="account">အကောင့်</string>
@@ -68,6 +69,8 @@
     <string name="agreement_and_privacy">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="am">နံနက်</string>
     <string name="app_name">Mi အကောင့်</string>
+    <string name="area_code_no_search_result">ရလဒ်များမတွေ့ပါ</string>
+    <string name="area_code_search_hint">နိုင်ငံ သို့မဟုတ် ဒေသအလိုက် ရှာရန်</string>
     <string name="auth_fail_warning">ဆက်ရှင်သက်တမ်းကုန်သွားပြီ၊ ဆိုင်းအင်ထပ်ဝင်ရောက်ပါ</string>
     <string name="authorize_title">လုပ်ပိုင်ခွင့်ပေးခြင်း</string>
     <string name="bind_facebook">သင်၏ Facebook အကောင့်ကို ချိတ်ဆက်ပါ</string>
@@ -359,7 +362,10 @@
     <string name="multi_user_not_show_sync_activity_title">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်းကို မဖွင့်ပါနှင့်</string>
     <string name="my_device_title">လက်ရှိ ကိရိယာ</string>
     <string name="need_install_wechat">WeChat အား ဦးစွာ ထည့်သွင်းပါ</string>
+    <string name="network_error_info">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="network_timeout_info">ကွန်ရက်ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="night">ညနေ</string>
+    <string name="no_account_or_forget_password">အကောင့်ဖွင့်လိုသလား သို့မဟုတ် စကားဝှက်မေ့သွားသလား။</string>
     <string name="no_install">မထည့်သွင်းထားပါ</string>
     <string name="no_network_btn">ရီဖရှက်ရ်လုပ်</string>
     <string name="no_network_title">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။</string>
@@ -593,7 +599,9 @@
     <string name="passport_talkback_voice_captcha">အသံ အတည်ပြုကုဒ်အား ဖွင့်ပါ</string>
     <string name="passport_ticket_login_select_sim_card">SIM ကတ် ရွေးပါ</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d - %2$s</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d - %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">ဖျက်သိမ်းရန်</string>
     <string name="passport_title_reg">အကောင့်တစ်ခု ဖန်တီးပါ</string>
     <string name="passport_trust_device">စက်များအား အတည်ပြုရန် ဤစက်အား ပေါင်းထည့်ပါ</string>
@@ -650,6 +658,7 @@
     <string name="privacy_policy_reject_confirm_title">Mi အကောင့်ကို သုံးမရပါ</string>
     <string name="privacy_policy_update_msg">Mi အကောင့်၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို အပ်ပဒိတ်လုပ်ထားသည် -&lt;br/>%1$s&lt;br/>ရှေ့မဆက်မီ &lt;a href=%2$s>&lt;u>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/u>&lt;/a> ဗားရှင်းအသစ်ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
     <string name="privacy_policy_update_title">အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="provision_back">နောက်ပြန်</string>
     <string name="provision_next">နောက်တစ်ဆင့်</string>
     <string name="provision_skip_underline">ကျော်ရန်</string>
@@ -726,6 +735,7 @@
     <string name="system_ad_summary">"စနစ်အက်(ပ်)များတွင် ကြော်ငြာအနည်းငယ် ပြသခွင့်ပြုရန် ဤအင်္ဂါရပ်ကို ဖွင့်ပါ။ ဤကြော်ငြာများသည် ကျွန်ုပ်တို့၏ ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများကို ပိုကောင်းစေရန် ကူညီနိုင်ပါသည်။ ဤအင်္ဂါရပ်ကို အချိန်မရွေး ပြန်ပိတ်နိုင်သည်။ ပံ့ပိုးမှုအတွက် ကျေးဇူးတင်ပါသည်။ "</string>
     <string name="system_ad_switch">စနစ်အက်(ပ်)များရှိ ကြော်ငြာများ</string>
     <string name="system_ad_switch_failed">ဆက်တင်သတ်မှတ်မရပါ</string>
+    <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="talkback_scan_barcode">QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="temporary_not_available">ဤလုပ်ဆောင်ချက်အား မရရှိနိုင်သေးပါ။</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
@@ -790,6 +800,7 @@
     <string name="two_factor_auth_need_code_summary">ချိတ်ဆက်ထားသော အခြား Mi စက်များတွင် ကုဒ်တစ်ခုတွေ့မည်။ ၎င်းကုဒ်ကို အကောင့်ဝင်လိုသော စက်အသစ်တွင် ထည့်ပါ။</string>
     <string name="two_factor_auth_summary">စက်အသစ်တစ်လုံး သို့မဟုတ် နေရာအသစ်တစ်ခုမှ အကောင့်ဝင်လျှင် အခြားချိတ်ဆက်ထားသော စက်များတွင် သတိပေးစာပို့ပါမည်။ ၎င်း အကောင့်ဝင်ခြင်းများသည် သင့်ခွင့်ပြုချက်နှင့် ပြုလုပ်ခြင်းမဟုတ်မဟုတ် သင်က အတည်ပြုရပါမည်။</string>
     <string name="unbind_sns_description">ချိတ်ဆက်ဖြတ်ပြီးနောက်မှာ၊ သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ရန် သင်၏ %s ကိုစအသုံးပြုနိုင်တော့မည် မဟုတ်ပါ။</string>
+    <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="unlock_help_notice">"အကူအညီ−
 ၁။ စကားဝှက်မေ့သွားပါက ပြန်လည်သတ်မှတ်ရန် id.mi.com သို့ သွားပါ။
 ၂။ စကားဝှက်အား ပြန်လည်မသတ်မှတ်နိုင်ပါက သို့မဟုတ် တစ်စုံတစ်ယောက်မှ စက်အား လော့ခ်ချလိုက်ပါက လော့ခ်ဖြည်ရန် i.mi.com သို့ သွားပါ။

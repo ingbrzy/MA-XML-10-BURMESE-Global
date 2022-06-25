@@ -154,7 +154,7 @@
     <string name="size_peta_byte">ပီတာဘိုက်</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">တီရာဘိုက်</string>
-    <string name="snapdragon_sound_notification_content">ဤစက်တွင် Qualcomm® Snapdragon Sound™ နည်းပညာကို ပံ့ပိုးပါသည်</string>
+    <string name="snapdragon_sound_notification_content">ဤစက်တွင် Snapdragon Sound™ နည်းပညာကို ပံ့ပိုးသည်။</string>
     <string name="snapdragon_sound_notification_title">ဘလူးတုသ်</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>

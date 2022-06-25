@@ -83,11 +83,6 @@
         <item>Qualcomm® aptX™ အော်ဒီယို</item>
         <item>Qualcomm® aptX™ HD အော်ဒီယို</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
-        <item>Qualcomm® aptX™ TWS+ အော်ဒီယို</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
@@ -96,13 +91,6 @@
         <item>Qualcomm® aptX™ အော်ဒီယို</item>
         <item>Qualcomm® aptX™ HD အော်ဒီယို</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
-        <item>Qualcomm® aptX™ TWS+ အော်ဒီယို</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
-        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -136,8 +124,6 @@
         <item>ပိတ်ထားသည်</item>
         <item>စစ်ထုတ်ထားသည်</item>
         <item>ဖွင့်ထားပါသည်</item>
-        <item>ခေါင်းစဥ်များ စစ်ထုတ်ထားသည်</item>
-        <item>မီဒီယာအထုပ်ကလေးများကို စစ်ထုတ်ပြီးပြီ</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>တိုးမြှင့်ထားသော အရောင်</item>

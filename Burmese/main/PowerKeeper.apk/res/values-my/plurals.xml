@@ -4,8 +4,4 @@
         <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
         <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
     </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">စက် %1$d ခု ချိတ်ဆက်ထားသည်</item>
-        <item quantity="one">စက် %1$d ခု ချိတ်ဆက်ထားသည်</item>
-    </plurals>
 </resources>

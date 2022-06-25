@@ -28,6 +28,7 @@
     <string name="connectio_help_title">ပရင်တာကို ချိတ်နေသည်</string>
     <string name="copies_decrease">တစ်ခုလျော့မိတ္တူ</string>
     <string name="copies_increase">တစ်ခုပေါင်းမိတ္တူ</string>
+    <string name="current_page_template">%1$d /%2$d</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />

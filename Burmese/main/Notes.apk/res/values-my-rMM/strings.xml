@@ -475,6 +475,7 @@
     <string name="note_sort_way">စီရန်</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">မှတ်စုများသည် စနစ်အက်(ပ်)များဖြစ်သည်။ ဤအက်(ပ်)ကို ဖြုတ်ပြီးနောက် သုံးမရတော့ပါ။</string>
     <string name="notes_description_title">မှတ်စုများပြန်ဖြုတ်လိုသလား။</string>
     <string name="notification_content_add_todo_from_other_app">လုပ်ငန်းအသစ်တစ်ခု သင် ထည့်ထားပါသည်။ ကြည့်ရန် တို့ပါ။</string>
@@ -857,6 +858,7 @@
     <string name="view_all_notes">အားလုံးကြည့်ရန်</string>
     <string name="warn_cannot_add_new_bullet">မှတ်စုရှည်လွန်းသောကြောင့် အစက်ချစာရင်းအသစ် ထည့်မရပါ</string>
     <string name="warn_cannot_add_new_checkbox">မှတ်စုရှည်လွန်းသောကြောင့် Checkbox အသစ် ထည့်မရပါ</string>
+    <string name="warn_cannot_add_new_content">မှတ်စုရှည်လွန်းသောကြောင့် အကြောင်းအရာအသစ် ထည့်မရပါ</string>
     <string name="warn_cannot_add_new_doodle">မှတ်စုရှည်လွန်းသောကြောင့် ရေးခြစ်ပုံအသစ် ထည့်မရပါ</string>
     <string name="warn_cannot_add_new_element">မှတ်စုရှည်လွန်းသောကြောင့် အကြောင်းအရာအသစ် ထည့်မရပါ</string>
     <string name="warn_cannot_add_new_link_card">မှတ်စုရှည်လွန်းသောကြောင့် လင့်အသစ် ထည့်မရပါ</string>
@@ -883,6 +885,8 @@
     <string name="widget_size_item_big">အကြီး</string>
     <string name="widget_size_item_medium">အလယ်အလတ်</string>
     <string name="widget_size_item_small">အသေး</string>
+    <string name="widget_size_item_super_big">အလွန်ကြီးသည်</string>
+    <string name="widget_size_not_support">အလွန်ကြီးသောဝိဂျက်များကို ဤစက်တွင် မပံ့ပိုးပါ</string>
     <string name="widget_take_notes_title">မှတ်စုများ</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

@@ -29,6 +29,7 @@
     <string name="dual_app_title">နှစ်ခုတွဲအက်ပ်</string>
     <string name="dual_app_words">အကောင့်တိုင်းအတွက် အက်ပ်ကိုယ်စီ</string>
     <string name="early_morning">နံနက်</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -50,7 +51,7 @@
     <string name="ew_detail_receive_warn_time_message">%sစက္ကန့်</string>
     <string name="ew_detail_receive_warn_time_title">မစတင်မီအချိန်</string>
     <string name="ew_save_title">သိမ်းရန်</string>
-    <string name="ew_share_logo_title">မြေငလျင် သတိပေးချက်</string>
+    <string name="ew_share_logo_title">ငလျှင် သတိပေးချက်</string>
     <string name="ew_share_save_tips">%s သို့သိမ်းပါ</string>
     <string name="ew_share_title">မျှဝေမည်</string>
     <string name="ew_title_back">နောက်ပြန်သွားမည်</string>

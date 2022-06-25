@@ -167,6 +167,7 @@
     <string name="low_battery_error_for_pad">ဓာတ်ခဲ %s အောက်လျော့နေသည်။ မှတ်တမ်းတင်ခြင်း မဆုံးရှုံးစေရန် ရပ်တန့်ပြီး သိမ်းပါ။</string>
     <string name="low_battery_error_title">ဘက်ထရီနည်းနေသည်</string>
     <string name="lyric_item_point_count">%1$d မှ %2$d</string>
+    <string name="manage_external_storage">ဖိုင်အားလုံးဖတ်ရန်</string>
     <string name="mark_point_list_title">အမှတ်များ</string>
     <string name="menu">မီနူး</string>
     <string name="message_file_size_error">အသံဖမ်းယူမှုသည် %s က ပံ့ပိုးပေးထားသော အများဆုံး အချိန်တာသို့ ရောက်နေပါပြီ</string>
@@ -308,7 +309,7 @@
     <string name="permission_dialog_cancel">မလုပ်တော့ရန်</string>
     <string name="permission_dialog_ok">ဆက်တင်များ</string>
     <string name="permission_read_phone_state">စက်အချက်အလက်များဖတ်ရန်</string>
-    <string name="permission_read_phone_state_description">ဖုန်းလက်ခံချိန်တွင် အလိုအလျောက်အသံသွင်းခြင်းကို ရပ်နိုင်ရန်အတွက် ခေါ်ဆိုမှုအခြေအနေကိုဖတ်ရန်</string>
+    <string name="permission_read_phone_state_description">ဖုန်းလက်ခံချိန်တွင် အသံသွင်းခြင်းကို အလိုအလျောက်ရပ်နိုင်ရန်အတွက် ခေါ်ဆိုမှုအခြေအနေကိုဖတ်ရန်</string>
     <string name="permission_record">အသံသွင်းရန်</string>
     <string name="permission_record_description">အသံသွင်းဝန်ဆောင်မှုများပေးရန်</string>
     <string name="permission_storage">သိုလှောင်ခန်း ဖတ်ရန်</string>
@@ -483,6 +484,7 @@
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="sync_desc_state_complete">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန် - %1$s</string>
     <string name="tab_all">အားလုံး</string>
     <string name="tab_apps">အက်(ပ်)များ</string>
     <string name="tab_call">ခေါ်ဆိုမှုများ</string>

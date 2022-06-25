@@ -21,8 +21,8 @@
     <string name="add_field">အခြား လုပ်ငန်းနယ်ပယ်သို့ ထည့်ပါ</string>
     <string name="add_field_toast">နောက်ထပ်ပေါင်းထည့်စရာ မရှိတော့ပါ။</string>
     <string name="add_new_account">အကောင့်အသစ် ပေါင်းထည့်ပါ</string>
-    <string name="add_xiaomi_account_dialog_btn">Mi အကောင့်ကိုသုံးပါ</string>
-    <string name="add_xiaomi_account_dialog_msg">သင့်အကောင့်များကို မည်သည့်နေရာမှမဆို ရယူသုံးစွဲရန် သင့် Mi အကောင့်ထဲသို့ အဆက်အသွယ်များကို အရန်သိမ်းပါ!</string>
+    <string name="add_xiaomi_account_dialog_btn">Xiaomi အကောင့် သုံးရန်</string>
+    <string name="add_xiaomi_account_dialog_msg">အဆက်အသွယ်များကို နေရာမရွေးဖတ်နိုင်ရန် Xiaomi အကောင့်တွင် အရန်သိမ်းပါ။</string>
     <string name="add_xiaomi_account_dialog_title">အကောင့်ရွေးချယ်ပါ</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="aggregation_suggestion_edit_dialog_message">အမည်တစ်ခုတည်းဖြစ်နေသော အဆက်အသွယ်ကို တည်းဖြတ်ဖို့ ကူးပြောင်းမလား။ ယခုအချိန်ထိ သင် ထည့်သွင်းသော အချက်အလက်ကို ကော်ပီကူးပါလိမ့်မည်။</string>
@@ -121,6 +121,7 @@
     <string name="calllog_menu_edit_before_call">ပြုပြင်ရန်</string>
     <string name="calllog_menu_send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="calllog_record_none_toast">ဖုန်းပြောအသံသွင်းဖိုင် ပြစရာမရှိပါ</string>
+    <string name="calllog_record_searching_toast">အသံသွင်းဖုန်းပြောဖိုင်များ ရှာနေသည်…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dမိနစ် %2$dစက္ကန့်</string>
     <string name="callrecordview_item_op_time_missed">မချိတ်ဆက်ပါနှင့်</string>
     <string name="callrecordview_item_op_time_only_minutes">%d မိနစ်</string>
@@ -474,6 +475,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="ghostData_company">ကုမ္ပဏီ</string>
@@ -530,7 +532,7 @@
     <string name="import_to_xiaomi_account_confirm">သွင်းပါ</string>
     <string name="import_to_xiaomi_account_progress_finish">အဆက်အသွယ်ကို သွင်းပြီးပါပြီ</string>
     <string name="import_to_xiaomi_account_progress_message">သွင်းနေသည်…</string>
-    <string name="import_to_xiaomi_account_title">Mi အကောင့်သို့သွင်းပါ</string>
+    <string name="import_to_xiaomi_account_title">Xiaomi အကောင့်သို့ တင်သွင်းရန်</string>
     <string name="import_vcard_dialog_message">vCard အား တင်သွင်းမည်လား?</string>
     <string name="importing_sim_contacts_miui">ဆင်းမ်ကဒ်မှအဆက်အသွယ်များကို သွင်းနေသည်…</string>
     <string name="importing_sim_contacts_miui_prepare">အဆက်အသွယ်များကို ပြင်ဆင်နေသည်…</string>
@@ -539,6 +541,11 @@
     <string name="importing_vcard_finished_title">vCard %s တင်သွင်းခြင်း ပြီးစီးပါပြီ</string>
     <string name="insertContactDescription">အဆက်အသွယ်ကို ဖန်တီးပါ</string>
     <string name="invalidContactMessage">အဆက်အသွယ် ရှိမနေပါ</string>
+    <string name="invisible_mode_dialog_cancel">မလုပ်တော့ရန်</string>
+    <string name="invisible_mode_dialog_to_close">ပိတ်ရန်</string>
+    <string name="invisible_mode_title">ရုပ်ဖျက်မုဒ်ထဲရောက်နေသည်</string>
+    <string name="invisible_mode_unable_connect_camera">ကင်မရာသုံးနိုင်ရန် ရုပ်ဖျက်မုဒ်ပိတ်ပါ။ ယခုပိတ်လိုသလား။</string>
+    <string name="invisible_mode_unable_get_location">တည်နေရာဝန်ဆောင်မှုများသုံးနိုင်ရန်နှင့် အခြားစက်များမှ အဆက်အသွယ်များကို ဘလူးတုဖြင့် သွင်းယူနိုင်ရန် ရုပ်ဖျက်မုဒ်ပိတ်ပါ။ ယခုပိတ်လိုသလား။</string>
     <string name="item_offical">တရားဝင်</string>
     <string name="keep_local">ဆင့်ခ်မလုပ်ပါနှင့်</string>
     <string name="keep_local_btn">ဖုန်း၏အတွင်းပိုင်းသိုလှောင်ခန်းကို သုံးပါ</string>
@@ -565,6 +572,9 @@
     <string name="low_memory_toast">မှတ်ဉာဏ်နည်းနေသည့်အတွက် ဤလုပ်ဆောင်ချက်အား အသုံးပြု၍မရ နိုင်ပါ</string>
     <string name="lunarBirthdayLabelsGroup">လပြက္ခဒိန်မွေးနေ့</string>
     <string name="make_primary">ဒီရွေးပိုင်ခွင့်ကို မှတ်ထားပါ</string>
+    <string name="manage_external_storage_dialog_message">အသံသွင်းဖုန်းပြောဖိုင်များကို စီမံခန့်ခွဲနိုင်ရန် ဤအက်(ပ်)အား ဖိုင်အားလုံး ဖတ်ခွင့်ပြုပါ။</string>
+    <string name="manage_external_storage_dialog_positive">ဆက်တင်</string>
+    <string name="manage_external_storage_dialog_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="map_custom">%s လိပ်စာကို ကြည့်ပါ</string>
     <string name="map_home">အိမ်လိပ်စာကို ကြည့်ပါ</string>
     <string name="map_other">လိပ်စာ ပြပါ</string>
@@ -599,6 +609,7 @@
     <string name="menu_sync_remove">ဆင့်ခ်အုပ်စု ဖယ်ရှားပါ</string>
     <string name="midnight">ည</string>
     <string name="miprofile_account_type">ဆက်သွယ်မှု ကဒ်များ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_name">ကျွန်ုပ်၏ပရိုဖိုင်</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -754,6 +765,7 @@
     <string name="permission_retry_dialog_msg_pad">သင့် SIM ကတ်ကို ဤအက်(ပ်)နှင့် သုံးပြီး သင့်အဆက်အသွယ်များကို စီမံခန့်ခွဲနိုင်ရန်အတွက် ဤအက်(ပ်)အား သင့်အဆက်အသွယ်များကို ဖတ်ခွင့်နှင့် တည်းဖြတ်ခွင့်အပြင် စက်အချက်အလက်ကိုဖတ်ခွင့်ပါ ပေးရပါမည်။</string>
     <string name="permission_retry_setting">ဆက်တင်များ</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">ဖုန်းထဲတွင် မည်သည့်ပုံမျှ မရှိပါ။</string>
@@ -787,9 +799,9 @@
     <string name="pref_key_sim_manage">ဆင်းမ်ကဒ်များ</string>
     <string name="pref_key_sim_manage1">ဆင်းမ်ကဒ် ၁ ကို တည်ဆောက်ပါ</string>
     <string name="pref_key_sim_manage2">ဆင်းမ်ကဒ် ၂ ကို တည်ဆောက်ပါ</string>
-    <string name="pref_summary_import_from_account">Google မှ အဆက်အသွယ်များကို ရွှေ့ပြောင်းပြီး ကျွန်ုပ်၏ Mi အကောင့်ထဲသို့ ဖလှယ်ပါ</string>
+    <string name="pref_summary_import_from_account">Google နှင့် Exchange အကောင့်များမှ အဆက်အသွယ်များကို Xiaomi အကောင့်သို့ ရွှေ့ပြောင်းရန်</string>
     <string name="pref_title_account_import">အဆက်အသွယ်ကိုသွင်းပါ</string>
-    <string name="pref_title_import_from_account">Mi အကောင့်သို့သွင်းပါ</string>
+    <string name="pref_title_import_from_account">Xiaomi အကောင့်သို့ တင်သွင်းရန်</string>
     <string name="preference_contacts">အဆက်အသွယ်များ</string>
     <string name="preference_contacts_filter">အဆက်အသွယ်စာရင်းများကို စီစဉ်ထားရှိပါ</string>
     <string name="preference_contacts_more">အဆက်အသွယ်များ ဖွဲ့စည်းပါ</string>
@@ -994,6 +1006,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1137,6 +1150,7 @@
     <string name="unknown_contact_name">အမည်မသိသော အဆက်အသွယ်</string>
     <string name="unknown_details_add_to_contact">တည်ရှိသော</string>
     <string name="unknown_details_new_contact">အသစ်</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">မျက်နှာပြင်ခွဲ သုံးထားစဉ် QR ကုဒ်များ ပြမရပါ</string>
     <string name="update_sim_contact_photo_toast">ဆင်းမ်အဆက်သွယ်များအတွက် ပရိုဖိုင်ပုံကို သတ်မှတ်၍မရပါ</string>
     <string name="upgrade_in_progress">အဆက်အသွယ်စာရင်းကို အသစ်မွမ်းမံလုပ်ထားပေးသည်။</string>
     <string name="upgrade_out_of_memory">"အဆက်အသွယ်များက အဆင့်မြှင့်တင်နေဆဲ လုပ်ငန်းစဥ်လမ်းကြောင်းတွင် ရှိနေသည်။ 

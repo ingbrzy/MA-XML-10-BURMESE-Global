@@ -138,6 +138,7 @@ EE"</string>
     <string name="midnight">ည</string>
     <string name="mini_time">နာရီအသေး</string>
     <string name="minimalist_clock">ရိုးရိုးနာရီ</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -238,7 +239,7 @@ EE"</string>
     <string name="select_notification_notify_style">အသိပေးချက်အထူးပြုလုပ်ချက်ရွေးပါ</string>
     <string name="send">ပို့ပါ</string>
     <string name="share">မျှဝေရန်</string>
-    <string name="share_to_community">Mi အဖွဲ့အစည်းတွင် မျှဝေရန်</string>
+    <string name="share_to_community">Xiaomi Community သို့ မျှဝေရန်</string>
     <string name="show_battery">ဓာတ်ခဲအခြေအနေကို ပြပါ</string>
     <string name="show_battery_status">ဓာတ်ခဲအခြေအနေကို ပြပါ</string>
     <string name="show_lunar">တရုတ်ရိုးရာပြက္ခဒိန်ကို ပြပါ</string>
@@ -254,7 +255,7 @@ EE"</string>
     <string name="step_component_info_active_tip">ခြေလှမ်းရေတွက်မှုအား Xiaomi Health က ဖော်ဆောင်ပေးထားခြင်း ဖြစ်ပါသည်။ ဆက်လုပ်ရန်အတွက် Xiaomi Health ပါ စည်းကမ်းနှင့် သတ်မှတ်ချက်များကို သဘောတူလိုက်ပါ။</string>
     <string name="step_component_info_desc">သင့်ရည်မှန်းချက် ပြည့်မြောက်သွားသောအခါတွင် ခြေလှမ်းရေတွက်မှုသည် ဆုဖလားအသွင်သို့ ပြောင်းသွားပါမည်။ ခြေလှမ်းရေတွက်မှုအား Xiaomi Health က ဖော်ဆောင်ပေးထားပါသည်။</string>
     <string name="step_component_info_tip">ခြေလှမ်းရေတွက်မှုအား Xiaomi Health က ဖော်ဆောင်ပေးထားခြင်း ဖြစ်ပါသည်။ ဆက်လုပ်ရန်အတွက် Xiaomi Health ကို တပ်ဆင် သို့မဟုတ် အပ်ဒိတ်လုပ်ပြီးနောက် စည်းကမ်းနှင့် သတ်မှတ်ချက်များကို သဘောတူလိုက်ပါ။</string>
-    <string name="step_to_image_community">Mi အဖွဲ့အစည်းတွင် နောက်ထပ်အရာများရှာပါ</string>
+    <string name="step_to_image_community">Xiaomi Community တွင် ထပ်ရှာရန်</string>
     <string name="summary">သင့်စက်ကို အမှောင်ထဲတွင် အချိန်အကြာကြီး ထားချိန်၌ ဓာတ်ခဲချွေတာနိုင်ရန်အတွက် ဟိုဟိုသည်သည်များ ဖွင့်မပြပါနှင့်။</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
@@ -305,6 +306,7 @@ EE"</string>
     <string name="the_united_nations_day">ကုလသမဂ္ဂနေ့</string>
     <string name="the_valentines_day">ချစ်သူများနေ့</string>
     <string name="the_water_lantern_festival">မီးမျှောပွဲတော်</string>
+    <string name="theme_manager_other">အခြားအရာများ</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>

@@ -45,7 +45,7 @@
     <string name="select_certificate_usage_title">အသိအမှတ်ပြုလက်မှတ် အမျိုးအစားကို ရွေးပါ</string>
     <string name="unable_to_save_cert">အသိအမှတ်ပြုလက်မှတ်အား သိမ်းဆည်းလို့ မရပါ။ ယုံကြည်စိတ်ချရသောသိုလှောင်ရာနေရာ ဖွင့်မထားခြင်း သို့ စတင်ခြင်း မပြုလုပ်ထားပါ</string>
     <string name="user_cert_is_added">အသုံးပြုသူ အသိအမှတ်ပြုလက်မှတ် ထည့်သွင်းပြီးပါပြီ</string>
-    <string name="user_certificate">VPN အက်ပ် သုံးစွဲသူ လက်မှတ်</string>
+    <string name="user_certificate">VPN အက်ပ်သုံးသူလက်မှတ်</string>
     <string name="userkey_type">လုပ်နည်းစနစ်−</string>
     <string name="wifi_cancel_label">မလုပ်တော့</string>
     <string name="wifi_cert_is_added">Wi‑Fi အသိအမှတ်ပြုလက်မှတ် ထည့်သွင်းပြီးပါပြီ</string>

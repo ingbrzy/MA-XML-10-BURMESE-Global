@@ -637,6 +637,7 @@
     <string name="edit_smile">အပြုံး</string>
     <string name="edit_solid">ပုံပန်း</string>
     <string name="emoticon">စတစ်ကာပက်ခ်</string>
+    <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="error_fail_to_start_audio_capture">အသံဖြင့် ဓာတ်ပုံ ရိုက်၍ မရပါ</string>
@@ -844,6 +845,9 @@
     <string name="live_sticker_updating">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="live_workspace_title">စာကြမ်းများ</string>
     <string name="live_workspace_title_edit">ဖျက်လိုသောအရာများ ရွေးပါ</string>
+    <string name="live_workspace_title_pause">ရပ်ရန်</string>
+    <string name="live_workspace_title_play">ဖွင့်ရန်</string>
+    <string name="live_workspace_title_pre_edit">ဖျက်လိုသောအရာများ ရွေးပါ</string>
     <string name="location_access_allow">သဘောတူသည်</string>
     <string name="location_fromkeyguard_not_permission">ကင်မရာကို သင့်တည်နေရာဖတ်ခွင့် မပြုထားသေးပါ။ စက်ကို ဦးစွာ သော့ဖွင့်ပါ။</string>
     <string name="location_permission_des">ဓာတ်ပုံနှင့် ဗီဒီယိုများအတွက် တည်နေရာ မှတ်ပါ</string>
@@ -1039,6 +1043,10 @@
     <string name="module_name_multi_camera">အမျိုးမျိုးသုံးကင်မရာ</string>
     <string name="module_name_new_slow_motion">အနှေးရိုက်ချက်</string>
     <string name="module_name_panorama">မြင်ကွင်းကျယ်</string>
+    <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">48MP</string>
     <string name="module_name_portrait">လူပုံ</string>
     <string name="module_name_professional">ပရို</string>
     <string name="module_name_scanner">စကန်နာ</string>
@@ -1175,6 +1183,7 @@
     <string name="popup_tips_near_range_mode">အနီးကပ်ဆုံချက်</string>
     <string name="popup_tips_privacy_watermark_edit">ရေစာကို တည်းဖြတ်ရန်</string>
     <string name="portait_effect_entry_blackwhite">B&amp;W</string>
+    <string name="portait_effect_entry_cold_white">ကြယ်ရောင်</string>
     <string name="portait_effect_entry_cool">ဆန်းသစ်</string>
     <string name="portait_effect_entry_dusk">ဆည်းဆာ</string>
     <string name="portait_effect_entry_fairytale">ကလေးဘဝ</string>
@@ -1192,6 +1201,7 @@
     <string name="portait_effect_entry_riddle">သကြားလုံး</string>
     <string name="portait_effect_entry_romance">ရင်ခုန်စရာ</string>
     <string name="portait_effect_entry_sepia">နီညိုရောင်</string>
+    <string name="portait_effect_entry_shallots">နေရောင်ခြည်</string>
     <string name="portait_effect_entry_story">ပုံပြင်</string>
     <string name="portait_effect_entry_tea">လက်ဖက်ရည်</string>
     <string name="portrait_bokeh_first_tips">"ဓာတ်ပုံနောက်ခံ မှုန်ဝါးစေရန်
@@ -1254,6 +1264,7 @@
     <string name="pref_camera_auxiliary_close">ပိတ်ရန်</string>
     <string name="pref_camera_auxiliary_exposure_feedback">အလင်းရောင် အတည်ပြုခြင်း</string>
     <string name="pref_camera_auxiliary_focus_peak">ဆုံချက် အထွတ်အထိပ်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
@@ -1383,8 +1394,8 @@
     <string name="pref_camera_portrait_mode_entry_off">လူပုံမုဒ်ကို ပိတ်ထားသည်</string>
     <string name="pref_camera_portrait_mode_entry_on">လူပုံမုဒ်ကို ဖွင့်ထားသည်</string>
     <string name="pref_camera_portrait_mode_title">လူပုံမုဒ်</string>
-    <string name="pref_camera_predictive_shutter_description">ကလေးငယ်များ၊ အိမ်မွေးတိရစ္တာန်များနှင့် သက်ဝင်လှုပ်ရှားနေသည့် အခြားသော ပုံရိပ်များအတွက် ဓာတ်ပုံများတွင် မှုန်ဝါးမှုလျှော့ချရန် လှုပ်ရှားမှုကို ခြေရာခံပါ</string>
-    <string name="pref_camera_predictive_shutter_title">လှုပ်ရှားမှုကို ခြေရာခံရန်</string>
+    <string name="pref_camera_predictive_shutter_description">ကလေးများ၊ အိမ်မွေးတိရစ္ဆာန်များနှင့် အခြား လှုပ်နေသောအရာများ၏ ဓာတ်ပုံများတွင် မှုန်ဝါးမှုလျှော့ချရန် လှုပ်ရှားမှုကို ခြေရာခံပါ</string>
+    <string name="pref_camera_predictive_shutter_title">လှုပ်ရှားပုံရိုက်စနစ်</string>
     <string name="pref_camera_proximity_lock_summary">အိတ်ထဲတွင် ထည့်ထားစဉ် ထိနှိပ်မှုလက်ဟန်များအား သော့ခတ်ပါ</string>
     <string name="pref_camera_proximity_lock_title">အိတ်ထောင်မုဒ်</string>
     <string name="pref_camera_quick_settings">အမြန်ဆက်တင်များ</string>
@@ -1446,10 +1457,12 @@
     <string name="pref_camera_tip_id_card">ID စကန်နာ</string>
     <string name="pref_camera_touchafaec_entry_off">ပိတ်</string>
     <string name="pref_camera_touchafaec_entry_on">ဖွင့်</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
-    <string name="pref_camera_track_focus_intro_goto">Turn on</string>
+    <string name="pref_camera_track_eye_preferred_description">ဘောင်ထဲတွင် လူတစ်ဦးရောက်နေချိန်၌ မျက်စိများကို ဆုံချက်ထားနိုင်ရန် မျက်စိလှုပ်ရှားမှုကို ခြေရာခံပါ</string>
+    <string name="pref_camera_track_eye_preferred_title">မျက်စိခြေရာခံ ဆုံချက်</string>
+    <string name="pref_camera_track_focus_intro_description">လှုပ်ရှားပုံများကို ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယိုရိုက်စဉ် ဤအင်္ဂါရပ်က လူများ၊ ခွေးများနှင့် ကြောင်များကို ဖမ်းယူပြီး အလိုအလျောက် ဆုံချက်ထားပေးသည်။ ၎င်းအပြင် မည်သည့်အရာကိုမဆို လှုပ်ရှားမှုခြေရာခံလိုပါက နှစ်ချက်တို့နိုင်သည်။</string>
+    <string name="pref_camera_track_focus_intro_goto">ဖွင့်မည်</string>
     <string name="pref_camera_track_focus_preferred_description">လူများ၊ ကြောင်များနှင့် ခွေးများကို ဆုံချက်သို့ အလိုအလျောက်ဆက်ရွှေ့ပါ သို့မဟုတ် ခြေရာခံလိုသော အရာမှန်သမျှကို နှစ်ချက်တို့ပါ</string>
-    <string name="pref_camera_track_focus_preferred_title">ဆုံချက်ခြေရာခံခြင်း</string>
+    <string name="pref_camera_track_focus_preferred_title">လှုပ်ရှားမှုခြေရာခံ ဆုံချက်</string>
     <string name="pref_camera_ubifocus_title">ဆုံချက်ပြန်ချိန်ခြင်း</string>
     <string name="pref_camera_ultra_wide_ldc_description">ထောင့်ကျယ် ပုံပျက်မှု အား အလိုအလျောက် ပြင်ဆင်မည်</string>
     <string name="pref_camera_ultra_wide_ldc_title">အစွန်းရောက် ထောင့်ကျယ် ပုံပျက်မှု ပြင်ဆင်ချက်</string>
@@ -1465,6 +1478,7 @@
     <string name="pref_camera_video_tag_description">ဗီဒီယိုပြန်ဖွင့်စဉ် မှတ်သားထားသောနေရာများသို့ ပြန်သွားနိုင်ရန် ဗီဒီယိုရိုက်စဉ် \"တဂ်တွဲရန်\" ကို တို့ပါ</string>
     <string name="pref_camera_volumekey_function_entry_shutter">ရှတ္တာ</string>
     <string name="pref_camera_volumekey_function_entry_timer">ရှတ္တာ နောက်ပြန်ရေ တိုင်မာ</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">အသံပမာဏ</string>
     <string name="pref_camera_volumekey_function_entry_zoom">ချုံ့ချဲ့</string>
     <string name="pref_camera_volumekey_function_title">အသံခလုတ်များ လုပ်ဆောင်ချက်</string>
@@ -1518,6 +1532,7 @@
     <string name="pref_hdr10_hdr10plus_video_mode_description">အရောင်နှင့် ဒိုင်းနမစ်ရိန့်(ဂျ်) အဆင့်မြှင့်ရန် HDR10+/HDR10 ဖြင့် ရက်ဇလူးရှင်းအမြင့် ဗီဒီယိုများ ရိုက်ပါ။ ရိုက်ထားသောဗီဒီယိုများကို HDR10+/HDR10 နှင့် တွဲသုံးနိုင်သော စက်များတွင်သာ ဖွင့်နိုင်သည်။</string>
     <string name="pref_hdr10_video_mode_description">4K နှင့် 8K ဗီဒီယိုများအတွက် အရောင်နှင့် အလင်းအမှောင်ကို အလိုအလျောက် ပိုကောင်းအောင်လုပ်ပေးသည်။ ပိုကောင်းအောင်လုပ်ထားသော ဗီဒီယိုများကို HDR10 သုံးနိုင်သော စက်များတွင်သာ ဖွင့်နိုင်သည်။</string>
     <string name="pref_hdr10plus_video_mode_description">အရောင်များကို အဆင့်မြှင့်တင်ပြီး 4K နှင့် 8K ဗီဒီယိုများအတွက် ပိုမိုတောက်ပအောင် ချိန်ညှိပါ။ ဤအင်္ဂါရပ်သည် HDR10+ နှင့် အဆင်ပြေသောစက်များတွင်သာ အလုပ်ဖြစ်ပါသည်။</string>
+    <string name="pref_hybrid_video_mode_description">HLG နည်းပညာသုံးပြီး ရက်ဇလူးရှင်းအမြင့်နှင့် ရိုက်ထားသောဗီဒီယိုများ၏ အရောင်နှင့် ဒိုင်းနမစ်ရိန့်(ဂျ်)ကို အဆင့်မြှင့်ပါ။</string>
     <string name="pref_i_n_r_b">စမတ်ဆူညံသံလျှော့စနစ်</string>
     <string name="pref_k_h">တိုက်ရိုက်လွှင့်ရာတွင်သုံးသော အသံထိန်းစနစ်</string>
     <string name="pref_k_s_i">ကြိုးနားကြပ်တပ်ထားချိန်တွင် ဖမ်းထားသောအသံများကို စိစစ်ပါ</string>
@@ -1887,7 +1902,7 @@
     <string name="video_cast_notification_content">ရပ်တန့်ရန် ထိနှိပ်ပါ</string>
     <string name="video_cast_notification_title">နောက်ခံတွင် ကင်မရာမျိုးစုံ အသုံးပြုရန်…</string>
     <string name="video_cast_service_error">ဖုန်းနှစ်လုံးအကြား ဗီဒီယိုခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်းကို နောက်ခံတွင် ဖွင့်မရခဲ့ပါ</string>
-    <string name="video_cast_service_name">ဖုန်းနှစ်လုံးအကြား ဗီဒီယိုခေါ်ဆိုမှု မှတ်တမ်းတင်သော အင်္ဂါရပ်</string>
+    <string name="video_cast_service_name">ဖုန်းနှစ်လုံးတွဲ ဗီဒီယို</string>
     <string name="video_cast_state_exited">ဖုန်းနှစ်လုံးအကြား ဗီဒီယိုခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်းမှ ထွက်လိုက်သည်</string>
     <string name="video_cast_state_paused">ရပ်တန့်ထားသည်</string>
     <string name="video_effect_entry_blackwhite">B&amp;W</string>

@@ -17,6 +17,7 @@
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="dial_conference_fail_prompt">ကွန်းဖရန့်တိုက်ရိုက်ခေါ်ဆို၍မရပါ အဘယ့်ကြောင့်ဆိုသော် လက်ရှိကွန်ရက်သည် VoLTE အားမထောက်ပံ့ထားပါ</string>
     <string name="dial_vt_fail_prompt">လက်ရှိကွန်ရက်သည် VoLTE အား မထောက်ပံ့ထားပါ။ ပုံမှန် အသံခေါ်ဆိုမှုသို့ပြောင်းမည်လား?</string>
+    <string name="do_not_show_again">ထပ်မံ မပြပါနှင့်</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
@@ -154,6 +155,11 @@
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
+    <string name="scam_cancle">ပယ်ဖျက်ရန်</string>
+    <string name="scam_message">သင်သည် ဖုန်းတစ်ဆင့်ပို့‌ဆင်းကို သတ်မှတ်နေသည်။ ယင်းနောက် သင့်အဝင်ခေါ်ဆိုမှုအားလုံးကို %1$s ဖုန်းနံပါတ်က ဖြေဆိုပါမည်။ သင်သည် ဤတစ်ဆင့်ပို့သော နံပါတ်ကို မပိုင်ဆိုင်ပါက သင့်ကိုယ်ရေး အချက်အလက်ကို ဖော်ထုတ်နိုင်ခြေ သို့မဟုတ် သင့်ပိုင်ဆိုင်မှု၏ လုံခြုံရေးကို ထိခိုက်နိုင်ခြေ ရှိသည်။ ဤလုပ်ဆောင်ချက်ကို သတိဖြင့် အသုံးပြုပါ။</string>
+    <string name="scam_message_2">**21*တစ်ဆင့်ပို့ နံပါတ်# သည် ဖုန်းတစ်ဆင့်ပို့ခြင်း ကုဒ် ဖြစ်သည်။ သင့်တွင် မေးခွန်းများ ရှိပါက သင့်ဆက်သွယ်ရေးကယ်ရီယာကို ဆက်သွယ်ပါ။</string>
+    <string name="scam_ok">ဖုန်းခေါ်ရန်</string>
+    <string name="scam_title">လိမ်ညာမှု အန္တရာယ် သတိပေးချက်</string>
     <string name="send">ပို့ပါ</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>

@@ -892,6 +892,7 @@
     <string name="card_main_private_space_summary">ဒုတိယနေရာအား အသုံးပြုခြင်းသည် စက်နှစ်လုံးရှိနေသည်နှင့် တူပါသည်</string>
     <string name="card_main_private_space_title">ဒုတိယနေရာ</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ဖန်တီး</string>
     <string name="card_main_xspace_summary">မည်သည့်အက်ပ်အတွက် မဆို အကောင့်နှစ်ခုတွဲ ဖန်တီးပါ</string>
     <string name="card_main_xspace_title">နှစ်ခုတွဲအက်ပ်</string>
@@ -944,6 +945,8 @@
     <string name="cmcc_app_check_dialog_negative">နောက်မှ</string>
     <string name="cmcc_app_check_dialog_positive">ယခုပင် ပြန်စပါ</string>
     <string name="cmcc_app_check_dialog_title">စနစ်ပြင်ဆင်ပြီးပါပြီ</string>
+    <string name="columbus_ad_flag_text">ကြော်ငြာ</string>
+    <string name="columbus_skip_ad">ကျော်သွား</string>
     <string name="confirmSecondSpacePassword">ဒုတိယနေရာအတွက် စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Mi အကောင့်ပေါင်းထည့်နေသည်</string>
@@ -1150,6 +1153,7 @@
     <string name="dual_setting_simcard1">ဆင်းမ်1</string>
     <string name="dual_setting_simcard2">ဆင်းမ်2</string>
     <string name="early_morning">နံနက်</string>
+    <string name="ellipsis">…</string>
     <string name="email">အီးမေးလ်</string>
     <string name="empty" />
     <string name="empty_app">အက်ပ်များ မရှိပါ</string>
@@ -1430,6 +1434,7 @@
     <string name="gamebox_app_not_find">အက်ပ်အား ဦးစွာ ထည့်သွင်းပါ။</string>
     <string name="gamebox_brightness">တောက်ပမှု</string>
     <string name="gamebox_browser_not_find">Mi ဘရောက်ဇာအား ဦးစွာ ထည့်သွင်းပါ</string>
+    <string name="gamebox_bullet_chat">မျက်နှာပြင်ပေါ် မှတ်ချက်များ</string>
     <string name="gamebox_collimator">မြင်ကွင်းချိန်စက်</string>
     <string name="gamebox_display_1">မရှိ</string>
     <string name="gamebox_display_2">ပြည့်ဝသော</string>
@@ -1531,6 +1536,10 @@
     <string name="gb_dialog_record_way_ai">AI ရိုက်ကူးရေးများကို ဂိမ်းပုံးတွင် သိမ်းပြီး ၇ ရက် သိမ်းထားပါသည်။</string>
     <string name="gb_dialog_record_way_finish">ပြီးပါပြီ</string>
     <string name="gb_dialog_record_way_manual">စက္ကန့် ၃၀ အထိရှည်သော ဗီဒီယိုများ ကိုယ်တိုင်ရိုက်ပါ</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">ဂိမ်းဆက်ရှင်အတွင်း %d-%d စက္ကန့်ကြာ ဗီဒီယိုကို ကိုယ်တိုင်မှတ်တမ်းတင်ရန်။</string>
+    <string name="gb_dialog_record_way_setting_tip_one">ဓာတ်ခဲသုံးနှုန်းမြင့်ပြီး စက်နှေးခြင်း</string>
+    <string name="gb_dialog_record_way_setting_tip_title">ဤအင်္ဂါရပ်က အောက်ပါ ပြဿနာများ ဖြစ်စေနိုင်သည် -</string>
+    <string name="gb_dialog_record_way_setting_tip_two">အခြားမျက်နှာပြင်ရီကော်ဒါများနှင့် ရောထွေးနိုင်ခြင်း</string>
     <string name="gb_dialog_record_way_setting_tips">သတိပြုရန် - ဂိမ်းကစားကာလများကို ရိုက်ကူးလျှင် ဓာတ်ခဲအကုန်မြန်သောကြောင့် စက်နှေးသွားနိုင်သည်။</string>
     <string name="gb_dialog_record_way_title">ရိုက်ကူးရေးနည်းလမ်းရွေးပါ</string>
     <string name="gb_first_guide_function_shiled_title">ဂိမ်း အရှိန်မြှင့်ခြင်းအား ဖွင့်ထားသောအခါ စနစ် အင်္ဂါရပ်များကို ပိတ်မည်</string>
@@ -1559,6 +1568,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_page_null">ဂိမ်းကစားကာလများ၏ အဓိကအခိုက်အတန့်များကို ရိုက်ကူးရန်</string>
     <string name="gb_game_video_record_finish_tips">ကိုယ်တိုင်မှတ်တမ်းတင်ထားသော ဗီဒီယိုကို Game Turbo တွင် သိမ်းဆည်းပြီးပါပြီ</string>
     <string name="gb_game_video_save">သိမ်းရန်</string>
+    <string name="gb_game_video_save_tip">အောင်မြင်စွာသိမ်းပြီးပါပြီ</string>
     <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">AI သုံး၍ မှတ်တမ်းတင်မည်</string>
     <string name="gb_game_video_type_manual">ကိုယ်တိုင်လုပ်ရန်</string>
@@ -1571,6 +1581,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_gpu_driver_update_app_tips">လက်ရှိဗားရှင်းသည် အသစ်ဆုံးဖြစ်သည်</string>
     <string name="gb_have_signed">ယနေ့ ဝင်ရောက်ပြီးပါပြီ</string>
     <string name="gb_manual_record_dialog_del_video_message">ရွေးထားသော ဗီဒီယိုများကို အပြီးဖျက်လိုသလား။</string>
+    <string name="gb_manual_video_record_title">မှတ်တမ်းတင်ထားသောအရာများ</string>
     <string name="gb_msg_completely_shielded">ကွယ်ဝှက်ထားသော မက်ဆေ့ချ်များ</string>
     <string name="gb_msg_completely_shielded_summary">ဝှက်ထားပါ</string>
     <string name="gb_msg_not_shielded_summary">ပြပါ</string>
@@ -1590,26 +1601,39 @@ Record sequences and use them anytime!"</string>
     <string name="gb_performance_tips">"လုပ်ဆောင်ရည်မုဒ်တွင် ဂရပ်ဖစ်လုပ်ဆောင်ရည်ကို မြှင့်ပေးသော်လည်း
 ဓာတ်အားသုံးစွဲနှုန်းမြင့်ပြီး စက်ကို အပူလွန်စေသည်"</string>
     <string name="gb_shortcut_pref_title">ပင်မမျက်နှာပြင် ရှော့ကဒ်</string>
-    <string name="gb_shoulder_key">ရှိုဒါခလုတ်များ</string>
+    <string name="gb_shoulder_guide_message1">[L] ကို ပေါ်တက်ထရစ်ဂါမှ တစ်ဆင့်သုံးရန် လုပ်ဆောင်နိုင်သော အနေအထားတစ်ခုခုသို့ ရွှေ့ပါ</string>
+    <string name="gb_shoulder_guide_message2">လုပ်ဆောင်ချက် [1] ကို ခလုတ်နှိပ်ပြီး အသက်သွင်းသည်။ လုပ်ဆောင်ချက် [2]ကို ခလုတ်ပြန်လွှတ်ပြီး အသက်သွင်းသည်။</string>
+    <string name="gb_shoulder_guide_tips1">ကိရိယာပုံးကိုဖွင့်ပြီး ပေါ်တက်ထရစ်ဂါများကို စီစဉ်သတ်မှတ်ပါ</string>
+    <string name="gb_shoulder_guide_title1">လုပ်ဆောင်ချက်</string>
+    <string name="gb_shoulder_guide_title2">အစဉ်လိုက်</string>
+    <string name="gb_shoulder_key">ပေါ်တက်ထရစ်ဂါများ</string>
     <string name="gb_shoulder_key_add_show_btn">ဂိမ်းကစားစဉ် ဗာကျူဝယ်ခလုတ်များကို ပြပါ</string>
-    <string name="gb_shoulder_key_add_tips">[L] နှင့် [R] ခလုတ်များကို လုပ်ဆောင်နိုင်သော အနေအထားသို့ ရွှေ့ပြီး ၎င်းတို့ကို ရှိုဒါခလုတ်များမှတစ်ဆင့် သုံးပါ။</string>
+    <string name="gb_shoulder_key_add_tips">[L] နှင့် [R] ကို လုပ်ဆောင်နိုင်သော အနေအထားတစ်ခုခုသို့ ရွှေ့ပြီး ပေါ်တက်ထရစ်ဂါများမှ တစ်ဆင့် သုံးပါ။</string>
     <string name="gb_shoulder_key_btn_cancel">မလုပ်တော့ရန်</string>
     <string name="gb_shoulder_key_btn_save_exit">သိမ်းရန်</string>
-    <string name="gb_shoulder_key_dialog_message">သင် ဂိမ်းများ မကစားချိန်တွင် ဂိမ်း အရှိန်မြှင့်ခြင်းကို စတင်ရန် ဘောင်စွန်းခလုတ် နှစ်ခုလုံးကို ပြိုင်တူ အသုံးပြုနိုင်သည်။</string>
-    <string name="gb_shoulder_key_dialog_txt">ရှိုဒါခလုတ်များသုံးပြီး ဂိမ်းအရှိန်မြှင့်ခြင်းကို ဖွင့်နိုင်သည်။</string>
+    <string name="gb_shoulder_key_dialog_message">ဂိမ်းမကစားချိန်တွင် ဂိမ်းအရှိန်မြှင့်ခြင်းကို စတင်ရန် ပေါ်တက်ထရစ်ဂါနှစ်ခုလုံးကို ပြိုင်တူသုံးနိုင်သည်။</string>
+    <string name="gb_shoulder_key_dialog_txt">ပေါ်တက်ထရစ်ဂါများသုံးပြီး ဂိမ်းအရှိန်မြှင့်ခြင်းကို ဖွင့်နိုင်သည်။</string>
     <string name="gb_shoulder_key_guide_btn_done">နားလည်ပါပြီ</string>
     <string name="gb_shoulder_key_guide_btn_next">နောက်တစ်ဆင့်</string>
-    <string name="gb_shoulder_key_guide_tips">ပရိုတစ်ဦးကဲ့သို့ ကစားရန် ရှိုဒါခလုတ်များကို သတ်မှတ်ပါ။</string>
-    <string name="gb_shoulder_key_guide_tips1">ကိရိယာပုံးကိုဖွင့်ပြီး ရှိုဒါခလုတ်များကို သတ်မှတ်ပါ</string>
+    <string name="gb_shoulder_key_guide_tips">ပရိုတစ်ဦးကဲ့သို့ ကစားရန် ပေါ်တက်ထရစ်ဂါများကို စီစဉ်သတ်မှတ်ပါ။</string>
+    <string name="gb_shoulder_key_guide_tips1">ကိရိယာပုံးကိုဖွင့်ပြီး ပေါ်တက်ထရစ်ဂါများကို စီစဉ်သတ်မှတ်ပါ</string>
     <string name="gb_shoulder_key_light_effect">အရောင်လှုပ်ရှားမှုများ</string>
     <string name="gb_shoulder_key_light_effect_color">အရောင်</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">ရှိုဒါခလုတ်များ ဖွင့်ထားပြီး ဂိမ်းကစားနေချိန်တွင် အရောင်လှုပ်ရှားမှုများကို ပြပါမည်</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">ပေါ်တက်ထရစ်ဂါများဖွင့်ထားပြီး ဂိမ်းကစားနေချိန်တွင် အရောင်လှုပ်ရှားမှုများကို ပြပါမည်</string>
     <string name="gb_shoulder_key_light_effect_title">လှုပ်ရှားမှုများ</string>
     <string name="gb_shoulder_key_settings_guide_tips1">သတ်မှတ်ခြင်းကို အပြီးသတ်ရန် [L] နှင့် [R] ခလုတ်များကို လုပ်ဆောင်နိုင်သော အနေအထားသို့ ရွှေ့ပါ။</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">ဂိမ်းကစားစဉ် သင်သတ်မှတ်သော အင်္ဂါရပ်များကို လုပ်ဆောင်ရန် ရှိုဒါခလုတ်များကို သုံးပါ</string>
-    <string name="gb_shoulder_key_settings_summary">သင် ဂိမ်းများ မကစားချိန်တွင် ဂိမ်း အရှိန်မြှင့်ခြင်းကို စတင်ရန် ဘောင်စွန်းခလုတ် နှစ်ခုလုံးကို အသုံးပြုပါ</string>
-    <string name="gb_shoulder_key_settings_title">ဂိမ်းအရှိန်မြှင့်ခြင်းအတွက် ရှိုဒါခလုတ်များသုံးနိုင်သည်</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">ဂိမ်းကစားစဉ် သင်သတ်မှတ်သော အင်္ဂါရပ်များကို လုပ်ဆောင်ရန် ပေါ်တက်ထရစ်ဂါများကို သုံးပါ</string>
+    <string name="gb_shoulder_key_settings_summary">ဂိမ်းမကစားချိန်တွင် ဂိမ်းအရှိန်မြှင့်ခြင်းကို စတင်ရန် ပေါ်တက်ထရစ်ဂါနှစ်ခုလုံးကို သုံးပါ</string>
+    <string name="gb_shoulder_key_settings_title">ဂိမ်းအရှိန်မြှင့်ခြင်းအတွက် ပေါ်တက်ထရစ်ဂါများကို သုံးပါ</string>
     <string name="gb_shoulder_key_settings_title_new">ဂိမ်း အရှိန်မြှင့်ခြင်း အမြန် စတင်မှု</string>
+    <string name="gb_shoulder_set_left_right">[%s] ကို သတ်မှတ်ရန်</string>
+    <string name="gb_shoulder_set_title">ပေါ်တက်ထရစ်ဂါများကို ဖွင့်ပြီး စီစဉ်သတ်မှတ်ပါ</string>
+    <string name="gb_shoulder_set_title2">[%s] ကို လုပ်ဆောင်နိုင်သော အနေအထားတစ်ခုခုသို့ ရွှေ့ပြီး ပေါ်တက်ထရစ်ဂါများမှ တစ်ဆင့် သုံးပါ</string>
+    <string name="gb_shoulder_single_trigger">လုပ်ဆောင်ချက်</string>
+    <string name="gb_shoulder_subsection_down">ဖိရန်</string>
+    <string name="gb_shoulder_subsection_trigger">အစဉ်လိုက်</string>
+    <string name="gb_shoulder_subsection_up">ပြန်လွှတ်ရန်</string>
+    <string name="gb_shoulder_update_left_right">%s ကိုတည်းဖြတ်မည်</string>
     <string name="gb_sign_gift">ဆုလာဘ်များ ရယူရန် နေ့စဥ်ဝင်ရောက်ပါ</string>
     <string name="gb_sign_gift_button_text">ရယူပါ</string>
     <string name="gb_sign_notification_summary">ကွန်ရက်နှောင့်နှေးခြင်းမရှိဘဲ ဂိမ်းကစားပါ</string>
@@ -1690,13 +1714,13 @@ Record sequences and use them anytime!"</string>
     <string name="gd_setting_group_custom_line_location">ကိရိယာပုံး အနေအထား</string>
     <string name="gd_setting_group_custom_settings">စိတ်ကြိုက်ပြုလုပ်ခြင်း</string>
     <string name="gd_setting_group_custom_vtb_apps">ဗီဒီယိုအက်(ပ်)များ</string>
-    <string name="gd_setting_group_smart_tool_box">Sidebar</string>
+    <string name="gd_setting_group_smart_tool_box">ဘေးတန်း</string>
     <string name="gd_setting_group_title_switch">မြင်ကွင်းများ</string>
     <string name="gd_setting_gtb">ဂိမ်းကစားနေစဉ် ပြရန်</string>
     <string name="gd_setting_gtb_desc">ဂိမ်းအတွက် အထူးအင်္ဂါရပ်များ</string>
     <string name="gd_setting_miui_dock">အမြဲပြရန်</string>
     <string name="gd_setting_shorthand">အမြန်မှတ်စုများ</string>
-    <string name="gd_setting_title">Sidebar</string>
+    <string name="gd_setting_title">ဘေးတန်း</string>
     <string name="gd_setting_vtb">ဗီဒီယိုဖွင့်နေစဉ် ပြရန်</string>
     <string name="gd_setting_vtb_desc">ဗီဒီယိုဖွင့်ခြင်းအတွက် အထူးအင်္ဂါရပ်များ</string>
     <string name="gd_splite_screen_tips">မျက်နှာပြင်ခွဲခြင်းသည် မျောလွင့် အကွက်များအား ထည့်သွင်းထောက်ပံ့ထားခြင်း မရှိပါ</string>
@@ -2103,6 +2127,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_license_manager">ခွင့်ပြုချက်များ</string>
     <string name="menu_text_networkassistants">ဒေတာ သုံးစွဲမှု</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2111,6 +2136,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_optimize_manage">အရှိန်မြှင့်တင်မည်။</string>
     <string name="menu_text_optimize_manage_1">မြန်နှုန်းမြှင့်ရန်</string>
     <string name="menu_text_power_manager">ဘက်ထရီ</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ခြွင်းချက်များမှ ဖယ်ရှားပါ</string>
     <string name="menu_white">ခြွင်းချက်များသို့ ပေါင်းထည့်မည်</string>
     <string name="mi_ime_not_used">Xiaomi မှ ထုတ်လုပ်ခွင့်ပြုထားသည့် ကီးဘုတ်တစ်ခုကို သုံးပါ</string>
@@ -2526,7 +2552,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_fast_charge_notifi_action_text_on">နှုန်းမြှင့်ရန်</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">သတိပေးချက်အတွက် ဓာတ်ခဲအဆင့်သတ်မှတ်ပါ</string>
     <string name="pc_fast_charge_notifi_summary">ပုံမှန်ထက် %s ပိုမြန်စွာ အားသွင်းနေသည်…</string>
-    <string name="pc_fast_charge_notifi_summary_on">ဤအင်္ဂါရပ်က စက်ကို ပူစေနိုင်သည်</string>
+    <string name="pc_fast_charge_notifi_summary_on">မျက်နှာပြင်ပိတ်ထားစဉ် အားသွင်းနှုန်းမြှင့်ပေးသည်။ စက်ပူလာပါမည်။</string>
     <string name="pc_fast_charge_notifi_switch_summary">ပေးထားသော %dW အားသွင်းကြိုးနှင့် ချိတ်ထားပြီး ဓာတ်ခဲက သတ်မှတ်အားအောက်လျော့နေချိန်တွင် အားသွင်းနှုန်းမြှင့်စနစ်ကို အသိပေးပါ</string>
     <string name="pc_fast_charge_notifi_switch_title">မြန်နှုန်းအကြောင်း အသိပေးပါ</string>
     <string name="pc_fast_charge_notifi_title">%dW အားသွင်းခြင်း</string>
@@ -2740,6 +2766,11 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_dialog_msg_top">ဘက်ထရီချွေတာသူအား ဖွင့်ထားပါက MIUI မှ အောက်ပါတို့ကို လုပ်ဆောင်ပါမည်-</string>
     <string name="power_center_hints_scan_danger_result">ယခု ဘက်ထရီ ပြဿနာများအား ဖြေရှင်းနိုင်ပါပြီ</string>
     <string name="power_center_list_item_auto_brightness">မျက်နှာပြင်တောက်ပမှုအား အလိုအလျောက် ချိန်ညှိပါ</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">နာရီ</string>
     <string name="power_center_list_item_close_bluetooth">ဘလူးတုသ်အား ပိတ်ပါ</string>
     <string name="power_center_list_item_deep_save_title">အဆင့်မြင့် ဆက်တင်များ</string>
@@ -2998,6 +3029,7 @@ Record sequences and use them anytime!"</string>
     <string name="pref_normal_traffic_limit">သတ်မှတ်ထားသော ဒေတာအစီအစဉ် ကုန်သွားပါက</string>
     <string name="pref_open_adjust_traffic">သင့်ဖုန်းကာရီယာမှ ​ဒေတာသုံးစွဲမှုအား နေ့တိုင်း အသစ်မွမ်းမံပါ။</string>
     <string name="pref_operator_not_set">ကာရီယာ မသတ်မှတ်ထားပါ</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">ဒေတာအစီစဉ်ထက် ကျော်သွားပါက</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_pkg_begin_date">အသုံးပြမှုပြန်သတ်မှတ်ခြင်းရက်စွဲ</string>
@@ -3247,6 +3279,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_using_record">အသံဖမ်းနေသည်</string>
     <string name="privacyapp_number_masked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားသည်</string>
     <string name="privacyapp_number_unmasked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားနိုင်သည်</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_vpnsdkmanager_label">ဂိမ်းအရှိန်မြှင့်ကိရိယာ</string>
     <string name="promotion">ကြော်ငြာ</string>
@@ -3323,6 +3356,7 @@ Record sequences and use them anytime!"</string>
     <string name="result_sms_title_antispam">အန္တာရာယ်ရှိသော SMS URL များ၏ ခြိမ်းခြောက်မှုကို ခံထားရပါသည်</string>
     <string name="result_sms_title_auth">ငွေကြေးဆိုင်ရာ SMS ပေါက်ကြားမှု အန္တာရာယ်ရှိသည်</string>
     <string name="result_wifi_header">Wi-Fi အန္တာရာယ် ခြေရာခံမိသည်</string>
+    <string name="resume">ပြန်လည်ရယူရန်</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">ဤအက်(ပ်)ကို ယုံကြည်သည်</string>
     <string name="risk_app_install_agree_checkbox">ကျွန်ုပ်သည် ဖြစ်လာနိုင်သော အန္တရာယ်အားလုံးကို စွန့်စားလိုပါသည်။</string>
@@ -4340,7 +4374,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_3d">ပတ်ပတ်လည်အသံ</string>
     <string name="vb_video_effects_3d_summary">နားကြပ်များနှင့် စပီကာများအတွက် အသံပြန်ထုတ်ခြင်း အတိမ်အနက်ကိုမြှင့်ရန်</string>
     <string name="vb_video_effects_3d_summary_headset">နားကြပ်များဖြင့် အော်ဒီယိုအသံနားထောင်သည့်အခါ နှစ်ဝင်ြခင်းနှင့် လွှမ်းြခုံရစ်ပတ်မှု ခံစားချက်ကို တိုးမြင့်သည်</string>
-    <string name="vb_video_effects_3d_surround">ပတ်ပတ်လည်အသံ</string>
+    <string name="vb_video_effects_3d_surround">ဗာကျူဝယ် စူးနစ်အသံ</string>
     <string name="vb_video_effects_display_style">စတိုင်</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">အဆင့်မြှင့်ထားသော စကားပြောစနစ်</string>
@@ -4368,7 +4402,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_settings_stereo">အသံအတိုးအကျယ်</string>
     <string name="vb_video_effects_some_headphone">ရွေးထားသော နားကြပ်မော်ဒယ်တွင် ပံ့ပိုးသည်</string>
     <string name="vb_video_effects_spatial">ခေါင်းလှုပ်ရှားမှုကို ခြေရာခံရန်</string>
-    <string name="vb_video_effects_spatial_summary">"ခေါင်းလှုပ်ရှားမှုကိုလိုက်ပြီး ပတ်ပတ်လည်အသံကို ညှိရန်
+    <string name="vb_video_effects_spatial_summary">"ခေါင်းလှုပ်ရှားမှုကိုလိုက်ပြီး စူးနစ်အသံကို ညှိရန်
 *ဂိမ်းနားကြပ်မော်ဒယ်များတွင်သာ ပံ့ပိုးသည်"</string>
     <string name="vb_video_effects_srs_premium_sound">အသံ</string>
     <string name="vb_video_super_division">မြှင့်ရန်</string>

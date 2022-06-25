@@ -46,7 +46,7 @@
         <item quantity="other">စက် %d လုံး ရှိသည်</item>
     </plurals>
     <plurals name="color_game_led_freq_entries">
-        <item quantity="other">%d စက္ကန့် တစ်ကြိမ်</item>
+        <item quantity="other">%d စက္ကန့်တစ်ကြိမ်</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">စက်%d ခု</item>
@@ -76,28 +76,28 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
-        <item quantity="other">အက္ခရာအများဆုံး %d ထည့်နိုင်သည်</item>
+        <item quantity="other">အက္ခရာ %d လုံးထိ အများဆုံး ထည့်နိုင်သည်</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">အက္ခရာအနည်းဆုံး %d လုံး ထည့်ပါ</item>
+        <item quantity="other">အက္ခရာ %d လုံး အနည်းဆုံး ထည့်ပါ</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN သည် ဂဏန်း %d ခု ဖြစ်ရမည်</item>
+        <item quantity="other">PIN သည် ဂဏန်း %d လုံး ဖြစ်ရမည်</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">အများဆုံး ဂဏန်း %d လုံးအထိသာ ရိုက်ထည့်နိုင်သည်</item>
+        <item quantity="other">ဂဏန်း %d လုံးထိ အများဆုံး ထည့်နိုင်သည်</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">အနည်းဆုံး ဂဏန်း %d လုံး ရိုက်ထည့်ပါ</item>
+        <item quantity="other">ဂဏန်း %d လုံး အနည်းဆုံး ထည့်ပါ</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">အနည်းဆုံး အစက် %d စက်ကို ဆက်ပါ။ ပြန်ကြိုးစားကြည့်ပါ။</item>
+        <item quantity="other">အစက် %d စက် အနည်းဆုံး ဆက်ပါ။ ထပ်လုပ်ကြည့်ပါ။</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">မမှန်ကန်သော ကြိုးစားမှု အလွန်များနေသည်။ %d စက္ကန့်အကြာတွင် ပြန်ကြိုးစားကြည့်ပါ။</item>
+        <item quantity="other">မမှန်ကန်သော ကြိုးပမ်းမှု အလွန်များနေသည်။ %d စက္ကန့်အကြာတွင် ပြန်စမ်းကြည့်ပါ။</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">%d စက္ကန့်စောင့်ပြီး ပြန်လည်ကြိုးစားကြည့်ပါ။</item>
+        <item quantity="other">%d စက္ကန့်စောင့်ပြီး ပြန်စမ်းကြည့်ပါ။</item>
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
@@ -124,10 +124,10 @@
         <item quantity="other">ဘတ်ကိုအစီရင်ခံခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">အက်ပ် %d ခုမှအသိပေးချက်များ မဖော်ပြနိုင်ပါ။</item>
+        <item quantity="other">အက်(ပ်) %d ခုမှ အသိပေးချက်များ ပြမရပါ</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">အက်ပ် %d ခုမှအသိပေးချက်များ ဖော်ပြနိုင်သည်။</item>
+        <item quantity="other">အက်(ပ်) %d ခုမှ အသိပေးချက်များ ပြနိုင်သည်</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">သင့်နားကြပ်တစ်ဖက်သည် %d မိနစ်ထက် ပိုပြီး နားတွင်မရှိလျှင်လည်းကောင်း အားသွင်းဘူးတွင်မရှိလျှင်လည်းကောင်း သတိပေးချက်ရယူပါ</item>

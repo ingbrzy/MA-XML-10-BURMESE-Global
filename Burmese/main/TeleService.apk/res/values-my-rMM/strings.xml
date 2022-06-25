@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">သိုလှောင်ခန်း</string>
+    <string name="HIPS_Perm_External_Storage_Desc">သင့်စက်ရှိ ဖိုင်များနှင့် ဓာတ်ပုံများကို ဖတ်ရန်နှင့် သိမ်းရန်</string>
+    <string name="HIPS_Perm_Read_Contact">အဆက်အသွယ်များ</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">သင့်အဆက်အသွယ်များကို ဖတ်ရန်</string>
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="add">ပေါင်းထည့်</string>
     <string name="advanced_mobile_settings">အဆင့်မြင့် ဆက်တင်များ</string>
@@ -7,6 +11,7 @@
     <string name="ai_assistant_not_installed">AI Call Assistant ကို ဦးစွာတပ်ဆင်ပါ</string>
     <string name="ai_assistant_setting_title">AI ဖုန်းခေါ်အကူ</string>
     <string name="alertdialogtitle">ရလဒ်များ</string>
+    <string name="allow">ခွင့်ပြုထားသည်</string>
     <string name="always_enable_mms">MMS အမြဲတမ်းလက်ခံရရှိပါ</string>
     <string name="always_enable_mms_summary">မိုဘိုင်းဒေတာကို ပိတ်ထားသည့်အခါတွင်ပင် MMS ကို လက်ခံပါ</string>
     <string name="am">နံနက်</string>
@@ -15,6 +20,9 @@
     <string name="answer_state_setting_title">အဝင်ဖုန်း ဆက်တင်များ</string>
     <string name="antispam_notification_title">အမည်မသိ နံပါတ်</string>
     <string name="antispam_setting">ဘလော့စာရင်း</string>
+    <string name="arrears_sim_summary">Top up your phone balance to stay connected.</string>
+    <string name="arrears_sim_title">Insufficient funds</string>
+    <string name="ask">မေးရန်</string>
     <string name="auto_answer_delay_entries_delay_10s">%d စက္ကန့်</string>
     <string name="auto_answer_delay_entries_delay_3s">%d စက္ကန့်</string>
     <string name="auto_answer_delay_entries_delay_5s">%d စက္ကန့်</string>
@@ -180,11 +188,6 @@
     <string name="dial_related_setting_catory">နံပါတ်နှိပ်ခွက်</string>
     <string name="dialog_cancel">ပယ်ဖျက်မည်</string>
     <string name="dialog_network_priority_title">ဦးစားပေးကွန်ရက်</string>
-    <string name="dialog_ota_change_number_fail">ဖုန်းနံပါတ် ပြောင်းမရပါ။ နောက်တစ်ကြိမ်ထပ်ကြိုးစားခဲ့သော်လည်း ဤပြဿနာကို ဆက်လက်ကြုံတွေ့နေရပါက သင်၏ရောင်းချသူထံ ဆက်သွယ်ပါ။</string>
-    <string name="dialog_ota_change_number_lgu">USIM ကို ယခုပင် ဒေါင်းလုဒ်လုပ်မလား။</string>
-    <string name="dialog_ota_change_number_lgu_roaming">ပြည်ပသို့ရောက်နေစဉ်တွင် ဖုန်းနံပါတ်များ ပြောင်း၍မရနိုင်ပါ။</string>
-    <string name="dialog_ota_change_number_processing">USIM ကို ဒေါင်းလုဒ်လုပ်နေသည်…</string>
-    <string name="dialog_ota_change_number_success">ဖုန်းနံပါတ်အား အောင်မြင်စွာပြောင်းပြီးပါပြီ</string>
     <string name="dialog_report">အစီရင်ခံမည်</string>
     <string name="dialpad_eight">%d</string>
     <string name="dialpad_five">%d</string>
@@ -224,18 +227,14 @@
     <string name="enhanced_4g_lte_mode_off_failed">VoLTE အား မပိတ်နိုင်ခဲ့ပါ</string>
     <string name="enhanced_4g_lte_mode_on_failed">VoLTE အား မပိတ်နိုင်ခဲ့ပါ</string>
     <string name="enter_callbarring_password">ခေါ်ဆိုမှု ပိတ်ပင် စကားဝှက် (%d လုံး) ကို ထည့်ပါ</string>
-    <string name="enter_esim_manager">eSIM စီမံခန့်ခွဲရန်</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
-    <string name="esim_goto_active">အသက်သွင်းရန်</string>
-    <string name="esim_inactive_message">ပိတ်ထားသော eSIM</string>
-    <string name="esim_inactive_notification_message">SIM ကတ် မတွေ့ပါ။ eSIM အသက်သွင်းရန် တို့ပါ။</string>
-    <string name="esim_inactive_settings_title">နှစ်ခုတွဲ SIM နှင့် မိုဘိုင်းကွန်ရက်များ</string>
     <string name="evening">နေ့လယ်</string>
     <string name="fdn_enable_puk2_requested">စကားဝှက်မှားနေသည်၊ PIN2 ကိုဘလော့လုပ်ထားသည်။ PIN@ ကို ပြောင်းပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="fdn_full">ဇယားပြည့်နေသည့်အတွက် FDNအား အသစ်မွမ်းမံမှု မပြုနိုင်ခဲ့ပါ</string>
     <string name="fdn_summary">အထွက်ခေါ်များကို စာရင်းတွင်ပါရှိသော FDN များ (သို့) သတ်မှတ် ရှေ့ဆက်စာလုံးများပါသော နံပါတ်များအတွက်သာ ကန့်သတ်ပါ</string>
+    <string name="fiveg_carrier_aggregation_title">5G ဖုန်းလိုင်းဝန်ဆောင်မှုများ စုစည်းစနစ်</string>
     <string name="fiveg_hosted_mode_summary">ဘက်ထရီ ချွေတာရန် အကောင်းဆုံးကွန်ရက်ကို အလိုအလျောက်ရွေးချယ်ပါ</string>
     <string name="fiveg_hosted_mode_title">5G စမတ် ပြောင်းချိတ်စနစ်</string>
     <string name="fiveg_network_mode_default">အလိုအလျောက်</string>
@@ -566,6 +565,7 @@
     <string name="night">ညနေ</string>
     <string name="no_checked_network">မိုဘိုင်းကွန်ရက်သို့မချိတ်ဆက်နိုင်ဘဲ ခေါ်ဆိုမှုလဲ လုပ်နိုင်လိမ့်မည်ဟုတ်ပါ။ အခြားကွန်ရက်ကို ရွေးချယ်မည်လား?</string>
     <string name="noon">မွန်းတည့်</string>
+    <string name="notallow">ခွင့်မပြုထားပါ</string>
     <string name="notification_switch_auto_text">သင်ပြန်လာပုံပေါ်ပါသည်။ ဒေသတွင်းကွန်ရက်များသို့ ပြောင်းပြီးပါပြီ။</string>
     <string name="notification_switch_auto_title">မိုဘိုင်းကွန်ရက်များ</string>
     <string name="nr_network_info">5G ကွန်ရက် အသုံးပြုမှု အချက်အလက်</string>
@@ -575,6 +575,8 @@
     <string name="nr_usaged_network_usaged">ယနေ့ ဒေတာ</string>
     <string name="nr_usaged_operator">ဖုန်းလိုင်းကုမ္ပဏီ</string>
     <string name="nr_usaged_used_time">အသုံးပြုကာလ</string>
+    <string name="obtain_location_information">တည်နေရာ</string>
+    <string name="obtain_location_information_summary">လက်ရှိကွန်ရက်ပတ်ဝန်းကျင်ကို အဆင့်မြှင့်ရန်</string>
     <string name="old_password_label">လက်ရှိ ဂဏန်း %d- လုံး စကားဝှက်</string>
     <string name="old_pin2_label">PIN2</string>
     <string name="old_pin_label">PIN အဟောင်း</string>
@@ -620,6 +622,7 @@
     <string name="path_telocation_enable_title">စနစ်အက်ပ်များ၊ဖုန်း၊တည်နေရာ၊တည်နေရာ ပြသပါ</string>
     <string name="path_turnover_mute_title">စနစ်အက်ပ်များ၊ဖုန်း၊အဝင်ခေါ်ဆိုမှုဆက်တင်များ၊ဖုန်းမြည်သံအား ပိတ်လိုက်ရန်ဖုန်းအား လှန်လိုက်ပါ</string>
     <string name="path_voicemail_settings">စနစ်အက်ပ်များ၊ဖုန်း၊အဆင့်မြင့်ဆက်တင်များ၊အသံမေးလ် ဆက်တင်များ</string>
+    <string name="permission_description">ခွင့်ပြုချက်အသေးစိတ်</string>
     <string name="phone_account_settings">ခေါ်ဆိုမှုအကောင့်များ</string>
     <string name="phone_report_title">အဝင်ခေါ်ဆိုမှုအချက်အလက်များကို ဖတ်မည်</string>
     <string name="pin2_changed">PIN2 ကို အောင်မြင်စွာ ပြောင်းပြီးပါပြီ။</string>
@@ -637,11 +640,12 @@
     <string name="pm">ညနေ</string>
     <string name="prefered_network_type_3g_promp">3G အား သင်ပိုလိုလားသော ကွန်ရက်အမျိုးအစားအဖြစ် မရွေးချယ်မီ VoLTE ကို ဦးစွာပိတ်ရမည်။ ယခု ပိတ်မလား?</string>
     <string name="preference_auto_ip_summary_disable">ပိတ်ရန်</string>
-    <string name="preference_countrycode_title">နိုင်ငံကုဒ်</string>
+    <string name="preference_check_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="preference_dial_pad_touch_tone_default">မူရင်း</string>
     <string name="preference_dial_pad_touch_tone_off">ပိတ်ရန်</string>
     <string name="preference_dial_pad_touch_tone_piano">စန္ဒယားကီး</string>
     <string name="preference_dial_pad_touch_tone_title">ဖုန်းခလုတ်မြည်သံများ</string>
+    <string name="preference_permission_related">ခွင့်ပြုချက်များ</string>
     <string name="preference_telocation_summary_countrycode_off">နိုင်ငံကုဒ်ကို အလိုအလျောက် မခေါ်ပါနှင့်</string>
     <string name="preference_telocation_summary_countrycode_on">နိုင်ငံကုဒ်ကို အလိုအလျောက်ခေါ်ရန်</string>
     <string name="preference_telocation_summary_teloc_off">အဆက်အသွယ်တည်နေရာကို ဝှက်ထားပါ</string>
@@ -671,6 +675,7 @@
     <string name="preferred_phone_account">ပိုလိုလားသော ခေါ်ဆိုမှုအကောင့်</string>
     <string name="preferred_wificall_title">ကွန်ရက် ဦးစားပေးမှုများ</string>
     <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_setting">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="prompt_to_turnoff_volte_when_failed">VoLTE ဝန်ဆောင်မှုများ မရနိုင်ပါ။ ဖုန်းခေါ်ဆိုရန် VoLTE အား ပိတ်လိုက်ပါ။</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">ဝန်ဆောင်မှု မရနိုင်ပါ။ ဆက်တင်သို့သွား၍ VoLTE အား ပိတ်ပါ။</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTE မဖွင့်မီ LTE အား သင်ပိုလိုလားသော ကွန်ရက်အမျိုးအစားအဖြစ် ရွေးချယ်ပါ။</string>
@@ -681,6 +686,8 @@
     <string name="puk_lock_warning">"
 နောက်ထပ် ကြိုးစားမှု မအောင်မြင်လျှင် သင့် ဆင်းမ်ကဒ်ကို ဖျက်ပစ်လိမ့်မည်။"</string>
     <string name="quick_dial_setting_title">အမြန်ခေါ်ဆိုမှု</string>
+    <string name="read_call_log">အသံသွင်းရန်</string>
+    <string name="read_call_log_summary">ခေါ်ဆိုမှုများကို အသံသွင်းရန်</string>
     <string name="reject_via_sms">အမြန်တုံ့ပြန်ခြင်းများ</string>
     <string name="reject_via_sms_summary">ဖုန်းချပြီး SMS ပေးပို့မည့် ခလုတ်ကို ပြပါ</string>
     <string name="reject_via_sms_title">အမြန်တုံ့ပြန်ခြင်းများ</string>
@@ -716,8 +723,39 @@
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">ဘလော့စာရင်း</string>
     <string name="search_app_name">ဖုန်း၊ခေါ်ဆိုမှု အသံသွင်းမှု၊ခေါ်ဆိုမှုလွှဲပြောင်း၊လွှဲပြောင်းခြင်း၊ခေါ်ဆိုမှုစောင့်ဆိုင်းမှု၊ဘလော့စာရင်း၊နိုင်ငံကုဒ်၊ဧရိယာကုဒ်၊နိုင်ငံကုဒ်၊နိုင်ငံကုဒ်များ၊ဧရိယာကုဒ်များ၊ခေါ်ဆိုမှုများအား မှတ်တမ်းတင်၊ခေါ်ဆိုမှုအား မှတ်တမ်းတင်၊ခလုတ်နှိပ်ကွက်၊ခေါ်ဆိုမှုများ၊တယ်လီဖုန်းဆိုင်ရာ၊VoIP၊VoLTE၊လွဲသွားသော ခေါ်ဆိုမှု၊လွဲသွားသော ခေါ်ဆိုမှုများ၊SIP၊T9၊IP တယ်လီဖုန်း၊FDN</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="select_dds_dialog_title">မူရင်း မိုဘိုင်းဒေတာ ဆင်းမ်ကဒ်အား ရွေးပါ</string>
     <string name="select_voice_call_sim">ဆင်းမ်ကဒ်ရွေးချယ်ပါ</string>
     <string name="send">ပို့ပါ</string>
@@ -918,6 +956,8 @@
     <string name="volte_switch_title">VoLTE သုံးရန်</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">VoLTE ဝန်ဆောင်မှုသည် VoLTE ကွန်ရက်ရှိသော ဧရိယာတွင်သာ သုံးစွဲနိုင်ပါသည်။ VoLTE ဝန်ဆောင်မှုများကို ဖုန်းလိုင်းဝန်ဆောင်မှုဌာနမှ ပံ့ပိုးသည်။</string>
+    <string name="vonr_switch_summary">အသံဖုန်းခေါ်ဆိုမှုအရည်အသွေး မြင့်စေရန် VoNR သုံးပါ</string>
+    <string name="vonr_switch_title">VoNR သုံးပါ</string>
     <string name="vowifi_emergency_notification_content">အရေးပေါ်ဖုန်းများကို မိုဘိုင်းကွန်ရက် ဆက်သွယ်ရေးဧရိယာအတွင်းသာ ခေါ်ဆိုနိုင်သည်။</string>
     <string name="vowifi_emergency_notification_title">Vodafone WiFi ခေါ်ဆိုမှု</string>
     <string name="vowifi_emergency_warning_check">ထပ်မပြပါနှင့်။</string>

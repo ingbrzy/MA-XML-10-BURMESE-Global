@@ -434,7 +434,7 @@
     <string name="network_confirm_content">ငွေစျေး၊ အခွန်နှင့် ပေါင်နှံငွေများ ပုံမှန်တွက်ချက်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ခွင့်နှင့် တည်နေရာသို့ ဝင်ရောက်ခွင့်များ လိုအပ်ပါသည်။</string>
     <string name="network_confirm_title">ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
     <string name="network_purpose">ဂဏန်းပေါင်းစက်သို့ ကြိုဆိုပါသည်။ ဂဏန်းပေါင်းစက်ဖြင့် ငွေလဲနှုန်းများတွက်ပေးခြင်း၊ အိမ်ပေါင်ကြွေးတွက်ချက်ပေးခြင်းနှင့် အခြားအရာများကို လုပ်နိုင်ပါသည်။</string>
-    <string name="new_privacy_string">&lt;Data>Calculator က ကြိုဆိုပါ၏။&lt;br/>ဤအက်ပ်တွင် အောက်ပါအင်္ဂါရပ်များ ပါဝင်ပါသည် -&lt;br/>• အခြေခံဂဏန်းတွက်စက်&lt;br/>• သိပ္ပံဘာသာရပ်သုံး ဂဏန်းတွက်စက်&lt;br/>• ကမ္ဘာသုံးယူနစ်ပြောင်းစနစ် (ဥပမာ - ငွေကြေး၊ အတိုင်းအတာယူနစ်များနှင့် အစရှိသည်တို့)&lt;br/>• ချေးငွေများ၊ ရင်းနှီးမြုပ်နှံငွေများ၊ EMI နှင့် အခြားအရာများအတွက် တွက်ချက်မှုပုံစံများ&lt;br/>သင့်အတွက် အခြေခံဝန်ဆောင်မှုများ ပေးအပ်ရန် လိုအပ်သော ပုဂ္ဂိုလ်ရေး သတင်းအချက်အလက်များအား Calculator က စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော သတင်းအချက်အလက်များကို ကိုင်တွယ်စီမံပုံအကြောင်းအား ကျွန်ုပ်တို့၏ &lt;a href= \"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် လေ့လာနိုင်ပါသည်။ Calculator ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ကို ဖတ်ရှု၍ သဘောတူလက်ခံပေးပါ။ကျွန်ုပ်တို့၏ ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို သင်လက်မခံပါက ဤအက်ပ်၏ အချို့သော ဝန်ဆောင်မှုများအား သင်အသုံးပြုနိုင်မည် မဟုတ်သော်လည်း ၎င်း၏ အခြေခံလုပ်ဆောင်ချက်များအား သင်အသုံးပြုနိုင်ပါသေးသည်။&lt;/Data></string>
+    <string name="new_privacy_string">&lt;Data>ဂဏန်းပေါင်းစက်မှ ကြိုဆိုပါသည်။&lt;br/>ဤအက်(ပ်)တွင် အောက်ပါအင်္ဂါရပ်များပါဝင်သည် - &lt;br/>• အခြေခံဂဏန်းပေါင်းစက်&lt;br/>• ဆိုင်ယင့်တစ်ဖစ်ဂဏန်းပေါင်းစက်&lt;br/>• ကမ္ဘာသုံးယူနစ်ပြောင်းစနစ် (ဥပမာ - ငွေကြေး၊ အတိုင်းအတာယူနစ်များစသည်)&lt;br/>• ချေးငွေ၊ ရင်းနှီးမြှုပ်နှံမှု၊ EMI နှင့် အခြားအရာများအတွက် တွက်ချက်နည်းပုံစံများ&lt;br/>ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ အသုံးပြုပုံပြုနည်းအကြောင်းကို ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တွင် လေ့လာနိုင်သည်။ ဂဏန်းပေါင်းစက်ကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ဂဏန်းပေါင်းစက်၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်သည်။ ကျွန်ုပ်တို့၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောမတူပါက ဤအက်(ပ်)ရှိ အင်္ဂါရပ်အချို့ကို သုံးမရသော်လည်း အခြေခံလုပ်ဆောင်ချက်များကို သုံးနိုင်ပါသည်။&lt;/Data></string>
     <string name="night">ညနေ</string>
     <string name="none">မရှိ</string>
     <string name="noon">မွန်းတည့်</string>
@@ -568,6 +568,7 @@
     <string name="tax_total_insurance_provident_fund">အာမခံ &amp; အိမ်ရာရန်ပုံငွေ</string>
     <string name="tax_unemployment">အလုပ်လက်မဲ့</string>
     <string name="tax_update_time_format">HeXun(%s) မှ ပံ့ပိုးသည်</string>
+    <string name="tenure_year_month">%1$s နှင့် %2$s</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>
@@ -661,6 +662,7 @@
     <string name="unit_data_display_currency_btn">ဘူတန် ငူထရန်</string>
     <string name="unit_data_display_currency_bwp">ဘော့စဝါ ပူလာ</string>
     <string name="unit_data_display_currency_byn">ဘီလာရုရူဘယ်</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ကနေဒါ ဒေါ်လာ</string>
     <string name="unit_data_display_currency_cdf">ကွန်ဂိုဖရန့်</string>
     <string name="unit_data_display_currency_chf">ဆွစ် ဖရန့်</string>
@@ -1001,12 +1003,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">ဂဏန်ပေါင်းစက်သည် စနစ်အက်(ပ်)တစ်ခု ဖြစ်သည်။ အက်(ပ်)ကို ဖြုတ်ပြီးနောက် အမျိုးမျိုးသော စနစ်ပြောင်းနည်းများနှင့် အပိုအင်္ဂါရပ်များကို သုံးနိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="xiaomi_calculator_delete_title">ဂဏန်းပေါင်းစက်ကို ပြန်ဖြုတ်လိုသလား။</string>
     <string name="xiaomi_calculator_remove_icon_description">ဂဏန်ပေါင်းစက်သည် စနစ်အက်ပ်တစ်ခု ဖြစ်သည်။ ပင်မမျက်နှာပြင်ရှော့ကဒ်ကို ဖယ်ရှားပြီးနောက် အမျိုးမျိုးသော စနစ်ပြောင်းနည်းများနှင့် အပိုအင်္ဂါရပ်များကို သင်သုံးနိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="xiaomi_calculator_remove_icon_title">ပင်မမျက်နှာပြင်မှ \"ဂဏန်းတွက်စက်\" ကို ဖယ်ရှားလိုပါသလား။</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ်များအား ချိတ်ဆက်၍ မရပါ။ ဤအက်ပ်မှ တောင်းဆိုထားသော ခွင့်ပြုချက် အားလုံး ရှိမရှိ ဆက်တင် > ထည့်သွင်းထားသော အက်ပ်များတွင် စစ်ကြည့်ပါ။</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မရရှိပါ။ SD ကဒ်အား စစ်ဆေးပါ။</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
 အရွယ်အစား- %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s

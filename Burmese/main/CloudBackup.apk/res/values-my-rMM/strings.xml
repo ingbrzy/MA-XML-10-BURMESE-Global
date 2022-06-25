@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_to_recover">ခဏစောင့်ပါ…</string>
+    <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="am">နံနက်</string>
@@ -335,6 +336,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="msg_restore_with_metered_network_hint">ဤအိုင်တမ်များအား ပြန်လည်ရယူလိုပါက ဒေါင်းလုဒ်လုပ်ရာတွင် မိုဘိုင်းဒေတာကို သုံးမည်။</string>
     <string name="msg_restore_with_metered_network_pattern">"ဖိုင် &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> ခုအား ဒေါင်းလုဒ်လုပ်မည်။"</string>
     <string name="network_error">ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
+    <string name="network_error_info">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="network_timeout_info">ကွန်ရက်ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="night">ညနေ</string>
     <string name="no_account">Mi အကောင့်သို့ ဆိုင်းအင်မဝင်ရသေးပါ။</string>
     <string name="no_backup">Xiaomi ကလောက်တွင် အရန်သိမ်းဖိုင် မတွေ့ပါ။</string>
@@ -344,9 +347,12 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">PC မုဒ်တွင် အကြောင်းအရာများ ပြန်ယူမရပါ။ PC မုဒ်ကို ပိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="pm">ညနေ</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
+    <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="provision_back">နောက်ပြန်</string>
     <string name="provision_background_restore_more_data">နောက်ထပ် အိုင်တမ်များအား နောက်ခံတွင် ပြန်လည်ရယူမည်</string>
     <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
@@ -423,6 +429,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>
@@ -480,6 +487,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
+    <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="unselected">ရွေးမထားသော</string>
     <string name="unsupported_home">MIUI အား နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။</string>
     <string name="wait_icon_download">အက်ပ်အိုင်ကွန်အား ဒေါင်းလုဒ်လုပ်နေသည်</string>

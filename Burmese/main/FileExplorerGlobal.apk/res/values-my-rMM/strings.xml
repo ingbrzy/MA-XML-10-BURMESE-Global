@@ -10,6 +10,7 @@
     <string name="add_private_files">ဖိုင်များပေါင်းထည့်</string>
     <string name="add_remote">အဝေးထိန်း စက်အား ပေါင်းထည့်မည်</string>
     <string name="agree_all">အောက်ပါ စည်းကမ်းသတ်မှတ်ချက် အားလုံးကို ကျွန်ုပ် ဖတ်ရှုပြီး သဘောတူပါသည်။</string>
+    <string name="agree_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောတူပါ</string>
     <string name="all">အားလုံး</string>
     <string name="already_latest_version">လက်ရှိဗားရှင်းမှာ အသစ်ဆုံးဖြစ်သည်။</string>
     <string name="anonymous">အမည်မသိ</string>
@@ -161,6 +162,7 @@
     <string name="favorite_screen_cap">မျက်နှာပြင်ပုံများ</string>
     <string name="feedback_desc">သင်ကြုံတွေ့ရသော ပြဿနာကို ဖော်ပြပါ</string>
     <string name="feedback_send_email_body_extra_info">အောက်ပါအချက်အလက်များကို မဖျက်ပါနှင့်။ ကျွန်ုပ်တို့အား တည်နေရာရှာဖွေရာ၌ အထောက်အကူပြုနိုင်သည်။</string>
+    <string name="feeling_ok">သာမန်</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ဖတ်နိုင်သော−</string>
     <string name="file_info_canwrite">ရေးနိုင်သည်−</string>
@@ -186,6 +188,7 @@
     <string name="ftp_username_hint">သုံးသူအမည်</string>
     <string name="gbk_summary">တရုတ်စာလုံးတို ဝင်းဒိုးများ၏ သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="gigabyteShort">GB</string>
+    <string name="great">အလွန်ကျေနပ်သည်</string>
     <string name="grid_order">ဇယားကွက် မြင်ကွင်း</string>
     <string name="homepage_tab_recent">မကြာမီက</string>
     <string name="host">ဟို့စ်</string>
@@ -261,6 +264,7 @@
     <string name="not_connect_user">ချိတ်ဆက်၍ မရပါ- %1$s နှင့် %2$s</string>
     <string name="not_installed_documentsui">DocumentsUI အား မတပ်ဆင်ခဲ့ပါ</string>
     <string name="not_support_documentui">DocumentUI အား ဤစက်မှ မပံ့ပိုးထားပါ</string>
+    <string name="not_very_dissatisfied">မကျေနပ်ပါ</string>
     <string name="notif_server_starting">FTP ဆာဗာကို စတင်နေသည်…</string>
     <string name="notif_title">FTP ဆာဗာ အလုပ်လုပ်နေသည်</string>
     <string name="notification_wechat_expired_empty">WeChat မှ ဗီဒီယိုအပိုင်းများအား ဖျက်ပစ်လိုက်ပြီး။</string>
@@ -334,7 +338,7 @@
     <string name="port">ဝင်ပေါက်</string>
     <string name="port_range">ဝင်ပေါက်နံပါတ်မှာ ၁၀၂၄ နှင့် ၆၅၅၃၅ အကြားရှိရပါမည်</string>
     <string name="possible_permissions">ရွေးချယ်နိုင်သော ခွင့်ပြုချက်များ</string>
-    <string name="privacy_accept">သဘောတူပါသည် &amp; ဆက်လက်လုပ်ဆောင်မည်</string>
+    <string name="privacy_accept">သဘောတူသည်နှင့် ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="privacy_cancel"><u>သဘောမတူပါ</u></string>
     <string name="privacy_desc">ဖိုင်မန်နေဂျာမှာ ကြိုဆိုပါသည်။ ဤအက်(ပ်)တွင် အခြေခံအင်္ဂါရပ်များအပြင် အောက်ပါဝန်ဆောင်မှုများကိုလည်း ဆောင်ရွက်ပေးသည် -</string>
     <string name="privacy_experience_statement">အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် ပါဝင်ပြီး အသုံးပြုသူဒေတာများကို ကျွန်ုပ်တို့နှင့် မျှဝေခြင်းဖြင့် ကျွန်ုပ်တို့၏ ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများကို တိုးတက်စေရန် ကူညီနိုင်ပါသည်။</string>
@@ -379,6 +383,7 @@
     <string name="rlv_pull_to_refresh">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
     <string name="rlv_refreshing">ပြန်လန်းဆန်းနေ…</string>
     <string name="rlv_release_to_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
+    <string name="satisfied">ကျေနပ်သည်</string>
     <string name="save_seven_day">တစ်ပတ် တစ်ကြိမ် ရှင်းလင်းပါ</string>
     <string name="scan_code_download_from_play">ပလေးစတိုးမှ ဒေါင်းလုဒ်လုပ်ရန် ဤ QR ကုဒ်အား စကန်ဖတ်ပါ</string>
     <string name="search_description">စက်ပေါ်ရှိဖိုင်အားလုံးအား ရှာဖွေပါ</string>
@@ -432,7 +437,9 @@
     <string name="storage_usb">USB သိုလှောင်ခန်း</string>
     <string name="storage_warning">ပြင်ပသိုလှောင်ခန်းအား သုံး၍ မရပါ</string>
     <string name="str_clean">ရှင်းပစ်ရန်</string>
-    <string name="tab_common_app">အက်ပ်များ &amp; ဖိုလ်ဒါများ</string>
+    <string name="switch_to_grid_mode">အကွက်မြင်ကွင်းသို့ပြောင်းရန်</string>
+    <string name="switch_to_list_mode">စီတန်းမြင်ကွင်းသို့ပြောင်းရန်</string>
+    <string name="tab_common_app">အက်ပ်များနှင့် ဖိုလ်ဒါများ</string>
     <string name="tab_more">နောက်ထပ်</string>
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">စည်းကမ်းသတ်မှတ်ချက်များ</string>
@@ -466,6 +473,7 @@
     <string name="user_notice_term_of_service">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="utf8_summary">စက်စနစ် FTP သတ်မှတ်ပုံစံ ကုဒ်ထည့်ခြင်း</string>
     <string name="version_name">ဗားရှင်း</string>
+    <string name="very_dissatisfied">အလွန်မကျေနပ်ပါ</string>
     <string name="view_by_document">\"ဖိုင်မျာ\" တွင် ကြည့်ပါ</string>
     <string name="wechat_video">%s က ဗီဒီယို</string>
     <string name="whatsapp_cache_garbage">ကက်ချ်</string>

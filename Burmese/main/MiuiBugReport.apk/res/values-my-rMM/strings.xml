@@ -663,7 +663,7 @@ ID - %s
     <string name="system_app_select">အပြီးတပ်ဆင်ထားသော အက်ပ်များ</string>
     <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="tab_title_chat">မေးလေ့ရှိသော မေးခွန်းများ</string>
-    <string name="tab_title_my_reports">ကျွန်ုပ်၏အစီရင်ခံစာများ</string>
+    <string name="tab_title_my_reports">ကျွန်ုပ်၏ တုံ့ပြန်အကြံပြုချက်</string>
     <string name="tab_title_preferences">ဆက်တင်</string>
     <string name="tab_title_report">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="temporary_not_available">ဤဖီးခြားကို မရရှိနိုင်သေးပါ</string>

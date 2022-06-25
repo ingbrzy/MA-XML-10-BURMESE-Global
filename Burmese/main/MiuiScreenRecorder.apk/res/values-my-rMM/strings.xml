@@ -112,6 +112,7 @@
     <string name="hint_volume_down">အသံနိမ့်</string>
     <string name="hint_volume_up">အသံမြှင့်</string>
     <string name="home_title_none">အိုင်တမ်များရွေး</string>
+    <string name="invisible_mode_error_tip">ရုပ်ဖျက်မုဒ်တွင်ရောက်နေသည်။ ယခုအသံသွင်းမရပါ။</string>
     <string name="is_checked">ရွေးချယ်ထားသော</string>
     <string name="is_go_home">မျက်နှာပြင်ရီကော်တာသို့ ပြန်သွားပါ</string>
     <string name="is_go_home_summary">မှတ်တမ်းတင်ခြင်းအား ရပ်တန့်လိုက်ပါက မျက်နှာပြင်ရီကော်ဒါ၏ အစ စာမျက်နှာကို ဖွင့်ပါ</string>
