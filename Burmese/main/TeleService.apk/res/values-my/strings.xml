@@ -893,7 +893,6 @@
     <string name="mtrl_picker_a11y_next_month">နောက်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_a11y_prev_month">ယခင်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_announce_current_selection">လက်ရှိ ရွေးချယ်မှု- %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">ရက်စွဲ ရွေးပါ</string>
     <string name="mtrl_picker_date_header_unselected">ရွေးထားသည့် ရက်စွဲ</string>
@@ -1131,7 +1130,6 @@
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS ဝန်ဆောင်ပေးသူအမည်ကို ထည့်ပါ</string>
     <string name="private_num">လျို့ဝှက် နံပါတ်</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ချိတ်ဆက်ရာတွင် ပြဿနာရှိပါသည်။ စက်ကိုပိတ်ပြီး ပြန်ဖွင့်ပါ</string>
     <string name="profile_info_settings_title">ကိုယ်ရေးအချက်အလက်</string>
     <string name="progress_dialog_exiting_ecm">အရေးပေါ်ပြန်လည်ခေါ်ဆိုမှု အခြေအနေအား ထွက်ပါမည်</string>
