@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="action_collapse">ဖုံးထားရန်</string>
     <string name="action_expand">ပိုပြရန်</string>
     <string name="action_folder_description">ဖိုလ်ဒါများကို ကြည့်ပါ</string>
@@ -105,6 +106,7 @@
     <string name="dlg_hide_message">ဝှက်နေသည်…</string>
     <string name="dlg_info_creating_message">ရုပ်ပုံ ဖန်တီးနေသည်…</string>
     <string name="dlg_info_save_to_gallery_message">ပြခန်းသို့ ရုပ်ပုံအား သိမ်းဆည်းနေသည်…</string>
+    <string name="dlg_info_save_to_local_message">သိမ်းနေသည်…</string>
     <string name="dlg_message_password_reset">ကွယ်ဝှက်ထားသောမှတ်စု၏ စကားဝှက်အား မက်ဆေ့ချ်များ၊ ဓါတ်ပုံများနှင့် ကွယ်ဝှက်ဖိုလ်ဒါများအတွက် အသုံးပြုသည့် ကိုယ်ပိုင်ရေးရာကာကွယ်မှု စကားဝှက်ဖြင့် အစားထိုးလိုက်မည်</string>
     <string name="dlg_message_set_password">ကိုယ်ပိုင်ရေးရာ ကာကွယ်မှုစကားဝှက်သည် မက်ဆေ့ချ်များ၊ ဓါတ်ပုံများနှင့် ကွယ်ဝှက် ဖိုလ်ဒါများအတွက် အသုံးပြုနိုင်ပါသည်</string>
     <string name="dlg_message_use_privacy_password">ကိုယ်ပိုင်ရေးရာ ကာကွယ်မှုစကားဝှက်အား အသုံးပြုပါ။ မက်ဆေ့ချ်များ၊ ဓါတ်ပုံများနှင့် ကွယ်ဝှက်ဖိုလ်ဒါများအတွက် အသုံးပြုနိုင်ပါသည်။</string>
@@ -441,6 +443,8 @@
     <string name="month_september_shortest">စက်တင်ဘာ</string>
     <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
+    <string name="network_error_info">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="network_timeout_info">ကွန်ရက်ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="new_app_name">Mi မှတ်စုများ</string>
     <string name="new_audio_create_cancel_talkback_des">ဖျက်သိမ်းပြီးပါပြီ</string>
     <string name="new_audio_create_done_talkback_des">လုပ်ပြီးပါပြီ</string>
@@ -470,11 +474,14 @@
     <string name="note_mindnote_entrance_hint_newversion">"စာရိုက်နေသည် "</string>
     <string name="note_mindnote_entrance_icon_text">စိတ်ကူးပြမြေပုံတစ်ခု ဖန်တီးရန်</string>
     <string name="note_mindnote_entrance_icon_text_newversion">စိတ်ကူးပြမြေပုံတစ်ခု ဖန်တီးရန်</string>
+    <string name="note_mindnote_not_support_in_phone_model">ဤစက်တွင် စိတ်ကူးမြေပုံများ ပြင်မရပါ</string>
     <string name="note_module_name">မှတ်စုများ</string>
     <string name="note_not_text_stub">စာသားမရှိပါ</string>
     <string name="note_sort_way">စီရန်</string>
+    <string name="note_write_hint">စာစရေးရန်</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">မှတ်စုများသည် စနစ်အက်(ပ်)များဖြစ်သည်။ ဤအက်(ပ်)ကို ဖြုတ်ပြီးနောက် သုံးမရတော့ပါ။</string>
     <string name="notes_description_title">မှတ်စုများပြန်ဖြုတ်လိုသလား။</string>
     <string name="notification_content_add_todo_from_other_app">လုပ်ငန်းအသစ်တစ်ခု သင် ထည့်ထားပါသည်။ ကြည့်ရန် တို့ပါ။</string>
@@ -536,6 +543,8 @@
     <string name="permission_phone_state_desc">ဖုန်းဝင်လာလျှင် အသံမှတ်စုများ အသံသွင်းခြင်းကို ရပ်ရန်</string>
     <string name="permission_read_contact_desc">အဆက်အသွယ်များနှင့် ဖုန်းခေါ်ချိန် ပြုလုပ်ထားသော မှတ်စုများနှင့် ချိတ်ဆက်နေသည်</string>
     <string name="permission_storage_desc">မှတ်စုများကို ပုံအဖြစ် သိမ်းရန်</string>
+    <string name="permission_storage_desc_new_v12">ပုံများကို မှတ်စုများတွင် ပေါင်းထည့်ရန်နှင့် မှတ်စုများကို ပုံအဖြစ်သိမ်းရန်</string>
+    <string name="permission_storage_desc_pad_new_v12">ပုံများကို မှတ်စုများတွင် ပေါင်းထည့်ရန်နှင့် မှတ်စုများကို ပုံအဖြစ်သိမ်းရန်</string>
     <string name="permission_storage_desc_pad_v12">ပုံများကို မှတ်စုများတွင် ပေါင်းထည့်ရန်နှင့် မှတ်စုများကို ပုံအဖြစ်သိမ်းရန်</string>
     <string name="permission_storage_desc_v12">ပုံများကို မှတ်စုများတွင် ပေါင်းထည့်ရန်နှင့် မှတ်စုများကို ပုံအဖြစ်သိမ်းရန်</string>
     <string name="permission_xiaoai_desc">&lt;Data>Mi AI သည် အသံကို စာသားပြောင်းရန်နှင့် အသံမှတ်စုများ ပြုလုပ်နိုင်ရန်အတွက် သင်သွင်းထားသော အသံများနှင့် စက် ID ကို ကောက်ယူပါမည်။ Mi AI ၏&lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် ပိုမိုလေ့လာပါ။&lt;/Data></string>
@@ -572,6 +581,7 @@
     <string name="privacy_note_content_empty">ဤနေရာတွင်မည်သည့်အရာမျှ မရှိသေးပါ။</string>
     <string name="private_entry_available">တစ်ကိုယ်ရေဖိုင်တွဲဖွင့်ရန် လက်လွှတ်ပါ</string>
     <string name="private_entry_default">တစ်ကိုယ်ရေဖိုင်တွဲဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">အမြန်မှတ်စုများတွင် မှတ်စုများနှင့် ကောက်နုတ်ချက်များ ပြုလုပ်နိုင်သည်</string>
     <string name="recover_notes_hint">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့သည်၊ i.mi.com သို့သွား၍ မှတ်စုများအား ပြန်လည်ရယူပါ။</string>
@@ -620,6 +630,9 @@
     <string name="save_to_gallery_failure_message">သိမ်းဆည်း၍ မရပါ</string>
     <string name="save_to_gallery_icon_name">ပြခန်းသို့ သိမ်းပါ</string>
     <string name="save_to_gallery_success_message">သိမ်းဆည်းပြီးပါပြီ</string>
+    <string name="save_to_local_failure_message">သိမ်းမရပါ</string>
+    <string name="save_to_local_icon_name">သိမ်းရန်</string>
+    <string name="save_to_local_success_message">အောင်မြင်စွာသိမ်းပြီးပါပြီ</string>
     <string name="search">မှတ်စု</string>
     <string name="search_hint">မှတ်စုများ ရှာပါ</string>
     <string name="search_keyword_notes">မှတ်စုများ၊မီမို</string>
@@ -678,6 +691,7 @@
     <string name="sync_note_folder">%1$s နှင့် %2$s</string>
     <string name="sync_note_todo">%1$s နှင့် %2$s</string>
     <string name="sync_tips">မှတ်စုများကို ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန် တို့ပါ။</string>
+    <string name="system_error_info">စနစ် အလုပ်များနေသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>
@@ -853,6 +867,7 @@
     <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="unclassfied_folder_name">အမျိုးအစား မခွဲထားသော</string>
     <string name="undo">ပြန်မလုပ်</string>
+    <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="unknown_source">အမည်မသိရင်းမြစ်</string>
     <string name="view_all_notes">အားလုံးကြည့်ရန်</string>
     <string name="warn_cannot_add_new_bullet">မှတ်စုရှည်လွန်းသောကြောင့် အစက်ချစာရင်းအသစ် ထည့်မရပါ</string>

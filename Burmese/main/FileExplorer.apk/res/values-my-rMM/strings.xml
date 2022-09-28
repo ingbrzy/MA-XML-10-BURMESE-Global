@@ -8,6 +8,7 @@
     <string name="ad_download">ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="add_private">ဖိုင်များကို ကိုယ်ပိုင်သီးသန့်ပြုလုပ်ရန်</string>
     <string name="add_private_files">ဖိုင်များပေါင်းထည့်</string>
+    <string name="add_to_widget">ဝိဂျက်သို့ထည့်ပါ</string>
     <string name="added_category">ထည့်ပြီးပါပြီ</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="aggree_desc">ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပြီး အထက်တွင်ဖော်ပြထားသော မရှိမဖြစ် ခွင့်ပြုချက်များကို ပေးပါ။</string>
@@ -128,6 +129,7 @@
     <string name="delete_folder">ဒီဖိုလ်ဒါကို ဖျက်ပစ်မလား။</string>
     <string name="des_hide_pwd">စကားဝှက်ဖျောက်ထားရန်</string>
     <string name="des_show_pwd">စကားဝှက်ပြရန်</string>
+    <string name="dialog_keep_choice">ကျွန်ုပ်၏ရွေးချယ်မှုကို မှတ်ထားပါ</string>
     <string name="dialog_select_type">အမျိုးအစား ရွေးပါ</string>
     <string name="dialog_type_audio">အသံဖိုင်</string>
     <string name="dialog_type_image">ပုံများ</string>
@@ -180,6 +182,7 @@
     <string name="favorite_photo">ဓာတ်ပုံများ</string>
     <string name="favorite_ringtone">ဖုန်းမြည်သံများ</string>
     <string name="favorite_screen_cap">မျက်နှာပြင်ရိုက်ချက်များ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ဖတ်နိုင်ခြင်း -  </string>
     <string name="file_info_canwrite">ရေးနိုင်ခြင်း -  </string>
     <string name="file_info_ishidden">ဝှက်ထားခြင်း -  </string>
@@ -249,7 +252,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
-    <string name="ftp_account_req_notice">အသုံးပြုသူအမည် နှင့် စကားဝှက်သည် စာလုံးအကြီးအသေး နှင့် %1$d%2$d အက္ခရာများပါရမည်။ အင်္ဂလိပ်စာ စာလုံး၊ အထူး သင်္ကေတများ နှင့် နံပါတ်များ ရောစပ်နိုင်သည်။</string>
+    <string name="ftp_account_req_notice">Username and password are case-sensitive and must contain %1$d-%2$d characters. You can combine English letters, special symbols, and numbers.</string>
     <string name="ftp_anonymous_login">အမည်ဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="ftp_anonymous_warning_msg">အမည်ဖျောက်ပြုလုပ်သောအင်္ဂါရပ်များက အန္တရာယ်များပါသည်။ ဤအင်္ဂါရပ်ကို မဖြစ်မနေသုံးလိုသလား။</string>
     <string name="ftp_anonymous_warning_title">သတိပြုရန်</string>
@@ -293,6 +296,8 @@
     <string name="instruction_pre_phone">ကွန်ပျူတာသုံးပြီး ဤစက်မှ ဖိုင်များကို စီမံခန့်ခွဲရန်</string>
     <string name="internal_storage">အတွင်းပိုင်း သိုလှောင်ခန်း</string>
     <string name="just_now">အခုလေးတင်</string>
+    <string name="lack_perm_msg">ဖိုင်မန်နေဂျာသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် - &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="launcher_icon_add_description">ပင်မမျက်နှာပြင်ရှော့ကတ်ထည့်ရန်</string>
     <string name="launcher_icon_remove_description_content">ဖိုင်မန်နေဂျာသည် စနစ်အက်(ပ်)ဖြစ်သည်။ ပင်မမျက်နှာပြင်ရှော့ကတ်ကို ဖျက်ပြီးနောက် သင့်စက်ရှိဖိုင်များကို စီမံခန့်ခွဲနိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="launcher_icon_remove_description_title">\"ဖိုင်မန်နေဂျာ\" ကို ပင်မမျက်နှာပြင်မှ ဖြုတ်လိုသလား။</string>
@@ -303,6 +308,9 @@
     <string name="local_image">ရုပ်ပုံများ</string>
     <string name="local_music">အသံဖိုင်များ</string>
     <string name="local_video">ဗီဒီယိုဖိုင်များ</string>
+    <string name="main_button_continue">ဆက်တင်</string>
+    <string name="main_button_ok">အိုကေ</string>
+    <string name="main_button_quit">မလုပ်တော့ရန်</string>
     <string name="make_private">ကိုယ်ပိုင်သီးသန့်ပြုလုပ်ရန်</string>
     <string name="make_private_msg_1">ဤဖိုင်ကို ကိုယ်ပိုင်သီးသန့်လုပ်လိုပါသလား။</string>
     <string name="make_private_msg_2">ဤဖိုင်များကို ကိုယ်ပိုင်သီးသန့်လုပ်လိုပါသလား။</string>
@@ -319,6 +327,7 @@
     <string name="menu_item_sort_type">အမျိုးအစား</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">နောက်ခံပုံအဖြစ် သတ်မှတ်ရန်</string>
+    <string name="message_request_manage_external_storage_perm">ဖိုင်မန်နေဂျာသည် သင့်စက်ရှိဖိုင်များကို စီမံခန့်ခွဲနိုင်ရန် ဖိုင်များဖတ်ခွင့် လိုအပ်သည်။ ဆက်တင်တွင် ဤခွင့်ပြုချက်ကို ပေးနိုင်သည်။</string>
     <string name="mi_router_label">ရောက်ဒါ</string>
     <string name="mi_share">Mi မျှဝေခြင်း</string>
     <string name="midnight">ည</string>
@@ -490,6 +499,7 @@
     <string name="partial_delete_failure">ဖိုင်အချို့ကို ဖျက်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="partial_encrypt_success">ဖိုင်အချို့ကို ကိုယ်ပိုင်သီးသန့်လုပ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="path_name_email">အီးမေး(လ်)</string>
+    <string name="perm_manage_external_storage">ဖိုင်အားလုံးဖတ်ရန်</string>
     <string name="permission_denial">ဖိုင်များအား ဖွင့်၍မရပါ။ ဆက်တင်သို့သွား၍ ဖိုင်မန်နေဂျာကို ဖိုင်သုံးခွင့်ပေးပါ။</string>
     <string name="permission_description">ခွင့်ပြုချက်အသေးစိတ်</string>
     <string name="permission_required">ဖိုင်များအား ဖွင့်၍မရပါ။ ဆက်တင်သို့သွား၍ ဖိုင်မန်နေဂျာကို ဖိုင်သုံးခွင့်ပေးပါ။</string>
@@ -588,6 +598,7 @@
     <string name="set_pattern">သင့်စကားဝှက်အား အဆင့်မြှင့်တင်ပါ</string>
     <string name="set_pattern_btn">သတ်မှတ်</string>
     <string name="set_pattern_msg">စကားဝှက်ပြန်သတ်မှတ်ပါ။ ဓာတ်ပုံများ၊ မက်ဆေ့(ချ်)များနှင့် မှတ်စုများအတွက် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု အကာအကွယ် စကားဝှက်ကိုလည်း သုံးနိုင်သည်။</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">%d KB ထက်သေးသည်</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -676,9 +687,11 @@
     <string name="time_picker_label_hour">နာရီ</string>
     <string name="time_picker_label_minute">မိနစ်</string>
     <string name="tip">ဂရုစိုက်ခြင်း</string>
+    <string name="tips_add_to_widget">ဤဝိဂျက်သို့ ဖိုင် %d ဖိုင် ထည့်နိုင်သည်။ ဖိုင်ထပ်ထည့်ပါက ယခင်ထည့်ထားသော ဖိုင်များတွင် အစားထိုးလိုက်ပါမည်။</string>
     <string name="title_app_tags">အက်ပ်များ</string>
     <string name="title_expire_video">သက်တမ်းကုန်တော့မည်</string>
     <string name="title_recent">မကြာမီက</string>
+    <string name="title_request_manage_external_storage_perm">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="title_select_volume">ဖိုင်တွဲရွေးပါ</string>
     <string name="to_open">ဆက်တင်</string>
     <string name="to_setting">ဆက်တင်</string>
@@ -717,9 +730,19 @@
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
+    <string name="widget_add_files">ဖိုင်ထည့်ပါ</string>
+    <string name="widget_added_fail_content">%1$s သည် ပင်မမျက်နှာပြင်တွင် ရှိနှင့်ပြီးဖြစ်သည်</string>
+    <string name="widget_added_fail_tips">ထည့်မရပါ</string>
+    <string name="widget_added_success_content">%1$s ကို ပင်မမျက်နှာပြင်တွင် ထည့်ပြီးပါပြီ</string>
+    <string name="widget_added_success_tips">အောင်မြင်စွာထည့်ပြီးပါပြီ</string>
+    <string name="widget_choose_document_please">စာရွက်စာတမ်းရွေးရန်</string>
+    <string name="widget_choose_file">ဖိုင်ထည့်ရန် တို့ပါ</string>
+    <string name="widget_choose_fragment_title">ဖိုင်အမျိုးအစားရွေးပါ</string>
+    <string name="widget_finish">ပြီးပါပြီ</string>
+    <string name="widget_name">လတ်တလောကြည့်ထားသော ဖိုင်များ</string>
     <string name="wifi_state">Wi-Fi အခြေအနေ</string>
     <string name="withdraw">ရုပ်သိမ်းရန်</string>
-    <string name="withdraw_consent">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
+    <string name="withdraw_consent">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="withdraw_consent_content">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် ဖိုင်မန်နေဂျာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ ဖိုင်မန်နေဂျာသည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် ဖိုင်မန်နေဂျာဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။</string>
     <string name="withdraw_consent_summary">ဖိုင်မန်နေဂျာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းရန်</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>

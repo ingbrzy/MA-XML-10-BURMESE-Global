@@ -27,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">နှင့် မျှဝေရန်</string>
     <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
     <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
-    <string name="common_google_play_services_unknown_issue">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="copy">မိတ္တူကူးရန်</string>
     <string name="exo_controls_cc_disabled_description">စာတန်းထိုး ဖွင့်ပါ</string>
     <string name="exo_controls_cc_enabled_description">စာတန်းထိုး ပိတ်ပါ</string>
@@ -61,7 +60,9 @@
     <string name="exo_download_notification_channel_name">ဒေါင်းလုဒ်များ</string>
     <string name="exo_download_removing">ဒေါင်းလုဒ်များ ဖယ်ရှားနေသည်</string>
     <string name="exo_item_list">%1$s၊ %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">မိုနို</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">အရန်</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">ထင်မြင်သုံးသပ်ချက်</string>

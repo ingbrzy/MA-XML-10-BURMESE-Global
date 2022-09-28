@@ -428,7 +428,9 @@
     <string name="hdcp_checking_dialog_title">HDCP စစ်ဆေးရေး လုပ်ဆောင်ချက် သတ်မှတ်ပါ</string>
     <string name="hdcp_checking_title">HDCP စစ်ဆေးနေသည်</string>
     <string name="headset_battery_fw_failed">ဦးစွာ စက်ကို အားသွင်းပါ</string>
+    <string name="headset_battery_low">ဓာတ်ခဲအားနည်းနေသည်။ နားကြပ်ကို ယခုအားသွင်းပါ။</string>
     <string name="headset_connect_device">စက်ချိတ်ပါ</string>
+    <string name="headset_connect_timeout">ချိတ်ဆက်ချိန်ကုန်သွားပါပြီ။ အစမှပြန်လုပ်ပါ။</string>
     <string name="headset_device_check_failed">အပ်ပဒိတ်များ စစ်မရပါ</string>
     <string name="headset_device_donot_move">စက်ကို အနီးအနားတွင် ထားပါ</string>
     <string name="headset_device_enter_upgrade_failed">အပ်ပဒိတ်စမရပါ</string>
@@ -454,6 +456,7 @@
     <string name="headset_loss_notify_summary">အနည်းဆုံး နားကြပ်တစ်ဖက်သည် အားသွင်းဘူးတွင် ရှိနေပုံမရပါ။ လိုက်ရှာကြည့်ပါ။</string>
     <string name="headset_loss_notify_summary1">နားကြပ်များ ဘူးထဲတွင် ရှိပုံမရပါ။ ပြန်ထည့်ပြီး အားသွင်းခွင့်ပြုပါ။</string>
     <string name="headset_loss_notify_title">နားကြပ်ပျောက်သတိပေးချက်</string>
+    <string name="headset_not_in_case">နားကြပ်နှစ်ဖက်စလုံးကို ဘူးထဲတွင်ထည့်ပြီး အစမှပြန်လုပ်ပါ</string>
     <string name="headset_read_fw_state">အပ်ပဒိတ်အချက်အလက်များ မရနိုင်ပါ</string>
     <string name="headset_update_failed">အပ်ပဒိတ်လုပ်မရပါ</string>
     <string name="headset_update_ok">ပြီးပါပြီ</string>

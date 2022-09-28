@@ -41,6 +41,7 @@
     <string name="afternoon">နေ့လယ်</string>
     <string name="am">နံနက်</string>
     <string name="auth_fail_warning">ခွင့်ပြုချိန် ပြည့်သွားပါပြီ။ အကောင့် ပြန်ဝင်ပေးပါ။</string>
+    <string name="back">နောက်သို့</string>
     <string name="bind_sign_in_title">Mi အကောင့် ထည့်သွင်းရန်</string>
     <string name="change_activate_email">အီးမေးလ်လိပ်စာ ပြောင်းမည်</string>
     <string name="change_password">စကားဝှက် ပြောင်းမည်</string>
@@ -48,6 +49,7 @@
     <string name="choose_to_signup">မဟုတ်ပါ၊ အသစ်တစ်ခု ဖန်တီးမည်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="close">ပိတ်</string>
+    <string name="close_country_code_content_description">နိုင်ငံကုဒ်ကို ဖျက်ရန်</string>
     <string name="collect_diagnosis_log">မှတ်တမ်းများ စုဆောင်းမည်</string>
     <string name="confirm_activate_email">အတည်ပြုပြီးပါပြီ</string>
     <string name="confirm_bundled_phone_dialog_title">ဆက်စပ်ဖုန်းနံပါတ်ကို အတည်ပြုပါ</string>
@@ -73,6 +75,7 @@ ID - %s
     <string name="error_invalid_bind_address">သင်ထည့်သွင်းထားသော ဤအီးမေးလ်လိပ်စာ မမှန်ပါ။</string>
     <string name="evening">နေ့လယ်</string>
     <string name="exceed_binded_phone_times_notice">ဤဖုန်းနံပါတ်အား အခြား Mi အကောင့်တစ်ခုနှင့် တွဲထားပြီးဖြစ်ပါသည်။</string>
+    <string name="facebook_login_btn_content_description">Facebook နှင့် အကောင့်ဝင်ရန်</string>
     <string name="failed_dup_secure_phone_number">ဤဖုန်းနံပါတ်အား အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပါသည်</string>
     <string name="find_psw">စကားဝှက် မေ့သွားသည်</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -135,7 +138,9 @@ ID - %s
     <string name="get_ph_ticket">ကုဒ်နံပါတ် ရယူပါ</string>
     <string name="get_phone_bind_exceed_limit">ဖုန်းနံပါတ်တစ်ခုဖြင့် Mi အကောင့်သုံးခုအထိသာ တွဲသုံးနိုင်ပါသည်။ အကောင့်အသစ် ထည့်သွင်း၍ မရတော့ပါ။</string>
     <string name="get_phone_verifycode_exceed_limit">ဤနံပါတ်သို့ အတည်ပြုကုဒ်နံပါတ်များစွာ ပေးပို့ထားပြီး ဖြစ်ပါသည်။ ၂၄ နာရီ စောင့်ဆိုင်းပြီးမှ ထပ်မံကြိုးစားပါ။</string>
+    <string name="google_login_btn_content_description">Google နှင့် အကောင့်ဝင်ရန်</string>
     <string name="goto_sign_up">အကောင့်တစ်ခု ဖန်တီးမည်</string>
+    <string name="header_help">အကူအညီ</string>
     <string name="i_know">နားလည်ပါပြီ</string>
     <string name="identity">အတည်ပြုမှု</string>
     <string name="inconsistent_pwd">စကားဝှက် မကိုက်ညီပါ</string>
@@ -152,6 +157,23 @@ ID - %s
     <string name="login_with_sns">အကောင့်ဝင်ရန် အခြားနည်းလမ်းများ</string>
     <string name="logout_account">ဆိုင်းအောက်လုပ်မည်</string>
     <string name="midnight">ည</string>
+    <string name="miui_clock_city_name_local">ဌာနေ</string>
+    <string name="miui_clock_city_name_second">ဒုတိယ နာရီ</string>
+    <string name="miui_lock_screen_date">dd/MM EEEE</string>
+    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd/MM
+EEEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd/MM
+EEEE"</string>
+    <string name="miui_lock_screen_large_date">"dd/MM
+EEE"</string>
+    <string name="miui_lock_screen_large_date_12">"dd/MM
+EEE"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -321,8 +343,12 @@ ID - %s
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ။</string>
     <string name="pm">ညနေ</string>
     <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
+    <string name="protocal_dialog_cancel">မလုပ်တော့ရန်</string>
+    <string name="protocal_dialog_confirm">သဘောတူပါသည်</string>
+    <string name="protocal_dialog_title">သတိပြုရန်</string>
     <string name="psw_hint">စကားဝှက်</string>
     <string name="psw_sign_in">စကားဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
+    <string name="qq_login_btn_content_description">QQ နှင့် အကောင့်ဝင်ရန်</string>
     <string name="register_by_local_phone_long_text">အကောင့်လုပ်ရန်</string>
     <string name="register_by_local_phone_short_text">အကောင့်လုပ်ရန်</string>
     <string name="request_agree">ခွင့်ပြုရန်</string>
@@ -430,6 +456,7 @@ ID - %s
     <string name="user_agreement_hint_with_mobile">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းမည်</string>
     <string name="user_avatar_uploading">တစ်စက္ကန့်စောင့်ပါ…</string>
     <string name="user_id_hint">အီးမေးလ်/ဖုန်း/Mi အကောင့် ID</string>
@@ -438,5 +465,7 @@ ID - %s
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
+    <string name="weibo_login_btn_content_description">Weibo နှင့် အကောင့်ဝင်ရန်</string>
+    <string name="weixin_login_btn_content_description">WeChat နှင့် အကောင့်ဝင်ရန်</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

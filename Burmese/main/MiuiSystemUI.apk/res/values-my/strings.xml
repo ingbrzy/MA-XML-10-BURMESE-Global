@@ -968,6 +968,7 @@
     <string name="keyguard_missing_sim_instructions_long">ဆင်းမ်ကဒ်မရှိပါ သို့မဟုတ် အသုံးပြု၍မရပါ။ ဆင်းမ်ကဒ်တစ်ခု ထည့်ပါ။</string>
     <string name="keyguard_missing_sim_message">ဖုန်းထဲတွင် ဆင်းမ်ကတ် မရှိပါ။</string>
     <string name="keyguard_missing_sim_message_short">ဆင်းမ်ကတ် မရှိပါ</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">ကွန်ရက်ကို လော့ခ်ချထားသည်</string>
     <string name="keyguard_password_enter_password_code">လော့ခ်ဖွင့်ရန် စကားဝှက်ကို ထည့်ပါ</string>
     <string name="keyguard_password_enter_pin_code">ပင်နံပါတ်ထည့်ပါ</string>
@@ -1182,12 +1183,14 @@
 
 နောက်ထပ် အချက်အလက်များအတွက် သင်၏ စီမံခန့်ခွဲသူကို ဆက်သွယ်ပါ။"</string>
     <string name="monitoring_description_ca_cert_settings">ယုံကြည်စိတ်ချရသော အထောက်အထားများကို ဖွင့်ရန်</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ဤစက်ပစ္စည်းတွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body">စီမံသူသည် ဆက်တင်၊ ကော်ပိုရိတ်သုံးခွင့်၊ အက်ပ်၊ စက်ပစ္စည်းနှင့်ဆိုင်သောဒေတာနှင့် ၎င်း၏တည်နေရာအချက်အလက်ကိုစောင့်ကြည့်စီမံနိုင်ပါသည်။</string>
     <string name="monitoring_description_do_body_vpn">အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ သင်သည် ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_do_header_generic">သင့်စက်ပစ္စည်းကို %1$s က စီမံခန့်ခွဲထားပါသည်။</string>
     <string name="monitoring_description_do_header_with_name">%1$s သည် သင့်စက်ပစ္စည်းကို စီမံခန့်ခွဲရန် %2$s ကို အသုံးပြုပါသည်။</string>
     <string name="monitoring_description_do_learn_more">ပိုမိုလေ့လာရန်</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">သင်၏ အဖွဲ့အစည်းသည် သင်၏ အလုပ်ပရိုဖိုင်တွင် စီမံခန့်ခွဲမှုဆိုင်ရာ အသိအမှတ်ပြုလက်မှတ်ကို ထည့်သွင်းထားပါသည်။ လုံခြုံမှုရှိသော ကွန်ရက်ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="monitoring_description_managed_profile_named_vpn">သင်၏အလုပ်ပရိုဖိုင်သည် အီးမေးလ်၊ အက်ပ်နှင့် ဝဘ်ဆိုက်များအပါအဝင် သင်၏ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် %1$s သို့ ချိတ်ဆက်ထားပါသည်။</string>
     <string name="monitoring_description_managed_profile_network_logging">သင်၏စီမံခန့်ခွဲသူက ကွန်ရက်မှတ်တမ်းတင်ခြင်းကို ဖွင့်လိုက်သည်။ ၎င်းသည် သင့်အလုပ်ပရိုဖိုင်ရှိ ဒေတာစီးဆင်းမှုကို စောင့်ကြည့်သော်လည်း ကိုယ်ပိုင်ပရိုဖိုင်တွင် မစောင့်ကြည့်ပါ။</string>
@@ -1221,6 +1224,7 @@
 
 သင်သည် သင့်ကွန်ရက်လုပ်ဆောင်ချက်ကို စောင့်ကြည့်နိုင်သည့် VPN သို့လည်း ချိတ်ဆက်ထားပါသေးသည်။"</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်များကို ဖွင့်ရန်</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s က ဤစက်ပစ္စည်းနှင့် ဆက်စပ်နေသည့်ဒေတာကို သုံးနိုင်ပြီး အက်ပ်များကို စီမံနိုင်သလို ဤစက်ပစ္စည်း၏ဆက်တင်များကို ပြောင်းနိုင်သည်။
 
 မေးစရာများရှိပါက %2$s ကို ဆက်သွယ်ပါ။"</string>
@@ -1262,6 +1266,7 @@
     <string name="mtrl_picker_a11y_next_month">နောက်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_a11y_prev_month">ယခင်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_announce_current_selection">လက်ရှိ ရွေးချယ်မှု- %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">ရက်စွဲ ရွေးပါ</string>
     <string name="mtrl_picker_date_header_unselected">ရွေးထားသည့် ရက်စွဲ</string>
@@ -1488,6 +1493,7 @@
     <string name="private_dns_mode_provider">သီးသန့် DNS ဝန်ဆောင်မှုပေးသူအမည်</string>
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS ဝန်ဆောင်ပေးသူအမည်ကို ထည့်ပါ</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ချိတ်ဆက်ရာတွင် ပြဿနာရှိပါသည်။ စက်ကိုပိတ်ပြီး ပြန်ဖွင့်ပါ</string>
     <string name="profile_info_settings_title">ကိုယ်ရေးအချက်အလက်</string>
     <string name="profile_owned_footer">ပရိုဖိုင်ကို စောင့်ကြပ်နိုင်သည်</string>

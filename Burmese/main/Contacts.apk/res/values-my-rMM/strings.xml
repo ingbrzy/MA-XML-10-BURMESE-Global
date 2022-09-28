@@ -152,6 +152,7 @@
     <string name="callrecordview_menu_show_missed">လွဲသွားသော ခေါ်ဆိုမှုများ</string>
     <string name="callrecordview_menu_show_sim">ခေါ်ဆိုမှု %s ခု</string>
     <string name="callrecordview_menu_show_stranger">အမည်မသိသော နံပါတ်များမှ ခေါ်ဆိုမှုများ</string>
+    <string name="callrecordview_menu_xiaoaiphone">Mi AI ဖုန်းခေါ်လက်ထောက်</string>
     <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="cancel_confirmation_dialog_message">သင့်အပြောင်းအလဲများကို စွန့်ပစ်မလား။</string>
     <string name="cancel_confirmation_dialog_title">ပယ်ဖျက်မည်</string>
@@ -475,6 +476,7 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="ghostData_company">ကုမ္ပဏီ</string>
@@ -608,6 +610,7 @@
     <string name="menu_sync_remove">ဆင့်ခ်အုပ်စု ဖယ်ရှားပါ</string>
     <string name="midnight">ည</string>
     <string name="miprofile_account_type">ဆက်သွယ်မှု ကဒ်များ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_name">ကျွန်ုပ်၏ပရိုဖိုင်</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -763,6 +766,7 @@
     <string name="permission_retry_dialog_msg_pad">သင့် SIM ကတ်ကို ဤအက်(ပ်)နှင့် သုံးပြီး သင့်အဆက်အသွယ်များကို စီမံခန့်ခွဲနိုင်ရန်အတွက် ဤအက်(ပ်)အား သင့်အဆက်အသွယ်များကို ဖတ်ခွင့်နှင့် တည်းဖြတ်ခွင့်အပြင် စက်အချက်အလက်ကိုဖတ်ခွင့်ပါ ပေးရပါမည်။</string>
     <string name="permission_retry_setting">ဆက်တင်များ</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">ဖုန်းထဲတွင် မည်သည့်ပုံမျှ မရှိပါ။</string>
@@ -831,6 +835,9 @@
     <string name="preference_smart_group_title">စမတ်အုပ်စုများ</string>
     <string name="preference_tone_title">မြည်သံများ</string>
     <string name="preference_yellowpage_function_setting">အဝါရောင်စာမျက်နှာများဆက်တင်</string>
+    <string name="presentation_payphone">အခပေးဖုန်း</string>
+    <string name="presentation_private">သီးသန့်နံပါတ်</string>
+    <string name="presentation_unknown">မသိသောနံပါတ်</string>
     <string name="previous">နောက်သို့</string>
     <string name="privacy_password_message1">ပုဂ္ဂိုလ်ရေးကာကွယ်မှုစကားဝှက်သည် ဓာတ်ပုံများ၊ မှတ်စုများနှင့် ဖျောက်ထားသော ဖိုဒါများအတွက် အလုပ်လုပ်ပါသည်။</string>
     <string name="privacy_password_message2">ပုဂ္ဂိုလ်ရေးအကာကွယ် စကားဝှက်ကို သုံးပါ။ ၎င်းသည် ဓာတ်ပုံများ၊ မှတ်စုများနှင့် ဖျောက်ထားသော ဖိုဒါများအတွက် အလုပ်လုပ်ပါသည်။</string>
@@ -907,7 +914,7 @@
     <string name="remove_duplicate">"MIUI မှ ရှာဖွေရာတွင် ကူညီပေးပြီး နှစ်ခုထပ်နေသော အဆက်အသွယ်များကို ပေါင်းစပ်ပေးပါလိမ့်မည်။
 
 စတင်ရန် သင့်မျက်နှာပြင်၏ အောက်ခြေရှိ ပေါင်းစပ်သည့် အိုင်ကွန်ကို ထိပါ။"</string>
-    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE</string>
+    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_app_btn_cancel">မလုပ်တော့ရန်</string>
     <string name="restore_app_btn_restore">အိုကေ</string>
     <string name="restore_app_description_content">အဆက်အသွယ်များကို အမြန်ဝင်နိုင်ရန် ပင်မမျက်နှာပြင်တွင် ရှော့ကတ်ထည့်ပါ။</string>
@@ -1003,6 +1010,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1165,6 +1173,7 @@
     <string name="video_chat">ဗီဒီယိုချတ်</string>
     <string name="viewContactDesription">အဆက်အသွယ်ကို ကြည့်ပါ</string>
     <string name="viewContactTitle">အဆက်အသွယ် အသေးစိတ်များ</string>
+    <string name="view_more_call_logs">ထပ်ကြည့်ရန်</string>
     <string name="view_updates_from_group">အသစ်မွမ်းမံများ ကြည့်ပါ</string>
     <string name="voicemail">အသံမေးလ်</string>
     <string name="websiteLabelsGroup">ဝက်ဘ်ဆိုက်</string>

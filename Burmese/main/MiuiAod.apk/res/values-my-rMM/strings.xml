@@ -5,7 +5,7 @@
     <string name="accessibility_battery_level_charging">ဘက်ထရီ အားသွင်းနေသည်၊ %d ရာခိုင်နှုန်း။</string>
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="add_custom_image">စိတ်ကြိုက်ပုံ</string>
-    <string name="add_from_album">ပြခန်းမှ ယူထည့်ရန်</string>
+    <string name="add_from_local">ပုံရွေးရန်</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="align_center_horizontally">အလျားလိုက် အလယ်ဗဟိုတွင် ချိန်ညှိထားသည်</string>
     <string name="align_center_vertically">ဆင့်ဆီ၍ အလယ်ဗဟိုတွင် ချိန်ညှိထားသည်</string>

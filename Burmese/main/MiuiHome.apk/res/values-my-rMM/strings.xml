@@ -61,6 +61,7 @@
     <string name="all_apps_setting_drawer_tips_desc">အက်ပ်အံဆွဲအား မူလမျက်နှာပြင်ပေါ်တွင် အပေါ်သို့ဆွဲတင်ခြင်းအားဖြင့် ဖွင့်နိုင်ပါသည်။ အက်ပ်အံဆွဲကိုအသုံးပြု၍ မူလမျက်နှာပြင်မုဒ်သို့ ပြောင်းခြင်းသည် အကြောင်းအရာစင်တာကို ရရှိစေနိုင်တော့မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ပြောင်းမလား။</string>
     <string name="all_apps_setting_drawer_tips_title">အက်ပ် အံဆွဲကို အသုံးပြုခြင်း</string>
     <string name="all_apps_setting_drawer_title">အက်ပ် အံဆွဲနှင့်</string>
+    <string name="all_apps_setting_jeejen_title">ပေါ့ပါးမုဒ်</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">မူရင်းပုံစံ</string>
     <string name="all_apps_setting_scroll_bar">အပေါ်-အောက် လိမ့်ရန်ဘား</string>
@@ -293,6 +294,7 @@
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
     <string name="exit_overview_because_task_stack_changed">နောက်ကွယ်တွင်ဖြစ်ပွားသော အပြောင်းအလဲများကြောင့် လတ်လောအရာများကို ပိတ်ထားသည်</string>
+    <string name="external_not_support_split_screen_j18">ပြင်ပမျက်နှာပြင်တွင် မျက်နှာပြင်ခွဲခြင်း ခွင့်မပြုပါ</string>
     <string name="failed_to_delete_temporary">ဖယ်ရှား၍ မရပါ</string>
     <string name="failed_to_drop">ရွှေ့၍မရပါ</string>
     <string name="failed_to_drop_widget_invalid">ဤဝစ်ဂျက်မှာ မမှန်ပါ</string>
@@ -433,6 +435,9 @@
     <string name="invalid_contact_shortcut">အဆက်အသွယ် မမှန်ပါ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေသည်…</string>
     <string name="is_system_wallpaper_message">စက်စနစ် အရင်းမြစ်များအား ဖျက်၍မရပါ</string>
+    <string name="jeejen_description">"UI အစိတ်အပိုင်းများ ပိုကြီးသည်။
+ဖုန်းခေါ်ရာတွင် သုံးရပိုလွယ်သည်။
+လုံခြုံရေးမြှင့်ထားသည်။"</string>
     <string name="key_shortcut_settings_title">အမြန်ခလုတ်များ</string>
     <string name="launcher_icon_management">ပင်မမျက်နှာပြင် ရှော့ကတ်ကို စီမံခန့်ခွဲရန်</string>
     <string name="launcher_not_exist">မှားယွင်းမှု တစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ပင်မမျက်နှာပြင်သို့ ပြန်သွား၍ ထပ်ကြိုးစားကြည့်ပါ။</string>
@@ -485,6 +490,7 @@
     <string name="menu_lock">သော့ခတ်မျက်နှာပြင် အပြင်အဆင်</string>
     <string name="menu_more">နောက်ထပ်</string>
     <string name="menu_no_word">စာသားမပြပါနှင့်</string>
+    <string name="menu_only_widget_no_word">ဝိဂျက်များမှ စာသားဖြုတ်ရန်</string>
     <string name="menu_picktheme">သင်းမ်တစ်ခု ရွေးပါ</string>
     <string name="menu_reset_scene">မူလပုံစံ အပြင်အဆင်သို့ ပြန်သတ်မှတ်ပါ</string>
     <string name="menu_search">ရှာဖွေမည်</string>
@@ -497,6 +503,7 @@
     <string name="midnight">ည</string>
     <string name="minus_one_screen">အက်ပ် မီးခံသေတ္တာ</string>
     <string name="miui_screen_config_title">ပင်မမျက်နှာပြင် ဆက်တင်</string>
+    <string name="miui_widget_menu_replace_text">ပြောင်းရန်</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
@@ -639,12 +646,16 @@
     <string name="notification_reset_title">အိုင်ကွန်များကို စီစဉ်ပြီးပါပြီ</string>
     <string name="one_key_call_title">ဖုန်းခေါ်ရန် တို့ပါ</string>
     <string name="online_wallpaper">အွန်လိုင်း</string>
+    <string name="open_pad_personal_assistant_settings">ပင်မမျက်နှာပြင် ဝိဂျက်များ</string>
     <string name="open_personal_assistant_dialog_btn_cancel">ပယ်ဖျက်မည်</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ပိတ်မည်</string>
     <string name="open_personal_assistant_dialog_desc">အက်(ပ်)ပေါင်းစုစနစ်ကို ပိတ်ပြီးနောက် အက်(ပ်)ပေါင်းစုဝိဂျက်များကို မြင်နိုင် သို့မဟုတ် သုံးနိုင်တော့မည်မဟုတ်ပါ။ ၎င်းတို့၏ အပ်ပဒိတ်ဗားရှင်းကိုလည်း သင်ရတော့မည်မဟုတ်ပါ။ မဖြစ်မနေပိတ်လိုသလား။</string>
     <string name="open_personal_assistant_dialog_desc_international">ဤအင်္ဂါရပ်အား ပိတ်လိုက်ပါက အက်ပ် မီးခံသေတ္တာကဒ်များ (စတော့ခ်စျေး၊ ရှော့ကဒ်များစသည်တို့) အား အသုံးပြု၍ ရမည် မဟုတ်တော့ပါ၊ ထို့အပြင် အက်ပ်ဒိတ်များအားလည်း ရရှိမည် မဟုတ်ပါ။</string>
     <string name="open_personal_assistant_dialog_title">အက်ပ် မီးခံသေတ္တာကို ပိတ်မည်</string>
     <string name="open_personal_assistant_settings">အက်(ပ်)ပေါင်းစုဆက်တင်များ</string>
+    <string name="open_personal_assistant_settings_off">ပိတ်ရန်</string>
+    <string name="open_personal_assistant_settings_on">ဖွင့်ရန်</string>
+    <string name="open_personal_assistant_settings_simplified">အက်(ပ်)ပေါင်းစု</string>
     <string name="open_personal_assistant_title">အက်ပ် မီးခံသေတ္တာ</string>
     <string name="ota_layout_adjustment_button_text">ရပါပြီ</string>
     <string name="ota_layout_adjustment_content">ဗားရှင်းအသစ်တွင် အတွင်းအပြင် ပင်မမျက်နှာပြင် အပြင်အဆင်များကို ဆင့်(ခ်)လုပ်ထားသည်။</string>

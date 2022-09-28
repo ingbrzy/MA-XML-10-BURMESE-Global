@@ -8,6 +8,7 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">၁</string>
     <string name="app_ver_name">၁.၀</string>
+    <string name="cast_image_des">လွှင့်တင်ခြင်း ကျူတိုရီယယ်</string>
     <string name="casting_tips">လွှင့်တင်နေသည်…</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="close">ပိတ်</string>
@@ -36,7 +37,7 @@
     <string name="dialog_connect_verify_perssion_fail">သင့်တီဗီတွင် လွှင့်တင်ခွင့်ပေး၍ မရပါ။ တစ်မိနစ်၊ နှစ်မိနစ်ခန့်စောင့်ပြီးမှ ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="dialog_connected">ချိတ်ထားပါပြီ</string>
     <string name="dialog_connecting">ချိတ်နေသည်…</string>
-    <string name="dialog_location_permission_message">အနီးအနားရှိ ပြင်ပ မော်နီတာများကို ရှာဖွေနိုင်စေရန် ဤအက်ပ်က သင့်တည်နေရာကို ရယူသုံးစွဲဖို့ လိုအပ်သည်။ ဖြစ်လာနိုင်သည့် ချွတ်ယွင်းမှုများရှောင်ရှားရန် ဤခွင့်ပြုချက်ပေးစဥ် \"အမြဲခွင့်ပြုရန်\"ကို ရွေးပါ။</string>
+    <string name="dialog_location_permission_message">အနီးအနားရှိပြင်ပမော်နီတာများကို ရှာနိုင်ရန် ဤအက်(ပ်)က သင့်တည်နေရာကို ဖတ်ရန်လိုသည်။ အမှားအယွင်းဖြစ်နိုင်ခြေကိုရှောင်ရန် ဤခွင့်ပြုချက်ပေးစဉ် \"အမြဲခွင့်ပြုရန်\" ကို ရွေးပါ။</string>
     <string name="dialog_location_permission_title">လိုအပ်သောခွင့်ပြုချက်များ</string>
     <string name="dialog_miplay_permission_message">ဤအင်္ဂါရပ်ကို ကောင်းစွာသုံးနိုင်ရန် Casting အား အသံသွင်းခွင့်၊ စက်တွင်းသိုလှောင်ခန်းမှ ဖိုင်များနှင့် သင့်တည်နေရာကို ဖတ်ခွင့်ပေးပါ။ ရှေ့ဆက်ရန်အတွက် \"ဆက်တင်များ\" ကို တို့ပြီး \"အက်(ပ်)ခွင့်ပြုချက်များ\" ကို ရွေးပါ။</string>
     <string name="dialog_miplay_permission_positive">ဆက်တင်များ</string>
@@ -60,7 +61,7 @@
     <string name="dialog_scanning_device">အနီးအနားရှိ စက်များကို ရှာနေသည်…</string>
     <string name="dialog_scanning_precondition">ကြိုးမဲ့ပြသခြင်းစနစ်ကိုသုံးနိုင်ရန် သင့်စက်တွင် Wi-Fi နှင့် ဘလူးတုဖွင့်ပါ။</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">အခြားစခရင်ပေါ်တွင် ပြသခြင်းကို အသုံးပြုရန် Wi-Fi၊ ဘလူးတုသ်နှင့် တည်နေရာ ဝန်ဆောင်မှုများကို ဖွင့်ပါ။ ယခု ဖွင့်မလား။</string>
+    <string name="dialog_scanning_precondition_new_global">လွှင့်တင်ခြင်း သုံးနိုင်ရန် Wi-Fi နှင့် တည်နေရာပြ ၀န်ဆောင်မှုများကို ဖွင့်ပါ။ ယခုဖွင့်လိုသလား။</string>
     <string name="dialog_select_tv">စက်ရွေးပါ (%1$d)</string>
     <string name="dialog_show_help">အကူအညီ</string>
     <string name="disconnect">လွှင့်တင်ခြင်းကို ရပ်ရန်</string>
@@ -134,6 +135,7 @@
     <string name="global_privacy_main">ဖုန်းမျက်နှာပြင်မှအရာများကို ပြင်ပမော်နီတာကြီးတွင် ထုတ်လွှင့်ပြသခြင်း။</string>
     <string name="global_privacy_negative">သဘောမတူပါ</string>
     <string name="global_privacy_positive">သဘောတူသည်</string>
+    <string name="global_privacy_screencast">ရိုက်ကူးစဉ် သို့မဟုတ် လွှင့်တင်စဉ် ဤအင်္ဂါရပ်ကိုပံ့ပိုးသော ဝန်ဆောင်မှုက သင့်မျက်နှာပြင်၌ပြထားသော သို့မဟုတ် သင့်စက်မှဖွင့်ထားသော အသံ၊ စကားဝှက်များ၊ ငွေပေးချေအချက်အလက်များ၊ ဓာတ်ပုံများနှင့် မက်ဆေ့(ချ်)များကဲ့သို့ အရေးကြီးအချက်အလက်များကို ဖမ်းယူနိုင်သည်။</string>
     <string name="global_privacy_tip">&lt;Data>သင့်အား အခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်နှင့် လွှင့်တင်ခြင်းကို အကောင်းဆုံးပြုလုပ်နိုင်ရန် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ ကောက်ယူရန် လိုအပ်သည်။ ကောက်ယူသောအချက်အလက်များကို ကျွန်ုပ်တို့ ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ ဤပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒအတွက်ပေးထားသော သဘောတူခွင့်ပြုမှုကို ဆက်တင်ထဲတွင် အချိန်မရွေး ပြန်ရုပ်သိမ်းနိုင်သည်။&lt;/Data></string>
     <string name="hang_up">မျက်နှာပြင်ပိတ်လျှက် လွှင့်တင်ရန်</string>
     <string name="hang_up_alert_dialog_content">စက်မျက်နှာပြင် ပိတ်ထားချိန်တွင်လည်း ဆက်လက်လွှင့်တင်ပါ။ ဤအင်္ဂါရပ်သုံးခြင်းဖြင့် ဓာတ်ခဲသက်သာသည်။ မျက်နှာပြင်ပြန်ဖွင့်ရန် ပါဝါခလုတ်ကို နှိပ်ပါ။</string>
@@ -335,6 +337,8 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="privacy_permission_nfc_desc">NFC သုံးပြီး စက်များကို တွဲချိတ်ရန်</string>
     <string name="privacy_permission_optional">ချန်လှပ်နိုင်သော ခွင့်ပြုချက်များ</string>
     <string name="privacy_permission_optional_desc">သင် အပိုအင်္ဂါရပ်များသုံးချိန်တွင် သုံးရန်</string>
+    <string name="privacy_permission_screencast">မျက်နှာပြင်ရှိအချက်အလက်များကို ဖတ်ခြင်း</string>
+    <string name="privacy_permission_screencast_desc">ရိုက်ကူးစဉ် သို့မဟုတ် လွှင့်တင်စဉ် ဤအင်္ဂါရပ်ကိုပံ့ပိုးသော ဝန်ဆောင်မှုက သင့်မျက်နှာပြင်၌ပြထားသော သို့မဟုတ် သင့်စက်မှဖွင့်ထားသော အသံ၊ စကားဝှက်များ၊ ငွေပေးချေအချက်အလက်များ၊ ဓာတ်ပုံများနှင့် မက်ဆေ့(ချ်)များကဲ့သို့ အရေးကြီးအချက်အလက်များကို ဖမ်းယူနိုင်သည်။</string>
     <string name="privacy_permission_wlan">Wi-Fi ဖွင့်ခြင်းနှင့် ပိတ်ခြင်း</string>
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">အနီးအနားတွင် ရနိုင်သော စက်များကို ရှာရန်</string>
@@ -347,7 +351,7 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="privacy_revoke_dialog_agree">သဘောတူပါသည်</string>
     <string name="privacy_revoke_dialog_message">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် HappyCast ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ HappyCast သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် HappyCast ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
     <string name="privacy_revoke_dialog_revoke">ရုပ်သိမ်းရန်</string>
-    <string name="privacy_revoke_dialog_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
+    <string name="privacy_revoke_dialog_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="privacy_setting_category_1">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="privacy_setting_category_2">HappyCast ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="privacy_setting_category_3">ခွင့်ပြုချက်များ</string>

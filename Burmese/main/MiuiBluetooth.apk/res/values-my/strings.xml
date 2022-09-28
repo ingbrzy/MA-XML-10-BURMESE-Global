@@ -417,6 +417,7 @@
     <string name="mtrl_picker_a11y_next_month">နောက်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_a11y_prev_month">ယခင်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_announce_current_selection">လက်ရှိ ရွေးချယ်မှု- %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">ရက်စွဲ ရွေးပါ</string>
     <string name="mtrl_picker_date_header_unselected">ရွေးထားသည့် ရက်စွဲ</string>

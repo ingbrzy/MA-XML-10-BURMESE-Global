@@ -62,6 +62,19 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_web_permissions">
+        <item>ကန့်သတ်ရန်</item>
+        <item>မေးရန်</item>
+        <item>ခွင့်ပြုရန်</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>ကန့်သတ်ရန်</item>
+        <item>မေးရန်</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>ကန့်သတ်ရန်</item>
+        <item>ခွင့်ပြုရန်</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>ရှာရန်</item>
         <item>သတင်းများ</item>

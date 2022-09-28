@@ -46,7 +46,7 @@
         <item quantity="other">%1$d ရက်အကြာက</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$dခု ရွေးထားသည်</item>
+        <item quantity="other">%1$d ခု ရွေးထားသည်</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">လုပ်ငန်းစဥ် %d ခုကို ဖျက်မလား?</item>
@@ -81,8 +81,14 @@
     <plurals name="in_num_minutes">
         <item quantity="other">%d မိနစ် အကြာမှာ</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">%d ကြိမ် ကာကွယ်ထားသည်</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">အိုင်တမ် %d ခုအား ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</item>
+        <item quantity="other">%1$s ခုကို အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">ယခုလေးတင်</item>
@@ -106,16 +112,22 @@
         <item quantity="other">လိုက်ခ် %s ခု</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d ကို ရွေးထားပြီးပြီ</item>
+        <item quantity="other">" %1$d ကို ရွေးထားပြီးပြီ"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+    </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">%s ကြိမ် ကာကွယ်ထားသည်</item>
     </plurals>
     <plurals name="players">
         <item quantity="other">ကစားသူ %d ဦး</item>
     </plurals>
     <plurals name="pref_adblock_counts">
         <item quantity="other">ကြော်ငြာ %d ခု ပိတ်ဆို့ထားသည်</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">ရလဒ် %1$d ခု တွေ့သည်</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">ရှာဖွေရန် တောင်းခံမှု %s ခု</item>
@@ -132,11 +144,17 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">လူကြိုက်များသော သီချင်း %dပုဒ်</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">တက်(ဘ်) %d ခု</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">အိုင်တမ် %1$d ခု ရွေးထားသည်</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">သင်အနှစ်သက်ဆုံး ဗီဒီယို %d ခုကို မကြည့်ဘဲထားရှိခဲ့သည်မှာ အချိန်အတော်ကြာခဲ့ပါပြီ။</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">ကြည့်သူ %s ဦး</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">ဗီဒီယိုအသစ် %1$d ခုအား ကြည့်ပါ</item>
@@ -149,5 +167,35 @@
     </plurals>
     <plurals name="vote_all_people">
         <item quantity="other">%d ဦး မဲပေးထားသည်</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">ကြော်ငြာ %d ခု ဘလော့လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">%d ကြိမ် ခွင့်ပြုထားသည်</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">%d ကြိမ် ကန့်သတ်ထားသည်</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">%d ကြိမ် တားထားသည်</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">ကြော်ငြာ %s ခု ဘလော့လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">%s ကြိမ် ခွင့်ပြုထားသည်</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">%s ကြိမ် ကန့်သတ်ထားသည်</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">%s ကြိမ် တားထားသည်</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s ရက်</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s ကြိမ်</item>
     </plurals>
 </resources>
