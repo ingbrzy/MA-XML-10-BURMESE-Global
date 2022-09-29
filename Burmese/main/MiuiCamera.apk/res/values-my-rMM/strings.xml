@@ -637,7 +637,6 @@
     <string name="edit_smile">အပြုံး</string>
     <string name="edit_solid">ပုံပန်း</string>
     <string name="emoticon">စတစ်ကာပက်ခ်</string>
-    <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="error_fail_to_start_audio_capture">အသံဖြင့် ဓာတ်ပုံ ရိုက်၍ မရပါ</string>
@@ -1264,7 +1263,6 @@
     <string name="pref_camera_auxiliary_close">ပိတ်ရန်</string>
     <string name="pref_camera_auxiliary_exposure_feedback">အလင်းရောင် အတည်ပြုခြင်း</string>
     <string name="pref_camera_auxiliary_focus_peak">ဆုံချက် အထွတ်အထိပ်</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>

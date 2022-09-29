@@ -115,8 +115,6 @@
     <string name="feedback_custom_hint">သင်ကြုံတွေ့ခဲ့ရသော ပြဿနာများအကြောင်းကို ဤနေရာတွင် ဖော်ပြပေးပါ။ အကြံပြုချက်များ ပေးအပ်နေခြင်းဖြစ်ပါက အသေးစိတ်အချက်အလက်များအား ကျွုန်ုပ်တို့ပိုမိုနှစ်သက်ပါသည်။</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
     <string name="find_device_dspt_provision">သင့်စက် ပျောက်သွားပါက စက်ရှာဖွေရန်၊ သော့ခတ်ရန် သို့မဟုတ် ပြန်သတ်မှတ်ရန် &lt;font color=#0097FF>%s&lt;/font>သို့ သွားပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင် အချိန်မရွေး ဖွင့်/ပိတ် လုပ်နိုင်ပါသည်။</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">စက်ရှာဖွေစနစ်ကို ဖွင့်ခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ <u><a href="app://com.miui.cloudservice.gdpr.license">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</a></u> ကို သဘောတူရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်ကို ပိတ်ပါ။</string>
     <string name="find_device_operation_failure_rpc">RPC အမှားကြောင့် လုပ်ငန်းစဉ်လုပ်ဆောင်၍မရပါ။</string>
     <string name="find_device_permissions_footer">ရွေးထားသောခွင့်ပြုချက်များ ပေးရန် \"ခွင့်ပြုရန်\" ကို တို့ပါ။</string>
