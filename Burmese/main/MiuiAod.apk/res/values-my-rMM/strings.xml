@@ -238,6 +238,8 @@ EE"</string>
     <string name="select_notification_animation_style">အထူးပြုလုပ်ချက်ရွေးရန်</string>
     <string name="select_notification_notify_style">အသိပေးချက်အထူးပြုလုပ်ချက်ရွေးပါ</string>
     <string name="send">ပို့ပါ</string>
+    <string name="settings_view_btn_check_off">ပိတ်ရန်</string>
+    <string name="settings_view_btn_check_on">ဖွင့်ရန်</string>
     <string name="share">မျှဝေရန်</string>
     <string name="share_to_community">Xiaomi Community သို့ မျှဝေရန်</string>
     <string name="show_battery">ဓာတ်ခဲအခြေအနေကို ပြပါ</string>

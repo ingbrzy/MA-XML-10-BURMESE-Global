@@ -16,6 +16,7 @@
     <string name="air_space_exit">နေရာမှ ထွက်ပါ</string>
     <string name="air_space_setting">နေရာ ဆက်တင်များ</string>
     <string name="airspace_users_full">အလုပ်နေရာပိုမို၍ မဖန်တီးနိုင်ပါ</string>
+    <string name="alwaysUsePrompt">ကျွန်ုပ်၏ ရွေးချယ်မှုကို မှတ်ထားပါ</string>
     <string name="am">နံနက်</string>
     <string name="appData">ထည့်သွင်းထားသော အက်ပ်များ</string>
     <string name="app_name">လုံခြုံရေးအဓိက အစိတ်အပိုင်း</string>
@@ -235,8 +236,7 @@
     <string name="green_guard_title3">အက်ပ်များကို စီမံပါ</string>
     <string name="greenguard_child_des">သင့်မိတ်ဆွေများနှင့် မိသားစု၏ စက်ပစ္စည်းများကို စီမံခန့်ခွဲပါ</string>
     <string name="greenguard_child_des_title">စက်ပစ္စည်းကိုထည့်ရန် QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
-    <string name="greenguard_functional_description">"စက်ပစ္စည်းများကို အဝေးမှစီမံခန့်ခွဲပြီး၊ တည်နေရာကြည့်ပါ
-ထည့်သွင်းထားသော အက်(ပ်)များကို ထိန်းချုပ်ပြီး အသုံးပြုခြင်းကို ကန့်သတ်ပါ"</string>
+    <string name="greenguard_functional_description">စက်ပစ္စည်းများကို အဝေးမှစီမံခန့်ခွဲပြီး၊ တည်နေရာအချက်အလက်ကြည့်ကာ ထည့်သွင်းထားသော အက်(ပ်)များကို ထိန်းချုပ်ပါ</string>
     <string name="greenguard_install_cancle">မလုပ်ပါ</string>
     <string name="greenguard_install_confirm">ထည့်သွင်းမည်</string>
     <string name="greenguard_install_message">Family Guard သည် စနစ်အက်ပ်တစ်ခု ဖြစ်ပါသည်။ ယင်းကို ထည့်သွင်းရန်အတွက် အင်တာနက်မလိုအပ်ပါ။</string>
@@ -656,6 +656,7 @@
     <string name="xspace_guide_description">"အကောင့်တိုင်း
 အက်(ပ်)ကိုယ်စီ ရပါမည်"</string>
     <string name="xspace_guide_title">နှစ်ခုတွဲအက်(ပ်)များ စမ်းသုံးရန်</string>
+    <string name="xspace_head">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_header">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>နှစ်မျိုးတွဲအပ်(ပ်)ကို အောင်မြင်စွာလုပ်ပြီးပါပြီ။&lt;/font>&lt;font color=#0D84FF>ယခုဖွင့်ရန်&lt;/font>။</string>
@@ -671,6 +672,7 @@
     <string name="xspace_notification_error">နှစ်ခုတွဲ WeChat သို့အကောင့်ဝင်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်မည်</string>
+    <string name="xspace_resolver_activity_title">အက်ပ်ရွေးပါ</string>
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
     <string name="xspace_settins">သတ်မှတ်ရန်</string>
     <string name="xspace_start">ပြုလုပ်ရန်</string>

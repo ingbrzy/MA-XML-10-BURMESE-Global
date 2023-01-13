@@ -27,6 +27,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">ယနေ့အဖို့ %1$s အတွက် %2$d ကျန်သည်</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
@@ -57,8 +60,17 @@
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">သင့်စက်အား ပြတ်တောက်မှုတစ်စုံတစ်ရာမရှိဘဲ %d မိနစ်ကြာ အသုံးပြုထားပြီးပါပြီ</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">%d မိနစ် နားပါ</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">ဤစက်ကို သုံးနေသည်မှာ %d မိနစ် ရှိပါပြီ</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">နားချိန် %d ခု ထိ ထည့်နိုင်သည်</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">ယနေ့ မျက်နှာပြင်ဖွင့်ထားချိန်သည် သင်၏ %d ရက်တာ ပျမ်းမျှနှုန်းနှင့် တူပါသည်</item>

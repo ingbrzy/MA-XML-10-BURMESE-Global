@@ -130,6 +130,8 @@
     <string name="audio_ad_pass">ကြော်ငြာကို ကျော်ရန်</string>
     <string name="audio_picker_title">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
     <string name="auth_fail_warning">ခွင့်ပြုချိန် ပြည့်သွားပါပြီ။ အကောင့် ပြန်ဝင်ပေးပါ။</string>
+    <string name="auto_play_switch">အလိုအလျောက်ဖွင့် ဗီဒီယိုများ</string>
+    <string name="auto_play_toast">အလိုအလျောက်ဖွင့်စနစ် ဖွင့်ထားသည်။ ၎င်းကို ဆက်တင်တွင် ပိတ်နိုင်သည်။</string>
     <string name="auto_recommend">အလိုအလျောက် (အကြံပြုသည်)</string>
     <string name="auto_sound_quality">အလိုအလျောက်</string>
     <string name="auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
@@ -142,6 +144,7 @@
     <string name="back">နောက်သို့</string>
     <string name="back_confirm">အက်ပ်အား နောက်ခံသို့တွင်းပို့ရန် ထပ်မံထိနှိပ်ပါ</string>
     <string name="best_experience">အကောင်းဆုံးအတွေ့အကြုံ</string>
+    <string name="billion_char">%s ဘီလီယံ</string>
     <string name="bluetooth_device">ဘလူးတုသ်အသံစက်</string>
     <string name="btn_text_edit">တည်းဖြတ်ရန်</string>
     <string name="btn_text_view_all">အားလုံး ကြည့်ရန်</string>
@@ -189,7 +192,7 @@
     <string name="current_lyric">လက်ရှိ သီချင်းစာသား</string>
     <string name="current_version">လက်ရှိဗားရှင်း</string>
     <string name="daily_recommendation">နေ့စဉ်အရော</string>
-    <string name="dark_mode">အရောင်ရင့်မုဒ်</string>
+    <string name="dark_mode">အရောင်မှိန် မုဒ်</string>
     <string name="data_usage_warning">ဒေတာအသုံးပြုမှု</string>
     <string name="data_usage_warning_summary">မိုဘိုင်းလ်ဒေတာ ဆက်သွယ်ခြင်းကို အသုံးပြုပြီး အဆင့်မြင့်သီချင်းများကို တိုက်ရိုက်နားထောင်ပါက ဒေတာခများကို ပိုကုန်စေနိုင်ပါသည်။</string>
     <string name="data_use_desc">တရားဝင် စာရွက်စာတမ်းများ</string>
@@ -237,11 +240,11 @@ ID - %s
     <string name="dialog_my_playlist_online_changed_merge">ဆက်ထားမည်</string>
     <string name="dialog_my_playlist_online_changed_message">ဤသီချင်းစာရင်း ပြောင်းသွားပုံ ပေါ်ပါသည်။ ဗားရှင်းအသစ်တစ်ခုဖြင့် အစားထိုးနိုင်ပါသည် သို့မဟုတ် အဟောင်းကို ဆက်လက်သိမ်းထားနိုင်ပါသည်။</string>
     <string name="dialog_my_playlist_online_changed_replace">အစားထိုးမည်</string>
-    <string name="dialog_my_playlist_set_to_public">ဤသီချင်းစာရင်းကို Mi တေးဂီတနှင့် Hungama တေးဂီတ သုံးသူ အားလုံးနှင့် မျှဝေရန်</string>
+    <string name="dialog_my_playlist_set_to_public">ဤသီချင်းစာရင်းကို Mi တေးဂီတနှင့် hungama တေးဂီတ သုံးသူ အားလုံးနှင့် မျှဝေရန်</string>
     <string name="dialog_queued_body">ဤဖိုင်အား အနာဂတ်ဒေါင်းလုဒ်အတွက် တန်းစီထားပါသည်</string>
     <string name="dialog_renew_failure">တောင်းပန်ပါသည်၊ ယခု မရသေးပါ</string>
-    <string name="dialog_renew_free_end">အခမဲ့ စမ်းသုံးချိန် ကုန်ဆုံးပါပြီ။ Hungama PRO ဆက်သုံးရန် ပိုက်ဆံဖြည့်မလား?</string>
-    <string name="dialog_renew_positive_text">ပရိုဖြစ်ရန် သက်တမ်းတိုးပါမည်</string>
+    <string name="dialog_renew_free_end">အခမဲ့စမ်းသုံးချိန်ကုန်ပါပြီ။ hungama ရွှေကို စာရင်းသွင်းရယူလိုသလား။</string>
+    <string name="dialog_renew_positive_text">ကျွန်ုပ်၏ ရွှေအဖွဲ့ဝင်ခွင့်ကို သက်တမ်းတိုးရန်။</string>
     <string name="dialog_renew_success">အတည်ပြုခြင်းအတွက် ကျေးဇူးတင်ပါသည်</string>
     <string name="dialog_score_btn_good">အဆင့်သတ်မှတ်ရန်</string>
     <string name="dialog_score_msg_score_explorer">Mi တေးဂီတ ကို ကြိုက်ပါသလား။</string>
@@ -310,7 +313,9 @@ ID - %s
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_queued">တန်းစီ</string>
@@ -354,7 +359,7 @@ ID - %s
     <string name="empty_page_no_album">အယ်လ်ဘမ်မရှိ။</string>
     <string name="empty_page_no_artist">အနုပညာရှင်မရှိ</string>
     <string name="enabled">ဖွင့်ထား</string>
-    <string name="enjoy_hungama_pro">Hungama PRO အား ခံစားကြည့်ပါ</string>
+    <string name="enjoy_hungama_pro">hungama ရွှေကို ခံစားပါ</string>
     <string name="enroll_in">စာရင်းသွင်းရန်</string>
     <string name="enter_garbage_clean">အတွင်းသိုလှောင်မှုအား ရှင်းလင်းပါ</string>
     <string name="entertainment">ဖျော်ဖြေရေး</string>
@@ -515,17 +520,17 @@ ID - %s
     <string name="home_tab_recommend">အွန်လိုင်း</string>
     <string name="home_tab_search">ရှာရန်</string>
     <string name="hot_icon_in_fast_indexer">H</string>
-    <string name="hungama_batch_download_alert_summary">ပရိုအဖွဲ့ဝင်သာ သီချင်းအများအပြား ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ယခု ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
+    <string name="hungama_batch_download_alert_summary">ရွှေအဖွဲ့ဝင်များသာ သီချင်းအမျိုးမျိုး ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ရွှေအဖွဲ့ဝင်ခွင့်ကို ယခု ရယူလိုသလား။</string>
     <string name="hungama_batch_download_alert_summary_toast">သီချင်းစာရင်းတစ်ခုလုံးကို ဒေါင်းလုဒ်လုပ်နိုင်ရန် စာရင်းသွင်းဝယ်ယူပါ။</string>
-    <string name="hungama_download_subscription_toast">ဤသီချင်းကို ဒေါင်းလုဒ်လုပ်ရန် Hungama တေးဂီတကို စာရင်းသွင်းရယူပါ</string>
-    <string name="hungama_free_download_out_summary">သီချင်းများအား အခမဲ့ ဒေါင်းလုဒ်လုပ်၍ မရတော့ပါ။ သီချင်းများအား အကန့်အသတ်မရှိ ဒေါင်းလုဒ်လုပ်နိုင်ရန် ပရိုအဖွဲ့ဝင် ဝယ်ယူမလား?</string>
+    <string name="hungama_download_subscription_toast">ဤသီချင်းကို ဒေါင်းလုဒ်လုပ်ရန် hungama တေးဂီတကို စာရင်းသွင်းရယူပါ</string>
+    <string name="hungama_free_download_out_summary">သီချင်းများ အခမဲ့ ဒေါင်းလုဒ်လုပ်မရတော့ပါ။ သီချင်းများ အကန့်အသတ်မဲ့ ဒေါင်းလုဒ်လုပ်ရန် ရွှေအဖွဲ့ဝင်ခွင့် ရယူလိုသလား။</string>
     <string name="hungama_free_download_out_summary_toast">သင်သည် သီချင်း အပုဒ်ရေ %d ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။ ထပ်မံဒေါင်းလုဒ်လုပ်နိုင်ရန် စာရင်းသွင်းဝယ်ယူပါ။</string>
-    <string name="hungama_privacy_desc">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (ရွေးနိုင်သော)</string>
-    <string name="hungama_privacy_tips_content">အွန်လိုင်း အကြောင်းအရာအား ရယူလိုပါက <a href="/link/click">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</a>အား သဘောတူရပါမည်။</string>
-    <string name="hungama_privacy_tips_title">Hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="hungama_subscribe_message">သီချင်းများကို အရည်အသွေးမြင့်မြင့် ဒေါင်းလုဒ်လုပ်ရန် ပရိုအဖွဲ့ဝင် ဝယ်ယူပါ။</string>
-    <string name="hungama_subscribe_positive_button">ပရိုအဖွဲ့ဝင် ဝယ်ယူပါ</string>
-    <string name="hungama_subscribe_title">ပရို အဖွဲ့ဝင်</string>
+    <string name="hungama_privacy_desc">hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (ရွေးနိုင်သော)</string>
+    <string name="hungama_privacy_tips_content">အွန်လိုင်း အကြောင်းအရာအား ရယူလိုပါက <a href="/link/click">hungama ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</a>အား သဘောတူရပါမည်။</string>
+    <string name="hungama_privacy_tips_title">hungama ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="hungama_subscribe_message">သီချင်းများကို အရည်အသွေးမြင့်မြင့် ဒေါင်းလုဒ်လုပ်ရန် ရွှေအဖွဲ့ဝင်ခွင့် ဝယ်ပါ။</string>
+    <string name="hungama_subscribe_positive_button">ရွှေအဖွဲ့ဝင်ခွင့် ဝယ်ရန်</string>
+    <string name="hungama_subscribe_title">ရွှေအဖွဲ့ဝင်ခွင့်</string>
     <string name="i_know">အိုကေ</string>
     <string name="imported">သွင်းထားသည်</string>
     <string name="impunity_declaration_content">အသုံးမပြုမီ ကျွန်ုပ်တို့၏ &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=my_MM\">အသုံးပြုသူသဘောတူညီမှု &lt;/a> နှင့် &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=my_MM\">ကိုယ်ရေးသီးသန့်ပေါ်လစီ&lt;/a>ကို ဦးစွာဖတ်ရှု၍ သဘောတူရမည်။</string>
@@ -656,6 +661,7 @@ ID - %s
     <string name="middle_sound_quality">ပုံမှန်</string>
     <string name="midnight">ည</string>
     <string name="milink_unavaliable_please_update">Mi Link မရရှိနိုင်ပါ။ MIUIအား အသစ်မွမ်းမံပါ။</string>
+    <string name="million_char">%s သန်း</string>
     <string name="millions_songs">သီချင်း သန်းပေါင်းများစွာ</string>
     <string name="missing_title">&lt;မသိသော></string>
     <string name="miuishare_account_login_ok">ဆိုင်းအင်ဝင်ခြင်း</string>
@@ -842,7 +848,7 @@ ID - %s
     <string name="online_switch_confirm_title">အွန်လိုင်းအကြောင်းအရာဆိုင်ရာ ဝန်ဆောင်မှုများကို ပိတ်ထားခြင်းကြောင့် အွန်လိုင်းအင်္ဂါရပ်များအားလုံးကို ရရှိနိုင်မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ပိတ်ထားမည်။</string>
     <string name="online_switch_message">အွန်လိုင်းဝန်ဆောင်မှုများကို ပိတ်လိုက်ခြင်းဖြင့် VIP ဝန်ဆောင်မှုနှင့် အကြံပြုချက်များကိုလည်း သက်ရောက်မှုရှိနိုင်ပါသည်။ မည်သို့ပင်မဆို ပိတ်မည်လား?</string>
     <string name="online_switch_setting">အွန်လိုင်းအကြောင်းအရာဆက်တင်များ</string>
-    <string name="only_pro_can_choose_hd_sound_quality">HD အသံများကို PRO အဖွဲ့ဝင်များသာ ရရှိနိုင်သည်</string>
+    <string name="only_pro_can_choose_hd_sound_quality">HD အသံများကို ရွှေအဖွဲ့ဝင်များအတွက်သာ ရရှိနိုင်သည်</string>
     <string name="open_online_service">ဤလုပ်ဆောင်ချက်ကို အသုံးပြုရန် အွန်လိုင်းဝန်ဆောင်မှုကို အသုံးပြုရန် လိုအပ်ပါသည်။ ယခုဖွင့်မည်လား?</string>
     <string name="open_service">ဖွင့်</string>
     <string name="open_settings">ဆက်တင်</string>
@@ -949,7 +955,7 @@ ID - %s
     <string name="paused_waiting_for_network">ချိတ်ဆက်ရန် စောင့်ဆိုင်းနေ</string>
     <string name="paused_waiting_to_retry">ပြန်ကြိုးစားရန် စောင့်နေ</string>
     <string name="pay_now">လက်ရှိဝန်ဆောင်မှုများ</string>
-    <string name="payment_success_message">ကျေးဇူးတင်ပါတယ်။ သင်၏ပေးချေမှု ပြီးမြောက်ပါပြီ။ ပရိုဝန်ဆောင်မှုများကို ခံစားနိုင်ပါပြီ။</string>
+    <string name="payment_success_message">ကျေးဇူးတင်ပါသည်။ ငွေပေးချေမှုကို အောင်မြင်စွာ ဆောင်ရွက်ပြီးပါပြီ။ ရွှေဝန်ဆောင်မှုကို ခံစားပါ။</string>
     <string name="payment_success_title">ဝမ်းသာပါတယ်။</string>
     <string name="pending_apk">ဆိုင်းငံ့ထားသည်…</string>
     <string name="permission_declaration_message">တေးဂီတအား ပုံမှန်အသုံးပြုနိုင်ရန် လုံခြုံရေး>ခွင့်ပြုချက်များ>ခွင့်ပြုချက်များ>သိုလှောင်မှု>ထဲတွင် ဂီတအား သိုလှောင်ခွင့်ပြုပါ။</string>
@@ -988,6 +994,7 @@ ID - %s
     <string name="please_select_song">သီချင်းတစ်ပုဒ်ဦးစွာရွ​ေးပါ</string>
     <string name="pm">ညနေ</string>
     <string name="power_save_mode_dialog_msg">ဘက်ထရီချွေတာသူ ဖွင့်ထားသည်။ ဒေါင်းလုဒ်စလုပ်မည်လား?</string>
+    <string name="pre_watched">ကြည့်ထားသည်</string>
     <string name="preset_music_playlist">Mi ဂီတ ဖွင့်ရန်စာရင်း</string>
     <string name="priority_storage">ပြင်ပ SD ကဒ်အသုံးပြု</string>
     <string name="priority_storage_summary">ဖြစ်နိုင်ပါက ပြင်ပ SD ကဒ်သို့ အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -997,6 +1004,7 @@ ID - %s
     <string name="privacy_authorize_revoking">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
     <string name="privacy_request_desc">"&lt;Data>သင့်အတွက် အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ ထောက်ပံ့ပေးရန်လိုအပ်သည့် ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား Mi တေးဂီတက စုဆောင်းရပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော ထိုအချက်အလက်များကို ကျွန်ုပ်တို့စီမံကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် ပိုမိုလေ့လာနိုင်ပါသည်။ Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။
 Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ဖတ်ရှုလက်ခံပေးပါ။
 ဖော်ပြပါ ဝန်ဆောင်မှုများ အသုံးပြုရန် သင်လက်မခံပါက ဤအက်ပ်၏ အင်္ဂါရပ်အချို့ကို သင်အသုံးပြုနိုင်မည် မဟုတ်သော်လည်း ၎င်း၏ အခြေခံလုပ်ဆောင်ချက်များအား ဆက်လက်ရရှိနိုင်ပါသေးသည်။&lt;/Data>"</string>
@@ -1005,7 +1013,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
 - အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ"</string>
     <string name="privacy_request_subtitle_offline">Mi တေးဂီတမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)က အသံဖိုင်များအတွက် စက်တွင်းဖွင့်စနစ်ကို ပံ့ပိုးသည်။</string>
     <string name="privacy_request_title">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
-    <string name="pro_member">ပရို အဖွဲ့ဝင်</string>
+    <string name="pro_member">ရွှေအဖွဲ့ဝင်</string>
     <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="project_device">Mi ဖုန်း</string>
     <string name="prompt_grant_write_settings_permission">စနစ် ဆက်တင်အား ပြောင်းလဲရန် ခွင့်ပြုပါ</string>
@@ -1016,7 +1024,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="pulluprefreshrecyclerview_loading_running">ရယူနေ…</string>
     <string name="qq_login_btn_content_description">QQ နှင့် အကောင့်ဝင်ရန်</string>
     <string name="queue_is_empty">နားထောင်ရန်စာရင်းတွင် သီချင်း မရှိပါ။</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>ကျွန်ုပ်သည် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">&lt;Data>ကျွန်ုပ်သည် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>ကျွန်ုပ်သည် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="read_and_agree_mi_protocol">&lt;Data>ကျွန်ုပ်သည် Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>&lt;/font> နှင့် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>&lt;/font> တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="read_and_agree_protocol">ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ အသုံးပြုသူ သဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
@@ -1026,6 +1034,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="recommend_songs_when_playing_audio_files">သီချင်းနားထောင်စဉ် သီချင်းအကြံပြုချက်များ ရယူရန်</string>
     <string name="recommended_file_size_download_in_mobile">ဤဖိုင်အား အသုံးပြုရန် မိုဘိုင်းဒေတာထဲမှ %s အား အသုံးပြုမည်လား?</string>
     <string name="recommended_no_file_size_download_in_mobile">ဤဖိုင်အား ဒေါင်းလုတ်လုပ်ရန် မိုဘိုင်းဒေတာချိတ်ဆက်မှုအား အသုံးပြုမည်လား?</string>
+    <string name="refresh">ရီဖရက်(ရှ်)လုပ်ရန်</string>
     <string name="register_by_local_phone_long_text">အကောင့်လုပ်ရန်</string>
     <string name="register_by_local_phone_short_text">အကောင့်လုပ်ရန်</string>
     <string name="remove">ဖယ်ရှားပါ</string>
@@ -1054,7 +1063,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="retry_after_network_available">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။ သင်၏ ချိတ်ဆက်မှုကို စစ်ဆေးပြီး၊ ထပ်မံ ကြိုးစားပါ။</string>
     <string name="retry_download">ထပ်ကြိုးစား</string>
-    <string name="revoke_upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို Hungama သို့ ဆင့်(ခ်)လုပ်မည်မဟုတ်ပါ</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို hungama သို့ ဆင့်(ခ်)လုပ်မည်မဟုတ်ပါ</string>
     <string name="ringtone_editing">ဖုန်းမြည်သံ တည်းဖြတ်မှု</string>
     <string name="ringtone_not_support">ဤသီချင်းပုံစံကို မပံ့ပိုးထားပါ</string>
     <string name="ringtone_selected">ရွေးထားသော</string>
@@ -1082,6 +1091,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="search_in_youtube">YouTube ပေါ်တွင်ရှာမည်</string>
     <string name="search_instant_online_music">အွန်လိုင်း</string>
     <string name="search_more">ပိုမို၍</string>
+    <string name="search_recommend">အကြံပြုထားသည်</string>
     <string name="search_result_local_songs">စက်တွင်း</string>
     <string name="search_result_online_songs">အွန်လိုင်း</string>
     <string name="search_songs">သီးချင်းများ ရှာပါ</string>
@@ -1144,7 +1154,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="sleep_mode_canceled">အိပ်ခြင်းပုံစံ ပိတ်ထားပါသည်</string>
     <string name="sleep_mode_summary">အချိန်တခုရောက်လျှင်ပိတ်ပါ</string>
     <string name="sleep_mode_title">ပိတ်ရန်အချိန်ကိုက်စက်</string>
-    <string name="sliding_pro_center">ပရို စင်တာ</string>
+    <string name="sliding_pro_center">hungama ရွှေ</string>
     <string name="sns_access_token_expired_warning">ခွင့်ပြုချိန် ကုန်သွားပါပြီ။ ဤအကောင့်နှင့် ပြန်လည်ချိတ်ဆက်ရန် နောက်တစ်ကြိမ် အကောင့်ဝင်ပါ။</string>
     <string name="sns_bind_limit">အကြိမ်များစွာ ကြိုးစားထားသည်။ အကောင့်ဝင်ရန် အခြားနားလမ်းများဖြင့် ကြိုးစားပေးပါ။</string>
     <string name="sns_sign_in">အကောင့်ဝင်ရန် အခြားနည်းလမ်းများ</string>
@@ -1258,6 +1268,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="the_united_nations_day">ကုလသမဂ္ဂနေ့</string>
     <string name="the_valentines_day">ချစ်သူများနေ့</string>
     <string name="the_water_lantern_festival">မီးမျှောပွဲတော်</string>
+    <string name="thousand_char">%s ထောင်</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>
@@ -1267,6 +1278,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="time_picker_label_hour">နာရီ</string>
     <string name="time_picker_label_minute">မိနစ်</string>
     <string name="time_to_upgrade">အပ်ဒိတ် လုပ်နိုင်ပါပြီ</string>
+    <string name="tips_click_here_to_continue">ပြန်ဖွင့်ရန် တို့ပါ</string>
     <string name="title_online_fm_recommend">အထူးအသားပေး FM</string>
     <string name="title_online_recommend">နှစ်သက်ရာ သီချင်းစာရင်း</string>
     <string name="title_search_history">ရှာဖွေမှုသမိုင်း</string>
@@ -1279,8 +1291,8 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="toast_download_in_process">ဒေါင်းလုဒ်လုပ်ဆောင်နေ</string>
     <string name="toast_favorite_has_been_added">သီချင်းစာရင်းသို့ အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="toast_follow_success">အောင်မြင်စွာ ဖော်လိုလုပ်ပြီးပါပြီ</string>
-    <string name="toast_hungama_vip_song">ဤသီချင်းကို ပရိုအဖွဲ့ဝင်များအတွက်သာ ရရှိနိုင်ပါသည်။ ဤသီချင်းကို ဒေါင်းလုဒ်လုပ်ရန် စာရင်းသွင်းမှု ရယူပါ။</string>
-    <string name="toast_is_pro">သင်သည် ပရိုအဖွဲ့ဝင်ဖြစ်ပါသည်။</string>
+    <string name="toast_hungama_vip_song">ဤသီချင်းကို ရွှေအဖွဲ့ဝင်များအတွက်သာ ရရှိနိုင်သည်။ ဤသီချင်းကို ဒေါင်းလုဒ်လုပ်ရန် စာရင်းသွင်းမှု ရယူပါ။</string>
+    <string name="toast_is_pro">သင်သည် ရွှေအဖွဲ့ဝင် ဖြစ်ပြီးသားဖြစ်သည်</string>
     <string name="toast_my_playlist_illegal_name">ဤသီချင်းစာရင်း ခေါင်းစဥ်သည် တရားမဝင်ပါ။ အမည်ပြန်ပေးပါ။</string>
     <string name="toast_my_playlist_set_to_private">ဤသီချင်းစာရင်းအား ကိုယ်ပိုင်သီးသန့် ပြုလုပ်ပြီးပါပြီ။ ယင်းအား အခြားသူများ မကြည့်နိုင်ပါ။</string>
     <string name="toast_my_playlist_set_to_public">ဤသီချင်းစာရင်းအား အများပိုင်ပြုလုပ်ပြီးပါပြီ။ ယင်းအား အခြားသူများ ကြည့်နိုင်ပါသည်။</string>
@@ -1289,7 +1301,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="toast_new_playlist_name_too_long">သီချင်းစာရင်း အမည် ရှည်လွန်းနေသည်</string>
     <string name="toast_normal_songs_for_download">ဒေါင်းလုဒ် အရည်အသွေးအား ပုံမှန်သို့ သတ်မှတ်လိုက်သည်</string>
     <string name="toast_normal_songs_for_stream">နားဆင် အရည်အသွေးအား ပုံမှန်သို့ သတ်မှတ်လိုက်သည်</string>
-    <string name="toast_not_pro">ဤအင်္ဂါရပ်ကို ပရိုအဖွဲ့ဝင်များသာ ရရှိနိုင်သည်။</string>
+    <string name="toast_not_pro">ဤအင်္ဂါရပ်ကို ရွှေအဖွဲ့ဝင်များအတွက်သာ ရရှိနိုင်သည်</string>
     <string name="toast_playlist_has_been_added">တန်းစီစာရင်းသို့ အောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="toast_playlist_has_been_private">ဤသီချင်းစာရင်းသည် တစ်ကိုယ်ရေသုံးဖြစ်သည်</string>
     <string name="toast_playlist_has_been_public">ဤသီချင်းစာရင်းသည် အများသုံးဖြစ်သည်</string>
@@ -1325,8 +1337,8 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="upload_favorite_setting_title">သီချင်းများ ဆင့်(ခ်)လုပ်ရန်</string>
     <string name="upload_playlist_to_hungama_negative_text">ဆင့်(ခ်)မလုပ်ပါ</string>
     <string name="upload_playlist_to_hungama_positive_text">ဆင့်(ခ်)လုပ်ရန်</string>
-    <string name="upload_playlist_to_hungama_title">အွန်လိုင်းသီချင်းများကို Xiaomi အကောင့် သုံးသောအခြားစက်များတွင် ဖွင့်နိုင်ရန် Hungama သို့ ဆင့်(ခ်)လုပ်ထားပါ။</string>
-    <string name="upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို Hungama သို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်</string>
+    <string name="upload_playlist_to_hungama_title">အွန်လိုင်းသီချင်းများကို Xiaomi အကောင့် သုံးသောအခြားစက်များတွင် ဖွင့်နိုင်ရန် hungama သို့ ဆင့်(ခ်)လုပ်ထားပါ။</string>
+    <string name="upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို hungama သို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
     <string name="user_agreement_hint_3rd_app">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> အပြင် Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Mi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
@@ -1337,6 +1349,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="user_agreement_hint_with_mobile">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>ကျွန်ုပ်သည် Mi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ &lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းမည်</string>
     <string name="user_avatar_uploading">တစ်စက္ကန့်စောင့်ပါ…</string>
     <string name="user_experience_program_open">မူပိုင်ခွင့်အကန့်အသတ်များကြောင့် ဒေါင်းလုဒ်လုပ်ထားသော သီချင်းများကို ဖွင့်နိုင်ရန် အသုံးပြုသူအတွေ့အကြုံပရိုဂရမ်တွင် စာရင်းသွင်းရပါမည်။ ၎င်းကို ပြုလုပ်ရန် - ဆက်တင်များ > စကားဝှက်နှင့် လုံခြုရေးး > ပုဂ္ဂိုလ်ရေးလုံခြုံမှု > အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် စာရင်းသွင်းရန်။</string>
@@ -1356,7 +1369,7 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="video_retry_btn">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="view_album">အယ်လ်ဘမ် ကြည့်ရှုရန်</string>
     <string name="vip_required">ဤသီချင်းကို ဖွင့်ရန် ပရီမီယံပက်ကေ့ချ်ကို ရယူပါ။ ယခုတော့ ဤသီချင်းကို ကျော်သွားပါ။</string>
-    <string name="vip_required_with_song">%s သည် ပရိုအဖွဲ့ဝင် အတွက်သာ ဖြစ်သည်။ ဤသီချင်းအား ကျော်သွားမည်။</string>
+    <string name="vip_required_with_song">%s ကို ရွှေအဖွဲ့ဝင်များအတွက်သာ ရရှိနိုင်သည်။ ဤသီချင်းကို ယခုကျော်ထားသည်။</string>
     <string name="voice_search_first_hint">အသံဖြင့် ရှာဖွေကြည့်ပါ။</string>
     <string name="watch_video">ဗီဒီယိုကြည့်ရန်</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
@@ -1372,5 +1385,16 @@ Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တ
     <string name="yesterday">မနေ့က</string>
     <string name="you_can_switch_mode_in_settings">ဆက်တင်များထဲတွင် မုဒ်တစ်ခုမှ တစ်ခုသို့ ပြောင်းနိုင်သည်</string>
     <string name="you_may_like">အခြားသင်ကြိုက်နိုင်သည်များ</string>
+    <string name="youtube_download_canl">မလုပ်တော့ရန်</string>
+    <string name="youtube_download_fail_net">ကွန်ရက်ချိတ်မရပါ။ ကွန်ရက်ဆက်တင်ကိုစစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="youtube_download_fail_source">အမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="youtube_download_fail_space">ဒေါင်းလုဒ်လုပ်မရပါ။ သိုလှောင်ခန်းမလုံလောက်ပါ။</string>
+    <string name="youtube_download_fail_unknown">အမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="youtube_download_hint">ဤဗီဒီယိုမှအသံကို MP3 ဖောမတ်ဖြင့်၊ ဗီဒီယိုခေါင်းစဉ်များကို ဖိုင်အမည်ထားပြီး သင့်စက်တွင်သိမ်းပါမည်။ ယခုဒေါင်းလုဒ်လုပ်လိုသလား။</string>
+    <string name="youtube_download_ing">ခေတ္တစောင့်ပါ…</string>
+    <string name="youtube_download_start">ဒေါင်းလုဒ်</string>
+    <string name="youtube_download_suc">အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="youtube_play_history">ဖွင့်ထားသော မှတ်တမ်း</string>
+    <string name="youtube_share_guide_tip">ဗီဒီယိုများကို မိတ်ဆွေများနှင့် မျှဝေနိုင်ပါပြီ</string>
+    <string name="youtube_tab_explore">ရှာဖွေရန်</string>
 </resources>

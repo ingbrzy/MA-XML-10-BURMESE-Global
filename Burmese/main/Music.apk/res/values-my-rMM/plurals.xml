@@ -90,6 +90,9 @@
     <plurals name="download_running">
         <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်နေသည်</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">ကြည့်သူ %s ဦး</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">အခမဲ့ ဒေါင်းလုဒ် %d ခု ကျန်သေးသည်</item>
     </plurals>

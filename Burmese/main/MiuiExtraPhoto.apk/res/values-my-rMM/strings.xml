@@ -5,7 +5,7 @@
     <string name="am">နံနက်</string>
     <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
-    <string name="close">ပိတ်</string>
+    <string name="close">ပိတ်ပါ။</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -98,7 +98,13 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
+    <string name="grant_permission_go_and_set_2">ဆက်တင်</string>
+    <string name="grant_permission_item">%s</string>
+    <string name="grant_permission_remind_title">ခွင့်ပြုချက်များလိုသည်</string>
+    <string name="grant_permission_storage">ဤအက်(ပ်)ကို သိုလှောင်ခန်းဝင်ခွင့်ပြုပါ။</string>
+    <string name="grant_permission_text">ပြခန်းတည်းဖြတ်စနစ်သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အောက်ပါခွင့်ပြုချက်လိုသည် - %s။ ခွင့်ပြုရန် \"ဆက်တင်\" ကို တို့ပါ။</string>
     <string name="midnight">ည</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -177,6 +183,7 @@
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="ok">အိုကေ</string>
+    <string name="open">ဖွင့်ရန်</string>
     <string name="pm">ညနေ</string>
     <string name="refocus_discard_confirm_message">ပြောင်းလဲခြင်းများကို သိမ်းထားမလား?</string>
     <string name="refocus_discard_negative_btn">စွန့်ပစ်မည်</string>
@@ -219,6 +226,14 @@
     <string name="refocus_type_relighting_small_face">မျက်နှာသေးလွန်းသောကြောင့် စတူဒီယိုအလင်းအား အသုံးချ၍မရပါ။</string>
     <string name="refocus_type_static">မှုန်ဝါး</string>
     <string name="refocus_type_video">အလင်းရောင် အစက်အပြောက်</string>
+    <string name="saf_operation_guide_1">"ပြခန်းအယ်ဒီတာသည် သင့်ဒေတာကို ကာကွယ်နိုင်ရန်နှင့် စီမံခန့်ခွဲနိုင်ရန် ခွင့်ပြုချက်များလိုသည်။ "</string>
+    <string name="saf_operation_guide_2">ခွင့်ပြုချက်ပေးရန် \"%1$s\" ကိုတို့ပြီး \"%2$s\" ကို ရွေးပါ။</string>
+    <string name="saf_operation_guide_param1">နောက်တစ်ဆင့်</string>
+    <string name="saf_operation_guide_param2">ဤဖိုင်တွဲကို ဖတ်ရန်</string>
+    <string name="saf_requester_cancel">မလုပ်တော့ရန်</string>
+    <string name="saf_requester_title">ပြခန်းအယ်ဒီတာအား \"%s\" သို့ ဝင်ခွင့်ပြုပါ</string>
+    <string name="saf_secret_album">တစ်ကိုယ်ရေအယ်လဘမ်</string>
+    <string name="saf_secret_album_guide">ဤအက်(ပ်)သည် သင့်တစ်ကိုယ်ရေအယ်လဘမ်မှ အကြောင်းအရာများကို ပြသရန် ခွင့်ပြုချက်များလိုသည်။</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>

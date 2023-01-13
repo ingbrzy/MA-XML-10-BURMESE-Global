@@ -17,6 +17,8 @@
     <string name="agree">သဘောတူပါသည်</string>
     <string name="alarm_alert_alert_silenced">%1$s နောက် နှိုးစက် ရပ်သွားလိမ့်မည်။</string>
     <string name="alarm_alert_disabled">ပိတ်မည်</string>
+    <string name="alarm_alert_now">%s နှိုးစက်</string>
+    <string name="alarm_alert_snooze_button">မှေးရန်</string>
     <string name="alarm_ascending_mode_summary">နှိုးစက်အသံပမာဏကို တဖြည်းဖြည်း မြင့်တက်စေပါ</string>
     <string name="alarm_ascending_mode_title">အသံပမာဏ မြင့်တက်စေပါ</string>
     <string name="alarm_clock_more_setting">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -90,6 +92,7 @@
     <string name="cities_show_limit_desc">နောက်ထပ်နာရီများကို ပြသမရပါ</string>
     <string name="city_time_contrast_desc">မြို့အမျိုးမျိုးရှိ စံတော်ချိန်များကို နှိုင်းယှဉ်ရန် တို့ပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="click_to_cancel_alarm">ပိတ်ရန်တို့ပါ</string>
     <string name="clock_bg_button_setting_summary_common">နာရီ အက်ပ်အတွက် နောက်ခံအရောင် ရွေးပါ</string>
     <string name="clock_bg_button_setting_summary_follow_sys">အရောင်မှိန် မုဒ်သို့ ပြောင်းတိုင်း နာရီ နောက်ခံအရောင် အမည်းအား သုံးမည်</string>
     <string name="clock_bg_button_setting_title">နောက်ခံအရောင်</string>
@@ -207,6 +210,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="force_start_permission_desc">အက်(ပ်)ပိတ်ပြီးလျှင်လည်း နှိုးစက်များကို ကောင်းစွာအလုပ်လုပ်ရန် ခွင့်ပြုပါ</string>
+    <string name="force_start_permission_title">အလိုအလျောက်စပါ</string>
     <string name="force_touch_add_alarm">နှိုးစက်ထည့်ရန်</string>
     <string name="force_touch_enter_stopwatch">စံချိန်ယူနာရီ</string>
     <string name="force_touch_enter_timer">အချိန်တွက်စက်</string>
@@ -273,6 +278,22 @@
     <string name="menu_item_sort_by_gmt_offset">အချိန်ဖြင့် မျိုးတူစုပါ</string>
     <string name="menu_item_sort_by_name">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="midnight">ည</string>
+    <string name="miui_clock_city_name_local">ဒေသတွင်း</string>
+    <string name="miui_clock_city_name_second">ဒုတိယ နာရီ</string>
+    <string name="miui_lock_screen_date">MMM dd EEE</string>
+    <string name="miui_lock_screen_date_12">MMM dd EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
@@ -472,6 +493,7 @@
     <string name="shutdown_alarm_enable_summary">ဖုန်းပိတ်ထားသော်လည်း နှိုးစက်မြည်ပါမည်၊ သို့သော် နှိုးစက်အချိန်နှင့် ဖုန်းပိတ်ချိန်သည် ၁၀ မိနစ်ထက်မနည်း ခြားရမည်</string>
     <string name="shutdown_alarm_title">နှိုးစက်ပိတ်ချခြင်း</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -524,6 +546,7 @@
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပါ။</string>
     <string name="system_permission_main_purpose">အချိန်ကြည့်ခြင်း၊ နှိုးစက်နှင့် တိုင်မာများ သတ်မှတ်ခြင်း၊ ချိန်ကိုက်နာရီသုံးခြင်း</string>
     <string name="system_permission_purpose">ရုံးဖွင့်ရက်နှိုးစက်များပြုလုပ်ခြင်းနှင့် စိတ်ကြိုက်ဖုန်းသံများ သတ်မှတ်ခြင်း</string>

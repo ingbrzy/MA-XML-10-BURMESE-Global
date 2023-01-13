@@ -27,6 +27,12 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">စက် %1$d လုံး</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">စက် %1$d လုံး</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>

@@ -33,11 +33,17 @@
     <plurals name="dialog_app_rating_choose_star">
         <item quantity="other">ကြယ် %s လုံး ရွေးထားသည်</item>
     </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">အမှတ်များရပြီး ဆုများငွေလဲနိုင်ရန် ဗီဒီယိုတစ်ခုကို %s စက္ကန့် ထပ်ကြည့်ပါ</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">ပင်မစာမျက်နှာသို့ %1$d စက္ကန့်အတွင်း ပြန်သွားပါမည်…</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">ကြည့်သူ %s ဦး</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">၁ နာရီ အတွင်း</item>
@@ -142,6 +148,9 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသော</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">သီချင်း %d ပုဒ်</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">အောင်မြင်စွာ မျှဝေပြီးပါပြီ။ %d မှတ် ရသွားပါပြီ။ ရမှတ်စင်တာတွင် တောင်းခံပါ။</item>
     </plurals>
@@ -204,6 +213,9 @@
     </plurals>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">စာညှပ် %d ခု အထိ ထည့်ရန်</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">ရွေးထားသောဖိုင် %d ခုကို ဖုံးလိုသလား။</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">လိုက်ခ် %s ခု</item>

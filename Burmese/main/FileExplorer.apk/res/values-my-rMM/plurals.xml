@@ -42,6 +42,9 @@
     <plurals name="days_ago">
         <item quantity="other">%1$d ရက်အကြာက</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">ဖိုင် %1$d ခုကို စက်အားလုံးနှင့် ကလေက်မှ ဖျက်လိုသလား။ Mi ဒရိုက်ဖိုင်များကို လတ်တလောဖျက်ထားသော အရာများမှ ပြန်ဆယ်နိုင်သည်။</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">ဖိုင် %1$d ခု ကို ဖျက်လိုသလား။</item>
     </plurals>
@@ -101,6 +104,15 @@
     </plurals>
     <plurals name="more_gems">
         <item quantity="other">ကံစမ်းမဲတွင်ပါရန် ကျောက် &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> လုံး ထပ်ကောက်ပါ။</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">ဖိုင် %1$s ခု ဆင့်(ခ်)လုပ်မရပါ</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"ဖိုင် %1$s ခု ဆင့်(ခ်)လုပ်ထားသည် | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">ကွန်ရက်ချိတ်ဆက်မှုစောင့်နေသည်။ ဖိုင် %1$s ခု ကျန်သည်။</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d ခု ရွေးထားသည်</item>

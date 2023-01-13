@@ -29,6 +29,7 @@
     <string name="dual_app_title">နှစ်ခုတွဲအက်ပ်</string>
     <string name="dual_app_words">အကောင့်တိုင်းအတွက် အက်ပ်ကိုယ်စီ</string>
     <string name="early_morning">နံနက်</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -118,14 +119,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">အခမဲ့ ကွန်ရက်အရှိန်မြှင့်စနစ်</string>
-    <string name="free_send_net_booster_busniess">အခမဲ့ Xunlei အရှိန်မြှင့်စနစ် ရယူပါ</string>
-    <string name="free_send_net_booster_busniess_tip">လက်ခံရန် တို့ပါ</string>
-    <string name="free_send_net_booster_tip">အခမဲ့ ကွန်ရက်အရှိန်မြှင့်စနစ်သုံးပြီး ချောမွေ့စွာ ဂိမ်းကစားလိုက်ပါ။</string>
+    <string name="free_send_net_booster">ဂိမ်းအရှိန်မြှင့်စနစ်ကို အခမဲ့စမ်းသုံးပါ</string>
+    <string name="free_send_net_booster_busniess">ဂိမ်းအရှိန်မြှင့်စနစ်ကို အခမဲ့စမ်းသုံးပါ</string>
+    <string name="free_send_net_booster_busniess_tip">ဂိမ်းအတွေ့အကြုံကို မြှင့်ပြီး ဂိမ်းစကင်တစ်ခု ရယူပါ။ ဤကမ်းလှမ်းချက်ကို ယနေ့သာ ရနိုင်ပါမည်။</string>
+    <string name="free_send_net_booster_tip">ဂိမ်းအတွေ့အကြုံကို မြှင့်ပြီး Xiaomi စက်တစ်လုံး ရယူပါ။</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="game_booster">ဂိမ်းအရှိန်မြှင့်တင်မှု</string>
+    <string name="gamebooster_dialog_recover">သက်တမ်းတိုးရန်</string>
+    <string name="gamebooster_dialog_start_booster">စရန်</string>
     <string name="gamebooster_network_dialog_message">ဂိမ်းအရှိန်မြင့်ဝန်ဆောင်မှု၏ အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် လုံခြုံရေးကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုလိုသလား။</string>
     <string name="gamebooster_network_dialog_message_pad">ဂိမ်းအရှိန်မြှင့်စနစ်၏ အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် လုံခြုံရေးကို အင်တာနက်ချိတ်ခွင့်ပြုလိုသလား။</string>
     <string name="gamebooster_network_dialog_title">အချို့လုပ်ဆောင်ချက်များ မရရှိနိုင်ပါ</string>
@@ -289,7 +292,7 @@
     <string name="morning">နံနက်</string>
     <string name="net_booster_expire_notification">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်</string>
     <string name="net_booster_overdue_notification">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်</string>
-    <string name="net_booster_overdue_notification_tip">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်။ သက်တမ်းတိုးလိုပါသလား။</string>
+    <string name="net_booster_overdue_notification_tip">ကွန်ရက်အရှိန်မြှင့်စနစ်ဆက်ရှင် ပြီးသွားပါပြီ။ ကွန်ရက်နှေးခြင်းများ စကြုံနိုင်ပါသည်။ ဆက်ရှင်ကို ယခု သက်တမ်းတိုးလိုသလား။</string>
     <string name="network_not_available">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="night">ညနေ</string>
     <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
@@ -300,6 +303,8 @@
     <string name="pc_activity_title">ဘက်ထရီအား အဆင့်မြှင့်တင်</string>
     <string name="pm">ညနေ</string>
     <string name="pm_lable_name">root ဝင်ရောက်မှုအကြောင်း</string>
+    <string name="power_center_battery_duration_screen_on">လက်ကျန်မျက်နှာပြင်ဖွင့်ချိန်</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">မျက်နှာပြင်ဖွင့်ချိန် %1$s %2$s ကျန်သည်</string>
     <string name="privacy_declare_dialog_title">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="privacy_prompt_traffic_purchase_message">ဒေတာဝယ်ယူနိုင်မှုရွေးစရာများ ပိုမိုရရှိစေရန် သင့်ဖုန်းနံပါတ်နှင့် ဖုန်းကာရီယာဆိုင်ရာအချက်အလက်သေးစိတ်များသည်ကုဒ်ဖွဲ့ပြီး Mi ဆာဗာဆီသို့ လုဒ်တင်လိုက်လိမ့်မည်။</string>
     <string name="renew_now">သက်တမ်းတိုးရန်</string>

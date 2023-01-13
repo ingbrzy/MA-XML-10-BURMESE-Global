@@ -36,8 +36,10 @@
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="delete_download">ဖျက်ပစ်မည်</string>
     <string name="dialog_btn_cancel">ပယ်ဖျက်မည်</string>
+    <string name="dialog_btn_force_download">ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="dialog_btn_ok">အိုကေ</string>
     <string name="dialog_btn_ok_disabled_net">ကွန်ရက်ဆက်တင်များ</string>
+    <string name="dialog_btn_wait_wifi">Wi-Fi စောင့်ရန်</string>
     <string name="dialog_clipboard_permission_message">ကော်ပီကူးထားသော URLများ အား အလိုအလျောက် ပေါင်းထည့်ရန်အတွက် ကလစ်ဘုတ်အတွင်းရှိ အိုင်တမ်များအား Downloads ကို ဝင်သုံးခွင့်ပေးမလား။</string>
     <string name="dialog_clipboard_permission_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
     <string name="dialog_confirm_delete_checkbox_message">ဖုန်းတွင်းဖိုင်ကိုလည်းဖျက်ပစ်</string>
@@ -45,8 +47,11 @@
     <string name="dialog_file_missing_body">ဖိုင်အား မရှာတွေ့နိုင်ခဲ့ပါ၊ ဖျက်ပစ်လိုက်ပုံ ပေါက်ပါသည်။</string>
     <string name="dialog_file_missing_title">ဖိုင်အားဖွင့်၍မရနိုင်ပါ</string>
     <string name="dialog_msg_disabled_net">လက်ရှိကွန်ရက်တွင် %1$s ဒေါင်းလုဒ်အား ကန့်သတ်ထားပါသည်။ လုံခြုံရေးအက်ပ်သို့သွားရန် ကွန်ရက်ဆက်တင်များအား ထိနှိပ်ပါ။</string>
+    <string name="dialog_msg_net_disallowed_by_app">စက်က Wi-Fi ချိတ်လျှင် ဤဒေါင်းလုဒ် အလိုအလျောက် စပါမည်။ မဖြစ်မနေ ယခုဒေါင်းလုဒ်လုပ်လိုသလား။</string>
+    <string name="dialog_msg_net_slow">လက်ရှိကွန်ရက်သုံးပြီး ဤအရာကို ဒေါင်းလုဒ်လုပ်ရန် အလွန်ကြာနိုင်ပုံရသည်။ မဖြစ်မနေ ဒေါင်းလုဒ်လုပ်လိုသလား။</string>
     <string name="dialog_msg_recommend">သင်ပိတ်လိုက်ပြီးနောက် အကြံပြုထားသော အရင်းအမြစ်များအား မြင်နိုင်တော့မည်မဟုတ်ပါ။ မိုဘိုင်းဒေတာ ချွေတာနိုင်ရန် \"Wi-Fi ကိုသာသုံးပါ\" အား ရွေးချယ်နိုင်ပါသည်။</string>
     <string name="dialog_title_disabled_net">အင်တာနက်ဝင်ရောက်မှု</string>
+    <string name="dialog_title_download">Wi-Fi စောင့်ရန်</string>
     <string name="dialog_title_recommend">အကြံပေးထားသော အရင်းမြစ်များအား ပိတ်လိုက်ပါ</string>
     <string name="download_complete">ဒေါင်းလုဒ်လုပ်ထားသော</string>
     <string name="download_error">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>

@@ -16,10 +16,6 @@
         <item>မဿိရာသီဖွား</item>
         <item>21/3 - 19/4</item>
     </string-array>
-    <string-array name="bundesliga">
-        <item>၂</item>
-        <item>ဘွန်ဒစ်လီဂါ</item>
-    </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>ကရကဋ်ရာသီဖွား</item>
@@ -37,39 +33,6 @@
     <string-array name="date_calculate_spinner">
         <item>ရှေ့သို့</item>
         <item>နောက်သို့</item>
-    </string-array>
-    <string-array name="dates">
-        <item>၁</item>
-        <item>၂</item>
-        <item>၃</item>
-        <item>၄</item>
-        <item>၅</item>
-        <item>၆</item>
-        <item>၇</item>
-        <item>၈</item>
-        <item>၉</item>
-        <item>၁၀</item>
-        <item>၁၁</item>
-        <item>၁၂</item>
-        <item>၁၃</item>
-        <item>၁၄</item>
-        <item>၁၅</item>
-        <item>၁၆</item>
-        <item>၁၇</item>
-        <item>၁၈</item>
-        <item>၁၉</item>
-        <item>၂၀</item>
-        <item>၂၁</item>
-        <item>၂၂</item>
-        <item>၂၃</item>
-        <item>၂၄</item>
-        <item>၂၅</item>
-        <item>၂၆</item>
-        <item>၂၇</item>
-        <item>၂၈</item>
-        <item>၂၉</item>
-        <item>၃၀</item>
-        <item>၃၁</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>ပွဲစဉ်အချိန်တွင်</item>
@@ -106,10 +69,6 @@
         <item>Dhul-Qadah</item>
         <item>Dhul-Hijjah</item>
     </string-array>
-    <string-array name="la_liga">
-        <item>၃</item>
-        <item>လာလီဂါ</item>
-    </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>သိဟ်ရာသီဖွား</item>
@@ -119,10 +78,6 @@
         <item>libra</item>
         <item>တူရာသီဖွား</item>
         <item>23/9 - 23/10</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>၅</item>
-        <item>လီဂူး ၁</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>တနင်္ဂနွေ</item>
@@ -291,10 +246,6 @@
         <item>ဗြိစ္ဆာရာသီဖွား</item>
         <item>24/10 - 22/11</item>
     </string-array>
-    <string-array name="serie_a">
-        <item>၁</item>
-        <item>စီးရီးအေ</item>
-    </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>ပြဿိ</item>
@@ -387,13 +338,6 @@
         <item>အော်ခ်လန်</item>
         <item>ဖီဂျီ</item>
         <item>တွန်ဂါ</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>၃ နာရီမတိုင်ခင်က</item>
-        <item>၄ နာရီမတိုင်ခင်က</item>
-        <item>၅ နာရီမတိုင်ခင်က</item>
-        <item>၆ နာရီမတိုင်ခင်က</item>
-        <item>၁ရက် မတိုင်ခင်က</item>
     </string-array>
     <string-array name="vikrami_samvat_month_names">
         <item>Chaitra</item>

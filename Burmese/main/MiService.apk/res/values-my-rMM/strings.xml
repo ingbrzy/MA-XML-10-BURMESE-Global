@@ -76,6 +76,7 @@
     <string name="icon_remove_description_content">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုမှု\" သည် စနစ်အက်(ပ်)ဖြစ်သည်။ ၎င်းကို ပင်မစာမျက်နှာရှော့ကတ်မှ ဖယ်ရှားပြီးနောက်တွင်လည်း ဆက်တင်များမှတစ်ဆင့် ဆက်သုံးနိုင်သည်။</string>
     <string name="icon_remove_description_title">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုမှု\" ကို ပင်မစာမျက်နှာမှ ဖယ်ရှားလိုသလား။</string>
     <string name="mi_service_app_name">ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="mi_service_back">နောက်သို့</string>
     <string name="midnight">ည</string>
     <string name="miservice_channel_update_notification_info">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" က အွန်လိုင်းရှိသောဒေတာများကိုတောင်းနေသည်…</string>
     <string name="miservice_notification_boot_content">MIUI လုပ်နိုင်သော အရာများကို လေ့လာပါ</string>
@@ -85,7 +86,7 @@
     <string name="miservice_notification_open_feedback_title">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို မိတ်ဆက်ခြင်း</string>
     <string name="miservice_notification_scan_content">စကားလုံးများနှင့် စကားများကို ဘာသာပြန်ရန် Scanner ကို သုံးပါ</string>
     <string name="miservice_notification_scan_title">တစ်ခဏအတွင်း ဘာသာပြန်ပါ</string>
-    <string name="miui_feedback_answer_detail_community">သင့်မေးခွန်းများအတွက် အဖြေကို Mi ကွန်မြူနတီတွင် မတွေ့ပါ</string>
+    <string name="miui_feedback_answer_detail_community">မေးခွန်းများအတွက် Xiaomi Community တွင် အဖြေရှာနိုင်သည်</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">အသုံးဝင်ပါသည်</string>
     <string name="miui_feedback_answer_detail_feedback_result">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါသည်။</string>
     <string name="miui_feedback_answer_detail_feedback_title">ဤအချက်အလက်များ အသုံးဝင်ပါသလား။</string>
@@ -153,7 +154,6 @@
     <string name="miui_feedback_edit_toast_module_required">အကြောင်းအရာရွေးရန်</string>
     <string name="miui_feedback_edit_toast_more_desc_required">ရှင်းလင်းချက် အရှည်ရေးရပါမည်</string>
     <string name="miui_feedback_edit_toast_problem_class_required">အမျိုးအစားရွေးရန်</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">100MB ထက်ကြီးသော ပုံ သို့မဟုတ် ဗီဒီယို တင်မရပါ</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">အက်(ပ်)အမည်ထည့်ရန်</string>
     <string name="miui_feedback_main_answer_title">ဤမေးခွန်းအတွက် အဖြေတစ်ခုရှိပါသည်</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"ဝန်ဆောင်မှုဟော့လိုင်း - 0120-300-521
@@ -164,7 +164,7 @@
     <string name="miui_feedback_main_item_customer_service">ရောင်းပြီးနောက် ဝန်ဆောင်မှုများ</string>
     <string name="miui_feedback_main_item_feedback_list">ကျွန်ုပ်၏ တုံ့ပြန်အကြံပြုချက်</string>
     <string name="miui_feedback_main_menu_view_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="miui_feedback_main_menu_view_withdraw_consent">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="miui_feedback_main_search_footer">သင်မေးလိုသော မေးခွန်းများ မဟုတ်ဘူးလား။</string>
     <string name="miui_feedback_main_search_footer_submit">တုံ့ပြန်အကြံပြုချက်တင်ရန်</string>
     <string name="miui_feedback_main_search_issue">အဓိကစာလုံး ရိုက်ထည့်ပြီး ရှာပါ</string>
@@ -176,15 +176,6 @@
     <string name="miui_feedback_main_title">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="miui_feedback_main_withdraw">ရုပ်သိမ်းရန်</string>
     <string name="miui_feedback_main_withdraw_consent_hint">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် %1$s ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ %2$s သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် %3$s ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
-    <string name="miui_guide_accessibility_image_desc">ပုံ</string>
-    <string name="miui_guide_clear_db_service">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" က ဘာသာစကားကက်(ချ်)ကို ရှင်းနေသည်…</string>
-    <string name="miui_guide_footer_desc">စက်ပစ္စည်းနှင့် MIUI အကြောင်းကို ပိုမိုလေ့လာနိုင်ရန်အတွက် စသုံးသူလမ်းညွှန်ကို ပြုစုထားပါသည်။ လမ်းညွှန်တွင်ပါသော ပုံများနှင့် ဗီဒီယိုများသည် နမူနာကြည့်ရန်သာဖြစ်ပြီး ပြင်ပကုန်ပစ္စည်းနှင့် ကွဲပြားနိုင်ပါသည်။ သင့်စက်ပစ္စည်းမော်ဒယ်၊ MIUI ဗားရှင်းနှင့် အသုံးပြုသည့် ပတ်ဝန်းကျင်ကို လိုက်ပြီး ဤလမ်းညွှန်တွင်ဖော်ပြထားသော အင်္ဂါရပ်များ အပြောင်းအလဲရှိနိုင်သည်။</string>
-    <string name="miui_guide_item_complete">ပြီးပါပြီ</string>
-    <string name="miui_guide_item_new">အသစ်</string>
-    <string name="miui_guide_item_progress">%1$d%2$d ပြီးပါပြီ</string>
-    <string name="miui_guide_menu_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="miui_guide_top_bar_sub_title">MIUI လုပ်နိုင်သည်များကို လေ့လာရန်</string>
-    <string name="miui_guide_top_bar_title">စသုံးသူလမ်းညွှန်</string>
     <string name="miui_main_back">နောက်သို့</string>
     <string name="miui_main_bottom_bar_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="miui_main_bottom_bar_guide">စသုံးသူလမ်းညွှန်</string>
@@ -193,6 +184,10 @@
     <string name="miui_main_control_center_desc">သို့မဟုတ် ဆက်တင် > အသိပေးချက် &amp; ထိန်းချုပ်စင်တာတွင် ဗားရှင်းအဟောင်းသို့ ပြောင်းပါ</string>
     <string name="miui_main_control_center_open">ထိန်းချုပ်စင်တာအသစ်</string>
     <string name="miui_main_control_center_title">အသိပေးချက်ရှိတ်နှင့် ထိန်းချုပ်စင်တာအကြားပြောင်းရန် ပွတ်ဆွဲပါ</string>
+    <string name="miui_main_icon_callback">ပင်မမျက်နှာပြင်ရှော့ကတ်</string>
+    <string name="miui_main_icon_callback_create">ပြုလုပ်ရန်</string>
+    <string name="miui_main_icon_callback_desc">ပင်မမျက်နှာပြင်ရှော့ကတ်တစ်ခု ယခုပြုလုပ်လိုသလား။</string>
+    <string name="miui_main_icon_callback_nocreate">မလုပ်တော့ရန်</string>
     <string name="miui_main_mirror_tab_desc1">အလိုအလျောက် ချိတ်ဆက်ပါ</string>
     <string name="miui_main_mirror_tab_desc2">ပုံများကို မျက်နှာပြင်အကြီးနှင့် ကြည့်ပါ</string>
     <string name="miui_main_mirror_tab_desc3">ဖိုင်များကို လျပ်တပြက်အတွင်း မျှဝေပါ</string>
@@ -295,7 +290,7 @@
     <string name="permission_china_version_msg">&lt;Data>ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက် ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့်လည်း ချိတ်ဆက်ရပါမည်။&lt;/Data></string>
     <string name="permission_complete">ပြီးပါပြီ</string>
     <string name="permission_contacts_info">အကောင့်အချက်အလက်ဝင်သုံးရန်</string>
-    <string name="permission_contacts_introduce">Mi အကောင့်သုံးပြီး အကောင့်ဝင်ခြင်းအတွက်</string>
+    <string name="permission_contacts_introduce">Xiaomi အကောင့် သုံးပြီး အကောင့်ဝင်ခြင်းအတွက်</string>
     <string name="permission_device_info">စက်အချက်အလက် ဝင်သုံးရန်</string>
     <string name="permission_device_introduce">ကန့်သတ်အာမခံကာလ ဆုံးဖြတ်ခြင်းအတွက်</string>
     <string name="permission_exit">ထွက်ရန်</string>

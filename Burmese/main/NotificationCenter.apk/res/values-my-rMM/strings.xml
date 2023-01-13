@@ -16,6 +16,8 @@
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="default_list_type">လက်ခံရရှိသည့် အချိန်အလိုက် စီပါ</string>
+    <string name="disable_description_content">အသိပေးချက်များသည် စနစ်အက်(ပ်)ဖြစ်သည်။ ၎င်းကိုပိတ်ပါက အက်(ပ်)အသိပေးချက်များကို စီမံခန့်ခွဲနိုင်မည်မဟုတ်ပါ။ မဖြစ်မနေပိတ်လိုသလား။</string>
+    <string name="disable_description_title">စနစ်အက်(ပ်)ကို ပိတ်လိုသလား။</string>
     <string name="disable_float_notification">အရှင်ထားနိုင်သော အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="disable_lockscreen_notification">သော့ခတ်မျက်နှာပြင် အသိပေးချက်များအား မခွင့်ပြုပါ</string>
     <string name="disable_show_badge_notification">အသိပေးချက် တံဆိပ်များအား မခွင့်ပြုပါ</string>

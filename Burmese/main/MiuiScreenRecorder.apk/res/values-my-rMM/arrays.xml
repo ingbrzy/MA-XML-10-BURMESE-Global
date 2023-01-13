@@ -37,6 +37,12 @@
         <item>Mic</item>
         <item>စနစ်အသံများ</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>တစ်ခုမျှမရှိပါ</item>
+        <item>မိုက်ခရိုဖုန်း</item>
+        <item>စနစ်</item>
+        <item>နှစ်ခုစလုံး</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>အတွင်းပိုင်းသိုလှောင်ခန်း</item>
         <item>ပြင်ပသိုလှောင်ခန်း</item>

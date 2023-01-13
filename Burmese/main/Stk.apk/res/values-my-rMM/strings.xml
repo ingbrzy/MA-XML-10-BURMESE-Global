@@ -90,6 +90,7 @@
     <string name="menu_back">နောက်ပြန်</string>
     <string name="menu_end_session">ဆက်ရှင်အားအဆုံးသတ်</string>
     <string name="midnight">ည</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>

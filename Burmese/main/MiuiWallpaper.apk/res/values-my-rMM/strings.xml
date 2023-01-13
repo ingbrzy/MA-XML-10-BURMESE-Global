@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="afternoon">နေ့လယ်</string>
-    <string name="already_newest_version">လက်ရှိဗားရှင်းသည် အသစ်ဆုံးဖြစ်သည်</string>
     <string name="am">နံနက်</string>
-    <string name="cancel_download">ဒေါင်းလုဒ်လုပ်ခြင်းကို ဖျက်သိမ်းထားသည်</string>
-    <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
-    <string name="close">ပိတ်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
-    <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
-    <string name="download_button">ဒေါင်းလုဒ်ခလုတ်</string>
-    <string name="download_failed">ဒေါင်းလုဒ်လုပ်မရပါ</string>
     <string name="early_morning">နံနက်</string>
+    <string name="earth_position_content_0">ခရိုအေးရှားရှိ Cape Kamenjak သဘာဝပန်းခြံသည် မြေထဲပင်လယ်ကမ်းခြေတစ်လျှောက်ရှိ မှင်သက်မိဖွယ် မြင်ကွင်းအများစုကို ပိုင်ဆိုင်ထားသော နေရာဖြစ်သည်ဆိုခြင်းအတွက် ငြင်းချက်ထုတ်စရာ မလိုပါ။ အလွန်အံ့ဖွယ်ကောင်းသော ရေမြေဖွဲ့စည်းပုံများသည် ဤနေရာအား ရေငုပ်သမားများ၏ သုခဘုံတစ်ခုအဖြစ် ဖန်တီးပေးပါသည်။ နွေရာသီရောက်ချိန်တိုင်းတွင် တောက်ပသော နေရောင်ခြည်နှင့် နွေးထွေးသော မြေထဲပင်လယ်ရေတို့သည် ပြင်ပအလှအပများကို ရှုစားလိုသူများစွာအား စွဲဆောင်နေပါသည်။</string>
+    <string name="earth_position_content_1">"လှေကားထစ် ကွင်းပြင်များမှာ လူသားတို့၏ ကြိုးပမ်းလုပ်ဆောင်မှု၏ ရလဒ်တစ်ခုဖြစ်သော်လည်း အလွန်လှသော သဘာဝပသာဒတစ်ခုအဖြစ် တည်ရှိနေပါသည်။
+တရုတ်နိုင်ငံအတွင်းတွင် ဆန်စပါးလှေကားထစ်စိုက်ခင်းများအား မိုးပုံမှန်ရွာသွန်းလေ့ရှိပြီး တောင်တန်းများ ပေါများလှသည့် ရန်ဇီမြစ်တောင်ဘက်ပိုင်းတွင် အတွေ့ရများပါသည်။ Longji လှေကားထစ်စိုက်ခင်းများမှာ လွန်ခဲ့သောနှစ်ပေါင်း ၇၀၀ ကျော်ကတည်းက စတင်တည်ရှိခဲ့ခြင်းဖြစ်ပြီး အနီးအနားရှိရွာများတွင် သမိုင်းဝင်အထိန်းအမှတ် အနည်းငယ်လည်း ရှိနေပါသည်။"</string>
+    <string name="earth_position_content_2">lulissat သည် အာတိတ်စက်ဝန်း၏ မြောက်ဘက် ကီလိုမီတာ ၂၀၀ အကွာတွင်ရှိသော ဂရင်းလန်းအနောက်ပိုင်းဒေသတွင် တည်ရှိပါသည်။ ၅၆ ကီလိုမီတာရှည်လျားသည့် အလွန်လှပသော Ilulissat Icefjord သည် Jakobshavn Isbræ ရေခဲမြစ်၏ ဘေးဘက်ကပ်လျက်တွင် တည်ရှိနေပါသည်။ ကမ္ဘာ့မြောက်ဘက်ခြမ်းဒေသရှိ အရှည်လျားဆုံး ရေခဲမြစ်ဖြစ်သည့် ၎င်းသည် တန်ချိန် ၂ ဘီလီယံရှိသော ရေခဲစိုင်ကြီးများကို နှစ်စဉ်ထုတ်လုပ်ပေးလျက်ရှိပါသည်။ မြောက်ဘက်သို့ အနည်းငယ် ကွေ့ပတ်သွားပြီးနောက်တွင် တောင်ဘက်သို့ ပြန်လည်ဦးတည်းသွားပြီး အတ္တလန်တိတ်သမုဒ္ဒရာအတွင်းသို့ စီးဆင်းသွားပါသည်။</string>
+    <string name="earth_position_content_3">နာဗာဂီယိုကမ်းခြေသည် ဂရိနိုင်ငံ၏ အိုင်ယွန်နီယံကျွန်းစု၊ ဇာကင်သော့ကမ်းရိုးတမ်းပေါ်ရှိ အလှပဆုံးကမ်းခြေတစ်ခု ဖြစ်သည်။ ၎င်းအား နာမည်ကျော် သင်္ဘောသင်္ချိုင်းတစ်ခု တည်ရှိရာနေရာအဖြစ် ပြောစမတ်ပြုကြပြီး ဤအကြောင်းကြောင့်ပင် \"မှောင်ခိုသမားတို့၏ ပင်လယ်ကွေ့\" ဟုလည်း ခေါ်ဆိုကြသည်။</string>
+    <string name="earth_position_content_4">ဒိုလိုမိုက်သည် အီတလီနိုင်ငံ အရှေ့မြောက်ပိုင်းတွင် တည်ရှိသော တောင်တန်းတစ်ခုဖြစ်သည်။ စက်ဆီဒါတောင်သည် ထိုနေရာရှိ ရှုခင်းအလှဆုံးသော နေရာများအနက်မှ တစ်ခုဖြစ်သည်။</string>
+    <string name="earth_position_title_0">"ခရိုအေးရှား
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"ကွမ်ရှီး၊ တရုတ်
+Longji လှေကားထစ် ကွင်းပြင်များ"</string>
+    <string name="earth_position_title_2">"ဂရင်းလန်း
+lulissat"</string>
+    <string name="earth_position_title_3">"ဂရိ
+နာဗာဂီယို ကမ်းခြေ"</string>
+    <string name="earth_position_title_4">"အီတလီ
+ဒိုလိုမိုက်"</string>
     <string name="earth_summary">ကမ္ဘာဂြိုလ်သည် လူ့ယဉ်ကျေးမှု တိုးတက်မှုဖြစ်စဉ်၏ မူလဘူတ ဖြစ်ပါသည်</string>
     <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">ပင်မစာမျက်နှာ</string>
@@ -38,7 +45,7 @@
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_short_year_month_day">yyyy, MMM d</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -56,12 +63,12 @@
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_millis">"S'မီလီစက္ကန့်'"</string>
+    <string name="fmt_time_minute">"m'မိနစ်'"</string>
+    <string name="fmt_time_minute_second">"m'မိနစ်' s'စက္ကန့်'"</string>
+    <string name="fmt_time_minute_second_millis">"m'မိနစ်' s.S'စက္ကန့်'"</string>
+    <string name="fmt_time_second">"s'စက္ကန့်'"</string>
+    <string name="fmt_time_second_millis">"s.S'စက္ကန့်'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -80,47 +87,32 @@
     <string name="geometry_summary">ပုံသဏ္ဍာန်များ၊ အလင်းနှင့် အရောင်များ</string>
     <string name="geometry_super_wallpaper_label">ဂျီသြမေတြီ</string>
     <string name="geometry_title">ဂျီသြမေတြီ</string>
-    <string name="install_failed">ထည့်သွင်းမရပါ</string>
-    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+    <string name="mars_position_content_0">"ဤဒေသတွင် အကျိုးအပဲ့အစအနများဖြင့် ဖုံးလွှမ်းထားသော ရေခဲမြစ်များကြောင့် ဖြစ်ပေါ်ရသည်ဟု ယုံကြည်ခြင်းခံထားရသည့် ကျောက်ထရံများ၊ ကုန်းကလပ်များနှင့် ကျယ်ပြန့်ညီညာသော မြစ်ဝှမ်းလွင်ပြင်ဒေသများ ပါဝင်နေပါသည်။ ရှေးခေတ် အင်္ဂါဂြိုလ်ပေါ်မှ သက်ရှိများ၏ အထောက်အထားများအတွက် ရှာဖွေမှုအပိုင်းတွင် အလွန်စိတ်ဝင်စားဖွယ်ကောင်းသော ရွှံ့စေးရောသတ္တုများကိုလည်း ဤနေရာတွင် တွေ့ရှိထားပါသည်။
 
 NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+    <string name="mars_position_content_1">"Gale Crater ရှိ Pahrump တောင်ကုန်းများကို Mars rover Curiosity က ရှာဖွေသောအချိန်တွင် ရိုက်ကူးထားခြင်း ဖြစ်ပါသည်။ ဤဒေသတွင် အနည်ကျကျောက်များ ပါဝင်နေပြီး ယင်းတို့သည် ရေရှိနေစဉ် အချိန်အတွင်း ဖွဲ့စည်းဖြစ်ပေါ်လာပြီး မဲနက်သောနေရာများမှာ သဲများဖြစ်သည်ဟု သိပ္ပံပညာရှင်များက ယုံကြည်ထားပါသည်။
 
 NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+    <string name="mars_position_content_2">"Mawrth Vallis သည် အရောင်နုသော ရွှံ့စေးကျောက်များပါဝင်သည့် ရှေးခေတ် ရေစီးလမ်းကြောင်းတစ်ခု ဖြစ်ပါသည်။ ရွှံ့စေးကျောက်များသည် ကမ္ဘာပေါ်ရှိ အနုဇီဝ သက်ရှိများကို လွယ်ကူစွာ ထိန်းသိမ်းပေးထားသောကြောင့် Mawrth ပေါ်တွင် ရှေးခေတ်ဘဝများ၏ သဲလွန်စများကို ရှာဖွေတွေ့ရှိနိုင်ပါသည်။
 
 NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_3">"ဤဓာတ်ပုံများကို အင်္ဂါဂြိုလ်လေ့လာရေးအဖွဲ့က Pahrump တောင်တန်းနှင့် Gale မီးတောင်ဝတို့ကို စူးစမ်းစဉ်က ရိုက်ထားခြင်းဖြစ်သည်။ ဤဒေသတွင် သိပ္ပံပညာရှင်များက ရေရှိမှဖြစ်နိုင်သည်ဟု ယုံကြည်သော အနည်ကျကျောက်များရှိသည်။ ပိုမှောင်သောနေရာများက သဲများဖြစ်သည်။
+
+NASA/JPL/အရီဇိုးနားတက္ကသိုလ်"</string>
+    <string name="mars_position_content_4">"Bahram တောင်ကြားသည် တစ်ကြောင်းတည်းသွားသော မြစ်ဝှမ်းတောင်ကြားဖြစ်ပြီး အချို့နေရာများတွင် လှိုင်းထနေသော နံရံများရှိသည်။ ၎င်း၏ ကြမ်းပြင်တွင် တိုက်စားထားသော လက္ခဏာများရှိနေခြင်းကို ကြည့်ခြင်းဖြင့် ၎င်းဖြစ်ပေါ်ရာတွင် အရည်ပါဝင်ကြောင်း ပြသနေပါသည်။
+
+အရီဇိုးနားတက္ကသိုလ်"</string>
     <string name="mars_position_title_0">"Nilosyrtis
 Mensae ဒေသ"</string>
     <string name="mars_position_title_1">Gale Crater</string>
     <string name="mars_position_title_2">"Crater in
 Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Pahrump တောင်တန်း</string>
+    <string name="mars_position_title_4">Bahram တောင်ကြား</string>
     <string name="mars_summary">အင်္ဂါဂြိုလျ၏ ကျယ်ပြန့်လွန်းသော သဲကန္တာရသည် လူသားတို့ကို အံ့သြစေပါသည်</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">အနီရောင်ဂြိုလ်</string>
     <string name="midnight">ည</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
-    <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
-    <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
-    <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
-    <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
-    <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
-    <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
-    <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
-    <string name="miuix_appcompat_select_item">အိုင်တမ်များရွေး</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>
@@ -160,11 +152,8 @@ Mawrth Vallis"</string>
     <string name="month_september">စက်တင်ဘာ</string>
     <string name="month_september_short">စက်တင်ဘာ</string>
     <string name="month_september_shortest">စက်တင်ဘာ</string>
-    <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
     <string name="night">ညနေ</string>
-    <string name="no_cta_agreed">GetApps တွင် CTA ခွင့်ပြုချက်များ မရှိပါ</string>
-    <string name="no_install_permission">သင့်တွင် ဤအရာကို ထည့်သွင်းခွင့်မရှိပါ</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="pm">ညနေ</string>
     <string name="saturday">စနေ</string>
@@ -173,7 +162,6 @@ Mawrth Vallis"</string>
     <string name="saturn_summary">စနေဂြိုလ်၏ ကွင်းများသည် နေစကြာဝဠာအတွင်းရှိ အံ့ဖွယ်အကောင်းဆုံးသော ရှုခင်းတစ်ခု ဖြစ်ပါသည်</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">ဝေးလံသောနေရာများမှ စွဲဆောင်မှုများ</string>
-    <string name="send">ပို့ပါ</string>
     <string name="snowmountain_summary">Siguniang တောင်ကြီး၏ နေခြည်ဖြာသော တောင်စောင်းများ</string>
     <string name="snowmountain_super_wallpaper_label">နှင်းဖုံးတောင်ထိပ်များ</string>
     <string name="snowmountain_title">နှင်းဖုံးတောင်ထိပ်များ</string>
@@ -181,78 +169,15 @@ Mawrth Vallis"</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
     <string name="super_wallpaper_list_label">စူပါ နောက်ခံပုံများ</string>
-    <string name="super_wallpaper_setting_apply_success_toast">အောင်မြင်စွာ အသုံးချပြီးပါပြီ</string>
-    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">အသုံးပြုမည်</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">တည်နေရာ ရွေးချယ်မည်</string>
-    <string name="super_wallpaper_setting_coordinate_title">ကိုသြဒိနိတ်မျဥ်း</string>
-    <string name="super_wallpaper_setting_view_height_title">ပင်လယ်ရေမျက်နှာပြင်အထက်</string>
-    <string name="task_already_exist">ဤအလုပ်ရှိပြီးသားဖြစ်သည်</string>
-    <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
-    <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
-    <string name="the_arbor_day">Arbor နေ့</string>
-    <string name="the_armed_forces_day">တပ်မတော်နေ့</string>
-    <string name="the_armys_day">PLA နေ့</string>
-    <string name="the_childrens_day">ကလေးသူငယ်များနေ့</string>
-    <string name="the_chinese_youth_day">လူငယ်များနေ့</string>
-    <string name="the_christmas_day">ခရစ္စမတ်</string>
-    <string name="the_double_ninth_festival">နဝမနှစ်ထပ်ပွဲတော်</string>
-    <string name="the_dragon_boat_festival">နဂါးလှေပွဲတော်</string>
-    <string name="the_easter_day">အီစတာ</string>
-    <string name="the_eve_of_the_spring_festival">တရုတ်နှစ်သစ်ကူးအကြိုနေ့</string>
-    <string name="the_fifth_day">တရုတ်နှစ်ကူး ပဥ္စမနေ့</string>
-    <string name="the_fools_day">ဧပြီဖူးနေ့</string>
-    <string name="the_forth_day">တရုတ်နှစ်ကူး စတုတ္ထနေ့</string>
-    <string name="the_hksar_establishment_day">ဟောင်ကောင် SAR တည်ထောင်ခြင်းနေ့</string>
-    <string name="the_international_womens_day">အမျိုးသမီးများနေ့</string>
-    <string name="the_laba_festival">Laba ပွဲတော်</string>
-    <string name="the_labour_day">အလုပ်သမားနေ့</string>
-    <string name="the_lantern_festival">မီးထွန်းပွဲတော်</string>
-    <string name="the_mid_autumn_festival">ဆောင်းဦးလယ်ပွဲတော်</string>
-    <string name="the_national_day">အမျိုးသားနေ့</string>
-    <string name="the_national_father_day">ဆွန်ယက်ဆင်မွေးနေ့</string>
-    <string name="the_new_years_day">နှစ်သစ်ကူး</string>
-    <string name="the_night_of_sevens">Qixi ပွဲတော်</string>
-    <string name="the_partys_day">CPC နေ့</string>
-    <string name="the_peace_day">သတိရအောက်မေ့ပွဲနေ့</string>
-    <string name="the_retrocession_day">ပြန်လည်ဆုတ်ခွာခြင်းနေ့</string>
-    <string name="the_second_day">တရုတ်နှစ်ကူး ဒုတိယနေ့</string>
-    <string name="the_seventh_day">တရုတ်နှစ်ကူး သတ္တမနေ့</string>
-    <string name="the_sixth_day">တရုတ်နှစ်ကူး ဆဋ္ဌမနေ့</string>
-    <string name="the_spirit_festival">တစ္ဆေကြီးပွဲတော်</string>
-    <string name="the_spring_festival">တရုတ်နှစ်သစ်ကူး</string>
-    <string name="the_teachers_day">ဆရာများနေ့</string>
-    <string name="the_third_day">တရုတ်နှစ်ကူး တတိယနေ့</string>
-    <string name="the_tw_childrens_day">ကလေးသူငယ်များနေ့</string>
-    <string name="the_tw_youth_day">လူငယ်များနေ့</string>
-    <string name="the_united_nations_day">ကုလသမဂ္ဂနေ့</string>
-    <string name="the_valentines_day">ချစ်သူများနေ့</string>
-    <string name="the_water_lantern_festival">မီးမျှောပွဲတော်</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>
-    <string name="time_picker_dialog_title">နာရီတိုက်ရန်</string>
     <string name="time_picker_label_hour">နာရီ</string>
     <string name="time_picker_label_minute">မိနစ်</string>
-    <string name="title_system_wallpaper_resource">စနစ်နောက်ခံပုံများ</string>
-    <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
-    <string name="update">အပ်ပဒိတ်လုပ်ရန်</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
-    <string name="wallpaper_setting_find_more_text">နောက်ထပ် အွန်လိုင်းနောက်ခံပုံများ</string>
-    <string name="wallpaper_setting_home_wallpaper_banner_button_text">ပင်မမျက်နှာပြင်</string>
-    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">သော့ခတ်မျက်နှာပြင်</string>
-    <string name="wallpaper_setting_online_wallpaper_actionbar_title">အွန်လိုင်း နောက်ခံပုံများ</string>
-    <string name="wallpaper_setting_online_wallpaper_none_title">Discover နောက်ခံပုံများ</string>
-    <string name="wallpaper_setting_online_wallpaper_title">အွန်လိုင်း နောက်ခံပုံများ</string>
-    <string name="wallpaper_setting_super_wallpaper_banner_title">စူပါ နောက်ခံပုံများ</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">နောက်ထပ်</string>
-    <string name="wallpaper_setting_title">နောက်ခံပုံ</string>
-    <string name="weather_summary">ဒေသတွင်း မိုးလေဝသ သတင်းအချက်အလက်</string>
-    <string name="weather_super_wallpaper_label">မိုးလေဝသ</string>
-    <string name="weather_title">မိုးလေဝသ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>

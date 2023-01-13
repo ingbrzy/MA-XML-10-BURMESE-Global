@@ -45,6 +45,9 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">စက် %d လုံး ရှိသည်</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">%d စက္ကန့်တစ်ကြိမ်</item>
     </plurals>
@@ -99,6 +102,9 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d စက္ကန့်စောင့်ပြီး ပြန်စမ်းကြည့်ပါ။</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">လုပ်ငန်းစဉ် အများဆုံး %d ခု</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
     </plurals>
@@ -128,6 +134,21 @@
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">အက်(ပ်) %d ခုမှ အသိပေးချက်များ ပြနိုင်သည်</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d မိနစ်အကြာ</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d ဘစ်/နမူနာ</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d နာရီ</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d စက္ကန့်</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">သင့်နားကြပ်တစ်ဖက်သည် %d မိနစ်ထက် ပိုပြီး နားတွင်မရှိလျှင်လည်းကောင်း အားသွင်းဘူးတွင်မရှိလျှင်လည်းကောင်း သတိပေးချက်ရယူပါ</item>

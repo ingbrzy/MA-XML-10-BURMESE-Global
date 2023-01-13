@@ -76,6 +76,7 @@
     <string name="miui_transfer_history_title">ဘလူးတုသ် လွှဲပြောင်းခြင်းများ</string>
     <string name="miui_transfer_inbound_title">သုံးသူမှ စင်တာကို ဆက်သွယ်ခြင်း</string>
     <string name="miui_transfer_outbound_title">စင်တာမှ သုံးသူကို ဆက်သွယ်ခြင်း</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>

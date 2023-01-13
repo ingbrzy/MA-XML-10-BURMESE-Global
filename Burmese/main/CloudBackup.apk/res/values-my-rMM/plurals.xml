@@ -27,6 +27,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">အကြောင်းအရာများကို အရန်မသိမ်းသည်မှာ %s ပတ်ခန့် ရှိနေပုံရသည်။ အရေးကြီးသောအရာများ မဆုံးရှုံးစေရန် အရန်သိမ်းခြင်းများ ပြုလုပ်ပါ။</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">အရန်သိမ်းခြင်း %1$s ခု (%2$s)</item>
     </plurals>
@@ -54,13 +57,13 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">ဤစက်ထဲရှိ အက်ပ် %d ခု</item>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">အက်(ပ်) %d ခု အရန်သိမ်းထားသည်</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">ပုံမှန် ဦးစားပေးအဆင့် - အက်ပ် %d ခု</item>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">အက်(ပ်) %d ခု ပြန်ယူထားသည်</item>
     </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">အဓိက ဦးစားပေးအဆင့် - အက်ပ် %d ခု</item>
+    <plurals name="session_time_remain">
+        <item quantity="other">%s မိနစ်ခန့် ကျန်သေးသည်</item>
     </plurals>
 </resources>

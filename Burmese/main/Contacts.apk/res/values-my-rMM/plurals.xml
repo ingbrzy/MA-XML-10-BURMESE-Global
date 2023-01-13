@@ -126,6 +126,9 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသော</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">လွတ်သွားသောခေါ်ဆိုမှု %d ခု</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d ရွေးချယ်ထားသော</item>
     </plurals>

@@ -127,6 +127,7 @@
     <string name="display_name">အမည် ပြပါ</string>
     <string name="domain">ဒိုမိန်း</string>
     <string name="download_success">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
+    <string name="drag_not_support_with_dir">ဖိုဒါများကို ဆွဲယူပြီး ပို့မရပါ</string>
     <string name="empty_by_forbid_access">Android အကန့်အသတ်များကြောင့် ဤဖိုင်တွဲရှိအရာများကို ဤနေရာတွင် ပြမရပါ။</string>
     <string name="enable_documentsui">%s အား ဆက်တင်များဝင် ဖွင့်လိုက်ပါ> အက်ပ်အား ဦးစွာတပ်ဆင်ပါ</string>
     <string name="enable_sd_card">SD ကဒ် ထည့်သွင်းပါ (သို့) USB ဒေတာအများအပြား သိုလှောင်ခန်းကို ပိတ်ပါ။.</string>
@@ -376,7 +377,7 @@
     <string name="revoke_success">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="revoke_timer">(%1$d စက္ကန့်)</string>
     <string name="revoke_tips">ခွင့်ပြုချက်ရုတ်သိမ်းပြီးနောက် ဖိုင်မန်နေဂျာက ဒေတာကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး သက်ဆိုင်ရာဒေတာအားလုံးလည်း ဆာဗာများမှ ပျက်သွားပါမည်။ ထိုအခါ ဖိုင်မန်နေဂျာကို ပကတိအတိုင်း သုံး၍မရတော့ပါ။ မဖြစ်မနေ ခွင့်ပြုချက်ရုတ်သိမ်းလိုသလား။</string>
-    <string name="revoke_title">သတောတူညီချက် ရုပ်သိမ်းခြင်း</string>
+    <string name="revoke_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="revoking">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
     <string name="rlv_last_refreshing_time">အပ်ဒိတ်လုပ်ထားသော %1$s</string>
     <string name="rlv_loading_more">ခဏစောင့်ပါ…</string>

@@ -28,8 +28,10 @@
     <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
     <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
     <string name="accessibility_airplane_mode">လေယာဥ်ပျံပေါ်အသုံးပြုသောစနစ်။</string>
+    <string name="accessibility_brightness">တောက်ပမှုကို ပြရန်</string>
     <string name="airplane_mode">လေယာဉ်ပျံမုဒ်</string>
     <string name="bt_is_off">ဘလူးတုသ်ကို ပိတ်ထားသည်</string>
+    <string name="controls_media_title">မီဒီယာ</string>
     <string name="copy">မိတ္တူကူးရန်</string>
     <string name="expand_button_title">အဆင့်မြင့်</string>
     <string name="not_set">သတ်မှတ်မထားပါ</string>

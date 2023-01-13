@@ -61,6 +61,7 @@
     <string name="birthday_saved">မွေးနေ့သိမ်းလိုက်ပြီ</string>
     <string name="birthday_term">မွေးနေ့</string>
     <string name="button_record_menstruation">မှတ်တမ်းတင်ရန်</string>
+    <string name="calendar_account_settings">အကောင့်ဆက်တင်</string>
     <string name="calendar_permission_desc">လုပ်ငန်းစဉ်များအား စီမံမည်</string>
     <string name="calendar_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="can_not_create_long_event">ပွဲစဉ်အမည်ရှည်လွန်းသည်</string>
@@ -82,6 +83,7 @@
     <string name="change">ပြောင်းလဲ</string>
     <string name="change_response_title">တုံ့ပြန်မှုကို ပြောင်းလဲမည်</string>
     <string name="change_zodiac">ရာသီခွင် ပြောင်းမည်</string>
+    <string name="check_new_version">အပ်ပဒိတ်များစစ်ရန်</string>
     <string name="choose_your_holidays">အားလပ်ရက် ရွေးရန်</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="click_to_share">မျှဝေရန် ထိနှိပ်ပါ</string>
@@ -126,6 +128,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="date_view">ရက်စွဲ</string>
@@ -140,6 +143,7 @@
     <string name="description_calendar_edit_event">စနစ်အက်ပ်များ/ပြက္ခဒိန်/အစီအစဉ်</string>
     <string name="directory_searching_fmt">%sကို ရှာဖွေနေသည်…</string>
     <string name="discard_label">ပယ်ဖျက်မည်</string>
+    <string name="display_to_calendar">ပြက္ခဒိန်တွင်ပြပါ</string>
     <string name="does_not_repeat">တစ်ခါတည်း လုပ်ငန်းစဉ်</string>
     <string name="early_morning">နံနက်</string>
     <string name="edit_date_calculate_days_backward_error_hint">ရှေ့သို့ရေတွက်၍မရနိုင်ပါ</string>
@@ -331,6 +335,7 @@
     <string name="horoscope">ရာသီခွင်</string>
     <string name="horoscope_card_title">ယနေ့ ရာသီခွင်</string>
     <string name="horoscope_select_activity_label">ရာသီခွင် ရွေးပါ</string>
+    <string name="hour_1">%d နာရီ</string>
     <string name="image_processing">ရုပ်ပုံ အဆင်သင့် မဖြစ်သေးပါ</string>
     <string name="import_action">တင်သွင်း</string>
     <string name="import_birthday">မွေးနေ့တင်သွင်း</string>
@@ -395,6 +400,10 @@
     <string name="mesens_card_title_today_begin">ယနေ့ ဓမ္မတာစမည်</string>
     <string name="mesens_card_title_tomorrow_begin">မနက်ဖြန်တွင် ဓမ္မတာစမည်</string>
     <string name="midnight">ည</string>
+    <string name="minutes_10">%d မိနစ်</string>
+    <string name="minutes_15">%d မိနစ်</string>
+    <string name="minutes_30">%d မိနစ်</string>
+    <string name="minutes_5">%d မိနစ်</string>
     <string name="missing_name">(အမည်မရှိ)</string>
     <string name="missing_required_permission">လိုအပ်သော ခွင့်ပြုချက်အား သင် ကန့်သတ်ထားသည်။</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
@@ -654,7 +663,6 @@
     <string name="save">သိမ်းရန်</string>
     <string name="saving_event">လုပ်ငန်းစဉ်ကို သိမ်းဆည်းထားသည်</string>
     <string name="saving_event_with_guest">အပ်ဒိတ်များကို ပေးပို့နေသည်…</string>
-    <string name="search_calendar">နေ့၊ဆိုလာအသုံးနှုန်းများ၊ရိုးရာနှစ်၊Almanac၊ကံကြမ္မာ၊အစီအစဉ်၊တွေ့ဆုံပွဲ၊သတိပေးသူ၊အားလပ်ရက်၊ရုံးပိတ်ရက်၊မွေးနေ့၊၂၀၁၆၊၂၀၁၇၊နွေဦးရာသီပွဲတော်၊နှစ်သစ်ကူးနေ့၊နိုင်ငံတကာ အလုပ်သများနေ့၊ဆောင်းဦးရာသီ အလယ်ပွဲတော်</string>
     <string name="search_calendar_edit_event">တွေ့ဆုံပွဲ၊သတိပေးသူ၊အစီအစဉ်</string>
     <string name="search_calendar_settings">ပြက္ခဒိန်၊အစီအစဉ်၊သတိပေးသူ</string>
     <string name="search_events">ပွဲစဉ်များရှာရန်</string>
@@ -693,6 +701,9 @@
     <string name="share_image_label">အောက်ပါဖြင့် မျှဝေမည်</string>
     <string name="share_title">မျှဝေမည်</string>
     <string name="short_date_format">MMM dd</string>
+    <string name="shortcut_new_event">လုပ်ငန်းစဉ်ထည့်ရန်</string>
+    <string name="shortcut_next_agenda">နောက်လုပ်ငန်းစဉ်</string>
+    <string name="shortcut_settings">ဆက်တင်</string>
     <string name="show_day_view">ရက်စွဲပြပါ</string>
     <string name="show_indic_date_summary">ဟိန္ဒီ ပြက္ခဒိန်ကို စနစ် ဘာသာစကားအား အိန္ဒိယ အဖြစ် သတ်မှတ်ထားသောအခါတွင် ရရှိနိုင်သည်</string>
     <string name="show_menstruation_info">ဓမ္မတာအချက်အလက်များကို ပြပါ</string>
@@ -731,6 +742,7 @@
     <string name="subtitle_mi_calendar_predict_menstruation">ပြက္ခဒိန်သုံး၍ လာမည့်ဓမ္မတာလာချိန်များကို မှတ်တမ်းတင်၊ ခန့်မှန်းပါ။</string>
     <string name="subtitle_record_and_start_predict">ဓမ္မတာနောက်တစ်ကြိမ်လာချိန်ကို ခန့်မှန်းနိုင်ရန် ဓမ္မတာကို မှတ်သားထားပါ</string>
     <string name="subtitle_stick_record">ဓမ္မတာလာချိန်များကို ပိုမိုတိကျစွာ ခန့်မှန်းနိုင်ရန် သင်၏ ဓမ္မတာများကို မှတ်ထားပါ</string>
+    <string name="suggestions_and_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>

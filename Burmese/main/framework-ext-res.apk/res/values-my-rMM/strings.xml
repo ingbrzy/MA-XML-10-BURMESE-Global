@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">မူလ သတ်မှတ်ထားသော ဖုန်းမြည်သံ (%1$s)</string>
     <string name="android_ringtone_silent">မရှိ</string>
     <string name="android_ringtone_unknown">အမည်မသိ ဖုန်းမြည်သံ</string>
+    <string name="app_continuity_channel_name">အက်(ပ်)အပြင်အဆင်ညှိခြင်းများ</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">AliPay ငွေပေးချေကုဒ်ကို ဖွင့်မရပါ</string>
     <string name="application_cannot_open_alipay_scanner">AliPay စကန်နာကို ဖွင့်မရပါ</string>
@@ -111,6 +112,10 @@
     <string name="crystal">ခရစ်စတယ်</string>
     <string name="cut">ဖြတ်ပါ</string>
     <string name="dance">အက</string>
+    <string name="dark_mode_enable">ဖွင့်ရန်</string>
+    <string name="dark_mode_suggest_message">နေဝင်ချိန်တွင် ကြည့်ရှုခြင်း ပိုသက်တောင့်သက်သာဖြစ်စေရန် အမှောင်မုဒ်သို့ အလိုအလျောက်ပြောင်းနိုင်သည်။</string>
+    <string name="dark_mode_suggest_title">မှောင်လာပြီ</string>
+    <string name="dark_mode_suggest_toast">ယခုအချိန်မှစ၍ နေဝင်ချိန်တွင် အမှောင်မုဒ် အလိုအလျောက်ပွင့်ပြီး နေထွက်ချိန်တွင် ပိတ်ပါမည်</string>
     <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="daydream">စိတ်ကူးအိပ်မက်</string>
     <string name="default_device_name">မသိသောစက်</string>
@@ -130,6 +135,7 @@
     <string name="dewdrops">မိုးသောက်နှင်းစက်</string>
     <string name="digitaluniverse">Digital universe (stereo)</string>
     <string name="disable_nfc">ကြိုးမဲ့အားသွင်းရန် NFC ကို ပိတ်ထားသည်</string>
+    <string name="disable_nfc_haptic_reverse">ကြိုးမဲ့အားပြောင်းစနစ်အတွက် NFC နှင့် တုန်ခါမှုကို ပိတ်ထားသည်</string>
     <string name="disable_nfc_reverse">ကြိုးမဲ့အားသွင်းရန် ပြောင်းခြင်းအတွက် NFC ကို ပိတ်ထားသည်</string>
     <string name="echo">ပဲ့တင်သံ</string>
     <string name="eighthours">၈ နာရီ</string>
@@ -137,6 +143,7 @@
     <string name="enable_livetalk_title">ငွေဖြည့်ကဒ်အား ဖွင့်ပါ</string>
     <string name="enable_midrop">ဖွင့်ရန်</string>
     <string name="enable_nfc">အားမသွင်းတော့ပါ။ NFC ပြန်ပွင့်ပါပြီ။</string>
+    <string name="enable_nfc_haptic_reverse">အားပြောင်းစနစ်ရပ်သွားသည်။ NFC နှင့် တုန်ခါမှုတို့ ပြန်ပွင့်ပါပြီ။</string>
     <string name="enable_nfc_reverse">အားသွင်းရန် မပြောင်းတော့ပါ။ NFC ပြန်ပွင့်ပါပြီ။</string>
     <string name="expect">စိတ်လှုပ်ရှားဖွယ်</string>
     <string name="fadein">ကြွေကျ</string>
@@ -154,6 +161,7 @@
     <string name="flip_screen_camera_tip">ကင်မရာသုံးရန် စက်ကို လှည့်ပါ</string>
     <string name="flute">ပုလွေ</string>
     <string name="fm_record_smaple_prefix_miui">FM အသံဖမ်းယူမှု</string>
+    <string name="fold_small_not_split">ပြင်ပမျက်နှာပြင်တွင် မျက်နှာပြင်ခွဲခြင်း ခွင့်မပြုပါ</string>
     <string name="force_exit_message">အတင်းပိတ်လိုက်သော %1$s</string>
     <string name="force_exit_skip_message">%1$s ပိတ်ရန် စနစ်တစ်ခုလိုအပ်​သောကြောင့် ပိတ်မရပါ။</string>
     <string name="fourhours">၂ နာရီ</string>
@@ -163,6 +171,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">မြန်နှိပ်ခြင်းအား ဖွင့်ပါ</string>
     <string name="freeform_exchange_tip">အက်(ပ်) ဖွင့်ရန် လက်လွှတ်ပါ</string>
     <string name="freeform_exchange_tip2">ဖျက်သိမ်းရန် ထောင့်သို့ ဆွဲယူပါ</string>
+    <string name="freeform_exchange_tip3">မျောလွင့်အကွက်ကို မျက်နှာပြင်အပြည့်မုဒ်တွင် ဖွင့်ရန်</string>
     <string name="frenchchic">ခေတ်ဆန်ဆန်</string>
     <string name="frequent_email">အသုံးများသော အီးမေး(လ်)</string>
     <string name="frequent_phrases">သုံးနေကျ စကားစုများ</string>
@@ -204,6 +213,13 @@
     <string name="international_livetalk_enable">ပြည်ပခေါ်ဆိုမှုများအတွက် ငွေဖြည့်ပက်က​ေ့ချ်အား အသုံးပြုခြင်း</string>
     <string name="key_btn_ok">အိုကေ</string>
     <string name="key_btn_space">နေရာလွတ်</string>
+    <string name="keyboard_connect_failed">ကီးဘုတ် ချိတ်မရပါ။ ထပ်တွဲကြည့်ပါ။</string>
+    <string name="keyboard_identity_reject_confirm">ရပါပြီ</string>
+    <string name="keyboard_identity_reject_message">သင့်ကီးဘုတ်ကို ဤစက်နှင့် တွဲသုံးနိုင်ပုံရမပါ။</string>
+    <string name="keyboard_identity_transfer_error_message">ကီးဘုတ်နှင့် ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="keyboard_upgrade_failed">ကီးဘုတ်ကို အပ်ပဒိတ်လုပ်မရပါ</string>
+    <string name="keyboard_upgrade_start">ကီးဘုတ်ကို အပ်ပဒိတ်လုပ်နေသည်…</string>
+    <string name="keyboard_upgrade_success">ကီးဘုတ်ကို အောင်မြင်စွာ အပ်ပဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="kungfu">ကွန်ဖူး</string>
     <string name="leisure">အားလပ်ချိန်</string>
     <string name="livetalk_not_enable">ငွေဖြည့်ခြင်း ပက်ကေ့ချ်ပိတ်ထား</string>
@@ -235,6 +251,8 @@
     <string name="miremix">Mi (Remix)</string>
     <string name="miui_forbid_poweroff_when_device_locked">ပါဝါပိတ်၍ မရပါ၊ စက်အား လော့ခ်ချထားသည်။</string>
     <string name="miui_multiwindow_not_support_cvw">ဤအက်(ပ်)အတွက် အကွက်အရွယ်အစားကို ညှိမရပါ</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s က မျောလွင့်အကွက်များစနစ်ကို မပံ့ပိုးပါ</string>
+    <string name="miui_multiwindow_not_support_split">%1$s က မျက်နှာပြင်ခွဲစနစ်ကို မပံ့ပိုးပါ</string>
     <string name="miui_screen_ratio_hint">မျက်နှာပြင်အချိုးစား ဆိုင်ရာကိစ္စရပ်များ</string>
     <string name="miui_screen_ratio_hint_dont_show_again">နောက်ထပ် မပြပါနှင့်</string>
     <string name="miui_screen_ratio_hint_go_to_settings">ဆက်တင်သို့ သွားပါ</string>
@@ -262,6 +280,7 @@
     <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">နားလည်ပါပြီ</string>
     <string name="open_close_tip_content">မျောလွင့်အကွက်ကို ပိတ်ရန် အက်ရှင်ဘားကိုထိ၍ ဖိထားပြီး အပေါ်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="open_miui_optimization">MIUI အဆင့်မြှင့်စနစ်ကို ဦးစွာဖွင့်ပါ</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">လိမ္မော်</string>
@@ -309,8 +328,19 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">ပြန်စရန်</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">ကျွန်ုပ်၏ရွေးချယ်မှုကို မှတ်ထားပါ</string>
+    <string name="relaunch_dialog_button_cancel">မလုပ်တော့ရန်</string>
+    <string name="relaunch_dialog_button_confirm">ပြန်စရန်</string>
+    <string name="relaunch_dialog_message">ပြန်စပြီးမှသာ ဤအက်(ပ်)ကို အရွယ်ပြောင်းနိုင်ပါမည်။ အက်(ပ်)ကို ယခုပြန်စလိုက်ပါက မသိမ်းရသေးသော အပြောင်းအလဲများ ဆုံးရှုံးပါမည်။ မဖြစ်မနေ ပြန်စလိုသလား။</string>
+    <string name="relaunch_dialog_title">\"%s\" ကို ယခုပြန်စလိုသလား။</string>
+    <string name="relaunch_fold_notification_content">ဤမျက်နှာပြင်တွင် ဤအက်(ပ်)ကို မှန်ကန်စွာ ပြသမည်မဟုတ်ပါ။ အပြင်အဆင်များညှိရန် အက်(ပ်)ကို ပြန်စပါ။</string>
+    <string name="relaunch_notification_title">\"%s\" ကို ပြန်စရန်</string>
+    <string name="relaunch_unfold_notification_content">ဤမျက်နှာပြင်တွင် ဤအက်(ပ်)ကို မှန်ကန်စွာ ပြသမည်မဟုတ်ပါ။ အပြင်အဆင်များညှိရန် အက်(ပ်)ကို ပြန်စပါ။</string>
     <string name="remain">ကျန်ရှိနေသော− %s</string>
     <string name="replace">အစားထိုးပါ</string>
+    <string name="rescuepartyplus_config_reset_context">အချို့ဒေတာများ ဖျက်ထားခံရနိုင်သည်။ အသေးစိတ်ကြည့်ရန် တို့ပါ။</string>
+    <string name="rescuepartyplus_config_reset_title">စနစ်ပြုပြင်မှု ပြီးပါပြီ</string>
     <string name="resolver_app_recommend_flag">အကြံပြုထားသော</string>
     <string name="resolver_checkbox_always">အမြဲတမ်း</string>
     <string name="resolver_checkbox_once">တစ်ကြိမ်သာ</string>
@@ -325,6 +355,11 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung ဖုန်း</string>
+    <string name="sc_notification_warning_content">အက်(ပ်)ကို ဤမျက်နှာပြင်တွင် မှန်ကန်စွာ မပြသပါက နဂိုမြင်ကွင်းသို့ ပြန်ထားနိုင်သည် သို့မဟုတ် ဆက်တင်တွင် အက်(ပ်)မြင်ကွင်း စိတ်ကြိုက်များကို ပြောင်းနိုင်သည်။</string>
+    <string name="sc_notification_warning_restore">ပြန်ထားရန်</string>
+    <string name="sc_notification_warning_settings">ဆက်တင်</string>
+    <string name="sc_notification_warning_title">အက်(ပ်)မြင်ကွင်း စိတ်ကြိုက်များ</string>
+    <string name="sc_relaunch_dialog_message">ဤမျက်နှာပြင်တွင် ဤအက်(ပ်)ကို မှန်ကန်စွာ ပြသမည်မဟုတ်ပါ။ အပြင်အဆင်များညှိရန် အက်(ပ်)ကို ပြန်စပါ။</string>
     <string name="scanning_device_tips">အနီးအနားရှိ စက်များကို ရှာနေသည်… အခြားစက်များက ရှာနိုင်သေ မုဒ်တွင် ရှိရပါမည်။</string>
     <string name="screen_button_notification_text">၄င်းတို့ကိုဖွင့်ရန် ပင်မခလုတ်နှင့်ပါဝါခလုတ်အား တပြိုင်နက် နှိပ်ပါ။</string>
     <string name="screen_button_notification_title">လမ်ကြောင်းပြခလုတ်များ ပိတ်နေဆဲပါ</string>
@@ -357,6 +392,7 @@
     <string name="set_password_action">စကားဝှက်သတ်မှတ်</string>
     <string name="set_password_message">ဤလုပ်ဆောင်ချက်အား အသုံးပြုရန် စကားဝှက်တစ်ခု သတ်မှတ်ပါ</string>
     <string name="set_password_title">စကားဝှက်သတ်မှတ်</string>
+    <string name="shortcut_no_support_on_pc_mode">PC မုဒ်တွင် ဤလက်ဟန်ခြေဟန်ကို မပံ့ပိုးပါ</string>
     <string name="shutdown_confirm_title">စက်အား ပါဝါပိတ်မည်လား?</string>
     <string name="shutdown_progress">ပိတ်နေသည်…</string>
     <string name="silence_mode">အသံတိတ်မုဒ်</string>
@@ -413,6 +449,8 @@
     <string name="status_bar_toggle_wifi_ap">ကြိုးမဲ့အင်တာနက်လက်ခံမှုအချက်ပြ</string>
     <string name="stoneskimming_preview">အလင်းအဆင့်များ</string>
     <string name="stop_operate_camera_frequently">အရှေ့ကင်မရာအား ခဏခဏ ဖွင့်နေသည်။</string>
+    <string name="stylus_pen_mask_screenshot">မျက်နှာပြင်ဓာတ်ပုံရိုက်ရန် မျက်နှာပြင်ကို တို့ပါ</string>
+    <string name="stylus_pen_mask_text">စာစရေးရန် မျက်နှာပြင်ကို တို့ပါ</string>
     <string name="subinfo_default_name">ဆင်းမ်%d</string>
     <string name="sunlight_notification_content">ပတ်ဝန်းကျင်အရောင်တောက်နေလျှင် တောက်ပမှုကို အလိုအလျောက် ချိန်ညှိပါ</string>
     <string name="sunlight_notification_title">နေရာင်ခြည်မုဒ်ကို ဖွင့်ပါ</string>
@@ -441,6 +479,7 @@
     <string name="unknown_caller">အမည်မသိ နံပါတ်</string>
     <string name="unrecognized_manufacture">အမည်မသိ</string>
     <string name="unrecognized_model">မသိသောစက်</string>
+    <string name="unreplace_freeform_count_max">နောက်ထပ်မျောလွင့်အကွက်များ ဖွင့်မရပါ</string>
     <string name="user_authentication_failed">အတည်ပြုမှု မအောင်မြင်ခြင်း -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">ကလေးသုံးနေရာသို့ ပြောင်းရန်…</string>
     <string name="user_switching_dialog_switch_out_kid_space">ကလေးသုံးနေရာမှ ထွက်ရန်…</string>

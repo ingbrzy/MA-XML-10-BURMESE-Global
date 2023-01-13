@@ -268,6 +268,7 @@
     <string name="dual_app">နှစ်ခုတွဲအက်ပ်များ</string>
     <string name="early_morning">နံနက်</string>
     <string name="edit">တည်းဖြတ်မည်</string>
+    <string name="edit_folder">ဖိုဒါပြင်ရန်</string>
     <string name="edit_folder_title">ဖိုလ်ဒါအမည် တည်းဖြတ်ပါ</string>
     <string name="edit_mode_dual_app">နှစ်ခုတွဲအက်ပ် ဖန်တီးမည်</string>
     <string name="edit_mode_group">အုပ်စု</string>
@@ -351,9 +352,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">အောင်မြင်သွာ ပြုလုပ်ပြီးပါပြီ</string>
     <string name="fold_pair_install_shortcut_long_click">ပင်မမမျက်နှာပြင်တွင်ထည့်ရန် ထိပြီးဖိထားပါ</string>
     <string name="fold_pair_installed_shortcut_launcher">ဤရှော့ကတ်ရှိပြီးသား ဖြစ်သည်</string>
     <string name="folder_name">ဖိုလ်ဒါ</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
+    <string name="folder_picker_big_text">အကြီး</string>
+    <string name="folder_picker_default_text">ပုံမှန်</string>
+    <string name="folder_picker_options_tab_text">အရွယ်</string>
+    <string name="folder_picker_sliding_button_tab_text">ဟိုက်လိုက်လုပ်ထားသော အက်(ပ်)များအကြံပြုရန်</string>
+    <string name="folder_picker_tab_text">ဖိုဒါ</string>
     <string name="frame_load_failed">ဖရိန်အား ရယူ၍ မရပါ</string>
     <string name="free_style_apps_title">အက်ပ် ရွေးပါ</string>
     <string name="free_style_drawer_title">အက်ပ်အားလုံး</string>
@@ -432,6 +440,7 @@
     <string name="icon_style">စတိုင်</string>
     <string name="image_too_small_message">မူရင်းရုပ်ပုံမှာ သေးလွန်းသည်။</string>
     <string name="install">ထည့်သွင်းမည်</string>
+    <string name="intelligent_exposed_button_summary_text">အက်(ပ်)များကို ဖိုဒါအကြီးနှင့် ဟိုက်လိုက်လုပ်ရန် အက်(ပ်)အသုံးပြုမှုအပေါ်အခြေခံသော စမတ်အကြံပြုချက်များ သုံးပါ</string>
     <string name="invalid_contact_shortcut">အဆက်အသွယ် မမှန်ပါ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေသည်…</string>
     <string name="is_system_wallpaper_message">စက်စနစ် အရင်းမြစ်များအား ဖျက်၍မရပါ</string>
@@ -504,6 +513,7 @@
     <string name="minus_one_screen">အက်ပ် မီးခံသေတ္တာ</string>
     <string name="miui_screen_config_title">ပင်မမျက်နှာပြင် ဆက်တင်</string>
     <string name="miui_widget_menu_replace_text">ပြောင်းရန်</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">အက်(ပ်)ပေါင်းစုက ဤအရွယ်အစား ဝိဂျက်များကို မပံ့ပိုးပါ</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
@@ -530,6 +540,8 @@
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>
+    <string name="monochrome_summary">တွဲသုံးနိုင်သော သင်္ကေတများအတွက် နောက်ခံအရောင်ပြောင်းပါ</string>
+    <string name="monochrome_title">နောက်ခံအရောင်</string>
     <string name="month_april">ဧပြီ</string>
     <string name="month_april_short">ဧပြီ</string>
     <string name="month_april_shortest">ဧပြီ</string>
@@ -710,6 +722,8 @@
     <string name="quick_search_guide_quick_search">အမြန်ရှာစနစ်</string>
     <string name="quick_search_guide_title">မူလမုဒ်ကို ရွေးပါ</string>
     <string name="recent_apps">လတ်တလော</string>
+    <string name="recent_menu_item_add_pair">ဤပေါင်းစပ်မျက်နှာပြင်ခွဲအတွက် ပင်မမျက်နှာပြင်ရှော့ကတ်တစ်ခု လုပ်ပါ</string>
+    <string name="recent_menu_item_add_pair_first_toast">ဤပေါင်းစပ်မျက်နှာပြင်ခွဲအတွက် ပင်မမျက်နှာပြင်ရှော့ကတ်တစ်ခု လုပ်ပါ</string>
     <string name="recent_menu_item_info">အချက်အလက်</string>
     <string name="recent_menu_item_lock">သော့ခတ်ရန်</string>
     <string name="recent_menu_item_multi_window">မျက်နှာပြင်ခွဲရန်</string>
@@ -896,6 +910,8 @@
     <string name="title_select_shortcut">ရှော့ကဒ် ရွေးပါ</string>
     <string name="toast_drag_to_assistant_reject">အက်(ပ်)ပေါင်းစုစနစ်ကို စဖွင့်နေသည်…</string>
     <string name="toast_screen_icons_misplaced">အခြား အရင်းအမြစ်မှ ပြန်ရယူခဲ့သော အိုင်ကွန် အချို့သည် နေရာလွဲနေနိုင်သည်။</string>
+    <string name="toast_split_app_unsupported">ဤအက်(ပ်)က မျက်နှာပြင်ခွဲမပံ့ပိုးပါ</string>
+    <string name="toast_split_select_app">မျက်နှာပြင်ခွဲသုံးရန် အက်(ပ်)တစ်ခုတို့ပါ</string>
     <string name="today">ယနေ့</string>
     <string name="toggle_select_title">အထိန်းခလုတ် ရွေးပါ</string>
     <string name="toggle_title">အထိန်းခလုတ်များ</string>
@@ -944,8 +960,12 @@
     <string name="widget_global_search">ရှာ​ဖွေမည်</string>
     <string name="widget_quick_function">အမြန် လုပ်ဆောင်ချက်များ</string>
     <string name="widgets_preview_title">ဝိဂျက်များထည့်ရန်</string>
+    <string name="work_mode_off_detailed_text">သင်၏ အလုပ်သုံးအက်ပ်များက အကြောင်းကြားချက်များ ပို့ခြင်း၊ သင့်ဘက်ထရီ သုံးခြင်း (သို့) သင့်တည်နေရာ သုံးခြင်းတို့ မပြုလုပ်နိုင်ပါ</string>
     <string name="work_mode_off_label">အသိပေးချက်များ ပိတ်ထားပြီး အက်(ပ်)များ မရရှိနိုင်သေးပါ</string>
+    <string name="work_mode_off_text">အလုပ်အက်(ပ်)များ ခေတ္တရပ်ထားသည်</string>
     <string name="work_mode_on_label">သင့်အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်</string>
+    <string name="work_mode_toggle_off">အလုပ်အက်(ပ်)များပိတ်ရန်</string>
+    <string name="work_mode_toggle_on">အလုပ်အက်(ပ်)များဖွင့်ရန်</string>
     <string name="work_profile_first_content">ပုဂ္ဂိုလ်ရေးရာဒေတာများကို အလုပ်အက်(ပ်)များနှင့် သီးခြားခွဲထားပြီး ကွယ်ဝှက်ထားပါသည်</string>
     <string name="work_profile_got_button">နားလည်ပါပြီ</string>
     <string name="work_profile_next_button">နောက်တစ်ဆင့်</string>

@@ -115,7 +115,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_note">စစ်ဆေးမှုပြီးဆုံးရန် ၃ မိနစ်ကြာပါမည်။</string>
+    <string name="four_note">စစ်ဆေးခြင်းအပြီးသတ်ရန် %d ခန့် ကြာပါမည်။</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
@@ -226,7 +226,7 @@
     <string name="music_audio_effect_settings">အထူးပြုလုပ်ချက် ဆက်တင်များ</string>
     <string name="music_audio_visual_wake_lock">မျက်နှာပြင် ဖွင့်ထားပါ</string>
     <string name="music_audio_visual_wake_lock_summary">ပုံရိပ်ဖန်တီးချက်များ ပြသစဉ် မျက်နှာပြင် မပိတ်ပါနှင့်</string>
-    <string name="music_below_thirty_years">အသက် ၃၀ အထိ</string>
+    <string name="music_below_thirty_years">နှစ် %d အောက်များ</string>
     <string name="music_customized_sound_summary">အကြားအာရုံကိုလိုက်၍ အသံညှိပါ</string>
     <string name="music_customized_sound_title">အသံညှိခြင်း</string>
     <string name="music_delete">ဖျက်ရန်</string>
@@ -323,10 +323,10 @@
     <string name="music_sound_num">စိတ်ကြိုက်ကြိုသတ်မှတ်ခြင်း %s</string>
     <string name="music_sound_sample">စနစ်ကြိုသတ်မှတ်ချက်များ</string>
     <string name="music_sure_to_delete_sound_msg">ရွေးထားသောကြိုသတ်မှတ်ချက်များကို ဖျက်လိုသလား။</string>
-    <string name="music_thirty_to_sixty_years">အသက် ၃၀-၆၀ ကြား</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">နှစ် %d-%d ကြား</string>
     <string name="music_title_dolby_control">Dolby ဒီဂျစ်တယ်လ် Plus</string>
     <string name="music_unsupport_effect_summary">USB နားကြပ်အား မထောက်ပံ့ထားပါ</string>
-    <string name="music_upper_sixty_years">အသက် ၆၀ အထက်</string>
+    <string name="music_upper_sixty_years">နှစ် %d ကျော်များ</string>
     <string name="name">အမည်</string>
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
@@ -427,7 +427,8 @@
     <string name="sound_transmission_start">စရန်</string>
     <string name="sound_transmission_stop">ခေတ္တဆိုင်းရန်</string>
     <string name="sound_transmission_title">ကြိုးမဲ့မိုက်</string>
-    <string name="spatial_audio_summary">ခေါင်းလှုပ်ရှားမှုကိုလိုက်ပြီး စူးနစ်အသံကို ညှိပါ</string>
+    <string name="spatial_audio">စူးနစ်အသံ</string>
+    <string name="spatial_audio_summary">အသံကို နားကြပ်မှတစ်ဆင့်ဖွင့်ချိန်တွင် စူးနစ်မှုနှင့် ကျယ်လွင့်မှုကို ခံစားပါ</string>
     <string name="speaker_scenario_resume">မူလအထူးပြုလုပ်ချက်များ ပြန်ထားရန်</string>
     <string name="start_test_sound">စစ်ဆေးမှုစရန်</string>
     <string name="sunday">တနင်္ဂနွေ</string>
@@ -479,7 +480,6 @@
     <string name="the_united_nations_day">ကုလသမဂ္ဂနေ့</string>
     <string name="the_valentines_day">ချစ်သူများနေ့</string>
     <string name="the_water_lantern_festival">မီးမျှောပွဲတော်</string>
-    <string name="third_note">ဆိတ်ငြိမ်ရာရှာပါ။</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>

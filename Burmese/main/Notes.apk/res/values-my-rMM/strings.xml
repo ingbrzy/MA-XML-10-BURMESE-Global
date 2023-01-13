@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_denied_info">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ ခေတ္တစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="access_photos_and_videos">ဓာတ်ပုံနှင့် ဗီဒီယိုများဖတ်ရန်</string>
     <string name="action_collapse">ဖုံးထားရန်</string>
     <string name="action_expand">ပိုပြရန်</string>
     <string name="action_folder_description">ဖိုလ်ဒါများကို ကြည့်ပါ</string>
@@ -14,7 +15,7 @@
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="actionbar_close_description">ပိတ်ပါ</string>
     <string name="actionbar_home_description">နောက်သို့</string>
-    <string name="add_account_desc">သင်၏ Mi အကောင့်ဖြင့် မှတ်စုများကို ဆင့်ခ်လုပ်မလား?</string>
+    <string name="add_account_desc">သင်၏ Xiaomi အကောင့်ဖြင့် မှတ်စုများကို ဆင့်ခ်လုပ်မလား?</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="alarm_bar_title">သတိပေးချက်</string>
     <string name="alert_action_edit_anyway">ဆက်လက်တည်းဖြတ်ပါ</string>
@@ -34,6 +35,9 @@
     <string name="app_name">မှတ်စု</string>
     <string name="app_notification_info">မှတ်စုများ နောက်ခံ၌ အလုပ်လုပ်နေသည်</string>
     <string name="app_widget">မှတ်စု</string>
+    <string name="app_widget_name_create_note">မှတ်စုများပြုလုပ်ရန်</string>
+    <string name="app_widget_name_create_todo">အလုပ်တာဝန်များပြုလုပ်ရန်</string>
+    <string name="app_widget_name_fast_entry">ရှော့ကတ်များ</string>
     <string name="app_widget_name_new">မှတ်စုများ</string>
     <string name="application_icon">အက်ပ်အိုင်ကွန်</string>
     <string name="audio_btn_mode_meeting">အစည်းအဝေး</string>
@@ -161,7 +165,7 @@
     <string name="empty_folder_import_notes">မှတ်စုများ ထည့်သွင်းမည်</string>
     <string name="empty_folder_no_notes">ဤနေရာတွင် မှတ်စုမရှိပါ</string>
     <string name="enable_sync">ဆင့်ခ်လုပ်ပါ</string>
-    <string name="enable_sync_desc">မှတ်စုများကို သင့်၏ (%1$s) Mi အကောင့်နှင့် ဆင့်(ခ်)လုပ်လိုသလား။</string>
+    <string name="enable_sync_desc">မှတ်စုများကို သင့်၏ (%1$s) Xiaomi အကောင့်နှင့် ဆင့်(ခ်)လုပ်လိုသလား။</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="error_contact_not_exist">အဆက်အသွယ် ရှိမနေပါ</string>
@@ -451,6 +455,7 @@
     <string name="new_audio_create_guide_tip">အသံမှတ်စုပြုလုပ်ရန် ဖိပြီးနှိပ်ထားပါ</string>
     <string name="new_audio_create_talkback_des">စာသားမှတ်စုပြုလုပ်ရန် တို့ပါ။ အသံမှတ်စုပြုလုပ်ရန် ဖိပြီးနှိပ်ထားပါ။ အသံသွင်းခြင်းကိုရပ်ပြီး မှတ်စုပြုလုပ်ရန် ခလုတ်ကို လက်လွှတ်ပါ၊ ဖျက်သိမ်းရန် အပေါ်သို့ဆွဲပါ။</string>
     <string name="new_data_empty_note">ဤနေရာတွင် မည်သည့်အရာမျှ မရှိသေးပါ</string>
+    <string name="new_lite_audio_create_talkback_des">မှတ်စုလုပ်ရန် တို့ပါ</string>
     <string name="night">ညနေ</string>
     <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="noon">မွန်းတည့်</string>
@@ -481,6 +486,7 @@
     <string name="note_write_hint">စာစရေးရန်</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">မှတ်စုများသည် စနစ်အက်(ပ်)များဖြစ်သည်။ ဤအက်(ပ်)ကို ဖြုတ်ပြီးနောက် သုံးမရတော့ပါ။</string>
     <string name="notes_description_title">မှတ်စုများပြန်ဖြုတ်လိုသလား။</string>
     <string name="notification_content_add_todo_from_other_app">လုပ်ငန်းအသစ်တစ်ခု သင် ထည့်ထားပါသည်။ ကြည့်ရန် တို့ပါ။</string>
@@ -540,6 +546,8 @@
     <string name="permission_microphone_desc">အသံမှတ်စုများ အသံသွင်းရန်</string>
     <string name="permission_network_for_cloud_desc">နုတ်များကို ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန် အင်တာနက်ချိတ်ရပါမည်။ ဆင့်(ခ်)လုပ်ရန်အတွက် မိုဘိုင်းဒေတာ သုံးနိုင်သည်။ ယခုချိတ်လိုပါသလား။</string>
     <string name="permission_phone_state_desc">ဖုန်းဝင်လာလျှင် အသံမှတ်စုများ အသံသွင်းခြင်းကို ရပ်ရန်</string>
+    <string name="permission_photos_desc">မှတ်စုများတွင် ပုံထည့်ရန်</string>
+    <string name="permission_photos_desc_pad">မှတ်စုများတွင် ပုံထည့်ရန်</string>
     <string name="permission_read_contact_desc">အဆက်အသွယ်များနှင့် ဖုန်းခေါ်ချိန် ပြုလုပ်ထားသော မှတ်စုများနှင့် ချိတ်ဆက်နေသည်</string>
     <string name="permission_storage_desc">မှတ်စုများကို ပုံအဖြစ် သိမ်းရန်</string>
     <string name="permission_storage_desc_new_v12">ပုံများကို မှတ်စုများတွင် ပေါင်းထည့်ရန်နှင့် မှတ်စုများကို ပုံအဖြစ်သိမ်းရန်</string>
@@ -640,6 +648,7 @@
     <string name="search_setting_description">သင့်မှတ်စုများထဲတွင် စာသားများအား ရှာဖွေပါ</string>
     <string name="select_account_prompt">မှတ်စုများကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="send">ပို့ပါ</string>
+    <string name="send_notifications_for_reminder">သတိပေးချက်များပို့ရန်</string>
     <string name="set_alarm_description">နှိုးစက်သတ်မှတ်</string>
     <string name="setting_big_screen_layout_columns">ဘေးတန်း</string>
     <string name="setting_big_screen_layout_flat">အကွက်များ</string>
@@ -781,6 +790,7 @@
 မှတ်စုအား SD ကဒ် ဖတ်ယူခွင့် ပေးပါ။"</string>
     <string name="toast_refuse_to_use_phone_state">"ဖုန်း ခွင့်ပြုချက်များအား ကန့်သတ်ထားသည်။
 မှတ်စုအား ဖုန်း အခြေအနေ ဖတ်ယူခွင့် ပေးပါ။"</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">မှတ်စုများတွင် ပုံထည့်နိုင်ရန် ဤအက်(ပ်)အား သင့်ဓာတ်ပုံများကို ဖတ်ခွင့်ပေးပါ</string>
     <string name="toast_refuse_to_use_record_audio">"မိုက်ခရိုဖုန်း ခွင့်ပြုချက်များအား ကန့်သတ်ထားသည်။
 မှတ်စုအား အသံသွင်းရန် ခွင့်ပြုပါ။"</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">ပုံများကို မှတ်စုများတွင် ပေါင်းထည့်ရန်အတွက် မှတ်စုများအား သိုလှောင်ခန်းကို ဖတ်ခွင့်ပြုပါ</string>
@@ -885,6 +895,9 @@
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
+    <string name="widget_all_notes_name">မှတ်စုအားလုံး</string>
+    <string name="widget_all_todo_name">အလုပ်တာဝန်အားလုံး</string>
+    <string name="widget_click_check">ကြည့်ရန် တို့ပါ</string>
     <string name="widget_content_loading">ခဏစောင့်ပါ…</string>
     <string name="widget_create_select_size">အရွယ်အစားရွေးပါ</string>
     <string name="widget_empty_content">မှတ်စုရွေးရန် တို့ပါ</string>
@@ -901,5 +914,7 @@
     <string name="widget_size_item_super_big">အလွန်ကြီးသည်</string>
     <string name="widget_size_not_support">အလွန်ကြီးသောဝိဂျက်များကို ဤစက်တွင် မပံ့ပိုးပါ</string>
     <string name="widget_take_notes_title">မှတ်စုများ</string>
+    <string name="widget_total_notes">%1$d</string>
+    <string name="widget_total_todo">%1$d</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

@@ -38,6 +38,7 @@
     <string name="australian_magpie">Australian magpie</string>
     <string name="authorization_btn_text">စရန်</string>
     <string name="authorization_tips">လိုအပ်သောခွင့်ပြုချက်များ</string>
+    <string name="avalible_per_day">ဆက်ရှင်ကာလ</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">နောက်သို့</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -87,6 +88,9 @@
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
+    <string name="category_limit_notify_title">မျက်နှာပြင်ဖွင့်ထားချိန် သတိပေးချက်</string>
+    <string name="category_list_expand">အခြား</string>
+    <string name="category_list_packup">ဖုံးရန်</string>
     <string name="category_other">အခြား</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Cheetah</string>
@@ -98,11 +102,14 @@
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="click_to_save">Tap \"Done\" to set a general ringtone.</string>
     <string name="close">ပိတ်</string>
+    <string name="closed_high_refresh_options">ရီဖရက်(ရှ်)နှုန်းအမြင့်မသုံးသော အက်(ပ်)များ</string>
     <string name="color_gamut">အရောင်စုံ</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
+    <string name="compulsor_tip">ပင်မမျက်နှာပြင်</string>
     <string name="contact_description">ဖုန်းခေါ်ဆိုရန် ပင်မမျက်နှာပြင်ရှော့ကတ်များကို တို့ပါ</string>
     <string name="contact_title">အဆက်အသွယ်ဖြတ်လမ်းဖိုင်များ</string>
+    <string name="continue_time">ဆက်ရှင်ကာလ</string>
     <string name="contrast_ratio">ဖြူမဲတိုးလျှော့</string>
     <string name="control_center_title">ယနေ့ မျက်နှာပြင် အချိန်</string>
     <string name="control_center_title_new">ယနေ့ သုံးခဲ့သော</string>
@@ -113,6 +120,8 @@
     <string name="created_successfully">အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">သတ်မှတ်မည်</string>
+    <string name="customize_high_refresh_summary">ဤအင်္ဂါရပ်က ရီဖရက်(ရှ်)နှုန်းအမြင့်ကို %d Hz ထိ ပံ့ပိုးသည်။ စက်ဦးစားပေးမှုများအလိုက် သင့်တော်သော ရီဖရက်(ရှ်)နှုန်းကို အလိုအလျောက် ရွေးနိုင်သည်။</string>
+    <string name="customize_high_refresh_title">ရီဖရက်(ရှ်)နှုန်းအမြင့်သုံးသော အက်(ပ်)များ</string>
     <string name="customize_radio_btn_summary">ရွေးထားသော ရီဖရက်(ရှ်)နှုန်းကို ပိုကြိုက်သည်</string>
     <string name="customize_radio_btn_title">စိတ်ကြိုက်</string>
     <string name="dall_sheep">Dall sheep</string>
@@ -135,6 +144,8 @@
     <string name="desktop_widget_authorization_new">မျက်နှာပြင်ဖွင့်ထားချိန်ကိန်းဂဏန်းများကိုကြည့်ရန် တို့ပါ</string>
     <string name="desktop_widget_not_support">မျက်နှာပြင်ဖွင့်ထားချိန်ကိန်းဂဏန်းများကို ဒုတိယနေရာတွင် မထုတ်လွှတ်ပါ</string>
     <string name="desktop_widget_screen_use_time">မျက်နှာပြင်ဖွင့်ထားချိန်</string>
+    <string name="device_limit_enable">ဖွင့်ရန်</string>
+    <string name="device_limit_un_enable">ပိတ်ရန်</string>
     <string name="display_description">သင်္ကေတများပိုကြီးရန်၊ စာလုံးကြီးရန်၊ မြင်ကွင်းကျပ်သိပ်မှု လျှော့ရန်</string>
     <string name="display_title">ပိုကြီးသောအရာများ</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -213,7 +224,11 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d မှ %d မိနစ်အထိ</string>
     <string name="focus_mode_timer_pick_dialog_title">ကြာချိန်ထည့်ပါ</string>
     <string name="focus_time_exception_tip">စနစ်ပိုင်းဆိုင်ရာ အချိန်စနစ် ပြောင်းသွားခဲ့ပုံ ရပါသည်။ ဆုံချက်မုဒ်ကို ပိတ်လိုက်ပါ။</string>
+    <string name="follow_apps_settings">အက်(ပ်)ဆက်တင်အလိုက်</string>
     <string name="follow_sim1">SIM ၁ ဆက်တင်များကို သုံးရန်</string>
+    <string name="force_rest">ဆက်ရှင်နားချိန်များ သုံးရန်</string>
+    <string name="force_rest_summary">ဆက်ရှင်များ အကန့်အသတ်သို့ရောက်လျှင် မဖြစ်မနေ နားချိန် ယူပါ</string>
+    <string name="force_rest_time">နားချိန်ကာလ</string>
     <string name="fps_high">အမြင့်</string>
     <string name="fps_nature_summary">အမြင့်ဆုံးပြန်စနှုန်းက အရာအားလုံးကို ပြတ်သားထင်ရှားစေသည်</string>
     <string name="fps_nature_title">အများဆုံး</string>
@@ -246,6 +261,16 @@
     <string name="green_peafowl">Green peafowl</string>
     <string name="green_warbler_finch">Green warbler-finch</string>
     <string name="grey_headed_flying_fox">Grey-headed flying fox</string>
+    <string name="guard_item_app_summary">အက်(ပ်)များကို အဝေးမှ ပြန်ဖြုတ်ရန်</string>
+    <string name="guard_item_app_title">အက်(ပ်)များစီမံခန့်ခွဲရန်</string>
+    <string name="guard_item_browser_summary">အက်(ပ်)များနှင့် အကြောင်းအရာများကို ဝင်ခွင့်ထိန်းချုပ်ရန်</string>
+    <string name="guard_item_browser_title">အကန့်အသတ်များ</string>
+    <string name="guard_item_call_summary">သတ်မှတ်အဆက်အသွယ်များကို ဖုန်းခေါ်ခွင့်ပြုရန်</string>
+    <string name="guard_item_call_title">ဆက်သွယ်ရေး</string>
+    <string name="guard_item_eye_protect_summary">မော်နီတာအနေအထား</string>
+    <string name="guard_item_eye_protect_title">မျက်စိသက်သာရေး</string>
+    <string name="guard_range_from">မှ</string>
+    <string name="guard_range_to">အထိ</string>
     <string name="harp_seal">Harp seal</string>
     <string name="harpy_eagle">Harpy eagle</string>
     <string name="has_applied">Applied</string>
@@ -253,11 +278,14 @@
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">မျက်နှာပြင် ရီဖရှက်ရှ်နှုန်းကို မြှင့်ထားမည်။ ဓာတ်အားသုံးစွဲမှု မြှင့်ထားမည်။</string>
     <string name="high_fps_tip_footer">ရီဖရက်(ရှ်)နှုန်းအမြင့် သုံးခြင်းဖြင့် ကြည့်ရှုမှုကို ချောမွေ့စေသော်လည်း ဓာတ်အားပိုကုန်သည်။</string>
+    <string name="high_refresh_options_title">ပံ့ပိုးသောအက်(ပ်)များ</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">ပိတ်ရက်များ</string>
     <string name="hsv_space_color">HSV အရောင်နေရာလွတ်</string>
     <string name="hsv_space_color_hue">အရောင်အဆင်း</string>
     <string name="hsv_space_color_saturation">တောက်ပမှုပြင်းအား</string>
     <string name="hsv_space_color_value">တန်ဖိုး</string>
+    <string name="in_forbidden_period">အသုံးပြုခွင့် ကန့်သတ်ထားသည်</string>
     <string name="intelligent_radio_btn_summary">ဖြစ်စဉ်အပေါ်မူတည်ပြီး စွမ်းဆောင်ရည်နှင့် ဓာတ်အားသုံးစွဲမှု မျှတစေရန် ရီဖရက်(ရှ်)နှုန်းကို အကောင်းဆုံး ညှိပေးသည်။</string>
     <string name="intelligent_radio_btn_title">နဂို (အကြံပြုသည်)</string>
     <string name="intelligent_recognition_item_summary">ကုန်ပို့နှင့် တက္ကစီဝန်ဆောင်မှုများထံမှ အဝင်ဖုန်းများအတွက် သတ်မှတ် ဖုန်းခေါ်သံသုံးပါ။ %s ကို သင့်အမြဲသုံး ဖုန်းသံအဖြစ် သတ်မှတ်ထားစဉ်တွင် ဤဝန်ဆောင်မှု အလုပ်လုပ်ပါမည်။</string>
@@ -298,6 +326,7 @@
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="loading_error">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="lock_summary">သင့်ကိုယ်ရေးအချက်အလက်များကို ကာကွယ်လိုက်ပါ</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
     <string name="low_flicker_mode">အလင်းဖျော့</string>
@@ -397,6 +426,8 @@
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">Nazca booby</string>
     <string name="network_error">ကွန်ရက် ချွတ်ယွင်းမှုတစ်ခုဖြစ်ပေါ်ခဲ့သည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="new_customize_high_refresh_title">ရီဖရက်(ရှ်)နှုန်းအမြင့်</string>
+    <string name="next_day">"(နောက်တစ်နေ့) "</string>
     <string name="night">ညနေ</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">ဤလင့်ခ်ကိုဖွင့်နိုင်မည့် အက်ပ်ကို ရှာမတွေ့ခဲ့ပါ</string>
@@ -411,6 +442,7 @@
     <string name="notification_sound">အသိပေးချက်အသံများ</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+    <string name="opened_high_refresh_options">ရီဖရက်(ရှ်)နှုန်းအမြင့်သုံးသော အက်(ပ်)များ</string>
     <string name="orange_winged_amazon">Orange-winged amazon</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">Ostriches are large flightless birds of Africa who lay the largest eggs of any living land animal.</string>
@@ -475,6 +507,7 @@
     <string name="sea_otter">Sea otter</string>
     <string name="seal_info">Seals are marine mammals that can move quickly in deep waters, feeding on fish and shrimps.</string>
     <string name="search_app_name">အက်ပ်များ ရှာဖွေရန်</string>
+    <string name="search_app_tips">အက်(ပ်)များရှာရန်</string>
     <string name="search_empty">မည်သည့်အက်ပ်မျှ မတွေ့ပါ</string>
     <string name="send">ပို့ပါ</string>
     <string name="service_ringtone_title">ဝန်ဆောင်မှုအသံ</string>
@@ -485,6 +518,13 @@
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM ၁)"</string>
     <string name="sim_slot_2">" (SIM ၂)"</string>
+    <string name="size_byte">ဘိုက်</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">ကီလိုဘိုက်</string>
+    <string name="size_mega_byte">မီဂါဘိုက်</string>
+    <string name="size_peta_byte">ပီတာဘိုက်</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">တီရာဘိုက်</string>
     <string name="skywalker_hoolock_gibbon">Skywalker hoolock gibbon</string>
     <string name="small_ground_finch">Small ground finch</string>
     <string name="sms_delivered_sound_title">မက်ဆေ့(ချ်)ထွက်သွားသံ</string>
@@ -504,6 +544,8 @@
     <string name="steady_on_screen_notification_title">သင့်ဖုန်းကို အောက်သို့ချ၍ ခေတ္တအနားယူပါ</string>
     <string name="steady_on_screen_notification_title_pad">စက်ကိုခေတ္တချထားပြီး အနားယူပါ</string>
     <string name="steady_on_screen_notify">ပြတ်တောက်မှုမရှိသော အသုံးပြုမှုအကြောင်း အသိပေးမည်</string>
+    <string name="steady_on_screen_notify_new">နားချိန်ယူပါ</string>
+    <string name="steady_on_screen_ntf_msg">%1$s တွင် အင်္ဂါရပ်အားလုံး ပြန်ရနိုင်ပါမည်</string>
     <string name="steady_on_screen_setting">ပြတ်တောက်မှုမရှိသော ဆက်ရှင်များအတွက် အချိန်ကန့်သတ်ချက်</string>
     <string name="steady_on_screen_summary">ပြတ်တောက်မှုမရှိသော ဆက်ရှင်များအတွက် အချိန်ကန့်သတ်ချက်</string>
     <string name="stop_app_timer">Screen time ကို ပိတ်လိုက်ပါ</string>
@@ -563,6 +605,12 @@
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>
+    <string name="time_over_back_home">ပင်မမျက်နှာပြင်</string>
+    <string name="time_over_delayed_use">လျစ်လျူရှုရန်</string>
+    <string name="time_over_not_delayed_use">ရပါပြီ</string>
+    <string name="time_over_today">"ယနေ့အဖို့
+အချိန်မကျန်တော့ပါ"</string>
+    <string name="time_over_today_use">"ယနေ့ဆက်ရှင်များ - "</string>
     <string name="time_picker_dialog_title">နာရီတိုက်ရန်</string>
     <string name="time_picker_label_hour">နာရီ</string>
     <string name="time_picker_label_minute">မိနစ်</string>
@@ -591,6 +639,7 @@
     <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="two_toed_sloths">Two-toed sloth</string>
     <string name="two_toed_sloths_info">Two-toed sloths can easily travel from tree to tree in the canopies of the rainforests.</string>
+    <string name="unavailable_per_day">နားချိန်များ</string>
     <string name="unlock_times_per_day">"နေ့စဉ်ပျမ်းမျှ -  "</string>
     <string name="unlock_times_per_hour">"တစ်နာရီကြာချိန်အတွင်း သော့ဖွင့်သော အကြိမ်ရေ -  "</string>
     <string name="usage_agree">သဘောတူပါသည်</string>
@@ -626,8 +675,10 @@
     <string name="usage_device_limit_app_prolong_time3">မိနစ် ၆၀ ထည့်ရန်</string>
     <string name="usage_device_limit_app_prolong_time4">ယနေ့ အချိန်မကန့်သတ်ပါနှင့်</string>
     <string name="usage_device_limit_app_prolong_time5">အချိန် တစ်ကြိမ် ထည့်ရန်</string>
+    <string name="usage_device_limit_forbidden_period">%1$s နှင့် %2$s ကြားတွင် အသုံးပြုခွင့် ကန့်သတ်ထားသည်</string>
     <string name="usage_device_limit_notifation_summary_start">%1$s တွင် ကန့်သတ်ချိန်ရောက်ပါမည်</string>
     <string name="usage_device_limit_notifation_title">ယနေ့လက်ကျန်အချိန်</string>
+    <string name="usage_device_limit_start_forbidden_period">%1$s နှင့် %2$s ကြားတွင် အသုံးပြုခွင့် ကန့်သတ်ပါမည် (%3$s ကျန်သည်)</string>
     <string name="usage_device_limit_time_over">ယနေ့ ကန့်သတ်ချိန် (%1$s) ကို ကျော်သွားပါပြီ</string>
     <string name="usage_exit">ထွက်မည်</string>
     <string name="usage_focus_focus_premission_main_summary">သင်၏ ဆုံချက်မုဒ် အသုံးပြုမှုဆိုင်ရာ ကိန်းဂဏန်းများကို မှတ်တမ်းတင်ရန်အတွက် ဤအက်ပ်အား သင့်အကောင့်အချက်အလက်များကို ကြည့်ခွင့်ပေးရန် လိုအပ်ပါသည်။</string>
@@ -659,6 +710,8 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။သင်သည် အဆိုပါခွင့်ပြုချက်များ ပေးရန် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ရန် သဘောမတူပါက ဤအက်(ပ်)ကို သုံးမရပါ။ မျက်နှာပြင်ဖွင့်ထားချိန် > ဆက်တင်များ > မျက်နှာပြင်ဖွင့်ထားချိန်ကို ပိတ်ရန် အားရွေးပြီး ခွင့်ပြုချက်ကို ရုတ်သိမ်းနိုင်သည်။</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href='%1s'>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href='%2s'>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပေးပါမည်။ ဤသို့သော ခွင့်ပြုချက်များကို ပေးအပ်ရန် သို့မဟုတ် သင်၏ ကိုယ်ရေးအချက်အလက်များကို မျှဝေရန်နှင့် အွန်လိုင်းတင်ရန် သင်သဘောမတူလျှင် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ Screen time > ဆက်တင်များ > သို့သွား၍ Screen time ကို ပိတ်မည်အား ရွေးချယ်ပေးခြင်းအားဖြင့် သင့်ခွင့်ပြုချက်ကို ရုပ်သိမ်းနိုင်ပါသည်။ ကိုယ်ရေးလုံခြုံမှုနှင့်ပတ်သက်၍ မေးစရာများ ရှိနေသေးပါက privacy@xiaomi.com မှတစ်ဆင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်နိုင်ပါသည်။</string>
+    <string name="usage_new_category_limit_summary">ဤအမျိုးအစားအက်(ပ်)အားလုံးအတွက် တစ်နေ့တာအသုံးပြုခွင့် အကန့်အသတ် သတ်မှတ်ပါ</string>
+    <string name="usage_new_category_limit_title">အက်(ပ်)အမျိုးအစားအတွက် အသုံးပြုခွင့် ကန့်သတ်ရန်</string>
     <string name="usage_new_home_app_limit_summary">ဤအက်ပ်အတွက် နေ့စဉ်မျက်နှာပြင်ဖွင့်ထားချိန်ဆိုင်ရာ ကန့်သတ်ချက်တစ်ခု သတ်မှတ်ရန်</string>
     <string name="usage_new_home_app_limit_title">မျက်နှာပြင်ဖွင့်ထားချိန် ကန့်သတ်မည်</string>
     <string name="usage_new_home_average">"ပျမ်းမျှ "</string>
@@ -881,6 +934,7 @@
     <string name="willow_grouse_info">The willow ptarmigan is herbivorous for most of its life and primarily occupies subalpine and subarctic habitats.</string>
     <string name="wolf">Wolf</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">ရုံးဖွင့်ရက်</string>
     <string name="yellow_necked_spurfowl">Yellow-necked spurfowl</string>
     <string name="yellow_throated_marten">Yellow-throated marten</string>
     <string name="yesterday">မနေ့က</string>

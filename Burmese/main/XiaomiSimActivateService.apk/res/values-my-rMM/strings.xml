@@ -232,6 +232,7 @@
     <string name="saturday_shortest">စနေ</string>
     <string name="send">ပို့ပါ</string>
     <string name="sim_activate_failed">ဝန်ဆောင်မှုကို အသက်သွင်းမရပါ</string>
+    <string name="sim_activate_notificat_channel">အသိပေးချက်များ အသက်သွင်းခြင်း</string>
     <string name="sim_activate_prepare">ဝန်ဆောင်မှုအသက်သွင်းရန်</string>
     <string name="sim_activated_failed_msg">ဝန်ဆောင်မှုကို အသက်သွင်းမရပါ။ ပြန်ကြိုးစားကြည့်ရန် ထိနှိပ်ပါ။</string>
     <string name="sim_unactivated_feature_title">\"%s\" ကို အသက်သွင်းမထားပါ</string>

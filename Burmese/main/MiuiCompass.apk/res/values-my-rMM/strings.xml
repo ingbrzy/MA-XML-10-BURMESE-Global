@@ -20,6 +20,7 @@
     <string name="calibrate_failed">ပင်လယ်ပြင်ထက်အမြင့်ကို စံချိန်ကိုက်ညှိရာတွင် မအောင်မြင်ပါ</string>
     <string name="calibrate_failed_no_location">စံချိန်ကိုက်ညှိလို့ မရပါ</string>
     <string name="calibrate_failed_timeout">ဆာဗာသို့ ချိတ်ဆက်လို့ မရပါ</string>
+    <string name="calibrate_new_tip">ဘောလုံးကို စက်ဝိုင်းအနီးလှိမ့်ရန် စက်ကို သိသိသာသာစောင်းပေးပါ</string>
     <string name="calibrate_rotate_again">ထပ်ကြိုးစားပါ</string>
     <string name="calibrate_success">စံချိန်ကိုက်ညှိပြီးပြီ</string>
     <string name="calibrate_tip">စက်ဝန်းပတ်လည်တွင် ဘောလုံးလိမ့်နေစေရန်၊ သင့်ကိရိယာကို တိမ်းစောင်းပေးပါ</string>
@@ -199,7 +200,7 @@
     <string name="morning">နံနက်</string>
     <string name="new_cta_app_purpose">လမ်းညွှန်များနှင့် ကိုသြဒိနိတ်များကြည့်ရန်</string>
     <string name="new_cta_v2_app_purpose">လမ်းညွှန်များ၊ ကိုသြဒိနိတ်များ၊ လေထုဖိအားနှင့် လက်ရှိပင်လယ်ရေမျက်နှာပြင်အမြင့်တို့ကို ပြသခြင်း</string>
-    <string name="new_permission_camera_desc">စံချိန်ညှိရန်</string>
+    <string name="new_permission_camera_desc">တိုက်ရိုက်အစမ်းကြည့်များပြရန်</string>
     <string name="new_permission_location_desc">ကိုသြဒိနိတ်များ ပြသရန်</string>
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>

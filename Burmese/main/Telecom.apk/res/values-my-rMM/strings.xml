@@ -9,7 +9,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">အသံခေါ်ဆိုမှု ပြုလုပ်နေစဉ် ဗီဒီယိုခေါ်ဆိုမှု ပြုလုပ်၍မရပါ</string>
     <string name="can_not_dial_while_vt_prompt">ဗီဒီယိုခေါ်ဆိုမှုလုပ်နေစဉ် နံပါတ်နှိပ်ခေါ်ဆို၍မရပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
-    <string name="close">ပိတ်</string>
+    <string name="close">ပိတ်ပါ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -75,6 +75,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fraud_toast_message">ခေါ်ဆိုမှုလိုင်းလွှဲပြောင်းခြင်းကို ဆက်တင်တွင် စီမံခန့်ခွဲနိုင်သည်</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
@@ -83,6 +84,7 @@
     <string name="incall_error_supp_service_unknown">ဤဝန်ဆောင်မှုကို မပံ့ပိုးထားပါ။</string>
     <string name="midnight">ည</string>
     <string name="missedcall_notification_public_version_title">ဖုန်း</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
