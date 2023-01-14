@@ -919,7 +919,6 @@ ID -
     <string name="online_play_start_ready_loading_tip_kb">တင်နေသည် %.2f KB/စက္ကန့်</string>
     <string name="online_play_start_ready_loading_tip_mb">တင်နေသည် %.2f MB/စက္ကန့်</string>
     <string name="online_play_title">URL ထည့်ရန်</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">မကြာမီက စာရင်းသွင်းမှုများ</string>
     <string name="order_recently_updated">မကြာမီက အပ်ပဒိတ်လုပ်ထားသည်</string>
     <string name="out_of_memory_background_playback_is_suspended">မန်မိုရီမလုံလောက်၍ နောက်ခံ၌ ပြသခြင်း ရပ်သွားသည်</string>

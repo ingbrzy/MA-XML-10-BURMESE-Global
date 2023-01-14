@@ -1094,7 +1094,6 @@
     <string name="monitoring_description_personal_profile_named_vpn">သင့်ကိုယ်ရေးသုံးအက်ပ်များကို %1$s မှတစ်ဆင့် အင်တာနက်ချိတ်ထားသည်။ အီးမေးလ်များနှင့် ဖွင့်ကြည့်ထားသည့်မှတ်တမ်းဒေတာများ အပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်များကို VPN ပံ့ပိုးသူက မြင်ရသည်။</string>
     <string name="monitoring_description_two_named_vpns">ဤစက်သည် %1$s နှင့် %2$s မှတစ်ဆင့် အင်တာနက်ချိတ်ထားသည်။ အီးမေးလ်များနှင့် ဖွင့်ကြည့်ထားသည့်မှတ်တမ်းဒေတာများ အပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်များကို IT စီမံခန့်ခွဲသူက မြင်ရသည်။</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်များကို ဖွင့်ရန်</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s က ဤစက်ပစ္စည်းနှင့် ဆက်စပ်နေသည့်ဒေတာကို သုံးနိုင်ပြီး အက်ပ်များကို စီမံနိုင်သလို ဤစက်ပစ္စည်း၏ဆက်တင်များကို ပြောင်းနိုင်သည်။
 
 မေးစရာများရှိပါက %2$s ကို ဆက်သွယ်ပါ။"</string>
@@ -1134,7 +1133,6 @@
     <string name="mtrl_picker_a11y_next_month">နောက်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_a11y_prev_month">ယခင်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_announce_current_selection">လက်ရှိ ရွေးချယ်မှု- %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">ရက်စွဲ ရွေးပါ</string>
     <string name="mtrl_picker_date_header_unselected">ရွေးထားသည့် ရက်စွဲ</string>
@@ -1342,7 +1340,6 @@
     <string name="private_dns_mode_provider">သီးသန့် DNS ဝန်ဆောင်မှုပေးသူအမည်</string>
     <string name="private_dns_mode_provider_failure">ချိတ်ဆက်၍ မရပါ</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS ဝန်ဆောင်ပေးသူအမည်ကို ထည့်ပါ</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ချိတ်ဆက်ရာတွင် ပြဿနာရှိပါသည်။ စက်ကိုပိတ်ပြီး ပြန်ဖွင့်ပါ</string>
     <string name="profile_info_settings_title">ကိုယ်ရေးအချက်အလက်</string>
     <string name="qr_code_scanner_title">QR ကုဒ် စကင်ဖတ်ခြင်း</string>

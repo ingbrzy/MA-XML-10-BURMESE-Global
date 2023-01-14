@@ -4,11 +4,6 @@
         <item>ကျား</item>
         <item>မ</item>
     </string-array>
-    <string-array name="customer_service">
-        <item>@string/customer_service_apply</item>
-        <item>@string/customer_service_complain</item>
-        <item>@string/customer_service_station</item>
-    </string-array>
     <string-array name="net_diag_err_link_quality">
         <item>Wi-Fi လိုင်းမကောင်းပါ။ ကြိုးမဲ့ဘန်းများပြောင်းပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
         <item>ကွန်ရက်ဝင်မရပါ။ Wi-Fi ပြန်ချိတ်ပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
@@ -62,11 +57,5 @@
     </string-array>
     <string-array name="net_diag_err_network_topology">
         <item>ရောက်ဒါ၏ DHCP ဆက်တင်နှင့် ကြိုးချိတ်ထားမှုကို စစ်ပါ</item>
-    </string-array>
-    <string-array name="reproductivity">
-        <item>@string/feedback_reproductivity_everytime</item>
-        <item>@string/feedback_reproductivity_often</item>
-        <item>@string/feedback_reproductivity_occasionally</item>
-        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>
