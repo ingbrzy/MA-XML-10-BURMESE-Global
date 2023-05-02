@@ -206,7 +206,6 @@
     <string name="pm">ညနေ</string>
     <string name="privacy_settings">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="quit_recording">မျက်နှာပြင်ရီကော်တာမှ ထွက်မည်</string>
-    <string name="record_time_too_short">ရိုက်ထားသောဗီဒီယို တိုလွန်းသည်</string>
     <string name="recording_failure">မှတ်တမ်း မတင်နိုင်ခဲ့ပါ၊ ပြန်လည်စတင်ပါ</string>
     <string name="recording_max_size">ဗီဒီယိုဖိုင်သည် ကြီးလွန်းသောကြောင့် အသံဖမ်းယူခြင်း ရပ်တန့်သွားသည်။ အသံဖမ်းယူခြင်း မပြီးဆုံးသေးပါက ရပ်တန့်သောနေရာမှ ပြန်လည်စတင်နိုင်ပါသည်။</string>
     <string name="recording_without_mic">မိုက်ခရိုဖုန်း မအားပါ၊ ယခု အသံဖမ်း၍ မရသေးပါ။</string>

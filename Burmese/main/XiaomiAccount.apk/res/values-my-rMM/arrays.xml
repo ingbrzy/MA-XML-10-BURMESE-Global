@@ -19,16 +19,6 @@
         <item>Xiaomi အကောင့် စကားဝှက်ပြောင်းရန်</item>
         <item>စကားဝှက်ပြောင်းရန်၊ စကားဝှက်အပ်ပဒိတ်၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
     </string-array>
-    <string-array name="settings_search_cloud_space_share">
-        <item>မိသားစုသိုလှောင်ခန်းနေရာ</item>
-        <item>မိသားစုသိုလှောင်ခန်းနေရာ ကြည့်ရန်/ဖွင့်ရန်</item>
-        <item>မိသားစုသိုလှောင်ခန်းနေရာ;သိုလှောင်ခန်းမျှသုံးမှု</item>
-    </string-array>
-    <string-array name="settings_search_family_service">
-        <item>မိသားစုဝန်ဆောင်မှုများ</item>
-        <item>မိသားစုဝန်ဆောင်မှုများ ကြည့်ရန်/ဖွင့်ရန်</item>
-        <item>မိသားစု;မိသားစုဝန်ဆောင်မှုများ;မိသားစုမျှသုံးမှု</item>
-    </string-array>
     <string-array name="settings_search_help_center">
         <item>အကူအညီ</item>
         <item>Xiaomi အကောင့်အကူအညီနှင့်ပံ့ပိုးမှု ရယူရန်</item>

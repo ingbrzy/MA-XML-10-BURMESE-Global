@@ -35,9 +35,6 @@
     <string name="app_name">မှတ်စု</string>
     <string name="app_notification_info">မှတ်စုများ နောက်ခံ၌ အလုပ်လုပ်နေသည်</string>
     <string name="app_widget">မှတ်စု</string>
-    <string name="app_widget_name_create_note">မှတ်စုများပြုလုပ်ရန်</string>
-    <string name="app_widget_name_create_todo">အလုပ်တာဝန်များပြုလုပ်ရန်</string>
-    <string name="app_widget_name_fast_entry">ရှော့ကတ်များ</string>
     <string name="app_widget_name_new">မှတ်စုများ</string>
     <string name="application_icon">အက်ပ်အိုင်ကွန်</string>
     <string name="audio_btn_mode_meeting">အစည်းအဝေး</string>
@@ -486,6 +483,7 @@
     <string name="note_write_hint">စာစရေးရန်</string>
     <string name="notealert_enter">မှတ်စုအားဖွင့်</string>
     <string name="notealert_ok">ရပ်နား</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">မှတ်စုများသည် စနစ်အက်(ပ်)များဖြစ်သည်။ ဤအက်(ပ်)ကို ဖြုတ်ပြီးနောက် သုံးမရတော့ပါ။</string>
     <string name="notes_description_title">မှတ်စုများပြန်ဖြုတ်လိုသလား။</string>
     <string name="notification_content_add_todo_from_other_app">လုပ်ငန်းအသစ်တစ်ခု သင် ထည့်ထားပါသည်။ ကြည့်ရန် တို့ပါ။</string>

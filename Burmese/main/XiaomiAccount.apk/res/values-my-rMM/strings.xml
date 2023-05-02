@@ -111,11 +111,6 @@
     <string name="cloud_member_vipname_premium">ပရီမီယံ</string>
     <string name="cloud_member_vipname_ultra">အာထရာ</string>
     <string name="cloud_service">Xiaomi ကလောက်</string>
-    <string name="cloud_service_cloud_open">ဖွင့်ရန်</string>
-    <string name="cloud_service_space_full">သိုလှောင်ခန်းပြည့်နေသည်</string>
-    <string name="cloud_service_space_not_enough">သိုလှောင်ခန်း မလုံလောက်ပါ</string>
-    <string name="cloud_service_space_used">သုံးထားသည့်ပမာဏ</string>
-    <string name="cloud_service_state_error">တင်မရပါ</string>
     <string name="cloud_service_status_backup_not_open">အရံသိမ်းမှု ပိတ်ထားသည်</string>
     <string name="cloud_service_status_cloud_not_open">ပိတ်မည်</string>
     <string name="cloud_service_status_storage_full">သိုလှောင်ခန်းပြည့်နေသည်</string>
@@ -153,8 +148,6 @@
     <string name="diagnosis_log_sent_format">"ပေးပို့ပြီးပါပြီ။
 အိုင်ဒီ-%s
 ဤကုဒ်အား နည်းပညာရှင်များထံ ပေးပို့ပါ။"</string>
-    <string name="dind_device_service_not_open">ပိတ်</string>
-    <string name="dind_device_service_opened">ဖွင့်</string>
     <string name="download_file">%s ကို ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
@@ -172,7 +165,6 @@
     <string name="facebook_login">Facebook ဖြင့် အကောင့်ဝင်ရန်</string>
     <string name="failed_dup_secure_phone_number">ဒီဖုန်းနံပါတ်က အခြား Xiaomi အကောင့်ဖြင့် တွဲသုံးထားပြီးသား ဖြစ်သည်</string>
     <string name="family_service">မိသားစုဝန်ဆောင်မှုများ</string>
-    <string name="family_service_not_open">အဖွဲ့ဝင်များဖိတ်ရန်</string>
     <string name="family_share">မိသားစုမျှသုံးမှု</string>
     <string name="find_device">စက်ကို ရှာမည်</string>
     <string name="find_device_access_denied">အခြေအနေအား မရရှိနိုင်ပါ၊ ဝင်ရောက်မှုအား ပယ်ချခဲ့သည်</string>
@@ -304,7 +296,6 @@
     <string name="login_with_other">အခြားရွေးစရာများ</string>
     <string name="logout_account">ဆိုင်းအောက်ထွက်မည်</string>
     <string name="logout_failed">ဆိုင်းအောက်ထွက်လို့ မရပါ</string>
-    <string name="mi_account">ကျွန်ုပ်၏အကောင့်</string>
     <string name="mi_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
     <string name="mi_finance">ကျွန်ုပ်၏ ဘဏ္ဍာရေး</string>
     <string name="mi_finance_info">လူသစ်အတွက် ဆုကြေးငွေ</string>
@@ -700,11 +691,6 @@
     <string name="push_notify_dialog_title">အကောင့်အတည်ပြုခြင်း</string>
     <string name="pwd_width_phone_number_or_mail_num">စကားဝှက်တွင် သင့်ဖုန်းနံပါတ်၊ အီးမေးလ် သို့မဟုတ် Xiaomi အကောင့်အိုင်ဒီတို့ မပါဝင်ရပါ။</string>
     <string name="qq">QQ</string>
-    <string name="qrcode_login_entry_text">&lt;Data>အခြားစက်တွင် အကောင့်ဝင်ထားသလား။ &lt;a href=>အမြန်အကောင့်ဝင်စနစ်&lt;/a> သုံးပါ။&lt;/Data></string>
-    <string name="qrcode_login_load_refresh">&lt;Data>ဤ QR ကုဒ် သက်တမ်းကုန်ပါပြီ။ &lt;a href=>ရီဖရက်(ရှ်)လုပ်ရန်&lt;/a> တို့ပါ။&lt;/Data></string>
-    <string name="qrcode_login_load_retry">&lt;Data>တင်မရပါ။ &lt;a href=>ထပ်လုပ်ကြည့်ပါ။&lt;/a>&lt;/Data></string>
-    <string name="qrcode_login_message">အကောင့်ဝင်ရန် Xiaomi ဖုန်း သို့မဟုတ် တက်ဘလက်၏ စကန်နာအက်(ပ်)၊ Mi ပင်မစာမျက်နှာ သို့မဟုတ် အခြား Xiaomi အက်(ပ်)တစ်ခုခုနှင့် စကန်ဖတ်ပါ</string>
-    <string name="qrcode_login_title">အကောင့်ဝင်ရန် စကန်ဖတ်ပါ</string>
     <string name="recycle_phone_notification_msg">သင်၏ဖုန်းနံပါတ်ကို ပြန်လည်အသုံးပြုထားသည်။ အပ်ဒိတ်လုပ်ရန် ထိနှိပ်ပါ။</string>
     <string name="recycle_phone_notification_title">Xiaomi အကောင့်လုံခြုံရေး အန္တရာယ်</string>
     <string name="removing_account">ဆိုင်းအောက်ထွက်ပါ…</string>
@@ -836,8 +822,6 @@
     <string name="two_factor_auth_need_code_summary">ချိတ်ဆက်ထားသော အခြား Mi စက်များတွင် ကုဒ်တစ်ခုတွေ့မည်။ ၎င်းကုဒ်ကို အကောင့်ဝင်လိုသော စက်အသစ်တွင် ထည့်ပါ။</string>
     <string name="two_factor_auth_summary">စက်အသစ်တစ်လုံး သို့မဟုတ် နေရာအသစ်တစ်ခုမှ အကောင့်ဝင်လျှင် အခြားချိတ်ဆက်ထားသော စက်များတွင် သတိပေးစာပို့ပါမည်။ ၎င်း အကောင့်ဝင်ခြင်းများသည် သင့်ခွင့်ပြုချက်နှင့် ပြုလုပ်ခြင်းမဟုတ်မဟုတ် သင်က အတည်ပြုရပါမည်။</string>
     <string name="unbind_sns_description">ချိတ်ဆက်ဖြတ်ပြီးနောက်မှာ၊ သင်၏ Xiaomi အကောင့်သို့ ဆိုင်းအင်ဝင်ရန် သင်၏ %s ကိုစအသုံးပြုနိုင်တော့မည် မဟုတ်ပါ။</string>
-    <string name="unit_gb">" GB"</string>
-    <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">အမည်မသိအမှားအယွင်း</string>
     <string name="unlock_help_notice">"အကူအညီ−
 ၁။ စကားဝှက်မေ့သွားပါက ပြန်လည်သတ်မှတ်ရန် id.mi.com သို့ သွားပါ။
@@ -889,6 +873,5 @@
     <string name="weixin">WeChat</string>
     <string name="weixin_login">WeChat ဖြင့် ဆိုင်းအင်ဝင်ရန်</string>
     <string name="xiao_mi_vip">Mi VIP</string>
-    <string name="xiaomi_cloud_service">Xiaomi ကလောက်</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

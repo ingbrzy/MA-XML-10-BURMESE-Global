@@ -30,6 +30,12 @@
     <plurals name="account_coins_num">
         <item quantity="other">ဒင်္ဂါးပြား %1s ပြား</item>
     </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">အလုပ်တာဝန် %d ခု ယခုဖျက်လိုသလား။</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">အလုပ်တာဝန် %d ခု အောင်မြင်စွာ ဖျက်ပြီးပါပြီ</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
@@ -60,6 +66,18 @@
     </plurals>
     <plurals name="portfolio">
         <item quantity="other">အလုပ် %d ခု</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"အမှာ %d ခု အောင်မြင်စွာ ငွေပြန်အမ်းပြီးပါပြီ။ "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">သင့်ဒင်္ဂါးပြားများကို %d နာရီအတွင်း ထည့်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">သင့်အတွက် ပြန်အမ်းငွေ ဆောင်ရွက်နေပါပြီ။ ဒင်္ဂါးပြားများကို %d နာရီအတွင်း ထည့်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">အချိန်အနည်းငယ်ထပ်ကြာနိုင်သည်။ ဝယ်ယူထားသောအရာများကို %d နာရီအတွင်း မရပါက တုံ့ပြန်အကြံပြုချက်တင်ပြီး ပြဿနာကို ကျွန်ုပ်တို့ထံ အသိပေးပါ။</item>
     </plurals>
     <plurals name="purchased_instructions">
         <item quantity="other">&lt;Data>ငွေပေးချေမှုကို အပြီးသတ်ခြင်းဖြင့် သင်သည် &lt;a href=\"%1$s\">အက်(ပ်)တွင်းဝယ်ယူမှုများဆိုင်ရာ နို့တစ်များ&lt;/a>ကို သဘောတူရာရောက်သည်။&lt;br>ဝယ်ယူပြီး &lt;xliff:g id=time>%2$d&lt;/xliff:g> ကြာသွားလျှင် ငွေပြန်အမ်းရန် တောင်းမရတော့ပါ။&lt;/Data></item>

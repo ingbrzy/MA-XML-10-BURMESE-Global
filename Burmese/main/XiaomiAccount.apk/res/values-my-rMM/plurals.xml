@@ -30,9 +30,6 @@
     <plurals name="area_code_search_result_size">
         <item quantity="other">ရလဒ် %d ခု တွေ့သည်</item>
     </plurals>
-    <plurals name="family_service_member_count">
-        <item quantity="other">%d ဦး</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
