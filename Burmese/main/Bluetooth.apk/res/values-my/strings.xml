@@ -122,9 +122,7 @@
     <string name="opp_notification_group">ဘလူးတုသ် မျှဝေမှု</string>
     <string name="outbound_history_title">ပြန်လည်ထွက်မည့် လွှဲမှုများ</string>
     <string name="outbound_noti_title">ဘလူးတုသ် ဝေမျှမှု - ဖိုင်ပို့ပြီး</string>
-    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">%1$sနှင့် ဆက်သွယ်မှုကိုလက်ခံရန် အချိန်ကုန်သွားပါသည်</string>
-    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">%1$sနှင့် ဆက်ရှင်ကီးကို ရိုက်သွင်းရန်အချိန် ကုန်သွားပါသည်</string>
     <string name="pbap_notification_group">ဘလူးတုသ်ဖြင့် အဆက်အသွယ်မျှဝေခြင်း</string>
     <string name="pbap_session_key_dialog_header">ဘလူးတုသ် ဆက်ရှင်ကီး လိုအပ်ပါသည်</string>

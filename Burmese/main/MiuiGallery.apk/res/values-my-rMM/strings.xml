@@ -856,7 +856,6 @@ ID - %s
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">Facebook နှင့် အကောင့်ဝင်ရန်</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_reason_migrate">အကြောင်းအရာများဆောင်ရွက်နေသည်…တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
@@ -872,7 +871,6 @@ ID - %s
     <string name="feedback_my_reports">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="feedback_problem">ပြဿနာသတင်းပို့ရန်</string>
     <string name="feedback_suggest">အကြံပြုချက်တင်ရန်</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">ဤအရာကို ပရင့်ထုတ်မရပါ။</string>
     <string name="file_cannot_screen_throw">ဤအရာကို လွှင့်တင်မရပါ။</string>
     <string name="file_sending">ဖိုင်များ လွှဲပြောင်းနေသည်…</string>
@@ -1140,7 +1138,6 @@ ID - %s
     <string name="grant_permission_go_and_set">သတ်မှတ်မည်</string>
     <string name="grant_permission_go_and_set_2">ဆက်တင်များ</string>
     <string name="grant_permission_go_and_set_3">ဆက်တင်များ</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="grant_permission_manage_storage_unlock">အကြောင်းအရာများကြည့်နိုင်ရန် စက်ကိုသော့ဖွင့်ပြီး ဤအက်(ပ်)အား ဖိုင်အားလုံးကို ဖတ်ခွင့်ပြုပါ။</string>
     <string name="grant_permission_shortcut">ဦးစွာ ဤအက်(ပ်)အား ပင်မမျက်နှာပြင်ရှော့ကတ်များ လုပ်ခွင့်ပြုပါ။</string>
@@ -1936,7 +1933,6 @@ ID - %s
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_photo">လူပုံသေး</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">စနစ်အကောင့်များသို့ ဝင်ခြင်းနှင့် စီမံခန့်ခွဲခြင်းအတွက်</string>
     <string name="permission_account_name">အကောင့်များဖတ်ရန်</string>
     <string name="permission_clipboard_desc">အကြောင်းအရာများကို ကလစ်ဘုတ်တွင် ဖတ်ခြင်းနှင့် သိမ်းခြင်းအတွက်</string>
@@ -1969,7 +1965,6 @@ ID - %s
     <string name="photo_editor_beautify_auto">အလိုအလျောက်</string>
     <string name="photo_editor_beauty_compare">မူရင်း</string>
     <string name="photo_editor_common_download_failed">ပလပ်အင်ဒေါင်းလုဒ်လုပ်၍ မရပါ။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">ပလပ်အင်ကို အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">Wi-Fi နှင့် သင်ချိတ်ဆက်ထားပုံမရပါ။ မိုဘိုင်းဒေတာသုံး၍ ပလပ်အင် (%1$d MB) ကို ဒေါင်းလုတ် လုပ်မလား။</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">ပလပ်အင်ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -2056,7 +2051,6 @@ ID - %s
     <string name="photo_editor_talkback_crop_9_18">ကိုးပိုင်း တစ်ဆယ့်ရှစ်ပိုင်း</string>
     <string name="photo_editor_talkback_crop_free">လွတ်လပ်သော</string>
     <string name="photo_editor_talkback_crop_mirror">မှန်</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">မူရင်း</string>
     <string name="photo_editor_talkback_crop_reset">ပြန်သတ်မှတ်ရန်</string>
     <string name="photo_editor_talkback_crop_right_rotate">၉၀ ဒီဂရီ လှည့်ရန်</string>
@@ -2384,18 +2378,13 @@ ID - %s
     <string name="screen_editor_btn_save">သိမ်းဆည်းရန်</string>
     <string name="screen_editor_btn_shell_off">စက်ဘောင်ပုံစံကို ဖယ်ရှားရန်</string>
     <string name="screen_editor_btn_shell_on">စက်ဘောင်ပုံစံထည့်ရန်</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">မျက်နှာပြင်ရိုက်ချက်များကို စက်ဘောင်ပုံစံဖြင့် ဖြတ်ညှပ်၍မရပါ</string>
     <string name="screen_editor_delete_dialog_msg">ဤဖန်သားပြင်ဓာတ်ပုံကို ဖျက်လိုပါသလား။</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">ပြီးပါပြီ</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">စက်ဘောင်ပုံစံကို ဖြတ်ညှပ်ထားသော မျက်နှာပြင်ရိုက်ချက်များတွင် ထည့်မရပါ</string>
     <string name="screen_editor_shell_net_error">စက်ဘောင်ပုံစံကို ဒေါင်းလုဒ်လုပ်ရန် ကွန်ရက်ချိတ်ပါ</string>
     <string name="screen_editor_shell_res_downloading">စက်ဘောင်ပုံစံကို ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="screen_editor_shell_storage_insufficient">နေရာလွတ်မလုံလောက်၍ စက်ဘောင်ပုံစံကို ဒေါင်းလုဒ်လုပ်မရပါ။</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ပယ်ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_delete">မျက်နှာပြင်ရိုက်ချက်အား ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_save">ပြခန်းသို့ သိမ်းပါ</string>
@@ -2544,7 +2533,6 @@ ID - %s
     <string name="share_album_cancel_share">မျှဝေခြင်းကို ရပ်ရန်</string>
     <string name="share_album_change_background">နောက်ခံပုံ ပြောင်းလဲပါ</string>
     <string name="share_album_create_failed">မျှသုံးအယ်လဘမ် ပြုလုပ်မရပါ</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">မျှဝေခြင်းကို ရပ်ရန်</string>
     <string name="share_album_exit_confirm">ရှေ့ဆက်ပါက သင်သည် ဤအယ်လဘမ်ရှိ အကြောင်းအရာအားလုံးကို ဝင်ခွင့်မရှိတော့ပါ။ မထွက်မီ အရေးကြီးသောအရာအားလုံးကို သိမ်းပါ။</string>
     <string name="share_album_exit_confirm_title">ဤအဖွဲ့မှ ထွက်တော့မလား။</string>
@@ -2616,7 +2604,6 @@ ID - %s
     <string name="share_with_family">မိသားစုများဖြင့်မျှဝေ</string>
     <string name="sharer_quota_fulfiled">ဤအယ်လ်ဘမ်ကို သုံးစွဲသူ အများဆုံး အရေအတွက်ဖြင့်အတူ မျှဝေထားပြီးသားဖြစ်သည်။</string>
     <string name="show_cloud_albumlist_summary">ဆင့်(ခ်)ပိတ်ပြီးလျှင် ရွေးထားသောအယ်လဘမ်များမှ အရာအသစ်များကို ကလောက်သို့ တင်တော့မည်မဟုတ်ပါ။</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">ဝှက်ထားသော အယ်(လ်)ဘမ်များကို ကြည့်ရှုရန်နှင့် စီမံခန့်ခွဲရန်</string>
     <string name="show_hidden_album_title">ဝှက်ထားသော အယ်(လ်)ဘမ်များကို ကြည့်ရန်</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">အောင်မြင်စွာ ရွေ့ပြီးပြီ၊ ကြည့်ရှုရန် အခြားအယ်လ်ဘမ်များသို့ သွားရောက်ပါ</string>

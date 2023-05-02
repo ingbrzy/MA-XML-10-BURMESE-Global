@@ -258,11 +258,6 @@
         <item>Iceland</item>
         <item>Kenya</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>ရွှေ့ရန်</item>
-        <item>ကော်ပီကူးမည်</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>ဇန်နဝါရီ</item>
         <item>ဖေဖော်ဝါရီ</item>

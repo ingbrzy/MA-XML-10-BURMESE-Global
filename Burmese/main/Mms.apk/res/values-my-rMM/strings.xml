@@ -303,7 +303,6 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">လေယာဉ်</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1117,7 +1116,6 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_abandon_alert">သတိပြုရန်</string>
