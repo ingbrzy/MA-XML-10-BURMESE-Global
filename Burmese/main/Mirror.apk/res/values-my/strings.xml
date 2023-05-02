@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
     <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
     <string name="accessibility_fingerprint_dialog_help_area">အကူအညီမက်ဆေ့ဂျ် နေရာ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="confirm_device_credential_password">စကားဝှက်သုံးရန်</string>
     <string name="copy">မိတ္တူကူးရန်</string>
     <string name="default_error_msg">အမျိုးအမည်မသိ အမှား</string>

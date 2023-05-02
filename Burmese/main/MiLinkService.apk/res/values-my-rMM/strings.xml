@@ -474,7 +474,6 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="toast_msg_for_multi_window">ဤအင်္ဂါရပ်ကို မျက်နှာပြင်ခွဲထားစဉ် သုံးမရပါ</string>
     <string name="toast_msg_for_small_window">လွှင့်တင်ခြင်းကို အနှောင့်အယှက်မဖြစ်စေဘဲ သင့်ဖုန်းတွင် အခြားအင်္ဂါရပ်များသုံးနိုင်ရန်အတွက် လွှင့်တင်နေသော မျက်နှာပြင်ကို အောက်ချထားနိုင်သည်။</string>
     <string name="toast_nfc_dont_move">သင့်ဖုန်းကို အဝေးသို့ မရွှေ့ပါနှင့်</string>
-    <string name="toast_nfc_same_wifi">TV နှင့် ဤစက်နှစ်မျိုးစလုံးကို ကွန်ရက်တစ်ခုတည်းတွင် ချိတ်ပါ</string>
     <string name="toast_title_for_small_window">အက်(ပ်)တွင် \"မျက်နှာပြင်ကို အောက်ချထားရန်\" ကို ရွေးပါ</string>
     <string name="toast_turn_off_hotspot_before_cast">လွှင့်တင်ခြင်းမပြုမီ အိတ်ဆောင်ဟော့စပေါ့ကို ပိတ်ပါ</string>
     <string name="today">ယနေ့</string>

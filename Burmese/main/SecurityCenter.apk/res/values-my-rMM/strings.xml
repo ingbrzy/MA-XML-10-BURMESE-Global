@@ -103,7 +103,7 @@
     <string name="adb_install_open_error">မပေးပို့နိုင်ခဲ့၊ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="adb_install_reject_notiy">%s အား USB မှတစ်ဆင့်ထည့်သွင်းခွင့်မပြုပါနှင့်</string>
     <string name="adb_install_reject_notiy_desc">Developer အော်ပရှင်တွင် USB မှတစ်ဆင့်ထည့်သွင်းခြင်းအား ခွင့်ပြုပေးနိုင်ပါသည်။</string>
-    <string name="adb_login_xiaomi_account">သင့် Xiaomi အကောင့်သို့ ဦးစွာ အကောင့်ဝင်ပါ</string>
+    <string name="adb_login_xiaomi_account">သင့် Mi စာရင်းသို့ ဦးစွာဝင်ရောက်ပါ</string>
     <string name="add_bill_reminder_alarm">ဖုန်းလက်ကျန်ငွေသတိပေးချက် သတ်မှတ်ရန်</string>
     <string name="add_done">အောင်မြင်စွာပေါင်းထည့်ခဲ့သည်။</string>
     <string name="add_game">ဂိမ်းထည့်သွင်းပါ။</string>
@@ -532,14 +532,14 @@
     <string name="applock_add_account">ပေါင်းထည့်</string>
     <string name="applock_add_account_ignore">ယခု မလုပ်သေးပါ</string>
     <string name="applock_add_account_ignore_with_seconds">ယခုမလုပ်သေးပါ (%ds)</string>
-    <string name="applock_add_account_info">စကားဝှက်မေ့သွားပါက ပြန်သတ်မှတ်နိုင်ရန် Xiaomi အကောင့်ထည့်ပါ။</string>
+    <string name="applock_add_account_info">စကားဝှက် မေ့သွားပါက ပြန်လည်သတ်မှတ်နိုင်ရန် သင်၏ Mi အကောင့်ကို ပေါင်းထည့်ပါ။</string>
     <string name="applock_add_account_setting">အကောင့်&amp;ကိုယ်ရေးကိုယ်တာ</string>
-    <string name="applock_add_account_tips">သင့် Xiaomi အကောင့်နှင့်ဆိုလျှင် သင့်အက်(ပ်)သော့ကို မေ့သွားပါက ပြန်ဆယ်နိုင်ပါမည်။</string>
-    <string name="applock_add_account_title">သင့် Xiaomi အကောင့်ကို ထည့်ရန်</string>
+    <string name="applock_add_account_tips">Mi အကောင့် နှင့်ဆိုပါက သင်၏ အက်ပ်သော့ကို မေ့နေလျှင်ပင် ၎င်းအား ပြန်ဆည်ယူနိုင်ပါမည်</string>
+    <string name="applock_add_account_title">သင်၏ Mi အကောင့်ကို ပေါင်းထည့်ရန်</string>
     <string name="applock_already_add_account">လက်ရှိအကောင့် - %s</string>
     <string name="applock_app_recommend_lock_title">အောက်ပါအက်(ပ်)များကို သော့ခတ်နိုင်သည်</string>
-    <string name="applock_bind_account_dialog_content">သင့် Xiaomi အကောင့်သည် သင့်အက်(ပ်)သော့ကို မေ့သွားပါက ပြန်ဆယ်ရန် တစ်ခုတည်းသော နည်းလမ်းဖြစ်သည်။ Xiaomi အကောင့်ထည့်ရန် အကောင့်ဝင်ပါ။</string>
-    <string name="applock_bind_account_dialog_title">သင့် Xiaomi အကောင့်ကို ထည့်ရန်</string>
+    <string name="applock_bind_account_dialog_content">သင်၏ အက်ပ်သော့ကို မေ့သွားပါက ၎င်းကို ပြန်ဆည်ရန် တစ်ခုတည်းသော နည်းလမ်းမှာ သင်၏ Mi အကောင့် ဖြစ်ပါသည်။ သင်၏ Mi အကောင့်ကို ပေါင်းထည့်ရန် ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="applock_bind_account_dialog_title">သင်၏ Mi အကောင့်ကို ပေါင်းထည့်ရန်</string>
     <string name="applock_bind_account_title">စကားဝှက် မေ့သွားသည်</string>
     <string name="applock_close_dialog_summary">သင့် အက်(ပ်)သော့စကားဝှက်ကို ဖျက်လိုက်ပါမည်။ အက်(ပ်)သောကို ယခုပိတ်လိုသလား။</string>
     <string name="applock_close_dialog_title">အက်ပ်သော့ခတ်ကို ပိတ်မည်လား ?</string>
@@ -561,7 +561,7 @@
     <string name="applock_guide_tip1_without_face">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။ အက်(ပ်)များကို လက်ဗွေဖြင့် သော့ဖွင့်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
     <string name="applock_guide_tip1_without_finger">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။ အက်(ပ်)များကို မျက်နှာဖြင့် သော့ဖွင့်ပါ သို့မဟုတ် စကားဝှက်ထည့်ပါ။</string>
     <string name="applock_guide_tip1_without_finger_face">စကားဝှက်စနစ်အမျိုးမျိုး သုံးနိုင်သည်။</string>
-    <string name="applock_guide_tip2">သင့်စကားဝှက်ကို ပြန်သတ်မှတ်နိုင်ရန် သင့် Xiaomi အကောင့်ကို ထည့်ပါ။</string>
+    <string name="applock_guide_tip2">စကားဝှက်ပြန်သတ်မှတ်ရန် Mi အကောင့် ထည့်ပါ။</string>
     <string name="applock_guide_tip3">အသိပေးချက်တွင် ပါဝင်သောအရာများကို ဖုံးထားပါ။</string>
     <string name="applock_guide_tip3_global">အသိပေးချက်တွင် ပါဝင်သောအရာများကို ဖုံးထားပါ</string>
     <string name="applock_guide_title">အက်(ပ်)သော့ချစနစ်ဖြင့် သင့်ဒေတာကို ကာကွယ်ပါ</string>
@@ -573,7 +573,7 @@
     <string name="applock_login_and_add_account">ဆိုင်းအင်ဝင်ပြီး &amp; ပေါင်းထည့်ပါ</string>
     <string name="applock_mixtype_hidepwd_icon">ဝှက်ထားပါ</string>
     <string name="applock_mixtype_showpwd_icon">ပြပါ</string>
-    <string name="applock_no_account_login">သင်သည် သင့် Xiaomi အကောင့်သို့ အကောင့်မဝင်ထားပါ</string>
+    <string name="applock_no_account_login">သင်သည် သင်၏ Mi အကောင့်အတွင်းသို့ ဆိုင်းအင်ဝင်မထားပါ</string>
     <string name="applock_not_add_account"><u>ယခုမလုပ်</u></string>
     <string name="applock_not_login_account">သင်ဆိုင်းအင်ဝင်မထားပါ</string>
     <string name="applock_numeric_pwd_type_line">စကားဝှက်ရှိ စုစုပေါင်း ဂဏန်းအလုံးရေ - %1$d။ ထည့်ထားသော ဂဏန်းအလုံးရေ - %2$d။</string>
@@ -849,10 +849,10 @@
     <string name="bill_traffic_reminder_instruction_text">မိုဘိုင်းဖုန်းလိုင်းကုမ္ပဏီများမှ ပံ့ပိုးသော ပလန်အသေးစိတ်အတိအကျသည် အပြောင်းအလဲရှိနိုင်ပြီး ငွေတောင်းခံခြင်းနောက်ကျမှုများ ဖြစ်နိုင်သည်။ ဤနေရာတွင် ပံ့ပိုးသောအချက်အလက်များက သင်သိနိုင်ရန်အတွက်သာဖြစ်သည်။</string>
     <string name="bind_xiaomi_account_cancel">ပယ်ဖျက်မည်</string>
     <string name="bind_xiaomi_account_confirm">ပေါင်းထည့်</string>
-    <string name="bind_xiaomi_account_dialog_summery">သင်သည် Xiaomi အကောင့် %s ကို ထည့်ပါတော့မည်။ စကားဝှက်မေ့သွားပါက ဤအကောင့်သုံးပြီး ပြန်သတ်မှတ်နိုင်သည်။ အကောင့်မှထွက်ပါက အကောင့်ကို အလိုအလျောက် ဖြုတ်လိုက်ပါမည်။</string>
-    <string name="bind_xiaomi_account_success">Xiaomi အကောင့်ကို အောင်မြင်သွာ ထည့်ပြီးပါပြီ</string>
-    <string name="bind_xiaomi_account_summary">စကားဝှက်ပြန်သတ်မှတ်ရန် Xiaomi အကောင့် သုံးပါ</string>
-    <string name="bind_xiaomi_account_title">Xiaomi အကောင့်ထည့်ရန်</string>
+    <string name="bind_xiaomi_account_dialog_summery">သင်သည် Mi အကောင့် %s အားပေါင်းထည့်တော့မည် ဖြစ်ပါသည်။ သင်စကားဝှက်မေ့သွားပါက ပြန်သတ်မှန်ရန် ဤအကောင့်အား အသုံးပြု၍ရပါသည်။ သင်ဆိုင်းအောက်လုပ်လိုက်ပါက အကောင့်အား အလိုအလျောက် ဖယ်ရှားလိုက်ပါလိမ့်မည်။</string>
+    <string name="bind_xiaomi_account_success">Mi အကောင့်အား အောင်မြင်စွာ ပေါင်းထည့်ခဲ့သည်</string>
+    <string name="bind_xiaomi_account_summary">သင့်စကားဝှက်အား ပြန်သတ်မှတ်ရန် Mi အကောင့်အား အသုံးပြုပါ</string>
+    <string name="bind_xiaomi_account_title">Mi အကောင့်ပေါင်းထည့်ပါ</string>
     <string name="birthday">မွေးနေ့</string>
     <string name="bl_no_blacklist">ဘလော့လုပ်ထားသော နံပါတ်များမရှိပါ။</string>
     <string name="bl_no_block_call">ဘလော့လုပ်ထားသော ခေါ်ဆိုမှုများ မရှိပါ။</string>
@@ -960,6 +960,7 @@
     <string name="card_main_private_space_summary">ဒုတိယနေရာအား အသုံးပြုခြင်းသည် စက်နှစ်လုံးရှိနေသည်နှင့် တူပါသည်</string>
     <string name="card_main_private_space_title">ဒုတိယနေရာ</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ဖန်တီး</string>
     <string name="card_main_xspace_summary">မည်သည့်အက်ပ်အတွက် မဆို အကောင့်နှစ်ခုတွဲ ဖန်တီးပါ</string>
     <string name="card_main_xspace_title">နှစ်ခုတွဲအက်ပ်</string>
@@ -1021,7 +1022,7 @@
     <string name="confirmSecondSpacePassword">ဒုတိယနေရာအတွက် စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="confirm_ai_allow_all_permission">အက်(ပ်)အားလုံးအတွက် ခွင့်ပြုချက်အခြေအနေကို \"ကျွန်ုပ်အတွက်ဆုံးဖြတ်ရန်\"သို့ ပြောင်းလိုသလား။</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">Xiaomi အကောင့်ထည့်ခြင်း</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Mi အကောင့်ပေါင်းထည့်နေသည်</string>
     <string name="confirm_close">ပိတ်ရန်</string>
     <string name="confirm_fingerprint_msg">သင်၏လက်ဗွေကို အတည်ပြုပါ</string>
     <string name="confirm_leave">မလိုပါ</string>
@@ -1240,6 +1241,7 @@
     <string name="dual_setting_simcard2">ဆင်းမ်2</string>
     <string name="early_morning">နံနက်</string>
     <string name="edit_phone_num">SIM ဖုန်းနံပါတ်ကို ပြင်ရန်</string>
+    <string name="ellipsis">…</string>
     <string name="email">အီးမေးလ်</string>
     <string name="empty" />
     <string name="empty_app">အက်ပ်များ မရှိပါ</string>
@@ -1274,6 +1276,7 @@
     <string name="exit_dialog_garbage_clean_title">နေရာလွတ်ပြုလုပ်ရန်</string>
     <string name="exit_dialog_homepage_optimise_message">လုပ်ဆောင်ချက်ရမှတ်မှာ ၈၀ ထက်နည်းနေသည်။ ပိုကောင်းအောင်လုပ်မလား?</string>
     <string name="exit_dialog_release_memory_positive_button">ပိတ်ရန်</string>
+    <string name="exit_dialog_release_memory_title">&lt;Data>စက်ကို &lt;font color=#0099ff>%d%%&lt;/font> အားမြှင့်ပါ&lt;/Data></string>
     <string name="exit_dialog_release_memory_title_new">&lt;Data>စက်ကို &lt;font color=#0099ff>%s&lt;/font> အထိ မြန်နှုန်းမြှင့်ရန်&lt;/Data></string>
     <string name="exit_dialog_release_storage_message">လက်ရှိတွင် သင်စက်သိုလှောင်ခန်း၏ ၈၀%ကို နေရာယူထားသည်။ ဘယ်တော့မှ မသုံးသော အက်ပ်များကို ဖြုတ်ချခြင်းဖြင့် နေရာလွတ် ရှင်းလင်းပါ။</string>
     <string name="exit_dialog_release_storage_message_new">စက်သိုလှောင်ခန်းနေရာ %s ကျော် ပြည့်နေသည်။ မသုံးသော အက်(ပ်)များကို ဖြုတ်ပြီး နေရာလွတ်ရှင်းပါ။</string>
@@ -1822,7 +1825,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_recommend">အကြံပြုထားသောအရာများ</string>
     <string name="gb_voice_changer_renew_dailog">ဤအထူးပြုလုပ်ချက်ကိုသုံးနိုင်ရန် စာရင်းသွင်းခြင်းကို သက်တမ်းတိုးပါ။</string>
     <string name="gb_voice_changer_robot">စက်ရုပ်သံ</string>
-    <string name="gb_voice_changer_setting_account_title">Xiaomi အကောင့်</string>
+    <string name="gb_voice_changer_setting_account_title">Mi အကောင့်</string>
     <string name="gb_voice_changer_setting_become_vip">စာရင်းသွင်းရန်</string>
     <string name="gb_voice_changer_setting_gender_subtitle">ရွေးထားသော ကျား/မ အမျိုးအစားအတွက် အထူးပြုလုပ်ချက်များနှင့် အကြံပြုချက်များကို ညှိပါ</string>
     <string name="gb_voice_changer_setting_gender_title">ကျား/မ</string>
@@ -1838,7 +1841,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_user_status_expired">စာရင်းသွင်းခြင်း သက်တမ်းကုန်ပါပြီ</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"အခမဲ့ အခမဲ့ %d ရက် အစမ်းသုံးခွင့် ရယူပြီး
 ကျွန်ုပ်တို့၏ အသံပြောင်းစနစ်ကို လေ့လာပါ။"</string>
-    <string name="gb_voice_changer_user_status_no_login">Xiaomi အကောင့်သို့ အကောင့်ဝင်ရန်</string>
+    <string name="gb_voice_changer_user_status_no_login">Mi အကောင့်ကို အကောင့်ဝင်ပါ</string>
     <string name="gb_voice_changer_user_status_remain_time">သက်တမ်းကုန်ရက်စွဲ - %s</string>
     <string name="gb_voice_changer_user_status_renew">သက်တမ်းတိုးရန်</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">သင့်စာရင်းသွင်းခြင်း သက်တမ်းကုန်ပါပြီ။ အကျိုးခံစားခွင့်များရရန် စာရင်းသွင်းခြင်းကို သက်တမ်းတိုးပါ။</string>
@@ -1949,10 +1952,10 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_close">ပိတ်မည်</string>
     <string name="gtb_dialog_btn_open">ဖွင့်မည်</string>
     <string name="gtb_dialog_hint_smart_5g">ဤအင်္ဂါရပ်အား Game Turbo နှင့် ဆက်တင်များအတွင်းတွင် အဖွင့်၊ အပိတ် လုပ်နိုင်ပါသည်။</string>
-    <string name="gtb_dialog_privacy_speed_message">သင်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် Xiaomi အကောင့် ID ကို ကောက်ယူပါမည်။</string>
+    <string name="gtb_dialog_privacy_speed_message">သင်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏ အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် သင့် Mi အကောင့် ID ကို ကောက်ယူသည်။</string>
     <string name="gtb_dialog_privacy_speed_tips">&lt;Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်</string>
-    <string name="gtb_dialog_privacy_voice_message">သင်သည် Xunyou ဂိမ်းအသံပြောင်းစနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် သင့် Xiaomi အကောင့် ID ကို ကောက်ယူပါမည်။</string>
+    <string name="gtb_dialog_privacy_voice_message">သင်သည် Xunyou ဂိမ်းအသံပြောင်းစနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏ အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် သင့် Mi အကောင့် ID ကို ကောက်ယူသည်။</string>
     <string name="gtb_dialog_privacy_voice_tips">&lt;Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းအသံပြောင်းစနစ်၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou ဂိမ်းအသံပြောင်းစနစ်</string>
     <string name="gtb_dialog_summary_smart_5g">5G ကွန်ရက်တစ်ခုကို Game Turbo က ထောက်လှမ်းတွေ့ရှိသောအချိန်တိုင်းတွင် ကွန်ရက်နှောင့်နှေးမှုကို လျှော့ချပေးရန်အသုံးပြုနိုင်သည့် အကောင်းဆုံးကွန်ရက်နှင့် သင်စက်ကို ချိတ်ဆက်နိုင်စေပါသည်။ ဤအင်္ဂါရပ်ကို ပိတ်ထားမလား။</string>
@@ -2261,6 +2264,8 @@ Record sequences and use them anytime!"</string>
     <string name="memory_check_content">%s လွတ်ခဲ့သော</string>
     <string name="memory_clean_memory_size_tip">ကက်ချ်</string>
     <string name="memory_clean_no_need_clean">အရာအားလုံး အဆင်ပြေသည်။</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">"%s ရှင်းထားသည်။
+သင့်စက်သည် ယခု %d%% မြန်သွားပါပြီ။"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s ရှင်းထားသည်။
 သင့်စက် %s မြန်သွားပါပြီ။"</string>
     <string name="memory_clear_unused">ကက်ချ် %s ရှင်းပစ်မည်</string>
@@ -2285,6 +2290,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_item_notification_antispam_text_avail">ဘလော့စာရင်း</string>
     <string name="menu_item_notification_antispam_text_normal">ဘလော့စာရင်း</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% နေရာယူထားသည်</string>
     <string name="menu_item_notification_optimize_text_new">%s သုံးထားသည်</string>
     <string name="menu_item_notification_power_text">ဘက်ထရီ ပိုမိုကောင်းမွန်ရေး</string>
     <string name="menu_item_notification_title">အသိပေးချက်ရှိတ်တွင် မီနူးအား ပြပါ</string>
@@ -2312,6 +2318,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_summary_networkassistants_3">လက်ကျန်ဒေတာ လုံလောက်သည်</string>
     <string name="menu_summary_networkassistants_4">ဒေတာ ကုန်သွားပါပြီ</string>
     <string name="menu_summary_optimize_manage">မန်မိုရီရှင်းရန်</string>
+    <string name="menu_summary_optimize_manage_1">သင့်စက်ကို %d%% မြန်အောင် ပြုလုပ်ပါ</string>
     <string name="menu_summary_optimize_manage_1_new">စက်ကို %s ပိုမြန်အောင် ပြုလုပ်ပါ</string>
     <string name="menu_summary_power_manager">ဘက်ထရီ ချွေတာသူသည် ဘက်ထရီကို ကြာရှည်ခံစေနိုင်သည်</string>
     <string name="menu_summary_power_manager_1">ဘက်ထရီ အားအပြည့်သွင်းပြီးပြီ</string>
@@ -2327,6 +2334,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_license_manager">ခွင့်ပြုချက်များ</string>
     <string name="menu_text_networkassistants">ဒေတာ သုံးစွဲမှု</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2335,6 +2343,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_optimize_manage">အရှိန်မြှင့်တင်မည်။</string>
     <string name="menu_text_optimize_manage_1">မြန်နှုန်းမြှင့်ရန်</string>
     <string name="menu_text_power_manager">ဘက်ထရီ</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ခြွင်းချက်များမှ ဖယ်ရှားပါ</string>
     <string name="menu_white">ခြွင်းချက်များသို့ ပေါင်းထည့်မည်</string>
     <string name="mi_ime_not_used">Xiaomi မှ ထုတ်လုပ်ခွင့်ပြုထားသည့် ကီးဘုတ်တစ်ခုကို သုံးပါ</string>
@@ -2573,6 +2582,7 @@ Record sequences and use them anytime!"</string>
     <string name="notification_link_cleaner_3001">စက်ကို အရှိန်မြှင့်ရန် WeChat အမှိုက်ကို ရှင်းပါ</string>
     <string name="notification_link_cleaner_3002">WeChat အမှိုက်ကို ရှင်းပါ</string>
     <string name="notification_link_cleaner_4000">QQ အမှိုက်ကို ရှင်းပါ</string>
+    <string name="notification_link_optimizemanage_1011">မန်မိုရီ %d%% စာ နေရာပြည့်နေသည်။ ယခု ရှင်းပါ။</string>
     <string name="notification_link_optimizemanage_1011_new">မန်မိုရီ %s စာ နေရာပြည့်နေသည်။ ယခုရှင်းပါ။</string>
     <string name="notification_low_battery_need_charge">အားသွင်းကြိုးချိတ်ပါ</string>
     <string name="notification_low_battery_open_save_mode">ဓာတ်ခဲချွေတာစနစ်ကို ဖွင့်ရန်</string>
@@ -2589,6 +2599,7 @@ Record sequences and use them anytime!"</string>
     <string name="notification_masked_subtitle">အက်(ပ်)သော့က ထိုတာဝန်ကိုယူနိုင်သည်</string>
     <string name="notification_optimize_button_text">ရှင်းရန်</string>
     <string name="notification_optimize_message">အရှိန်မြှင့်ရန် မန်မိုရီ ရှင်းပါ</string>
+    <string name="notification_optimize_title">မန်မိုရီ %d%% စာ နေရာပြည့်နေသည်။</string>
     <string name="notification_optimize_title_new">မန်မိုရီ %s စာ နေရာပြည့်နေသည်။</string>
     <string name="notification_power_consume_issue_summary">ဓာတ်အားသုံးစွဲမှုမြင့်သည်</string>
     <string name="notification_power_consume_suggest_summary">ဓာတ်ခဲချွေတာရန် ပြဿနာများကို ပြင်ပါ</string>
@@ -2732,9 +2743,9 @@ Record sequences and use them anytime!"</string>
     <string name="password_forget_pattern_message_none">အက်ပ်များ သော့မခတ်ထားပါ။ သင်၏စကားဝှက်ကို ပြန်သတ်မှတ်နိုင်သည်။</string>
     <string name="password_forget_pattern_reset">ပြန်လည်သတ်မှတ်မည်။</string>
     <string name="password_forget_pattern_title">သတိပြုရန်</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">စကားဝှက်မေ့သွားပါက ပြန်သတ်မှတ်နိုင်ရန် Xiaomi အကောင့်ထည့်ပါ။</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">သင်၏စကားဝှက်ကို မေ့သွားပါက ပြန်လည်သတ်မှတ်နိုင်ရန် Mi အကောင့်ကို ထည့်ထားပါ။</string>
     <string name="password_promotion_postbutton_text">ထည့်ပါ</string>
-    <string name="password_promotion_title">Xiaomi အကောင့်ထည့်ရန်</string>
+    <string name="password_promotion_title">Mi အကောင့် ထည့်ပါ</string>
     <string name="password_type">စကားဝှက် ပြောင်းမည်</string>
     <string name="password_type_underline"><u>စကားဝှက် ပြောင်းမည်</u></string>
     <string name="password_xspace_forget_pattern_message">သင်၏ဒုတိယဧရိယာအတွက် စကားဝှက်ကို ပြောင်းလိုပါက လက်ရှိ ဒုတိယဧရိယာကို ဖျက်ပြီး အသစ်တစ်ခု ပြုလုပ်ရပါမည်။</string>
@@ -2981,6 +2992,11 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_dialog_msg_top">ဘက်ထရီချွေတာသူအား ဖွင့်ထားပါက MIUI မှ အောက်ပါတို့ကို လုပ်ဆောင်ပါမည်-</string>
     <string name="power_center_hints_scan_danger_result">ယခု ဘက်ထရီ ပြဿနာများအား ဖြေရှင်းနိုင်ပါပြီ</string>
     <string name="power_center_list_item_auto_brightness">မျက်နှာပြင်တောက်ပမှုအား အလိုအလျောက် ချိန်ညှိပါ</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">နာရီ</string>
     <string name="power_center_list_item_close_bluetooth">ဘလူးတုသ်အား ပိတ်ပါ</string>
     <string name="power_center_list_item_deep_save_title">အဆင့်မြင့် ဆက်တင်များ</string>
@@ -3266,6 +3282,7 @@ Record sequences and use them anytime!"</string>
     <string name="pref_normal_traffic_limit">သတ်မှတ်ထားသော ဒေတာအစီအစဉ် ကုန်သွားပါက</string>
     <string name="pref_open_adjust_traffic">သင့်ဖုန်းကာရီယာမှ ​ဒေတာသုံးစွဲမှုအား နေ့တိုင်း အသစ်မွမ်းမံပါ။</string>
     <string name="pref_operator_not_set">ကာရီယာ မသတ်မှတ်ထားပါ</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">ဒေတာအစီစဉ်ထက် ကျော်သွားပါက</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_pkg_begin_date">အသုံးပြမှုပြန်သတ်မှတ်ခြင်းရက်စွဲ</string>
@@ -3412,9 +3429,9 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_pop_record">ယနေ့ အသံသွင်းထားသည်</string>
     <string name="privacy_pop_storage">ယနေ့ သိုလှောင်ခန်းကို ဖတ်ထားသည်</string>
     <string name="privacy_prompt_tc_sms_report_message">သင့်ဒေတာသုံးစွဲမှုအခြေနေအား ပိုမိုသိရှိစေရန် သင့်ဖုန်းနံပါတ်နှင့် ဖုန်းလိုင်းဝန်ဆောင်မှုဌာန၏ အချက်အလက် များကို ကုဒ်ဖွဲ့ပြီး Mi ဆာဗာဆီသို့ လုဒ်တင်လိမ့်မည်။</string>
-    <string name="privacy_prompt_traffic_adjust_message">"ချိန်ညှိမှုကိုစပြီးနောက် MIUI က ကွန်ရက်သို့ချိတ်ပြီး၊ ဖုန်းလိုင်းကုမ္ပဏီအချက်အလက်၊ ဖုန်းနံပါတ်၊ IMEI နှင့် Xiaomi အကောင့်တို့ကို ကုဒ်ဖွဲ့ပြီး Mi ဆာဗာများသို့ တင်ပါမည်။ ဖုန်းလိုင်းကုမ္ပဏီ၏ ချိန်ညှိမှုတန်းပလိတ်ကို ရယူရန်နှင့် သင့်နေရာတွင် ဒေတာဝယ်ယူ၍ ရမရသိနိုင်ရန်အတွက် ၎င်းကို ဆောင်ရွက်ရပါသည်။
+    <string name="privacy_prompt_traffic_adjust_message">"ချိန်ညှိမှုကို သင်စလိုက်ပါက၊MIUIသည် ကွန်ရက်သို့ချိတ်ဆက်လိုက်ပါလိမ့်မည်၊ သင့်ကာရီယာအချက်အလက်၊ ဖုန်းနံပါတ်၊IMEIနှင့် Mi အကောင့်တို့ကို ကုဒ်ဖွဲ့ပြီးMi ဆာဗာများဆီသို့ လုတ်တင်လိုက်လိမ့်မည်။ ဤသို့လုပ်ဆောင်ခြင်းသည် ကာရီယာမှ ချိန်ညှိပုံစံခွက်ကို ရယူရန်ဖြစ်ပြီး သင့်တည်နေရာတွင် ဒေတာဝယ်၍ရနိုင်မရနိုင်ကို သိရှိရန်အတွက်ဖြစ်ပါသည်။
 
-ချိန်ညှိနေစဉ် MIUI က ဖုန်းလိုင်းကုမ္ပဏီသို့ ချိန်ညှိမှုတန်းပလိတ်ရယူရန် မက်ဆေ့(ချ်)ပို့ပါမည်။"</string>
+ ချိန်ညှိနေစဉ်၊MIUI သည် ချိန်ညှိပုံစံခွက်ရယူရန် သင့် ကာရီယာထံသို့ မက်ဆေ့ချ်များ ပေးပို့နိုင်ပါသည်။"</string>
     <string name="privacy_prompt_upload">လုဒ်တင်ပါ</string>
     <string name="privacy_protect_summary">သင့်ကိုယ်ရေးအချက်အလက်များကို ကာကွယ်ပါ</string>
     <string name="privacy_protect_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု အကာအကွယ်</string>
@@ -3540,6 +3557,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_using_record">အသံဖမ်းနေသည်</string>
     <string name="privacyapp_number_masked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားသည်</string>
     <string name="privacyapp_number_unmasked_text">အသိပေးချက်ပါအကြောင်းအရာကို ဖုံးထားနိုင်သည်</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_vpnsdkmanager_label">ဂိမ်း အရှိန်မြှင့်ခြင်း</string>
     <string name="promotion">ကြော်ငြာ</string>
@@ -3610,7 +3628,7 @@ Record sequences and use them anytime!"</string>
     <string name="report_warning_title">သတိပြုရန်</string>
     <string name="required_permissions">မရှိမဖြစ် ခွင့်ပြုချက်များ</string>
     <string name="required_permissions_desc">ဤအက်(ပ်)၏ အခြေခံအင်္ဂါရပ်များနှင့် ဝန်ဆောင်မှုများကို သုံးနိုင်ရန် ဤခွင့်ပြုချက်များလိုအပ်သည်။</string>
-    <string name="reset_data_dialog_message">ဤစက်ကို သင့် Xiaomi အကောင့်နှင့် ချိတ်မထားပါ။ စကားဝှက်ပြန်ယူခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်း လုပ်မရပါ။ အရေးကြီးသောအရာများကို အရန်သိမ်းပြီး စက်ရုံထုတ်အနေအထားသို့ သတ်မှတ်ပါ။ စက်ရုံထုတ်အနေအထားသို့ သတ်မှတ်စဉ် ဒေတာအားလုံးကို အပြီးဖျက်ပြီး SD ကတ်ကိုလည်း ဖောမတ်ချပါမည်။</string>
+    <string name="reset_data_dialog_message">ဤစက်ကို သင့် Mi အကောင့်နှင့် ချိတ်မထားပါ။ စကားဝှက်ပြန်ယူခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်း လုပ်မရပါ။ အရေးကြီးသောအရာများကို အရန်သိမ်းပြီး စက်ရုံထုတ်အနေအထားသို့ သတ်မှတ်ပါ။ စက်ရုံထုတ်အနေအထားသို့ သတ်မှတ်စဉ် ဒေတာအားလုံးကို အပြီးဖျက်ပြီး SD ကတ်ကိုလည်း ဖောမတ်ချပါမည်။</string>
     <string name="reset_data_dialog_ok">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်း</string>
     <string name="reset_data_title">စကားဝှက်အား ပြန်လည်ရယူ၍ မရပါ</string>
     <string name="result_autoscan_header">ပေးချေမှုအား စောင့်ကြည့်အကဲခတ်ခြင်း</string>
@@ -3681,6 +3699,7 @@ Record sequences and use them anytime!"</string>
     <string name="scan_open_shut_down_password_title">ပိတ်ရန်အတည်ပြုခြင်း</string>
     <string name="scan_status_risk">အန္တာရာယ်ရှိပါသည်</string>
     <string name="scan_status_safe">လုံခြုံပါသည်</string>
+    <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">မျက်နှာပြင်ရီကော်ဒါ နောက်ဆုံးဗားရှင်းအား ထည့်သွင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="sd_eject">SD ကတ်ကို ဖြုတ်ချမည်</string>
@@ -3723,7 +3742,7 @@ Record sequences and use them anytime!"</string>
     <string name="set_now">ဆက်တင်များ</string>
     <string name="set_numeric_password_name">PIN သတ်မှတ်မည်</string>
     <string name="set_package_tips">သင့်ဒေတာပလန်ကို စစ်ရန် ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူထံ SMS အခမဲ့ ပို့ပေးပါမည်။ ၎င်းမက်ဆေ့(ချ်)ကို ရေးရန်အတွက် သင်ပေးထားသော အချက်အလက်များကို ကုဒ်ဖွဲ့ပြီး ကျွန်ုပ်တို့၏ ဆာဗာများသို့ တင်ပါမည်။</string>
-    <string name="set_package_tips_detail">Xiaomi ဆာဗာများသို့ တင်ထားသော အချက်အလက်များတွင် ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူ၏ အချက်အလက်များ၊ သင့်ဖုန်းနံပါတ်၊ IMEI နံပါတ်နှင့် Xiaomi အကောင့်တို့ ပါဝင်သည်။</string>
+    <string name="set_package_tips_detail">Xiaomi ဆာဗာများသို့ တင်ထားသော အချက်အလက်များတွင် ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူ၏ အချက်အလက်များ၊ သင့်ဖုန်းနံပါတ်၊ IMEI နံပါတ်နှင့် Mi အကောင့်တို့ ပါဝင်သည်။</string>
     <string name="set_pattern_password_name">ပုံစံ သတ်မှတ်မည်</string>
     <string name="set_traffic_tips">မိုဘိုင်းဒေတာအသုံးပြုမှုကို စီမံခန့်ခွဲပြီး ဖုန်းခအပိုမကုန်စေရန် ပလန် သတ်မှတ်ပါ</string>
     <string name="setting">ဆက်တင်များ</string>
@@ -4162,7 +4181,7 @@ Record sequences and use them anytime!"</string>
     <string name="storage_item_doc_name">စာရွက်စာတမ်းများ</string>
     <string name="storage_item_other_name">အခြား</string>
     <string name="storage_item_picture_name">ပုံများ</string>
-    <string name="storage_item_system_data">စနစ်ဖိုင်များ</string>
+    <string name="storage_item_system_data">စနစ်</string>
     <string name="storage_item_system_name">စနစ်</string>
     <string name="storage_item_video_name">ဗီဒီယို</string>
     <string name="storage_menu_mount">ပြန်တပ်မည်</string>
@@ -4241,6 +4260,7 @@ Record sequences and use them anytime!"</string>
     <string name="superpower_dialog_button_ok">အိုကေ</string>
     <string name="superpower_dialog_massage">အခြေခံလုပ်ဆောင်ချက် (ဥပမာ - ဖုန်းခေါ်ဆိုမှုများ၊ SMS နှင့် ကွန်ရက်ချိတ်ဆက်ခြင်း) တို့ကို ကြာနိုင်သမျှကြာကြာ ထိန်းသိမ်းထားနိုင်ရန်အတွက် Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်သည် ဓာတ်ခဲအကုန်အမြန်ဆုံးအင်္ဂါရပ်များကို ကန့်သတ်ပြီး သင့်စက်ပစ္စည်း၏ လုပ်ဆောင်ချက်ကို လျှော့ချသည်။ Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်ကို ဖွင့်လိုပါသလား။</string>
     <string name="superpower_dialog_title">အစွန်းရောက် ဘက်ထရီချွေတာသူ</string>
+    <string name="superpower_notification_new_title">လက်ကျန် ဘက်ထရီ %d%% ထက် နည်းနေပြီ</string>
     <string name="superpower_notification_new_title_new">ဓာတ်ခဲအား %s အောက်သာ ကျန်တော့သည်</string>
     <string name="superpower_notification_summary">စက်ကို အားသွင်းပါ သို့မဟုတ် Ultra ဓာတ်ခဲချွေတာစနစ်ဖွင့်ပါ</string>
     <string name="superpower_notification_time_12">MMMM dd EEEE</string>
@@ -4444,7 +4464,7 @@ Record sequences and use them anytime!"</string>
     <string name="title_block_calls_from_strangers">အရေးကြီးသော ခေါ်ဆိုမှုများကို လွဲချော်သွားပါသလား?</string>
     <string name="title_chain_start">ချတ်တွဲစတင်မှုကို ကန့်သတ်ပါ</string>
     <string name="title_cleaner_cloudscan">ဗိုင်းရပ်စ်စကန်ဖတ်ခြင်း</string>
-    <string name="title_cloud_account">Xiaomi အကောင့်</string>
+    <string name="title_cloud_account">Mi အကောင့်</string>
     <string name="title_cloud_service">Xiaomi ကလောက်</string>
     <string name="title_cloud_space_almost_full">ကလောက်သိုလှောင်မှု ပြည့်လုနီးပါးရှိနေပါပြီ၊ အိုင်တမ်များအား ဆင့်ခ်လုပ်လိမ့်မည်မဟုတ်</string>
     <string name="title_cloud_space_full">ကလောက် ပြည့်နေပြီ</string>
