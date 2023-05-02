@@ -18,10 +18,11 @@
     <string name="add_holiday_desc">ဤနေရာတွင် အားလပ်ရက်များ ထည့်ပါ</string>
     <string name="add_holiday_title">အားလပ်ရက် ထည့်ရန်</string>
     <string name="additional_cal_dialog_title">ပြက္ခဒိန်ရွေးပါ</string>
-    <string name="additional_cal_pref_title">အပိုဆောင်းပြက္ခဒိန်</string>
+    <string name="additional_cal_pref_title">အပိုဆောင်းပြက္ခဒိန်များ</string>
     <string name="additional_calendar_note">မတည်တံ့သော အကြောင်းတရားများအပေါ်မူတည်၍ ထပ်မံပေါင်းထည့်ထားသော ပြက္ခဒိန်အချို့ကို မရရှိနိုင်ပါ သို့မဟုတ် ပုံသဏ္ဍာန်အမျိုးမျိုးဖြင့် တွေ့ရနိုင်ပါသည်။</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="agenda_month_empty_hint">ယနေ့အတွက် လုပ်ငန်းစဉ်မရှိပါ</string>
+    <string name="agenda_not_today_empty_hint">ဤနေရာတွင် လုပ်ငန်းစဉ်မရှိသေးပါ။ ပြုလုပ်ရန် တို့ပါ။</string>
     <string name="agenda_tomorrow">မနက်ဖြန်၊ %1$s</string>
     <string name="agenda_view">လုပ်ငန်းစဉ်များ</string>
     <string name="alarm_label">ဖယ်ပစ်ပါ</string>
@@ -128,6 +129,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
+    <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="date_today">" (ယနေ့)"</string>
     <string name="date_view">ရက်စွဲ</string>
@@ -140,6 +142,8 @@
     <string name="delete_this_event_title">ဤလုပ်ငန်းစဉ်ကို ဖျက်ပစ်မလား?</string>
     <string name="description_calendar">စနစ်အက်ပ်များ/ပြက္ခဒိန်</string>
     <string name="description_calendar_edit_event">စနစ်အက်ပ်များ/ပြက္ခဒိန်/အစီအစဉ်</string>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">%sကို ရှာဖွေနေသည်…</string>
     <string name="discard_label">ပယ်ဖျက်မည်</string>
     <string name="display_to_calendar">ပြက္ခဒိန်တွင်ပြပါ</string>
@@ -215,6 +219,7 @@
     <string name="event_info_when">အချိန်</string>
     <string name="event_info_where">နေရာ</string>
     <string name="event_reminder_allday_day_zero">ထိုနေ့က %2$s တွင်</string>
+    <string name="event_reminder_custom">စိတ်ကြိုက်လုပ်ရန်</string>
     <string name="event_reminder_value_zero">ပွဲစဉ်မတိုင်မီ</string>
     <string name="event_title">ခေါင်းစဉ်</string>
     <string name="event_view">လုပ်ငန်းစဉ်ကို ကြည့်ရှုပါ</string>
@@ -333,6 +338,7 @@
     <string name="holidays_title">အားလပ်ရက်များ</string>
     <string name="horoscope">ရာသီခွင်</string>
     <string name="horoscope_card_title">ယနေ့ ရာသီခွင်</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">ရာသီခွင် ရွေးပါ</string>
     <string name="hour_1">%d နာရီ</string>
     <string name="image_processing">ရုပ်ပုံ အဆင်သင့် မဖြစ်သေးပါ</string>
@@ -366,6 +372,8 @@
     <string name="long_holiday_week_off">အပတ်စဉ်နားရက်များ</string>
     <string name="long_month_date_format">MMMM dd, yyyy</string>
     <string name="lunar_date">လနှင့်ဆိုင်သော နေ့ရက်</string>
+    <string name="lunar_day" />
+    <string name="lunar_to_solar" />
     <string name="manage_holidays">အားလပ်ရက် စီမံခန့်ခွဲရန်</string>
     <string name="manage_title">စီမံခန့်ခွဲရန်</string>
     <string name="mark_end">ဓမ္မတာ ပြီးသွားပါပြီ</string>
@@ -522,7 +530,7 @@
     <string name="no_visiable_calendar_title">အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="none">မရှိ</string>
     <string name="noon">မွန်းတည့်</string>
-    <string name="not_more_than_three_weekday">အများဆုံး ၃ ရက်အထိ ရွေးနိုင်သည်</string>
+    <string name="not_more_than_three_weekday">%d ရက်အထိ ရွေးနိုင်သည်</string>
     <string name="notes_hint">အလုပ်တစ်ခု ပေါင်းထည့်ရန်ကို ထိနှိပ်ပါ</string>
     <string name="notes_reminders_channel">မှတ်ချက်များ၊ သတိပေးချက်များ</string>
     <string name="notes_settings_summary">ပြက္ခဒိန်အတွင်းရှိ သင်၏ နေ့စဥ်အလုပ်များနှင့် မှတ်ချက်များကို ပေါင်းထည့်ရန်</string>
@@ -536,6 +544,10 @@
     <string name="notes_weekly">အပတ်စဉ်</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">ပြက္ခဒိန် သတိပေးချက်များ</string>
+    <string name="notification_open_setting_button_exit">မလုပ်လိုပါ</string>
+    <string name="notification_open_setting_button_ok">ခွင့်ပြုရန်</string>
+    <string name="notification_open_setting_message">ပြက္ခဒိန်ကို သင့်ထံ အသိပေးချက်များပို့ခွင့်မပေးဘဲ လုပ်ငန်းစဉ်များအကြောင်း အသိပေးချက်များ မရနိုင်ပါ။</string>
+    <string name="notification_open_setting_title">ပြက္ခဒိန်အသိပေးချက်များ ခွင့်ပြုလိုသလား။</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">အမန်တာ</string>
@@ -563,6 +575,7 @@
     <string name="panchang_yog">ယော့ဂ်</string>
     <string name="partner_compatibility">အချစ် ကိုက်ညီမှု</string>
     <string name="path_calendar_settings">စနစ်အက်ပ်များ/ပြက္ခဒိန်/ဆက်တင်များ</string>
+    <string name="permission_denial">ဤအင်္ဂါရပ်သုံးနိုင်ရန် ခွင့်ပြုချက်များပေးပါ</string>
     <string name="permission_description">ခွင့်ပြုချက်အသေးစိတ်</string>
     <string name="picker_day">ရွေးချယ်ထားသော နေ့ - %1$d။ ရွေးချယ်ရန် ဘေးတိုက်ပွတ်ဆွဲပါ။</string>
     <string name="picker_month">ရွေးချယ်ထားသော လ - %1$d။ ရွေးချယ်ရန် ဘေးတိုက်ပွတ်ဆွဲပါ။</string>
@@ -575,7 +588,6 @@
     <string name="pref_title_alarm_remind">နှိုးစက် သတိပေးချက်များ</string>
     <string name="pref_title_no_remind">သတိပေးချက် မရှိပါ</string>
     <string name="pref_title_notification_remind">အကြောင်းကြားစာအတွက် သတိပေးချက်များ</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alarms_category_title">နှိုးစက် သတိပေးချက်များ</string>
     <string name="preferences_alarms_sound">အသံ</string>
     <string name="preferences_alarms_vibrateWhen">တုန်ခါရန်</string>
@@ -594,9 +606,9 @@
     <string name="preferences_title">ပြက္ခဒိန်</string>
     <string name="preferences_use_home_tz_descrip">ခရီးသွားသည့်အခါ ပြက္ခဒိန်များနှင့် လုပ်ငန်းစဥ်ကို သင်၏ဒေသစံတော်ချိန်ဖြင့် ပြသမည်</string>
     <string name="preferences_use_home_tz_title">ဒေသစံတော်ချိန်ကို သုံးမည်</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">ရက်သတ္တတစ်ပတ်၏ အစ</string>
     <string name="preferences_week_start_day_title">ရက်သတ္တတစ်ပတ်၏ အစ</string>
+    <string name="premission_description_notice">ပွဲများနှင့် အားလပ်ရက်များအကြောင်း အသိပေးချက်များပို့ရန်</string>
     <string name="privacy_and_permissions">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုနှင့် ခွင့်ပြုချက်များ</string>
     <string name="privacy_card_description">အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန် ကျွန်ုပ်တို့၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောတူပါ။</string>
     <string name="privacy_policy_dialog_agree">သဘောတူပါသည်</string>
@@ -622,6 +634,8 @@
     <string name="remind_title_menstruation_start">ဓမ္မတာစချိန် သတိပေးပါ</string>
     <string name="remind_title_record">မှတ်သားရန် သတိပေးပါ</string>
     <string name="repeat_activity_label">ထပ်ခါလုပ်ပါ</string>
+    <string name="repeat_alarm_close_title">ထပ်တလဲလဲလုပ်ငန်းစဉ်ဖြစ်သည်။ နှိုးစက်သတိပေးချက် ပိတ်လိုသလား။</string>
+    <string name="repeat_alarm_open_title">ထပ်တလဲလဲလုပ်ငန်းစဉ်ဖြစ်သည်။ နှိုးစက်သတိပေးချက် သတ်မှတ်လိုသလား။</string>
     <string name="repeat_custom_activity_label">ကိုယ်တိုင်စီစဉ်ပါ</string>
     <string name="repeat_custom_prompt_daily">%1$sတိုင်း</string>
     <string name="repeat_custom_prompt_sentence">လုပ်ငန်းစဉ်ကို %1$s တိုင်း ထပ်ခါလုပ်ပါ</string>
@@ -643,6 +657,7 @@
     <string name="repeat_label_frequency">ကြိမ်ရေ</string>
     <string name="repeat_label_interval">အားလုံး</string>
     <string name="repeat_label_week">ရက်သတ္တပတ်</string>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">ထပ်ခါလုပ်ပါ</string>
@@ -663,7 +678,9 @@
     <string name="saving_event">လုပ်ငန်းစဉ်ကို သိမ်းဆည်းထားသည်</string>
     <string name="saving_event_with_guest">အပ်ဒိတ်များကို ပေးပို့နေသည်…</string>
     <string name="search_calendar_edit_event">တွေ့ဆုံပွဲ၊သတိပေးသူ၊အစီအစဉ်</string>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">ပြက္ခဒိန်၊အစီအစဉ်၊သတိပေးသူ</string>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_events">ပွဲစဉ်များရှာရန်</string>
     <string name="search_history">ရှာဖွေမှုမှတ်တမ်း</string>
     <string name="second_saturday_holiday">လစဉ် ဒုတိယမြောက်စနေနေ့တိုင်း နားရက်ဖြစ်သည်</string>
@@ -680,7 +697,7 @@
     <string name="setting_about_summary">ဗားရှင်း−</string>
     <string name="setting_accounts">ပြက္ခဒိန်အကောင့်များ</string>
     <string name="setting_change_language">ပြက္ခဒိန် ဘာသာစကား ရွေးပါ</string>
-    <string name="setting_desc_import_todo">မှတ်စုမှ လုပ်ငန်းစဥ်များ သွင်းရန်</string>
+    <string name="setting_desc_import_todo">မှတ်စုမှ အချိန်အတိမ်းအစောင်းမခံသော အလုပ်တာဝန်များကို တင်သွင်းပါ</string>
     <string name="setting_features_title">အသွင်ပြင်ဆက်တင်များ</string>
     <string name="setting_holiday_display_desc">အားလပ်ရက်ကဒ်များသည် သင့်အိမ်မျက်နှာပြင်ရှိ အကြောင်းအရာအောက်တွင် ရှိပါသည်</string>
     <string name="setting_holiday_reminder">အားလပ်ရက် အသိပေးသူ</string>
@@ -717,6 +734,10 @@
     <string name="size_tera_byte">တီရာဘိုက်</string>
     <string name="skip">ကျော်ရန်</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_description" />
+    <string name="solar_lunar_convert_tab" />
+    <string name="solar_to_lunar" />
     <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="spec_agenda_view">အထူးလုပ်ငန်းစဉ်များ</string>
     <string name="start_date_calculate">တွက်ချက်</string>

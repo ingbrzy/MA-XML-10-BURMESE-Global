@@ -363,6 +363,7 @@ Mi မျှဝေခြင်းကို မသုံးမီ အောက်
     <string name="some_files_receive_completed">သင်လက်ခံရရှိထားသောဖိုင်များအား %1$s တွင် ကြည့်ရှုလိုက်ပါ။</string>
     <string name="somepc_send_muchfile_files">%1$s က သင့်ထံ ဖိုင် %2$d ကျော် ပို့နေသည်…</string>
     <string name="start_receive_much_files_from_pc">%1$s ထံမှ ဖိုင် %2$d ကျော် လက်ခံနေသည်…</string>
+    <string name="sub_title_mishare_switch">ဤအင်္ဂါရပ်သည် %d မိနစ်ကြာလျှင် အလိုအလျောက်ပိတ်ပါမည်</string>
     <string name="success_receive_much_file_from_pc">%1$s ထံမှ ဖိုင် %2$d ကျော် လက်ခံထားသည်။ ကြည့်ရန်တို့ပါ။</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
@@ -423,15 +424,19 @@ Mi မျှဝေခြင်းကို မသုံးမီ အောက်
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">Mi မျှဝေခြင်း</string>
     <string name="to_feedback">သတင်းပို့မည်</string>
+    <string name="toast_auto_close_in_minutes">Mi မျှဝေခြင်းသည် %d မိနစ်ကြာလျှင် ပိတ်ပါမည်</string>
+    <string name="toast_transfering">အကြောင်းအရာများ လွှဲပြောင်းနေသည်။ နောက်မှထပ်လုပ်ကြည့်ပါ။</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="transfer_intercept_to_remote">ပို့မရပါ - %1$s</string>
     <string name="transfer_to_pc_summary">Mi မှတ်စုစာအုပ်တွင် ထည့်သွင်းထားသော AIoT ဆော့(ဖ်)ဝဲနောက်ဆုံးဗားရှင်းကို Mi မျှဝေခြင်းနှင့် တွဲသုံး၍ ရပါသည်။ အသုံးပြုနိုင်သော လက်ပတော့ မော်ဒယ်များကို MIUI ဝက်ဘဆိုက်တွင် ကြည့်ပါ။ စာရင်းထဲတွင် သင့်လက်ပတော့ကို တွေ့သော်လည်း ၎င်းတွင် AIoT ထည့်သွင်းထားခြင်း မရှိပါက သင့်လက်ပတော့၏ BIOS နှင့် ကွန်ရက်အဒတ်ပတာဒရိုင်ဘာကို အပ်ပဒိတ်လုပ်ပြီး AIoT ကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
     <string name="transfer_to_pc_summary_new">&lt;Data>Mi မှတ်စုစာအုပ်တွင် ထည့်သွင်းထားသော MIUI+ နောက်ဆုံးဗားရှင်းကို Mi မျှဝေခြင်းနှင့် တွဲသုံး၍ ရပါသည်။ အသုံးပြုနိုင်သော လက်ပတော့ မော်ဒယ်များကို MIUI+ ဝက်ဘဆိုက်တွင် ကြည့်ပါ (&lt;a href=%1$s>%2$s&lt;/a>)။ စာရင်းထဲတွင် သင့်လက်ပတော့ကို တွေ့သော်လည်း ၎င်းတွင် MIUI+ ထည့်သွင်းထားခြင်း မရှိပါက သင့်လက်ပတော့၏ BIOS နှင့် ကွန်ရက်အဒတ်ပတာဒရိုင်ဘာကို အပ်ပဒိတ်လုပ်ပြီး MIUI+ ကို ဒေါင်းလုဒ်လုပ်ပါ။&lt;/Data></string>
     <string name="transfer_to_pc_title">ဖိုင်များကို ကွန်ပျူတာများသို့ ပို့ရန်</string>
-    <string name="transfer_to_phone_summary">Mi မျှဝေခြင်းအား အသိပေးချက်အရိပ်ရှိ ခလုတ်ကို သုံးပြီး ဖွင့်ပါ။ ၎င်းနောက် သင်က ဓာတ်ပုံတစ်ပုံ သို့မဟုတ် ဖိုင်တစ်ခုကို မျှဝေရန် စလိုက်လျှင် အနီးအနားရှိ စက်များကို မြင်ရပါမည်။ သင်ပို့သောအရာကို လက်ခံမည့်စက်အား တို့ပါ။</string>
+    <string name="transfer_to_phone_summary">Mi မျှဝေခြင်းအား အသိပေးချက်အရိပ်ရှိ ခလုတ်ကို သုံးပြီး ဖွင့်ပါ။ ၎င်းနောက် သင်က ဓာတ်ပုံတစ်ပုံ သို့မဟုတ် ဖိုင်တစ်ခုကို မျှဝေရန် စလိုက်လျှင် အနီးအနားရှိ စက်များကို မြင်ရပါမည်။ သင်မျှဝေသောအရာကို လက်ခံမည့်စက်အား တို့ပါ။</string>
+    <string name="transfer_to_phone_summary_new">အကြောင်းအရာများကို အလွယ်တကူ ပေးပို့လက်ခံနိုင်ရန် ထိန်းချုပ်စင်တာတွင် Mi မျှဝေခြင်းဖွင့်ပါ။ ၎င်းကိုဖွင့်ပြီးနောက် %d မိနစ် အကြာတွင် အလိုအလျောက် ပိတ်မသွားမီ အကြောင်းအရာများကို အနီးအနားရှိ စက်များနှင့် မျှဝေနိုင်သည်။</string>
     <string name="transfer_to_phone_title">ဖိုင်များကို ဖုန်းများသို့ ပို့ရန်</string>
     <string name="transfer_to_summary">Mi မျှဝေခြင်းအား အသိပေးချက်အရိပ်ရှိ ခလုတ်ကို သုံးပြီး ဖွင့်ပါ။ ၎င်းနောက် သင်က ဓာတ်ပုံတစ်ပုံ သို့မဟုတ် ဖိုင်တစ်ခုကို မျှဝေရန် စလိုက်လျှင် အနီးအနားရှိ စက်များကို မြင်ရပါမည်။ သင်မျှဝေသောအရာကို လက်ခံမည့်စက်အား တို့ပါ။</string>
+    <string name="transfer_to_summary_new">အကြောင်းအရာများကို အလွယ်တကူ ပေးပို့လက်ခံနိုင်ရန် ထိန်းချုပ်စင်တာတွင် Mi မျှဝေခြင်းဖွင့်ပါ။ ၎င်းကိုဖွင့်ပြီးနောက် %d မိနစ် အကြာတွင် အလိုအလျောက် ပိတ်မသွားမီ အကြောင်းအရာများကို အနီးအနားရှိ စက်များနှင့် မျှဝေနိုင်သည်။</string>
     <string name="transfer_to_title">ဖိုင်များကို မိုဘိုင်းစက်များသို့ ပို့ရန်</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>

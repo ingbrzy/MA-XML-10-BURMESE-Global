@@ -60,6 +60,10 @@
     <string name="confirm">အိုကေ</string>
     <string name="confirm_pin_msg">PIN အား ပြန်ရိုက်ထည့်ပါ</string>
     <string name="control_center_notification_switch_guide">ထိန်းချုပ်စင်တာနှင့် အသိပေးချက်ရှိတ်တို့ကို အပြောင်းအလဲလုပ်ရန် ပွတ်ဆွဲပါ</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">ရပါပြီ</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"MIUI အဆင့်မြှင့်စနစ်ကိုပိတ်ပြီး ဓာတ်ခဲချွေတာစနစ်ကို ဖွင့်ပါက အမှောင်မုဒ်က အလိုအလျောက်ပွင့်ပါမည်။
+အမှောင်မုဒ်ပိတ်ရန် ဓာတ်ခဲချွေတာစနစ်ကို ပိတ်ပါ သို့မဟုတ် ဆက်တင် > ပြုစုသူရွေးစရာများ > MIUI အဆင့်မြှင့်စနစ်ဖွင့်ရန်တွင် MIUI အဆင့်မြှင့်စနစ်ကို ဖွင့်ပါ။"</string>
+    <string name="dark_mode_power_save_alert_dialog_title">အမှောင်မုဒ်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -409,6 +413,7 @@ mm"</string>
     <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
     <string name="msim_set_sub_not_supported_phone_in_call">ဖုန်းပြောနေစဉ် သတ်မှတ်မရပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="notification_control_center">အသိပေးချက်များနှင့် ထိန်းချုပ်စင်တာ</string>
@@ -505,9 +510,9 @@ mm"</string>
     <string name="rapid_charge_mode_tip">အမြန် အားသွင်းမှု</string>
     <string name="reboot_info_auto_boot_global">လာမည့် နှိုးစက် - %s</string>
     <string name="reboot_info_shutdown_alarm_global">စက်ပိတ်နှိုးစက် - %s</string>
-    <string name="recent_used_camera">ဤအက်(ပ်)က ကင်မရာသုံးထားသည်</string>
-    <string name="recent_used_camera_and_microphone">ဤအက်(ပ်)က အသံသွင်းပြီး ကင်မရာသုံးထားသည်</string>
-    <string name="recent_used_microphone">ဤအက်(ပ်)က အသံသွင်းထားသည်</string>
+    <string name="recent_used_camera">ဤအက်(ပ်)က ကင်မရာကို ဖတ်ထားသည်</string>
+    <string name="recent_used_camera_and_microphone">ဤအက်(ပ်)က ကင်မရာနှင့် မိုက်ခရိုဖုန်းကို ဖတ်ထားသည်</string>
+    <string name="recent_used_microphone">ဤအက်(ပ်)က ကင်မရာနှင့် မိုက်ခရိုဖုန်းကို ဖတ်ထားသည်</string>
     <string name="return_to_incall_screen">ဖုန်းခေါ်ရန် ပြန်သွားပါ</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
@@ -524,6 +529,8 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
     <string name="status_bar_clock_date_weekday_format">MMMM dd EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">MMMM dd EEEE</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 MMM d"</string>
     <string name="status_bar_date_format_12">"E
@@ -598,9 +605,9 @@ MMM d"</string>
     <string name="unlockscreen_low_battery">အားသွင်းကိရိယာနှင့် ယခု ချိတ်ဆက်ပါ</string>
     <string name="unlockscreen_recharge_completed">ဘက်ထရီ အားသွင်းပြီးပြီ</string>
     <string name="unlockscreen_recharging_message">%d%% အားသွင်းနေသည်</string>
-    <string name="using_camera">ဤအက်(ပ်)က ကင်မရာသုံးနေသည်</string>
-    <string name="using_camera_and_microphone">ဤအက်(ပ်)က အသံသွင်းပြီး ကင်မရာသုံးနေသည်</string>
-    <string name="using_microphone">ဤအက်(ပ်)က အသံသွင်းနေသည်</string>
+    <string name="using_camera">ဤအက်(ပ်)က ကင်မရာကို ဖတ်နေသည်</string>
+    <string name="using_camera_and_microphone">ဤအက်(ပ်)က ကင်မရာနှင့် မိုက်ခရိုဖုန်းကို ဖတ်နေသည်</string>
+    <string name="using_microphone">ဤအက်(ပ်)က ကင်မရာနှင့် မိုက်ခရိုဖုန်းကို ဖတ်နေသည်</string>
     <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>

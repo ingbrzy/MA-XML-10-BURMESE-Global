@@ -154,6 +154,7 @@
     <string name="miui_feedback_edit_toast_module_required">အကြောင်းအရာရွေးရန်</string>
     <string name="miui_feedback_edit_toast_more_desc_required">ရှင်းလင်းချက် အရှည်ရေးရပါမည်</string>
     <string name="miui_feedback_edit_toast_problem_class_required">အမျိုးအစားရွေးရန်</string>
+    <string name="miui_feedback_edit_toast_screenshot_too_large">100MB ထက်ကြီးသော ပုံ သို့မဟုတ် ဗီဒီယို တင်မရပါ</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">အက်(ပ်)အမည်ထည့်ရန်</string>
     <string name="miui_feedback_main_answer_title">ဤမေးခွန်းအတွက် အဖြေတစ်ခုရှိပါသည်</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"ဝန်ဆောင်မှုဟော့လိုင်း - 0120-300-521

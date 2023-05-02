@@ -112,7 +112,7 @@
         <item quantity="other">%1$s မှ ရုပ်ပုံ %2$d ခုကို လက်ခံရရှိခဲ့သည်</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">%1$s မှ ရုပ်ပုံ %2$d ခုကို လက်ခံနေသည်…</item>
+        <item quantity="other">" %1$s မှ ရုပ်ပုံ %2$d ခုကို လက်ခံနေသည်…"</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
         <item quantity="other">%1$s မှ ရုပ်ပုံ သို့မဟုတ် ဗီဒီယို %2$d ခု</item>

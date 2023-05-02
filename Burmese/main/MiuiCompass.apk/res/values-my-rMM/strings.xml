@@ -5,6 +5,7 @@
     <string name="allow">ခွင့်ပြုမည်</string>
     <string name="allowed">ခွင့်ပြုထားသည်</string>
     <string name="altitude">%.1f</string>
+    <string name="altitude_format">%.1f မီတာ</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">ပင်လယ်ပြင်ထက်အမြင့်</string>
     <string name="altitude_uncalibrate_cancel">ပယ်ဖျက်မည်</string>
@@ -17,9 +18,9 @@
     <string name="app_description_content">သံလိုက်အိမ်မြောင်သည် စနစ်အက်(ပ်)ဖြစ်သည်။ ၎င်းကို ဖြုတ်လိုက်လျှင် လမ်းညွှန်းများ၊ ကိုအောဒိနိတ်များ၊ လေဖိအားနှင့် လက်ရှိ မြေမျက်နှာပြင်အမြင့်တို့ကို စစ်မရတော့ပါ။</string>
     <string name="app_description_title">သံလိုက်အိမ်မြောင်ကို ဖြုတ်လိုသလား။</string>
     <string name="app_label">သံလိုက်အိမ်မြှောင်</string>
-    <string name="calibrate_failed">ပင်လယ်ပြင်ထက်အမြင့်ကို စံချိန်ကိုက်ညှိရာတွင် မအောင်မြင်ပါ</string>
-    <string name="calibrate_failed_no_location">စံချိန်ကိုက်ညှိလို့ မရပါ</string>
-    <string name="calibrate_failed_timeout">ဆာဗာသို့ ချိတ်ဆက်လို့ မရပါ</string>
+    <string name="calibrate_failed">အမြင့်ကိုချိန်ညှိမရပါ</string>
+    <string name="calibrate_failed_no_location">ချိန်ညှိမရပါ။ တည်နေရာအမှားအယွင်းရှိသည်။</string>
+    <string name="calibrate_failed_timeout">ချိန်ညှိမရပါ။ ဆာဗာအမှားအယွင်းရှိသည်။</string>
     <string name="calibrate_new_tip">ဘောလုံးကို စက်ဝိုင်းအနီးလှိမ့်ရန် စက်ကို သိသိသာသာစောင်းပေးပါ</string>
     <string name="calibrate_rotate_again">ထပ်ကြိုးစားပါ</string>
     <string name="calibrate_success">စံချိန်ကိုက်ညှိပြီးပြီ</string>
@@ -119,6 +120,10 @@
     <string name="get_location">တည်နေရာဖတ်ခွင့်ပြုရန်</string>
     <string name="gradienter_title">တန်းညှိကိရိယာ</string>
     <string name="guide_toast">စံကိုက်ချိန်ညှိရန် သင့်ဖုန်းကို အောက်ပါအတိုင်း ရွှေ့ပါ။</string>
+    <string name="invisible_mode_dialog_message">ကင်မရာကို ယခုသုံးမရပါ။ ကင်မရာသုံးနိုင်ရန် ဆက်တင်တွင် ရုပ်ဖျက်မုဒ်ကို ပိတ်ပါ။</string>
+    <string name="invisible_mode_dialog_negative">ပယ်ဖျက်မည်</string>
+    <string name="invisible_mode_dialog_positive">ဆက်တင်များ</string>
+    <string name="invisible_mode_dialog_title">ရုပ်ဖျက်မုဒ်ထဲရောက်နေသည်</string>
     <string name="latitude">လတ္တီတွဒ်</string>
     <string name="location_east">အရှေ့အရပ်</string>
     <string name="location_enable">ခွင့်ပြုသည်</string>
@@ -133,15 +138,15 @@
     <string name="longitude">လောင်ဂျီတွဒ်</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -219,6 +224,7 @@
     <string name="preference_privacy_setting">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="preference_privacy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="pressure">%.1f</string>
+    <string name="pressure_format">%.1f hPa</string>
     <string name="pressure_title">လေထုဖိအား</string>
     <string name="pressure_unit">လေထုဖိအားအမြင့်</string>
     <string name="remove_icon_description_content">သံလိုက်အိမ်မြောင်သည် စနစ်အက်ပ် ဖြစ်သည်။ သင်သည် ပင်မမျက်နှာပြင် ရှော့(တ်)ကတ်ကို ဖယ်ရှားပြီးနောက် ၎င်းကို ဦးတည်ရာများ၊ ကိုဩဒီနိတ်များ၊ လေထု ဖိအားနှင့် လက်ရှိ အမြင့်ကို စစ်ဆေးရန် အသုံးပြုနိုင်မည် မဟုတ်ပါ။</string>

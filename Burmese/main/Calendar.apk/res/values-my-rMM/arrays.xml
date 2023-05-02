@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>တစ်ခုမျှမရှိပါ</item>
-        <item>Hijri Samvat</item>
-        <item>Shaka Samvat</item>
-        <item>Vikrami Samvat</item>
+        <item>အစ္စလမ်ပြက္ခဒိန်</item>
+        <item>အိန္ဒိယအမျိုးသားပြက္ခဒိန်</item>
+        <item>ဗီကရန်ပြက္ခဒိန်</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
@@ -29,6 +29,10 @@
     <string-array name="change_response_labels">
         <item>ဤလုပ်ငန်းစဉ်သာ</item>
         <item>ဤစီးရီးရှိ လုပ်ငန်းစဉ်အားလုံး</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>တစ်ကြိမ်ပိတ်ရန်</item>
+        <item>အမြဲပိတ်ရန်</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>ရှေ့သို့</item>
@@ -78,6 +82,10 @@
         <item>libra</item>
         <item>တူရာသီဖွား</item>
         <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>တစ်ကြိမ်ဖွင့်ရန်</item>
+        <item>အမြဲဖွင့်ရန်</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>တနင်္ဂနွေ</item>

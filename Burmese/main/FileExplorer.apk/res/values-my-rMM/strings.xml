@@ -102,6 +102,8 @@
     <string name="cloud_drive_settings">Mi ဒရိုက်ဆက်တင်</string>
     <string name="cloud_empty_hint_text">"ဤနေရာတွင် ဘာမျှမရှိသေးပါ။
 စက်မှဖိုင်များကို Mi ဒရိုက်သို့ ရွှေ့ကြည့်ပါ။"</string>
+    <string name="cloud_empty_hint_text_pad">"ဤနေရာတွင် ဘာမျှမရှိသေးပါ။
+စက်မှဖိုင်များကို Mi ဒရိုက်သို့ ရွှေ့ကြည့်ပါ။"</string>
     <string name="cloud_guide_summary_text">သင့်အကြောင်းအရာများကို စက်အားလုံးတွင် အလိုအလျောက် ဆင့်(ခ်)လုပ်ရန်</string>
     <string name="cloud_guide_title_text">Mi ဒရိုက်နှင့် ဆင့်(ခ်)လုပ်ရန်</string>
     <string name="cloud_permission_storage_desc">ဓာတ်ပုံနှင့် စာရွက်စာတမ်းများကို စက်တွင် သိမ်းရန်</string>
@@ -217,6 +219,9 @@
     <string name="evening">နေ့လယ်</string>
     <string name="exception_net_not_available">ကွန်ရက်ဆက်တင်ကိုစစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="exit">ထွက်ရန်</string>
+    <string name="extend_service_setting">ထပ်ဆောင်းဝန်ဆောင်မှုများ</string>
+    <string name="extend_service_summary">ဤဝန်ဆောင်မှုကို ပိတ်ပါက Mi ဒရိုက်နှင့် ဆက်စပ်အင်္ဂါရပ်များကို သုံးမရတော့ပါ။</string>
+    <string name="extend_service_title">Mi ဒရိုက်ဖိုင်များ စီမံခန့်ခွဲရန်</string>
     <string name="extended_storage_file_can_not_open">ဖိုင် ဖွင့်မရပါ။ အတွင်းပိုင်းသိုလှောင်ခန်းသို့ ကော်ပီကူးပါ။</string>
     <string name="extract">ပြန်ထုတ်ယူပါ</string>
     <string name="fab_menu_ball">အမြန်ဆောင်ရွက်ချက်များ</string>
@@ -227,6 +232,7 @@
     <string name="favorite_photo">ဓာတ်ပုံများ</string>
     <string name="favorite_ringtone">ဖုန်းမြည်သံများ</string>
     <string name="favorite_screen_cap">မျက်နှာပြင်ရိုက်ချက်များ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ဖတ်နိုင်ခြင်း -  </string>
     <string name="file_info_canwrite">ရေးနိုင်ခြင်း -  </string>
     <string name="file_info_ishidden">ဝှက်ထားခြင်း -  </string>
@@ -599,6 +605,9 @@
     <string name="otg_data_transferring">ဖိုင်များရွှေ့ပြောင်းနေသည်… ပြင်ပသိုလှောင်ခန်းကို မဖြုတ်ပါနှင့်။</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" ရှိပြီးသားဖြစ်ပါသည်။ ဖိုင်အသစ်ဖြင့် အစားထိုးရန် ထိနှိပ်လိုက်ပါ။</string>
+    <string name="pad">တက်ဘလက်</string>
+    <string name="pad_homepage_tab_file_view_phone">တက်ဘလက်</string>
+    <string name="pad_start_phone">သိုလှောင်ခန်း</string>
     <string name="partial_cancel_successful">ဖိုင်များအား မဖယ်ရှားနိုင်ခဲ့။ %s သို့ဖိုင်များအား လုံးအား ရွေ့ခဲ့သည်။</string>
     <string name="partial_delete_failure">ဖိုင်အချို့ကို ဖျက်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="partial_encrypt_success">ဖိုင်အချို့ကို ကိုယ်ပိုင်သီးသန့်လုပ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
@@ -722,6 +731,7 @@
     <string name="set_pattern">သင့်စကားဝှက်အား အဆင့်မြှင့်တင်ပါ</string>
     <string name="set_pattern_btn">သတ်မှတ်</string>
     <string name="set_pattern_msg">စကားဝှက်ပြန်သတ်မှတ်ပါ။ ဓာတ်ပုံများ၊ မက်ဆေ့(ချ်)များနှင့် မှတ်စုများအတွက် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု အကာအကွယ် စကားဝှက်ကိုလည်း သုံးနိုင်သည်။</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">%d KB ထက်သေးသည်</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -742,6 +752,9 @@
     <string name="start_server">စတင်မည်</string>
     <string name="stay_awake_summary">FTP အား အသုံးပြုနေစဉ် မျက်နှာပြင်အား ပိတ်မသွားပါစေနှင့်</string>
     <string name="stay_awake_title">မျက်နှာပြင်အား အမြဲ လင်းစေပါ</string>
+    <string name="stop_extend_service_dialog_confirm">ပိတ်ရန်</string>
+    <string name="stop_extend_service_dialog_summary">ဤအင်္ဂါရပ်ကို ပိတ်ပါက Mi ဒရိုက်တွင် သိမ်းထားသော ဖိုင်များကို စီမံခန့်ခွဲမရတော့ပါ။ မဖြစ်မနေ ပိတ်လိုသလား။</string>
+    <string name="stop_extend_service_dialog_tilte">ထပ်ဆောင်းဝန်ဆောင်မှုများ</string>
     <string name="stop_server">ရပ်တန့်မည်</string>
     <string name="storage_cloned_app">နှစ်ခုတွဲအက်(ပ်)များအတွက် သိုလှောင်ခန်း</string>
     <string name="storage_info_detail">ရရှိနိုင်သော− %1$s စုစုပေါင်း− %2$s</string>

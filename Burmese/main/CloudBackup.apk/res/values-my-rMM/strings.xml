@@ -125,8 +125,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">စက်ကို အားသွင်းထား၊ သော့ခတ်ထားပြီး WLAN ချိတ်ထားရပါမည်</string>
     <string name="cloud_backup_detail_time">နောက်ဆုံးအရန်သိမ်း−%1$s</string>
     <string name="cloud_backup_detail_title">အကြောင်းအရာများ အရန်သိမ်းရန်</string>
-    <string name="cloud_backup_get_installed_apps_summary">For backing up and restoring Home screen apps</string>
-    <string name="cloud_backup_get_installed_apps_title">Access the list of apps installed on this device</string>
     <string name="cloud_backup_have_data">Xiaomi ကလောက်တွင် အရန်သိမ်းဖိုင်တစ်ခုတွေ့သည်</string>
     <string name="cloud_backup_in_cancel">ပယ်ဖျက်မည်</string>
     <string name="cloud_backup_in_process">အရန်သိမ်းနေသည်</string>
@@ -144,9 +142,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_app_data">ဤစက်တွင် WeChat ထည့်ထားပြီးဖြစ်သည်။ WeChat ဒေတာများ ပြန်ယူမရပါ။</string>
     <string name="confirm_restore_summary">သင်၏ ပင်မမျက်နှာပြင်အား ပြန်ဖွင့်ပါမည်။ အရန်သိမ်းထားသော အက်ပ်များလည်း အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိမ့်မည်။</string>
     <string name="confirm_restore_title">ပြန်လည်ရယူ</string>
-    <string name="cta_dialog_all_purpose">ကလောက်အရန်သိမ်းစနစ်မှ ကြိုဆိုပါသည်။ ပင်မမျက်နှာပြင် လေးအောက်များ၊ အက်(ပ်)များ၊ စနစ်ဆက်တင်များနှင့် WeChat ဒေတာများကို ကလောက်သို့ အရန်သိမ်းရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။ အင်္ဂါရပ်အားလုံးကို အပြည့်အဝအသုံးချနိုင်ရန် နောက်ဆုံးဗားရှင်း သုံးထားကြောင်း သေချာပါစေ။</string>
-    <string name="cta_dialog_permission_description_get_installed_apps">For backing up and restoring apps</string>
-    <string name="cta_dialog_permission_description_storage">အကြောင်းအရာများ အရန်သိမ်းရန်နှင့် ပြန်ယူရန်</string>
     <string name="customization"><u>သုံးသူစိတ်ကြိုက်</u></string>
     <string name="date_format">HH:mm:ss dd/MM/yyyy</string>
     <string name="date_picker_label_day" />
@@ -372,6 +367,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="other_device_main_space">ပထမနေရာ</string>
     <string name="other_device_second_space">ဒုတိယ နေရာ</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">PC မုဒ်တွင် အကြောင်းအရာများ ပြန်ယူမရပါ။ PC မုဒ်ကို ပိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="permission_to_use">ခွင့်ပြုချက်အသေးစိတ်</string>
     <string name="pm">ညနေ</string>

@@ -83,8 +83,6 @@
     <string name="dialog_storage_upgrade_now">အဆင့်မြှင့်ရန်</string>
     <string name="dialog_title_prompt">သတိပြုရန်</string>
     <string name="do_not_merge">မလုပ်တော့ရန်</string>
-    <string name="download_gallery_data_summary">ဆင့်(ခ်)လုပ်ထားသော ဓာတ်ပုံနှင့်ဗီဒီယိုများကို စက်သို့ ဒေါင်းလုဒ်လုပ်ရန် i.mi.com သို့ သွားပါ။</string>
-    <string name="download_gallery_data_title">အကြောင်းအရာများကို စက်သို့ ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="enable_find_device_success">စက်ကိုရှာပါကို ဖွင့်ထားသည်</string>
@@ -117,6 +115,8 @@
     <string name="feedback_custom_hint">သင်ကြုံတွေ့ခဲ့ရသော ပြဿနာများအကြောင်းကို ဤနေရာတွင် ဖော်ပြပေးပါ။ အကြံပြုချက်များ ပေးအပ်နေခြင်းဖြစ်ပါက အသေးစိတ်အချက်အလက်များအား ကျွုန်ုပ်တို့ပိုမိုနှစ်သက်ပါသည်။</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
     <string name="find_device_dspt_provision">သင့်စက် ပျောက်သွားပါက စက်ရှာဖွေရန်၊ သော့ခတ်ရန် သို့မဟုတ် ပြန်သတ်မှတ်ရန် &lt;font color=#0097FF>%s&lt;/font>သို့ သွားပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင် အချိန်မရွေး ဖွင့်/ပိတ် လုပ်နိုင်ပါသည်။</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">စက်ရှာဖွေစနစ်ကို ဖွင့်ခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ <u><a href="app://com.miui.cloudservice.gdpr.license">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</a></u> ကို သဘောတူရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်ကို ပိတ်ပါ။</string>
     <string name="find_device_operation_failure_rpc">RPC အမှားကြောင့် လုပ်ငန်းစဉ်လုပ်ဆောင်၍မရပါ။</string>
     <string name="find_device_permissions_footer">ရွေးထားသောခွင့်ပြုချက်များ ပေးရန် \"ခွင့်ပြုရန်\" ကို တို့ပါ။</string>
@@ -127,8 +127,6 @@
     <string name="find_device_status_title_phone">စက်ရှာဖွေစနစ်</string>
     <string name="find_permission_location_summary">ဤစက်ကို တည်နေရာရှာရန်</string>
     <string name="find_permission_location_title">တည်နေရာဖတ်ခွင့်ပြုရန်</string>
-    <string name="find_permission_phone_sim_info_summary">ကွန်ရက်မချိတ်ချိန်တွင် သင့်တည်နေရာကို SMS မှတစ်ဆင့် ဖတ်ရန်</string>
-    <string name="find_permission_phone_sim_info_title">စက်အချက်အလက်များဖတ်ရန်</string>
     <string name="find_permission_phone_summary">အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်အတွက် ဖုန်းနံပါတ် ဖတ်ခွင့်ပြုရန်</string>
     <string name="find_permission_phone_title">စက်အချက်အလက်ဖတ်ရန်</string>
     <string name="find_permission_sms_summary">အင်တာနက်ချိတ်မထားချိန်တွင် ဤစက်ကို တည်နေရာရှာရန်</string>
@@ -192,13 +190,6 @@
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="gallery_auto_sync_fail_noti_content">ကလောက်တွင် နေရာလွတ် မလုံလောက်ပါ။ ဓာတ်ပုံနှင့် ဗီဒီယိုများ ဆင့်(ခ်)လုပ်ရန် သိုလှောင်ခန်းပလန်ကို အဆင့်မြှင့်ပါ။</string>
-    <string name="gallery_data_transfer_ddl">နောက်ဆုံးနေ့ - %s</string>
-    <string name="gallery_data_transfer_summary">ပြခန်းမှအရာများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်မရတော့ပါ။ ကလောက်နှင့် ဆင့်(ခ်)လုပ်ထားသော ဓာတ်ပုံနှင့် ဗီဒီယိုများကို Google ဓာတ်ပုံများသို့ လွှဲပြောင်းရန်နှင့် ၎င်းတို့၏ ဝန်ဆောင်မှုများကို သုံးပြီး သင့်အကြောင်းအရာများကို အရန်သိမ်းရန် အကြံပြုပါသည်။</string>
-    <string name="gallery_data_transfer_title">ဆင့်(ခ်)လုပ်ထားသော ဓာတ်ပုံနှင့် ဗီဒီယိုများကို Google ဓာတ်ပုံများသို့ လွှဲပြောင်းရန်</string>
-    <string name="gallery_service_termination_announcement">သတိပြုရန် - ပြခန်းမှအရာများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်မရတော့ပါ</string>
-    <string name="gallery_service_termination_announcement_title">ပြခန်းမှအရာများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်မရတော့ပါ။ ကလောက်နှင့် ဆင့်(ခ်)လုပ်ထားသော ဓာတ်ပုံနှင့် ဗီဒီယိုများကို Google ဓာတ်ပုံများသို့ လွှဲပြောင်းရန် အကြံပြုပါသည် သို့မဟုတ် ဆင့်(ခ်)လုပ်ထားသော ဓာတ်ပုံနှင့်ဗီဒီယိုများကို စက်သို့ ဒေါင်းလုဒ်လုပ်ရန် i.mi.com သို့ သွားပါ။ လွှဲပြောင်းရန်နှင့် ဒေါင်းလုဒ်လုပ်ရန် ဝန်ဆောင်မှုများကို %s ရက်အထိ ရနိုင်မည်ဖြစ်ပြီး ၎င်းပြီးနောက် Xiaomi ကလောက်အကောင့်နှင့် ဆင့်(ခ်)လုပ်ထားသော ပြခန်းမှအရာများကို အပြီးဖျက်လိုက်ပါမည်။</string>
-    <string name="gallery_service_termination_btn_continue">ရှေ့ဆက်ရန်</string>
-    <string name="gallery_service_termination_more_info">အသေးစိတ်ကြည့်ရန် - %s</string>
     <string name="help_and_feedback">အကူအညီနှင့် တုံ့ပြန်အကြံပြုချက်</string>
     <string name="hybrid_provider">%1$sမှ ထောက်ပံ့ထားသော</string>
     <string name="i_know">အိုကေ</string>
@@ -264,7 +255,6 @@
     <string name="member_menu_vipname_premium">ပရီမီရမ်</string>
     <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_short_cut">ပင်မမျက်နှာပြင် ရှော့ကဒ် ဖန်တီးရန်</string>
-    <string name="menu_migrate_to_google_photos">Google ဓာတ်ပုံများသို့ ဒေတာများလွှဲပြောင်းရန်</string>
     <string name="merge">ပေါင်းစည်းပါ</string>
     <string name="mi_drive_title">Mi ဒရိုက်</string>
     <string name="micloud_alert_dialog_positive">အိုကေ</string>
@@ -570,8 +560,6 @@
     <string name="permission_status_allow">ခွင့်ပြုထားသည်</string>
     <string name="permission_status_deny">ခွင့်မပြုထားပါ</string>
     <string name="permission_status_loading">စက်အခြေအနေဖတ်နေသည်…</string>
-    <string name="phone_guarantee_service_description" formatted="false">အသက်သွင်းပြီး %d ရက်အတွင်း မျက်နှာပြင်ပျက်စီးခြင်းနှင့် မတော်တဆမှုများအတွက် အာမခံဝယ်နိုင်သည်။ ထပ်တိုးဝရန်တီကို အသက်သွင်းပြီး %d ရက်အတွင်း ဝယ်နိုင်သည်။</string>
-    <string name="phone_guarantee_service_name">စက်ဝရန်တီ</string>
     <string name="picker_list_empty">ဤနေရာတွင် အဆက်အသွယ်တစ်ခုမျှ မရှိပါ</string>
     <string name="picker_search_empty">အဆက်အသွယ်များ ရှာမရပါ</string>
     <string name="picker_search_hint">ရှာရန်</string>
@@ -761,11 +749,10 @@
     <string name="soundrecorder_sync_only_in_wifi_summary_china">Recorder will not use mobile data to download or upload recordings</string>
     <string name="soundrecorder_sync_records">Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ရန်</string>
     <string name="starred_contact">အကြိုက်ဆုံးများ</string>
-    <string name="start_transfer_gallery_data">ဒေတာများလွှဲပြောင်းရန်</string>
     <string name="storage_manage_cloud_data_title">ကလောက်ရှိအရာများကို ကြည့်ရန်</string>
     <string name="storage_manage_list_title">Cloud ဒေတာ</string>
     <string name="storage_manage_list_title_action">နောက်ထပ် ကြည့်ရှုရန်</string>
-    <string name="storage_upgrade_card_title">Upgrade</string>
+    <string name="storage_upgrade_card_title">သင့်အစီအစဉ်ကို အဆင့်မြှင့်ပါ</string>
     <string name="sub_alert_notif_content">Xiaomi ကလောက် ဖွင့်ရန်</string>
     <string name="sub_alert_notif_title">Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါ</string>
     <string name="sub_sync_item_sms_summary">ဓါတ်ပုံ၊ အော်ဒီယို (သို့) အခြားမီဒီယာများပါဝင်သော မက်ဆေ့ချ်များကို သင် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သည့်အခါ ဆင့်ခ်လုပ်ပါ</string>
@@ -884,7 +871,7 @@
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
     <string name="wipe_data_dialog_button_check_sync">ဆင့်ခ်လုပ်ထားသလား စစ်ဆေးကြည့်ပါ</string>
-    <string name="wipe_data_dialog_msg">အချို့ (%s) များ ဆင့်(ခ်)မလုပ်ပါ။ ၎င်းတို့ကို စက်တွင်သိမ်းထားမည်ဖြစ်ပြီး ပျက်မသွားပါ။</string>
+    <string name="wipe_data_dialog_msg">အိုင်တမ် %s ခု ဆင့်ခ်မလုပ်ရသေးပါ။ ထိုအိုင်တမ်များကို သင်၏စက်ပေါ်တွင် သိမ်းဆည်းထားမည်၊ မဖျက်ပစ်ပါ။</string>
     <string name="wipe_data_dialog_msg_and_on">၊နှင့် အခြားအိုင်တမ်များ</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">အိုင်တမ်များအား ဆင့်ခ်မလုပ်ရသေးပါ</string>

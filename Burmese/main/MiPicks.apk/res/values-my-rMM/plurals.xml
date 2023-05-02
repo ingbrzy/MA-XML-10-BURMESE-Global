@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">၁ နာရီ အတွင်း</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">နာရီဝက် အတွင်း</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ချက်ချင်း</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d မိနစ်အတွင်း</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ယခုလေးတင်</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+    </plurals>
+    <plurals name="age_restriction">
+        <item quantity="other">%1$d+ အတွက် အမှတ်ပေးထားသည်</item>
+    </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">ဒေါင်းလုဒ် %1$s</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">ကြိုတင်အမှာ %1$s ခု</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">အက်(ပ်) %1$d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">အဆင့် %1$d ဆင့်သုံးပြီး ဒီဘာဂင်မုဒ်သို့ ပြောင်းရန်</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">အက်(ပ်)အားလုံး %1$d ခုကိုပြရန် တို့ပါ</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">\@%2$s နှင့် @%3$s အပါအဝင် လူ %1$d ဦးထံမှ</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">မဖတ်ထားသောမက်ဆေ့(ချ်) %1$d စောင်ရှိသည်</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s မှတ်</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s ရက်</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">ရွေးထားသောအရာ %1$s ခုကို ဖျက်လိုသလား။</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">မှတ်ချက်တွင် အက္ခရာ အနည်းဆုံး %1$d လုံး ပါရမည်</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">သုံးသပ်ချက်တွင် အက္ခရာ အများဆုံး %1$d လုံးထိပါနိုင်သည်</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">%2$s အပါအဝင် ဒေါင်းလုဒ် %1$d ခုကို ဖျက်လိုသလား။</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">ကြိုတင်အမှာ %s ခု</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">အက်(ပ်) %1$d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">၁ နာရီ အတွင်း</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">နာရီဝက် အတွင်း</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ချက်ချင်း</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d မိနစ် အကြာမှာ</item>
+    </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">%2$s အပါအဝင် အက်(ပ်) %1$s ခုကို မဖြစ်မနေထည့်လိုသလား။</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">မိုဘိုင်းဒေတာသုံးပြီး အက်(ပ်)များဒေါင်းလုဒ်လုပ်ခြင်းက ငွေပိုကုန်နိုင်သည်။ %1$s အပါအဝင် အက်(ပ်) %2$s ခုကို မဖြစ်မနေ ဒေါင်းလုဒ်လုပ်လိုသလား။</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">Wi-Fi ဟော့စပေါ့နှင့် ချိတ်နေသည်။ အက်(ပ်)များဒေါင်းလုဒ်လုပ်လျှင် သင်ချိတ်ထားသောစက်တွင် အပိုဒေတာကြေး ကုန်နိုင်သည်။ %2$s အပါအဝင် %1$s ခုကို မဖြစ်မနေ ဒေါင်းလုဒ်လုပ်လိုသလား။</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$s ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ယခုလေးတင်</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">လူကြိုက်အများဆုံးအက်(ပ်)များတွင် ကိုယ်တိုင် အရည်အသွေးစစ်ဆေးမှု %d ခု လုပ်သည်</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">သုံးသပ်ချက် %s ခု</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသော</item>
+    </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">ဒေါင်းလုဒ် %s ခု</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">အက်(ပ်) &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> ခု အပ်ပဒိတ်လုပ်နိုင်သည်</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">အက်(ပ်) %1$s ခု ထည့်နေသည်</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">ဒင်္ဂါး %1$3d ပြား</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">မဲပေးခြင်းပိတ်ပါပြီ။ %1$d ဦး မဲပေးထားသည်။</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"%1$d ဦး မဲပေးထားသည်။ "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">ရလဒ်များကို %1$d နာရီအတွင်း ကြေညာပါမည်။</item>
+    </plurals>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">အက်(ပ်) %1$s ခု ဖြုတ်ရန်</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">အပ်ပဒိတ် %1$d ခု</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">မိုဘိုင်းဒေတာသုံးပြီး အက်(ပ်)များအပ်ပဒိတ်လုပ်ခြင်းက ငွေပိုကုန်နိုင်သည်။ %2$s အပါအဝင် အက်(ပ်) %1$s ခုကို မဖြစ်မနေ အပ်ပဒိတ်လုပ်လိုသလား။</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">Wi-Fi ဟော့စပေါ့နှင့် ချိတ်နေသည်။ အက်(ပ်)များအပ်ပဒိတ်လုပ်လျှင် သင်ချိတ်ထားသောစက်တွင် အပိုဒေတာကြေး ကုန်နိုင်သည်။ %2$s အပါအဝင် %1$s ခုကို မဖြစ်မနေ အပ်ပဒိတ်လုပ်လိုသလား။</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">လွန်ခဲ့သော %1$d ရက်က</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">%2$s အပါအဝင် အက်(ပ်) %1$s ခုကို မဖြစ်မနေဖြုတ်လိုသလား။</item>
+    </plurals>
+</resources>

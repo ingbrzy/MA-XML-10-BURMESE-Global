@@ -15,7 +15,7 @@
     <string name="app_name">ဂဏန်းတွက်စက်</string>
     <string name="app_notification_info">ဂဏန်းတွက်စက်သည် နောက်ခံတွင် အလုပ်လုပ်နေသည်</string>
     <string name="base_rate">အခြေခံအတိုးနှုန်း</string>
-    <string name="bmi_error_text">BMI မှန်ပုံမရပါ။ အမြင့်နှင့် အလေးချိန် မှန်အောင်ထည့်ပါ။</string>
+    <string name="bmi_error_text">ကန့်သတ်ချက်အမှန်များထည့်ပါ</string>
     <string name="bmi_label_information">အချက်အလက်များ</string>
     <string name="bmi_label_normal">ပုံမှန်</string>
     <string name="bmi_label_overweight">သတ်မှတ်အလေးချိန်အထက်</string>
@@ -191,6 +191,7 @@
     <string name="global_search_key_word_figure">ငွေကြေးဆိုင်ရာ အက္ခရာများ</string>
     <string name="golbal_search_calculator_setting">ဂဏန်းတွက်စက်;ဂဏန်းတွက်စက် ဆက်တင်;ဆက်တင်</string>
     <string name="golbal_search_path_calculator_setting">စနစ်အက်ပ်များ/ဂဏန်းတွက်စက်/ဆက်တင်</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">အမြင့်</string>
     <string name="help_content_desc">အကူအညီ</string>
@@ -206,6 +207,7 @@
     <string name="install_scanner_to_continued_use">စကန်နာအား ဖြုတ်ချထားသည်။ ပြန်ထည့်သွင်းမလား?</string>
     <string name="interest_rate_hint">အတိုးနှုန်းအား ရိုက်ထည့်ပါ</string>
     <string name="investment_invalid_duration">ရင်းနှီးမြုပ်နှံသောကြာချိန်သည် သုညထက် ကြီးသင့်ပါသည်</string>
+    <string name="investment_loan_result">အသေးစိတ်</string>
     <string name="investment_type_once">တစ်ကြိမ်</string>
     <string name="investment_type_recurring">ထပ်တလဲလဲဖြစ်ပေါ်သော</string>
     <string name="item_page_title_investment">ရင်းနှီးမြှုပ်နှံမှု တွက်ချက်စက်</string>
@@ -559,7 +561,6 @@
     <string name="tax_result_real_get">အခွန်ဆောင်ပြီးနောက်</string>
     <string name="tax_social_insurance">လူမှုအာမခံကြေး</string>
     <string name="tax_thershold_foreign">%s (နိုင်ငံခြားသား)</string>
-    <string name="tax_thershold_native">%s (တရုတ်ပြည်မကြီး)</string>
     <string name="tax_thershold_native_new">%s (အသစ်)</string>
     <string name="tax_thershold_native_new_description">အခွန်ငွေအား ၂၀၁၈ ခုနစ် အောက်တိုဘာလ ၁ ရက်နေ့မှစ၍ အခွန်ဥပဒေအသစ် အတိုင်း တွက်ချက်သွားပါမည်</string>
     <string name="tax_threshold">အခွန်လွတ် တံခါးဝ</string>
@@ -662,6 +663,7 @@
     <string name="unit_data_display_currency_btn">ဘူတန် ငူထရန်</string>
     <string name="unit_data_display_currency_bwp">ဘော့စဝါ ပူလာ</string>
     <string name="unit_data_display_currency_byn">ဘီလာရုရူဘယ်</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ကနေဒါ ဒေါ်လာ</string>
     <string name="unit_data_display_currency_cdf">ကွန်ဂိုဖရန့်</string>
     <string name="unit_data_display_currency_chf">ဆွစ် ဖရန့်</string>
@@ -767,7 +769,7 @@
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Fathom</string>
     <string name="unit_data_display_length_ft">ပေ</string>
-    <string name="unit_data_display_length_fur">လံ (ရေအနက်)</string>
+    <string name="unit_data_display_length_fur">ဖာလုံ</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">လက်မ</string>
@@ -1002,12 +1004,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">ဂဏန်ပေါင်းစက်သည် စနစ်အက်(ပ်)တစ်ခု ဖြစ်သည်။ အက်(ပ်)ကို ဖြုတ်ပြီးနောက် အမျိုးမျိုးသော စနစ်ပြောင်းနည်းများနှင့် အပိုအင်္ဂါရပ်များကို သုံးနိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="xiaomi_calculator_delete_title">ဂဏန်းပေါင်းစက်ကို ပြန်ဖြုတ်လိုသလား။</string>
     <string name="xiaomi_calculator_remove_icon_description">ဂဏန်ပေါင်းစက်သည် စနစ်အက်ပ်တစ်ခု ဖြစ်သည်။ ပင်မမျက်နှာပြင်ရှော့ကဒ်ကို ဖယ်ရှားပြီးနောက် အမျိုးမျိုးသော စနစ်ပြောင်းနည်းများနှင့် အပိုအင်္ဂါရပ်များကို သင်သုံးနိုင်တော့မည် မဟုတ်ပါ။</string>
     <string name="xiaomi_calculator_remove_icon_title">ပင်မမျက်နှာပြင်မှ \"ဂဏန်းတွက်စက်\" ကို ဖယ်ရှားလိုပါသလား။</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ်များအား ချိတ်ဆက်၍ မရပါ။ ဤအက်ပ်မှ တောင်းဆိုထားသော ခွင့်ပြုချက် အားလုံး ရှိမရှိ ဆက်တင် > ထည့်သွင်းထားသော အက်ပ်များတွင် စစ်ကြည့်ပါ။</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်ခန်း မရရှိပါ။ SD ကဒ်အား စစ်ဆေးပါ။</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
 အရွယ်အစား- %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"အောက်ပါ ဗားရှင်းအသစ်သို့ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည် %1$s
