@@ -6,6 +6,8 @@
     <string name="activate_esim_tips">အသက်သွင်းမရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="activating_esim_tips">အသက်သွင်းနေသည်…</string>
     <string name="address_dialing_introduction">ဖုန်းခေါ်ရန်၊ ခေါ်ဆိုမှုမှတ်တမ်းကြည့်ရန်နှင့် အဆက်အသွယ်များစီမံခန့်ခွဲရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
+    <string name="after_sales_support">After-sales support</string>
+    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="agree">သဘောတူသည်</string>
     <string name="agree_and_next">သဘောတူသည်</string>
@@ -27,6 +29,7 @@
     <string name="app_name">ကြိုတင်ကာလ</string>
     <string name="application_package_introduction">ပက်ကေ့(ဂျ်) ထည့်သွင်းစနစ်ကို ပြင်ပပါတီအက်(ပ်)များထည့်ရန် သုံးပြီး ၎င်းတွင် မထည့်မီ စကန်ဖတ်ခြင်းနှင့် ထည့်ပြီးနောက် အက်(ပ်)အကြံပြုဝန်ဆောင်မှုများ ပါဝင်သည်။</string>
     <string name="application_permissions">အက်ပ်ခွင့်ပြုချက်များ</string>
+    <string name="authority_introduction">权限管理服务是您对应用进行权限管理的基础服务。</string>
     <string name="back">နောက်သို့</string>
     <string name="backup_introduction">သင့်စက်တွင် အကြောင်းအရာများ အရန်သိမ်းရန်နှင့် ပြန်ယူရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="bluetooth_introduction">စနစ်သည် ကြိုးမဲ့ဆက်သွယ်ရေးအတွက် ဘလူးတုကို သုံးသည်။ ဘလူးတုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အောက်ပါခွင့်ပြုချက်များလိုသည် -</string>
@@ -42,8 +45,8 @@
     <string name="carousel_privacy"><Data>နောက်ခံပုံရဟ်မသုံးမီ ကျွန်ုပ်တို့စိတ်ချရသေ ာပြင်ပပါတီဝန်ဆောင်မှုပံ့ပိုးသူ၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ &lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူပါ။</Data></string>
     <string name="carousel_setting">သော့ချမျက်နှာပြင်သတ်မှတ်ပါ</string>
     <string name="carousel_setting_sub">နောက်ခံပုံရဟတ်က စက်ကိုသော့ဖွင့်တိုင်း ဇာတ်လမ်းအသစ်များ ပြပါမည်</string>
-    <string name="carrier_introduction_china">"In order to provide you with better services, processes running on your device (including SystemHelper, RegService, and Carrier Services) may periodically send the information related to your device and SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, MIUI version, Android version, device model, and basic hardware specifications), as well as approximate location information (including region, coordinates, area identifier, and base station ID) to the carrier via WLAN, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
-    <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
+    <string name="carrier_introduction_china">သင့်အား အကောင်းဆုံးဝန်ဆောင်မှု ပေးနိုင်ရန်အတွက် (SystemHelper၊ RegService နှင့် ဖုန်းလိုင်းဝန်ဆောင်မှုများ အပါအဝင်) သင့်စက်တွင်လည်ပတ်နေသော လုပ်ဆောင်ချက်များက (IMEI၊ IMSI၊ MSISDN၊ MEID၊ ICCID၊ MAC လိပ်စာ၊ စနစ်ဗားရှင်း၊ Android ဗားရှင်း၊ စက်မော်ဒယ်နှင့် အခြေခံဟာ့(ဒ်)ဝဲသတ်မှတ်ချက်များ အပါအဝင်) စက်နှင့် SIM ကတ်ဆိုင်ရာ အချက်အလက်များသာမက (ဒေသ၊ ကိုသြဒိနိတ်များ၊ နယ်မြေအမှတ်အသားများနှင့် အခြေစိုက်စခန်း ID အပါအဝင်) အနီးစပ်ဆုံး တည်နေရာအချက်အလက်များကို ဖုန်းလိုင်းကုမ္ပဏီသို့ WLAN၊ မိုဘိုင်းဒေတာကွန်ရက် သို့မဟုတ် အခမဲ့ SMS များနှင့် အခါအားလျော်စွာ ပေးပို့ပါမည်။ ဖုန်းလိုင်းကုမ္ပဏီသည် ဝန်ဆောင်မှုအရည်အသွေးမြှင့်ရန် သို့မဟုတ် စိတ်ကြိုက်ဝန်ဆောင်မှုများ သို့မဟုတ် နည်းပညာများပေးရန်အတွက်သာ သက်ဆိုင်ရာအချက်အလက်များကို ခွဲခြမ်းစိတ်ဖြာမည်ဖြစ်ပြီး အဆိုပါအချက်အလက်များကို ပြင်ပကုမ္ပဏီများထံသို့ သင့်အထောက်အထားကို ဖော်ထုတ်နိုင်မည့် မည်သည့်ပုံစံနှင့်မျှ ဖွင့်ထုတ်မည်မဟုတ်ကြောင်း ကတိပေးပါသည်။ ဖုန်းလိုင်းကုမ္ပဏီ၏ အထူးထုတ်ပြန်ချက်များလည်း ရှိပါသည်။ ဤဝန်ဆောင်မှုအတွက် ကုန်ကျစရိတ်နှင့် ပတ်သက်ပြီး ဖုန်းလိုင်းကုမ္ပဏီကို မေးမြန်းပါ။</string>
+    <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to the &lt;a href=%1$s>Mi Smart Hub Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="clock_introduction">ဤအက်(ပ်)ကို အချိန်ကြည့်ရန်၊ အချိန်မှတ်ရန်၊ ကမ္ဘာသုံးနာရီကြည့်ရန်၊ စံချိန်ယူနာရီကြည့်ရန်၊ နှိုးစက်ပေးရန်နှင့် အခြားအရာများအတွက် သုံးနိုင်သည်။</string>
     <string name="close">ပိတ်</string>
@@ -69,10 +72,12 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
+    <string name="default_font">ပင်ကိုယ်</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">သင့်စက်အား သော့ဖြည်ရန် လက်ဗွေအား အသုံးပြုပါ၊ Mi Pay လွှဲပြောင်းမှုများအား အတည်ပြုပါ၊ သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="desc_international_fingerprint">သင့်စက်အား သော့ဖြည်ရန် သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ရန် လက်ဗွေအား အသုံးပြုပါ</string>
+    <string name="device_information_usage_desc">This service allows you to view device info, connect your device to networks, and set up its features.</string>
     <string name="diagnose_report">စက်စနစ်ပြဿနာများ နေရာရှာ စိစစ်ရန်နှင့် အသုံးပြုရပိုကောင်းစေရန်အတွက် ချွတ်ယွင်းချက်ရှာဖွေခြင်းဒေတာများပို့ပါ။ အဆိုပါဒေတာများကို (IP နှင့် တည်နေရာကဲ့သို) ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ပါဝင်နိုင်ပါသည်။</string>
     <string name="disageement_abnormal_download">သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုပါက သို့မဟုတ် ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ခြင်းနှင့် မျှဝေခြင်း မပြုလုပ်လိုပါက ဤဝန်ဆောင်မှုကို သုံးမရပါ။</string>
     <string name="disagree">ပယ်ဖျက်မည်</string>
@@ -89,7 +94,9 @@
     <string name="disagreement_location_service_abnormal">ဤခွင့်ပြုချက်များပေးရန် သဘောမတူလျှင် တည်နေရာဝန်ဆောင်မှုများကို သုံး၍မရပါ။ တည်နေရာဝန်ဆောင်မှုများကို ဆက်တင်များ > ပုဂ္ဂိုလ်ရေးလုံခြုံမှု အကာအကွယ်တွင် အချိန်မရွေး အဖွင့်/အပိတ် လုပ်နိုင်သည်။</string>
     <string name="disagreement_mi_account_abnormal">ဤခွင့်ပြုချက်များပေးရန် သဘောမတူလျှင် Mi အကောင့် ဝန်ဆောင်မှုများကို သုံး၍မရပါ။ Mi အကောင့် ဝန်ဆောင်မှုများကို ဆက်တင်များ > Mi အကောင့်တွင် အချိန်မရွေး အဖွင့်/အပိတ် လုပ်နိုင်သည်။</string>
     <string name="disagreement_service_not_working_properly">ဤခွင့်ပြုချက်များပေးရန် သဘောမတူလျှင် ဤအက်(ပ်)ကို သုံး၍မရပါ။</string>
-    <string name="disagreement_terminate_bluetooth">ဤခွင့်ပြုချက်များ မပေးလိုပါက ဘလူးတုကို သုံးမရပါ။ ဘလူးတု အဖွင့်အပိတ်လုပ်ခြင်း၊ ဘလူးတုစက်များထည့်ခြင်းတို့ကို ဆက်တင်ထဲတွင် ပြုလုပ်နိုင်သည်။</string>
+    <string name="disagreement_service_not_working_properly_settings">"If you don't agree to grant these permissions, this service won't be able to work normally."</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">ဤခွင့်ပြုချက်များပေးရန် သဘောမတူလျှင် ဝန်ဆောင်မှုက ကောင်းစွာအလုပ်မလုပ်နိုင်ပါ။</string>
+    <string name="disagreement_terminate_bluetooth">ဤခွင့်ပြုချက်များ မပေးလိုပါက ဘလူးတုသုံးမရပါ။ ဘလူးတု အဖွင့်အပိတ်လုပ်ခြင်း၊ ဘလူးတုစက်များထည့်ခြင်းတို့ကို ဆက်တင် > ဘလူးတုတွင် ပြုလုပ်နိုင်သည်။</string>
     <string name="disagreement_terminate_miuidaemon">စက်မျက်နှာပြင် ပျက်စီးသွား၍ စက်မှဒေတာများကို စတင်လွှဲပြောင်းချိန်၌သာ ဤခွင့်ပြုချက်များကို ကျွန်ုပ်တို့ သုံးပါမည်။ ဤခွင့်ပြုချက်များပေးရန် သဘောမတူလျှင် ဤအက်(ပ်)ကို သုံး၍မရပါ။</string>
     <string name="disagreement_terminate_service">သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုပါက သို့မဟုတ် ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ခြင်းနှင့် မျှဝေခြင်း မပြုလုပ်လိုပါက ဤအက်(ပ်)ကို သုံးမရပါ။ သို့ဖြစ်ပါက အက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ဆက်တင်ထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ထားနိုင်သည်။</string>
     <string name="download_introduction">ဒေါင်းလုဒ်များ (အက်(ပ်)အမည်) ကို Xunlei မှ ပံ့ပိုးပြီး Xiaomi စက် အသုံးပြုသူများအတွက် (အက်(ပ်)စတိုးအကြောင်းအရာ၊ ဗီဒီယိုများ၊ စနစ်အပ်ပဒိတ်များ၊ အပြင်အဆင်များနှင့် ဘရောက်ဇာအကြောင်းအရာ အပါအဝင်) ဒေါင်းလုဒ်လုပ်ထားသော အကြောင်းအရာများကို ဒေါင်းလုဒ်လုပ်ရန်နှင့် စီမံခန့်ခွဲရန်အတွက် အသုံးပြုသည်။</string>
@@ -104,7 +111,7 @@
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
     <string name="fast_application_introduction">အမြန်အက်(ပ်)များ ဝန်ဆောင်မှုဖွဲ့စည်းပုံသည် အခြေခံဝန်ဆောင်မှုဖွဲ့စည်းပုံဖြစ်ပြီး ၎င်းက အမြန်အက်(ပ်)များ ဖြန့်ဝေခြင်းနှင့် လည်ပတ်ခြင်းကို ပံ့ပိုးသည်။</string>
-    <string name="fast_pairing_introduction">Mi လင့်က MIUI ဘလူးတုစွမ်းရည်များကို သုံးပြီး သင့်အား အနီးအနားရှိ ဘလူးတုစက်များနှင့် အမြန်ချိတ်ခွင့်ပြုသည်။</string>
+    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -159,16 +166,25 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">ပုံမှန် စာသား အရွယ်အစား</string>
     <string name="font_hint_normal">စာသား အရွယ်အစား ကြီးမည်</string>
-    <string name="framework_introduction">Mi ဝန်ဆောင်မှုများစနစ်ဖွဲ့စည်းပုံတွင် Mi အကောင့်၊ Mi Push၊ ကိန်းဂဏန်းဆန်းစစ်မှုများနှင့် MIUI BI တို့ကို သုံးခွင့်ပြုသည်။</string>
-    <string name="framwork_base_service">သင့်အား ဤဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် Mi ဝန်ဆောင်မှုများစနစ်ဖွဲ့စည်းပုံ (Mi အကောင့်၊ Mi Push၊ Analytics၊ MIUI BI) က အင်တာနက်ချိတ်ပြီး သင့်တည်နေရာ၊ ဖုန်းနံပါတ်၊ IMEI နှင့် IMSI တို့ကို ဖတ်ခွင့်နှင့် သင့်စက်တွင် တွန်းပို့အသိပေးချက်များရယူခွင့် လိုအပ်သည်။</string>
+    <string name="font_settings_sub_title">စနစ်ဖောင့်ရွေးရန်</string>
+    <string name="font_settings_title">ဖောင့်ဆက်တင်</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+    <string name="font_use_case_text_example">ကိုယ်ထည်</string>
+    <string name="font_use_case_title_example">ခေါင်းစဉ်</string>
+    <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
+    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
+For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="game_introduction">ဂိမ်းများပလပ်အင်ဖြင့် အကောင့်ဝင်ခြင်း၊ အစီအစဉ်ချခြင်း၊ ငွေချေခြင်း၊ ကူပွန်သုံးခြင်းနှင့် ပရိုမိုးရှင်းပွဲများပါဝင်ခွင့်ပြုခြင်းတို့ကို ပြုလုပ်နိုင်သည်။</string>
+    <string name="get_imei_information">Access IMEI</string>
+    <string name="get_imei_information_settings">Access device unique identifier (IMEI)</string>
     <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">ဂန္ထဝင်</string>
     <string name="home_settings_poco_launcher">အပ်(ပ်)အံဆွဲ</string>
-    <string name="home_settings_title">အမြဲသုံ စဖွင့်စနစ်ကို ရွေးပါ</string>
+    <string name="home_settings_title">အမြဲသုံး စဖွင့်စနစ်ကို‌ ရွေးပါ</string>
     <string name="ime_privacy_policy">ရွေးထားသော ကီးဘုတ်အတွက် ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="ime_privacy_policy_no_network">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ ဒီကီးဘုတ်အတွက်ကိုယ်ပိုင်ရေးရာမူဝါဒကို၊ %s ၌ ကြည့်ပါ</string>
     <string name="ims_introduction">IMS ဝန်ဆောင်မှုက အခြေခံဆက်သွယ်ရေးစွမ်းရည်များကို ဆောင်ရွက်ပေးပြီး ၎င်းအား ပြတ်သားနှုန်းမြင့် အသံနှင့် ဗီဒီယိုခေါ်ဆိုမှုများအတွက် အသုံးပြုသည်။</string>
@@ -176,37 +192,79 @@
     <string name="input_method_setting">ကီးဘုတ်ရွေးချယ်ပါ</string>
     <string name="install_preinstall_app">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="interconnection_communication_introduction">Xiaomi အင်တာနက်ဆက်သွယ်ရေး ဝန်ဆောင်မှုများက သင့်အား အခြား Xiaomi စက်များကို ရှာဖွေရန်၊ ချိတ်ဆက်ရန်နှင့် ဆက်သွယ်ရန် ခွင့်ပြုသည်။</string>
-    <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share, and casting.
-To be able to work normally, these service need to connect to the internet and require the following permissions:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For transferring items over Wi-Fi
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected devices during casting or screen mirroring
-\u0009\u0009Access storage
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Mi Share:
-\u0009\u0009Access and save files and photos on your device
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Access location
-\u0009\u0009For transferring items to nearby devices over Wi-Fi and Bluetooth
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby and transferring files wirelessly
-\u0009\u0009Connect to nearby devices
-\u0009\u0009For finding devices nearby and connecting to them
-\u0009\u0009Casting:
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Access location
-\u0009\u0009For getting the info about nearby devices
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected during casting
-If you don't agree to grant such permissions, you won't be able to use Xiaomi Interconnectivity Services.
-Features are subject to change. Some of the features above may not be available on all device models or for all system versions. Refer to the MIUI website (www.miui.com) to check compatibility."</string>
+    <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
+\u0009\u0009互传：
+\u0009\u0009读写设备上的照片及文件
+\u0009\u0009用于发送和接收传输的文件
+\u0009\u0009获取位置信息
+\u0009\u0009用于实现蓝牙/WLAN状态下的文件传输功能
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描附近可互传文件的设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描周围设备并传输文件
+\u0009\u0009连接附近的设备
+\u0009\u0009发现并连接到附近的设备
+\u0009\u0009影音互联（小米妙播、投屏）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009获取设备的位置信息
+\u0009\u0009用于获取附近可投屏的设备信息
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009应用生态融合（应用接力、妙享桌面）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009文件系统（跨设备剪贴板、笔记跨设备拍照）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取剪切板
+\u0009\u0009允许应用读取复制的内容
+\u0009\u0009硬件协同（网络协同、键鼠协同、相机协同）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009相机
+\u0009\u0009调用相机拍摄照片和录制视频
+\u0009\u0009设备中心：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
+因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">မျက်နှာပြင်သော့ကို သင်သတ်မှတ်ထားခြင်း မရှိပါက သင့်စက် ပျောက်ဆုံးသွားသောအခါတွင် အခြားသူများက ၎င်းကို အသုံးပြုခြင်းနှင့် သင်၏ ဒေတာကို ဝင်ကြည့်ခြင်းမှ ကြိုတင်ကာကွယ်နိုင်မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ကျော်လိုသလား။</string>
     <string name="item_facerecognition">မျက်နှာဖြင့် သော့ဖွင့်ခြင်း</string>
@@ -227,6 +285,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">အရေးပေါ် ကယ်ဆယ်ရေး အဖွဲ့များသည် အကူအညီတောင်းခံခြင်းခံရသောအခါတွင် သင်၏ လက်ရှိတည်နေရာကို ရယူနိုင်ပါသည်</string>
     <string name="lockscreen_introduction">နောက်ခံပုံလှည့်ပြခြင်းသုံးခြင်းဖြင့် သင့်သော့ခတ်မျက်နှာပြင်သို့ နေ့စဉ်ပေးပို့သည့် ပုံသစ်များကို ရယူခွင့်ပြုသည်။</string>
+    <string name="media_storage_devices">မီဒီယာသိုလှောင်စက်များ</string>
+    <string name="media_storage_introduction">ဤဝန်ဆောင်မှုက အက်(ပ်)များအား ဓာတ်ပုံ၊ ဗီဒီယို၊ အသံနှင့် ဖိုင်များ ဖတ်ခွင့်နှင့် သိမ်းခွင့်ပေးသည်။</string>
     <string name="message_introduction">SMS ပို့ရန်နှင့် လက်ခံရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="mi_account_introduction">Mi အကောင့်က သင့်အား စနစ်အကောင့်များကို မှတ်ပုံတင်ရန်၊ ဝင်ရန်နှင့် စီမံခန့်ခွဲရန် ခွင့်ပြုသည်။</string>
     <string name="midnight">ည</string>
@@ -235,17 +295,18 @@ Features are subject to change. Some of the features above may not be available 
     <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">သင့်၌ အင်တာနက်ချိတ်ဆက်မှုတစ်ခု ရှိမနေပါ။ %s ၌ ကိုယ်ရေးမူဝါဒကို ကြည့်ပါ။</string>
     <string name="miui_provision">ကနဦးစနစ်သတ်မှတ်ချက်</string>
+    <string name="miui_settings">Settings</string>
     <string name="miui_terms_no_network">သင့်တွင် အင်တာနက်ချိတ်ဆက်မှုမရှိပါ။ အသုံးပြုသူသဘောတူညီချက်ကို %s တွင် ကြည့်ပါ။</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -319,17 +380,22 @@ Features are subject to change. Some of the features above may not be available 
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="note_introduction">ဤအက်(ပ်)တွင် မှတ်စုများပြုလုပ်ခြင်း၊ ကြည့်ခြင်းနှင့် တည်းဖြတ်ခြင်းများ ပြုလုပ်နိုင်သည်။</string>
+    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">အခြေခံဆက်တင်များ</string>
     <string name="other_settings_ad_dialog_agree">ဖွင့်မည်</string>
     <string name="other_settings_ad_dialog_content">စိတ်ကြိုက်ကြော်ငြာ အကြံပြုချက်များကို ပိတ်ထားသောအခါ ဤအင်္ဂါရပ်ကို ဖွင့်ထားသောအချိန်ကဲ့သို့ပင် တူညီသော ကြော်ငြာအရေအတွက်ကို တွေ့မြင်နေရဦးမည် ဖြစ်ပါသည်။ သို့သော် ထိုကြော်ငြာများသည် သင်၏ ကိုယ်ပိုင်ရွေးချယ်မှုများအပေါ်တွင် အခြေမခံထားသောကြောင့် ၎င်းတို့သည် ဆက်စပ်မှုရှိတော့မည် မဟုတ်ပါ။</string>
-    <string name="other_settings_ad_dialog_content_for_global">စိတ်ကြိုက်ကြော်ငြာအကြံပြုချက်များကို ပိတ်ထားချိန်၌ MIUI စနစ်အက်(ပ်)များတွင် အင်္ဂါရပ် ဖွင့်ထားချိန်က ကြော်ငြာအရေအတွက်အတိုင်း မြင်ရပါမည်။ သို့သော် Xiaomi နှင့် ပြင်ပပါတီပလက်ဖောင်းများရှိ ကြော်ငြာများက သင့်တစ်ကိုယ်ရေအကြိုက်များအပေါ် အခြေမခံသောကြောင့် ဆက်စပ်မှုရှိတော့မည် မဟုတ်ပါ။</string>
+    <string name="other_settings_ad_dialog_content_for_global">စိတ်ကြိုက်ကြော်ငြာအကြံပြုချက်များ ပိတ်ထားချိန်၌ စနစ်အက်(ပ်)များတွင် အင်္ဂါရပ်ဖွင့်ထားချိန်က ကြော်ငြာအရေအတွက်အတိုင်း မြင်ရပါမည်။ သို့သော် Xiaomi နှင့် ပြင်ပပါတီပလက်ဖောင်းများရှိ ကြော်ငြာများက သင့်တစ်ကိုယ်ရေအကြိုက်များအပေါ် အခြေမခံသောကြောင့် ဆက်စပ်မှုရှိတော့မည် မဟုတ်ပါ။</string>
     <string name="other_settings_ad_dialog_disagree">ပိတ်မည်</string>
     <string name="other_settings_ad_disable_summary">စိတ်ကြိုက်ကြော်ငြာများကို ဖွင့်ရန်</string>
-    <string name="other_settings_ad_enable">စိတ်ကြိုက်ကြော်ငြာများ</string>
+    <string name="other_settings_ad_enable">ကြော်ငြာများစိတ်ကြိုက်လုပ်ရန်</string>
     <string name="other_settings_ad_enable_summary">သင့်စိတ်ဝင်စားမှုအလိုက် စိတ်ကြိုက်ကြော်ငြာများ</string>
+    <string name="other_settings_alarm_assistance">အရေးပေါ်တည်နေရာ</string>
+    <string name="other_settings_alarm_assistance_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="other_settings_alarm_assistance_summary">110/ 120/ 119 သို့မဟုတ် 122 ကို ဖုန်းခေါ်စဉ် သင့်တည်နေရာအချက်အလက်ကို SMS သို့မဟုတ် မိုဘိုင်းဒေတာဖြင့် ရဲထံ အလိုအလျောက် ပို့နိုင်သည်။ ဤအင်္ဂါရပ်ကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
+    <string name="other_settings_alarm_assistance_user">အသုံးပြုသူသဘောတူညီချက်</string>
     <string name="other_settings_auto_update">အလိုအလျောက်ပြုလုပ်သော စနစ်သစ်မွမ်းမံမှုများ</string>
-    <string name="other_settings_auto_update_summary">MIUI သည် ဒေါင်းလုဒ်လုပ်ရန်နှင့် အပ်ဒိတ်များ တပ်ဆင်ရန်အတွက် အကောင်းဆုံးအချိန်ကို ရွေးချယ်ပေးသွားပါမည်။ ထိုပြောင်းလဲမှုများ အသက်ဝင်စေရန်အတွက် သင့်စက်အား အလိုအလျောက် ပြန်လည်စတင်ပေးသွားပါမည်။</string>
-    <string name="other_settings_auto_update_summary_v1">အပ်ပဒိတ်များ ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းရန် အကောင်းဆုံးအချိန်ကို MIUI အား ရွေးခွင့်ပြုပါ။ အပြောင်းအလဲများကိုသုံးရန် စက်က အလိုအလျောက် ရီဘုလုပ်ပါမည်။</string>
+    <string name="other_settings_auto_update_summary">အပ်ပဒိတ်များ ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းရန် အကောင်းဆုံးအချိန်ကို စနစ်က ရွေးပါမည်။ အပြောင်းအလဲများကိုသုံးရန် စက်က အလိုအလျောက် ရီဘုလုပ်ပါမည်။</string>
+    <string name="other_settings_auto_update_summary_v1">အပ်ပဒိတ်များ ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းရန် အကောင်းဆုံးအချိန်ကို စနစ်အား ရွေးခွင့်ပြုပါ။ အပြောင်းအလဲများကိုသုံးရန် စက်က အလိုအလျောက် ရီဘုလုပ်ပါမည်။</string>
     <string name="other_settings_enhanced_lockscreen">နောက်ခံပုံ လှည့်ပြခြင်း</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Mi အတွက် Glance</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
@@ -340,23 +406,25 @@ Features are subject to change. Some of the features above may not be available 
 အလိုအလျောက် အပ်ပဒိတ်လုပ်ခြင်းကို GetApps > ဆက်တင်များ > အလိုအလျောက်အပ်ပဒိတ်လုပ်ရန်တွင် ပိတ်နိုင်သည်။"</string>
     <string name="other_settings_location">တည်နေရာ</string>
     <string name="other_settings_location_summary">တည်နေရာအခြေပြု ၀န်ဆောင်မှုများပေးနိုင်ရန်အတွက် အက်(ပ်)များနှင့် ဝက်ဘဆိုက်များအား သင့်တည်နေရာကို ဖတ်ခွင့်ပြုပါ</string>
-    <string name="other_settings_quality_service">MIUI Daemon ခွင့်ပြုချက်များ</string>
-    <string name="other_settings_quality_service_summary">MIUI Daemon အား စနစ်တည်ငြိမ်မှုနှင့် လုပ်ဆောင်ရည်တို့ကို တိုးမြှင့်ရန် သုံးသည်။ ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် စက်သိုလှောင်ခန်းဖတ်ခွင့်နှင့် အကြောင်းအရာများကို ၎င်းတွင်သိမ်းခွင့် လိုပါသည်။</string>
-    <string name="other_settings_upload_debug_log_detail">"စစ်ဆေးမှု၊ စက်ပစ္စည်းနှင့် အက်(ပ်)အသုံးပြုမှုဒေတာများကို Xiaomi သို့ အလိုအလျောက် ပို့ခြင်းဖြင့် MIUI စက်သုံးစွဲမှုကို ပိုကောင်းအောင် ပြုလုပ်ပါ။ ၎င်းက ဓာတ်ခဲသက်တမ်း၊ MIUI စနစ်နှင့် အက်(ပ်)တည်ငြိမ်မှု၊ အခြားအရာများကို ပိုကောင်းစေသည်။
-သင်ပို့မည့်ဒေတာတွင် စက်အကြောင်းနှင့် စက်ကိုအသုံးပြုပုံ (ဥပမာ - ဓာတ်ခဲလယ်ဗယ်၊ စနစ်နှင့် အက်(ပ်)လုပ်ဆောင်ချက်၊ အမှားများ) ကဲ့သို့ အထွေထွေအချက်အလက်များ ပါဝင်ပါမည်။ MIUI စက်များ ပိုကောင်းစေရန် ၎င်းဒေတာများကို သုံးပါမည်။
-ဤအင်္ဂါရပ်ကို ပိတ်ခြင်းဖြင့် စနစ်အပ်ပဒိတ်များနှင့် လုံခြုံရေးကဲ့သို့ မရှိမဖြစ်ဝန်ဆောင်မှုများအတွက် လိုအပ်သော စက်၏ အချက်အလက်ပေးပို့နိုင်မှုစွမ်းရည်ကို ထိခိုက်မည်မဟုတ်ပါ။
-ဤအင်္ဂါရပ်ကို ထိန်းချုပ်နိုင်ရန် ဆက်တင်ထဲတွင် \"သုံးစွဲနှုန်းနှင့် လက္ခဏာခွဲခြားမှုများ\" ကို ရှာပါ။"</string>
-    <string name="other_settings_upload_debug_log_summary">စစ်ဆေးမှု၊ စက်ပစ္စည်းနှင့် အက်(ပ်)အသုံးပြုမှုဒေတာများကို Xiaomi သို့ အလိုအလျောက် ပို့ခြင်းဖြင့် MIUI စက်သုံးစွဲမှုကို ပိုကောင်းအောင် ပြုလုပ်ပါ။ ၎င်းက ဓာတ်ခဲသက်တမ်း၊ MIUI စနစ်နှင့် အက်(ပ်)တည်ငြိမ်မှု၊ အခြားအရာများကို ပိုကောင်းစေသည်။</string>
+    <string name="other_settings_quality_service">စနစ် Daemon ခွင့်ပြုချက်များ</string>
+    <string name="other_settings_quality_service_summary">စနစ် Daemon အား စနစ်တည်ငြိမ်မှုနှင့် လုပ်ဆောင်ရည်တို့ကို တိုးမြှင့်ရန် သုံးသည်။ ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် စက်သိုလှောင်ခန်းကို ဖတ်ခွင့်နှင့် ၎င်းတွင်အကြောင်းအရာများသိမ်းခွင့် လိုသည်။</string>
+    <string name="other_settings_upload_debug_log_detail">"စစ်ဆေးမှု၊ စက်ပစ္စည်းနှင့် အက်(ပ်) အသုံးပြုမှုဒေတာများကို Xiaomi သို့ အလိုအလျောက် ပို့ခြင်းဖြင့် အတွေ့အကြုံ ပိုကောင်းအောင်ပြုလုပ်ပါ။ ၎င်းက ဓာတ်ခဲသက်တမ်း၊ စနစ်နှင့် အက်(ပ်)တည်ငြိမ်မှုအပြင် အခြားအရာများကို ပိုကောင်းအောင် ကူညီပါမည်။
+သင်ပို့မည့်ဒေတာတွင် စက်အကြောင်းနှင့် စက်ကိုအသုံးပြုပုံအကြောင်း အထွေထွေအချက်အလက်များ ပါဝင်ပါမည် (ဥပမာ - ဓာတ်ခဲလယ်ဗယ်၊ စနစ်နှင့် အက်(ပ်)လုပ်ဆောင်ချက်၊ အမှားများ)။ Xiaomi စက်များ ပိုကောင်းစေရန် ၎င်းဒေတာများကို သုံးပါမည်။
+ဤအင်္ဂါရပ်ကို ပိတ်ခြင်းဖြင့် စနစ်အပ်ပဒိတ်များနှင့် လုံခြုံရေးကဲ့သို့ မရှိမဖြစ်ဝန်ဆောင်မှုများအတွက် လိုအပ်သော အချက်အလက်များကို စက်ကပေးပို့နိုင်စွမ်းအပေါ် ထိခိုက်မည်မဟုတ်ပါ။
+ဤင်္ဂါရပ်ကို ဆက်တင် > စကားဝှက်နှင့် လုံခြုံရေး > ကိုယ်ရေးအချက်အလက်လုံခြုံမှု > အသုံးပြုမှုနှင့် စစ်ဆေးမှုများတွင် ထိန်းချုပ်နိုင်သည်။"</string>
+    <string name="other_settings_upload_debug_log_summary">စစ်ဆေးမှု၊ စက်ပစ္စည်းနှင့် အက်(ပ်) အသုံးပြုမှုဒေတာများကို Xiaomi သို့ အလိုအလျောက် ပို့ခြင်းဖြင့် အတွေ့အကြုံ ပိုကောင်းအောင်ပြုလုပ်ပါ။ ၎င်းက ဓာတ်ခဲသက်တမ်း၊ စနစ်နှင့် အက်(ပ်)တည်ငြိမ်မှုအပြင် အခြားအရာများကို ပိုကောင်းအောင် ကူညီပါမည်။</string>
     <string name="other_settings_upload_debug_log_title">အသုံးပြုမှုနှင့် စစ်ဆေးမှုဒေတာများ ပို့ရန်</string>
     <string name="other_settings_user_experience">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="other_settings_user_experience_summary">သင်၏သုံးစွဲမှုအခြေအနေနှင့် ဆန်းစစ်မှုများကို ပေးပို့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ထုတ်ကုန်နှင့်ဝန်ဆောင်မှုများကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးပါ။</string>
     <string name="other_settings_user_experience_summary_index">အသေးစိတ် ကြည့်ရှုရန်</string>
-    <string name="permission_MIUIDaemon_introduction">စက်မျက်နှာပြင် ပျက်စီးသွားလျှင် MIUI Daemon က စက်မှဒေတာများကို လွှဲပြောင်းခွင့်ပြုသည်။</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">ပြက္ခဒိန် ဖတ်ရန်</string>
     <string name="permission_access_calendar_fast_application_summary">အမြန်အက်(ပ်)များအား ပြက္ခဒိန် ဖတ်ခွင့်ပြုရန်။</string>
     <string name="permission_account">သင့်စက်ရှိ အကောင့်များကို ဖတ်ရန်</string>
     <string name="permission_account_introduction">Mi အကောင့်ဖြင့် အကောင့်ဝင်ခြင်းအတွက်</string>
     <string name="permission_application_package_introduction">ထည့်သွင်းပက်ကေ့(ဂျ်)များကို စိစစ်ရန်နှင့် စကန်ဖတ်နိုင်ရန် သိုလှောင်ခန်းကို ဖတ်ခြင်းအတွက်</string>
+    <string name="permission_authority_describe">读取应用列表</string>
+    <string name="permission_authority_describe_applist_summary">用于管理应用权限。</string>
     <string name="permission_backup">သိုလှောင်ခန်းကို ဖတ်ခြင်း</string>
     <string name="permission_backup_introduction">သင့်စက်တွင် အရန်သိမ်းဖိုင်များကို ဖတ်ရန်နှင့် သိမ်းရန်</string>
     <string name="permission_call_records">ခေါ်ဆိုမှုမှတ်တမ်း ဖတ်ရန်</string>
@@ -383,6 +451,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_download_introduction">ဒေါင်းလုဒ်လုပ်ထားသောအရာများကို သင့်စက်တွင် ကက်(ချ်)လုပ်ခြင်းနှင့် သိမ်းခြင်းတို့အတွက်</string>
     <string name="permission_enable_disable_bluetooth_summary">အနီးအနားရှိစက်များကို ရှာပြီး ချိတ်နိုင်ရန်နှင့် ဒေတာလွှဲပြောင်းနိုင်ရန်</string>
     <string name="permission_fast_pairing">Mi လင့်သည် အနီးအနားရှိစက်များကို ရှာနိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ပြီး အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် -</string>
+    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
+    <string name="permission_get_imei_information_summary_settings">For displaying device info and specs</string>
     <string name="permission_imei_service">သင့်စက်နှင့်သက်ဆိုင်သော ဝန်ဆောင်မှုများပေးနိုင်ရန် IMEI ဖတ်ခြင်းအတွက်</string>
     <string name="permission_interaction_introduction">ဓာတ်ပုံနှင့် ဗီဒီယိုများကို စက်တွင် သိမ်းခြင်းအတွက်</string>
     <string name="permission_location">တည်နေရာအချက်အလက် ဖတ်ရန် -</string>
@@ -397,7 +467,10 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_login_introduction">စနစ်အကောင့်များကို ဝင်ခြင်းနှင့် စီမံခန့်ခွဲခြင်းတို့အတွက်</string>
     <string name="permission_make_a_call">ဖုန်းခေါ်ရန်</string>
     <string name="permission_make_a_call_fast_application_summary">အမြန်အက်(ပ်)များအား ဖုန်းခေါ်ခွင့်ပြုရန်။</string>
+    <string name="permission_media_storage_summary">ဖိုင်ဖတ်စဉ် အက်(ပ်)များက ကိုယ်ရေးအချက်အလက်လုံခြုံမှုဆိုင်ရာ ခွင့်ပြုချက်များ အသုံးပြုပုံကို စစ်ရန်</string>
     <string name="permission_message_introduction">ပိတ်ဆို့ထားသော အဆက်အသွယ်များထံသို့ မက်ဆေ့(ချ်)ပို့ခြင်းအတွက်</string>
+    <string name="permission_number">读取本机号码</string>
+    <string name="permission_number_introduction">用于支持连接系统蓝牙并实现车载或蓝牙耳机通话；</string>
     <string name="permission_phone_imei_device">စက်များကို စိစစ်ရန်အတွက် IMEI နံပါတ် ဖတ်ခြင်းအတွက်</string>
     <string name="permission_phone_network">ဒေါင်းလုဒ်လုပ်နိုင်သောအရာများကို ပိုကောင်းအောင်ပြုလုပ်ရန်နှင့် ချိန်ဆနိုင်ရန်အတွက် ကွန်ရက်အမျိုးအစား ဖတ်ခြင်းအတွက်</string>
     <string name="permission_phone_service">ဖုန်းနံပါတ်၊ IMEI နှင့် IMSI ဖတ်ရန်</string>
@@ -405,6 +478,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_photo_video">ဓာတ်ပုံနှင့် ဗီဒီယိုရိုက်ရန် -</string>
     <string name="permission_photo_video_introduction">ဓာတ်ပုံနှင့် ဗီဒီယိုရိုက်ခြင်းနှင့် ဖလက်(ရှ်)မီး သုံးခြင်းများအတွက်</string>
     <string name="permission_picture_introduction">ဓာတ်ပုံနှင့် ဗီဒီယိုများကို သိမ်းခြင်း၊ တည်းဖြတ်ခြင်းနှင့် ဆင့်(ခ်)လုပ်ခြင်းတို့အတွက်</string>
+    <string name="permission_qualcomm_describe_summary">用于针对不同类型应用动态调整系统参数，完成系统组件及应用的进程调度。</string>
+    <string name="permission_quality_describe_summary">用于收集应用崩溃信息。</string>
     <string name="permission_read_app_list">ဤစက်တွင်ထည့်ထားသော အက်(ပ်)စာရင်းကို ဖတ်ရန်</string>
     <string name="permission_read_application_list_summary">ဒေါင်းလုဒ်လုပ်ထားသော အက်(ပ်)များကို အပ်ပဒိတ်လုပ်ရန်နှင့် ပက်ကေ့(ဂျ်)ထည့်စနစ်မှ သုံးသော အက်(ပ်)အချက်အလက်များကို အတည်ပြုရန်၊</string>
     <string name="permission_read_call_records">ခေါ်ဆိုမှုမှတ်တမ်း တည်းဖြတ်ရန်</string>
@@ -456,6 +531,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_write_device_store">စက်သိုလှောင်ခန်းတွင် အကြောင်းအရာများသိမ်းရန်</string>
     <string name="permission_write_device_store_summary">ဒေါင်းလုဒ်လုပ်ထားသော အရင်းအမြစ်ဖိုင်ဖွဲ့စည်းပုံဖိုင်များကို ကက်(ချ်)လုပ်ရန်။</string>
     <string name="permission_xunlei_introduction">Xunlei ဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် စက်စနစ်အကောင့်များသို့ ဝင်ခြင်းနှင့် စီမံခန့်ခွဲခြင်းတို့အတွက်</string>
+    <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
     <string name="pm">ညနေ</string>
     <string name="poco_agree_terms_other">(POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ နှင့် POCO Launcher အသုံးပြုသူ သဘောတူညီမှု အပါအဝင်)</string>
     <string name="poco_launcher_privacy_policy">POCO Launcher ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
@@ -465,7 +541,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="pref_title_data_slot">ဒေတာ ဆင်းမ်ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
     <string name="pref_title_voice_slot">အသံ ဆင်းမ်ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
     <string name="privacy_content_one">နောက်ခံပုံရဟတ်အကြံပြုချက်များကို ကျွန်ုပ်တို့၏ စိတ်ချရသော ပြင်ပပါတီ အကြောင်းအရာပံ့ပိုးသူ Taboola က အားဖြည့်သည်။ Taboola သည် ဤအကြောင်းအရာကို ပံ့ပိုးရန်အတွက် သင့်စက်မှ စနစ်ဘာသာစကားနှင့် ဘရောက်ဇာအမျိုးအစားအပါအဝင် ကိုယ်ရေးကိုယ်တာမဟုတ်သော ဒေတာများကို ဖတ်ရှုသိမ်းဆည်းပါသည်။ ကောက်ယူထားသော ဒေတာများကို Taboola က အသုံးပြုပုံအား Taboola ၏ &lt;a href =%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href =%2$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> တွင် ကြည့်ပါ။ ရှေ့မဆက်မီ ဤစာရွက်စာတမ်းများတွင် ပေးထားသော စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောမတူပါက နောက်ခံပုံရဟတ် ဝန်ဆောင်မှုများ ရပ်သွားပါမည်။</string>
-    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="privacy_provision_more">ကိုယ်ရေးကိုယ်တာကာကွယ်ရေးအကြောင်း ပိုမိုလေ့လာရန်</string>
     <string name="privacy_provision_summary">ကျွန်ုပ်တို့ထုတ်ကုန်များ၏ ဒီဇိုင်းနောက်ကွယ်တွင် ကိုယ်ရေးကိုယ်တာကာကွယ်ခြင်းက အမြဲပါရှိသည်။</string>
     <string name="privacy_provision_text">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာကို လေးစားသောအားဖြင့် ကာကွယ်ပေးရန် စိတ်ပိုင်းဖြတ်ထားပါသည်။ Xiaomi သည် သတင်းအချက်အလက်လုံခြုံရေးနယ်ပယ်တွင် သုတေသနနှင့် ဖွံ့ဖြိုးတိုးတက်ရေးကို ဦးစားပေးသည့် အနေနှင့် သင့်ဒေတာများကို ကာကွယ်မည့် နည်းလမ်းများ၊ အလေ့အကျင့်များနှင့် နည်းပညာဆိုင်ရာဖြေရှင်းချက်များကို စဉ်ဆက်မပြတ် ဆောင်ရွက်သည်။ သင်၏ ကိုယ်ရေးကိုယ်တာကို နေရာအနှံ့ကာကွယ်နိုင်ရန်အတွက် ကျွန်ုပ်တို့၏ နောက်ဆုံးအောင်မြင်မှုများကိုလည်း ကျွန်ုပ်တို့၏ ပါတနာများနှင့် မျှဝေသည်။</string>
@@ -478,10 +554,17 @@ Features are subject to change. Some of the features above may not be available 
     <string name="provision_inputmethod_policy_description1">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
     <string name="provision_next">နောက်တစ်ဆင့်</string>
     <string name="provision_skip_underline">ကျော်ရန်</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="recommend_font">MiSans</string>
+    <string name="recommended_font_mark">အကြံပြုထားသည်</string>
     <string name="recorder_introduction">ဤအက်(ပ်)ဖြင့် အသံသွင်းနိုင်ပြီး သွင်းထားသောအသံများကို ကလောက်သို့ အရန်သိမ်းနိုင်သည်။</string>
     <string name="refuse_cookie">ကွတ်ကီးများပယ်ချရန်</string>
     <string name="require_authority_list_statement">ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် -</string>
     <string name="require_authority_statement">သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန် ကျွန်ုပ်တို့က သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်ပေးရပါမည် -</string>
+    <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
+\u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
+    <string name="require_device_information_statement">To be able to provide basic services, the following permissions are required:</string>
     <string name="require_miuidaemon_authority_statement">သင့်အားဤဝန်ဆောင်မှုကိုပေးနိုင်ရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန် အောက်ပါခွင့်ပြုချက်များ ပေးရပါမည် -</string>
     <string name="require_network_and_authority_statement">ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ပြီး အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် -</string>
     <string name="require_network_authority_statement">ဤဝန်ဆောင်မှုသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ပြီး အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် -</string>
@@ -492,6 +575,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="screen_recording_introduction">ဤအက်(ပ်)ဖြင့် သင့်ဖန်သားပြင်တွင် ဖြစ်ပေါ်နေသည်များကို ဗီဒီယိုမှတ်တမ်းယူနိုင်သည်။</string>
     <string name="security_introduction">သင့်စက်ပေါ်ရှိ အမှိုက်များကို ရှင်းရန်၊ ဗိုင်းရပ်စ်ရှာ၍ သတ်ရန်၊ ဂိမ်းကစားခြင်းအတွက် စွမ်းဆောင်မှုကို အစွမ်းကုန်မြှင့်တင်ရန်၊ အက်ပ်များကို စီမံရန်၊ ခွင့်ပြုချက်များပေးရန်နှင့် အစရှိသည်တို့အတွက် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်ပါသည်။</string>
     <string name="security_mobile_account_introduction">စနစ်အကောင့်များသို့ ဝင်ခြင်းနှင့် စီမံခန့်ခွဲခြင်းတို့အတွက်</string>
+    <string name="select_font_modele_tips">သင်း(မ်)တွင် ဖောင့်အသစ် အမြဲရွေးနိုင်သည်</string>
     <string name="send">ပို့ပါ</string>
     <string name="service_agreement">ကျွန်ုပ်သည် စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</string>
     <string name="service_company_adjust_content">Xunlei ကွန်ရက်ဝန်ဆောင်မှုများ အသုံးပြုသူသဘောတူညီချက်</string>
@@ -499,10 +583,11 @@ Features are subject to change. Some of the features above may not be available 
     <string name="service_interconnection_communication">Xiaomi အင်တာနက်ဆက်သွယ်ရေး ဝန်ဆောင်မှုများ</string>
     <string name="service_location_share_policy">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>တည်နေရာဝန်ဆောင်မှုများဆိုင်ရာ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု ကြေညာချက်&lt;/a > ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
     <string name="service_mi_account">Mi အကောင့်</string>
-    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
+    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">အဆက်အသွယ်များနှင့် ဖုန်း</string>
     <string name="service_name_album">ပြခန်း</string>
     <string name="service_name_application_package">ပက်ကေ့(ဂျ်) ထည့်သွင်းသူ</string>
+    <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">အရန်သိမ်းခြင်းများ</string>
     <string name="service_name_bluetooth">ဘလူးတု</string>
     <string name="service_name_calculator">ဂဏန်းပေါင်းစက်</string>
@@ -521,6 +606,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="service_name_lockscreen">နောက်ခံပုံ လှည့်ပြခြင်း</string>
     <string name="service_name_message">မက်ဆေ့(ချ်)စနစ်</string>
     <string name="service_name_note">မှတ်စုများ</string>
+    <string name="service_name_phone_service">电话服务</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">မှတ်တမ်းတင်စက်</string>
     <string name="service_name_screen_recording">ဖန်သားပြင်ဗီဒီယိုမှတ်တမ်းတင်စက်</string>
     <string name="service_name_security">လုံခြုံရေး</string>
@@ -535,7 +622,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="servicestate_title">အခြေခံဝန်ဆောင်မှုများဆိုင်ရာ ထုတ်ပြန်ချက်</string>
     <string name="setting_locale">ပင်ရင်းဒေသ သတ်မှတ်နေ…</string>
     <string name="shut_down">အပြီးပိတ်ပါ</string>
-    <string name="sim_activation_introduction">SIM ကတ် အသက်သွင်းဝန်ဆောင်မှုက MIUI ဝန်ဆောင်မှုများ ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် လက်ရှိထည့်လိုက်သော SIM ကတ်၏ အချက်အလက်များကို စိစစ်သည်။ ၎င်းဝန်ဆောင်မှုများတွင် စက်ရှာဖွေစနစ်၊ Mi မက်ဆေ့(ချ်)၊ ဖုန်းနံပါတ်များသုံးပြီး Mi အကောင့်များဖွင့်ခြင်းနှင့် မက်ဆေ့(ချ်)များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းများကို ဆင့်(ခ်)လုပ်ခြင်းတို့ ပါဝင်သည်။</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">ဆင်းမ်ကဒ်ကို စစ်ဆေးနေသည်…</string>
     <string name="sim_card_detecting_check">ဆင်းမ်ကဒ် ရှာမတွေ့ပါ။ ဆင်းမ်ကဒ် စနစ်တကျ တပ်ဆင်ထားခြင်း ရှိမရှိနှင့် လက်ကျန်ငွေ ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="sim_card_detecting_confirm_turn_on_network">မိုဘိုင်းဒေတာကွန်ရက်သို့ ချိတ်ဆက်ခွင့်ပြုမလား? ခွင့်ပြုမည်ဆိုပါက သင်ထည့်ထားသော SIM ကဒ်အား မိုဘိုင်းဒေတာကွန်ရက်သို့ ချိတ်ဆက်ရာတွင် သုံးလိမ့်မည်။</string>
@@ -562,6 +649,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
     <string name="system_navigation_mode">စနစ်အညွှန်းမုဒ်</string>
+    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
+    <string name="system_update_title">System updates</string>
     <string name="systemdesktop_introduction">ပင်မမျက်နှာပြင် ဝန်ဆောင်မှု ပလပ်ဂင်က ပင်မမျက်နှာပြင်၊ စနစ် UI နှင့် မျက်နှာပြင်ဓာတ်ပုံတို့ကဲ့သို့ အခြေခံအင်္ဂါရပ်များကို ဆောင်ရွက်ပေးသည်။</string>
     <string name="term_condition_detail">အကောင်းစားပုံများနှင့် စိတ်လှုပ်ရှားဖွယ် ဇာတ်လမ်းများကို သင့်သော့ချမျက်နှာပြင်သို့ နေ့စဉ်ပို့ပေးသည်။ ဤအင်္ဂါရပ်တွင် သင့်ခွင့်ပြုချက်မရဘဲ စိတ်ကြိုက်ပြုလုပ်ခြင်းအတွက် ဒေတာမသုံးပါ။ ဤအင်္ဂါရပ်ကိုမသုံးမီ ပြင်ပပါတီအကြောင်းအရာပံ့ပိုးသူ၏ &lt;a href =%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href =%2$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
     <string name="terms_of_label_period">". "</string>
@@ -577,9 +666,9 @@ Features are subject to change. Some of the features above may not be available 
     <string name="terms_of_use_label_cloud">Xiaomi ကလောက်</string>
     <string name="terms_of_use_label_communication_service">Xiaomi အင်တာနက်ဆက်သွယ်ရေး ဝန်ဆောင်မှုများ</string>
     <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
-    <string name="terms_of_use_label_finddevice">Find device</string>
+    <string name="terms_of_use_label_finddevice">စက်ကို ရှာပါ</string>
     <string name="terms_of_use_label_game">ဂိမ်းများ</string>
-    <string name="terms_of_use_label_home">Home screen</string>
+    <string name="terms_of_use_label_home">ပင်မမျက်နှာပြင်</string>
     <string name="terms_of_use_label_htmlViewer">HTML ကြည့်သူ</string>
     <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">Mi လင့်(ခ်)</string>
@@ -587,25 +676,27 @@ Features are subject to change. Some of the features above may not be available 
     <string name="terms_of_use_label_landscape">အလျားလိုက်မြင်ကွင်း</string>
     <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Mi အကောင့်</string>
-    <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
-    <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
+    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">OS AI ဆက်တင်</string>
     <string name="terms_of_use_label_package">ပက်ကေ့(ဂျ်) ထည့်စနစ်</string>
     <string name="terms_of_use_label_parallel_windows">အပြိုင် ဝင်းဒိုးများ</string>
     <string name="terms_of_use_label_phrase">သုံးနေကျစကားစုများ</string>
     <string name="terms_of_use_label_power_detection">ပါဝါစစ်စနစ်</string>
-    <string name="terms_of_use_label_power_performance">Battery and performance</string>
+    <string name="terms_of_use_label_power_performance">ဘက်ထရီနှင့် စွမ်းဆောင်ရည်</string>
     <string name="terms_of_use_label_quickapp">အမြန်အက်(ပ်)များ</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Element လျှောက်လွှာလုံခြုံရေး</string>
     <string name="terms_of_use_label_simcard">Mi SIM အသက်သွင်းဝန်ဆောင်မှု</string>
     <string name="terms_of_use_label_smart_service">စမတ်ဝန်ဆောင်မှုများ</string>
     <string name="terms_of_use_label_statistics">စာရင်းဇယားများ</string>
+    <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">ကိုယ်တိုင်စာရင်းသွင်းဝန်ဆောင်မှု</string>
     <string name="terms_of_use_label_translation">ဘာသာပြန်ဝန်ဆောင်မှု</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">စနစ်အပ်ပဒိတ်ဝန်ဆောင်မှု (အွန်လိုင်းတွင် အပ်ပဒိတ်များစစ်ပြီး ဗားရှင်းအသိများကို အသိပေးသည်)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">MIUI ကို မသုံးမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူသဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။ သင့်စက်ကို အသက်သွင်းစဉ် အောက်ပါဝန်ဆောင်မှုများက ကွန်ရက်နှင့် ချိတ်ပြီး သင့်တည်နေရာကို ဖတ်ပါမည် -</string>
-    <string name="terms_of_use_label_use_network_china">MIUI ကို မသုံးမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူသဘောတူညီချက်နှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။ သင့်စက်ကို အသက်သွင်းစဉ် အောက်ပါဝန်ဆောင်မှုများက ကွန်ရက်နှင့် ချိတ်ပါမည် -</string>
+    <string name="terms_of_use_label_use_location_and_network_global">စနစ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ အသုံးပြုသူသဘောတူညီချက်နှင့် ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။ သင့်စက်ကို အသက်သွင်းစဉ် အောက်ပါဝန်ဆောင်မှုများက ကွန်ရက်နှင့် ချိတ်ပြီး သင့်တည်နေရာကို ဖတ်ပါမည် -</string>
+    <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">နောက်ခံပုံ</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -676,10 +767,6 @@ Features are subject to change. Some of the features above may not be available 
     <string name="tuesday_short">အင်္ဂါ</string>
     <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီချက်</string>
-    <string name="voice_assist_advice">Mi AI သည် အသံထိန်းချုပ်မှုအား သုံးရန် ခွင့်ပြုသည်၊ သို့သော် ဘက်ထရီ ပိုကုန်စေနိုင်သည် (၁ နာရီလျှင် ၁%)။</string>
-    <string name="voice_assist_condition">"Mi AI အား အောက်ပါ အခြေအနေများတွင် သုံးနိုင်သည်-r
-၁။ မျက်နှာပြင် လင်းနေသောအခါ၊r
-၂။ မျက်နှာပြင်အား ပိတ်၍ သီချင်းနားထောင်သောအခါ။"</string>
     <string name="voice_assist_desp">သင်၏ဖုန်းသို့ \"Mi AI\"ဟု ပြောပါ။ Mi AI သည် သင်၏အသံကို မှတ်ထားပြီး ဖုန်းကို ထိန်းချုပ်နိုင်မည်။</string>
     <string name="voice_assist_title">အသံဖြင့် နှိုးပါ</string>
     <string name="wc_dialog_agree">သဘောတူရန်</string>

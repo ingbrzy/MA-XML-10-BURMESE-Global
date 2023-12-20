@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,7 +25,7 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="file_received_successfully">
         <item quantity="other">ဖိုင် %2$d ဖိုင်အား %1$s ထံမှ အောင်မြင်စွာ လက်ခံရရှိပြီးပါပြီ</item>
@@ -112,7 +112,7 @@
         <item quantity="other">%1$s မှ ရုပ်ပုံ %2$d ခုကို လက်ခံရရှိခဲ့သည်</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">%1$s မှ ရုပ်ပုံ %2$d ခုကို လက်ခံနေသည်…</item>
+        <item quantity="other">" %1$s မှ ရုပ်ပုံ %2$d ခုကို လက်ခံနေသည်…"</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
         <item quantity="other">%1$s မှ ရုပ်ပုံ သို့မဟုတ် ဗီဒီယို %2$d ခု</item>

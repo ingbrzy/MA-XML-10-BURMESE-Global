@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="acc_return">နောက်သို့</string>
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="am">နံနက်</string>
@@ -123,15 +124,15 @@
     <string name="grant_permission_text">ပြခန်းတည်းဖြတ်စနစ်သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အောက်ပါခွင့်ပြုချက်လိုသည် - %s။ ခွင့်ပြုရန် \"ဆက်တင်\" ကို တို့ပါ။</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -202,6 +203,9 @@
     <string name="noon">မွန်းတည့်</string>
     <string name="ok">အိုကေ</string>
     <string name="open">ဖွင့်ရန်</string>
+    <string name="operation_original">နှိုင်းယှဥ်ရန်</string>
+    <string name="operation_redo">ပြန်လုပ်ရန်</string>
+    <string name="operation_undo">နောက်ပြန်ဆုတ်ရန်</string>
     <string name="pm">ညနေ</string>
     <string name="refocus_discard_confirm_message">ပြောင်းလဲခြင်းများကို သိမ်းထားမလား?</string>
     <string name="refocus_discard_negative_btn">စွန့်ပစ်မည်</string>

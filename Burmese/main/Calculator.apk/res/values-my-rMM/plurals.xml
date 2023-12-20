@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,16 +25,10 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d ရက်</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d လ</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">နှစ်</item>
+    <plurals name="delete_msg">
+        <item quantity="other">အိုင်တမ် %d ခုကို ယခုပင် ဖျက်မလား။</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">အိုင်တမ် %d ခု</item>
@@ -57,9 +51,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">အသေးစိတ် ချေးငွေပြန်ဆပ်မှု (%d နှစ်)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">အသေးစိတ် ချေးငွေပြန်ဆပ်မှု (%d နှစ်)၊ CNY</item>
     </plurals>
@@ -72,10 +63,31 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">အိုင်တမ် %d ခုကို ရွေးချယ်ထားသည်</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d လ</item>
     </plurals>
     <plurals name="tenure_years">
         <item quantity="other">%d နှစ်</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">ဘိုက်</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">ဂီဂါဘိုက်</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">ကီလိုဘိုက်</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">မီဂါဘိုက်</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">ပီတာဘိုက်</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">တီရာဘိုက်</item>
     </plurals>
 </resources>

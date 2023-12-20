@@ -18,7 +18,7 @@
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
     <string name="dialog_market_score_cancel">ပယ်ဖျက်မည်</string>
     <string name="dialog_market_score_dislike">ကောမန့်</string>
-    <string name="dialog_market_score_like">ကြယ် ၅ ပွင့်</string>
+    <string name="dialog_market_score_like">ကြယ်ငါးပွင့်။</string>
     <string name="dialog_market_score_positive_button">ကောမန့်</string>
     <string name="dialog_market_score_submit">ပေးပို့မည်</string>
     <string name="dialog_market_score_subtitle_step1">ဤအက်ပ်အား အမှတ်ပေးရန် ကြယ်များအား ထိနှိပ်ပါ</string>
@@ -29,6 +29,7 @@
     <string name="dual_app_title">နှစ်ခုတွဲအက်ပ်</string>
     <string name="dual_app_words">အကောင့်တိုင်းအတွက် အက်ပ်ကိုယ်စီ</string>
     <string name="early_morning">နံနက်</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -57,14 +58,14 @@
     <string name="ew_warning_detail">သတိပေးချက် အသေးစိတ်</string>
     <string name="fastboot_locked_answer_1">Fastboot မှာ Mi စက်များကို ဖလက်ရှ်လုပ်ရန် ရိုးရာနည်းလမ်းဖြစ်ပါသည်။ စက်သည် Fastboot မုတ်တွင် ရှိနေပါက၊ သိုလှောင်ထားသော ဒေတာအားလုံးကို ကြည့်၍ရပြီး တိုက်ရိုက်ဖျက်ပစ်လို့လည်း ရပါသည်။ ကျွန်ုပ်တို့မှ Fastboot ကိုသော့ခတ်ထားရခြင်းမှာ အကယ်၍သင့်စက်ပျောက်သွားပါက သင့်ဒေတာများကို လုံခြုံစေရန်အတွက် ဖြစ်ပြီး၊ \"စက်ကို ရှာပါ\" လုပ်ဆောင်ချက်ကို အာမခံနိုင်ရန်အတွက် ဖြစ်ပါသည်။</string>
     <string name="fastboot_locked_answer_2">အကယ်၍ သင့်စက်ပျောက်သွားပါက၊ Fastbootသည် ၄င်းပေါ်တွင် သိမ်းထားသော ဒေတာများအားလုံး၏ လုံခြုံရေးကို တာဝန်ယူပါသည်။ Fastbootကို သော့ဖြည်ထားပါက၊ သင်သည် စက်ကို အဝေးမှ သော့ချခြင်း သို့မဟုတ် \"စက်ကို ရှာပါ\" ကိုသုံးပြီး ဒေတာများဖျက်ပစ်ခြင်း တို့ကို ပြုလုပ်နိုင်တော့မည် မဟုတ်ပါ။ ထို့ကြောင့် Fastbootကို သော့ခတ်ထားရန် ကျွန်ုပ်တို့မှ အကြံပြုအပ်ပါသည်။</string>
-    <string name="fastboot_locked_answer_3">MIUIဝက်ဘ်ဆိုက်မှ သော့ဖြည်ကိရိယာကို အသုံးပြုသင့်ပါသည်။ စက်ကို သော့ဖြည်ရန်၊ စက်မှာ သင့်စက်ဖြစ်ကြောင်း သေချာရန် လိုအပ်ပါသည်။ ထို့အတွက်ကြောင့် Mi အကောင့် သို့ဆိုင်းအင်ဝင်ရန်နှင့် \"စက်ကို ရှာပါ\"ကို ဖွင့်ရန် လိုအပ်ပါသည်။</string>
+    <string name="fastboot_locked_answer_3">"You should use the unlock tool from Xiaomi. To unlock the device, we need to make sure that the device belongs to you. That's why you should sign in with your Xiaomi Account and turn on Find device."</string>
     <string name="fastboot_locked_question_1">Fastboot ကို အဘယ့်ကြောင့် သော့ခတ်ထားသင့်သလဲ?</string>
     <string name="fastboot_locked_question_2">Fastboot ကို သော့ဖြည်လျှင် အန္တရာယ်ရှိပါသလား?</string>
     <string name="fastboot_locked_question_3">အန္တာရာယ်များကို သိပါသည်၊ သို့သော် ကျွန်ုပ်စက်ကို ဆက်လက် သော့ဖွင့်လိုပါသည်။ ကျွန်ုပ်ဘာလုပ်သင့်သလဲ?</string>
     <string name="fastboot_status_locked_info">ဤစက်ပေါ်တွင် Fastboot သော့မဖြည်ထားပါ</string>
     <string name="fastboot_status_locked_summary">Root သို့ဝင်ရောက်ခြင်း မရနိုင်ခဲ့ပါ</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="fastboot_unlock_web_title">တရားဝင် MIUIဝက်ဘ်ဆိုက်သို့ ဝင်ရောက်ပြီး သော့ဖြည်သည့် ကိရိယာကို ရယူပါ။</string>
+    <string name="fastboot_unlock_web_title">Go to the official website to get the unlock tool.</string>
     <string name="fingerprint_not_remind">ထပ်မမေးပါနှင့်</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -203,18 +204,26 @@
     <string name="gb_gputuner_lod_deviation">Mipmap LOD မမျှတမှု</string>
     <string name="gb_gputuner_multi_render">လိုင်းပေါင်းစုံရန်းဒါးလုပ်ခြင်း</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
+    <string name="gb_pannel_control_frame_rate_dialog_message">To be able to use this feature, change display resolution to WQHD+ in Settings.</string>
+    <string name="gb_pannel_control_frame_rate_dialog_positive">Settings</string>
+    <string name="gb_pannel_control_frame_rate_dialog_title">Change display resolution</string>
     <string name="gb_pannel_control_mode_balance">ဘက်မျှ</string>
     <string name="gb_pannel_control_mode_custom">စိတ်ကြိုက်</string>
+    <string name="gb_pannel_control_mode_frame_rate">Frame rate priority</string>
     <string name="gb_pannel_control_mode_high_quality">အရည်အသွေးမြင့်</string>
     <string name="gb_pannel_control_mode_normal">မူလ</string>
+    <string name="gb_pannel_control_mode_picture">Picture priority</string>
     <string name="gb_pannel_control_mode_power_saving">ပါဝါ ချွေတာမည်</string>
+    <string name="gb_web_panel_failure_retry">အိုင်တမ်များအား လုဒ်တင်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="gb_web_panel_game_loading">ခေတ္တစောင့်ပါ…</string>
+    <string name="gb_web_panel_network_exception">ကွန်ရက်အမှားအယွင်းကြောင့် ဂိမ်းများ အကြံပြုမရသေးပါ။ ကွန်ရက်ဆက်တင်ကို စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="gb_webwindow_schemedialog_accept">ဖွင့်ရန်</string>
     <string name="gb_webwindow_schemedialog_cancel">မလုပ်တော့ရန်</string>
     <string name="gb_webwindow_schemedialog_title">ဂိမ်းများကို ယခုဖွင့်လိုသလား။</string>
     <string name="gb_weixinpay_can_not_complete">ပေးချေမှု ပြီးစီးအောင်မလုပ်နိုင်ပါ။ တပ်ဆင်ပြီးမှ ဆက်လက်လုပ်ဆောင်ပါ။</string>
-    <string name="gdpr_msg">&lt;Data>လုံခြုံရေးဆိုင်ရာ အခြေခံအထူးအစီအစဉ်များကို အသုံးပြုနိုင်ရန်အတွက် လုံခြုံရေးဆိုင်ရာ အထူးအစီအစဉ်များ (ဥပမာ - မိုဘိုင်းဒေတာအသုံးပြုမှု ကိန်းဂဏန်းများ၊ အန္တရာယ်ရှိသောဆော့ဖ်ဝဲ၊ သင့်စက်ဖြင့်သက်ဆိုင်သော အခြေခံအချက်အလက်များ) နှင့် ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တွင် အသေးစိတ် ဖော်ပြထားသည့် အခြားသော အချက်အလက်အမျိုးအစားများကို သင်အသုံးပြုပုံများနှင့်သက်ဆိုင်သည့် အချက်အလက်များအပါအဝင် သင်၏ ကိုယ်ရေးအချက်အလက်များအား Xiaomi က စုဆောင်း၊ စီမံ၊ အသုံးပြုသွားမည်ဆိုသည်ကို သင်သဘောတူရပါမည်။&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_message">သင်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏ အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် သင့် Mi အကောင့် ID ကို ကောက်ယူသည်။</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="gdpr_msg">&lt;Data>လုံခြုံရေး၏ အခြေခံအင်္ဂါရပ်များသုံးနိုင်ရန် Xiaomi က သင်၏ လုံခြုံရေးအင်္ဂါရပ်များ အသုံးပြုပုံဆိုင်ရာ အချက်အလက်များ (ဥပမာ - မိုဘိုင်းဒေတာအသုံးပြုကိန်းဂဏန်းများ၊ မဲလဝဲအချက်အလက်များ၊ စက်အခြေခံအချက်အလက်များ) နှင့် &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တွင် ဖော်ပြထားသော အခြားအမျိုးအစားအချက်အလက်များအပါအဝင် ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူ၊ ဆောင်ရွက်၊ အသုံးပြုခြင်းကို သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_message">သင်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် Xiaomi အကောင့် ID ကို ကောက်ယူပါမည်။</string>
+    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်</string>
     <string name="hybrid_provider">%1$sမှ ထောက်ပံ့ထားသော</string>
     <string name="install_success">%s Install Success</string>
@@ -226,15 +235,15 @@
     <string name="miuishare_wechat_timeline_title">Wechat လှုပ်ရှားမှုများ</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -292,6 +301,7 @@
     <string name="net_booster_expire_notification">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်</string>
     <string name="net_booster_overdue_notification">ကွန်ရက်အရှိန်မြှင့်ကာလ ကုန်ဆုံးပါတော့မည်</string>
     <string name="net_booster_overdue_notification_tip">ကွန်ရက်အရှိန်မြှင့်စနစ်ဆက်ရှင် ပြီးသွားပါပြီ။ ကွန်ရက်နှေးခြင်းများ စကြုံနိုင်ပါသည်။ ဆက်ရှင်ကို ယခု သက်တမ်းတိုးလိုသလား။</string>
+    <string name="network_error">ကွန်ရက်အမှားအယွင်းရှိသည်။</string>
     <string name="network_not_available">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="night">ညနေ</string>
     <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
@@ -299,7 +309,20 @@
     <string name="noon">မွန်းတည့်</string>
     <string name="ok_button">အိုကေ</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
+    <string name="page_load_failed">စာမျက်နှာ ဖွင့်မရပါ</string>
     <string name="pc_activity_title">ဘက်ထရီအား အဆင့်မြှင့်တင်</string>
+    <string name="pc_entered_extreme_mode">ဟိုက်ဘာနိတ်မုဒ်ဖွင့်ထားသည်</string>
+    <string name="pc_entered_extreme_mode_summary">သင့်စက်ဓာတ်ခဲကုန်ပြီး ဟိုက်ဘာနိတ်မုဒ်သို့ ဝင်ထားသည်။ အက်(ပ်)များက နောက်ကွယ်တွင် ပွင့်မည်ဖြစ်ပြီး အသိပေးချက်များ ပို့မည်မဟုတ်ပါ။</string>
+    <string name="pc_entered_extreme_mode_summary2">သင့်စက် ဓာတ်ခဲကုန်ခါနီးပါပြီ။ ဟိုက်ဘာနိတ်မုဒ်တွင် နောက်ကွယ်၌အလုပ်လုပ်နေသော အက်(ပ်)များမှ အသိပေးချက်တစ်ခုမျှ ရမည်မဟုတ်ပါ။</string>
+    <string name="pc_extreme_exit_and_power_off">ထွက်ရန်</string>
+    <string name="pc_extreme_mode_bg_toast">ဟိုက်ဘာနိတ်မုဒ်တွင် အက်(ပ်)များက နောက်ကွယ်တွင် ပွင့်မည်ဖြစ်ပြီး အသိပေးချက်များ ပို့မည်မဟုတ်ပါ။</string>
+    <string name="pc_extreme_mode_exit_risk_title">သတိပြုရန်</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">သင့်စက်ဓာတ်ခဲကုန်ပါပြီ။ ဟိုက်ဘာနိတ်မုဒ်မှထွက်လျှင် စက်ပိတ်သွားပါမည်။</string>
+    <string name="pc_extreme_mode_find_charger">စက်ကို အမြန်ဆုံးအားသွင်းပါ။</string>
+    <string name="pc_extreme_mode_runtime">%1$s %2$s အတွက် ဟိုက်ဘာနိတ်မုဒ် ဖွင့်ထားသည်။</string>
+    <string name="pc_extreme_mode_title">ဟိုက်ဘာနိတ်မုဒ်</string>
+    <string name="pc_going_to_exit_extreme_mode">ဟိုက်ဘာနိတ်မုဒ်မှ ထွက်ခြင်း</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">သင့်စက်ကိုအားသွင်းနေသည်။ ဟိုက်ဘာနိတ်မုဒ်ကို ပိတ်ထားသည်။</string>
     <string name="pm">ညနေ</string>
     <string name="pm_lable_name">root ဝင်ရောက်မှုအကြောင်း</string>
     <string name="power_center_battery_duration_screen_on">လက်ကျန်မျက်နှာပြင်ဖွင့်ချိန်</string>
@@ -307,6 +330,7 @@
     <string name="privacy_declare_dialog_title">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="privacy_prompt_traffic_purchase_message">ဒေတာဝယ်ယူနိုင်မှုရွေးစရာများ ပိုမိုရရှိစေရန် သင့်ဖုန်းနံပါတ်နှင့် ဖုန်းကာရီယာဆိုင်ရာအချက်အလက်သေးစိတ်များသည်ကုဒ်ဖွဲ့ပြီး Mi ဆာဗာဆီသို့ လုဒ်တင်လိုက်လိမ့်မည်။</string>
     <string name="renew_now">သက်တမ်းတိုးရန်</string>
+    <string name="retry_action">ပြန်လုပ်ကြည့်ပါ</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
@@ -335,6 +359,7 @@
     <string name="superpower_date">EEEE, MMMM dd</string>
     <string name="superpower_dialog_app_select_content">ပြင်ပကုမ္ပဏီအက်(ပ်)များက မူလအက်(ပ်)များထက် ဓာတ်ခဲပိုကုန်တတ်သည်။ မဖြစ်မနေ ထည့်လိုသလား။</string>
     <string name="superpower_dialog_app_select_title">သတိပြုရန်</string>
+    <string name="superpower_dialog_button_ok">အိုကေ</string>
     <string name="superpower_exit_hint">Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်ကို ပိတ်နေသည်…</string>
     <string name="superpower_incharging">အားသွင်းနေသည်</string>
     <string name="superpower_progress_battery_last">%s ကျန်သည်</string>
@@ -347,7 +372,7 @@
     <string name="superpower_third">ပြင်ပကုမ္ပဏီအက်(ပ်)များ</string>
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
-    <string name="superpower_toast_app_select_full">အသုံးများသော အက်(ပ်)များစာရင်းတွင် ၆ ခုအထိ ထည့်နိုင်သည်</string>
+    <string name="superpower_toast_app_select_full_new">အသုံးများသောအက်(ပ်)များတွင် %d ခု အထိ ထည့်နိုင်သည်</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>

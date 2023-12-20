@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,7 +25,7 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">WeChat စကားပြောရှိ ဗီဒီယို %1$d ခု သက်တမ်း ကုန်ပါတော့မည်။ ၎င်းကို စက်တွင်းသိုလှောင်ခန်းတွင် အရန်သိမ်းလိုသလား။</item>
@@ -124,13 +124,13 @@
         <item quantity="other">မှတ်ချက် %1$s ခု</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ရက်</item>
+        <item quantity="other">" • &lt;font color=#fc7050>%1$d&lt;/font> ရက်"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• သင့်တွင် ဖော်လိုဝါ &lt;font color=#fc7050>%1$s&lt;/font> ဦး ရထားပါပြီ။</item>
+        <item quantity="other">" • သင့်တွင် ဖော်လိုဝါ &lt;font color=#fc7050>%1$s&lt;/font> ဦး ရထားပါပြီ။"</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• သင်သည် ဗီဒီယို &lt;font color=#fc7050>%1$s&lt;/font> ခု တင်ပြီးပါပြီ။</item>
+        <item quantity="other">" • သင်သည် ဗီဒီယို &lt;font color=#fc7050>%1$s&lt;/font> ခု တင်ပြီးပါပြီ။ "</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">သင်သည် လူ &lt;font color=#fc7050>%1$s&lt;/font> ကို ပျော်အောင်လုပ်ပြီးပါပြီ။</item>

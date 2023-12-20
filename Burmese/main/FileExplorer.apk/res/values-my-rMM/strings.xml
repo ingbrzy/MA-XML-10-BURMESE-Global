@@ -17,6 +17,7 @@
     <string name="agree">သဘောတူသည်</string>
     <string name="am">နံနက်</string>
     <string name="app_all_purpose">ဖိုင်မန်နေဂျာမှ ကြိုဆိုပါသည်။ သင့်စက်တွင်သိမ်းထားသော ဖိုင်များကို စီမံခန့်ခွဲရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
+    <string name="app_all_purpose_global">ဖိုင်မန်နေဂျာမှ ကြိုဆိုပါသည်။ စက်တွင်သိမ်းထားသော ဖိုင်များကို အစမ်းကြည့်ပြီး စီမံခန့်ခွဲရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="app_all_purpose_pad">ဖိုင်မန်နေဂျာမှ ကြိုဆိုပါသည်။ သင့်စက်တွင်သိမ်းထားသော ဖိုင်များကို စီမံခန့်ခွဲရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="app_function">သင့်စက်ရှိ ဖိုင်များကို စီမံခန့်ခွဲရန်</string>
     <string name="app_name">ဖိုင်မန်နေဂျာ</string>
@@ -25,7 +26,7 @@
     <string name="app_name_downloadedrom">ပက်ကေ့ချ်များ</string>
     <string name="app_name_downloads">ဒေါင်းလုဒ်များ</string>
     <string name="app_name_market">အက်ပ်စတိုး</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">စနစ်အရင်းအမြစ်များ</string>
     <string name="app_name_miuimusic">တေးဂီတ</string>
     <string name="app_name_miuiringtone">ဖုန်းမြည်သံ</string>
     <string name="app_name_miuiwallpaper">နောက်ခံပုံ</string>
@@ -132,6 +133,7 @@
     <string name="create_folder">ပြုလုပ်ရန်</string>
     <string name="create_shortcut_success">အောင်မြင်စွာ ရှော့ကတ်ထည့်ပြီးပါပြီ</string>
     <string name="cta_function_account_operation">Xiaomi အကောင့်သို့ အမြန်အကောင့်ဝင်ရန်</string>
+    <string name="cta_use_sync_midrive_file">ဖိုင်များကို Mi ဒရိုက်သို့ဆင့်(ခ်)လုပ်ရန်</string>
     <string name="data_consume_dialog_message">လက်ရှိတွင် မိုဘိုင်းဒေတာ သုံးနေသည်။ ရှေ့ဆက်ပါက ဒေတာ %s သုံးပါမည်။</string>
     <string name="data_consume_dialog_title">မိုဘိုင်းဒေတာ သုံးလိုသလား။</string>
     <string name="data_consume_dialog_upload_title">မိုဘိုင်းဒေတာသုံးပြီး တင်ရန်</string>
@@ -151,6 +153,7 @@
     <string name="decompress_destination_error">ဤတည်နေရာသို့ ဖိုင်အား ထုတ်ယူ၍မရပါ</string>
     <string name="decompress_encrypted_rar_not_supported">ကုဒ်ဖွဲ့ထားသော RAR ဖိုင်များအား မထောက်ပံ့ပါ။</string>
     <string name="decompress_fail">ထုတ်ယူ၍မရပါ။</string>
+    <string name="decompress_fail_contains_special_characters">ချုံ့မရပါ။ ချုံ့ထားသောဖိုင်များ၏ အမည်တွင် အထူးအက္ခရာများ မပါရပါ။</string>
     <string name="decompress_input_password">စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="decompress_password_error">သင်ထည့်သည့် စကားဝှက်မှန်ကန်မှုမရှိပါ</string>
     <string name="decompress_success">ထုတ်ယူခြင်းပြီးဆုံးပြီ</string>
@@ -183,6 +186,9 @@
     <string name="dialog_type_video">ဗီဒီယိုများ</string>
     <string name="disk_available">ရနိုင်သည် -  </string>
     <string name="disk_total">စုစုပေါင်း -  </string>
+    <string name="display_all_dirs">ဖိုဒါအားလုံး</string>
+    <string name="display_hide_sys_dirs">ဖုံးထားသောစနစ်ဖိုဒါများ</string>
+    <string name="display_mode">ပြသမှု</string>
     <string name="display_setting">ပြသထားသော အရာများ</string>
     <string name="doc_all">အားလုံး</string>
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
@@ -232,6 +238,7 @@
     <string name="favorite_photo">ဓာတ်ပုံများ</string>
     <string name="favorite_ringtone">ဖုန်းမြည်သံများ</string>
     <string name="favorite_screen_cap">မျက်နှာပြင်ရိုက်ချက်များ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ဖတ်နိုင်ခြင်း -  </string>
     <string name="file_info_canwrite">ရေးနိုင်ခြင်း -  </string>
     <string name="file_info_ishidden">ဝှက်ထားခြင်း -  </string>
@@ -301,17 +308,19 @@
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
-    <string name="ftp_account_req_notice">အသုံးပြုသူအမည်နှင့် စကားဝှက်သည် စာလုံးအကြီးအသေးအကျုံးဝင်ပြီး အက္ခရာ %1$d-%2$d လုံး ပါရမည်။ အင်္ဂလိပ်စာလုံးများ၊ အထူးသင်္ကေတများနှင့် ဂဏန်းများကို ရောထည့်နိုင်သည်။</string>
+    <string name="ftp_account_req_notice">အသုံးပြုသူအမည်နှင့် စကားဝှက်တွင် အက္ခရာ %1$d–%2$d လုံးပါရမည်ဖြစ်ပြီး စာလုံးအကြီးအသေးသတိထားရမည်။ အထူးအက္ခရာများ မပါရပါ။</string>
     <string name="ftp_anonymous_login">အမည်ဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်</string>
     <string name="ftp_anonymous_warning_msg">အမည်ဖျောက်ပြုလုပ်သောအင်္ဂါရပ်များက အန္တရာယ်များပါသည်။ ဤအင်္ဂါရပ်ကို မဖြစ်မနေသုံးလိုသလား။</string>
     <string name="ftp_anonymous_warning_title">သတိပြုရန်</string>
+    <string name="ftp_invalid_username">အသုံးပြုသူအမည်တွင် အထူးအက္ခရာများ မပါရပါ။ အခြားအမည်ထည့်ပါ။</string>
     <string name="ftp_invalid_username_or_password">သင်ရိုက်ထည့်လိုက်သည် အသုံးပြုသူအမည်နှင့် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="ftp_open_port_error">ဝင်ပေါက်အား ဖွင့်၍မရပါ။ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးပါ သို့မဟုတ် ဝင်ပေါက် နံပါတ်အား ပြန်သတ်မှတ်ပါ။</string>
     <string name="ftp_password_hint">စကားဝှက်</string>
     <string name="ftp_port_number">ဝင်ပေါက် နံပါတ်</string>
-    <string name="ftp_transfer_secure">လုံခြုရေး</string>
+    <string name="ftp_transfer_secure">လုံခြုံရေး</string>
     <string name="ftp_username_and_passworld">အကောင့်ဝင်ရန်</string>
     <string name="ftp_username_hint">သုံးသူအမည်</string>
+    <string name="func_settings">အင်္ဂါရပ်ဆက်တင်</string>
     <string name="function_file_operation">ဖိုင်များကို ပြသရန်နှင့် တည်းဖြတ်ရန်</string>
     <string name="function_set_private">ဖိုင်များကို ကြည့်ရန်နှင့် ကုဒ်ဖွဲ့ရန်</string>
     <string name="function_use_imei">IMEI ဖတ်ရန်နှင့် ဖိုင်များကို ကုဒ်ဖွဲ့ရန်</string>
@@ -349,6 +358,7 @@
     <string name="instruction_pre_pad">ကွန်ပျူတာသုံးပြီး ဤစက်မှ ဖိုင်များကို စီမံခန့်ခွဲရန်</string>
     <string name="instruction_pre_phone">ကွန်ပျူတာသုံးပြီး ဤစက်မှ ဖိုင်များကို စီမံခန့်ခွဲရန်</string>
     <string name="internal_storage">အတွင်းပိုင်း သိုလှောင်ခန်း</string>
+    <string name="internal_storage_device">စက်</string>
     <string name="just_now">အခုလေးတင်</string>
     <string name="lack_perm_msg">ဖိုင်မန်နေဂျာသည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် - &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
@@ -372,6 +382,7 @@
     <string name="manage_cloud_space">ကလောက်သိုလှောင်ခန်း စီမံခန့်ခွဲရန်</string>
     <string name="menu_item_cleanup">ရှင်းလင်းပါ</string>
     <string name="menu_item_ftp">ကွန်ပျူတာသို့ ချိတ်ဆက်ပါ</string>
+    <string name="menu_item_midrop">ဖိုင်များလွှဲပြောင်းရန်</string>
     <string name="menu_item_router">ရောင်တာ</string>
     <string name="menu_item_search">ရှာပါ</string>
     <string name="menu_item_sort">စီပါ</string>
@@ -419,20 +430,23 @@
     <string name="mirror_tip_refresh">ရီဖရက်(ရှ်)လုပ်ရန်</string>
     <string name="mirror_tip_show_type">စီရန်</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_select_all_description">အားလုံးကို ရွေးမည်</string>
     <string name="miuix_appcompat_select_item">အိုင်တမ်များရွေး</string>
+    <string name="miuix_navigator_content_switch_description">ဘေးတန်းပြရန်</string>
+    <string name="miuix_navigator_multiple_choice">ရွေးရန်</string>
+    <string name="miuix_navigator_navigator_switch_description">ဘေးတန်းဖုံးထားရန်</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
@@ -492,6 +506,8 @@
     <string name="mtp_device">စက်မီဒီယာ (MTP)</string>
     <string name="mtp_label">MTP</string>
     <string name="name_empty">အမည်တစ်ခု သင် ထည့်သွင်းရမည်။</string>
+    <string name="navigator_label_all_files">ဖိုင်အားလုံး</string>
+    <string name="navigator_label_external_devices">ပြင်ပစက်များ</string>
     <string name="need_open_content">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ဖိုင်မန်နေဂျာကို ဓာတ်ပုံနှင့် ဖိုင်များ ဖတ်ခွင့်ပြုပါ။</string>
     <string name="need_open_permission">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="need_read_storage_permission">ဖိုင်မန်နေဂျာသည် ပုံမှန်အလုပ်လုပ်နိုင်ရန်အတွက် စက်၏သိုလှောင်ခန်းကို ဝင်ခွင့်လိုသည်။</string>
@@ -533,6 +549,8 @@
     <string name="operation_compress">ချုံ့ထည့်ပါ</string>
     <string name="operation_compressing">ချုံ့ထည့်နေသည်…</string>
     <string name="operation_copy">ကူးယူရန်</string>
+    <string name="operation_copy_clipboard">ကလစ်ဘုတ်သို့ ကူးယူရန်</string>
+    <string name="operation_copy_local">ဖိုဒါသို့ကူးယူရန်</string>
     <string name="operation_create_folder">ဖိုင်တွဲလုပ်ပါ</string>
     <string name="operation_create_folder_message">ဖိုလ်ဒါ အမည်ပေးပါ</string>
     <string name="operation_create_folder_name_conflict">ဖိုဒါဆောက်မရပါ။ ဤအမည်နှင့် ဖိုဒါရှိထားပြီးဖြစ်သည်။</string>
@@ -543,6 +561,7 @@
     <string name="operation_decompressing">ထုတ်ယူနေသည်…</string>
     <string name="operation_del_fav">အကြိုက်ဆုံးများမှ ဖယ်ရှားနေသည်…</string>
     <string name="operation_delete">ဖျက်ပစ်မည်</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM သည် ပြခန်းဖိုဒါဖြစ်သည်။ ဤဖိုဒါကိုဖျက်ပါက ၎င်းရှိအကြောင်းအရာအားလုံးကို ပြခန်းမှ အပြီးဖျက်လိုက်ပါမည်။ ဤဖိုဒါကို မဖြစ်မနေဖျက်လိုသလား။</string>
     <string name="operation_delete_confirm_message">ဖျက်လိုသလား။</string>
     <string name="operation_delete_confirm_message_folder">"ဖိုလ်ဒါတွင်ပါသော အကြောင်းအရာအားလုံးကို ဖျက်ပစ်ပါလိမ့်မည်။
 "</string>
@@ -582,7 +601,7 @@
     <string name="operation_send">ပို့ရန်</string>
     <string name="operation_send_to_pc">ကွန်ပျူတာသို့ ရွှေ့ရန်</string>
     <string name="operation_set_pic_wallpaper">နောက်ခံပုံအဖြစ် သတ်မှတ်ရန်</string>
-    <string name="operation_show_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို ပြရန်</string>
+    <string name="operation_show_privacy_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို ပြရန်</string>
     <string name="operation_show_sys">ဝှက်ထားသော ဖိုင်များကို ပြရန်</string>
     <string name="operation_sync_cloud_data_error">ဆာဗာအမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="operation_unfavorite">အကြိုက်ဆုံးမှဖြုတ်ရန်</string>
@@ -618,11 +637,15 @@
     <string name="permission_account_title_pad">စက်အကောင့်များ ဖတ်ရန်</string>
     <string name="permission_denial">ဖိုင်များအား ဖွင့်၍မရပါ။ ဆက်တင်သို့သွား၍ ဖိုင်မန်နေဂျာကို ဖိုင်သုံးခွင့်ပေးပါ။</string>
     <string name="permission_description">ခွင့်ပြုချက်အသေးစိတ်</string>
+    <string name="permission_group_description_phone">ဖိုင်တစ်ဖိုင်ကို တစ်ကိုယ်ရေသတ်မှတ်ချိန်၌ ဤအက်(ပ်)က မှတ်ထားရန်၊ သိုလှောင်ခန်းနှင့် သော့ဖွင့်ရန် ရည်ရွယ်ချက်များအတွက် စက် IMEI ကို ကောက်ယူပါမည်</string>
+    <string name="permission_group_description_storage_space">သိုလှောင်ခန်းတွင် အကြောင်းအရာများ ဖတ်ရန်နှင့် သိမ်းရန်</string>
+    <string name="permission_group_name_phone">ဖုန်း</string>
+    <string name="permission_group_name_storage_space">သိုလှောင်ခန်း</string>
     <string name="permission_required">ဖိုင်များအား ဖွင့်၍မရပါ။ ဆက်တင်သို့သွား၍ ဖိုင်မန်နေဂျာကို ဖိုင်သုံးခွင့်ပေးပါ။</string>
     <string name="permission_storage_desc_pad">ဓာတ်ပုံနှင့် စာရွက်စာတမ်းများကို စက်တွင် သိမ်းရန်</string>
     <string name="permission_storage_title">စက်သိုလှောင်ခန်း ဖတ်ရန်</string>
     <string name="permission_storage_title_pad">စက်သိုလှောင်ခန်း ဖတ်ရန်</string>
-    <string name="phone">အတွင်းသိုလှောင်ခန်း</string>
+    <string name="phone">သိုလှောင်ခန်း</string>
     <string name="phone_storage">သိုလှောင်ခန်း</string>
     <string name="phone_storage_apk_title">APK: </string>
     <string name="phone_storage_audio_title">သီချင်း−</string>
@@ -640,17 +663,18 @@
     <string name="pick_folder">ဖိုဒါရွေးပါ</string>
     <string name="pm">ညနေ</string>
     <string name="port_range">ဝင်ပေါက်နံပါတ်မှာ ၁၀၂၄ နှင့် ၆၅၅၃၅ အကြားရှိရပါမည်</string>
+    <string name="positive_order">ရှေ့သို့</string>
     <string name="pre_privacy_recall">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="pref_permission_allowed">ခွင့်ပြုထားသည်</string>
     <string name="pref_permission_manage_key_storage">စက်ရှိ ဓာတ်ပုံများ သို့မဟုတ် ဖိုင်များကို ဖတ်ခွင့်ပြုရန်</string>
     <string name="pref_permission_not_allowed">ခွင့်မပြုထားပါ</string>
-    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="privacy_policy_renew">အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
-    <string name="privacy_policy_renew_content">&lt;Data>ဖိုင်မန်နေဂျာ၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို အပ်ပဒိတ်လုပ်ထားပါသည်။ ရှေ့မဆက်မီ အသုံးပြုသူတစ်ဦးအနေနှင့် ရနိုင်သော အခွင့်အရေးများနှင့် သင့်ဒေတာများကို ကျွန်ုပ်တို့က အသုံးပြုပုံပြုနည်းများကို ကောင်းစွာနားလည်ရန် ကျွန်ုပ်တို့၏ ဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို ဖတ်ရှုပြီး သဘောတူပါ။&lt;/Data></string>
+    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
+    <string name="privacy_policy_renew">အပ်ပဒိတ်လုပ်ထားသော ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
+    <string name="privacy_policy_renew_content"><Data>ဖိုင်မန်နေဂျာ၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> ကို အပ်ပဒိတ်လုပ်ထားပါသည်။ ရှေ့မဆက်မီ အသုံးပြုသူတစ်ဦးအနေနှင့် ရနိုင်သော အခွင့်အရေးများနှင့် သင့်ဒေတာများကို ကျွန်ုပ်တို့က အသုံးပြုပုံပြုနည်းများကို ကောင်းစွာနားလည်ရန် ကျွန်ုပ်တို့၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို ဖတ်ရှုပြီး သဘောတူပါ။</Data></string>
     <string name="privacy_recall_alert_description" formatted="false">သဘောတူခွင့်ပြုချက် ရုပ်သိမ်းနိုင်ရန် Mi ဒရိုက်ရှိ အကြောင်းအရာအားလုံးကို ရှင်းပါ။ အကြောင်းအရာများရှင်းရန် အောက်ပါအဆင့်များအတိုင်း လိုက်လုပ်ပါ -&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>။ Mi ဒရိုက် အစစာမျက်နှာတွင် \"အားလုံးရွေးရန်\" ခလုတ်ပေါ်လာရန် အကြောင်းအရာတစ်ခုကို ထိပြီး ဖိထားပါ။ ဤခလုတ်ကိုသုံးပြီး တစ်ကြိမ်တွင် ဖိုင် ၂၀၀ ထိ ရွေးပြီး ဖျက်ပါ။&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>။ ၎င်းနောက် လတ်တလောဖျက်ထားသောအရာများကို ရှင်းပါ။</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>။ အကြောင်းအရာများကို မဖျက်မီ အရန်သိမ်းရန် အကြံပြုပါသည်။ အရန်သိမ်းရန် i.mi.com သို့ သွားပြီး Mi ဒရိုက်ကို နှိပ်ပါ။ သင့်အကြောင်းအရာများကို ကွန်ပျူတာသို့ ဒေါင်းလုဒ်လုပ်ပါ။&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>။ လတ်တလောဖျက်ထားသောအရာများကို ဖျက်ပြီးနောက် ပြန်ဆယ်မရကြောင်း သတိပြုပါ။</string>
     <string name="privacy_recall_confirm_button">ရုပ်သိမ်းရန်</string>
-    <string name="privacy_recall_confirm_description">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် ဖိုင်မန်နေဂျာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို ရုပ်သိမ်းရာရောက်သည်။ ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။</string>
+    <string name="privacy_recall_confirm_description">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် ဖိုင်မန်နေဂျာ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်သည်။ ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ကောက်ယူခြင်းကို ရပ်လိုက်မည်ဖြစ်ပြီး ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။</string>
     <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>သဘောတူခွင့်ပြုချက် ရုပ်သိမ်းပြီးနောက် အောက်ပါအရာများကို အပြီးဖျက်လိုက်ပါမည် -&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>။ စာရွက်စာတမ်းများ၊ တစ်ကိုယ်ရေဖိုင်များ၊ ဖျက်ထားသောအရာများနှင့် အခြားအရာများ အကန့်အသတ်မရှိ အပါအဝင် Mi ဒရိုက်ရှိ အရာအားလုံး။&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>။ စက်ခွင့်ပြုချက်များ၊ ဆက်တင်နှင့် ကက်(ချ်)လုပ်ထားသော အခြားအရာများ။&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>။ Mi ဒရိုက် အပ်ပလုဒ်နှင့် ဒေါင်းလုဒ်မှတ်တမ်း။</string>
     <string name="privacy_recall_success">သဘောတူခွင့်ပြုချက်ကို အောင်မြင်စွာရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="privacy_recall_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
@@ -668,6 +692,9 @@
     <string name="qq_title">WeChat စာရွက်စာတမ်းများ ဖတ်မရပါ</string>
     <string name="query_quota_exception">ဆာဗာအမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="query_quota_searching">ခေတ္တစောင့်ပါ…</string>
+    <string name="recent_file_by_source">ဖိုင်အရင်းအမြစ်</string>
+    <string name="recent_file_sort_by_date">ရက်စွဲ</string>
+    <string name="recent_file_sort_type">စီရန်</string>
     <string name="recent_hide_camera_and_screenshots">ပြခန်းမှအရာများနှင့် မျက်နှာပြင်ရိုက်ချက်များကို လတ်တလောဖိုင်များကြားတွင် မပြပါနှင့်</string>
     <string name="recent_hide_cloud_drive_files">Mi ဒရိုက်ဖိုင်များကို လတ်တလောအရာများတွင် မပြပါနှင့်</string>
     <string name="refresh_success">ရီဖရက်(ရှ်)ပြီးသွားပါပြီ</string>
@@ -689,6 +716,7 @@
     <string name="request_timeout">ကွန်ရက်ချိတ်ဆက်ရန် တောင်းခံချိန် ကုန်သွားပါပြီ</string>
     <string name="reset_password">စကားဝှက်ပြောင်းရန်</string>
     <string name="restoring">ပြန်ယူနေသည်…</string>
+    <string name="reverse_order">နောက်ပြန်</string>
     <string name="rlv_last_refreshing_time">အပ်ဒိတ်လုပ်ထားသော %1$s</string>
     <string name="rlv_loading_more">ခေတ္တစောင့်ပါ…</string>
     <string name="rlv_pull_to_refresh">ရီဖရက်(ရှ်)လုပ်ရန်အောက်သို့ဆွဲချပါ</string>
@@ -702,6 +730,7 @@
     <string name="search_app_more">နောက်ထပ်</string>
     <string name="search_category">အမျိုးအစားများ</string>
     <string name="search_category_folder">ဖိုင်တွဲများ</string>
+    <string name="search_category_type">အမျိုးအစားအလိုက်ရှာရန်</string>
     <string name="search_description">စက်ရှိဖိုင်အားလုံးကို ရှာပါ</string>
     <string name="search_empty_view_hint">တစ်ခုမှရှာမတွေ့ပါ</string>
     <string name="search_error_hint">ရှာ​ဖွေ</string>
@@ -716,11 +745,13 @@
     <string name="search_more_category">နောက်ထပ်</string>
     <string name="search_result">ရလဒ်များ</string>
     <string name="search_result_more">နောက်ထပ်</string>
+    <string name="search_text_hint">ဖိုင်ရှာရန်</string>
     <string name="search_title">ရှာရန်</string>
     <string name="search_title_hint">ရှာရန်</string>
     <string name="select_dest_folder">ဖိုလ်ဒါ ရွေးပါ</string>
     <string name="select_image">ရုပ်ပုံများ</string>
     <string name="select_music">အသံဖိုင်များ</string>
+    <string name="select_pdf">PDF ရွေးပါ</string>
     <string name="select_video">ဗီဒီယိုဖိုင်များ</string>
     <string name="select_volume">သိုလှောင်ခန်းတည်နေရာ ရွေးပါ</string>
     <string name="send">ပို့ပါ</string>
@@ -730,6 +761,7 @@
     <string name="set_pattern">သင့်စကားဝှက်အား အဆင့်မြှင့်တင်ပါ</string>
     <string name="set_pattern_btn">သတ်မှတ်</string>
     <string name="set_pattern_msg">စကားဝှက်ပြန်သတ်မှတ်ပါ။ ဓာတ်ပုံများ၊ မက်ဆေ့(ချ်)များနှင့် မှတ်စုများအတွက် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု အကာအကွယ် စကားဝှက်ကိုလည်း သုံးနိုင်သည်။</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">%d KB ထက်သေးသည်</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -742,8 +774,10 @@
     <string name="sort_hint_name">အမည်ဖြင့်စီထားသည်</string>
     <string name="sort_hint_time">အချိန်ဖြင့်စီထားသည်</string>
     <string name="sort_hint_type">အမျိုးအစားဖြင့်စီထားသည်</string>
+    <string name="sort_mode">စီပုံစီနည်း</string>
     <string name="sort_size_asc">အသေးမှ အကြီးသို့</string>
     <string name="sort_size_desc">အကြီးမှ အသေးသို့</string>
+    <string name="sort_type">စစ်ထုတ်ရန်</string>
     <string name="start_all">အားလုံး ကြည့်ရန်</string>
     <string name="start_doc">စာရွက်စာတမ်း</string>
     <string name="start_phone">ဖိုင်များ</string>
@@ -829,6 +863,7 @@
     <string name="title_select_volume">ဖိုင်တွဲရွေးပါ</string>
     <string name="to_open">ဆက်တင်</string>
     <string name="to_setting">ဆက်တင်</string>
+    <string name="toast_copy_clipboard">ကလစ်ဘုတ်သို့ ထည့်ပြီးပါပြီ</string>
     <string name="toast_file_not_can_read">ဒီလုပ်ဆောင်မှုကို ကိုင်တွယ်ဖြေရှင်းရန်၊ မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ။</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
@@ -862,7 +897,10 @@
     <string name="utf8_title">UTF-8</string>
     <string name="video_data_consume_dialog_confirm">ရှေ့ဆက်ရန်</string>
     <string name="video_data_consume_dialog_title">မိုဘိုင်းဒေတာ သုံးလိုသလား။</string>
+    <string name="view_mode_grid">အကွက်</string>
+    <string name="view_mode_list">စီတန်း</string>
     <string name="view_type">ကြည့်ရန်</string>
+    <string name="view_type_mode">နေရာချရန်</string>
     <string name="web_sso_login_fail">သင် ထပ်မံ ဆိုင်းအင်ဝင်ရန် လိုအပ်သည်</string>
     <string name="web_sso_login_message">ဆိုင်းအင်ဝင်နေဆဲ…</string>
     <string name="webview_reload">ထပ်ကြိုးစား</string>
@@ -885,8 +923,8 @@
     <string name="wifi_state">Wi-Fi အခြေအနေ</string>
     <string name="withdraw">ရုပ်သိမ်းရန်</string>
     <string name="withdraw_consent">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
-    <string name="withdraw_consent_content">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် ဖိုင်မန်နေဂျာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ ဖိုင်မန်နေဂျာသည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် ဖိုင်မန်နေဂျာဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။</string>
-    <string name="withdraw_consent_summary">ဖိုင်မန်နေဂျာ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းရန်</string>
+    <string name="withdraw_consent_content">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် ဖိုင်မန်နေဂျာ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ ဖိုင်မန်နေဂျာသည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် ဖိုင်မန်နေဂျာဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။</string>
+    <string name="withdraw_consent_summary">ဖိုင်မန်နေဂျာ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းရန်</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yes">Yes</string>
     <string name="yesterday">မနေ့က</string>

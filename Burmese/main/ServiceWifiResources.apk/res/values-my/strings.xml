@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">လက်ခံရန်</string>
+    <string name="apm_enabled_first_time_message">လေယာဉ်ပျံမုဒ်သုံးစဉ် Wi-Fi ဆက်ဖွင့်ထားရန် သင့်စက်က မှတ်မိသည်။ Wi‑Fi ဆက်ဖွင့်မထားလိုပါက ပိတ်နိုင်သည်။</string>
+    <string name="apm_enabled_first_time_title">Wi‑Fi ဆက်ပွင့်နေသည်</string>
     <string name="decline">လက်မခံပါ</string>
     <string name="dlg_ok">OK</string>
+    <string name="notification_channel_apm_alerts">APM သတိပေးချက်များ</string>
     <string name="notification_channel_network_alerts">ကွန်ရက် သတိပေးချက်များ</string>
     <string name="notification_channel_network_available">ကွန်ရက်ချိတ်ဆက်မှု ရရှိနိုင်ပါသည်</string>
     <string name="notification_channel_network_status">ကွန်ရက် အခြေအနေ</string>
@@ -21,6 +24,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"အသိအမှတ်ပြုလက်မှတ် သက်တမ်းကုန်ဆုံးချိန်-
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"အောက်ပါအချက်အလက်များ မှန်ကန်မှသာ ဤကွန်ရက်ကို ချိတ်ဆက်ရန်ခွင့်ပြုပါ။
 
 "</string>
@@ -36,12 +43,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"လက်မှတ်-
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256 လက်ဗွေ-
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">မချိတ်ဆက်ပါနှင့်</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">မည်သို့ပင်ဖြစ်စေ ချိတ်ဆက်ရန်</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">ယခု ချိတ်ဆက်မှုဖြုတ်ရန်</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">ဆက်ချိတ်ထားရန်</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">ကွန်ရက် %1$s တွင် အသိအမှတ်ပြုလက်မှတ် မရှိပါ။</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">အသိအမှတ်ပြုလက်မှတ်များ ထည့်သွင်းပုံ လေ့လာပါ</string>
     <string name="wifi_ca_cert_dialog_preT_title">ဤကွန်ရက်ကို စိစစ်၍မရပါ</string>
@@ -79,17 +86,32 @@
     <string name="wifi_eap_error_message_code_32767">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှားကုဒ် 32767</string>
     <string name="wifi_eap_error_message_unknown_error_code">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား၊ အမှားကုဒ် မသိပါ</string>
     <string name="wifi_enable_request_dialog_message">‘အမြန် ဆက်တင်များ’ တွင် Wi‑Fi ပိတ်နိုင်သည်</string>
-    <string name="wifi_enable_request_dialog_negative_button">ခွင့်မပြုရန်</string>
+    <string name="wifi_enable_request_dialog_negative_button">ခွင့်မပြုပါ</string>
     <string name="wifi_enable_request_dialog_positive_button">ခွင့်ပြုရန်</string>
     <string name="wifi_enable_request_dialog_title">%1$s ကို Wi‑Fi ဖွင့်ခွင့်ပြုမလား။</string>
+    <string name="wifi_enabled_apm_first_time_message">Wi‑Fi ဆက်ဖွင့်ထားပါက နောက်တစ်ကြိမ်လေယာဉ်ပျံမုဒ် သုံးချိန်တွင် ၎င်းဆက်ဖွင့်ရန် သင့်စက်က မှတ်ထားမည်</string>
+    <string name="wifi_enabled_apm_first_time_title">လေယာဉ်ပျံမုဒ်တွင် Wi‑Fi ပွင့်နေသည်</string>
     <string name="wifi_interface_priority_approve">ခွင့်ပြုရန်</string>
+    <string name="wifi_interface_priority_interface_name_ap">Wi-Fi ဟော့စပေါ့</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Wi-Fi ဟော့စပေါ့</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">တိုက်ရိုက် Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">%3$s အတွက် ပြဿနာများ ဖြစ်ပေါ်နိုင်သည်။</string>
     <string name="wifi_interface_priority_message_plural">၎င်းက ဤအက်ပ်များအတွက် ပြဿနာများ ဖြစ်စေနိုင်သည်- %3$s။</string>
     <string name="wifi_interface_priority_reject">ခွင့်မပြုပါ</string>
     <string name="wifi_interface_priority_title">%1$s က ကွန်ရက်ရင်းမြစ်ကို အသုံးပြုလိုသည်</string>
+    <string name="wifi_network_disabled_by_admin_button">ပိတ်ရန်</string>
+    <string name="wifi_network_disabled_by_admin_message">သင့်စီမံခန့်ခွဲသူက %1$s ကို ပိတ်ထားသည်။</string>
+    <string name="wifi_network_disabled_by_admin_title">ကွန်ရက်မရနိုင်ပါ</string>
+    <string name="wifi_network_switch_dialog_negative_button">မပြောင်းပါနှင့်</string>
+    <string name="wifi_network_switch_dialog_positive_button">ပြောင်းရန်</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">%1$s သည် အရည်အသွေးနိမ့်သည်။ %2$s သို့ ပြောင်းမလား။</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">%1$s ကို အင်တာနက်နှင့် ချိတ်ဆက်ထားပုံမရပါ။ %2$s သို့ ပြောင်းမလား။</string>
     <string name="wifi_p2p_enter_pin_message">လိုအပ်သော ပင် နံပါတ် ရိုက်ရန်:</string>
     <string name="wifi_p2p_frequency_conflict_message">%1$s ကို ဆက်သွယ်ထားစဉ် ဖုန်းအား ဝိုင်ဖိုင်မှ ဆက်သွယ်မှု ရပ်ဆိုင်းထားပါမည်</string>
     <string name="wifi_p2p_from_message">မှ၊</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{# စက္ကန့်အတွင်း လက်ခံပါ။}other{# စက္ကန့်အတွင်း လက်ခံပါ။}}</string>
     <string name="wifi_p2p_invitation_sent_title">ဖိတ်ကြားချက် ပို့ပြီး</string>
     <string name="wifi_p2p_invitation_to_connect_title">ချိတ်ဆက်ရန် ဖိတ်ကြားချက်</string>
     <string name="wifi_p2p_show_pin_message">ပင် နံပါတ်:</string>
