@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,7 +25,7 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="btn_clear_records">
         <item quantity="other">အသံဖမ်းယူမှု %d ခုအား ဖျက်ပစ်မည်</item>
@@ -75,9 +75,6 @@
     <plurals name="recovery_failed_dialog_message">
         <item quantity="other">%d ခု ကို အမည်မသိအမှားအယွင်းကြောင့် ပြန်ယူမရပါ။</item>
     </plurals>
-    <plurals name="search_alll_records_hint">
-        <item quantity="other">အသံဖမ်းယူမှု %d ခု</item>
-    </plurals>
     <plurals name="search_app_records_hint">
         <item quantity="other">အသံဖမ်းယူမှု %d ခု</item>
     </plurals>
@@ -92,9 +89,6 @@
     </plurals>
     <plurals name="search_result">
         <item quantity="other">မှတ်တမ်း %d ခု ရှာတွေ့ထားသည်</item>
-    </plurals>
-    <plurals name="text_btn_list_with_message">
-        <item quantity="other">အသံသွင်းဖိုင် အသစ် %d ခု</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d ရက် ကျန်ပါသည်</item>

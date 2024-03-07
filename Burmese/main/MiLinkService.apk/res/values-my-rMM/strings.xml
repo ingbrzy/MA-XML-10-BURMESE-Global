@@ -8,14 +8,17 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">၁</string>
     <string name="app_ver_name">၁.၀</string>
+    <string name="cast_auth_count_down">လွှင့်တင်ခြင်းစရန် \"%1$s\" မှ ကုဒ်ကို ထည့်ပါ (%2$d စက္ကန့်)</string>
+    <string name="cast_auth_title">ကုဒ်ထည့်ပါ</string>
     <string name="cast_image_des">လွှင့်တင်ခြင်း ကျူတိုရီယယ်</string>
     <string name="casting_tips">လွှင့်တင်နေသည်…</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="close">ပိတ်</string>
+    <string name="close_auxiliary_wifi_hint">လွှင့်တင်နိုင်ရန် \"ဘန်းနှစ်ခုတွဲ Wi-Fi နှုန်းမြှင့်စနစ်\" ကို ပိတ်ပါ</string>
+    <string name="close_auxiliary_wifi_hint_china">Turn off \"Dual band WLAN speed boost\" to be able to cast</string>
+    <string name="close_dp_casting_hint">ကြိုးဖြုတ်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="close_hotspot_hint">လွှင့်တင်ခြင်းမပြုမီ အိတ်ဆောင်ဟော့စပေါ့ကို ပိတ်ပါ</string>
     <string name="close_hotspot_hint_DFS">အကြောင်းအရာများကို TV သို့ လွှဲပြောင်းရန် ဟော့စပေါ့ကို ဦးစွာပိတ်ပါ။</string>
-    <string name="close_slave_wifi_hint">လွှင့်တင်ခြင်းမပြုမီ အရန် Wi-Fi ကွန်ရက်မှ ဖြုတ်ပါ</string>
-    <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">စက်နှင့် ချိတ်မရပါ</string>
@@ -32,6 +35,7 @@
     <string name="device_desc_trust">ယုံကြည်ရသော စက်များ</string>
     <string name="dialog_can_not_find_device">အနီးအနားတွင် စက်များမတွေ့ပါ</string>
     <string name="dialog_cancle">ဖျက်သိမ်းရန်</string>
+    <string name="dialog_close">ပိတ်ရန်</string>
     <string name="dialog_connect_fail">ချိတ်မရပါ</string>
     <string name="dialog_connect_retry">ထပ်လုပ်ကြည့်ရန် တို့ပါ</string>
     <string name="dialog_connect_verify_perssion">ဦးစွာ သင့်တီဗီတွင် လွှင့်တင်ခွင့်ပေးရမည်</string>
@@ -46,8 +50,8 @@
     <string name="dialog_nearbydevice_permission_message">လွှင့်တင်ခြင်းအင်္ဂါရပ်များကို သုံးနိုင်ရန် ဤစက်အား အနီးအနားရှိစက်များကို ဖတ်ခွင့်ပေးပါ။</string>
     <string name="dialog_nearbydevice_permission_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>။ မိုဘိုင်းစက်နှင့် TV နှစ်ခုစလုံးကို Wi-Fi ကွန်ရက်တစ်ခုတည်းသို့ ချိတ်ပါ။&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>။ အချို့ TV မော်ဒယ်များတွင် မျက်နှာပြင် ပုံရိပ်ထင်ခြင်းကို ဖွင့်ထားမှ ဤအင်္ဂါရပ်ကို သုံးနိုင်ပါသည်။ပိုမိုလေ့လာရန် &lt;a href=milink://com.milink.service/specification>\"အကူအညီ\"&lt;/a> ကို ကြည့်ပါ။&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>။ မိုဘိုင်းစက်နှင့် TV နှစ်ခုစလုံးကို Wi-Fi ကွန်ရက်တစ်ခုတည်းသို့ ချိတ်ပါ။&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>။ အချို့ TV မော်ဒယ်များတွင် မျက်နှာပြင် ပုံရိပ်ထင်ခြင်းကို ဖွင့်ထားမှ ဤအင်္ဂါရပ်ကို သုံးနိုင်ပါသည်။ပိုမိုလေ့လာရန် &lt;a href=milink://com.milink.service/specification>\"အကူအညီ\"&lt;/a> ကို ကြည့်ပါ။</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
     <string name="dialog_ok">အိုကေ</string>
     <string name="dialog_only_suport_content">ဓာတ်ပုံများ၊ ဗီဒီယိုများ သို့မဟုတ် သီချင်းများ ထုတ်လွှင့်ရန်</string>
     <string name="dialog_open_wifi_bt">ဖွင့်ရန်</string>
@@ -61,6 +65,9 @@
     <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
 
 %2$d. View \"Help\" to learn more."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">လွှင့်တင်နိုင်ရန် \"ဘန်းနှစ်ခုတွဲ Wi-Fi နှုန်းမြှင့်စနစ်\" ကို ပိတ်ပါ။ ဤအင်္ဂါရပ်ကို ယခုပိတ်လိုသလား။</string>
+    <string name="dialog_scanning_close_tethering">လွှင့်တင်နိုင်ရန် ဟော့စပေါ့ပိတ်ပါ။ ဟော့စပေါ့ကို ယခုပိတ်လိုသလား။</string>
     <string name="dialog_scanning_device">အနီးအနားရှိ စက်များကို ရှာနေသည်…</string>
     <string name="dialog_scanning_precondition">ကြိုးမဲ့ပြသခြင်းစနစ်ကိုသုံးနိုင်ရန် သင့်စက်တွင် Wi-Fi နှင့် ဘလူးတုဖွင့်ပါ။</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
@@ -68,11 +75,13 @@
     <string name="dialog_select_tv">စက်ရွေးပါ (%1$d)</string>
     <string name="dialog_show_help">အကူအညီ</string>
     <string name="disconnect">လွှင့်တင်ခြင်းကို ရပ်ရန်</string>
+    <string name="dp_casting_start_hint">ကြိုးနှင့်ချိတ်ထားသည်။ လွှင့်တင်ခြင်းပြီးပါပြီ။</string>
     <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
     <string name="dual_wifi_warning_global">နှစ်ခုတွဲ Wi-Fi ကို ပိတ်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="enable_screen_projection_summary">မျက်နှာပြင်တွင်ပါဝင်သည်များကို ပြင်ပမော်နီတာသို့ လွှင့်တင်ရန်</string>
+    <string name="enable_screen_projection_summary_new">မိုဘိုင်းစက်မျက်နှာပြင်ကို အနီးအနားရှိ TV များနှင့် အခြားပြင်ပမော်နီတာများသို့ လွှင့်တင်ပါ</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -132,24 +141,32 @@
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="global_privacy">စည်းမျဉ်းစည်းကမ်းများ</string>
-    <string name="global_privacy_detail">&lt;Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပေးပါ။&lt;br>အထက်ဖော်ပြပါဝန်ဆောင်မှုများကို သုံးရန် သဘောမတူပါက ဤအက်(ပ်)၏ အင်္ဂါရပ်အချို့ကို သုံးမရဘဲ အခြေခံလုပ်ဆောင်ချက်များကိုသာ သုံးနိုင်ပါမည်။&lt;/Data></string>
+    <string name="global_privacy_detail"><Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပေးပါ။&lt;br>အထက်ဖော်ပြပါဝန်ဆောင်မှုများကိုသုံးရန် သဘောမတူပါက ဤအက်(ပ်)၏ အင်္ဂါရပ်အချို့ကို သုံးမရဘဲ အခြေခံလုပ်ဆောင်ချက်များကိုသာ သုံးနိုင်ပါမည်။</Data></string>
     <string name="global_privacy_explain">လွှင့်တင်ခြင်းမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)က အောက်ပါဝန်ဆောင်မှုများ ပေးနိုင်သည် -</string>
     <string name="global_privacy_feature">ဝင်းဒိုးများကို အောက်ချပြီး မျက်နှာပြင်ပိတ် လွှင့်တင်ကာ တစ်ကိုယ်ရေအရာများကို ဖုံးထားနိုင်သည်။</string>
     <string name="global_privacy_main">ဖုန်းမျက်နှာပြင်မှအရာများကို ပြင်ပမော်နီတာကြီးတွင် ထုတ်လွှင့်ပြသခြင်း။</string>
     <string name="global_privacy_negative">သဘောမတူပါ</string>
     <string name="global_privacy_positive">သဘောတူသည်</string>
     <string name="global_privacy_screencast">ရိုက်ကူးစဉ် သို့မဟုတ် လွှင့်တင်စဉ် ဤအင်္ဂါရပ်ကိုပံ့ပိုးသော ဝန်ဆောင်မှုက သင့်မျက်နှာပြင်၌ပြထားသော သို့မဟုတ် သင့်စက်မှဖွင့်ထားသော အသံ၊ စကားဝှက်များ၊ ငွေပေးချေအချက်အလက်များ၊ ဓာတ်ပုံများနှင့် မက်ဆေ့(ချ်)များကဲ့သို့ အရေးကြီးအချက်အလက်များကို ဖမ်းယူနိုင်သည်။</string>
-    <string name="global_privacy_tip">&lt;Data>သင့်အား အခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်နှင့် လွှင့်တင်ခြင်းကို အကောင်းဆုံးပြုလုပ်နိုင်ရန် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ ကောက်ယူရန် လိုအပ်သည်။ ကောက်ယူသောအချက်အလက်များကို ကျွန်ုပ်တို့ ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=%1$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ ဤပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒအတွက်ပေးထားသော သဘောတူခွင့်ပြုမှုကို ဆက်တင်ထဲတွင် အချိန်မရွေး ပြန်ရုပ်သိမ်းနိုင်သည်။&lt;/Data></string>
+    <string name="global_privacy_tip"><Data>သင့်အား အခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်နှင့် လွှင့်တင်ခြင်းကို အဆင့်မြှင့်နိုင်ရန် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ ကောက်ယူရန် လိုအပ်သည်။ ကောက်ယူသောအချက်အလက်များကို ကျွန်ုပ်တို့ ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=%1$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ ဤကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေးပြန်ရုပ်သိမ်းနိုင်သည်။</Data></string>
     <string name="hang_up">မျက်နှာပြင်ပိတ်လျှက် လွှင့်တင်ရန်</string>
     <string name="hang_up_alert_dialog_content">စက်မျက်နှာပြင် ပိတ်ထားချိန်တွင်လည်း ဆက်လက်လွှင့်တင်ပါ။ ဤအင်္ဂါရပ်သုံးခြင်းဖြင့် ဓာတ်ခဲသက်သာသည်။ မျက်နှာပြင်ပြန်ဖွင့်ရန် ပါဝါခလုတ်ကို နှိပ်ပါ။</string>
     <string name="hang_up_alert_dialog_neg">ဖျက်သိမ်းရန်</string>
     <string name="hang_up_alert_dialog_pos">အိုကေ</string>
     <string name="hang_up_alert_dialog_title">မျက်နှာပြင်ပိတ်လျှက် လွှင့်တင်ပါတော့မည်…</string>
+    <string name="head_toast_connecting">ချိတ်နေသည်…</string>
+    <string name="head_toast_fail">ချိတ်မရပါ</string>
+    <string name="head_toast_success">အောင်မြင်စွာချိတ်ပြီးပါပြီ</string>
+    <string name="help_page_question_1st_01_international">"%1$d။ သင်လွှင့်တင်သောစက်သည် Xiaomi TV ဖြစ်ပါက ၎င်းတွင် Miracast ဖွင့်ပါ။
+%2$d။ Xiaomi မဟုတ်သော TV များတွင် လွှင့်တင်ပါက TV တွင် Miracast ပံ့ပိုးပြီး ဤအင်္ဂါရပ်ကို ဖွင့်ထားကြောင်း သေချာပါစေ။ အင်္ဂါရပ်သည် အချို့ TV မော်ဒယ်များတွင် ကြိုးမဲ့ပြသမှု၊ မျက်နှာပြင်ပုံရိပ်ဖမ်းခြင်း သို့မဟုတ် မျက်နှာပြင်အမြောက်အမြား စသည်ဖြင့် အမည်ကွဲနိုင်သည်။"</string>
+    <string name="help_page_setp_1st_02_international">%1$d။ အချို့တံဆိပ် TV များတွင် Miracast အလိုအလျောက် ဖွင့်ထားနိုင်သည်။</string>
+    <string name="help_page_step_1st_01_international">%1$d။ Xiaomi TV တွင် Miracast ဖွင့်ပါ။</string>
     <string name="help_page_text_01">အကူအညီ</string>
     <string name="help_page_text_02">လွှင့်တင်ခြင်းဆိုတာ ဘာလဲ။</string>
     <string name="help_page_text_03">လွှင့်တင်ခြင်းဆိုသည်မှာ သင့်ဖုန်းမျက်နှာပြင်ရှိအရာများကို ပြင်ပမော်နီတာကြီးတစ်ခု၌ ပေါ်စေခြင်းဖြစ်သည်။ ၎င်းကိုသုံးပြီး မိုဘိုင်းဒေတာ မလိုဘဲ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို သင့်မိတ်ဆွေများနှင့် မိသားစုများထံ မျှဝေနိုင်သည်။</string>
     <string name="help_page_text_04">မျက်နှာပြင်ကြီးတွင် ဘယ်လို လွှင့်တင်မလဲ။</string>
     <string name="help_page_text_05">အဆင့် %1$d - သင့်စက်များနှင့် ကွန်ရက်ပတ်ဝန်းကျင်ကို စစ်ပါ</string>
+    <string name="help_page_text_05_new">အဆင့် %1$d - သင့်စက်များနှင့် ကွန်ရက်ပတ်ဝန်းကျင်ကို စစ်ပါ</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
 Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
 Note: Older TV models might not support casting across different networks.
@@ -160,13 +177,33 @@ If the two devices can't be connected to the same network, turn on Miracast on y
 သတိပြုရန် - တီဗီမော်ဒယ်အဟောင်းများအတွက် ကွန်ရက်မတူလျှင် လွှင့်တင်ခြင်းကို ပံ့ပိုးရန် မသေချာပါ။
 %2$d တီဗီများ၊ set-top သေတ္တာများ သို့မဟုတ် ပရိုဂျက်တာများသည် အခြားတံဆိပ်ဖြစ်ပါက သင့်မိုဘိုင်းစက်နှင့် ပြင်ပမော်နီတာကို Wi-Fi ကွန်ရက်တစ်ခုတည်းသို့ ချိတ်ပါ။
 ကွန်ရက်တစ်ခုတည်းတွင် စက်နှစ်ခုချိတ်မရပါက ပြင်ပမော်နီတာတွင် Miracast ဖွင့်ပါ။ Miracast အမည်ကိုလိုက်၍ လုပ်ဆောင်ချက် အမျိုးမျိုးရှိနိုင်သည်။"</string>
+    <string name="help_page_text_06_new_1">Xiaomi TV များ၊ STB ပုံးများနှင့် ပရိုဂျက်တာများ -</string>
+    <string name="help_page_text_06_new_2">"%1$d။ သင့်မိုဘိုင်းစက်နှင့် ပြင်ပမော်နီတာကို Wi-Fi ကွန်ရက်တစ်ခုတည်းတွင် ချိတ်ထားကြောင်း သေချာပါစေ။
+%2$d။ အချို့ Xiaomi TV များတွင် TV မှ လွှင့်တင်ခြင်းကို စနစ်သတ်မှတ်နိုင်ပြီး စက်ရှာဖွေရေးနှင့် အတည်ပြုနည်းလမ်းများကိုလည်း စိတ်ကြိုက်ပြုလုပ်နိုင်သည်။"</string>
+    <string name="help_page_text_06_new_3">*TV အတွက် လွှင့်တင်ခြင်းစိတ်ကြိုက်များကို လွှင့်တင်ခြင်းဆက်တင်တွင် သတ်မှတ်နိုင်သည်။</string>
+    <string name="help_page_text_06_new_4">Xiaomi မဟုတ်သော TV များ၊ STB ပုံးများနှင့် ပရိုဂျက်တာများ -</string>
+    <string name="help_page_text_06_new_5">"%1$d။ သင့်မိုဘိုင်းစက်နှင့် ပြင်ပမော်နီတာကို Wi-Fi ကွန်ရက်တစ်ခုတည်းတွင် ချိတ်ထားကြောင်း သေချာပါစေ။
+%2$d။ အချို့ တံဆိပ် TV များတွင် လွှင့်တင်ခြင်းလုပ်နိုင်ရန် Miracast ဖွင့်ရပါမည်။"</string>
+    <string name="help_page_text_06_new_6">ပိုမိုလေ့လာရန်</string>
     <string name="help_page_text_08">အဆင့် %1$d - လွှင့်တင်ခြင်းကို ဖွင့်ပါ</string>
+    <string name="help_page_text_08_new">အဆင့် %1$d - လွှင့်တင်ခြင်းကို ဖွင့်ပါ</string>
     <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_09_global">သင့်မိုဘိုင်းစက် အသိပေးချက်အရိပ်ရှိ \"လွှင့်တင်ရန်\" ခလုတ်ကို တို့ပါ။ လိုင်းပိုငြိမ်စေရန် Wi-Fi နှင့် ဘလူးတု နှစ်ခုလုံးကို ဖွင့်ထားပါ။</string>
+    <string name="help_page_text_09_new_1">သင့်စက်၏ ထိန်းချုပ်စင်တာတွင် လွှင့်တင်ခြင်းကိုဖွင့်ပြီး ပြင်ပမော်နီတာကို ရှာပါ။</string>
     <string name="help_page_text_10">ဓာတ်ပုံများ၊ ဗီဒီယိုများ၊ ဂိမ်းများ သို့မဟုတ် တင်ဆက်မှုများ လွှင့်တင်လိုပါက သက်ဆိုင်ရာအက်(ပ်)များတွင် အသင့်ပါပြီးသော လွှင့်တင်ခြင်းအင်္ဂါရပ်များကို သုံးနိုင်သည်။</string>
     <string name="help_page_text_11">အဆင့် %1$d - စက်ရွေးပါ</string>
+    <string name="help_page_text_11_new">အဆင့် %1$d - စက်ရွေးပါ</string>
     <string name="help_page_text_12">လွှင့်တင်ခြင်းစတင်ရန် ရရှိနိုင်သော စက်များစာရင်းမှ ပြင်ပစက်တစ်ခုကို ရွေးပါ</string>
+    <string name="help_page_text_12_new_1">လွှင့်တင်ခြင်းစတင်ရန် ရနိုင်သော စက်စာရင်းမှ ပြင်ပစက်တစ်ခုကို ရွေးပါ။</string>
     <string name="help_page_text_13">ပြင်ပစက်နှင့် ချိတ်မရဘူးလား။</string>
+    <string name="help_page_text_13_act_label_1">မေးလေ့ရှိသော မေးခွန်းများ</string>
+    <string name="help_page_text_13_desc_1">"%1$d။ သင့်မိုဘိုင်းစက်နှင့် ပြင်ပမော်နီတာကို Wi-Fi ကွန်ရက် သို့မဟုတ် ဟော့စပေါ့ တစ်ခုတည်းတွင် ချိတ်ထားကြောင်း သေချာပါစေ။
+%2$d။ ကွန်ရက်ပတ်ဝန်းကျင် ငြိမ်နေရပါမည်။ မငြိမ်ပါက ရောက်ဒါကိုအပိတ်အဖွင့်လုပ်ကြည့်ပါ သို့မဟုတ် %3$d GHz ကွန်ရက်ဘန်းသို့ ပြောင်းပါ။
+%4$d။ Xiaomi TV သို့ လွှင့်တင်ချိန်၌ TV တွင် ကြိုးမဲ့လွှင့်တင်ခြင်းအင်္ဂါရပ်ကို ဖွင့်ထားပါ။ ချိတ်နေစဉ် လွှင့်တင်ခြင်းစာမျက်နှာတွင် ဆက်နေပါ။
+%5$d။ ကုမ္ပဏီများနှင့် ကျောင်းများကဲ့သို့ အချို့သော အများသုံး LAN များတွင် LAN တစ်ခုတည်းရှိ စက်များကို ရှာနိုင်စွမ်းအား မပံ့ပိုးပါ။"</string>
+    <string name="help_page_text_13_desc_2">အချို့ TV များတွင် လွှင့်တင်စဉ်၌ LAN မဟုတ်သော လိုင်းများကိုသုံးသည်။ ဤစက်များအတွက် ကွန်ရက်မှပြုတ်သွားခြင်းက ပုံမှန်ဖြစ်သည်။ လွှင့်တင်ခြင်းပြီးဆုံး၍ %1$d-%2$d စက္ကန့်အတွင်း ပြန်ဆက်တတ်သည်။</string>
+    <string name="help_page_text_13_summary_1">ပြင်ပစက်နှင့် ချိတ်မရပါ</string>
+    <string name="help_page_text_13_summary_2">လွှင့်တင်စဉ် ကွန်ရက်လိုင်းပြတ်တောက်ခြင်းများ</string>
     <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
 Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
 %2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
@@ -182,6 +219,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_17">"Mi ဖုန်းမှအရာများကို ဘလူးတုပါသော Mi တီဗီမော်ဒယ်များ၌ Miracast ကို ကိုယ်တိုင်ဖွင့်စရာမလိုဘဲ ပြသနိုင်သည်။
 Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ်ကို ဖွင့်ပြီး ကျွန်ုပ်၏ အက်(ပ်)များ > လွှင့်တင်ခြင်း > Miracast ကို ရွေးပါ။"</string>
     <string name="help_page_text_17_1">Xiaomi ကူညီရေးရာဌာန - 400-100-5678</string>
+    <string name="help_page_text_17_content">You can project items from your Xiaomi phone on most Xiaomi TV models with Bluetooth capabilities without turning on Miracast manually. If you need to turn on Miracast, press the [MENU] button and start casting by using the option for other Android phones.</string>
     <string name="help_page_text_18">Samsung တီဗီ</string>
     <string name="help_page_text_19">ဦးစွာ သင့်စက်တွင် Miracast လုပ်ဆောင်ချက်ကို ပံ့ပိုးပေးမပေး စစ်ပါ။ အချို့မော်ဒယ်များတွင် အဝေးထိန်းခလုတ်ရှိ [SOURCE] ကို နှိပ်ပြီး \"မျက်နှာပြင်အမြောက်အမြား\" ကို ရွေးရပါသည်။ ဤအင်္ဂါရပ်သည် မော်ဒယ်အများစုတွင် မူလကပင် ပွင့်လျက်ပါရှိသည်။</string>
     <string name="help_page_text_20">Samsung ကူညီရေးရာဌာန - 400-810-5858</string>
@@ -227,18 +265,18 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="invisible_mode_dialog_content_audio_relay">ရုပ်ဖျက်မုဒ်ထဲရောက်နေစဉ် ပြန်ဖွင့်ခြင်းကို လွှဲပြောင်းမရပါ။ ရုပ်ဖျက်မုဒ်ကို ဦးစွာပိတ်ပါ။</string>
     <string name="invisible_mode_dialog_pos">ပိတ်ရန်</string>
     <string name="invisible_mode_dialog_title">သင်ရုပ်ဖျက်မုဒ်ထဲရောက်နေသည်</string>
-    <string name="keyguard_security_setting_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="keyguard_security_setting_privacy_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -314,20 +352,20 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="paipai_connect_tv2_text">လွှဲပြောင်းထားသော ဒေတာများ</string>
     <string name="paipai_error_dialog_msg">သင့်ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="paipai_error_dialog_negative">ရပါပြီ</string>
-    <string name="path_setting_cast">ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း/ကာစ်လုပ်ခြင်း</string>
-    <string name="path_setting_cast_demo">ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ</string>
-    <string name="path_setting_cast_demo_document">ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ/မှတ်တမ်းများ</string>
-    <string name="path_setting_cast_demo_gallery">ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ/ဓာတ်ပုံများနှင့် ဗီဒီယိုများ</string>
-    <string name="path_setting_cast_demo_game">ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အစမ်းပြသမှုများ/ဂိမ်းများ</string>
-    <string name="path_setting_cast_feature">ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အထူးအင်္ဂါရပ်များ</string>
-    <string name="path_setting_cast_help">ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း/ကာစ်လုပ်ခြင်း/အကူအညီ</string>
+    <string name="path_setting_cast">အခြား ချိတ်ဆက်နည်း ရွေးချယ်မှုများ/လွှင့်တင်ခြင်း</string>
+    <string name="path_setting_cast_demo">အခြား ချိတ်ဆက်နည်း ရွေးချယ်မှုများ/လွှင့်တင်ခြင်း/သရုပ်ပြများ</string>
+    <string name="path_setting_cast_demo_document">အခြား ချိတ်ဆက်နည်း ရွေးချယ်မှုများ/သရုပ်ပြများ/စာရွက်စာတမ်းများ</string>
+    <string name="path_setting_cast_demo_gallery">အခြား ချိတ်ဆက်နည်း ရွေးချယ်မှုများ/သရုပ်ပြများ/ဓာတ်ပုံနှင့် ဗီဒီယိုများ</string>
+    <string name="path_setting_cast_demo_game">အခြား ချိတ်ဆက်နည်း ရွေးချယ်မှုများ/သရုပ်ပြများ/ဂိမ်းများ</string>
+    <string name="path_setting_cast_feature">အခြား ချိတ်ဆက်နည်း ရွေးချယ်မှုများ/လွှင့်တင်ခြင်း/အထူးအင်္ဂါရပ်များ</string>
+    <string name="path_setting_cast_help">အခြား ချိတ်ဆက်နည်း ရွေးချယ်မှုများ/လွှင့်တင်ခြင်း/အကူအညီ</string>
     <string name="permission_allowed">ခွင့်ပြုထားသည်</string>
     <string name="permission_uballowed">ခွင့်မပြုထားပါ</string>
     <string name="pm">ညနေ</string>
     <string name="pre_privacy_setting_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="privacy_agree">သဘောတူသည်</string>
     <string name="privacy_detail">ရှေ့မဆက်မီ ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပြီး လိုအပ်သော ခွင့်ပြုချက်များကို ပေးပါ။</string>
-    <string name="privacy_detail_extra">&lt;Data>အချို့သော အင်္ဂါရပ်များကို ပြင်ပဝန်ဆောင်မှုကုမ္ပဏီဖြစ်သော HappyCast မှ ပံ့ပိုးသည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ &lt;a href=%1$s>HappyCast ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=%2$s>HappyCast တရားဝင်ထုတ်ပြန်ချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="privacy_detail_extra"><Data>အချို့သော အင်္ဂါရပ်များကို ပြင်ပဝန်ဆောင်မှုကုမ္ပဏီဖြစ်သော HappyCast မှ ပံ့ပိုးသည်။ ဤအင်္ဂါရပ်ကိုမသုံးမီ &lt;a href=%1$s>HappyCast ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> နှင့် &lt;a href=%2$s>HappyCast တရားဝင်ထုတ်ပြန်ချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="privacy_explain">လွှင့်တင်ခြင်းမှ ကြိုဆိုပါသည်။ လွှင့်တင်ခြင်းတွင် သင့်ဖုန်းမျက်နှာပြင်မှ အရာများကို ပိုကြီးသော ပြင်ပမော်နီတာတွင် လွှင့်တင်ခွင့်ပြုသည်။ ဤအက်(ပ်) ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ပြီး အောက်ပါ ခွင့်ပြုချက်များ ပေးရန်လိုသည်။</string>
     <string name="privacy_negative">ထွက်ရန်</string>
     <string name="privacy_permission_ble">ဘလူးတု ဖွင့်ခြင်းနှင့် ပိတ်ခြင်း</string>
@@ -352,28 +390,28 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="privacy_permission_wlan_desc_china">အနီးအနားတွင် ရနိုင်သော စက်များကို ရှာရန်</string>
     <string name="privacy_positive">သဘောတူရန်</string>
     <string name="privacy_revoke_confirm_cancel">မလုပ်တော့ရန်</string>
-    <string name="privacy_revoke_confirm_message">လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ပေးရသော ဝန်ဆောင်မှုများကို ကျွန်ုပ်တို့အား ပေးခွင့်မပြုပါက လွှင့်တင်ခြင်းအင်္ဂါရပ်များကို ဆက်သုံးမရပါ။ HappyCast ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို မဖြစ်မနေ ရုပ်သိမ်းလိုသလား။</string>
+    <string name="privacy_revoke_confirm_message">လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ပေးရသော ဝန်ဆောင်မှုများကို ကျွန်ုပ်တို့အား ပေးခွင့်မပြုပါက လွှင့်တင်ခြင်းအင်္ဂါရပ်များကို ဆက်သုံးမရပါ။ HappyCast ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို မဖြစ်မနေ ရုပ်သိမ်းလိုသလား။</string>
     <string name="privacy_revoke_confirm_sure">အိုကေ</string>
     <string name="privacy_revoke_confirm_title">ဝန်ဆောင်မှုများ သုံးမရပါ</string>
     <string name="privacy_revoke_dialog_agree">သဘောတူပါသည်</string>
-    <string name="privacy_revoke_dialog_message">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် HappyCast ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ HappyCast သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် HappyCast ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
+    <string name="privacy_revoke_dialog_message">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် HappyCast ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ HappyCast သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် HappyCast ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
     <string name="privacy_revoke_dialog_revoke">ရုပ်သိမ်းရန်</string>
     <string name="privacy_revoke_dialog_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
-    <string name="privacy_setting_category_1">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="privacy_setting_category_2">HappyCast ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="privacy_setting_category_1">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
+    <string name="privacy_setting_category_2">HappyCast ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="privacy_setting_category_3">ခွင့်ပြုချက်များ</string>
     <string name="privacy_setting_permission_manager">ခွင့်ပြုချက်များစီမံရန်</string>
-    <string name="privacy_setting_revoke_lelink_policy">HappyCast ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်း</string>
+    <string name="privacy_setting_revoke_lelink_policy">HappyCast ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်း</string>
     <string name="privacy_setting_show_authority">ခွင့်ပြုချက်အသေးစိတ်</string>
     <string name="privacy_setting_show_lelink_law">HappyCast တရားဝင်ထုတ်ပြန်ချက်ကို ကြည့်ရန်</string>
-    <string name="privacy_setting_show_lelink_policy">HappyCast ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို ကြည့်ရန်</string>
-    <string name="privacy_setting_show_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
+    <string name="privacy_setting_show_lelink_policy">HappyCast ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
+    <string name="privacy_setting_show_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="privacy_setting_show_user_agreement">အသုံးပြုသူသဘောတူညီချက်ကို ကြည့်ရန်</string>
-    <string name="privacy_text_1">"&lt;Data>လွှင့်တင်ခြင်းမှ ကြိုဆိုပါသည်။ လွှင့်တင်ခြင်းသုံးပြီး သင့်ဖုန်းမျက်နှာပြင်ရှိအရာများကို ပြင်ပမော်နီတာကြီးတစ်ခု၌ ပြသနိုင်သည်။
-ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။ အချို့အင်္ဂါရပ်များကို ပြင်ပဝန်ဆောင်မှုကုမ္ပဏီဖြစ်သော HappyCast မှ ရယူသည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ &lt;a href=%2$s>HappyCast တရားဝင်ထုတ်ပြန်ချက်&lt;/a> နှင့် &lt;a href=%1$s> HappyCast ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။
-ဤအက်သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့် ချိတ်ရန်လိုအပ်ပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်များလိုအပ်သည်- &lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုပါက သို့မဟုတ် ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ခြင်းနှင့် မျှဝေခြင်း မပြုလုပ်လိုပါက ဤအက်(ပ်)ကို သုံးမရပါ။ သို့ဖြစ်ပါက အက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ဆက်တင်ထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ထားနိုင်သည်။
-ဤအင်္ဂါရပ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data>"</string>
+    <string name="privacy_text_1"><Data>"လွှင့်တင်ခြင်းမှ ကြိုဆိုပါသည်။ လွှင့်တင်ခြင်းသုံးပြီး သင့်ဖုန်းမျက်နှာပြင်ရှိအရာများကို ပြင်ပမော်နီတာကြီးတစ်ခု၌ ပြသနိုင်သည်။
+ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့် ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။ အချို့အင်္ဂါရပ်များကို ပြင်ပဝန်ဆောင်မှုကုမ္ပဏီဖြစ်သော HappyCast မှ ရယူသည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ &lt;a href=%2$s>HappyCast တရားဝင်ထုတ်ပြန်ချက်&lt;/a> နှင့် &lt;a href=%1$s> HappyCast ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။
+ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အင်တာနက်ချိတ်ရန်လိုအပ်ပြီး သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူနိုင်ရန်အတွက် အောက်ပါ ခွင့်ပြုချက်များလိုအပ်သည်- "</Data></string>
+    <string name="privacy_text_2"><Data>"သင်သည် အဆိုပါခွင့်ပြုချက်များမပေးလိုပါက သို့မဟုတ် ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ခြင်းနှင့် မျှဝေခြင်း မပြုလုပ်လိုပါက ဤအက်(ပ်)ကို သုံးမရပါ။ သို့ဖြစ်ပါက အက်(ပ်)ကို ပြန်ဖြုတ်နိုင်သည်၊ အကောင့်မှထွက်နိုင်သည် သို့မဟုတ် ဆက်တင်ထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ထားနိုင်သည်။
+ဤအင်္ဂါရပ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။"</Data></string>
     <string name="privacy_text_pemission">"　　•သင့်စက်ရှိ ဓာတ်ပုံများကို ပြင်ပမော်နီတာတွင် လွှင့်တင်နိုင်ရန် ခွင့်ပြုချက်ပေးပြီး သိမ်းထားပါ
 　　•ဖုန်းခေါ်ဆိုမှုများကို ပြင်ပမော်နီတာတွင် လွှင့်တင်နိုင်ရန် အသံသွင်းပါ
 　　•သင့်စက်ကို စိစစ်နိုင်ရန် ဖုန်းနံပါတ်၊ IMEI နှင့် IMSI တို့ကို ဖတ်ခွင့်ပြုပါ
@@ -395,22 +433,38 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="scan_wifi_label_global">Wi-Fi ချိတ်ပါ</string>
     <string name="screen_projection">လွှင့်တင်ရန်</string>
     <string name="screen_projection_characteristics">အထူးအင်္ဂါရပ်များ</string>
+    <string name="screen_projection_characteristics_cast_summary">အနီးအနားရှိ TV တွင် မျက်နှာပြင်မှအရာများ လွှင့်တင်ရန်</string>
+    <string name="screen_projection_characteristics_hang_up_summary_new">ဓာတ်ခဲချွေတာရန်နှင့် အပူလွန်ခြင်းကိုရှောင်ရန် လွှင့်တင်နေစဉ် မိုဘိုင်းစက်မျက်နှာပြင်ကို ပိတ်ထားပါ</string>
     <string name="screen_projection_characteristics_off_screen_summary">စက်မျက်နှာပြင် ပိတ်ထားချိန်တွင်လည်း ဆက်လက်လွှင့်တင်နိုင်သည်။ ဤအင်္ဂါရပ်သုံးခြင်းဖြင့် ဓာတ်ခဲသက်သာသည်။</string>
     <string name="screen_projection_characteristics_off_screen_title">မျက်နှာပြင်ပိတ်လျှက် လွှင့်တင်ရန်</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">တက်လာသော အသိပေးချက်များ၊ အဝင်ဖုန်းများနှင့် အခြားကိုယ်ရေးကိုယ်တာဒေတာများကို ပြင်ပမော်နီတာတွင် မပြပါနှင့်။</string>
     <string name="screen_projection_characteristics_privacy_protect_title">ကိုယ်ရေးကိုယ်တာများကို ဖုံးထားနိုင်သည်</string>
+    <string name="screen_projection_characteristics_private_summary_new">သင့်တစ်ကိုယ်ရေကိုကာကွယ်ပါ - လွှင့်တင်နေစဉ် သင့်စက်က မျောလွင့်အသိပေးချက်များ၊ အဝင်ဖုန်းများနှင့် အခြားတစ်ကိုယ်ရေအကြောင်းအရာများကို ပြသမည်မဟုတ်ပါ။</string>
     <string name="screen_projection_characteristics_small_window_summary">သင့်ဖုန်းတွင် အခြားအင်္ဂါရပ်များသုံးနိုင်ရန်အတွက် လွှင့်တင်နေသော မျက်နှာပြင်ကို အောက်ချထားနိုင်သည်။</string>
+    <string name="screen_projection_characteristics_small_window_summary_new">မျက်နှာပြင်ကိုလွှင့်တင်ပြီး အခြားအက်(ပ်)များသုံးစဉ် မျက်နှာပြင်အကြောင်းအရာများကို မျောလွင့်အကွက်တွင် ပြပါ</string>
     <string name="screen_projection_characteristics_small_window_title">မျက်နှာပြင်ကို အောက်ချထားရန်</string>
+    <string name="screen_projection_entrance_list">ရနိုင်သောစက်များကို ကြည့်ရန်</string>
+    <string name="screen_projection_entrance_list_new">လွှင့်တင်ခြင်းအတွက် ရနိုင်သော စက်စာရင်းကိုကြည့်ပါ</string>
+    <string name="screen_projection_example_document_hint_miui15">*အကြောင်းအရာများကို အနီးအနားရှိ TV တွင်ပြပါမည်</string>
+    <string name="screen_projection_example_document_hint_new"><Data>*ဤအင်္ဂါရပ်သုံးရန် ဖိုင်များ > စာရွက်စာတမ်းများသို့ သွားပြီး &lt;img src=../drawable/ic_cast_icon_photo.png/> သင်္ကေတကိုတို့ပါ။</Data></string>
     <string name="screen_projection_example_document_summary">ဖုန်းတွင် ဆလိုက်များနှင့် မှတ်စုများကို အပြန်အလှန်ပြောင်းသုံးပြီး ပြင်ပမော်နီတာတွင် တင်ဆက်ပြသမှု ပြုလုပ်နိုင်သည်။ ဤအင်္ဂါရပ်ကို စမ်းရန် ဖိုင်မန်နေဂျာ > Docs သို့ သွားပါ။</string>
+    <string name="screen_projection_example_document_summary_miui15">ဤစက်ကို ရီမုတ်အဖြစ်သုံးပြီး တင်ဆက်မှုဆလိုက်များကို TV တွင်ပြရန်</string>
     <string name="screen_projection_example_document_title">စာရွက်စာတမ်းများ</string>
+    <string name="screen_projection_example_gallery_hint_miui15">*ဓာတ်ပုံနှင့် ဗီဒီယိုများလွှင့်တင်နိုင်ရန် ပြခန်းတွင် အကြောင်းအရာတစ်ခုရွေးပြီး \"မျှဝေရန်\" ကို တို့ပြီးနောက် \"လွှင့်တင်ရန်\" သင်္ကေတကို တို့ပါ။</string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>*ဤအင်္ဂါရပ်သုံးရန် ပြခန်းသို့သွားပြီး ပုံတစ်ပုံရွေးပါ၊ အောက်ဘားတန်းရှိ \"ပို့ရန်\" ကို တို့ပြီး &lt;img src=../drawable/ic_cast_icon_photo.png/> သင်္ကေတကိုတို့ပါ။</Data></string>
     <string name="screen_projection_example_gallery_summary">ပြခန်းအက်(ပ်)ထဲမှအရာတစ်ခုကို ပြင်ပမော်နီတာတွင် ပြသရန် ၎င်း၏ အောက်ဘက်ရှိ မျှဝေရန် ခလုတ်ကို တို့ပါ။</string>
+    <string name="screen_projection_example_gallery_summary_miui15">သင့်ဓာတ်ပုံနှင့် ဗီဒီယိုများကို TV တွင် ကြည့်ရန်</string>
     <string name="screen_projection_example_gallery_title">ဓာတ်ပုံများနှင့် ဗီဒီယိုများ</string>
+    <string name="screen_projection_example_game_hint_miui15">"*ဂိမ်းများလွှင့်တင်နိုင်ရန် ဂိမ်းကစားစဉ် ဂိမ်းတာဘိုတွင် \"လွှင့်တင်ရန်\" ကို တို့ပါ။
+ဂိမ်းများမလွှင့်တင်မီ ဂိမ်းတာဘိုဖွင့်ထားပါ။"</string>
     <string name="screen_projection_example_game_summary">ဂိမ်းအရှိန်မြင့်စနစ်က ဂိမ်းများကို ပြင်ပမော်နီတာတွင် အမြဲလွှင့်တင်ခွင့်ပြုသည်။ ဤအင်္ဂါရပ်ကိုဖွင့်ရန် ဂိမ်းအရှိန်မြှင့်စနစ် ကိရိယာပုံးရှိ ဖြတ်လမ်းကို သုံးနိုင်သည်။</string>
+    <string name="screen_projection_example_game_summary_miui15">ဂိမ်းဆက်ရှင်များကို TV တွင် ကြည့်ရန်</string>
     <string name="screen_projection_example_game_title">ဂိမ်းများ</string>
     <string name="screen_projection_help">အကူအညီ</string>
     <string name="screen_projection_sample_summary">စာရွက်စာတမ်းများ၊ ဂိမ်းများ၊ ဓာတ်ပုံများနှင့် ဗီဒီယိုများ လွှင့်တင်ခြင်း</string>
     <string name="screen_projection_sample_title">အစမ်းသုံး</string>
     <string name="screen_projection_title">လွှင့်တင်ရန်</string>
+    <string name="screen_projection_title_miui15">လွှင့်တင်ရန်</string>
     <string name="send">ပို့ပါ</string>
     <string name="show_result_on_tv">ရလဒ်များကို TV တွင် ကြည့်ပါ</string>
     <string name="small_window">မျက်နှာပြင်ကို အောက်ချထားရန်</string>
@@ -465,6 +519,7 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>
     <string name="tile_label">လွှင့်တင်ရန်</string>
+    <string name="tile_label_v2">အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများ</string>
     <string name="time_picker_dialog_title">နာရီတိုက်ရန်</string>
     <string name="time_picker_label_hour">နာရီ</string>
     <string name="time_picker_label_minute">မိနစ်</string>
@@ -482,7 +537,7 @@ Miracast ဖွင့်ရန်လိုအပ်ပါက [MENU] ခလုတ
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="trust_device_desc">အနီးအနားတွင် ရှိနေသောအခါ ဤစက်များ ဦးစွာပေါ်လာပါမည်</string>
-    <string name="trust_device_dialog_desc">&lt;Data>%s ကို ယုံကြည်သည်ဟု သင်မှတ်သားထားပါက အနီးအနား၌ ၎င်းရှိနေသောအချိန်တွင် ရရှိနိုင်သော စက်များအကြား ၎င်းက ဦးစွာပေါ်လာပါမည်။&lt;br>&lt;br>သင့်အနေဖြင့် ဆက်တင်များအတွင်းတွင် &lt;a href=milink://com.milink.service/trust>ယုံကြည်ရသော စက်များကို စီမံနိုင်သည်&lt;/a>။&lt;/Data></string>
+    <string name="trust_device_dialog_desc"><Data>%s ကို ယုံကြည်သည်ဟု သင်မှတ်သားထားပါက အနီးအနား၌ ၎င်းရှိနေသောအချိန်တွင် ရရှိနိုင်သော စက်များအကြား ၎င်းက ဦးစွာပေါ်လာပါမည်။&lt;br>&lt;br>သင့်အနေဖြင့် ဆက်တင်များအတွင်းတွင် &lt;a href=milink://com.milink.service/trust>ယုံကြည်ရသော စက်များကို စီမံနိုင်သည်&lt;/a>။</Data></string>
     <string name="trust_device_dialog_pos">ယုံကြည်ရသော</string>
     <string name="trust_device_dialog_title">ဤစက်ကို ယုံကြည်ပါသလား။</string>
     <string name="trust_device_manager">ယုံကြည်ရသောစက်များကို စီမံရန်</string>

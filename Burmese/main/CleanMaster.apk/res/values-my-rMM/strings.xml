@@ -25,6 +25,7 @@
     <string name="activity_title_uninstall_apps">အက်ပ်များ</string>
     <string name="activity_title_video">ဗီဒီယိုအားဖျက်မည်လား</string>
     <string name="activity_title_white_list">ခြွင်းချက်များ</string>
+    <string name="ad_flag_text">ကြော်ငြာ</string>
     <string name="ad_install_success_dialog_lunch">ဖွင့်</string>
     <string name="ad_install_success_dialog_title">%1$s ကိုအောင်မြင်စွာ ထည့်ပြီးပါပြီ။ ယခုဖွင့်မည်လား?</string>
     <string name="afternoon">နေ့လယ်</string>
@@ -192,6 +193,7 @@
     <string name="dc_item_title_wechat_chat">WeChat မှတ်တမ်းကို ရှင်းပါ</string>
     <string name="dc_storage_cleaned">%s လွတ်သွားပါပြီ</string>
     <string name="dc_storage_info">ရရှိနိုင်သော - %1$s | စုစုပေါင်း - %2$s</string>
+    <string name="dc_storage_info_new">%1$s ရနိုင်သည်</string>
     <string name="deep_clean_completed_tips">အောင်မြင်စွာရှင်းလင်းပြီး</string>
     <string name="deep_clean_data_path_clean_title">ယာယီမှတ်ဉာဏ်အား ရှင်းလင်း</string>
     <string name="deep_clean_uninstall_completed_tips">အောင်မြင်စွာ ဖြုတ်ချခဲ့သည်</string>
@@ -255,6 +257,7 @@
     <string name="download">ဒေါင်းလုဒ်</string>
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="early_morning">နံနက်</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">တစ်ခုမှမရှိပါ</string>
     <string name="empty_content_no_privacy">ဘာမှ မရှိပါ</string>
     <string name="empty_content_no_similar_image">ဓာတ်ပုံများမရှိ</string>
@@ -402,7 +405,6 @@
     <string name="guide_dc_dialog_negative">ဖျက်သိမ်းရန်</string>
     <string name="guide_dc_dialog_positive">အိုကေ</string>
     <string name="guide_dc_dialog_title">သိုလှောင်ခန်းနေရာ နည်းနေပါပြီ</string>
-    <string name="guide_secure_dialog_message">ပိုမိုကောင်းမွန်အောင် လုပ်ဆောင်ခြင်း ရမှတ်မှာ ၈၀ ထက်နည်းနေသည်။ ပိုကောင်းအောင်လုပ်မလား?</string>
     <string name="guide_secure_dialog_message_new">စက်၏ အဆင့်မြှင့်ရမှတ်သည် %d မှတ်အောက် လျော့နေသည်။ ယခုအဆင့်မြှင့်လိုသလား။</string>
     <string name="guide_secure_dialog_negative">ပယ်ဖျက်မည်</string>
     <string name="guide_secure_dialog_positive">အဆင့်မြှင့်တင်မည်</string>
@@ -430,6 +432,7 @@
     <string name="hints_garbage_cleanup_result_safe">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေသည်</string>
     <string name="hints_garbage_handle_item_content">အိုင်တမ် %1$dခု၊ %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">အလွတ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">အသုံးနည်းသော</string>
     <string name="hints_installed_app_near">မကြာခဏသုံးသော</string>
     <string name="hints_installed_app_never">ဘယ်တော့မှ မသုံးပါ</string>
@@ -479,6 +482,7 @@
     <string name="last_check_canceled">ယခင် စကင်ကို ပယ်ဖျက်ခဲ့သည်</string>
     <string name="load_only_under_wlan">Wi-Fi ကိုသာသုံးပြီး လုဒ်တင်ပါ။</string>
     <string name="location_not_found">ဖိုင်ရှာ၍မတွေ့ပါ</string>
+    <string name="lock_device_toast">စက်သော့ပိတ်ထားသည်။ သန့်ရှင်းစနစ်သုံးရန် သော့ဖွင့်ပါ။</string>
     <string name="login_immediately">ဆိုင်းအင်ဝင်ခြင်း</string>
     <string name="long_click_dialog_summary">ခြွင်းချက်များသို့ ပေါင်းထည့် ကြာကြာထိနှိပ်လျက်ထားပါ</string>
     <string name="long_click_dialog_title">သတိပေးချက်</string>
@@ -506,15 +510,15 @@
     <string name="menu_view">ဖိုလ်ဒါထဲမှာကြည့်ရှုပါ။</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -675,12 +679,7 @@
     <string name="pref_title_manual_check_cleanup_db_update">အသစ်မွမ်းမံများကို စစ်ကြည့်ပါ</string>
     <string name="pref_title_open_optimizer_cloud_scan">ဖိုင်အမည်များအား အပ်ပ်လုဒ်တင်ပါ</string>
     <string name="pref_title_open_optimizer_memory_scan">အက်ပ်မှတ်ဉာဏ်အား စကန်ဖတ်ပါ</string>
-    <string name="privacy_app_desc">အကောင့်နှင့် စကားဝှက်</string>
-    <string name="privacy_app_desc_message">အကောင့်၊ စကားဝှက်၊နှင့် မက်ဆေ့ချ်များ</string>
-    <string name="privacy_app_desc_search">အကောင့်၊ စကားဝှက်များနှင့် ရှာဖွေမှုသမိုင်း</string>
-    <string name="privacy_app_desc_setting">အကောင့်၊ စကားဝှက်များ၊နှင့် ဆက်တင်များ</string>
     <string name="privacy_browser_desc">ရှာဖွေထားသော အိုင်တမ်များ</string>
-    <string name="privacy_cache_desc">အကောင့်၊စကားဝှက်၊ သမိုင်း၊ဆက်တင်များနှင့် စသည်ဖြင့်</string>
     <string name="privacy_cache_empty">ကိုယ်ပိုင်ဒေတာမရှိပါ</string>
     <string name="privacy_cache_scaning">စစ်ဆေးနေဆဲ…</string>
     <string name="privacy_cache_title">ကိုယ်ရေးအချက်အလက်များ</string>
@@ -730,6 +729,7 @@
     <string name="size_peta_byte">ပီတာဘိုက်</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">တီရာဘိုက်</string>
+    <string name="skip_ad">ကျော်သွား</string>
     <string name="sponsored">အားပေးထားသော</string>
     <string name="start_downloading_app">ဒေါင်းလုဒ်စလုပ်နေသည်- %1$s</string>
     <string name="start_install">ယခု ထည့်သွင်းမည်</string>
@@ -789,9 +789,7 @@
     <string name="time_picker_label_hour">နာရီ</string>
     <string name="time_picker_label_minute">မိနစ်</string>
     <string name="tips_low_storage_dialog_cancel">ပယ်ဖျက်မည်</string>
-    <string name="tips_low_storage_dialog_msg_qq">QQ ကက်ချ်အရွယ်အစားမှာ ၃ GB ရှိနေပြီ။ သင်၏စက်ကို နှေးစေနိုင်သည်။ QQ ကက်ချ်အား ယခု ရှင်းပစ်မလား?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">QQ ကက်(ရှ်)အရွယ်အစား %d GB ရှိပါပြီ။ စက်ကို နှေးစေနိုင်သည်။ QQ ကက်(ရှ်)ကို ယခုရှင်းလိုသလား။</string>
-    <string name="tips_low_storage_dialog_msg_storage">သိုလှောင်ခန်းနေရာ၏ ၉၀% ပြည့်နေပြီ။ အသုံးမပြုသော အက်ပ်များကို ဖြုတ်ချပါ။</string>
     <string name="tips_low_storage_dialog_msg_storage_new">သိုလှောင်ခန်း၏ %s ကို သုံးထားပါသည်။ မသုံးသောအက်(ပ်)များကို ဖြုတ်ပါ။</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">WeChat ကက်(ရှ်)အရွယ်အစား %d GB ရှိပါပြီ။ စက်ကို နှေးစေနိုင်သည်။ WeChat ကက်(ရှ်)ကို ယခုရှင်းလိုသလား။</string>
     <string name="tips_low_storage_dialog_ok">ရှင်းပစ်မည်</string>
@@ -840,7 +838,7 @@
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
     <string name="toast_scaning_similar_image">ဓါတ်ပုံများအား စစ်ဆေးနေ…</string>
     <string name="toast_select_image_need_delete">ဖျက်ရန်ဓါတ်ပုံများအား ရွေးပါ</string>
-    <string name="toast_select_white_need_remove">ဖယ်ရှားရန်အိုင်တမ်များအား　ရွေးချယ်ပါ</string>
+    <string name="toast_select_white_need_remove">ဖယ်ရှားရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="toast_selecte_group_restore_succeed">ဓာတ်ပုံများ အားပြန်လည်ရယူ</string>
     <string name="toast_uninstall_success">ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
     <string name="toast_updater_close_4g_text">4G မိုဘိုင်းဒေတာဖြင့် အက်ပ်များအား အပ်ဒိတ်မလုပ်ပါနှင့်</string>

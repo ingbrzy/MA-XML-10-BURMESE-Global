@@ -9,7 +9,7 @@
         <item>ကွန်ရက်ဝင်မရပါ။ Wi-Fi ပြန်ချိတ်ပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>Wi-Fi လိုင်းမကောင်းပါ။ ကြိုးမဲ့ဘန်းများပြောင်းပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
         <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
@@ -17,7 +17,7 @@
         <item>ကွန်ရက်သုံးခွင့် ကန့်သတ်ထားသည်။ ဤစက်တွင် နာရီတိုက်ပြီး ရောက်ဒါ၏ ကွန်ရက်ဆက်တင်ကို စစ်ပါ။</item>
         <item>ကွန်ရက်အမှားအယွင်း။ HTTP ပရောက်စီဆက်တင်ကို စစ်ပါ။</item>
         <item>ကွန်ရက်အမှားအယွင်း။ ရောက်ဒါက အင်တာနက်ဝင်နိုင်သလား စစ်ပါ။</item>
-        <item>ကွန်ရက်ချိတ်မရပါ။ Wi-Fi ပြန်ချိတ်ပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
+        <item>ကွန်ရက်ဝင်မရပါ။ Wi-Fi ပြန်ချိတ်ပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>ကွန်ရက်သုံးခွင့်အတွက် အထောက်အထားစိစစ်မှုလိုသည်</item>
@@ -29,7 +29,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>DNS ဆာဗာ အမှားအယွင်း။ ရောက်ဒါ၏ DNS ဖွဲ့စည်းပုံကို စစ်ပါ။</item>
         <item>DNS ဆာဗာမှ အကြီးစားနှောင့်နှေးမှုများ။ ရောက်ဒါ၏ DNS ဖွဲ့စည်းပုံကို စစ်ပါ။</item>
-        <item>ဂိတ်ဝေးဝင်မရပါ။ Wi-Fi ပြန်ချိတ်ပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
+        <item>ကွန်ရက်ဝင်မရပါ။ Wi-Fi ပြန်ချိတ်ပါ သို့မဟုတ် ရောက်ဒါကို ရီဘုလုပ်ပါ။</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>DNS ဆာဗာ အမှားအယွင်း။ ရောက်ဒါ၏ DNS ဖွဲ့စည်းပုံကို စစ်ပါ။</item>

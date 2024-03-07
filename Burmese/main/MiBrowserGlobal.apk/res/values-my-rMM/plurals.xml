@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,7 +25,7 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">ကြော်ငြာ %d ခု ပိတ်ဆို့ထားသည်</item>
@@ -36,11 +36,26 @@
     <plurals name="adblock_total_counts">
         <item quantity="other">ပိတ်ဆို့လိုက်သော ကြော်ငြာ %d ခု ရှိပါပြီ</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">စကန်မလုပ်သည်မှာ %d ရက် ရှိပါပြီ</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">ဆောင်းပါးအသစ် %1$d ပုဒ်အား ကြည့်ပါ</item>
     </plurals>
     <plurals name="auto_play_next_tips">
         <item quantity="other">%d စက္ကန့်နောက် ဗီဒီယိုအသစ် ဖွင့်ပါ</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">စက်ကို စကန်မဖတ်သည်မှာ %d ရက်ရှိပါပြီ။ ယခုစကန်ဖတ်လိုသလား။</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">ရက်</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">စက်ကို အဆင့်မမြှင့်သည်မှာ %d ရက်ရှိပါပြီ။ ယခုအဆင့်မြှင့်လိုသလား။</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">လိုက်(ခ်) %s ခု</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d ရက်အကြာက</item>
@@ -138,8 +153,8 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">ကြော်ငြာ %d ခု ပိတ်ဆို့ထားသည်</item>
     </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">ရလဒ် %1$d ခု တွေ့သည်</item>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">အကြံပြုထားသော ဗီဒီယို %d ခု</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">ရှာဖွေရန် တောင်းခံမှု %s ခု</item>
@@ -212,5 +227,8 @@
     </plurals>
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s ကြိမ်</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Mi ဘရောက်ဇာသည် လွန်ခဲ့သောအပတ်က ဝက်ဘဆိုက်တင်နှုန်းကို %d ဆ အထိ မြှင့်ထားသည်။</item>
     </plurals>
 </resources>

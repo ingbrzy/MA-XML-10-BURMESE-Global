@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>အချိန် ၁မိနစ် မပြည့်မီနှိုးစက်မြည်လိမ့်မည်</item>
-        <item>%1$s ရက်အတွင်း နှိုးစက်</item>
-        <item>%2$sနာရီအတွင်း နှိုးစက်</item>
-        <item>%1$s ရက်%2$sနာရီအတွင်း နှိုးစက်</item>
-        <item>%3$s မိနစ်အတွင်း နှိုးစက်</item>
-        <item>%1$s ရက်%3$s မိနစ်အတွင်း နှိုးစက်</item>
-        <item>%2$s နာရီ%3$s မိနစ်အတွင်း နှိုးစက်</item>
-        <item>%1$s ရက်%2$s နာရီ%3$s မိနစ်အတွင်း နှိုးစက်</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>%d မိနစ်မတိုင်မီ နှိုးစက်မြည်ရန်</item>
+        <item>%1$s အတွင်း နှိုးစက်မြည်ရန်</item>
+        <item>%2$s အတွင်း နှိုးစက်မြည်ရန်</item>
+        <item>%1$s %2$s အတွင်း နှိုးစက်မြည်ရန်</item>
+        <item>%3$s အတွင်း နှိုးစက်မြည်ရန်</item>
+        <item>%1$s %3$s အတွင်း နှိုးစက်မြည်ရန်</item>
+        <item>%2$s %3$s အတွင်း နှိုးစက်မြည်ရန်</item>
+        <item>%1$s %2$s %3$s အတွင်း နှိုးစက်မြည်ရန်</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>တစ်ခါ</item>
@@ -24,8 +24,8 @@
         <item>တနင်္လာမှ သောကြာ</item>
         <item>ကိုယ်တိုင်စီစဉ်ပါ</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>တစ်မိနစ်အကြာတွင် နှိုးစက်မြည်လိမ့်မည်။</item>
+    <string-array name="alarm_set_new_array">
+        <item>%d မိနစ်မတိုင်မီ နှိုးစက်မြည်မည်။</item>
         <item>%1$s ကြာလျှင် နှိုးစက်မြည်မည်။</item>
         <item>%2$s ကြာလျှင် နှိုးစက်မြည်မည်။</item>
         <item>%1$s နှင့် %2$s ကြာလျှင် နှိုးစက်မြည်မည်။</item>
@@ -42,20 +42,19 @@
         <item>အလွန်အားနည်းသော</item>
         <item>ပြင်းထန်သော</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>ဘယ်တော့မှ</item>
-        <item>၁ မိနစ်</item>
-        <item>၅ မိနစ်</item>
-        <item>၁၀ မိနစ်</item>
-        <item>၁၅ မိနစ်</item>
-        <item>၂၀ မိနစ်</item>
-        <item>၂၅ မိနစ်</item>
-        <item>၃၀ မိနစ်</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>တနင်္လာမှ သောကြာအထိ</item>
         <item>နေ့စဥ်နေ့တိုင်း</item>
         <item>ရုံးဖွင့်ရက်များ</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>တနင်္လာမှ သောကြာ</item>
+        <item>နေ့စဉ်</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>နေ့စဉ်</item>
+        <item>တနင်္လာမှ သောကြာ</item>
+        <item>စိတ်ကြိုက်လုပ်ရန်</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>နေ့စဥ်နေ့တိုင်း</item>
@@ -164,7 +163,7 @@
         <item>ဘက်ခ်ခု</item>
         <item>ဘန်ကောက်</item>
         <item>ဘေရုထ်</item>
-        <item>ကယ်လ်ကူတာ</item>
+        <item>ကလ္လကတ္တား</item>
         <item>ဒန်မက်စ်ကပ်</item>
         <item>ဒက္ကာ</item>
         <item>ဒူဘိုင်း</item>
@@ -250,7 +249,7 @@
         <item>ဆိုဖီယာ</item>
         <item>စတော့ခ်ဟိုးလ်</item>
         <item>တော်လင်အင်</item>
-        <item>ဗစ်တိုင်ကန်</item>
+        <item>ဗစ်တိုင်ကန် မြို့</item>
         <item>ဗီယန်နာ</item>
         <item>ဗယ်လ်နီးယပ်စ်</item>
         <item>ဝါဆော</item>
@@ -350,11 +349,6 @@
         <item>တယ်ဂူစီဂယ်လ်ပါ</item>
         <item>ပါရာမာရီဘို</item>
         <item>ကွီတို</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>အဖြူ</item>
-        <item>အမည်း</item>
-        <item>အော်တို</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>အိုင်ဗရီကို့စ်</item>
@@ -644,40 +638,6 @@
         <item>ဆူရာနမ်</item>
         <item>အီကွေဒေါ</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>တနင်္ဂနွေ</item>
-        <item>တနင်္လာ</item>
-        <item>အင်္ဂါ</item>
-        <item>ဗုဒ္ဓဟူး</item>
-        <item>ကြာသပတေး</item>
-        <item>သောကြာ</item>
-        <item>စနေ</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>သတ်မှတ်ထားသောအချိန်တွင်</item>
-        <item>၁၅ မိနစ် ကြိုတင်၍</item>
-        <item>မိနစ် ၃၀ ကြိုတင်၍</item>
-        <item>၁ နာရီ ကြိတင်၍</item>
-        <item>တစ်ခုမျှမရှိ</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>၁ မိနစ်</item>
-        <item>၅ မိနစ်</item>
-        <item>၁၀ မိနစ်</item>
-        <item>၁၅ မိနစ်</item>
-        <item>၂၀ မိနစ်</item>
-        <item>၂၅ မိနစ်</item>
-        <item>၃၀ မိနစ်</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -700,10 +660,5 @@
         <item>ဘာမှမလုပ်</item>
         <item>တစ်မှေးအိပ်</item>
         <item>ရပ်နား</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

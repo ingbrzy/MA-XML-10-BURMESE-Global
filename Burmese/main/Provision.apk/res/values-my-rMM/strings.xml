@@ -192,6 +192,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="input_method_setting">ကီးဘုတ်ရွေးချယ်ပါ</string>
     <string name="install_preinstall_app">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="interconnection_communication_introduction">Xiaomi အင်တာနက်ဆက်သွယ်ရေး ဝန်ဆောင်မှုများက သင့်အား အခြား Xiaomi စက်များကို ရှာဖွေရန်၊ ချိတ်ဆက်ရန်နှင့် ဆက်သွယ်ရန် ခွင့်ပြုသည်။</string>
+    <string name="interconnection_service_global_item_title">Xiaomi အချင်းချင်းချိတ်ဆက်မှု</string>
+    <string name="interconnection_service_global_label">&lt;Data>Xiaomi အချင်းချင်းချိတ်ဆက်မှုတွင် စက်များကို တစ်လုံးနှင့်တစ်လုံး ကြိုးမဲ့ဆက်သွယ်ခွင့်ပြုသည်။ ဤခလုတ်ကိုဖွင့်ခြင်းဖြင့် သင်သည် Xiaomi အချင်းချင်းချိတ်ဆက်မှု၏ &lt;a href=%1$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a > ကို သဘောတူရာရောက်သည်။&lt;/Data></string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -265,6 +267,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
+    <string name="interconnection_service_summary_global">Xiaomi အချင်းချင်းချိတ်ဆက်မှုအင်္ဂါရပ်များသည် စက်မော်ဒယ်နှင့် စနစ်ဗားရှင်းအပေါ် မူတည်ပြီး ကွဲပြားနိုင်သည်။ ပိုမိုလေ့လာရန် စနစ်၏ တရားဝင်ဝက်ဘဆိုက်သို့သွားပါ။</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">မျက်နှာပြင်သော့ကို သင်သတ်မှတ်ထားခြင်း မရှိပါက သင့်စက် ပျောက်ဆုံးသွားသောအခါတွင် အခြားသူများက ၎င်းကို အသုံးပြုခြင်းနှင့် သင်၏ ဒေတာကို ဝင်ကြည့်ခြင်းမှ ကြိုတင်ကာကွယ်နိုင်မည် မဟုတ်ပါ။ မည်သို့ပင်ဆိုစေ ကျော်လိုသလား။</string>
     <string name="item_facerecognition">မျက်နှာဖြင့် သော့ဖွင့်ခြင်း</string>

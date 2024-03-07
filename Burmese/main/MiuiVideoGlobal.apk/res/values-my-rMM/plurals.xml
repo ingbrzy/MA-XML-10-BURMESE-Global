@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,16 +25,13 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">ပြန်စာ %d စောင် ကြည့်ရန်</item>
     </plurals>
     <plurals name="dialog_app_rating_choose_star">
         <item quantity="other">ကြယ် %s လုံး ရွေးထားသည်</item>
-    </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">အမှတ်များရပြီး ဆုများငွေလဲနိုင်ရန် ဗီဒီယိုတစ်ခုကို %s စက္ကန့် ထပ်ကြည့်ပါ</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">ပင်မစာမျက်နှာသို့ %1$d စက္ကန့်အတွင်း ပြန်သွားပါမည်…</item>
@@ -57,60 +54,20 @@
     <plurals name="in_num_minutes">
         <item quantity="other">%d မိနစ် အကြာမှာ</item>
     </plurals>
-    <plurals name="incentive_dialog_congratulation_get_credits_title">
-        <item quantity="other">%d မှတ် ရသွားပါပြီ။</item>
-    </plurals>
-    <plurals name="incentive_dialog_credits">
-        <item quantity="other">%d မှတ်</item>
-    </plurals>
-    <plurals name="incentive_dialog_login_and_get_credits_message">
-        <item quantity="other">တောင်းခံရန်အကောင့်ဝင်ပြီး အပို %d မှတ်ရယူပါ</item>
-    </plurals>
-    <plurals name="incentive_dialog_seconds">
-        <item quantity="other">%d စက္ကန့်</item>
-    </plurals>
-    <plurals name="incentive_guide_all_time_tip">
-        <item quantity="other">အမှတ်များရရန် စုစုပေါင်း %d ကြည့်ပါ။ အလုပ်တာဝန်ကို ယခုအပြီးသတ်လိုသလား။</item>
-    </plurals>
-    <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"သင့်တွင် %d မှတ် တောင်းခံစရာရှိသည်။
-ယနေ့သာ ရနိုင်ပါမည်"</item>
-    </plurals>
-    <plurals name="incentive_guide_current_time_tip">
-        <item quantity="other">ယနေ့အဖို့ %d မိနစ် ကြည့်ပြီးပါပြီ</item>
-    </plurals>
     <plurals name="incentive_popup_window_share_success">
         <item quantity="other">အောင်မြင်စွာမျှဝေပြီးပါပြီ။ %d မှတ် ရပါပြီ။</item>
     </plurals>
     <plurals name="incentive_popup_window_subscribe_success">
         <item quantity="other">အောင်မြင်စွာ စာရင်းသွင်းရယူပြီးပါပြီ။ %d မှတ် ရပါပြီ။</item>
     </plurals>
-    <plurals name="incentive_task_watchvideo_begin">
-        <item quantity="other">%d မှတ် ရရန်။</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_finish">
-        <item quantity="other">ယနေ့အလုပ်တာဝန်ပြီးပါပြီ။ %d မှတ် ရပါသည်။</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_of_one">
-        <item quantity="other">%1$1d စက္ကန့် ကြည့်ပြီး %2$2d မှတ် ရပါပြီ။</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip1">
-        <item quantity="other">%d မှတ်ရရန် ကျရာဗီဒီယိုတစ်ခုကြည့်ပါ</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip2">
-        <item quantity="other">%1$2d မှတ်ရရန် %2$1d စက္ကန့်စာ ဗီဒီယိုတစ်ခုကြည့်ရန်</item>
-    </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">%d မှတ် ရသွားပါပြီ။ ထပ်ရရန် ဆက်မျှဝေပါ။</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">%d မှတ် ရသွားပါပြီ။ ထပ်ရရန် ဆက်လက်စာရင်းသွင်းရယူပါ။</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="local_diversion_video_number">
         <item quantity="other">ဗီဒီယို %d ခု</item>
+    </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">နှုန်း %sX နှင့် ဖွင့်ထားသည်။ ပုံမှန်နှုန်းနှင့်ဖွင့်ရန် လက်လွှတ်ပါ။</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">ဖိုင်တွဲ %d ခု</item>
@@ -130,9 +87,6 @@
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
         <item quantity="other">အရွယ်အစား- %.2f KB</item>
     </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">ဗီဒီယို %dခု</item>
-    </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">ဇာတ်လမ်းတွဲ %1$2d ခု အနက် %2$1d ရနိုင်ပါသည်</item>
     </plurals>
@@ -151,12 +105,6 @@
     <plurals name="music_playlist_title_count">
         <item quantity="other">သီချင်း %d ပုဒ်</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">အောင်မြင်စွာ မျှဝေပြီးပါပြီ။ %d မှတ် ရသွားပါပြီ။ ရမှတ်စင်တာတွင် တောင်းခံပါ။</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">အောင်မြင်စွာ စာရင်းသွင်းရယူပြီးပါပြီ။ %d မှတ် ရသွားပါပြီ။ ရမှတ်စင်တာတွင် တောင်းခံပါ။</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">သင်တင်ထားသည့်အထဲတွင် ကျွန်ုပ်တို့၏ ကွန်မြူနတီစံနှုန်းနှင့် မကိုက်ညီသော အရာ (%1$s) ခု ပါဝင်သည်။ သင့်အကောင့်ကို %2$s နေ့ထိ %3$d ရက် ရပ်ဆိုင်းထားပါမည်။</item>
     </plurals>
@@ -165,12 +113,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">ဗီဒီယို %d ခု</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">ဗီဒီယို %dခု</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">ယခု %s ခု ဖျက်လိုသလား။</item>
@@ -213,9 +155,6 @@
     </plurals>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">စာညှပ် %d ခု အထိ ထည့်ရန်</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">ရွေးထားသောဖိုင် %d ခုကို ဖုံးလိုသလား။</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">လိုက်ခ် %s ခု</item>

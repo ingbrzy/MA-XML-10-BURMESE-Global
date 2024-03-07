@@ -6,7 +6,7 @@
     <string name="abrupt_weather_settings_summary_type">မိုးရွာနိုင်ခြေရှိမရှိ၊ လေအရည်အသွေးအပြောင်းအလဲများနှင့် အခြား ထင်ရှားသော အပြောင်းအလဲများအကြောင်း သတိပေးချက်များရယူရန်</string>
     <string name="act_find_city_hint">တည်နေရာအားထည့်သွင်းပါ</string>
     <string name="act_find_city_hot_city_title">အထင်ကရမြို့တော်များ</string>
-    <string name="act_location_error_to_find_city">တည်နေရာ အချက်အလက် ရယူ၍ မရပါ။ မြို့တစ်မြို့ ပေါင်းထည့်ပါ။</string>
+    <string name="act_location_error_to_find_city">တည်နေရာအချက်အလက် ယူမရပါ။ တည်နေရာကို လက်ဖြင့်ထည့်နိုင်သည်။</string>
     <string name="act_set_city_find_side">တည်နေရာရှာနေ</string>
     <string name="act_set_city_find_side_error">ကိရိယာအားမရှာဖွေနိုင်ပါ</string>
     <string name="act_weather_find_city_added">ပေါင်းထည့်ပြီးပြီ</string>
@@ -51,17 +51,11 @@
     <string name="aqi_fifteen_dates_time_format">d/M</string>
     <string name="aqi_publish_time">မွမ်းမံထားသော %1$s</string>
     <string name="aqi_quality_co_desc">ကာဗွန်မိုနောက်ဆိုက်</string>
-    <string name="aqi_quality_co_pad">CO - %1$s</string>
     <string name="aqi_quality_no2_desc">နိုက်ထရိုဂျင်အောက်ဆိုက်</string>
-    <string name="aqi_quality_no2_pad">NO₂ - %1$s</string>
     <string name="aqi_quality_o3_desc">အိုဇုန်း</string>
-    <string name="aqi_quality_o3_pad">O₃ - %1$s</string>
     <string name="aqi_quality_pm10_desc">ရှုုသွင်းနိုင်သော အမှုန့်များ</string>
-    <string name="aqi_quality_pm10_pad">PM10 - %1$s</string>
     <string name="aqi_quality_pm25_desc">အမှုန်ငယ်များ</string>
-    <string name="aqi_quality_pm25_pad">PM2.5 - %1$s</string>
     <string name="aqi_quality_so2_desc">ဆာလဖာဒိုင်အောက်ဆိုက်</string>
-    <string name="aqi_quality_so2_pad">SO₂ - %1$s</string>
     <string name="aqi_station_best_quality_station">အနီးရှိအကောင်းဆုံးများ</string>
     <string name="aqi_station_min_distance_station">အနီးဆုံးဌာန</string>
     <string name="aqi_title_pad">AQI - %1$s</string>
@@ -71,7 +65,7 @@
     <string name="button_exit">သဘောမတူပါ</string>
     <string name="button_settings_cancel">ပယ်ဖျက်မည်</string>
     <string name="button_settings_confirm">ရုပ်သိမ်းရန်</string>
-    <string name="button_settings_confirm_to_revoke_msg">ခလုတ်ကို ပိတ်ခြင်းဖြင့် သင်သည် မိုးလေဝသ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ စုဆောင်းထိန်းသိမ်းထားသည့် ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား သက်ဆိုင်ရာဥပဒေများအရ လိုအပ်သော သတ်မှတ်အချိန်ကာလတစ်ရပ်အတွင်း ဖျက်ပစ်ပါမည်။ သင့်အတွက် အခြေခံ ဝန်ဆောင်မှုများ ဖော်ဆောင်ပေးမည့် လိုအပ်သော ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား မိုးလေဝသက စုဆောင်းရန် လိုအပ်ပါသည်။ ၎င်း၏ ကိုယ်ရေးအချက်အလက်ပေါ်လစီအတွက် သဘောတူညီချက် ရုပ်သိမ်းခြင်းသည် စုဆောင်းထားသော ပုဂ္ဂိုလ်ရေး အချက်အလက်များအပေါ်တွင် အခြေခံသော ၎င်း၏ ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆန်ခြင်းမည်ပါသည်။</string>
+    <string name="button_settings_confirm_to_revoke_msg">ခလုတ်ပိတ်ခြင်းဖြင့် သင်သည် မိုးလေဝသ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်သည်။ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းကို ရပ်လိုက်ပါမည်။ ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ မိုးလေဝသသည် သင့်အား အခြေခံဝန်ဆောင်မှုများ ပေးရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန် လိုအပ်သည်။ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းဖြင့် ၎င်း၏ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းကိုအခြေခံသည့် ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">သင့်ကွန်ရက်ဆက်သွယ်မှုကိုစစ်ဆေးပြီး နောက်တစ်ကြိမ်ထပ်ကြိုးစားပါ</string>
     <string name="city_exceeded_warning">နောက်ထပ်မြို့များ ထည့်မရပါ။ မြို့အသစ်ထည့်ရန် စာရင်းတွင်ရှိနေသော မြို့တစ်ခုကို ဦးစွာဖျက်ပါ။</string>
@@ -117,6 +111,7 @@
     <string name="dynamic_weather">မိုးလေဝသ</string>
     <string name="early_morning">နံနက်</string>
     <string name="edit_city">မြို့များကို စီမံမည်</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="empty_view_net_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="empty_view_refresh">ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -124,18 +119,18 @@
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
     <string name="feedback">မိုးလေဝသသတင်းအမှားကို တိုင်းကြားရန်</string>
-    <string name="feedback_cloudy">တိမ်ထူမည်</string>
+    <string name="feedback_cloudy">တိမ်ထူ</string>
     <string name="feedback_foggy">မြူထူထပ်မည်</string>
-    <string name="feedback_haze">မီးခိုးမြူဆိုင်းမည်</string>
-    <string name="feedback_moderate_rain">မိုးရွာသွန်းမည်</string>
-    <string name="feedback_moderate_snow">နှင်းကျမည်</string>
-    <string name="feedback_overcast">တိမ်ထူထပ်</string>
+    <string name="feedback_haze">မြူဆိုင်း</string>
+    <string name="feedback_moderate_rain">မိုး</string>
+    <string name="feedback_moderate_snow">ဆီးနှင်း</string>
+    <string name="feedback_overcast">အုံ့မှိုင်း</string>
     <string name="feedback_report_privacy_msg">သင်၏ တည်နေရာ အချက်အလက်သည် အစီရင်ခံစာတွင် ပါဝင်မည်</string>
     <string name="feedback_result_fail_no_choice">လက်ရှိ ရာသီဥတုအခြေနေကို ရွေးချယ်ပါ</string>
     <string name="feedback_result_fail_no_reason">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါတယ်။</string>
     <string name="feedback_result_fail_same_type">သင့်အစီရင်ခံချက်သည် လက်ရှိ ရာသီဥတုနှင့် အတူတူပင် ဖြစ်သည်။ ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="feedback_result_success">တင်သွင်းမှုအောင်မြင်ခဲ့၊ သင့်တုန့်ပြန်မှုအတွက် ကျေးဇူးတင်ပါသည်</string>
-    <string name="feedback_sandy">သဲထူမည်</string>
+    <string name="feedback_result_success">အောင်မြင်စွာတင်ပြီးပါပြီ။ တုံ့ပြန်အကြံပြုမှုအတွက် ကျေးဇူးတင်ပါသည်။</string>
+    <string name="feedback_sandy">ဖုန်မုန်တိုင်း</string>
     <string name="feedback_sunny">နေသာသည်</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -193,18 +188,21 @@
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="hourly_forcast_now">ယခု</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="index_item_experience_now">ယခု ထည့်သွင်းမည်</string>
     <string name="indices_title_chance_of_rain">မိုးရွာနိုင်ခြေ</string>
     <string name="indices_title_feel">တကယ့် ခံစားမှု</string>
     <string name="indices_title_pressure">လေထုဖိအား</string>
     <string name="indices_title_uv">UV</string>
-    <string name="indices_title_wind_speed">လေတိုက်နှုန်း</string>
     <string name="indices_wind_direction_east">ရှေ့</string>
     <string name="indices_wind_direction_north">မြောက်</string>
     <string name="indices_wind_direction_south">တောင်</string>
     <string name="indices_wind_direction_west">နောက်</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">ခရမ်းလွန်ရောင်ခြည် အညွှန်းကိန်း</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">တည်နေရာဝန်ဆောင်မှုကို ဖွင့်ပါ</string>
     <string name="location_tag">တည်နေရာရှာဖွေပါ</string>
     <string name="manager_city_option_add_home">အစစာမျက်နှာသို့ ထည့်ပါ</string>
@@ -215,17 +213,16 @@
     <string name="minute_rain_feedback_title">ရာသီဥတုအချက်အလက် မှန်ကန်ပုံမရပါ</string>
     <string name="minute_rain_now">ယခု</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
-    <string name="missing_required_permission">လိုအပ်သော ခွင့်ပြုချက်အား သင် ပိတ်လိုက်သည်။</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -302,7 +299,7 @@
     <string name="permission_device_info">စက်ပိုင်းဆိုင်ရာ အချက်အလက်</string>
     <string name="permission_device_introduce">စက်များကို မော်ဒယ်အလိုက်မှတ်ထားပြီး စိတ်ကြိုက်ဘာသာစကားများအပေါ် အခြေခံသော ဘာသာပြန်ဝန်ဆောင်မှုများပေးရန်</string>
     <string name="permission_exit">ထွက်မည်</string>
-    <string name="permission_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
+    <string name="permission_privacy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ (မဖြစ်မနေ)</string>
     <string name="permission_select_all">အားလုံး ရွေးပါ</string>
     <string name="permission_storage">သိုလှောင်ခန်း</string>
     <string name="permission_storage_introduce">စက်ပေါ်ရှိ အိုင်တမ်များသို့ ဝင်ရောက်နိုင်ရန် နှင့် ဖိုင်များ သိမ်းဆည်းနိုင်ရန် အတွက်</string>
@@ -310,11 +307,11 @@
     <string name="pm">ညနေ</string>
     <string name="privacy_grant_or_revoke_settings">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="privacy_grant_success">ခွင့်ပြုချက် ပေးအပ်ပြီးပါပြီ</string>
-    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="privacy_policy_msg">&lt;Data>ဤအက်ပ်တွင် အောက်ပါအင်္ဂါရပ်များ ပါဝင်ပါသည် -&lt;br/>• သင်၏ တည်နေရာနှင့်သာသက်ဆိုင်သော မိုးလေဝသသတင်းအချက်အလက်&lt;br/>• မိုးလေဝသ ကြိုတင်ခန့်မှန်းချက်များ&lt;br/>• မိုးလေဝသ သတိပေးချက်များ&lt;br/>&lt;br/>သင့်အတွက် အခြေခံဝန်ဆောင်မှုများ ပေးအပ်ရန် လိုအပ်သော ပုဂ္ဂိုလ်ရေး သတင်းအချက်အလက်များအား မိုးလေဝသက စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော သတင်းအချက်အလက်များကို ကျွန်ုပ်တို့ကိုင်တွယ်စီမံပုံအကြောင်းအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> တွင် လေ့လာနိုင်ပါသည်။ မိုးလေဝသကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ကို ဖတ်ရှု၍ သဘောတူလက်ခံပေးပါ။ မိုးလေဝသ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။&lt;/Data></string>
-    <string name="privacy_policy_msg_for_gp">&lt;Data>ဤအက်ပ်တွင် အောက်ပါအင်္ဂါရပ်များ ပါဝင်ပါသည် -&lt;br/>• သင့်တည်နေရာနှင့်သာ တိတိပပသက်ဆိုင်သော မိုးလေဝသ အချက်အလက်&lt;br/>• မိုးလေဝသကြိုတင်ခန့်မှန်းချက်များ&lt;br/>• မိုးလေဝသသတိပေးချက်များ&lt;br/>&lt;br/>မိုးလေဝသအက်ပ်ကို ပိတ်ထားသော သို့မဟုတ် အသုံးမပြုသောအချိန်တွင်ပင် ၎င်းသည် ဤအင်္ဂါရပ်များကို ရရှိနိုင်စေရန်အတွက် တည်နေရာဒေတာအပါအဝင် အရေးပါသော ပုဂ္ဂိုလ်ရေးသတင်းအချက်အလက်များကို စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a>တွင် ကျွန်ုပ်တို့စုဆောင်းသော အချက်အလက်များကို ကျွန်ုပ်တို့ကိုင်တွယ်စီမံပုံအကြောင်း သင်လေ့လာနိုင်ပါသည်။ မိုးလေဝသအက်ပ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ကို ဖတ်ရှု၊ လက်ခံပေးပါ။ မိုးလေဝသအက်ပ်၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။&lt;/Data></string>
+    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
+    <string name="privacy_policy_msg"><Data>ဤအက်(ပ်)တွင် အောက်ပါအင်္ဂါရပ်များပါဝင်သည် -&lt;br/>• သင်၏ တည်နေရာနှင့်သာသက်ဆိုင်သော မိုးလေဝသသတင်းအချက်အလက်&lt;br/>• မိုးလေဝသခန့်မှန်းချက်များ&lt;br/>• မိုးလေဝသ သတိပေးချက်များ&lt;br/>&lt;br/>မိုးလေဝသသည် သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူထားသော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ မိုးလေဝသကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ မိုးလေဝသ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒအပေါ် သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေးရုပ်သိမ်းနိုင်သည်။</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>ဤအက်(ပ်)တွင် အောက်ပါအင်္ဂါရပ်များပါဝင်သည် -&lt;br/>• သင်၏ တည်နေရာနှင့်သာသက်ဆိုင်သော မိုးလေဝသသတင်းအချက်အလက်&lt;br/>• မိုးလေဝသခန့်မှန်းချက်များ&lt;br/>• မိုးလေဝသ သတိပေးချက်များ&lt;br/>&lt;br/>မိုးလေဝသသည် အက်(ပ်)ပိတ်ထားချိန် သို့မဟုတ် မသုံးချိန်များ၌ပင် ဤအင်္ဂါရပ်များရရှိနိုင်စေရန်အတွက် လိုအပ်သော တည်နေရာဒေတာများအပါအဝင် ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ကောက်ယူရန်လိုအပ်ပြီး ကောက်ယူထားသော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ မိုးလေဝသကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ မိုးလေဝသ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒအပေါ် သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေးရုပ်သိမ်းနိုင်သည်။</Data></string>
     <string name="privacy_revoke_success">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
-    <string name="privacy_settings">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_settings">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="pull_fresh_updated">အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="pull_fresh_updating">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="radar_cloud_image_title">ရေဒါမြေပုံ</string>
@@ -331,10 +328,6 @@
     <string name="realtime_wind_default_title">လေ</string>
     <string name="refresh_fail">ကွန်ရက်နှင့် ချိတ်ဆက်၍ မရနိုင်ပါ</string>
     <string name="reminder_from_xiaomi_weather_app">Mi မိုးလေဝသ သတိပေးချက်</string>
-    <string name="request_cta_connect_net">ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပြီး အထက်တွင်ဖော်ပြထားသော မရှိမဖြစ် ခွင့်ပြုချက်များကို ပေးပါ။</string>
-    <string name="request_permission_location_dialog_content">သင့်လက်ရှိတည်နေရာနှင့် သက်ဆိုင်သော မိုးလေဝသအချက်အလက် ပြသခြင်းအတွက်</string>
-    <string name="request_permission_main_purpose">မိုးလေဝသအချက်အလက် ပြသနေသည်</string>
-    <string name="request_permission_storage_dialog_content">မိုးလေဝသအချက်အလက်ကို ဓာတ်ပုံဖောမတ်ဖြင့် မျှဝေခြင်းအတွက်</string>
     <string name="revoke_fail">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="revoke_privacy_policy_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="saturday">စနေ</string>
@@ -359,7 +352,7 @@
     <string name="share_button">မျှဝေပါ</string>
     <string name="share_menu_title">မျှဝေပါ</string>
     <string name="share_subject">မျှဝေပါ</string>
-    <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
     <string name="shortcut_short_label_24_hour_forecast">%d−နာရီ ခန့်မှန်းချက်</string>
@@ -482,9 +475,6 @@
     <string name="update_notification_info">နောက်ခံတွင် ဒေတာအား အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="updated_a_moment_ago">မကြာသေးမီက အပ်ဒိတ်လုပ်ထားသည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
-    <string name="video_banner_regional_weather_update">ဌာနေမိုးလေဝသသတိပေးချက်များ</string>
-    <string name="video_banner_weather_forecast">မိုးလေဝသခန့်မှန်းချက်</string>
-    <string name="video_banner_weather_update">နောက်ဆုံးပေါ်မိုးလေဝသသတိပေးချက်များ</string>
     <string name="view_forecast_item_yesterday">မနေ့က</string>
     <string name="view_indexes_item_today">ဒီနေ့</string>
     <string name="view_indexes_item_tommorrow">မနက်ဖြန်</string>
@@ -505,9 +495,7 @@
     <string name="wind_power">%d</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="xiaomi_weather_description_content">မိုးလေဝသသည် စနစ်အက်(ပ်)ဖြစ်သည်။ အက်(ပ်)ကို ဖြုတ်ပါက မိုးလေဝသအချက်အလက်များကြည့်ခြင်း သို့မဟုတ် သက်ဆိုင်ရာ ဝိဂျက်များသုံးခြင်းကို လုပ်မရတော့ပါ။</string>
-    <string name="xiaomi_weather_description_content_remove">မိုးလေဝသသည် စနစ်အက်(ပ်)ဖြစ်သည်။ ပင်မမျက်နှာပြင်ရှော့ကတ်ကို ဖျက်ပါက မိုးလေဝသအချက်အလက်များကြည့်ခြင်း သို့မဟုတ် သက်ဆိုင်ရာ ဝိဂျက်များသုံးခြင်းကို လုပ်မရတော့ပါ။</string>
     <string name="xiaomi_weather_description_title">\"မိုးလေဝသ\" ဖြုတ်လိုသလား။</string>
-    <string name="xiaomi_weather_description_title_remove">ပင်မမျက်နှာပြင်မှ \"မိုးလေဝသ\" ကို ဖယ်ရှားလိုပါသလား။</string>
     <string name="yes_vote_ratio">ရရှိမှု %1$s%%</string>
     <string name="yesterday">မနေ့က</string>
 </resources>

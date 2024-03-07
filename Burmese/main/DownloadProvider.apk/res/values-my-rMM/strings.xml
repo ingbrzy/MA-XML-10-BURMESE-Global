@@ -10,6 +10,7 @@
     <string name="download_queued">တန်းစီထားသည်</string>
     <string name="download_remaining">ကျန်ရှိသောအချိန်- %s</string>
     <string name="download_running">ဒေါင်းလုဒ်လုပ်နေသည်</string>
+    <string name="download_running_percent">ဒေါင်းလုဒ်လုပ်နေသည်- %s</string>
     <string name="download_unknown_title">&lt;ခေါင်းစဉ်မဲ့></string>
     <string name="notif_title_file_size">စုစုပေါင်း %1$d ခု</string>
     <string name="notif_title_single_downloading">​ဒေါင်းလုဒ် %1$s ခု လုပ်နေသည်</string>
@@ -32,7 +33,6 @@
     <string name="permlab_downloadManager">ဒေါင်းလုဒ်မန်နေဂျာသို့ ဝင်ရောက်မည်။</string>
     <string name="permlab_downloadManagerAdvanced">အဆင့်မြင့်လုပ်ဆောင်ချက်များ</string>
     <string name="permlab_downloadWithoutNotification">ဖိုင်များကို သတိပေးချက်မပြဘဲ ဒေါင်းလုဒ်လုပ်မည်</string>
-    <string name="permlab_seeAllExternal">USB သိုလှောင်ခန်းသို့ သိမ်းဆည်းထားသော ဒေါင်းလုဒ်အားလုံးကို ကြည့်မည်</string>
     <string name="root_downloads">ဒေါင်းလုဒ်များ</string>
     <string name="wifi_recommended_body">"ဤ %1$sကို ယခု ဒေါင်းလုဒ်စလုပ်လျှင် ဘက်ထရီသက်တမ်း လျော့နည်းစေနိုင်သည်၊ သို့မဟုတ် မိုဘိုင်းဒေတာသုံးစွဲမှုကို လွန်ကဲစေမည် (သင်၏ဒေတာအစီအစဉ်အပေါ် မူတည်ပါသည်)။ Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သောအခါမှ ဒေါင်းလုဒ်လုပ်မည်ဆိုပါက 
 

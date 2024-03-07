@@ -519,6 +519,8 @@
     <string name="vigor">အားမာန်</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_floral_arrangement_title">ပန်းအလှဆင်</string>
+    <string name="wallpaper_gradient_title">ရောင်စဉ်လှိုင်း</string>
     <string name="wallpaper_group_black_white_title">အဖြူအမည်း</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dynamic nebula</string>
@@ -530,6 +532,8 @@
     <string name="wallpaper_group_natural_texture_title">သဘာဝပုံစံများ</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA၊ JPL၊ အရီဇိုးနား တက္ကသိုလ်</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
+    <string name="wallpaper_neon_title">နီယွန်</string>
+    <string name="wallpaper_overlapping_space_title">ပုံသဏ္ဍာန်နှင့် အရိပ်</string>
     <string name="waterdrop_preview">မိုးရေစက်များ</string>
     <string name="wifi_assistant_wifi_no_internet">ဤ Wi-Fi ကွန်ရက်သည် အင်တာနက်သို့ ဝင်ရောက်၍ မရပါ</string>
     <string name="wifi_assistant_wifi_no_internet_detail">အသေးစိတ်ကိုကြည့်ရန် ထိနှိပ်ပါ</string>

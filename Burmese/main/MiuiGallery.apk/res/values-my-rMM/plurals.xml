@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,19 +25,19 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">ဤအရာကို တစ်ကိုယ်ရေအယ်လဘမ်တွင် ထည့်လိုသလား။</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">ကလောက်ပုံ %d ပုံပေါင်းထည့်ခဲ့သည်၊ ကြည့်ရန်အတွက် \"ဖုန်းတွင်းဓါတ်ပုံများကိုသာ ပြပါ\"အား ပိတ်လိုက်ပါ။</item>
+        <item quantity="other">ကလောက်ပုံ %d ပုံကို ထည့်ထားသည်။ ကြည့်ရန် \"စက်တွင်း အယ်လဘမ်များသာပြရန်\" ကို ပိတ်ပါ။</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">အိုင်တမ် %2$d ခုကို အယ်လ်ဘမ်သို့ ပေါင်းထည့်၍ မရပါ။ %1$s။</item>
+        <item quantity="other">အကြောင်းအရာ %2$d ခုကို အယ်လဘမ်သို့ ထည့်မရပါ။ %1$s။</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">အိုင်တမ် %2$d ခုကို လျှို့ဝှက်အယ်လ်ဘမ်အတွင်းသို့ ပေါင်းထည့်၍ မရနိုင်ပါ။ %1$s။</item>
+        <item quantity="other">အကြောင်းအရာ %2$d ခုကို တစ်ကိုယ်ရေအယ်လဘမ်သို့ ထည့်မရပါ။ %1$s။</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d ရက်</item>
@@ -61,7 +61,7 @@
         <item quantity="other">(အိုင်တမ် %dခု)</item>
     </plurals>
     <plurals name="album_item_msg_format_new">
-        <item quantity="other">အယ်လ်ဘမ် %d ခု</item>
+        <item quantity="other">အယ်လဘမ် %d ခု</item>
     </plurals>
     <plurals name="album_member">
         <item quantity="other">ဤအယ်လဘမ်ကို %s ဦး ကြည့်နိုင်သည်</item>
@@ -129,8 +129,8 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">အိုင်တမ် %dခုရွေးချယ်ထားသော</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Xiaomi ကလောက်နှင့် အခြား ဆင့်(ခ်)လုပ်ထားသော စက်အားလုံးမှ ဒရစပ်ရိုက်ချက်ပုံ %d ပုံ ဖျက်လိုသလား။</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">ဆက်တိုက်ရိုက်ချက် %d ခု ဖျက်လိုသလား။</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">တရစပ် ရိုက်ချက် %d ပုံအား ဖျက်မလား?</item>
@@ -144,14 +144,11 @@
     <plurals name="delete_media_from_local">
         <item quantity="other">အိုင်တမ် %dခု ဖျက်ပစ်မလား?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">စက်အားလုံးနှင့် Xiaomi ကလောက်မှ ဓာတ်ပုံ %d ပုံ ဖျက်လိုသလား။</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">အကြောင်းအရာ %d ခု ဖျက်လိုသလား။</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">သင့်စက်မှ တရစပ် ရိုက်ချက် %d ပုံအား ဖျက်မလား?</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">စက်အားလုံးနှင့် Xiaomi ကလောက်မှ ဗီဒီယို %d ခု ဖျက်လိုသလား။</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">ဖိုင် %1$d ခု ဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ</item>
@@ -234,9 +231,6 @@
     <plurals name="photo_count_format">
         <item quantity="other">စုစုပေါင်း အိုင်တမ် %1$d ခု</item>
     </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">%d ဒီဂရီလှည့်ရန်</item>
-    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d ရက်</item>
     </plurals>
@@ -289,7 +283,7 @@
         <item quantity="other">စုစုပေါင်း ဓာတ်ပုံ %d ပုံ</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">အိုင်တမ် %2$d ခုကို လျှို့ဝှက်အယ်လ်ဘမ်အတွင်းသို့ ပေါင်းထည့်၍ မရနိုင်ပါ။ %1$s။</item>
+        <item quantity="other">အကြောင်းအရာ %2$d ခုကို တစ်ကိုယ်ရေအယ်လဘမ်မှ ဖြုတ်မရပါ။ %1$s။</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">\"%2$s\"သို့ ဓာတ်ပုံ %1$dပုံ ထည့်ပြီး ဒေတာဘေ့စ်သို့ ပေါင်းထည့်ပြီးပြီ။</item>
@@ -359,6 +353,9 @@
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">မျှဝေ၍ မရပါ။ ဓာတ်ပုံ %d ပုံကို ဖန်တီးနေသည်…</item>
+    </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">ပို့ရန်အကြောင်းအရာ %d အထိရွေးပါ</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%1$s မှ ဗီဒီယို %2$d ခု</item>
@@ -433,7 +430,7 @@
         <item quantity="other">ဗီဒီယို %d ခု</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">ဓါတ်ပုံနှင့် ဗီဒီယို %d ခုအား အရန်မသိမ်းထားပါ</item>
+        <item quantity="other">အကြောင်းအရာ %d ခု ဆင့်(ခ်)မလုပ်ထားပါ</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">အိုင်တမ် %dခုသည် ကြီးလွန်းသောကြောင့် အရန်သိမ်း၍ မရပါ</item>
@@ -473,6 +470,12 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">%1$d ခု လွှဲပြောင်းမရပါ</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">%1$d ခု လွှဲပြောင်းမရပါ။ ဒေါင်းလုဒ်လုပ်ရန် i.mi.com သို့သွားပါ။</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">ရွေးထားသောအရာ %d ခု ကို ကလောက်နှင့်တကွ ဆင့်(ခ်)လုပ်ထားသော စက်အားလုံးမှ အပြီးဖျက်ပါမည်။ မဖြစ်မနေ ဖျက်လိုသလား။</item>
     </plurals>
@@ -490,6 +493,12 @@
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">၎င်းအရာများကို ဤနေရာတွင် %1$d ရက် (%2$s) သိမ်းထားနိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">အကြောင်းအရာများကို ဤနေရာတွင် %1$s ရက် သိမ်းနိုင်သည်။ ၎င်းကာလကို တိုးရန် တို့ပါ။</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">ဖျက်ထားသောအရာများကို ကလောက်တွင် %1$d ရက် သိမ်းပါသည်</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">၎င်းအရာများကို ဤနေရာတွင် %1$d ရက် သိမ်းထားနိုင်ပါသည်။ ၎င်းကာလကို တိုးမြှင့်လိုပါက သင့်အစီအစဉ်ကို အဆင့်မြှင့်ပါ။</item>

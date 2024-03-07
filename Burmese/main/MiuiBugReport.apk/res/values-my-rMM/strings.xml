@@ -52,6 +52,7 @@
     <string name="bugreport_dump_start_notification_title">ချွတ်ယွင်းချက်အစီရင်ခံစာကို ဖန်တီးနေ…</string>
     <string name="bugreport_tool_log_dumping_desc">တစ်မိနစ်ခန့် ကြာမည်</string>
     <string name="bugreport_tool_log_dumping_title">အမှားအစီရင်ခံစာ ဖန်တီးနေသည်</string>
+    <string name="can_not_add_more_image">ဓာတ်ပုံနှင့် ဗီဒီယိုများ ထပ်ထည့်မရပါ</string>
     <string name="catch_full_log_action_cancel">ပယ်ဖျက်မည်</string>
     <string name="catch_full_log_action_complete">ပြီးပါပြီ၊ ပေးပို့မည်</string>
     <string name="catch_full_log_action_start">စရန်</string>
@@ -127,6 +128,15 @@ ID - %s
     <string name="discard_draft_dialog_content">ဒီရီပို့ထဲ၌ သင်ပြုလုပ်သော အပြောင်းအလဲအားလုံး ပျောက်ဆုံးပါလိမ့်မည်။</string>
     <string name="discard_draft_dialog_title">အကြမ်းကို စွန့်ပစ်မလား။</string>
     <string name="doing_query_account">အကောင့်အချက်အလက်များစစ်နေသည်…</string>
+    <string name="dynamic_dialog_content">ဒိုင်းနမစ်မှတ်တမ်းများ စထုတ်ပါတော့မည်။ ၎င်းတို့တွင် (စနစ်ခေါ်ဆိုမှုများကဲ့သို့) ဆော့(ဖ်)ဝဲလည်ပတ်မှုများ ပါဝင်သည်။ ဒိုင်းနမစ်မှတ်တမ်းများထုတ်နေစဉ် စက်ရပ်သွားနိုင် သို့မဟုတ် အပူမြင့်နိုင်ပြီး ၎င်းကပုံမှန်ဖြစ်သည်။ မှတ်တမ်းများထုတ်ပြီးလျှင် ဤအင်္ဂါရပ်ကို ပိတ်ပါမည်။ ပြဿနာထပ်ဖြစ်ပါက တုံ့ပြန်အကြံပြုချက်ကို အချိန်မီတင်ပါ။ အောက်ပါ \"သဘောတူပါသည်\" ကို နှိပ်ခြင်းဖြင့် မှတ်တမ်းများထုတ်စဉ် သင်တိုင်ကြားသောပြဿနာများကို စိစစ်ဖြေရှင်းရန် အထက်ပါဒေတာများကောက်ယူပြီး မှတ်တမ်းများကို ကျွန်ုပ်တို့၏ဆာဗာများသို့ တင်မည်ဖြစ်ကြောင်း သဘောတူရာရောက်သည်။</string>
+    <string name="dynamic_dialog_negative_text">သဘောမတူပါ</string>
+    <string name="dynamic_dialog_notification_text">မှတ်တမ်းများထုတ်ပြီးလျှင် ဤအင်္ဂါရပ်ကို ပိတ်ပါမည်</string>
+    <string name="dynamic_dialog_notification_title">ဒိုင်းနမစ်မှတ်တမ်းများထုတ်နေသည်…</string>
+    <string name="dynamic_dialog_positive_text">သဘောတူပါသည်</string>
+    <string name="dynamic_dialog_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုကြေညာချက်</string>
+    <string name="dynamic_log_load_text">ခေတ္တစောင့်ပါ…</string>
+    <string name="dynamic_log_restore_toast_text">ဒိုင်းနမစ်မှတ်တမ်းများပြန်ယူနေသည်…</string>
+    <string name="dynamic_log_title">ဒိုင်းနမစ်မှတ်တမ်းများ</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
@@ -157,7 +167,7 @@ ID - %s
     <string name="facebook_login_btn_content_description">Facebook နှင့် အကောင့်ဝင်ရန်</string>
     <string name="failed_to_fetch_fql">FAQ အချက်အလက်များအား မရနိုင်ပါ။ ကွန်ရက်ချိတ်ဆက်မှုကို စစ်ပါ</string>
     <string name="feedback_account_inconsistent_login_hint">သင်အကောင့် ပြောင်းထားပုံရသည်။ ယခင် Xiaomi အကောင့်သို့ အကောင့်ဝင်ပါ။</string>
-    <string name="feedback_account_login_hint">သင့် Xiaomi အကောင့်သို့ ဦးစွာ အကောင့်ဝင်ပါ</string>
+    <string name="feedback_account_login_hint">Xiaomi အကောင့်သို့ အကောင့်ဝင်ရန်။</string>
     <string name="feedback_answer_detail_feedback_resolved">ဝင်သည်</string>
     <string name="feedback_answer_detail_feedback_result">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါသည်။</string>
     <string name="feedback_answer_detail_feedback_title">အသုံးတည့်ပါသလား။</string>
@@ -182,7 +192,7 @@ ID - %s
 %1$d။ ပြဿနာကြုံခဲ့ရသော အက်(ပ်)သို့မဟုတ် စာမျက်နှာကို ဖော်ပြပါ။
 %2$d. ဘာလုပ်လိုက်ပြီး ၎င်းပြဿနာ ဖြစ်သွားသလဲ။
 %3$d။ ပြဿနာဖြေရှင်းရာတွင် ကူညီနိုင်ရန် နောက်ထပ်အချက်အလက်များပေးပါ။"</string>
-    <string name="feedback_description_hint_suggestion">MIUI အား မည်သို့ ကောင်းမွန်အောင် လုပ်စေချင်သည်ကို ပြောပြပါ။</string>
+    <string name="feedback_description_hint_suggestion">တိုးတက်အောင် ဘယ်လိုလုပ်နိုင်မလဲ ပြောပြပါ။</string>
     <string name="feedback_description_suggest_hint">ကျွန်ုပ်လုပ်ဆောင်ချက်သွင်ပြင်အသစ် တစ်ချို့ ()ပေါင်းထည့်ချင်ပါသည် အဘယ့်ကြောင့်ဆိုသော () ၍ဖြစ်ပါသည်</string>
     <string name="feedback_detail_copy_toast">ကလစ်ဘုတ်သို့ ကူးလိုက်ပါပြီ</string>
     <string name="feedback_detail_feedback_attach">ပူးတွဲဖိုင်များ</string>
@@ -209,13 +219,13 @@ ID - %s
     <string name="feedback_evaluation_success_dialog_content">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါသည်။</string>
     <string name="feedback_evaluation_success_dialog_title">အောင်မြင်စွာ အဆင့်သတ်မှတ်ပြီးပါပြီ</string>
     <string name="feedback_guess">ကျွန်ုပ်တို့၏ ခန့်မှန်းချက်:</string>
-    <string name="feedback_history_remind_login_desc">သင့်အစီရင်ခံစာအခြေနေ အသေးစိတ်များအား ကြည့်ရှု့ရန် Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="feedback_history_remind_login_desc">သင့်အစီရင်ခံစာအခြေနေ အသေးစိတ်များအား ကြည့်ရှု့ရန် Xiaomi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
     <string name="feedback_id">အိုင်ဒီ- %d</string>
     <string name="feedback_jira_key">JIRA ကီး− %s</string>
     <string name="feedback_jira_key_place_holder">ဂျီရာ တစ်ခု ဖန်တီးနေသည်…</string>
     <string name="feedback_package_log_failed">ဖိနှိပ်ထားသော လော့များ မရနိုင်ခဲ့ပါ</string>
     <string name="feedback_remind_login_btn">ဆိုင်းအင်ဝင်</string>
-    <string name="feedback_report_remind_login_desc">ကျွန်ုပ်တို့ အင်ဂျင်နီယာမှ သင့်အား ဆက်သွယ်နိုင်ရန် သင့် Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="feedback_report_remind_login_desc">ကျွန်ုပ်တို့ အင်ဂျင်နီယာမှ သင့်အား ဆက်သွယ်နိုင်ရန် သင့် Xiaomi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="feedback_report_remind_login_desc2">သင့်တိုင်စာ၏ အခြေအနေကိုလည်း \"ကျွန်ုပ်၏ တုံ့ပြန်အကြံပြုချက်\" တွင် ကြည့်နိုင်သည်။</string>
     <string name="feedback_reproductivity_everytime">အချိန်တိုင်း</string>
     <string name="feedback_reproductivity_occasionally">တစ်ခါတစ်ရံ</string>
@@ -336,6 +346,10 @@ ID - %s
     <string name="hint_feedback_main">အကြောင်းကိစ္စ ဖော်ပြပါ</string>
     <string name="i_get_it">ရပါပြီ</string>
     <string name="i_know">နားလည်ပါပြီ</string>
+    <string name="icon_add_description">ပင်မစာမျက်နှာရှော့ကတ်ထည့်ရန်</string>
+    <string name="icon_remove_confirm">ဖယ်ရှားရန်</string>
+    <string name="icon_remove_description_content">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုမှု\"သည် စနစ်အက်(ပ်)ဖြစ်သည်။ ပင်မမျက်နှာပြင်ရှော့ကတ်မှ ဖြုတ်ပြီးလျှင်လည်း ဆက်တင်မှတစ်ဆင့် ဆက်သုံးနိုင်သည်။</string>
+    <string name="icon_remove_description_title">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုမှု\" ကို ပင်မစာမျက်နှာမှ ဖယ်ရှားလိုသလား။</string>
     <string name="input_email_address_notice">သင့်အကောင့်ကို အတည်ပြုစစ်ဆေးရန် ဤအီးမေးလ်ကို အသုံးပြုသွားပါမည်</string>
     <string name="issue_search">ရှာ​ဖွေမည်</string>
     <string name="jump_full_log_dialog_cancel">ပယ်ဖျက်မည်</string>
@@ -343,8 +357,8 @@ ID - %s
     <string name="jump_full_log_dialog_content">မှတ်တမ်းများသည် သင်တင်ပြရန် ပြင်ဆင်နေသည့် ပြဿနာ၏ တည်နေရာကို ရှာဖွေရန်နှင့် ဖြေရှင်းရန်အတွက် ကျွန်ုပ်တို့အား အထောက်အကူပြုပါသည်။ မှတ်တမ်းဖိုင်များဖန်တီး၍ ယင်းတို့အား သင်၏ တုံ့ပြန်အကြံပြုချက်နှင့်အတူ ပူးတွဲပေးပို့ပါ။</string>
     <string name="jump_full_log_dialog_title">မှတ်တမ်းများ ဖန်တီးရန်</string>
     <string name="kr_authorization_agree">လက်ခံမည်</string>
-    <string name="kr_authorization_contact">အကောင့်များ</string>
-    <string name="kr_authorization_contact_desc">စက်ပစ္စည်းကို စိစစ်အတည်ပြုနိုင်စေမည့် Mi အကောင့်ဆိုင်ရာ အချက်အလက်ကို ရယူကြည့်ရှုခြင်းအတွက်</string>
+    <string name="kr_authorization_contact">အကောင့်</string>
+    <string name="kr_authorization_contact_desc">စက်ပစ္စည်းကို စိစစ်အတည်ပြုနိုင်စေမည့် Xiaomi အကောင့်ဆိုင်ရာ အချက်အလက်ကို ရယူကြည့်ရှုခြင်းအတွက်</string>
     <string name="kr_authorization_exit">ထွက်မည်</string>
     <string name="kr_authorization_function">တုံ့ပြန်ချက်များ တင်သွင်းခြင်း၊ မှတ်တမ်းများ ထုတ်ပေးခြင်း၊ အမေးများသော မေးခွန်းများ ကြည့်ရှုခြင်း</string>
     <string name="kr_authorization_log_protocol">မှတ်တမ်း ပရိုတိုကော (ရွေးချယ်နိုင်သော)</string>
@@ -370,21 +384,116 @@ ID - %s
     <string name="logout_account">ဆိုင်းအောက်လုပ်မည်</string>
     <string name="menu_copy">ကော်ပီကူးပါ</string>
     <string name="message_label">မက်ဆေ့ချ်</string>
+    <string name="mi_service_app_name">ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="mi_service_back">နောက်သို့</string>
     <string name="mi_service_dialog_cancel">ထွက်ရန်</string>
     <string name="mi_service_dialog_confirm">ဖွင့်ရန်</string>
     <string name="mi_service_dialog_content">တုံ့ပြန်အကြံပြုချက်အင်္ဂါရပ်အားလုံးကို \"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" အက်(ပ်)သို့ ရွှေ့ထားပါသည်။ တုံ့ပြန်အကြံပြုချက် အက်(ပ်)ကို သင့်ပင်မစာမျက်နှာမှ ဖျက်လိုက်ပါမည်။ \"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို စမ်းသုံးရန် \"ဖွင့်ရန်\" ကို တို့ပါ။</string>
     <string name="mi_service_dialog_title">\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို မိတ်ဆက်ခြင်း</string>
     <string name="midnight">ည</string>
+    <string name="miui_feedback_answer_detail_community">မေးခွန်းများအတွက် Xiaomi Community တွင် အဖြေရှာနိုင်သည်</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">အသုံးဝင်ပါသည်</string>
+    <string name="miui_feedback_answer_detail_feedback_result">တုံ့ပြန်အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါသည်။</string>
+    <string name="miui_feedback_answer_detail_feedback_title">ဤအချက်အလက်များ အသုံးဝင်ပါသလား။</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">အသုံးမဝင်ပါ</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">အွန်လိုင်းအကူအညီရယူရန်</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">ကူညီရေးရာဌာနကို ဖုန်းခေါ်ရန်</string>
+    <string name="miui_feedback_answer_detail_relative_tip">သက်ဆိုင်ရာအချက်အလက်များ</string>
+    <string name="miui_feedback_answer_detail_title">အသေးစိတ်</string>
+    <string name="miui_feedback_edit_action_submit">ပိုရန်</string>
+    <string name="miui_feedback_edit_add_original_images">ပုံထည့်ရန်</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">သင်တိုင်ကြားလိုသော ပြဿနာသည် ကင်မရာရုပ်ထွက်နှင့် သက်ဆိုင်ပါက ပြဿနာကို ကျွန်ုပ်တို့ ဖြေရှင်းပေးနိုင်ရန်အတွက် နမူနာပုံမူရင်းတစ်ခုကို မဖြတ်တောက်ဘဲ ထည့်ပေးပါ။ ပုံကို ယခုထည့်လိုပါသလား။</string>
+    <string name="miui_feedback_edit_choose_module">အကြောင်းအရာရွေးရန်</string>
+    <string name="miui_feedback_edit_choose_module_hint">လိုအပ်သည်များ</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">အချိန်</string>
+    <string name="miui_feedback_edit_choose_reproductivity">ဖြစ်နိုင်ခြေ</string>
+    <string name="miui_feedback_edit_choose_third_app_name">အက်(ပ်)အမည် ရွေးရန်</string>
+    <string name="miui_feedback_edit_contact_info_hint">ဖုန်းနံပါတ်/အီးမေး(လ်)</string>
+    <string name="miui_feedback_edit_delete_images">ပုံများဖျက်ရန်</string>
+    <string name="miui_feedback_edit_desc_hint">သင်ကြုံတွေ့ရသော ပြဿနာကို ရှင်းပြပါ</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">MIUI မည်သို့ကောင်းမွန်အောင်လုပ်စေလိုကြောင်း ပြောပြပါ</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">ဤနေရာတွင် ဆက်နေရန်</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">ဖျက်ရန်</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">ဤတိုင်စာတွင် ပြုလုပ်ထားသော အပြောင်းအလဲအားလုံး ပျောက်သွားပါမည်။</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">စာကြမ်းကို ဖျက်လိုပါသလား။</string>
+    <string name="miui_feedback_edit_hint">ချွတ်ယွင်းချက်များကို အမြန်ဆုံး ဖြေရှင်းပေးနိုင်ရန်အတွက် ချွတ်ယွင်းချက်များကြုံရတိုင်း သတင်းပို့ပါ</string>
+    <string name="miui_feedback_edit_hint_gone">ပိတ်ထားသော မက်ဆေ့(ချ်)</string>
+    <string name="miui_feedback_edit_hint_optional">ရွေးပါ</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi ကို စောင့်ရန်</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">တင်ရန်</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">သင်သည် အခပေးရသော ကွန်ရက်နှင့် ချိတ်ဆက်ထားပုံရသည်။ မှတ်တမ်းများ တင်ခြင်းဖြင့် အပိုငွေများကုန်ကျနိုင်ပါသည်။</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">ဒေတာသုံးနှုန်းသတိပေးချက်</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">ပြဿနာများကို နေရာချရာတွင် ကူညီနိုင်မည့် IMEI နံပါတ်ကို ဖတ်ခွင့်ပြုရန်အတွက် ဤအက်(ပ်)အား စက်အချက်အလက်ကို ဝင်သုံးခွင့်ပြုပါ။ ဆက်တင်များကို ဖွင့်ရန် \"အိုကေ\" ကို တို့ပါ။</string>
+    <string name="miui_feedback_edit_need_storage_permission">သင့်တုံ့ပြန်အကြံပြုချက်တွင် ပုံများနှင့် ဗီဒီယိုများထည့်နိုင်ရန်အတွက် ဤအက်(ပ်)အား စက်သိုလှောင်ခန်းကို ဝင်သုံးခွင့်ပြုပါ။ ဆက်တင်များကို ဖွင့်ရန် \"အိုကေ\" ကို တို့ပါ။</string>
+    <string name="miui_feedback_edit_permission_denied_title">ကန့်သတ်ထားသော ခွင့်ပြုချက်များ - %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">စက်အချက်အလက် ဝင်သုံးရန်</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">အချိန်တိုင်း</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">အခါအားလျော်စွာ</string>
+    <string name="miui_feedback_edit_reproductivity_often">မကြာခဏ</string>
+    <string name="miui_feedback_edit_reproductivity_once">တစ်ကြိမ်</string>
+    <string name="miui_feedback_edit_select_images">ပုံသို့မဟုတ် ဗီဒီယိုအတိုတစ်ခု ထည့်ရန်</string>
+    <string name="miui_feedback_edit_select_modem_log">မိုဒန်းမှတ်တမ်းများထည့်ရန်</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">\"မိုဒန်းမှတ်တမ်းထည့်စရာများ\" မရွေးရသေးပါ</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">ရွေးထားသော \"မိုဒန်းမှတ်တမ်းထည့်စရာများ\"</string>
+    <string name="miui_feedback_edit_select_original_images">မူလပုံ သို့မဟုတ် ဗီဒီယိုအတိုတစ်ခု ထည့်ရန်</string>
+    <string name="miui_feedback_edit_select_problem">ပြဿနာများ</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">\"ပြဿနာများ\" မရွေးရသေးပါ</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">ရွေးထားသော \"ပြဿနာများ\"</string>
+    <string name="miui_feedback_edit_select_suggestion">အကြံပြုချက်များ</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">\"အကြံပြုချက်များ\" မရွေးရသေးပါ</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">ရွေးထားသော \"အကြံပြုချက်များ\"</string>
+    <string name="miui_feedback_edit_select_upload_log">မှတ်တမ်းများထည့်ရန်</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">\"မှတ်တမ်းထည့်စရာများ\" မရွေးရသေးပါ</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">ရွေးထားသော \"မှတ်တမ်းထည့်စရာများ\"</string>
+    <string name="miui_feedback_edit_storage_permission_name">စက်သိုလှောင်ခန်း ဝင်သုံးရန်</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">သဘောမတူပါ</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">သဘောတူသည်</string>
+    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data>You must agree to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a> to be able to use Feedback. The issues you report along with the items you attach (might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data>Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">ထပ်မပြပါနှင့်</string>
+    <string name="miui_feedback_edit_submit_dialog_title">အစီရင်ခံစာ ပေးပို့မည်</string>
+    <string name="miui_feedback_edit_submit_directly">တင်ရန်</string>
+    <string name="miui_feedback_edit_title_occurrence_time">အချိန်ရွေးပါ</string>
+    <string name="miui_feedback_edit_title_reproductivity">ဖြစ်နိုင်ခြေရွေးပါ</string>
+    <string name="miui_feedback_edit_toast_description_required">ဦးစွာ ပြဿနာကို ရှင်းပြပါ</string>
+    <string name="miui_feedback_edit_toast_module_required">အကြောင်းအရာရွေးရန်</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">ရှင်းလင်းချက် အရှည်ရေးရပါမည်</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">အမျိုးအစားရွေးရန်</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">အက်(ပ်)အမည်ထည့်ရန်</string>
+    <string name="miui_feedback_main_answer_title">ဤမေးခွန်းအတွက် အဖြေတစ်ခုရှိပါသည်</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"ဝန်ဆောင်မှုဟော့လိုင်း - 0120-300-521
+ရုံးချိန် - 9:00 - 18:00 (ဘဏ်ပိတ်ရက်နှင့် သတ်မှတ်အားလပ်ရက်များမှအပ)
+အီးမေး(လ်) - service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">မေးလေ့ရှိသောမေးခွန်းများ</string>
+    <string name="miui_feedback_main_item_catch_full_log">မှတ်တမ်းများ</string>
+    <string name="miui_feedback_main_item_customer_service">ရောင်းပြီးနောက် ဝန်ဆောင်မှုများ</string>
+    <string name="miui_feedback_main_item_feedback_list">ကျွန်ုပ်၏ တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="miui_feedback_main_item_official_progress">Repair progress</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Update repair progress regularly in Xiaomi Community</string>
+    <string name="miui_feedback_main_menu_view_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
+    <string name="miui_feedback_main_search_footer">သင်မေးလိုသော မေးခွန်းများ မဟုတ်ဘူးလား။</string>
+    <string name="miui_feedback_main_search_footer_submit">တုံ့ပြန်အကြံပြုချက်တင်ရန်</string>
+    <string name="miui_feedback_main_search_issue">အဓိကစာလုံး ရိုက်ထည့်ပြီး ရှာပါ</string>
+    <string name="miui_feedback_main_search_no_answer">ရလဒ်များ မတွေ့ပါ</string>
+    <string name="miui_feedback_main_start_submit">တုံ့ပြန်အကြံပြုချက်တင်ရန်</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">တင်ရန်</string>
+    <string name="miui_feedback_main_submit_dialog_content">သင့်ပြဿနာအတွက် အဖြေရှိပုံမရပါ။ ကျွန်ုပ်တို့ထံ တုံ့ပြန်အကြံပြုချက် တင်နိုင်ပါသည်။</string>
+    <string name="miui_feedback_main_submit_dialog_title">တုံ့ပြန်အကြံပြုချက်တင်ရန်</string>
+    <string name="miui_feedback_main_title">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="miui_feedback_main_withdraw">ရုပ်သိမ်းရန်</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် %1$s ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ %2$s သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် %3$s ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Install Xiaomi Community to be able to use this feature.</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -465,6 +574,7 @@ ID - %s
     <string name="month_september_shortest">စက်တင်ဘာ</string>
     <string name="more">နောက်ထပ်</string>
     <string name="morning">နံနက်</string>
+    <string name="net_daig_network_repair">ကွန်ရက်ပြုပြင်ခြင်း</string>
     <string name="net_diag_cancel">မလုပ်တော့ရန်</string>
     <string name="net_diag_continue">ရှေ့ဆက်ရန်</string>
     <string name="net_diag_dialog_msg">ကွန်ရက်စစ်ခြင်းဖြင့် ပြဿနာများကို သိနိုင်ပြီး လိုင်းပိုကောင်းစေပါသည်။</string>
@@ -479,9 +589,15 @@ ID - %s
     <string name="net_diag_entry_network_protocol">ကွန်ရက်ပရိုတိုကော</string>
     <string name="net_diag_entry_network_rssi">လိုင်းအားအရည်အသွေး</string>
     <string name="net_diag_entry_router_topology">ကွန်ရက်လမ်းကြောင်း</string>
+    <string name="net_diag_fix_guide_window_msg">ကွန်ရက်အမှားအယွင်းရှိသည်။ ပြဿနာအဖြေရှာရန် တို့ပါ။</string>
+    <string name="net_diag_fixing">ကွန်ရက်ပြင်နေသည်။ တစ်မိနစ်ခန့်ကြာနိုင်သည်။</string>
     <string name="net_diag_header_internet">အင်တာနက်</string>
     <string name="net_diag_header_router">ရောက်ဒါ</string>
     <string name="net_diag_header_this_device">ဤစက်</string>
+    <string name="net_diag_repair_msg">ဤလုပ်ငန်းစဉ်အတွင်း Wi-Fi ပြုတ်သွားပြီး ပြန်ချိတ်ပါမည်။ ပြင်လိုသလား။</string>
+    <string name="net_diag_repair_msg_china">ဤလုပ်ငန်းစဉ်အတွင်း WLAN ပြုတ်သွားပြီး ပြန်ချိတ်ပါမည်။ ပြင်လိုသလား။</string>
+    <string name="net_diag_repair_static_ip_msg">ဤလုပ်ငန်းစဉ်အတွင်း ကွန်ရက်ဖွဲ့စည်းပုံများကို ပြန်သတ်မှတ်နိုင်သည်။ ယခုပြင်လိုသလား။</string>
+    <string name="net_diag_repair_title">ကွန်ရက်ပြင်လိုသလား။</string>
     <string name="net_diag_title">ကွန်ရက်စစ်ရန်</string>
     <string name="net_diag_toast_cellular_data">ကွန်ရက်စစ်ရန် မိုဘိုင်းဒေတာ ဦးစွာပိတ်ပါ။</string>
     <string name="net_diag_toast_other_networks">ကွန်ရက်စစ်ရန် ဦးစွာ Wi-Fi ချိတ်ပြီး အခြားကွန်ရက်များမှ ဖြုတ်ပါ။</string>
@@ -499,6 +615,7 @@ ID - %s
     <string name="no_account">အကောင့်ဝင်မထားပါ</string>
     <string name="non_system_app_select">ဒေါင်းလုဒ်လုပ်ထာသော အက်ပ်များ</string>
     <string name="noon">မွန်းတည့်</string>
+    <string name="not_support_service_in_maintenance_mode">ထိန်းသိမ်းရေးမုဒ်တွင် ဤဝန်ဆောင်မှု မရရှိနိုင်ပါ</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">နောက်ထပ်</string>
     <string name="open_settings">ဆက်တင်</string>
@@ -595,6 +712,26 @@ ID - %s
     <string name="passport_wrong_phone_number_format">သင်ထည့်သွင်းထားသော ဖုန်းနံပါတ်ပုံစံ မမှန်ကန်ပါ</string>
     <string name="passport_wrong_vcode">သင်ထည့်သွင်းထားသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_wrong_voice">သင်ထည့်သွင်းထားသောကုဒ် မမှန်ကန်ပါ</string>
+    <string name="permission_agree">သဘောတူရန်</string>
+    <string name="permission_china_version_msg">&lt;Data>ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက် ကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အင်တာနက်ချိတ်ရပါမည်။&lt;/Data></string>
+    <string name="permission_complete">ပြီးပါပြီ</string>
+    <string name="permission_contacts_info">အကောင့်အချက်အလက်ဝင်သုံးရန်</string>
+    <string name="permission_contacts_introduce">Xiaomi အကောင့် သုံးပြီး အကောင့်ဝင်ခြင်းအတွက်</string>
+    <string name="permission_device_info">စက်အချက်အလက် ဝင်သုံးရန်</string>
+    <string name="permission_device_introduce">ကန့်သတ်အာမခံကာလ ဆုံးဖြတ်ခြင်းအတွက်</string>
+    <string name="permission_exit">ထွက်ရန်</string>
+    <string name="permission_external_storage_introduce">သင့်တုံ့ပြန်အကြံပြုချက်ကို သိမ်းရန်နှင့် တင်ရန်</string>
+    <string name="permission_first_start_network_title">စည်းမျဉ်းစည်းကမ်းများ</string>
+    <string name="permission_imei_disable_desc">ဤအက်(ပ်)ကို အင်တာနက်ချိတ်ခွင့်ပြုပါ။</string>
+    <string name="permission_imei_enable_desc">ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပြီး အထက်တွင်ဖော်ပြထားသော မရှိမဖြစ် ခွင့်ပြုချက်များကို ပေးပါ။</string>
+    <string name="permission_location_introduce">အနီးအနားရှိဝန်ဆောင်မှုပေးသော နေရာများကို ပြသရန်</string>
+    <string name="permission_main_purpose">အစမ်းသုံးအင်္ဂါရပ်များပြသခြင်း၊ တုံ့ပြန်အကြံပြုချက်တင်ခြင်းနှင့် နောက်ဆက်တွဲဝန်ဆောင်မှုများ လျှောက်ခြင်း။</string>
+    <string name="permission_privacy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ (မဖြစ်မနေ)</string>
+    <string name="permission_region_version_msg">&lt;Data>\"ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်\" ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="permission_select_all">အားလုံး ရွေးပါ</string>
+    <string name="permission_storage">သိုလှောင်ခန်း</string>
+    <string name="permission_storage_introduce">သင့်စက်တွင်အမယ်များသိမ်းဆည်းခြင်းအတွက်</string>
+    <string name="permission_user_protocol">အသုံးပြုသူသဘောတူညီချက် (မဖြစ်မနေ)</string>
     <string name="phone_auto_login_register_with_local_number">အကောင့်ဖွင့်ရန်</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ။</string>
     <string name="please_download_gallery">ပုံကြည့်ရန် ပြခန်းထည့်ပါ</string>
@@ -609,6 +746,14 @@ ID - %s
     <string name="progressbar_title">လုံခြုံရေးပြဿနာများကို စိစစ်နေသည်…</string>
     <string name="protocal_dialog_confirm">သဘောတူပါသည်</string>
     <string name="protocal_dialog_title">သတိပြုရန်</string>
+    <string name="public_authorize_now">ဆက်တင်များ</string>
+    <string name="public_loading_text">ခေတ္တစောင့်ပါ…</string>
+    <string name="public_net_error_retry">ထပ်လုပ်ကြည့်ပါ</string>
+    <string name="public_net_error_sub_title">သင့်ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
+    <string name="public_net_error_title">ကွန်ရက်သို့ ချိတ်မရပါ</string>
+    <string name="public_open_feedback_service">စရန်</string>
+    <string name="public_please_authorize">ရှေ့ဆက်ရန် ခွင့်ပြုချက်များလိုသည်</string>
+    <string name="public_welcome_use_feedback_service">ဝန်ဆောင်မှုများနှင့် တုံ့ပြန်အကြံပြုချက်မှ ကြိုဆိုပါသည်။ တုံ့ပြန်အကြံပြုချက်များတင်ရန်၊ အမေးများသော မေးခွန်းများကို ကြည့်ရန်၊ ကုန်ပစ္စည်းပြန်ပို့မှုများနှင့် ဖလှယ်မှုများ လျှောက်ထားရန်နှင့် အခြားအရာများအတွက် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="qq_login_btn_content_description">QQ နှင့် အကောင့်ဝင်ရန်</string>
     <string name="refresh">ပြန်လန်းဆန်း</string>
     <string name="register_by_local_phone_long_text">အကောင့်လုပ်ရန်</string>
@@ -618,7 +763,7 @@ ID - %s
     <string name="reply_option_log_hint">ရွေးချယ်နိုင်သော</string>
     <string name="reply_select_log_hint">မှတ်တမ်း ရွေးပါ</string>
     <string name="reply_successful">စာပြန်မှု အောင်မြင်ခဲ့သည်</string>
-    <string name="report_miui">ချွတ်ယွင်းမှု ရီပို့တင်ပါ</string>
+    <string name="report_miui">တုံ့ပြန်အကြံပြုချက်ပို့ရန်</string>
     <string name="request_agree">ခွင့်ပြုရန်</string>
     <string name="request_camera_permission_message">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တည်ဆဲဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများနှင့်အညီ ကာကွယ်ပါမည်။ ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် - &lt;br>&lt;br>&lt;b>ကင်မရာအသုံးပြုခြင်း (သင့်ပရိုဖိုင်ပုံကို သတ်မှတ်ရန်)&lt;/b>&lt;br>&lt;br> ထိုခွင့်ပြုချက်များကို သင်သဘောမတူပါက ဤအက်(ပ်)၏ အချို့အင်္ဂါရပ်များကို သုံးနိုင်မည်မဟုတ်ဘဲ အခြေခံလုပ်ဆောင်ချက်များသာ ရရှိပါမည်။ ဆက်တင်များထဲတွင် ခွင့်ပြုချက်များကို ကန့်သတ်ခြင်း သို့မဟုတ် ပြန်ရုတ်သိမ်းခြင်းကို အချိန်မရွေး ပြုလုပ်နိုင်သည်။</string>
     <string name="request_cancel">မလုပ်တော့ရန်</string>
@@ -651,9 +796,9 @@ ID - %s
     <string name="stop_full_log_dialog_title">မှတ်တမ်းများကောက်ယူနေသည်…</string>
     <string name="submit_dialog_cancel">သဘောမတူပါ</string>
     <string name="submit_dialog_confirm">သဘောတူပါသည်</string>
-    <string name="submit_dialog_content">&lt;Data>တုံ့ပြန်အကြံပြုချက်မပို့မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင်တိုင်ကြားသော ပြဿနာနှင့် ပူးတွဲပို့ထားသော (ကိုယ်ရေးအချက်အလက်များနှင့် သင့်စက်ပစ္စည်းနှင့် ကွန်ရက်ဆိုင်ရာအချက်အလက်များပါဝင်နိုင်သည့်) အကြောင်းအရာများကို MIUI ဆာဗာများတွင် တင်ပါမည်။ သို့မှသာ သင်တိုင်ကြားသော ပြဿနာများကို နေရာရှာပြီး ဖြေရှင်းနိုင်မည်ဖြစ်သည်။ စက်အမျိုးမျိုးအတွက် ပြဿနာများကို တိုင်ကြားလိုပါက သင့် Mi အကောင့်သုံးသော အခြားစက်များမှ မှတ်တမ်းများကိုလည်း တင်ပါမည်။&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>သင်၏ တုံ့ပြန်အကြံပြုချက်နှင့်အတူ ပူးပွဲပါဖိုင်များ (တွဲထားပါက) နှင့် မှတ်တမ်းများ (မတင်လိုပါက သက်ဆိုင်ရာအကွက်တွင် အမှန်မခြစ်ပါနှင့်) တို့ကို MIUI ဆာဗာများတွင် တင်ပါမည်။ မှတ်တမ်းများတွင် သင်၏ ကိုယ်ရေးအချက်အလက်များနှင့် သင့်တည်နေရာအချက်အလက်များ ပါဝင်နိုင်သည်။ \"သဘောတူသည်\" ကို ရွေးခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရာရောက်ပါသည်။&lt;/Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>သင့်တုံ့ပြန်အကြံပြုချက်နှင့်တကွ ပူးတွဲပါဖိုင်များ (တွဲထားပါက)၊ မှတ်တမ်းများ (မတင်လိုပါက သက်ဆိုင်ရာအကွက်တွင် အမှန်မခြစ်ပါနှင့်)၊ ဖုန်းနံပါတ် သို့မဟုတ် အီးမေး(လ်)တို့ကို MIUI ဆာဗာများတွင် တင်ပါမည်။ မှတ်တမ်းများတွင် ကိုယ်ရေးကိုယ်တာအချက်အလက်များနှင့် တည်နေရာအချက်အလက်များ ပါနိုင်သည်။ \"သဘောတူသည်\" ကို ရွေးခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏&lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရာရောက်သည်။&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>တုံ့ပြန်အကြံပြုချက်မပို့မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင်တိုင်ကြားသောပြဿနာနှင့် ပူးတွဲပို့ထားသော (ကိုယ်ရေးကိုယ်တာအချက်အလက်များ၊ သင့်စက်ပစ္စည်းနှင့် ကွန်ရက်ဆိုင်ရာအချက်အလက်များပါဝင်နိုင်သည့် မှတ်တမ်းများအပါအဝင်) အကြောင်းအရာများကို ကျွန်ုပ်တို့၏ဆာဗာများတွင် တင်ပါမည်။ သို့မှသာ သင်တိုင်ကြားသော ပြဿနာများကို နေရာရှာပြီး ဖြေရှင်းနိုင်မည်ဖြစ်သည်။ စက်အမျိုးမျိုးအတွက် ပြဿနာများကို တိုင်ကြားလိုပါက သင့် Xiaomi အကောင့်သုံးသော အခြားစက်များမှ မှတ်တမ်းများကိုလည်း တင်ပါမည်။&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>တုံ့ပြန်အကြံပြုချက်နှင့်အတူ ပူးတွဲပါဖိုင်များ (တွဲထားပါက) နှင့် မှတ်တမ်းများ (မတင်လိုပါက သက်ဆိုင်ရာအကွက်တွင် အမှန်မခြစ်ပါနှင့်) တို့ကို ကျွန်ုပ်တို့၏ဆာဗာများတွင် တင်ပါမည်။ မှတ်တမ်းများတွင် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များနှင့် တည်နေရာအချက်အလက်များ ပါဝင်နိုင်သည်။ \"သဘောတူသည်\" ကို ရွေးခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရာရောက်သည်။&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>တုံ့ပြန်အကြံပြုချက်နှင့်အတူ ပူးတွဲပါဖိုင်များ (တွဲထားပါက) နှင့် မှတ်တမ်းများ (မတင်လိုပါက သက်ဆိုင်ရာအကွက်တွင် အမှန်မခြစ်ပါနှင့်) တို့ကို ကျွန်ုပ်တို့၏ဆာဗာများတွင် တင်ပါမည်။ မှတ်တမ်းများတွင် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များနှင့် တည်နေရာအချက်အလက်များ ပါဝင်နိုင်သည်။ \"သဘောတူသည်\" ကို ရွေးခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> နှင့် &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရာရောက်သည်။&lt;/Data></string>
     <string name="submit_dialog_not_show_again">ထပ်မပြပါနှင့်</string>
     <string name="submit_dialog_title">အစီရင်ခံစာ ပေးပို့မည်</string>
     <string name="submit_feedback_info_failed">အစီရင်ခံစာကို ပို့လို့မရပါ</string>

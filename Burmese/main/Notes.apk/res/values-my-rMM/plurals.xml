@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,7 +25,7 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">အိုင်တမ် %1$s ခုအား ဖျက်ပစ်မလား?</item>
@@ -60,9 +60,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">%d မိနစ် အကြာမှာ</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">%1$s ခု</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
@@ -80,9 +77,6 @@
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d စက္ကန့် ကျန်သေးသည်</item>
-    </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">မှတ်စု %1$s ခုအား ကွယ်ဝှက်ထားပြီ</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">မှတ်စု %1$s ခုအား ဖော်ထုတ်ထားသည်</item>

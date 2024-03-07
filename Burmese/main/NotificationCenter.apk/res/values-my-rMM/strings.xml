@@ -31,7 +31,7 @@
     <string name="feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="float_notification_snooze_strategy">ယာယီဖျောက်ထားရန်</string>
     <string name="float_notification_snooze_summary">လာမည့်အရာများကို ယာယီဖျောက်ထားရန် မျောလွင့်အသိပေးချက်တွင် အပေါ်ပွတ်ဆွဲပါ</string>
-    <string name="float_notification_snooze_summary_1_min">Swipe up on a floating notification to hide upcoming ones for %d minute</string>
+    <string name="float_notification_snooze_summary_1_min">မျောလွင့်အသိပေးချက်အသစ်များကို %d မိနစ် ဖုံးထားရန် တစ်ခုကို အပေါ်ပွတ်ဆွဲပါ</string>
     <string name="float_notification_snooze_summary_always_float">မျောလွင့်အသိပေးချက်များ အမြဲခွင့်ပြုရန်</string>
     <string name="float_notification_snooze_summary_until_unlock">မျောလွင့်အသိပေးချက်အသစ်များကို စက်သော့ဖွင့်သည်အထိ ဖုံးထားရန် တစ်ခုကို အပေါ်ပွတ်ဆွဲပါ</string>
     <string name="float_notifications">အရှင်ထားနိုင်သော အသိပေးချက်များ</string>

@@ -20,8 +20,10 @@
     <string name="anti_flicker_mode">ရောင်ပြန်လျှော့စနစ်</string>
     <string name="anti_flicker_mode_categroy">မုဒ်များ</string>
     <string name="anti_flicker_mode_summary">အလင်းရောင်အားနည်းသော အခြေအနေများတွင် ရောင်ပြန်များခြင်းကို ကာကွယ်ပြီး မျက်စိစူးခြင်းကို လျှော့ချပေးသည်</string>
+    <string name="anti_flicker_mode_summary_new">မျက်စိစူးခြင်းလျှော့ရန် အလင်းရောင်အားနည်းချိန်တွင် DC အလင်းမှိန်စနစ်သုံးပါ</string>
     <string name="anti_flicker_title">ဖလက်ရှ် တားဆီးမုဒ်</string>
     <string name="app_name">ဆက်တင်များ</string>
+    <string name="app_use">အက်ပ် မျက်နှာပြင် အချိန်</string>
     <string name="application_sound">အက်(ပ်)အသိပေးချက်များ</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -84,7 +86,6 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Brown pelican</string>
     <string name="calendar_sound">ဖြစ်စဉ်အသိပေးချက်အသံများ</string>
-    <string name="calendar_tip">ဖြစ်စဉ်အသိပေးချက်အသံများကို ပြက္ခဒိန်အသိပေးချက်များ၊ မှတ်စုများနှင့် လုပ်ငန်းစဉ်များအတွက် သုံးသည်။</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
@@ -142,7 +143,8 @@
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
     <string name="desktop_widget_authorization">ကိန်းဂဏန်းများကြည့်နိုင်ရန်အတွက် ခွင့်ပြုချက်များပေးရန် တို့ပါ</string>
     <string name="desktop_widget_authorization_new">မျက်နှာပြင်ဖွင့်ထားချိန်ကိန်းဂဏန်းများကိုကြည့်ရန် တို့ပါ</string>
-    <string name="desktop_widget_not_support">မျက်နှာပြင်ဖွင့်ထားချိန်ကိန်းဂဏန်းများကို ဒုတိယနေရာတွင် မထုတ်လွှတ်ပါ</string>
+    <string name="desktop_widget_not_support">"မျက်နှာပြင်ဖွင့်ထားချိန်ကိန်းဂဏန်းများကို
+ဒုတိယနေရာတွင် မထုတ်လွှတ်ပါ"</string>
     <string name="desktop_widget_screen_use_time">မျက်နှာပြင်ဖွင့်ထားချိန်</string>
     <string name="device_limit_enable">ဖွင့်ရန်</string>
     <string name="device_limit_un_enable">ပိတ်ရန်</string>
@@ -226,6 +228,10 @@
     <string name="focus_time_exception_tip">စနစ်ပိုင်းဆိုင်ရာ အချိန်စနစ် ပြောင်းသွားခဲ့ပုံ ရပါသည်။ ဆုံချက်မုဒ်ကို ပိတ်လိုက်ပါ။</string>
     <string name="follow_apps_settings">အက်(ပ်)ဆက်တင်အလိုက်</string>
     <string name="follow_sim1">SIM ၁ ဆက်တင်များကို သုံးရန်</string>
+    <string name="footer_global_fps">"
+%1$d။ စွမ်းဆောင်ရည်မုဒ်ဖွင့်ချိန်တွင် ရီဖရက်(ရှ်)နှုန်းသည် စနစ်၏ အမြင့်ဆုံး %2$d Hz သို့ ပြောင်းသွားပါမည်။ ရီဖရက်(ရှ်)နှုန်းအမြင့် အက်(ပ်)ဆက်တင်များ ယာယီမရရှိနိုင်ပါ။"</string>
+    <string name="footer_max_fps" formatted="false">"
+%d။ ပံ့ပိုးသောအက်(ပ်)များနှင့် ဂိမ်းများအတွက် ရီဖရက်(ရှ်)နှုန်းကို %s Hz အထိ ညှိနိုင်သည်။"</string>
     <string name="force_rest">ဆက်ရှင်နားချိန်များ သုံးရန်</string>
     <string name="force_rest_summary">ဆက်ရှင်များ အကန့်အသတ်သို့ရောက်လျှင် မဖြစ်မနေ နားချိန် ယူပါ</string>
     <string name="force_rest_time">နားချိန်ကာလ</string>
@@ -338,18 +344,21 @@
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">The marabou stork is a massive bird, a frequent scavenger.</string>
     <string name="masked_palm_civet">Masked palm civet</string>
+    <string name="max_fps_string">%s Hz အထိ</string>
     <string name="medium_tree_finch">Medium tree finch</string>
+    <string name="mi_transfer_banner_summary">စက်တံဆိပ်အမျိုးမျိုးကို ပံ့ပိုးသည်</string>
+    <string name="mi_transfer_banner_title">စက်အဟောင်းမှ အကြောင်းအရာများကို လွှဲပြောင်းရန်</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -499,6 +508,7 @@
     <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (ဓာတ်ခဲကုန်သက်သာသည်)</string>
     <string name="screen_fps_unit_smooth">%dHz (အရည်အသွေးပိုကောင်းသည်)</string>
+    <string name="screen_fps_unit_string">%s Hz</string>
     <string name="screen_original_gamut">မြှင့်တင်ပြီးပါပြီ</string>
     <string name="screen_original_gamut_summary">မျက်နှာပြင်အကြောင်းအရာအားလုံးအား အစုံလင်ဆုံးသော ရောင်စုံပြကွက်အတွင်းတွင် ပြသမည်</string>
     <string name="screen_paper_mode_apps_loading">ခေတ္တစောင့်ပါ…</string>
@@ -554,6 +564,7 @@
     <string name="stop_app_timer_tip">ဤအင်္ဂါရပ်ကို သင်ပိတ်ပြီးနောက်တွင် တစ်ကိုယ်ရေဆက်တင်များအပြင် စက်အတွင်းသိမ်းဆည်းထားသော အိုင်တမ်များနှင့် ကလောက်ပေါ်တွင် ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များအပါအဝင် Screen time အချက်အလက်များနှင့် ခွင့်ပြုချက်များအားလုံးကို ဖျက်ပစ်ပါမည်။</string>
     <string name="stop_summary">ဤအင်္ဂါရပ်ကို သင်ပိတ်လိုက်သောအခါတွင် Screen time အချက်အလက်များအားလုံးကို ဖျက်ပစ်ပါမည်။</string>
     <string name="suggestion">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="summary_max_fps_for_intelligent">ဖြစ်စဉ်အပေါ်မူတည်ပြီး စွမ်းဆောင်ရည်နှင့် ဓာတ်အားသုံးစွဲမှု မျှတစေရန် ရီဖရက်(ရှ်)နှုန်းကို %s Hz အထိ အရှိန်ပြင်းပြင်း မြှင့်နိုင်သည်။</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
@@ -708,7 +719,7 @@
 ဤအက်ပ်အား အင်တာနက်ဖြင့် ချိတ်ဆက်ပေးရန် လိုအပ်သကဲ့သို့ သင်၏ ကိုယ်ရေးအချက်အလက်များကို စုဆောင်းရန်အတွက် အောက်ဖော်ပြပါ ခွင့်ပြုချက်များကိုလည်း လိုအပ်ပါသည် -"</string>
     <string name="usage_home_premission_second_summary">ပုံမှန်အလုပ်လုပ်ရန်အတွက် ဤအက်ပ်သည် သင့်ကိုယ်ရေးအချက်အလက်များကို စုဆောင်းရန် လိုအပ်ပါသည််။ သင့်ကိုယ်ရေးအချက်အလက်များအား ဆက်စပ်ဥပဒေများ၊ နည်းဥပဒေများ၊ ကိုယ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကျွန်ုပ်တို့က ကာကွယ်ပေးသွားပါမည်။</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပါမည်။သင်သည် အဆိုပါခွင့်ပြုချက်များ ပေးရန် သို့မဟုတ် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တင်ရန် သဘောမတူပါက ဤအက်(ပ်)ကို သုံးမရပါ။ မျက်နှာပြင်ဖွင့်ထားချိန် > ဆက်တင်များ > မျက်နှာပြင်ဖွင့်ထားချိန်ကို ပိတ်ရန် အားရွေးပြီး ခွင့်ပြုချက်ကို ရုတ်သိမ်းနိုင်သည်။</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href='%1s'>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href='%2s'>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data>"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href='%1s'>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href='%2s'>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။"</Data></string>
     <string name="usage_home_premission_second_summary_new">ကျွန်ုပ်တို့သည် သင်၏ ကိုယ်ရေးအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေ၊ နည်းဥပဒေများ၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒများနှင့်အညီ ကာကွယ်ပေးပါမည်။ ဤသို့သော ခွင့်ပြုချက်များကို ပေးအပ်ရန် သို့မဟုတ် သင်၏ ကိုယ်ရေးအချက်အလက်များကို မျှဝေရန်နှင့် အွန်လိုင်းတင်ရန် သင်သဘောမတူလျှင် ဤအက်ပ်ကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ Screen time > ဆက်တင်များ > သို့သွား၍ Screen time ကို ပိတ်မည်အား ရွေးချယ်ပေးခြင်းအားဖြင့် သင့်ခွင့်ပြုချက်ကို ရုပ်သိမ်းနိုင်ပါသည်။ ကိုယ်ရေးလုံခြုံမှုနှင့်ပတ်သက်၍ မေးစရာများ ရှိနေသေးပါက privacy@xiaomi.com မှတစ်ဆင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်နိုင်ပါသည်။</string>
     <string name="usage_new_category_limit_summary">ဤအမျိုးအစားအက်(ပ်)အားလုံးအတွက် တစ်နေ့တာအသုံးပြုခွင့် အကန့်အသတ် သတ်မှတ်ပါ</string>
     <string name="usage_new_category_limit_title">အက်(ပ်)အမျိုးအစားအတွက် အသုံးပြုခွင့် ကန့်သတ်ရန်</string>
@@ -756,7 +767,7 @@
     <string name="usage_optional_title">ချန်လှပ်နိုင်သော ခွင့်ပြုချက်များ</string>
     <string name="usage_permisison_agree_desc_o">သင့်အား မျက်နှာပြင်ဖွင့်ထားချိန်မှတ်တမ်းများကို ပေးနိုင်ရန်အတွက် ဤအက်(ပ်)က အောက်ပါဒေတာများကို ကောက်ယူရန်လိုသည် - စက်ကို သော့ဖွင့်သည့် အကြိမ်ရေ၊ အက်(ပ်)စာရင်းနှင့် ၎င်းတို့ တစ်ခုချင်းစီကို သုံးသည့်ကြာချိန်၊ မျက်နှာပြင်အလင်း ပွင့်သည့် အကြိမ်ရေ။</string>
     <string name="usage_permisison_agree_desc_p">သင့်အား မျက်နှာပြင်ဖွင့်ထားချိန်နှင့် ဆုံချက်မုဒ် မှတ်တမ်းများကို ပေးနိုင်ရန်အတွက် ဤအက်(ပ်)က အောက်ပါဒေတာများကို ကောက်ယူရန်လိုသည် - စက်ကို သော့ဖွင့်သည့် အကြိမ်ရေ၊ အက်(ပ်)စာရင်းနှင့် ၎င်းတို့ တစ်ခုချင်းစီကို သုံးသည့်ကြာချိန်၊ မျက်နှာပြင်အလင်း ပွင့်သည့် အကြိမ်ရေနှင့် ဆုံချက်မုဒ်ဆက်တင်များ။</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့်ချိတ်ပြီး လိုအပ်သော ကိုယ်ရေးကိုယ်တာဒေတာများကို ကောက်ယူရန်လိုအပ်သည်။ အသုံးပြုသူတစ်ဦးအနေနှင့် ရနိုင်သော အခွင့်အရေးများနှင့် သင့်ဒေတာများကို ကျွန်ုပ်တို့က အသုံးပြုပုံပြုနည်းများကို ကောင်းစွာနားလည်ရန် ကျွန်ုပ်တို့၏ &lt;a href='%1s'>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href='%2s'>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပါ။&lt;/Data>"</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန် အင်တာနက်ချိတ်ပြီး လိုအပ်သော ကိုယ်ရေးကိုယ်တာဒေတာများကို ကောက်ယူရန်လိုအပ်သည်။ အသုံးပြုသူတစ်ဦးအနေနှင့် ရနိုင်သောအခွင့်အရေးများနှင့် သင့်ဒေတာများကို ကျွန်ုပ်တို့က အသုံးပြုပုံပြုနည်းများကို ကောင်းစွာနားလည်ရန် ကျွန်ုပ်တို့၏ &lt;a href='%1s'>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href='%2s'>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပါ။"</Data></string>
     <string name="usage_permission_main_desc">"မျက်နှာပြင်ဖွင့်ထားချိန်မှ ကြိုဆိုပါသည်။
 ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့်ချိတ်ရန်နှင့် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် -"</string>
     <string name="usage_permission_title">သတိပြုရန်</string>

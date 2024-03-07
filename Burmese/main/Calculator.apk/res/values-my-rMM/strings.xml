@@ -48,7 +48,7 @@
     <string name="currency_update_time_format">ငွေလဲနှုန်းများအား webull (%s) မှထောက်ပံ့ထားပါသည်</string>
     <string name="currency_update_updating">ငွေလဲနှုန်းများကို အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="data_analysis">စိစစ်ချက်</string>
-    <string name="date_format">dd/MM/yyyy</string>
+    <string name="date_format">MMM dd, yyyy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -156,7 +156,7 @@
     <string name="friday_shortest">သောကြာ</string>
     <string name="fund_loan">ချေးငှား ရန်ပုံငွေ</string>
     <string name="further_education">သက်ကြီး ပညာရေး</string>
-    <string name="get_loaction_permission_title">နေရာရှာရန်</string>
+    <string name="get_loaction_permission_title">တည်နေရာဖတ်ရန်</string>
     <string name="get_location_fail_prompt">တည်နေရာမရရှိနိုင်ပါ</string>
     <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
@@ -203,11 +203,12 @@
     <string name="label_days">ရက်များ</string>
     <string name="label_emi">ချေးငွေ</string>
     <string name="label_from_date">မှ</string>
-    <string name="label_interest">အတိုး (%)</string>
+    <string name="label_interest">အတိုး (ရာခိုင်နှုန်း)</string>
     <string name="label_investment_duration">ကြာချိန်</string>
     <string name="label_months">လများ</string>
     <string name="label_powered_by">Mi ဂဏန်းပေါင်းစက်မှ အားဖြည့်သည်</string>
     <string name="label_principal">စည်းမျဉ်း</string>
+    <string name="label_share">မျှဝေရန်</string>
     <string name="label_statistics">စာရင်းအင်း</string>
     <string name="label_to_date">သို့</string>
     <string name="label_total_interest">စုစုပေါင်းအတိုး</string>
@@ -327,13 +328,13 @@
     <string name="mt_max">သင်ရိုက်ထည့်သော ပမာဏ ကြီးလွန်းသည်</string>
     <string name="mulDesc">မြှောက်</string>
     <string name="n_a">မရရှိနိုင်ပါ</string>
-    <string name="name_cgst" formatted="false">CGST/SGST - %s%</string>
+    <string name="name_cgst">CGST/SGST - ၂.၅</string>
     <string name="name_discount">လျှော့ဈေး (% လျော့)</string>
     <string name="name_original">မူလဈေးနှုန်း</string>
     <string name="name_price">နောက်ဆုံးဈေးနှုန်း</string>
     <string name="name_save">"သက်သာငွေ "</string>
     <string name="negDesc">သုညအောက်နှင့် သုညအထက် အပူချိန် ကူးပြောင်းပါ</string>
-    <string name="new_privacy_string">&lt;Data>ဂဏန်းပေါင်းစက်မှ ကြိုဆိုပါသည်။&lt;br/>ဤအက်(ပ်)တွင် အောက်ပါအင်္ဂါရပ်များပါဝင်သည် - &lt;br/>• အခြေခံဂဏန်းပေါင်းစက်&lt;br/>• ဆိုင်ယင့်တစ်ဖစ်ဂဏန်းပေါင်းစက်&lt;br/>• ကမ္ဘာသုံးယူနစ်ပြောင်းစနစ် (ဥပမာ - ငွေကြေး၊ အတိုင်းအတာယူနစ်များစသည်)&lt;br/>• ချေးငွေ၊ ရင်းနှီးမြှုပ်နှံမှု၊ EMI နှင့် အခြားအရာများအတွက် တွက်ချက်နည်းပုံစံများ&lt;br/>ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ အသုံးပြုပုံပြုနည်းအကြောင်းကို ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တွင် လေ့လာနိုင်သည်။ ဂဏန်းပေါင်းစက်ကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ဂဏန်းပေါင်းစက်၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်သည်။ ကျွန်ုပ်တို့၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို သဘောမတူပါက ဤအက်(ပ်)ရှိ အင်္ဂါရပ်အချို့ကို သုံးမရသော်လည်း အခြေခံလုပ်ဆောင်ချက်များကို သုံးနိုင်ပါသည်။&lt;/Data></string>
+    <string name="new_privacy_string"><Data>ဂဏန်းပေါင်းစက်မှ ကြိုဆိုပါသည်။&lt;br/>ဤအက်(ပ်)တွင် အောက်ပါအင်္ဂါရပ်များပါဝင်သည် - &lt;br/>• အခြေခံဂဏန်းပေါင်းစက်&lt;br/>• ဆိုင်ယင့်တစ်ဖစ်ဂဏန်းပေါင်းစက်&lt;br/>• ကမ္ဘာသုံးယူနစ်ပြောင်းစနစ် (ဥပမာ - ငွေကြေး၊ အတိုင်းအတာယူနစ်များစသည်)&lt;br/>• ချေးငွေ၊ ရင်းနှီးမြှုပ်နှံမှု၊ EMI နှင့် အခြားအရာများအတွက် တွက်ချက်နည်းပုံစံများ&lt;br/>ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ အသုံးပြုပုံပြုနည်းအကြောင်းကို ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တွင် လေ့လာနိုင်သည်။ ဂဏန်းပေါင်းစက်ကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ ဂဏန်းပေါင်းစက်၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်သည်။ ကျွန်ုပ်တို့၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို သဘောမတူပါက ဤအက်(ပ်)ရှိ အင်္ဂါရပ်အချို့ကို သုံးမရသော်လည်း အခြေခံလုပ်ဆောင်ချက်များကို သုံးနိုင်ပါသည်။</Data></string>
     <string name="night">ညနေ</string>
     <string name="none">မရှိ</string>
     <string name="noon">မွန်းတည့်</string>
@@ -346,7 +347,7 @@
     <string name="permission_location_miui12">တည်နေရာဖတ်ခြင်း</string>
     <string name="permission_option_desc_miui12">အပိုအင်္ဂါရပ်များသုံးချိန်တွင် ဤခွင့်ပြုချက်များ လိုအပ်သည်။</string>
     <string name="permission_option_miui12">ချန်လှပ်နိုင်သော ခွင့်ပြုချက်များ</string>
-    <string name="permission_privacy_link">&lt;Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="permission_privacy_link"><Data>ဤအက်(ပ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="permission_purpose_miui12_system">Calculator မှ ကြိုဆိုပါသည်။ ဤအက်ပ်သည် ပုံမှန်ဂဏန်းတွက်စက်တစ်လုံး၏ အင်္ဂါရပ်များအား ယူနစ်ကူးပြောင်းစနစ်များ၊ လူမှုဘဝ အင်္ဂါရပ်များနှင့် ပေါင်းစပ်ပေးထားပါသည်။</string>
     <string name="permission_remove_desc_miui12">အက်(ပ်)၏ အင်္ဂါရပ်အားလုံးကို သုံးနိုင်ရန်အတွက် အက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ပြီး ချန်လှပ်နိုင်သော ခွင့်ပြုချက်များပေးရန်လိုသည်။</string>
     <string name="permission_title_miui12">သတိပြုရန်</string>
@@ -377,7 +378,7 @@
     <string name="preference_use_voice_title">စကားပြောထွက်လာခြင်း</string>
     <string name="preference_user_feedback_title">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="preference_view_privacy_title">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
-    <string name="privacy_dialog_title">သတိပြုရန်</string>
+    <string name="privacy_dialog_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="privacy_revoke_error">ရုပ်သိမ်း၍ မရခဲ့ပါ။ ထပ်စမ်းကြည့်ပါ</string>
     <string name="privacy_revoke_progress">ရုပ်သိမ်းနေသည်…</string>
     <string name="privacy_switch">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
@@ -539,6 +540,7 @@
     <string name="unit_data_display_currency_btn">ဘူတန် ငူထရန်</string>
     <string name="unit_data_display_currency_bwp">ဘော့စဝါ ပူလာ</string>
     <string name="unit_data_display_currency_byn">ဘီလာရုရူဘယ်</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ကနေဒါ ဒေါ်လာ</string>
     <string name="unit_data_display_currency_cdf">ကွန်ဂိုဖရန့်</string>
     <string name="unit_data_display_currency_chf">ဆွစ် ဖရန့်</string>
@@ -751,7 +753,7 @@
     <string name="unit_data_short_length_dm">dm</string>
     <string name="unit_data_short_length_fen">fen</string>
     <string name="unit_data_short_length_fm">ftm</string>
-    <string name="unit_data_short_length_ft">ft</string>
+    <string name="unit_data_short_length_ft">ပေ</string>
     <string name="unit_data_short_length_fur">fur</string>
     <string name="unit_data_short_length_gongli">gongli</string>
     <string name="unit_data_short_length_hao">hao</string>
@@ -762,7 +764,7 @@
     <string name="unit_data_short_length_lii">lii</string>
     <string name="unit_data_short_length_ly">ly</string>
     <string name="unit_data_short_length_m">m</string>
-    <string name="unit_data_short_length_mi">mi</string>
+    <string name="unit_data_short_length_mi">မိုင်</string>
     <string name="unit_data_short_length_mm">mm</string>
     <string name="unit_data_short_length_nm">nm</string>
     <string name="unit_data_short_length_nmi">nmi</string>
@@ -824,7 +826,7 @@
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">ချင် (ထိုင်ဝမ်)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>

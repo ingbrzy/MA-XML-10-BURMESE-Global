@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="UVI_level_0">အပျော့</string>
+    <string name="UVI_level_1">အသင့်အတင့်</string>
+    <string name="UVI_level_2">အပြင်း</string>
+    <string name="UVI_level_3">အလွန်ပြင်း</string>
+    <string name="UVI_level_4">ပြင်းထန်</string>
     <string name="accessibiliy_description_content_account">ပရိုဖိုင်</string>
     <string name="accessibiliy_description_content_ad">ကြော်ငြာ</string>
     <string name="accessibiliy_description_content_add_resource">အိုင်တမ် ပေါင်းထည့်ပါ</string>
     <string name="accessibiliy_description_content_back">နောက်သို့</string>
-    <string name="accessibiliy_description_content_comment">မှတ်ချက်</string>
     <string name="accessibiliy_description_content_favorite">အကြိုက်ဆုံးသို့ ပေါင်းထည့်မည်</string>
     <string name="accessibiliy_description_content_more">နောက်ထပ်</string>
     <string name="accessibiliy_description_content_search">ရှာ​ဖွေမည်</string>
@@ -15,6 +19,7 @@
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="ad_app_download_start">ဒေါင်းလုဒ်စလုပ်နေသည်…</string>
     <string name="ad_app_is_downloading">ဒေါင်းလုဒ်လုပ်နေဆဲ…</string>
+    <string name="ad_flag_text">ကြော်ငြာ</string>
     <string name="ad_service">ကြော်ငြာများ ပြသရန်</string>
     <string name="add_resource_detail_fail">အရင်းအမြစ်ပေါင်းထည့်၍မရနိုင်ပါ</string>
     <string name="add_ringtone">ဖုန်းမြည်သံထည့်ရန်</string>
@@ -26,6 +31,7 @@
     <string name="all_wallpapers">နောက်ခံပုံများအားလုံး</string>
     <string name="allow">ဆက်တင်</string>
     <string name="am">နံနက်</string>
+    <string name="aod_screen">အမြဲပြသမျက်နှာပြင်</string>
     <string name="app_description_content">သင်းမ်များသည် စနစ်အပ်ပ်တစ်ခု ဖြစ်ပါသည်။ ၎င်းက နောက်ခံပုံများနှင့် စိတ်ကြိုက်ရွေးစရာများစွာကို ပေးအပ်နေပါသည်။ သင်းမ်များအား ပင်မှမျက်နှာပြင် ရှော့ကပ်မှ သင်ဖယ်ရှားပြီးနောက်တွင်လည်း ဆက်လက်အသုံးပြုနိုင်ပါသေးသည်။</string>
     <string name="app_description_title">ပင်မမျက်နှာပြင်မှ \"သင်းမ်များ\" ကို ဖယ်ရှားလိုပါသလား။</string>
     <string name="app_name">သင်းမ်များ</string>
@@ -38,9 +44,11 @@
     <string name="app_permission_use_group_phone_desc">အကောင့်အတည်ပြုရန်နှင့် ခွင့်ပြုချက်ပေးရန်</string>
     <string name="app_permission_use_group_storage">သိုလှောင်ခန်း</string>
     <string name="app_permission_use_group_storage_desc">အပြင်အဆင်များ၊ နောက်ခံပုံ၊ ဖုန်းသံနှင့် ဖောင့်များ သုံးရန်နှင့် သိမ်းဆည်းရန်</string>
+    <string name="application_notify_title">သတိပြုရန်</string>
     <string name="applied_success_contine">ဆက်ကြည့်ရန်</string>
     <string name="applied_success_subtitle_a">%d Xiaomi နိုင်ငံတကာအပြင်အဆင်ပြိုင်ပွဲအတွက် အသင့်ပြင်ပါ။</string>
     <string name="applied_success_subtitle_b">အသစ်ထွက်သည်များကို ချက်ချင်းသိနိုင်ရန် ဒီဇိုင်နာများကို ဖော်လိုလုပ်ပါ</string>
+    <string name="apply_4k_video_wallpaper_warning">4K နှင့် 8K ဗီဒီယိုများကို နောက်ခံပုံအဖြစ် သုံးမရပါ။</string>
     <string name="apply_by_customize">စိတ်ကြိုက်လုပ်ရန်</string>
     <string name="apply_default_font_tip">အသုံးပြုနေသောစနစ်ရဲ့စာလုံးစတိုင်ကိုသိမ်းလိုပါသလား။</string>
     <string name="apply_font_btn_exclude">ယခုမဟုတ်ပါ</string>
@@ -51,11 +59,16 @@
     <string name="apply_selected">သုံးရန်</string>
     <string name="apply_success_not_enable_aod">ဆက်တင်တွင် အမြဲပြသမျက်နှာပြင်ကို ဦးစွာဖွင့်ပါ</string>
     <string name="apply_theme_with_ringtones">သင်းမ်ဖုန်းမြည်သံများအသုံးပြုပါ</string>
+    <string name="apply_wallpaper_after_three_theme">သင်သည်လက်ရှိတွင် ပြင်ပသင်း(မ်)တစ်ခု သုံးနေသည်။ သော့ခတ်မျက်နှာပြင်နောက်ခံပုံကို ပြောင်းပါက ၎င်းက သော့ခတ်မျက်နှာပြင် နာရီစတိုင်ကို မူလပါအတိုင်း ပြန်ထားလိုက်ပါမည်။ ယခုသုံးလိုသလား။</string>
     <string name="apply_wallpaper_notice">သတိပြုရန်</string>
     <string name="apply_wallpaper_notice_cancel">မလုပ်တော့ရန်</string>
     <string name="apply_wallpaper_notice_content">လက်ရှိသုံးထားသော အပြင်အဆင်တွင် စိတ်ကြိုက် သော့ချမျက်နှာပြင် မော်ဒျူးပါဝင်ပြီး ၎င်းက သင့်အား သော့ချမျက်နှာပြင်ဆိုင်ရာ ချိန်ညှိခြင်းများလုပ်ခြင်းမှ တားဆီးနိုင်သည်။</string>
     <string name="apply_wallpaper_notice_lockscreen">သင့်လက်ရှိအပြင်အဆင်တွင် စိတ်ကြိုက်သော့ခတ်မျက်နှာပြင်တစ်ခု ပါဝင်သည်။ ဤနောက်ခံပုံကို သုံးပါက ၎င်းကို မူရင်းသော့ခတ်မျက်နှာပြင်နှင့် အစားထိုးလိုက်ပါမည်။ မဖြစ်မနေ သုံးလိုသလား။</string>
     <string name="apply_wallpaper_notice_still_apply">သုံးရန်</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">လက်ရှိတွင် စူပါ နောက်ခံပုံတစ်ခု သုံးနေသည်။ နောက်ခံပုံအသစ်ရွေးပါက ပင်မမျက်နှာပြင်နှင့် သော့ခတ်မျက်နှာပြင် နှစ်ခုစလုံးတွင် ၎င်းကိုသုံးပြီး အမြဲပြသမျက်နှာပြင်ကို ယခင်ဆက်တင်သို့ ပြန်ထားလိုက်ပါမည်။ ယခုသုံးလိုသလား။</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">လက်ရှိတွင် စူပါ နောက်ခံပုံတစ်ခု သုံးနေသည်။ နောက်ခံပုံအသစ်ရွေးပါက ပင်မမျက်နှာပြင်နှင့် သော့ခတ်မျက်နှာပြင် နှစ်ခုစလုံးတွင် ၎င်းကိုသုံးပါမည်။ ယခုသုံးလိုသလား။</string>
+    <string name="aqi_format">AQI %s</string>
+    <string name="aqi_format_desc">လေထုအရည်အသွေး အညွှန်း - %s</string>
     <string name="audio_duration_minutes_format">%1$d မိနစ်</string>
     <string name="audio_duration_seconds_format">%1$d စက္ကန့်</string>
     <string name="author_already_attention">ဖော်လိုလုပ်ထားသည်</string>
@@ -85,13 +98,19 @@
     <string name="card_loading">ခဏစောင့်ပါ…</string>
     <string name="card_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။ ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="card_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="carefully_chosen_wallpaper">အယ်ဒီတာရွေးချယ်မှုများ</string>
     <string name="change_host_hint">host ပြောင်း</string>
     <string name="change_wallpaper">ဖန်သားပြင်နောက်ခံပုံ</string>
+    <string name="channel_featured_page">အထူးပြုလုပ်ချက်</string>
+    <string name="choose_pay_method">ငွေပေးချေနည်းလမ်းရွေးပါ</string>
+    <string name="classic_calendar_day_of_week_format">EE</string>
+    <string name="classic_calendar_month_of_year_format">MMM</string>
     <string name="classification_more_understand_you">သင်၏စိတ်ကြိုက်အမျိုးအစား ရွေးချယ်ပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="close">ပိတ်ပါ</string>
     <string name="columbus_ad_flag_text">ကြော်ငြာ</string>
     <string name="columbus_skip_ad">ကျော်သွား</string>
+    <string name="come_and_choose_wallpaper">အကောင်းဆုံးနောက်ခံပုံထောင်ချီထဲမှ ရွေးပါ</string>
     <string name="component_backup_preference_title">သင်းမ်အား အရန်သိမ်းပါ</string>
     <string name="component_category_finest_title">အထွေထွေ</string>
     <string name="component_category_more_title">အဆင့်မြင့်</string>
@@ -137,6 +156,8 @@
     <string name="dynamic_ringtone">Dynamic ဖုန်းမြည်သံ</string>
     <string name="dynamic_video_wallpaper">နောက်ခံပုံ %dH</string>
     <string name="early_morning">နံနက်</string>
+    <string name="editor_apply_message">"ဤအင်္ဂါရပ်ကို ဒီဇိုင်နာများ ဒီဘာဂင်လုပ်ရန် သုံးပါသည်။ မူလသင်း(မ်)ကို မကြာမီ အလိုအလျောက် ပြန်ထားပါမည်။ လက်ရှိသင်း(မ်)၏ ဖိုင်လမ်းကြောင်း - "</string>
+    <string name="editor_apply_toast">ပင်မလမ်းကြောင်းတွင် temp.mtz ကို လက်ဖြင့်ရွေးရန်</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
@@ -148,6 +169,7 @@
     <string name="exit_extreme_mode_dialog_title">အထူးမုဒ်အား ပိတ်ပါ</string>
     <string name="expect_more">နောက်ထပ် အပ်ပဒိတ်များကို စောင့်မျှော်ပေးပါ။</string>
     <string name="explore_new_and_popular_themes">လူကြိုက်များသော သင်း(မ်)အသစ်များကို စူးစမ်းပါ</string>
+    <string name="external_wallpaper">အပြင်မျက်နှာပြင် နောက်ခံပုံ</string>
     <string name="extreme_mode_dialog_message">ဤလုပ်ဆောင်ချက်သည် အထူးမုဒ်တွင် မရရှိနိုင်ပါ။ သုံးစွဲရန် အထူးမုဒ်အား ပိတ်ပါ။</string>
     <string name="extreme_mode_dialog_ok">နားလည်ပါပြီ</string>
     <string name="extreme_mode_dialog_title">သတိပြုပါ</string>
@@ -159,6 +181,7 @@
     <string name="find_more">ထပ်ရှာရန်</string>
     <string name="find_more_theme">နောက်ထပ်</string>
     <string name="find_more_wallpapers">ပိုများသော</string>
+    <string name="fingerprint_style">လက်ဗွေအထူးပြုလုပ်ချက်များ</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -212,6 +235,22 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="follow_designer_notice">သင်း(မ်)အသစ်ကို ဘယ်တော့မျှ မလွတ်ပါစေနှင့်</string>
+    <string name="format_day_desc">လ၏ရက် - %s</string>
+    <string name="format_day_week_desc">လ၏ရက် - %1$s၊ %2$s</string>
+    <string name="format_lunar_calendar_month_day_desc">တရုတ်ရိုးရာပြက္ခဒိန်အရ ရက်စွဲ - %s</string>
+    <string name="format_minute_desc">%s</string>
+    <string name="format_month_and_day">%1$s/%2$s</string>
+    <string name="format_month_day_desc">%1$s %2$s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s၊ တရုတ်ရိုးရာပြက္ခဒိန်အရ ရက်စွဲ - %3$s၊ အားလပ်ရက် - %4$s</string>
+    <string name="format_month_day_style1">MMM/d</string>
+    <string name="format_month_day_style2">M/d</string>
+    <string name="format_month_day_week">EEE MMM dd</string>
+    <string name="format_month_day_week_desc">%1$s %2$s၊ %3$s</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s၊ %3$s၊ တရုတ်ရိုးရာပြက္ခဒိန်အရ ရက်စွဲ - %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s၊ %3$s၊ အားလပ်ရပ် - %4$s</string>
+    <string name="format_number_hour_desc">%s</string>
+    <string name="format_week_day_style1">EE d</string>
+    <string name="format_week_day_style1_desc">%1$s၊ လ၏ရက် - %2$s</string>
     <string name="free_themes">အခမဲ့အပြင်အဆင်များ</string>
     <string name="fresh">အသစ်</string>
     <string name="fresh_first">အသစ် ဦးစားပေး</string>
@@ -219,38 +258,19 @@
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
     <string name="gallery">ပြခန်း</string>
-    <string name="gift_anonymous">အမည်မသိ</string>
-    <string name="gift_operation_fail_dlg_abandon">ပယ်ဖျက်မည်</string>
-    <string name="gift_operation_fail_dlg_retry">ထပ်မံကြိုးစားပါ</string>
-    <string name="gift_operation_waiting">ခဏစောင့်ပါ…</string>
-    <string name="gift_owned">ဝယ်ခဲ့သည်</string>
-    <string name="gift_present">ပေးပါ</string>
-    <string name="gift_present_dlg_anonymous">အမည်မသိလက်ဆောင်</string>
-    <string name="gift_present_dlg_input_hint">Xiaomi အကောင့် ID/ဖုန်း</string>
-    <string name="gift_present_dlg_no_fee">လက်ဆောင်များပေးပို့သည်အတွက် သင့်ရဲ့သယ်ဆောင်သူအား အဖိုးကြေးငွေပေးစရာမလိုပါ</string>
-    <string name="gift_present_dlg_present_max_limit">သင်းမ်ကို %1$s ကြိမ်ထက်ပို၍ လက်ဆောမပေးနိုင်ပါ။</string>
-    <string name="gift_present_dlg_share">ကုဒ်နံပါတ်ဖန်တီးပြီး လက်ဆောင်မျှဝေပါ</string>
-    <string name="gift_present_fail_dlg_content">"ဤလက်ဆောင်ပို့မရပါ။ "</string>
-    <string name="gift_present_fail_dlg_title">လက်ဆောင်ပို့မရပါ</string>
-    <string name="gift_present_success_dlg_content">သင်းမ်ပို့ပြီးတဲ့အခါ ဤပုဂ္ဂိုလ်ထံ SMS ရောက်ရှိလိမ့်မည်။</string>
-    <string name="gift_present_success_dlg_title">လက်ဆောင်ကို ပို့ပေးခဲ့သည်</string>
-    <string name="gift_present_success_no_sms_dlg_content">သင့်ရဲ့အကောင့်စာမျက်နှာမှာ လက်ဆောင်သမိုင်းအား စာရင်းပြုစုထားပါသည်။</string>
-    <string name="gift_presented">ပို့ထားသည်</string>
-    <string name="gift_purchase_success_dlg_content">လက်ဆောင်အဖြစ် %1$s သင်ဝယ်ခဲ့သည်။ ၄င်းကိုပို့ရန် သင်းမ်များ အကောင့်သို့ သွားပါ။</string>
-    <string name="gift_purchase_success_dlg_title">လက်ဆောင်ဝယ်ခဲ့သည်</string>
-    <string name="gift_purchased_endnote">သို့- %1$s</string>
-    <string name="gift_purchased_list_empty">သင့်ဆီသို့ မည်သည့်လက်ဆောင်များမှ ပို့မထားပါ။</string>
-    <string name="gift_purchased_list_empty_with_received_list_empty">လက်ဆောင်များမရှိပါ။</string>
-    <string name="gift_received_endnote">မှ- %1$s (%2$s ရရှိခဲ့သည်)</string>
-    <string name="gift_received_list_empty">မည်သည့်လက်ဆောင်များကိုမှ သင်မရခဲ့ပါ။</string>
-    <string name="gift_received_notification_title">သင့်အား %s မှ သင်းမ်ပေးခဲ့သည်။</string>
-    <string name="gift_share">မျှဝေပါ</string>
-    <string name="gift_transfer">ပြောင်းရွေ့ပါ</string>
-    <string name="gift_unbind_fail_dlg_title">ကုဒ်နံပါတ်ဖန်တီးမရပါ</string>
-    <string name="gift_use">ပေးပါ</string>
-    <string name="gift_use_confirmation_dlg_title">ဤလက်ဆောင်အား ပို့လိုသလား။</string>
-    <string name="gift_use_fail_dlg_title">တစ်ခုခု မှားသွားခဲ့သည်</string>
-    <string name="gift_used">ပို့ထားသည်</string>
+    <string name="health_chart_calories_schedule_format_desc">%1$s၊ %2$s</string>
+    <string name="health_chart_calories_unit">ကယ်လိုရီများ</string>
+    <string name="health_chart_sleep_time_format">%1$sနာရီ %2$sမိနစ်</string>
+    <string name="health_chart_sleep_time_good">လုံလောက်သည်</string>
+    <string name="health_chart_sleep_time_low">မလုံလောက်ပါ</string>
+    <string name="health_chart_sleep_time_normal">ပုံမှန်</string>
+    <string name="health_chart_sleep_time_very_good">ကောင်း</string>
+    <string name="health_chart_sport_time_schedule_format_desc">%1$s၊ %2$s</string>
+    <string name="health_chart_stand_schedule_format_desc">%1$s၊ %2$s</string>
+    <string name="health_chart_step_count_schedule_format_desc">%1$s၊ %2$s</string>
+    <string name="health_chart_step_count_unit">ခြေလှမ်းများ</string>
+    <string name="health_no_data">ကျန်းမာရေးဒေတာမရှိပါ</string>
+    <string name="health_sleep_desc">အိပ်စက်ချိန် %1$s၊ အိပ်စက်မှုအရည်အသွေး - %2$s</string>
     <string name="hide_free">အခမဲ့များကို မပြပါနှင့် %1$s</string>
     <string name="hide_incompatible_font">တွဲသုံးမရသောဖောင့်များကို ဖုံးထားရန်</string>
     <string name="hide_incompatible_theme">တွဲသုံးမရသောအပြင်အဆင်များကို ဖုံးထားရန်</string>
@@ -258,17 +278,23 @@
     <string name="home_apply_failured">အိမ်မျက်နှာပြင် နောက်ခံပုံအဖြစ် အသုံးချ၍မရပါ</string>
     <string name="home_apply_success">အိမ်မျက်နှာပြင် နောက်ခံပုံ အသုံးချခဲ့သည်</string>
     <string name="hot_first">ပေါ်ပြူလာ ဦးစားပေး</string>
+    <string name="humidity_format">စိုထိုင်းဆ %s</string>
+    <string name="humidity_format_with_unit">%s</string>
+    <string name="icon_size">သင်္ကေတအရွယ်အစား</string>
     <string name="in_the_end">ထပ်ပြရန် အိုင်တမ်များ မရှိပါ</string>
     <string name="incompatible_dialog_cancel">အသုံးမချပါ</string>
-    <string name="incompatible_dialog_message">ဤသင်းမ်သည် သင့်ဖုန်း၏လက်ရှိဗားရှင်းနှင့် မကိုက်ညီပါ။ ဤသင်းမ်အား သုံးပါက MIUI ၏အချို့အစိတ်အပိုင်းများသည် ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်မည် မဟုတ်ပါ။</string>
+    <string name="incompatible_dialog_message">ဤသင်း(မ်)သည် သင့်စက်၏ စနစ်ဗားရှင်းနှင့် မကိုက်ညီပါ။ ဤသင်း(မ်)ကိုသုံးလျှင် စနစ်အင်္ဂါရပ်အချို့ ကောင်းစွာအလုပ်မလုပ်ခြင်း ဖြစ်နိုင်သည်။</string>
     <string name="incompatible_dialog_ok">နားလည်ပါပြီ</string>
     <string name="incompatible_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေ…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
     <string name="item_resource_audio_optional_color_ring">Ringback အသံ</string>
     <string name="item_resource_audio_optional_notification_ring">အသိပေးချက်များ</string>
     <string name="item_resource_audio_optional_phone_ring">ဖုန်းမြည်သံ</string>
+    <string name="last_choice">ယခင်သုံးထားသောနည်း</string>
     <string name="later">ယခုမလုပ်ပါ</string>
+    <string name="latest_wallpaper">အသစ်</string>
     <string name="limit_discount">ကမ်းလှမ်းမှုအကန့်အသတ်ရှိသည်</string>
     <string name="live_wallpaper">သက်ဝင်လှုပ်ရှားဖန်သားပြင်နောက်ခံပုံ</string>
     <string name="live_wallpapers">သက်ဝင်လှုပ်ရှားဖန်သားပြင်နောက်ခံပုံများ</string>
@@ -277,6 +303,9 @@
     <string name="loading_resource_detail_info">ခဏစောင့်ပါ…</string>
     <string name="local_photos">စက်တွင်း ဓာတ်ပုံများ</string>
     <string name="local_resouce_creator_name">ဖွံ့ဖြိုးသူ−%1$s</string>
+    <string name="lock_screen_edit">သော့ခတ်မျက်နှာပြင်ကို ပြင်ရန်</string>
+    <string name="lock_screen_template_unsupported_super_wallpaper_tip">ဤသော့ခတ်မျက်နှာပြင်တန်းပလိတ်သည် စူပါနောက်ခံပုံများကို မပံ့ပိုးပါ။ သုံးပြီးသည်နှင့် သော့ခတ်မျက်နှာပြင်ကို နဂိုအတိုင်းပြန်ပြောင်းပြီး ပင်မမျက်နှာပြင်နှင့် သော့ခတ်မျက်နှာပြင်နောက်ခံပုံများကို အစားထိုးလိုက်ပါမည်။ မဖြစ်မနေ သုံးလိုသလား။</string>
+    <string name="lock_screen_template_unsupported_tip">သင်သုံးထားသော တန်းပလိတ်ကြောင့် ရှေ့ဆက်ပါက သော့ခတ်မျက်နှာပြင်ကို နဂိုအတိုင်းပြန်ပြောင်းသွားပါမည်။ မဖြစ်မနေရှေ့ဆက်လိုသလား။</string>
     <string name="lockscreen_apply_failured">သော့ခတ်မျက်နှာပြင်နောက်ခံပုံအဖြစ် အသုံးချ၍မရပါ</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">အိမ်မျက်နှာပြင် နောက်ခံပုံအဖြစ် ပြုလုပ်ခဲ့သည်။ သော့ခတ်မျက်နှာပြင် နောက်ခံပုံအဖြစ် အသုံးပြု၍ မရပါ။</string>
     <string name="lockscreen_apply_success">သော့ခတ်မျက်နှာပြင် နောက်ခံပုံ အသုံးချခဲ့သည်</string>
@@ -301,32 +330,43 @@
     <string name="message_sim_two">SIM %d မက်ဆေ့(ချ်)</string>
     <string name="mi_wallpaper">MIUI ဖန်သားပြင်နောက်ခံပုံ</string>
     <string name="midnight">ည</string>
-    <string name="miui_clock_city_name_local">ဌာနေ</string>
+    <string name="miui_clock_city_name_local">ဒေသတွင်း</string>
     <string name="miui_clock_city_name_second">ဒုတိယ နာရီ</string>
-    <string name="miui_lock_screen_date">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd/MM
+    <string name="miui_lock_screen_date">MMM dd EEE</string>
+    <string name="miui_lock_screen_date_12">MMM dd EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM dd
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd/MM
+    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
 EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
+    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style2_date">M/d EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">MMM dd EEEE</string>
+    <string name="miui_magazine_clock_date">M/d</string>
+    <string name="miui_magazine_clock_date_content_description">dd/MM</string>
+    <string name="miui_magazine_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_date">MMMM dd</string>
+    <string name="miui_rhombus_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_week_full">EEEE</string>
+    <string name="miui_smart_frame_clock_date">M/d</string>
+    <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -392,14 +432,17 @@ mm"</string>
     <string name="month_september">စက်တင်ဘာ</string>
     <string name="month_september_short">စက်တင်ဘာ</string>
     <string name="month_september_shortest">စက်တင်ဘာ</string>
-    <string name="more">နောက်ထပ်</string>
+    <string name="more">အခြား</string>
+    <string name="more_personal_setting">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="more_ringtones">အခြား ဖုန်းမြည်သံများ</string>
+    <string name="more_system_wallpaper">နောက်ထပ် စနစ်နောက်ခံပုံများ</string>
     <string name="more_wallpapers">နောက်ခံပုံများ ထပ်ကြည့်ရန် တို့ပါ</string>
     <string name="morning">နံနက်</string>
     <string name="multi_sim_ringtone_settings_dialog_message">ဖုန်းမြည်သံအား ဆင်းမ်ကဒ်နှစ်ခုလုံးအတွက် အသုံးချခဲ့သည်။</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">နားလည်ပါပြီ</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">ထပ်မပြပါနှင့်</string>
     <string name="multi_sim_ringtone_settings_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
+    <string name="multiwindow_no_support">မျက်နှာပြင်ခွဲသုံးနေစဉ် ဤအင်္ဂါရပ်ကို မပံ့ပိုးပါ</string>
     <string name="my_attention">သင်ဖော်လိုလုပ်ထားသော ဒီဇိုင်နာများ</string>
     <string name="my_attention_head">သင်ဖော်လိုလုပ်ထားသော ဒီဇိုင်နာများ</string>
     <string name="my_fonts">ကျွန်ုပ်၏ ဖောင့်များ</string>
@@ -425,7 +468,9 @@ mm"</string>
     <string name="no_related_wallpaper">ရလဒ်များ ရှာမတွေ့ပါ</string>
     <string name="no_related_wallpaper2">နောက်ခံပုံများအား ရှာမတွေ့ပါ။ အောက်ရှိ အကြံပြုချက်များအား ကြည့်ကြည့်ပါ</string>
     <string name="noon">မွန်းတည့်</string>
+    <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">ထပ်မပြပါနှင့်</string>
+    <string name="notify_style">အသိပေးချက်အထူးပြုလုပ်ချက်များ</string>
     <string name="online_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="online_precust_abstract">စိတ်ကူး</string>
     <string name="online_precust_animal">တိရိစ္ဆာန်</string>
@@ -439,17 +484,19 @@ mm"</string>
     <string name="online_ringtones">အွန်လိုင်း ဖုန်းမြည်သံများ</string>
     <string name="online_search_hint">အွန်လိုင်းအရင်းအမြစ်များ ရှာပါ</string>
     <string name="online_themes">အွန်လိုင်း အပြင်အဆင်များ</string>
+    <string name="online_wallpaper_libray">အွန်လိုင်းနောက်ခံပုံများ</string>
     <string name="online_wallpapers">အွန်လိုင်း နောက်ခံပုံများ</string>
     <string name="ota_theme_default_push_content">ဒါတွေကို မလွတ်ပါစေနှင့်။</string>
-    <string name="ota_theme_default_push_content2">MIUI %s အတွက် အကြံပြုထားသည်</string>
-    <string name="ota_theme_default_push_title">MIUI %s အတွက် သင်း(မ်)အသစ်များ</string>
+    <string name="ota_theme_default_push_content2">ကျွန်ုပ်တို့၏အကြံပြုချက်များကို ကြည့်ပါ</string>
+    <string name="ota_theme_default_push_title">သင်း(မ်)အသစ် လာနေပါပြီ</string>
     <string name="pause_all">အားလုံးရပ်ရန်</string>
     <string name="pay_online">အွန်လိုင်းငွေပေးချေမှု</string>
+    <string name="payment_cancel_tip">ယခုထွက်လျှင် ငွေပေးချေမှု ပြီးမြောက်မည်မဟုတ်ပါ။ မဖြစ်မနေထွက်လိုသလား။</string>
     <string name="payment_coins">ဒင်္ဂါးပြားများ</string>
     <string name="payment_coins_balance">(လက်ကျန် - %1s)</string>
     <string name="payment_coins_insufficient_balance">(လက်ကျန်ငွေ မလုံလောက်ပါ)</string>
     <string name="payment_data_move_tips">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု စည်းမျဉ်းများကို လိုက်နာရန် သင့်အကောင့်ဒေတာများကို သင့်ဒေသရှိ ဆာဗာများသို့ ရွှေ့ပြောင်းပါမည်။ ရွှေ့ပြောင်းစဉ် ဒေတာပျောက်ဆုံးမှုများ ရှိနိုင်သည်။</string>
-    <string name="payment_instructions">&lt;Data>ငွေပေးချေမှုကို အပြီးသတ်ခြင်းဖြင့် သင်သည် &lt;a href=\"%1$s\">အက်(ပ်)တွင်းဝယ်ယူမှုများဆိုင်ရာ နို့တစ်များ&lt;/a>ကို သဘောတူရာရောက်သည်။&lt;/Data></string>
+    <string name="payment_instructions"><Data>ငွေပေးချေမှုကို အပြီးသတ်ခြင်းဖြင့် သင်သည် &lt;a href=\"%1$s\">အက်(ပ်)တွင်းဝယ်ယူမှုများဆိုင်ရာ နို့တစ်များ&lt;/a>ကို သဘောတူရာရောက်သည်။</Data></string>
     <string name="payment_method">ငွေပေးချေမှုနည်းလမ်း</string>
     <string name="permission_desc">သိမ်းထားသောအပြင်အဆင်များနှင့် အခြားအရာများကို သိုလှောင်ရန်</string>
     <string name="permission_pop_desc">တစ်ကိုယ်ရေအကြိုက်များကို ပြောင်းရန်နှင့် ဒေါင်းလုဒ်လုပ်ထားသောအရာများကို သိမ်းရန် အပြင်အဆင်များအား သိုလှောင်ခန်းဖတ်ခွင့် ဦးစွာပေးရပါမည်။</string>
@@ -467,15 +514,15 @@ mm"</string>
     <string name="popular_wallpapers">လူကြိုက်များသော နောက်ခံပုံများ</string>
     <string name="pref_animation_preview">အသက်ဝင် အစမ်းကြည့်ရှုခြင်းများ</string>
     <string name="pref_animation_preview_switch">သော့ချမျက်နှာပြင်မှ ပင်မစာမျက်နှာအပြောင်းအလဲကို အပြင်အဆင်အဖုံးများတွင် ပြပေးသည်</string>
-    <string name="pref_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="preference_authorization_summary">ဤအက်(ပ်)၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းရန်</string>
+    <string name="pref_privacy_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
+    <string name="preference_authorization_summary">ဤအက်(ပ်)၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းရန်</string>
     <string name="preference_authorization_title">ခွင့်ပြုချက်</string>
     <string name="premium">ပရီမီယံ</string>
     <string name="present_local_themes">ကျွန်ုပ်၏သင်းမ်များ</string>
     <string name="present_local_themes_subtitle">သင်၏ဖုန်းအား စိတ်ကြိုက်စီစဉ်ပါ</string>
     <string name="present_official_themes">ကျွန်ုပ်တို့၏ရွေးချယ်မှုများ</string>
     <string name="present_online_themes">နောက်ထပ်အွန်လိုင်းသင်းမ်များ ရယူမည်</string>
-    <string name="privacy_desc">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ (မဖြစ်မနေ)</string>
+    <string name="privacy_desc">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ (မဖြစ်မနေ)</string>
     <string name="promotion_ad">ပရိုမိုးရှင်း</string>
     <string name="provision_default_theme_title">မူလသတ်မှတ်ချက်</string>
     <string name="provision_download_cancel">ဒေါင်းလုဒ်လုပ်ခြင်းကို ဖျက်လိုက်ပါပြီ</string>
@@ -502,6 +549,7 @@ mm"</string>
     <string name="purchased_refund_success_dialog_title">အောင်မြင်စွာ ငွေပြန်အမ်းပြီးပါပြီ</string>
     <string name="purchased_success_dialog_content">ဝယ်ယူမှုအတွက် ကျေးဇူးတင်ပါသည်။</string>
     <string name="purchased_success_dialog_title">အောင်မြင်စွာ ပေးချေပြီးပါပြီ</string>
+    <string name="rain_probability_desc">မိုးရွာသွန်းနိုင်ခြေ - %s</string>
     <string name="rank_one" formatted="false">%d။ %s</string>
     <string name="rank_three" formatted="false">%d။ %s</string>
     <string name="rank_two" formatted="false">%d။ %s</string>
@@ -537,46 +585,6 @@ mm"</string>
     <string name="resource_category">အမျိုးအစားအုပ်စု</string>
     <string name="resource_clear_search_history">ရှာဖွေမှုမှတ်တမ်းကို ရှင်းပစ်ပါ</string>
     <string name="resource_clear_search_history_dialog">ရှာဖွေမှုမှတ်တမ်းကို ရှင်းပစ်မလား။?</string>
-    <string name="resource_comment_1_star">ကြယ် %d လုံး</string>
-    <string name="resource_comment_2_star">ကြယ် %d လုံး</string>
-    <string name="resource_comment_3_star">ကြယ် %d လုံး</string>
-    <string name="resource_comment_4_star">ကြယ် %d လုံး</string>
-    <string name="resource_comment_5_star">ကြယ် %d လုံး</string>
-    <string name="resource_comment_all_comments">မှတ်ချက် အားလုံး</string>
-    <string name="resource_comment_average_score">သတ်မှတ်အဆင့်များ</string>
-    <string name="resource_comment_bad_comments">နက်ဂတစ်</string>
-    <string name="resource_comment_current_version">လက်ရှိဗားရှင်း</string>
-    <string name="resource_comment_detainment_fail">စွန့်ပစ်မည်</string>
-    <string name="resource_comment_detainment_msg">မှတ်ချက် မပေးရသေးပါ။ ပြောင်းလဲမှုအား စွန့်ပစ်မလား?</string>
-    <string name="resource_comment_detainment_success">ဆက်နေပါ</string>
-    <string name="resource_comment_edit_comment">မှတ်ချက်များ ဖြည့်ထည့်ပါ</string>
-    <string name="resource_comment_edit_comment_waiting">မှတ်တမ်းကို စစ်ကြည့်နေဆဲ…</string>
-    <string name="resource_comment_edit_text_default">ကျွန်ုပ်တို့အား အကြံပြုနိုင်သည်။</string>
-    <string name="resource_comment_edit_text_second_hint">သင်၏တုံ့ပြန်အကြံပြုချက်သည် ကျွန်ုပ်တို့အတွက် အလွန်အရေးကြီးပါသည်။</string>
-    <string name="resource_comment_edit_title">%1$s အကြောင်းရေးသားချက်</string>
-    <string name="resource_comment_entry_tips">မှတ်ချက်များ (%1$s)</string>
-    <string name="resource_comment_expand_full_text">စာသားအားလုံးအပြည့်ဆန့်စေပါ▼</string>
-    <string name="resource_comment_footer">အလွတ်ဖြစ်နေသာ မှတ်ချက်များကို ပြသမည်မဟုတ်ပါ။</string>
-    <string name="resource_comment_good_comments">မှန်ပါသည်</string>
-    <string name="resource_comment_invalid">သင်းမ်ကို အဆင့်သတ်မှတ်ရန် ကြယ်ပွင့်များကို တို့ထိပါ</string>
-    <string name="resource_comment_limit">ဤသင်းမ်သုံးပြီးနောက် အနည်းငယ်ကြာမှ ပြန်လာပါ။</string>
-    <string name="resource_comment_loading_list">ခဏစောင့်ပါ…</string>
-    <string name="resource_comment_name_default">အမည်ပြောင်</string>
-    <string name="resource_comment_no_average_score">မရှိပါ</string>
-    <string name="resource_comment_no_comment">ပထမဆုံး ကော်မန့် ပေးလိုက်ပါ။</string>
-    <string name="resource_comment_over_limit">သင့်မှတ်ချက်မှာ ရှည်လွန်းသည်။ လျော့ချပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="resource_comment_publish">ပို့ရန်</string>
-    <string name="resource_comment_rate">အဆင့်သတ်မှတ်ခြင်း-</string>
-    <string name="resource_comment_rating_star_tips">သင့်အဆင့်</string>
-    <string name="resource_comment_sending">မှတ်ချက်ပို့နေဆဲ…</string>
-    <string name="resource_comment_title">%1$s အကြောင်းရေးသားချက်</string>
-    <string name="resource_comment_upload_data_invalid">သင်ထည့်သွင်းသော မှတ်ချက်က မခိုင်လုံပါ</string>
-    <string name="resource_comment_upload_failed">မှတ်ချက်ပို့လို့ မရပါ</string>
-    <string name="resource_comment_upload_hint">သင့်မှတ်ချက်ကို အကျဉ်းချုံး ပြန်ဆန်းစစ်ပြီးနောက်တွင် ပြသပါလိမ့်မည်။</string>
-    <string name="resource_comment_upload_not_bought">သင်းမ်နှင့် ပတ်သက်၍ မှတ်ချက်များ မပေးမီ၊ ၎င်းကို သင် အသုံးချရန် လိုအပ်သည်</string>
-    <string name="resource_comment_upload_not_logined">ဦးစွာ သင် ဆိုင်းအင်ဝင်ရန် လိုအပ်သည်</string>
-    <string name="resource_comment_upload_success">သင့်မှတ်ချက်ကို အကျဉ်းချုံး ပြန်ဆန်းစစ်ပြီးနောက်တွင် ပြသပါလိမ့်မည်။</string>
-    <string name="resource_comment_wonderful_comments">လူကြိုက်များသော မှတ်ချက်များ</string>
     <string name="resource_continue">နောက်တစ်ဆင့်</string>
     <string name="resource_current_using_title">လက်ရှိ အရင်းအမြစ်</string>
     <string name="resource_data_empty">ဤနေရာတွင် အိုင်တမ်များမရှိပါ။</string>
@@ -612,8 +620,6 @@ mm"</string>
     <string name="resource_exchange_has_used">သင်ထည့်သွင်းလိုက်သော ကုဒ်က သုံးထားပြီးသား ဖြစ်နေသည်။</string>
     <string name="resource_exchange_hint">သင်၏ လက်ဆောင်ကုဒ်ကို ထည့်သွင်းပါ</string>
     <string name="resource_exchange_purchase_unkown_error">ဟိုက်! အမည်မသိ အမှား ဖြစ်ခဲ့သည်။ သင်၏ ငွေပေးချေမှု အခြေအနေများကို ကြည့်ရန် http://market.xiaomi.com တွင် ဆိုင်းအင်ဝင်ပါ။</string>
-    <string name="resource_exchange_share_code_content">"သင်သည်သင်းမ် \"%1$s\" အတွက် လက်ဆောင်ကုဒ် (%2$s) တစ်ခုကို MIUI's သင်းမ်စတိုးမှ ရရှိထားသည်။ ၎င်းအား အသုံးပြုရန် %3$s ကို နှိပ်ပါ။"</string>
-    <string name="resource_exchange_share_code_dlg_content">\"%1$s\": %2$s အတွက် လက်ဆောင်ကုဒ်။ ၎င်းကို အခြား MIUI သုံးသူတစ်ဦးဆီ သင် ပို့သောအခါ၊ သူတို့က ၎င်းကို ဒီအချင်းအကျင်းအား ဒေါင်းလုဒ်လုပ်ဖို့အတွက် သုံးနိုင်ပါသည်။</string>
     <string name="resource_exchange_share_code_dlg_title">ပို့ပေးခြင်း</string>
     <string name="resource_exchange_success">ပျော်ရွှင်နိုင်စေ! :)</string>
     <string name="resource_exchange_unavailable">သင်ထည့်သွင်းလိုက်သော ကုဒ်ဖြင့် ဆက်စပ်သုံးနိင်သော သင်းမ်ကို မရနိုင်ပါ။</string>
@@ -659,6 +665,7 @@ mm"</string>
     <string name="resource_pack_price_info">မူရင်းစျေးနှုန်း: %1$s</string>
     <string name="resource_pack_warning">ဤသင်းမ်ထဲက %1$d အစိတ်အပိုင်းများကို သင်ဝယ်ယူထားပြီးဖြစ်သည်။ အကယ်၍ ကျန်နေသော အစိတ်အပိုင်းများကို တစ်ချချင်း သင် ဝယ်ယူပါက၊ ပို၍ စျေးချိုပါသည်။</string>
     <string name="resource_present">လက်ဆောင်</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">အခမဲ့</string>
     <string name="resource_price_unit"> Mi ခရက်ဒစ်</string>
     <string name="resource_purchase_common_error">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
@@ -674,7 +681,6 @@ mm"</string>
     <string name="resource_ringtone_default">ဖုန်းမြည်သံများ</string>
     <string name="resource_ringtone_playing_error">အမှား</string>
     <string name="resource_ringtone_volume_mute">အသံစက်ကို အသံပိတ်ထားသည်</string>
-    <string name="resource_save_to_note">မှတ်စုများတွင် သိမ်းဆည်းပါ</string>
     <string name="resource_search_color_hint_blue">အပြာ</string>
     <string name="resource_search_color_hint_dark">အမည်း</string>
     <string name="resource_search_color_hint_green">အစိမ်း</string>
@@ -698,12 +704,8 @@ mm"</string>
     <string name="resource_select_ringtone_audio_confirm">ဤဖုန်းမြည်သံအား ရွေးမည်လား?</string>
     <string name="resource_select_ringtone_confirm">ဤဖုန်းမြည်သံကို ရွေးမလား?</string>
     <string name="resource_selected">အထူးစီစဉ်မှု</string>
-    <string name="resource_send">ပို့ပါ</string>
     <string name="resource_server_alert_dialog_title">ကျွန်ုပ်တို့ အသေအချာ ပြန်လာမှာပါ…</string>
     <string name="resource_server_out_of_service">ကံမကောင်းစွာပင်၊ ကျွန်ုပ်တို့ဆာဗာက လောလောဆယ် အလုပ်မလုပ်ပါ။</string>
-    <string name="resource_share_subject">သင်းမ် မျှဝေပါ: %1$s</string>
-    <string name="resource_share_text">သင်ကြိုက်မည်ဟု ကျွန်ုပ်ထင်ထားသော သင်းမ်တစ်ခုက ဒီမှာပါ: %1$s! လင့်ခ်: %2$s</string>
-    <string name="resource_share_title">မျှဝေပါ</string>
     <string name="resource_system_title">စက်စနစ်အရင်းအမြစ်များ</string>
     <string name="resource_tab_to_view">ကြည့်ရန် နှိပ်ပါ။</string>
     <string name="resource_tip_select_none">တစ်ခုမှ ရွေးမထားပါ</string>
@@ -738,14 +740,14 @@ mm"</string>
     <string name="resource_waiting_download">စောင့်နေသည်</string>
     <string name="resource_waiting_pause">ရပ်ထားသည်</string>
     <string name="resource_wallpaper_download">နောက်ခံပုံကို ဒေါင်းလုဒ်လုပ်မည်</string>
-    <string name="restore_last_theme_desc">ယခင်သုံးနေသော အပြင်အဆင်မှ အရာအချို့ကို MIUI ဗားရှင်းအသစ်နှင့် တွဲသုံးနိုင်မည်မဟုတ်ပါ။ တွဲသုံးမရသော အရာများကို မူလပါသည့်အတိုင်း အစားထိုးလိုက်ပါမည်။</string>
+    <string name="restore_last_theme_desc">ယခင်သုံးထားသောသင်း(မ်)မှ အချို့အရာများကို စနစ်ဗားရှင်းအသစ်နှင့် တွဲသုံးနိုင်မည်မဟုတ်ပါ။ မကိုက်ညီသောအရာများကို မူရင်းရွေးစရာများနှင့် အစားထိုးပါမည်။</string>
     <string name="restore_last_theme_title">မူလအပြင်အဆင်ကို ပြန်ယူနေသည်</string>
     <string name="restore_push_content">အပ်ပဒိတ်မလုပ်ခင်သုံးနေသော အပြင်အဆင်ကို ပြန်ထားရန်</string>
     <string name="restore_push_title">သင့်အပြင်အဆင်ကို ပြန်ယူရန်</string>
     <string name="revoke_dialog_agree">ရုပ်သိမ်းရန်</string>
     <string name="revoke_dialog_agree_with_timestamp">ရုပ်သိမ်းရန် (%1$d စက္ကန့်)</string>
     <string name="revoke_dialog_disagree">မလုပ်တော့ရန်</string>
-    <string name="revoke_dialog_message">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် အပြင်အဆင်များ၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဆိုင်ရာ သဘောတူညီချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းကို ရပ်လိုက်ပါမည်။ ကောက်ယူထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ အပြင်အဆင်များသည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် ဤဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
+    <string name="revoke_dialog_message">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် သင်း(မ်)၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းကို ရပ်လိုက်ပါမည်။ ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ သင်း(မ်)သည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် ဤဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။</string>
     <string name="revoke_dialog_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="revoke_fail_message">ခွင့်ပြုချက်ရုပ်သိမ်းနိုင်ရန် စက်ကို ကွန်ရက်ချိတ်ရပါမည်။ ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="revoke_progress_dialog_message">ခွင့်ပြုချက် ရုတ်သိမ်းနေသည်…</string>
@@ -759,7 +761,7 @@ mm"</string>
     <string name="rewarded_ad_pop_title">ပရီမီယံအပြင်အဆင်များ</string>
     <string name="rewarded_ad_watch_again_pop">ဤပရီမီယံအပြင်အဆင်ကို ဒေါင်းလုဒ်လုပ်ရန် ဗီဒီယိုကို ပြီးအောင်ကြည့်ပါ။ ယခုကြည့်လိုသလား။</string>
     <string name="rewarded_ad_watch_again_pop_for_lw">ဤနောက်ခံပုံကို ဒေါင်းလုဒ်လုပ်ရန် ဗီဒီယိုပြီးအောင်ကြည့်ပါ။ ယခုကြည့်လိုသလား။</string>
-    <string name="ringtone_agreement_message">Themes မှ ဖုန်းမြည်သံများကို အသုံးမပြုမီတွင် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှု၊ သဘောတူပေးပါ။</string>
+    <string name="ringtone_agreement_message">သင်း(မ်)မှ ဖုန်းမြည်သံများမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%2$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
     <string name="ringtone_preset">ကြိုထည့်ထားသော ဖုန်းသံများ</string>
     <string name="ringtone_set_success">အောင်မြင်စွာသတ်မှတ်ပြီးပါပြီ</string>
     <string name="saturday">စနေ</string>
@@ -789,6 +791,8 @@ mm"</string>
     <string name="sim_one">SIM %d</string>
     <string name="sim_two">SIM %d</string>
     <string name="similar_theme">ဆင်တူ သင်းမ်များ</string>
+    <string name="skip_ad">ကျော်သွား</string>
+    <string name="somatosensory_temperature_format">စိတ်ထင် %s°</string>
     <string name="special_topic">အမျိုးအစားများ</string>
     <string name="start_all">အားလုံးပြန်စရန်</string>
     <string name="still_apply">သုံးရန်</string>
@@ -796,6 +800,11 @@ mm"</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="sunrise_time_format">နေထွက် %s</string>
+    <string name="sunrise_time_format_desc">နေထွက်ချိန် - %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">မနက်ဖြန်နေထွက်ချိန် - %s</string>
+    <string name="sunset_time_format">နေဝင် %s</string>
+    <string name="sunset_time_format_desc">နေဝင်ချိန် - %s</string>
     <string name="super_wallpaper_apk_install">ထည့်သွင်းရန်</string>
     <string name="super_wallpaper_list_footer_text">နောက်ထပ်စူပါနောက်ခံပုံများ မကြာမီလာပါမည်</string>
     <string name="super_wallpaper_list_label">စူပါနောက်ခံပုံများ</string>
@@ -811,6 +820,7 @@ mm"</string>
     <string name="system_aod_dialog_title">အမြဲပြသမျက်နှာပြင်</string>
     <string name="system_phone">ခေါ်ဆိုမှုများ</string>
     <string name="system_precust">ကြိုတင်ထည့်သွင်းမည်</string>
+    <string name="text_play">ကစားရန်</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>
@@ -910,11 +920,13 @@ mm"</string>
     <string name="theme_favorite_list_empty">အကြိုက်ဆုံးများသို့ မည်သည့်သင်းမ်မှ မပေါင်းထည့်ရသေးပါ။</string>
     <string name="theme_favorite_waiting">ခဏစောင့်ပါ…</string>
     <string name="theme_fresh_man_notifaction">သင်းမ်အသစ်များရရှိနိုင်သည်</string>
+    <string name="theme_home_page">ပင်မမျက်နှာပြင်</string>
     <string name="theme_immediately_apply_tip">အဆင့်မြှင့်သင်းမ်ကို ယခုသုံးလိုပါသလား။</string>
     <string name="theme_import_from_sdcard">တင်သွင်း</string>
     <string name="theme_is_external_priority_storage">SD ကဒ်မှာသိမ်းဆည်းပါ</string>
     <string name="theme_is_external_priority_storage_summary">သင်းမ်အက်ပ်များသည် အကျိုးသက်ရောက်မှုရှိရန် ချက်ချင်းပြန်စတင်လိမ့်မည်</string>
     <string name="theme_multiple_button_title_customize">စိတ်ကြိုက်စီစဉ်ပါ</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">မသိမ်းပါ</string>
     <string name="theme_on_the_phone_alert">ဖုန်းပြောနေစဉ် ဖွင့်မရပါ</string>
     <string name="theme_recommend">ဆင်တူ သင်းမ်များ</string>
@@ -924,7 +936,7 @@ mm"</string>
     <string name="theme_user_agreement_content1">"ဤထုတ်ကုန်ကိုသုံးခြင်းအားဖြင့် ကျွန်တော်တို့၏ကိုယ်ရေးမူဝါဒကို သဘောတူပြီးဖြစ်ပါသည် "</string>
     <string name="theme_user_agreement_content2">အသုံးပြုသူသဘောတူညီမှု</string>
     <string name="theme_user_agreement_content3">" နှင့် "</string>
-    <string name="theme_user_agreement_content4">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="theme_user_agreement_content4">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="theme_user_agreement_content5">"။ ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ "</string>
     <string name="theme_user_agreement_exit">သဘောမတူပါ</string>
     <string name="theme_user_agreement_remind_again">အသုံးပြုမှုဆိုင်ရာစည်းကမ်းချက်များကိုပြပါ</string>
@@ -935,6 +947,7 @@ mm"</string>
     <string name="themes_has_an_updated_version">သင်း(မ်)ဗားရှင်းအသစ် ရနိုင်ပါပြီ</string>
     <string name="themes_might_like">သင်ကြိုက်နိုင်သော အခြားအပြင်အဆင်များ</string>
     <string name="third_party_pickers_activity_title">%1$s ပေါင်းထည့်</string>
+    <string name="third_privacy_policies">ပြင်ပပါတီ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒများ</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>
@@ -946,6 +959,7 @@ mm"</string>
     <string name="tip_home">ပင်မမျက်နှာပြင်နောက်ခံပုံနှင့် နာရီ ပြောင်းရန်</string>
     <string name="tip_icon">ပင်မမျက်နှာပြင်သင်္ကေတများ ပြောင်းရန်</string>
     <string name="tip_lockscreen">သော့ခတ်မျက်နှာပြင်နောက်ခံပုံနှင့် နာရီ ပြောင်းရန်</string>
+    <string name="tip_lockscreen2">သင်သည် နောက်ခံပုံရဟတ်သုံးနေသည်။ သင်း(မ်)ကို စိတ်ကြိုက်လုပ်ပါက သော့ချမျက်နှာပြင်နောက်ခံပုံနှင့် နာရီကို ပြောင်းလိုက်ပါမည်။</string>
     <string name="tip_statusbar">ထိန်းချုပ်စင်တာနှင့် အသိပေးချက်ရှိတ် ပြောင်းရန်</string>
     <string name="tips_theme_gate_transfer_fail">ဤစာမျက်နှာအား ဖွင့်၍ မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="title_component">သင်းမ်ကိုစိတ်ကြိုက်စီစဉ်ပါ</string>
@@ -986,20 +1000,23 @@ mm"</string>
     <string name="update_push_content">ယခုအပ်ပဒိတ်လုပ်ရန်</string>
     <string name="update_push_title">သင့်အပြင်အဆင်အတွက် ဗားရှင်းအသစ် ရရှိနိုင်ပါပြီ</string>
     <string name="update_title">အပ်ဒိတ် အသစ် ရှိပါပြီ</string>
+    <string name="used_wallpaper">ယခင်သုံးထားသည်</string>
     <string name="user_agree">သဘောတူသည်</string>
     <string name="user_attention_new_theme">%s ထံမှ အကြောင်းအရာအသစ်</string>
     <string name="user_authorization_dialog_agree">သဘောတူသည်</string>
     <string name="user_authorization_dialog_agree_a">သဘောတူပါသည်</string>
     <string name="user_authorization_dialog_disagree">ထွက်ရန်</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>သင့်အတွက် အခြေခံဝန်ဆောင်မှုများ ပေးအပ်ရန် လိုအပ်သော ပုဂ္ဂိုလ်ရေး သတင်းအချက်အလက်များအား ကျွန်ုပ်တို့စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့စုဆောင်းသော သတင်းအချက်အလက်များကို ကျွန်ုပ်တို့ကိုင်တွယ်စီမံပုံအကြောင်းအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a>တွင် လေ့လာနိုင်ပါသည်။ သင်းမ်များကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ&lt;/a> ကို ဖတ်ရှု၍ သဘောတူလက်ခံပေးပါ။
-သင်းမ်များ၏ ကိုယ်ရေးအချက်အလက် ပေါ်လစီအတွက် သင်၏ သဘောတူခွင့်ပြုချက်အား ဆက်တင်များအတွင်းတွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို သဘောတူပါ။ ရွေးချယ်မှုများကို ဆက်တင်တွင် အချိန်မရွေးပြောင်းနိုင်သည်။&lt;/Data></string>
+    <string name="user_authorization_dialog_message"><Data>"ကျွန်ုပ်တို့သည် သင့်အားအခြေခံဝန်ဆောင်မှုများပေးနိုင်ရန် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူရရှိထားသည့် ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကျွန်ုပ်တို့ကိုင်တွယ်ပုံအား ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ သင်း(မ်)ကိုမသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%3$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင်း(မ်)၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒအပေါ်
+သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေးရုပ်သိမ်းနိုင်သည်။"</Data></string>
+    <string name="user_authorization_dialog_message_a"><Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> ကို သဘောတူပါ။ ရွေးချယ်မှုများကို ဆက်တင်တွင် အချိန်မရွေးပြောင်းနိုင်သည်။</Data></string>
     <string name="user_authorization_dialog_title">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
     <string name="user_know">ရပါပြီ</string>
     <string name="using_theme_has_update_tips">ဤသင်းမ်အတွက် အပ်ဒိတ်ရနိုင်ပါပြီ။</string>
     <string name="using_theme_next_automatic_update">အလိုအလျောက် မွမ်းမံမှုများ</string>
     <string name="using_theme_next_automatic_update_summary">မျက်နှာပြင် လော့ခ်ချထားစဥ် ဒေါင်းလုဒ်ထားသော သင်းမ်များကို Wi-Fi ဖြင့် အလိုအလျောက် အပ်ဒိတ်လုပ်မည်</string>
     <string name="using_theme_show_ad">အကြံပြုချက်များ</string>
+    <string name="uvi_format">UVI %1$s %2$s</string>
+    <string name="uvi_format_desc">ခရမ်းလွန်ရောင်ခြည်အညွှန်း - %1$s၊ %2$s</string>
     <string name="video_audio_apply_success">အသံရှိဗီဒီယို သတ်မှတ်ပြီးပါပြီ</string>
     <string name="video_cancel">မလုပ်တော့ရန်</string>
     <string name="video_data_tips_message">မိုဘိုင်းဒေတာကို အသုံးပြုပါက အပိုငွေများကုန်ကျနိုင်ပါသည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
@@ -1007,12 +1024,27 @@ mm"</string>
     <string name="video_not_support_message">ဤဗီဒီယိုသည် မှန်ကန်စွာမပြခြင်း သို့မဟုတ် စက်ကိုနှေးစေခြင်း ဖြစ်နိုင်သည်။ မဖြစ်မနေ သုံးလိုသလား။</string>
     <string name="video_not_support_title">ဤဗီဒီယို ကြီးလွန်းသည်</string>
     <string name="video_silence_apply_success">အသံတိတ် ဗီဒီယို သတ်မှတ်ပြီးပါပြီ</string>
-    <string name="wallpaper_agreement_message">Themes မှ နောက်ခံပုံများကို အသုံးမပြုမီတွင် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%2$s\">ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှု၊ သဘောတူပေးပါ။</string>
+    <string name="wallpaper_agreement_message">သင်း(မ်)မှ နောက်ခံပုံများကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a>နှင့် &lt;a href=\"%2$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုသဘောတူပါ။</string>
+    <string name="wallpaper_and_personal">နောက်ခံပုံနှင့် စိတ်ကြိုက်ပြုလုပ်ခြင်း</string>
     <string name="wallpaper_apply">အသုံးချပါ</string>
     <string name="wallpaper_crop">ဖြတ်ထုတ်ပါ</string>
     <string name="wallpaper_decoded_error">ဖန်သားပြင်နောက်ခံပုံဆွဲတင်မရပါ</string>
     <string name="wallpaper_desc">Wallpapers သည် သင်၏ ပင်မမျက်နှာပြင်အား အသွင်အပြင် ဆန်းသစ်စေပါသည်။</string>
     <string name="wallpaper_detail_load_page_no_network">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="wallpaper_group_black_gobi_title">Gobi သဲပြင်</string>
+    <string name="wallpaper_group_color_move_title">အရည်အရောင်များ</string>
+    <string name="wallpaper_group_concerto_title">တေးသွား</string>
+    <string name="wallpaper_group_crystallization_title">ကျောက်သလင်းပုံ</string>
+    <string name="wallpaper_group_curves_title">မျဉ်းကွေးများ</string>
+    <string name="wallpaper_group_dynamic_nebula_title">ဒိုင်းနမစ်နီဘူလာ</string>
+    <string name="wallpaper_group_geometric_title">ဂျီသြမေတြီ</string>
+    <string name="wallpaper_group_light_cycles_title">ရောင်စဉ်ကွင်းအလင်းများ</string>
+    <string name="wallpaper_group_macaron_title">ပူဖောင်းများ</string>
+    <string name="wallpaper_group_minimalist_scenery_title">မီနီမယ်လစ်ဇင်</string>
+    <string name="wallpaper_group_miui_14_title">MIUI 14</string>
+    <string name="wallpaper_group_molten_glass_title">အရည်ပျော်မှန်</string>
+    <string name="wallpaper_group_natural_texture_title">သဘာဝပုံစံများ</string>
+    <string name="wallpaper_group_sgn_mountain_title">Siguniang တောင်</string>
     <string name="wallpaper_might_like">သင်ကြိုက်နိုင်သော အခြားနောက်ခံပုံများ</string>
     <string name="wallpaper_scroll_type_tips">နောက်ခံပုံ လိုက်ကာ</string>
     <string name="wallpaper_set_as_both">နှစ်ခုလုံးအတွက် သတ်မှတ်ပါ</string>
@@ -1023,6 +1055,12 @@ mm"</string>
     <string name="wallpaper_settings_no_history">မှတ်တမ်း မရှိပါ</string>
     <string name="wallpaper_settings_pad_more_page_title">နောက်ထပ် နောက်ခံပုံများ</string>
     <string name="wallpaper_settings_page_title">နောက်ခံပုံ</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">ဆက်တင်</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">သုံးရန်</string>
+    <string name="warning_miui_optimization_closed_dialog_message">MIUI အဆင့်မြှင့်ခြင်း ဖွင့်ထားပုံမရပါ။ မဖွင့်ထားပါက သင်း(မ်)သုံးချိန်တွင် ကောင်းစွာအလုပ်လုပ်မည်မဟုတ်ပါ။ သင်း(မ်)ကို မရအရသုံးနိုင်သည် သို့မဟုတ် ဆက်တင်တွင် MIUI အဆင့်မြှင့်ခြင်းကို ဖွင့်နိုင်သည်။</string>
+    <string name="warning_miui_optimization_closed_dialog_message2">စနစ်အဆင့်မြှင့်ခြင်း ဖွင့်ထားပုံမရပါ။ မဖွင့်ထားပါက သင်း(မ်)သုံးချိန်တွင် ကောင်းစွာအလုပ်လုပ်မည်မဟုတ်ပါ။ သင်း(မ်)ကို မရအရသုံးနိုင်သည် သို့မဟုတ် ဆက်တင်တွင် စနစ်အဆင့်မြှင့်ခြင်းကို ဖွင့်နိုင်သည်။</string>
+    <string name="warning_miui_optimization_closed_dialog_title">သတိပြုရန်</string>
+    <string name="weather_no_data">မိုးလေဝသဒေတာမရှိပါ</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
@@ -1030,6 +1068,19 @@ mm"</string>
     <string name="wifi_check_confirm">အတည်ပြုသည်</string>
     <string name="wifi_check_message">မိုဘိုင်းဒေတာဖြင့် အက်ပ်ဒိတ်များအား ဒေါင်းလုဒ်လုပ်မလား?</string>
     <string name="wifi_check_tip">ထပ်မပြပါနှင့်</string>
+    <string name="wind_direction_0">မြောက်လေ</string>
+    <string name="wind_direction_1">အရှေ့မြောက်လေ</string>
+    <string name="wind_direction_1_f">အရှေ့မြောက်လေ</string>
+    <string name="wind_direction_2">အရှေ့လေ</string>
+    <string name="wind_direction_3">အရှေ့တောင်လေ</string>
+    <string name="wind_direction_3_f">အရှေ့တောင်လေ</string>
+    <string name="wind_direction_4">တောင်လေ</string>
+    <string name="wind_direction_5">အနောက်တောင်လေ</string>
+    <string name="wind_direction_5_f">အနောက်တောင်လေ</string>
+    <string name="wind_direction_6">အနောက်လေ</string>
+    <string name="wind_direction_7">အနောက်မြောက်လေ</string>
+    <string name="wind_direction_7_f">အနောက်မြောက်လေ</string>
+    <string name="wind_format">%1$s | လယ်ဗယ် %2$s</string>
     <string name="xiaoai_speech_not_installed_download">ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="xiaoai_speech_not_installed_message">ဆက်လက်လုပ်ဆောင်ရန် Mi AI အသံလက်ထောက်အား ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းပါ။</string>
     <string name="xiaoai_speech_not_installed_title">Mi AI အသံလက်ထောက် မထည့်သွင်းရသေးပါ။</string>

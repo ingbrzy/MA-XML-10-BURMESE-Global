@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessible_cancel">မလုပ်တော့ရန်</string>
+    <string name="accessible_cancel">ပယ်ဖျက်ပါ</string>
     <string name="accessible_ellipse">ဘဲဥပုံ</string>
     <string name="accessible_irregular">ပုံညှိရန်</string>
     <string name="accessible_rect">စတုဂံ</string>
     <string name="actionbar_button_up_description">နောက်သို့</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="am">နံနက်</string>
+    <string name="annotation_open">ကိရိယာများကို ပြရန်</string>
+    <string name="annotation_stow">ကိရိယာများကို ဖျောက်ထားရန်</string>
     <string name="app_name">မျက်နှာပြင်ရိုက်ချက်</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -31,10 +33,14 @@
     <string name="close">ပိတ်</string>
     <string name="confirm_cancel_task_files">%1$s သို့ ဖိုင်ပို့ခြင်းကို ဖျက်သိမ်းလိုသလား။</string>
     <string name="confirm_cancel_task_images">%1$s သို့ ပုံပို့ခြင်းကို ဖျက်သိမ်းလိုသလား။</string>
+    <string name="copy_dialog_confirm">နားလည်ပါပြီ</string>
+    <string name="copy_dialog_content">စကရင်ရှော့များကို သင့်ကလစ်ဘုတ်တွင် အလိုအလျောက်ထည့်ပြီး ကူးထည့်နိုင်သည်။ ဆက်တင်တွင် \"အကြောင်းအရာများကိုကလစ်ဘုတ်တွင်ထည့်ရန်\" ကိုရှာပြီး ဤအင်္ဂါရပ်ကို ပိတ်နိုင်သည်။</string>
+    <string name="copy_dialog_title">သတိပြုရန်</string>
+    <string name="copy_success_toast">အောင်မြင်စွာကူးယူပြီးပါပြီ</string>
     <string name="cta_agree_desc">ဤအက်(ပ်)ကို အင်တာနက်နှင့် ချိတ်ခွင့်ပြုပြီး အထက်တွင်ဖော်ပြထားသော မရှိမဖြစ် ခွင့်ပြုချက်များကို ပေးပါ။</string>
     <string name="cta_btn_agree">သဘောတူသည်</string>
     <string name="cta_btn_disagree">သဘောမတူပါ</string>
-    <string name="cta_main_purpose">မျက်နှာပြင်ပုံအယ်ဒီတာမှ ကြိုဆိုပါသည်။ မျက်နှာပြင်ပုံများကို ဖြတ်ထုတ်ရန်နှင့် တည်းဖြတ်ရန် ဤအက်(ပ်) သုံးနိုင်သည်။</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Welcome to Screenshot Editor! You can use this app to crop and edit your screenshots. This app needs to connect to the internet and access audio and video files on your device to be able to provide necessary services.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">မျက်နှာပြင်ဓာတ်ပုံများသိမ်းရန်</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -135,14 +141,19 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">ဓာတ်ပုံ (%d/%d) ပုံ မှ ကိုယ်ရေးကိုယ်တာအချက်အလက်များ ဖယ်ရှားနေသည်…</string>
+    <string name="long_screenshot_content_auto">စကရင်ရှော့ရိုက်နေသည်…</string>
+    <string name="long_screenshot_content_loading">ခေတ္တစောင့်ပါ…</string>
+    <string name="long_screenshot_content_manual">စကရင်ရှော့၏ အဆုံးနေရာကို လက်ဖြင့်ညှိပြီး \"ပြီးပါပြီ\" ကို တို့ပါ။</string>
+    <string name="long_screenshot_done">ပြီးပါပြီ</string>
     <string name="long_screenshot_error">အမှားအယွင်းရှိသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="long_screenshot_guide_text">"မျက်နှာပြင်ရိုက်ချက် အရှည်
 ရိုက်ယူရန် ထိနှိပ်ပါ"</string>
-    <string name="long_screenshot_intercepted_error">မျက်နှာပြင်ပုံ ရိုက်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="long_screenshot_intercepted_error">ကြားဖြတ်ခြင်းရှိသည်။ မျက်နှာပြင်ပုံကို ပြခန်းသို့ သိမ်းထားသည်။</string>
     <string name="long_screenshot_out_of_memory_error">ရုပ်ပုံအရွယ်အစား ကြီးလွန်းသည်</string>
     <string name="long_screenshot_processing">လုပ်ဆောင်နေသည်…</string>
     <string name="long_screenshot_processing_description_accessibility">လုပ်ဆောင်နေသည်</string>
     <string name="long_screenshot_stop">ပြီးပြီ</string>
+    <string name="long_screenshot_title">စကရင်ရှော့အရှည်</string>
     <string name="long_screenshot_top_msg">မျက်နှာပြင်ရိုက်ချက်ဖန်တီးနေ…</string>
     <string name="long_screenshot_top_msg_description_accessibility">မျက်နှာပြင်ဓာတ်ပုံရိုက်ခြင်း</string>
     <string name="long_screenshot_top_msg_manual">မျက်နှာပြင်ရိုက်ချက်အား ဖြတ်ထုတ်ပြီ အပြီးသတ်ရန် ခလုတ်အား ထိနှိပ်ပါ</string>
@@ -165,15 +176,16 @@
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_edit">ပြင်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -243,7 +255,7 @@
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="partial_screenshot_edit">တည်းဖြတ်ရန်</string>
-    <string name="partial_screenshot_failed_to_capture_title">ဤအက်(ပ်)တွင် မျက်နှာပြင်ပုံရိုက်ခြင်း ခွင့်မပြုပါ</string>
+    <string name="partial_screenshot_failed_to_capture_title">ဤစာမျက်နှာကို မျက်နှာပြင်ဓာတ်ပုံရိုက်မရပါ</string>
     <string name="partial_screenshot_failed_to_save_title">သိမ်းမရပါ။ နေရာလွတ်မလုံလောက်ပါ။</string>
     <string name="partial_screenshot_insert_failed">သိမ်းဆည်း၍ မရပါ</string>
     <string name="partial_screenshot_repaint">ပြန်စရန်</string>
@@ -272,6 +284,12 @@
     <string name="photo_font_download_failed_for_notwork">ဒေါင်းလုဒ်လုပ်၍ မရပါ၊ ကွန်ရက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="photo_save_to_msg">%s သို့သိမ်းပါ</string>
     <string name="pm">ညနေ</string>
+    <string name="privacy_mosaic_result_done">တစ်ကိုယ်ရေအချက်အလက်များ ဖုံးထားသည်</string>
+    <string name="privacy_mosaic_result_fail">တစ်ကိုယ်ရေအချက်အလက်များ ဖုံးမရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="privacy_mosaic_result_none">တစ်ကိုယ်ရေအချက်အလက်များ မတွေ့ပါ</string>
+    <string name="privacy_mosaic_tip">တစ်ကိုယ်ရေအချက်အလက်များကို ဖုံးရန် တို့ပါ</string>
+    <string name="privacy_mosaic_tip_long">လှိမ့်နိုင်သောမျက်နှာပြင်ဓာတ်ပုံများ မပံ့ပိုးပါ</string>
+    <string name="privacy_mosaic_tip_partial">တစ်ဝက်တစ်ပျက်မျက်နှာပြင်ဓာတ်ပုံများ မပံ့ပိုးပါ</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="redmi_10x">Redmi 10X</string>
@@ -321,12 +339,17 @@
     <string name="screen_editor_btn_save">သိမ်းဆည်းရန်</string>
     <string name="screen_editor_btn_shell_off">စက်ဘောင်ပုံစံကို ဖယ်ရှားရန်</string>
     <string name="screen_editor_btn_shell_on">စက်ဘောင်ပုံစံထည့်ရန်</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">ဤဖန်သားပြင်ဓာတ်ပုံကို ဖျက်လိုပါသလား။</string>
     <string name="screen_editor_delete_dialog_picture_msg">ဤပုံကို ယခုဖျက်လိုသလား။</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">ပြီးပါပြီ</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">စက်ဘောင်ပုံစံကို ဖြတ်ညှပ်ထားသော မျက်နှာပြင်ရိုက်ချက်များတွင် ထည့်မရပါ</string>
     <string name="screen_editor_shell_net_error">စက်ဘောင်ပုံစံကို ဒေါင်းလုဒ်လုပ်ရန် ကွန်ရက်ချိတ်ပါ</string>
     <string name="screen_editor_shell_res_downloading">စက်ဘောင်ပုံစံကို ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ပယ်ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_delete">မျက်နှာပြင်ရိုက်ချက်အား ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_save">ပြခန်းသို့ သိမ်းပါ</string>
@@ -345,6 +368,8 @@
     <string name="screen_talkback_shape">သဏ္ဌာန်</string>
     <string name="screen_talkback_small">အလွန်သေး</string>
     <string name="screen_talkback_text">စာသား</string>
+    <string name="screenshot_detected_multiple_template">%1$s အပါအဝင် အက်(ပ်)အမျိုးမျိုးက ဤမျက်နှာပြင်ရိုက်ချက်ကို တွေ့ထားသည်</string>
+    <string name="screenshot_detected_template">%1$sက ဤမျက်နှာပြင်ရိုက်ချက်ကို တွေ့ထားသည်</string>
     <string name="screenshot_edit">တည်းဖြတ်</string>
     <string name="screenshot_failed_in_landscape_mode">အလျားလိုက်မုဒ်တွင် မျက်နှာပြင်ရိုက်ချက်များကို ရွှေ့မရပါ</string>
     <string name="screenshot_feedback_txt">တုံ့ပြန်အကြံပြုချက်</string>
@@ -352,7 +377,11 @@
     <string name="screenshot_long_screenshot">စာလိပ်</string>
     <string name="screenshot_save">သိမ်းရန်</string>
     <string name="screenshot_send">ပေးပို့</string>
+    <string name="screenshot_succeed">မျက်နှာပြင်ဓာတ်ပုံ အောင်မြင်စွာရိုက်ပြီးပါပြီ</string>
     <string name="screenshot_thumbnail">မျက်နှာပြင်ရိုက်ချက်ပုံငယ်</string>
+    <string name="scroll_annotation">လှိမ့်ဆွဲရန်နှင့် မှတ်ချက်ပေးရန်</string>
+    <string name="scroll_annotation_btn_quit">မှတ်ချက်ပေးခြင်းမှထွက်ရန်</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">မထွက်မီ မှတ်ချက်များ သိမ်းလိုသလား။</string>
     <string name="send">ပို့ပါ</string>
     <string name="send_files_by">ဖိုင်များကို တစ်ဆင့် မျှဝေရန် -</string>
     <string name="send_files_to">ပို့ရန်နေရာ -</string>

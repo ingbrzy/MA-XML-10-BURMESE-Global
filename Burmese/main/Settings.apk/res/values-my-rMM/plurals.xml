@@ -4,13 +4,13 @@
         <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">လွန်ခဲ့သော ၁ နာရီက</item>
+        <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">၁ နာရီ အတွင်း</item>
+        <item quantity="other">%d နာရီအတွင်း</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">နာရီဝက် အတွင်း</item>
@@ -25,7 +25,7 @@
         <item quantity="other">ယခုလေးတင်</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">အက်ပ် %d ခုအတွက် ဘယ်တော့မှ မပိတ်ပါနှင့်</item>
@@ -114,6 +114,9 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">အိုင်တမ် %d ခု ရွေးထားသော</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">အပြောင်းအလဲများကို %d စက္ကန့်အတွင်း သုံးပါမည်</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
@@ -122,6 +125,9 @@
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT ကိုဝင်ခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ဒဗယ်လော်ပါဖြစ်ရန် အဆင့် %1$d ဆင့်သာ လိုတော့သည်။</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">စက်အချက်အလက်များကို ဖွင့်ရန် အဆင့် %1$d ဆင့် လိုသေးသည်။</item>
@@ -211,6 +217,6 @@
         <item quantity="other">ကွန်ရက် %dခုအား မျှဝေခဲ့သည်</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">စက် %1$dလုံး ချိတ်ဆက်ထားသည်</item>
+        <item quantity="other">စက် %1$d လုံး ချိတ်ထားသည်</item>
     </plurals>
 </resources>

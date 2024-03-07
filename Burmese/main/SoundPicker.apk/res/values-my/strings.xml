@@ -32,6 +32,13 @@
     <string name="add_ringtone_text">ဖုန်းမြည်သံကို ထည့်ရန်</string>
     <string name="alarm_sound_default">မူရင်းနှိုးစက်သံ</string>
     <string name="app_label">အသံများ</string>
+    <string name="call_notification_answer_action">ဖုန်းကိုင်ရန်</string>
+    <string name="call_notification_answer_video_action">ဗီဒီယို</string>
+    <string name="call_notification_decline_action">ငြင်းပယ်ရန်</string>
+    <string name="call_notification_hang_up_action">ဖုန်းချရန်</string>
+    <string name="call_notification_incoming_text">အဝင်ခေါ်ဆိုမှု</string>
+    <string name="call_notification_ongoing_text">လက်ရှိခေါ်ဆိုမှု</string>
+    <string name="call_notification_screening_text">အဝင်ခေါ်ဆိုမှုကို စစ်ဆေးနေသည်</string>
     <string name="delete_ringtone_text">ဖျက်ရန်</string>
     <string name="notification_sound_default">မူရင်းအကြောင်းကြားသံ</string>
     <string name="ringtone_default">မူရင်းမြည်သံ</string>

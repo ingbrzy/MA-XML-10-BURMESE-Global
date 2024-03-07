@@ -86,15 +86,15 @@
     <string name="mibi_license">Mi ခရက်ဒစ်များ အသုံးပြုသူသဘောတူညီမှု</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -151,7 +151,7 @@
     <string name="morning">နံနက်</string>
     <string name="night">ညနေ</string>
     <string name="noon">မွန်းတည့်</string>
-    <string name="open_wifi_connect_and_use_data_summary">မိုဘိုင်းဒေတာအား အသုံးပြုနေသည်။ WiFi သို့ ပြောင်းရန် ထိနှိပ်ပါ။</string>
+    <string name="open_wifi_connect_and_use_data_summary">မိုဘိုင်းဒေတာအား အသုံးပြုနေသည်။ Wi-Fi သို့ ပြောင်းရန် ထိနှိပ်ပါ။</string>
     <string name="open_wifi_connect_summary">အသေးစိတ်ကိုကြည့်ရန်ထိနှိပ်ပါ</string>
     <string name="open_wifi_connect_title">%1$sသို့ ချိတ်ဆက်ထားသော</string>
     <string name="permdesc_accessDrm">အက်ပ်ကို DRM-ကာကွယ်ထားသော အကြောင်းအရာများကို ဝင်ရောက်ရန် ခွင့်ပြုပါ။</string>

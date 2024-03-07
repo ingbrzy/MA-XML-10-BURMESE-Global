@@ -5,9 +5,8 @@
     <string name="am">နံနက်</string>
     <string name="app_name">မျက်နှာပြင်ရီကော်တာ</string>
     <string name="app_notification_channel_record_complete">ပြီးထားသော မျက်နှာပြင်ဖမ်းခြင်းများဆိုင်ရာ အကြောင်းကြားချက်များ</string>
-    <string name="app_notification_info">မျက်နှာပြင်ရီကော်တာသည် နောက်ခံတွင် အလုပ်လုပ်နေသည်</string>
-    <string name="app_notification_record_saved">"အသံသွင်းဖိုင်ကို အောင်မြင်စွာသိမ်းပြီးပါပြီ
-ကြည့်ရန်တို့ပါ"</string>
+    <string name="app_notification_info">မျက်နှာပြင်ကို လက်ရှိ ရိုက်ကူးနေသည်…</string>
+    <string name="app_notification_record_saved">မျက်နှာပြင်ဗီဒီယို သိမ်းပြီးပါပြီ။ ကြည့်ရန်တို့ပါ။</string>
     <string name="app_notification_title">မျက်နှာပြင်ရီကော်တာ</string>
     <string name="auto_stop_title">ဗီဒီယိုအား အောင်မြင်စွာ သိမ်းဆည်းခဲ့သည်</string>
     <string name="battery_not_allowed_warning">ဓာတ်အား %1$s အောက်လျော့ပါက မှတ်တမ်းတင်မရပါ။ ဓာတ်အား အနည်းဆုံး %2$s ရှိရပါမည်။</string>
@@ -35,7 +34,7 @@
     <string name="date_year">/</string>
     <string name="description_content">မျက်နှာပြင်ရီကော်တာသည် စနစ်အဆင့် အသံဖမ်းယူခြင်းကို ထောက်ပံ့ပေးသည်။ ဆက်လက်လုပ်ဆောင်ပါက မျက်နှာပြင်ရီကော်တာအား အသုံးပြု၍ရမည် မဟုတ်တော့ပါ။ ဆက်လက်လုပ်ဆောင်ရန် အတည်ပြုပါ။</string>
     <string name="description_title">မျက်နှာပြင်ရီကော်တာ အကြောင်း</string>
-    <string name="deselect_all">အားလုံးဖြုတ်ပါ</string>
+    <string name="deselect_all">အားလုံးကို ရွေးချယ်ခြင်းမှ ဖြုတ်ပါ</string>
     <string name="early_morning">နံနက်</string>
     <string name="empty" />
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
@@ -43,7 +42,7 @@
     <string name="error_open_file_failed_no_app_found">ဤဖိုင်အားဖွင့်ရန် အက်ပ်ရှာမတွေ့ပါ</string>
     <string name="evening">နေ့လယ်</string>
     <string name="first_using_mic_dialog_message">အသံသွင်းရန် မျက်နှာပြင်ရီကော်ဒါမှ မိုက်ခရိုဖုန်းသို့ ဝင်ရောက်ရန်လိုသည်။ ဖွင့်ပြုမလား?</string>
-    <string name="first_using_mic_dialog_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="first_using_mic_dialog_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="fixed_frame_rate">ပုံသေ ဖရိန်နှုန်း</string>
     <string name="fixed_frame_rate_summary">ပုံသေ ဖရိန်နှုန်းဖြင့် ဗီဒီယိုများကို ဖမ်းယူခြင်းသည် လူမှုမီဒီယာပလက်ဖောင်းများပေါ် ပြန်ဖွင့်ရာတွင် ပိုမိုကောင်းမွန်စေပါသည်၊ ဘက်ထရီသုံးစွဲမှုကိုလည်း လျော့နည်းစေပါသည်။</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -129,15 +128,15 @@
     <string name="mic_sound">မိုက်ခရိုဖုန်း</string>
     <string name="midnight">ည</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -205,7 +204,9 @@
     <string name="permission_microphone_desc">မိုက်ခရိုဖုန်းများကို မျက်နှာပြင်ရိုက်ကူးခြင်းခြင်း၏ အသံအရင်းအမြစ်အဖြစ် အသုံးပြုဖြင်း</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_settings">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
+    <string name="protect_oneself_when_recording">ခေါ်ဆိုမှုကိုအသံသွင်းနေသည်။ ဤအင်္ဂါရပ်ကို သုံးခြင်းဖြင့် သင်နှင့် တစ်ဖက်လူ၏ ကိုယ်ရေးကိုယ်တာကို ကာကွယ်ပါ။</string>
     <string name="quit_recording">မျက်နှာပြင်ရီကော်တာမှ ထွက်မည်</string>
+    <string name="record_time_too_short">ရိုက်ထားသောဗီဒီယို တိုလွန်းသည်</string>
     <string name="recording_failure">မှတ်တမ်း မတင်နိုင်ခဲ့ပါ၊ ပြန်လည်စတင်ပါ</string>
     <string name="recording_max_size">ဗီဒီယိုဖိုင်သည် ကြီးလွန်းသောကြောင့် အသံဖမ်းယူခြင်း ရပ်တန့်သွားသည်။ အသံဖမ်းယူခြင်း မပြီးဆုံးသေးပါက ရပ်တန့်သောနေရာမှ ပြန်လည်စတင်နိုင်ပါသည်။</string>
     <string name="recording_without_mic">မိုက်ခရိုဖုန်း မအားပါ၊ ယခု အသံဖမ်း၍ မရသေးပါ။</string>
@@ -218,11 +219,11 @@
     <string name="screen_orientation_summary">မှတ်တမ်းတင်ထားသော ဗီဒီယိုများ၏ အနေအထားများ</string>
     <string name="screen_record_option">မှတ်တမ်းတင်ခြင်း ရွေးစရာများ</string>
     <string name="screen_record_params">မှတ်တမ်းယူခြင်း ပါရာမီတာများ</string>
-    <string name="select_all">အားလုံးရွေးပါ</string>
+    <string name="select_all">အားလုံးရွေးရန်</string>
     <string name="send">ပို့ပါ</string>
-    <string name="settings">ဆက်တင်</string>
+    <string name="settings">ဆက်တင်များ</string>
     <string name="settings_other">အခြား</string>
-    <string name="settings_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="settings_privacy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="show_hard_key">လမ်းညွှန်ခလုတ်များအား မြင်အောင်လုပ်ပါ</string>
     <string name="show_hard_key_new">ခလုတ်တုံးများပြရန်</string>
     <string name="show_hard_key_summary">ဟုမ်း၊မီနူး၊နောက်သို့စသည့်ခလုတ်များကို နှိပ်စဉ် အချက်ပြပါ</string>
@@ -236,7 +237,7 @@
     <string name="sound_source">အသံအရင်းမြစ်</string>
     <string name="sound_source_summary">စနစ်အသံ သို့မဟုတ် မိုက်ခရိုဖုန်း</string>
     <string name="sound_source_summary_without_system_sounds">မိုက်ခရိုဖုန်း သုံးပါ သို့မဟုတ် အသံတိတ်ပါ</string>
-    <string name="start">စတင်</string>
+    <string name="start">စတင်မည်</string>
     <string name="start_recording">အသံဖမ်းယူခြင်းကို စတင်ပါ</string>
     <string name="stop_by_second_space">နေရာများပြောင်းလဲခြင်းသည် မှတ်တမ်းတင်ခြင်းကို ရပ်လိုက်ပါလိမ့်မည်</string>
     <string name="stop_record_while_locking">အဆုံးသတ်ရန် မျက်နှာပြင်ကို သော့ခတ်လိုက်ပါ</string>
@@ -304,7 +305,7 @@
     <string name="uninstall_warning_title">မျက်နှာပြင်ဗီဒီယိုဖမ်းစနစ်ကို ပြန်ဖြုတ်လိုသလား။</string>
     <string name="using_record_confirm_cancel">ကန့်သတ်မည်</string>
     <string name="using_record_confirm_ok">ခွင့်ပြုမည်</string>
-    <string name="view_privacy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
+    <string name="view_privacy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="view_recorded_file">မှတ်တမ်းယူထားသောဖိုင်ကို ကြည့်ရန် တို့ပါ</string>
     <string name="view_recorded_videos">မှတ်တမ်းတင်မှုကို ကြည့်ရန်</string>
     <string name="warning_recording_when_a2dp_connect">ဘလူးတုသ်နားကြပ် သုံးနေစဥ် စနစ်ထဲရှိ အသံများအား အသံသွင်း၍ မရပါ။</string>

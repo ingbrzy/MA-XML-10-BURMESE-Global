@@ -15,6 +15,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">တရုတ်ရိုးရာပြက္ခဒိန်</string>
     <string name="date_time_picker_dialog_title">ရက်စွဲနှင့်အချိန် သတ်မှတ်ပါ</string>
+    <string name="default_dialer_reset_prompt">%s သုံးစဉ် အမှားအယွင်းများစွာ ရှိပုံရသည်။ MIUI ဖုန်းခေါ်အက်(ပ်)ကို ပင်တိုင်ဖုန်းခေါ်အက်(ပ်)အဖြစ် ယခုပြောင်းလိုသလား။</string>
     <string name="dial_conference_fail_prompt">ကွန်းဖရန့်တိုက်ရိုက်ခေါ်ဆို၍မရပါ အဘယ့်ကြောင့်ဆိုသော် လက်ရှိကွန်ရက်သည် VoLTE အားမထောက်ပံ့ထားပါ</string>
     <string name="dial_vt_fail_prompt">လက်ရှိကွန်ရက်သည် VoLTE အား မထောက်ပံ့ထားပါ။ ပုံမှန် အသံခေါ်ဆိုမှုသို့ပြောင်းမည်လား?</string>
     <string name="do_not_show_again">ထပ်မံ မပြပါနှင့်</string>
@@ -85,15 +86,15 @@
     <string name="midnight">ည</string>
     <string name="missedcall_notification_public_version_title">ဖုန်း</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
-    <string name="miuix_appcompat_deselect_all">မရွေးတော့</string>
-    <string name="miuix_appcompat_deselect_all_description">အားလုံး မရွေးတော့ပါ</string>
+    <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -152,8 +153,10 @@
     <string name="noon">မွန်းတည့်</string>
     <string name="notification_AllMissedCallTitle">လွတ်သွားသော ခေါ်ဆိုမှုအားလုံး</string>
     <string name="notification_channel_missed_call_DND">မနှောင့်ယှက်ပါနှင့်</string>
+    <string name="notification_disconnectedDialing_message">အထွက်ဖုန်းတစ်ခုခေါ်နေပြီးသားဖြစ်၍ နောက်ထပ်ဖုန်းခေါ်မရပါ။</string>
     <string name="notification_missedCall_call_back_miui">ခေါ်သည်</string>
     <string name="pm">ညနေ</string>
+    <string name="redirect_system_dialer_toast">%s တွင် အမှားအယွင်းရှိသည်။ စနစ်ပါ ဖုန်းခေါ်အက်(ပ်)သို့ ပြောင်းနေသည်။</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
