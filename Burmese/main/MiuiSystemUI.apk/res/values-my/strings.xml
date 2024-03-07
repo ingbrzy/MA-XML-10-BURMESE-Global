@@ -885,7 +885,6 @@
     <string name="monitoring_description_personal_profile_named_vpn">သင့်ကိုယ်ရေးသုံးအက်ပ်များကို %1$s မှတစ်ဆင့် အင်တာနက်ချိတ်ထားသည်။ အီးမေးလ်များနှင့် ဖွင့်ကြည့်ထားသည့်မှတ်တမ်းဒေတာများ အပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်များကို VPN ပံ့ပိုးသူက မြင်ရသည်။</string>
     <string name="monitoring_description_two_named_vpns">ဤစက်သည် %1$s နှင့် %2$s မှတစ်ဆင့် အင်တာနက်ချိတ်ထားသည်။ အီးမေးလ်များနှင့် ဖွင့်ကြည့်ထားသည့်မှတ်တမ်းဒေတာများ အပါအဝင် သင့်ကွန်ရက်လုပ်ဆောင်ချက်များကို IT စီမံခန့်ခွဲသူက မြင်ရသည်။</string>
     <string name="monitoring_description_vpn_settings">VPN ဆက်တင်များကို ဖွင့်ရန်</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s က ဤစက်ပစ္စည်းနှင့် ဆက်စပ်နေသည့်ဒေတာကို သုံးနိုင်ပြီး အက်ပ်များကို စီမံနိုင်သလို ဤစက်ပစ္စည်း၏ဆက်တင်များကို ပြောင်းနိုင်သည်။
 
 မေးစရာများရှိပါက %2$s ကို ဆက်သွယ်ပါ။"</string>
