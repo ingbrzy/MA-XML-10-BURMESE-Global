@@ -301,6 +301,7 @@
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
     <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_edit">ပြင်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -838,7 +839,7 @@
 %2$d။ စကားဝှက်ပြန်သတ်မှတ်မရလျှင် သို့မဟုတ် တစ်ဦးဦးက စက်ကို သော့ပိတ်ထားလျှင် သော့ဖြည်ရန် i.mi.com သို့ သွားပါ။
 %3$d။ သော့ဖြည်နံပါတ် - %4$s"</string>
     <string name="update_apk_version_later">ယခုမလုပ်ပါ</string>
-    <string name="update_apk_version_now">အပ်ပဒိတ်လုပ်ရန်</string>
+    <string name="update_apk_version_now">ထည့်ရန်</string>
     <string name="update_email_address_dialog_message">အီးမေးလ်အား အသစ်မွမ်းမံမှုမလုပ်မီ သင့်အိုင်တည်ကို အတည်ပြုရန် လိုအပ်ပါသည်။</string>
     <string name="update_email_address_dialog_title">အသစ်မွမ်းမံ အီးမေးလ်</string>
     <string name="update_phone_notice">လုံခြုံရေးဆက်တင်များကို ပြောင်းမည်</string>
@@ -850,7 +851,6 @@
     <string name="user_agreement_read_phone_permission_desc">ဖုန်းနံပါတ်သုံးပြီးအကောင့်ဝင်ရန်</string>
     <string name="user_agreement_read_phone_permission_title">ဖုန်းနံပါတ်များဖတ်ရန်</string>
     <string name="user_agreement_use_account_msg">Xiaomi အကောင့်သည် သင့်အား Xiaomi မှ ပံ့ပိုးသော ဝန်ဆောင်မှုအားလုံးကို သုံးခွင့်ပေးသည်။</string>
-    <string name="user_agreement_wifi_permission_title">Wi-Fi အဖွင့်အပိတ်လုပ်ရန်</string>
     <string name="user_agreement_wlan_permission_desc">လုံခြုံရေးပြဿနာများအတွက် အကောင့်ဝင်ပတ်ဝန်းကျင်ကို စစ်ရန်</string>
     <string name="user_agreement_wlan_permission_title_china">WLAN အဖွင့်အပိတ်လုပ်ရန်</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းပါ</string>

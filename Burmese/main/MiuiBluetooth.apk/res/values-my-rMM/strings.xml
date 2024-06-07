@@ -59,6 +59,7 @@
     <string name="fast_connect_device_battery">ဓာတ်ခဲ</string>
     <string name="fast_connect_device_box">အားသွင်းဘူး</string>
     <string name="fast_connect_device_box_name">%1$s သေတ္တာ</string>
+    <string name="fast_connect_device_button_audio_share_fail">ရပါပြီ</string>
     <string name="fast_connect_device_connect_cancel">ပယ်ဖျက်မည်</string>
     <string name="fast_connect_device_connect_ok">ချိတ်ဆက်မည်</string>
     <string name="fast_connect_device_connect_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -67,6 +68,12 @@
     <string name="fast_connect_device_headset_l">ဘယ်</string>
     <string name="fast_connect_device_headset_r">ညာ</string>
     <string name="fast_connect_device_headset_reset">အားသွင်းဘူးရှိခလုတ်ကို ဖိပြီးနှိပ်ထားပါ</string>
+    <string name="fast_connect_device_message_audio_share">ဤစက်၏အသံကို ဤနားကြပ်တစ်စုံနှင့် မျှဝေရန်</string>
+    <string name="fast_connect_device_replace_current_device">စက်ပြောင်းရန်</string>
+    <string name="fast_connect_device_start_audio_share">မျှဝေရန်</string>
+    <string name="fast_connect_device_title_audio_share">%1$s နှင့်အတူ နားထောင်ရန်</string>
+    <string name="fast_connect_device_title_audio_share_fail">%1$s ကို ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="fast_connect_device_title_audio_share_success">%1$s နှင့်အတူ နားထောင်နေသည်</string>
     <string name="fast_connect_device_title_connect_fail">ချိတ်ဆက်၍ မရပါ %1$s</string>
     <string name="fast_connect_device_title_connecting">ချိတ်ဆက်နေသည်…</string>
     <string name="fast_connect_device_title_find_headset">%1$s ခု ရှာရန်</string>

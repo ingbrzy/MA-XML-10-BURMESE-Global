@@ -28,7 +28,7 @@
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
     <plurals name="accessibility_auto_night_tip">
-        <item quantity="other">%d-second timer for Night mode</item>
+        <item quantity="other">ညမုဒ်အတွက် %d စက္ကန့်တိုင်မာ</item>
     </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">ဆုံချက်ချိန်ထားသည်။ မျက်နှာ %d ခု တွေ့ရှိသည်</item>
@@ -41,12 +41,6 @@
     </plurals>
     <plurals name="accessibility_vv_duartion">
         <item quantity="other">ကြာချိန် - %d စက္ကန့်</item>
-    </plurals>
-    <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">ကွန်ရက်တစ်ခုတွင် ကင်မရာ %d လုံးအထိ ချိတ်နိုင်သည်</item>
-    </plurals>
-    <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">ကွန်ရက်တစ်ခုတွင် မော်နီတာ %d လုံးအထိ ချိတ်နိုင်သည်</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">တစ်ကြိမ်တိုင်းတွင် ပုံတူကူးယူမှု %d အထိ ဖန်တီးနိုင်ပါသည်။</item>
@@ -65,9 +59,6 @@
     </plurals>
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d စက္ကန့်</item>
-    </plurals>
-    <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">တိုင်မာဖွင့်ထားသည် (%1$d sec)။ ဓာတ်ပုံများကို ဤစက်သို့ လွှဲပြောင်းပါမည်။</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
@@ -95,9 +86,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
-    </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%d စက္ကန့်</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">စက်အလွန်ပူနေသည်။ ကင်မရာ %d စက္ကန့်အတွင်း ပိတ်သွားပါမည်။ ဓာတ်ပုံများ သို့မဟုတ် ဗီဒီယိုများကို အလိုအလျောက် သိမ်းပေးပါမည်။</item>

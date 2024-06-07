@@ -46,6 +46,7 @@
     <string name="cast_forward">အရှေ့သို့ရစ်ပါ</string>
     <string name="cast_forward_10">အရှေ့သို့ ဆယ်စက္ကန့် ရစ်ပါ</string>
     <string name="cast_forward_30">အရှေ့သို့ စက္ကန့်သုံးဆယ် ရစ်ပါ</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">တိုက်ရိုက်လွှင့်ခြင်း</string>
     <string name="cast_mute">အသံပိတ်ပါ</string>
     <string name="cast_notification_connected_message">%1$s သို့ ချိတ်ဆက်ပြီးပါပြီ</string>
@@ -196,6 +197,7 @@
     <string name="mtrl_picker_a11y_next_month">နောက်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_a11y_prev_month">ယခင်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_announce_current_selection">လက်ရှိ ရွေးချယ်မှု- %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">ရက်စွဲ ရွေးပါ</string>
     <string name="mtrl_picker_date_header_unselected">ရွေးထားသည့် ရက်စွဲ</string>
@@ -246,8 +248,9 @@
     <string name="s6">ကြော်ငြာအား ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းခွင့် ပြုပါသလား။</string>
     <string name="s7">စမ်းသပ်ကြော်ငြာ</string>
     <string name="search_menu_title">ရှာဖွေမှု</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
-    <string name="v7_preference_off">ပိတ်ရန်</string>
-    <string name="v7_preference_on">ဖွင့်ရန်</string>
+    <string name="v7_preference_off">ပိတ်</string>
+    <string name="v7_preference_on">ဖွင့်</string>
     <string name="watermark_label_prefix">AdMob -</string>
 </resources>

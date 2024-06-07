@@ -413,6 +413,8 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>ရွေးချယ်မည် &lt;font color=#a5220e>\"ရှင်းလင်းမည် &amp;amp; ပြန်လည်သတ်မှတ်မည်\"&lt;/font> စက်ပိတ်ပြီးပြန်ဖွငိ့ခြင်းကို စောင့်မည်&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ဒေတာအား မည်သို့ဖျက်မည်နည်း?</string>
     <string name="phone_locked_string">ဤစက်ကို လော့ခ်ချထားသည်</string>
+    <string name="pin_toast">ဤအက်(ပ်)ကိုပင်ဖြုတ်ရန် မျက်နှာပြင်အောက်ခြေမှ အပေါ်ပွတ်ဆွဲပြီး ရပ်ပါ</string>
+    <string name="pin_toast_nav">ဤအက်(ပ်)ကို ပင်ဖြုတ်ရန် နောက်ဆုတ်ခလုတ်နှင့် အစမ်းကြည့်ခလုတ်ကို ထိပြီးဖိထားပါ</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_dialog_title">အရေးကြီးလုပ်ဆောင်ချက်ဆိုင်ရာ အသိပေးချက်များ</string>
     <string name="privacy_recent_used_title">လတ်တလော</string>
@@ -543,6 +545,8 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E, MMM d</string>
     <string name="status_bar_clock_date_time_format">H:mm E, MMM d</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="strong_toast_charging">အားသွင်းနေသည်</string>
     <string name="strong_toast_quick_charging">အမြန်အားသွင်းနေသည်</string>
     <string name="sunday">တနင်္ဂနွေ</string>

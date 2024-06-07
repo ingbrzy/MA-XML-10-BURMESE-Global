@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>ကျား</item>
-        <item>မ</item>
-    </string-array>
     <string-array name="menu_theme_setting">
         <item>အဖြူ</item>
         <item>အဝါ</item>
@@ -26,6 +22,10 @@
         <item>အစွန်းရောက် အမြင်များ</item>
         <item>ကြော်ငြာ</item>
         <item>မကြိုက်ပါ</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>ကျား</item>
+        <item>မ</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>နောက်သို့/ရှေ့သို့ သွားပါ</item>
@@ -75,10 +75,6 @@
         <item>ကန့်သတ်ရန်</item>
         <item>ခွင့်ပြုရန်</item>
     </string-array>
-    <string-array name="setting_swipe_up_target">
-        <item>ရှာရန်</item>
-        <item>သတင်းများ</item>
-    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>ဖျက်ပစ်မည်</item>
         <item>မလိုအပ်ပါ</item>
@@ -88,7 +84,7 @@
         <item>လိုက်အားပေး</item>
     </string-array>
     <string-array name="shortcut_dialog_title">
-        <item>ဘရောက်ဇာမှ မက်ဆေ့ချ်</item>
+        <item>ဘရောက်ဇာမှ မက်ဆေ့(ချ်)</item>
         <item>Mi နှင့်အတူ အိုလမ်ပစ်အား လိုက်ပါ</item>
     </string-array>
     <string-array name="speed_result_tips">

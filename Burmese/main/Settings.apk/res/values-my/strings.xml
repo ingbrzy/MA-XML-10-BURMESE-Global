@@ -2571,6 +2571,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="legal_information">ဥပဒေဆိုင်ရာအချက်အလက်များ</string>
     <string name="license_title">လိုင်စင်</string>
     <string name="lift_to_wake_title">‘မ’ ယူ၍ နှိုးရန်</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="live_caption_summary">အလိုအလျောက် စာတန်းထိုးရန်</string>
     <string name="live_caption_title">တိုက်ရိုက်စာတန်း</string>
     <string name="loading_injected_setting_summary">ဖွင့်နေသည်…</string>
@@ -2997,6 +2998,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="memory_usage">မှတ်ဉာဏ် သုံးစွဲမှု</string>
     <string name="memory_usage_apps">အက်ပ်များမှ အသုံးပြုသော မှတ်ဉာဏ်</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{ပြီးခဲ့သော {time} တွင် အက်ပ် ၁ ခုက မှတ်ဉာဏ်သုံးထားသည်}other{ပြီးခဲ့သော {time} တွင် အက်ပ် # ခုက မှတ်ဉာဏ်သုံးထားသည်}}</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s လွန်ခဲ့သော ၃ နာရီအတွင်း သုံးသည့် ပျမ်းမျှ မှတ်ဉာဏ်</string>
     <string name="memtag_footer">‘အဆင့်မြင့်မှတ်ဉာဏ် အကာအကွယ်’ ဖွင့် (သို့) ပိတ်ရန် သင့်ကိရိယာကို ပြန်စရမည်။ ၎င်းဖွင့်ထားချိန်တွင် ကိရိယာစွမ်းဆောင်ရည် ပိုနှေးသည်ကို သတိပြုမိနိုင်သည်။</string>
     <string name="memtag_force_off">သင့်ကိရိယာအတွက် လောလောဆယ်မရပါ</string>
@@ -3218,6 +3220,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="nfc_main_switch_title">NFC သုံးရန်</string>
     <string name="nfc_more_details">ပိုမိုလေ့လာရန်</string>
     <string name="nfc_more_title">နောက်ထပ်…</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">မူရင်းအဖြစ် သတ်မှတ်ရန်</string>
     <string name="nfc_payment_btn_text_update">အပ်ဒိတ်လုပ်ရန်</string>
     <string name="nfc_payment_default">ငွေချေရန် မူရင်းသတ်မှတ်ခြင်း</string>
@@ -3531,6 +3534,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="power_camera">ကင်မရာ</string>
     <string name="power_cell">မိုဘိုင်းကွန်ရက်</string>
     <string name="power_charge_remaining">%1$s အားသွင်းမည်</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - အားပြည့်ရန် %2$s လိုသည်</string>
     <string name="power_charging_future_paused">%1$s - အားသွင်းခြင်းကို အကောင်းဆုံးပြင်ဆင်ထားသည်</string>
     <string name="power_charging_limited">%1$s - အားသွင်းခြင်းကို အကောင်းဆုံးပြင်ဆင်ထားသည်</string>
@@ -3569,6 +3573,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="power_remaining_less_than_duration_only">%1$s အောက် ကျန်သည်</string>
     <string name="power_remaining_more_than_subtext">%1$s အထက် (%2$s) ကျန်သည်</string>
     <string name="power_remaining_only_more_than_subtext">%1$s အထက် ကျန်သည်</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">ဖန်သားပြင်</string>
     <string name="power_suggestion_battery_run_out">%1$s တွင် ဘက်ထရီကုန်သွားနိုင်သည်</string>
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
@@ -3688,6 +3693,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="privileged_action_disable_sub_dialog_title">%1$s ပိတ်မလား။</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">"'ဆင်းမ်ကတ်' ပိတ်မလား။"</string>
     <string name="process_dex2oat_label">အက်ပ်ပိုမိုကောင်းအောင်ပြုခြင်း</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_network_tethering">မိုဘိုင်းသုံး၍ ချိတ်ဆက်ခြင်း</string>
     <string name="process_provider_in_use_description">%1$s ပံ့ပိုးသူမှ အသုံးပြုနေသည်</string>
@@ -4529,6 +4535,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
 
 သင့်စက်တွင် ယုံကြည်စိတ်ချရသောအထောက်အထားတစ်ခုကို ထည့်သွင်းခြင်းဖြင့် ဖြစ်နိုင်ပါသည်။"</string>
     <string name="standby_bucket_summary">အက်ပ်ကို အရန်သင့်ထားရှိခြင်း အခြေအနေ- %s</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="status_bt_address">ဘလူးတုသ်လိပ်စာ</string>
     <string name="status_data_network_type">မိုဘိုင်းဒေတာ ကွန်ရက် အမျိုးအစား</string>
     <string name="status_data_state">မိုဘိုင်းကွန်ရက်အခြေအနေ</string>
@@ -4704,6 +4711,7 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="suggestions_available">အကြံပြုချက်များ အောက်တွင်ရှိသည်</string>
     <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
     <string name="summary_divider_text">"၊ "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="sunday_first_day_of_week">တနင်္ဂနွေ</string>
     <string name="support_summary">အကူအညီပေးဆောင်းပါးများ၊ ဖုန်းနှင့် ချတ်</string>
     <string name="swipe_direction_ltr">ပယ်ရန် ညာသို့၊ မီနူးပြရန် ဘယ်သို့ ပွတ်ဆွဲပါ</string>
@@ -5966,9 +5974,11 @@ CA လက်မှတ်ကို ထည့်သွင်းပါက သင်
     <string name="zen_suggestion_summary">အာရုံစူးစိုက်နိုင်ရန် အကြောင်းကြားချက်များကို ခေတ္တရပ်ထားပါ</string>
     <string name="zen_suggestion_title">"'မနှောင့်ယှက်ရ' ကို အပ်ဒိတ်လုပ်ခြင်း"</string>
     <string name="zone_auto_title">ဒေသစံတော်ချိန် အလိုအလျောက် သတ်မှတ်ခြင်း</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">%1$s အသုံးပြုသူများ။ %2$s</string>
     <string name="zone_info_footer_no_dst">%1$s ကို အသုံးပြုသည်။ နွေရာသီစံတော်ချိန် မရှိပါ။</string>
     <string name="zone_info_footer_second_sentence">%1$s သည် %2$s တွင် စတင်ပါသည်။</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">UTC အော့ဖ်ဆက်အလိုက် ရွေးရန်</string>
     <string name="zone_menu_by_region">ဒေသအလိုက် ရွေးရန်</string>
     <string name="zone_time_type_dst">ဆောင်းရာသီ စံတော်ချိန်</string>

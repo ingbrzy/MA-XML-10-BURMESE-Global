@@ -64,7 +64,7 @@
         <item quantity="other">စာမျက်နှာ %1$d၊ အက်ပ် %2$d ခု။</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">အက်ပ် %1$d ခုကို ဖြုတ်မလား?</item>
+        <item quantity="other">အက်ပ် %1$d ခုကို ဖြုတ်မလား။</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
         <item quantity="other">အက်ပ် %1$d ခု မထည့်သွင်းနိုင်ခဲ့ပါ</item>

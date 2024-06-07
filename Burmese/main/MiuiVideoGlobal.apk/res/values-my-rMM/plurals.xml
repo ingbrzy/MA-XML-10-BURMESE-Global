@@ -33,9 +33,6 @@
     <plurals name="dialog_app_rating_choose_star">
         <item quantity="other">ကြယ် %s လုံး ရွေးထားသည်</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">ပင်မစာမျက်နှာသို့ %1$d စက္ကန့်အတွင်း ပြန်သွားပါမည်…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>

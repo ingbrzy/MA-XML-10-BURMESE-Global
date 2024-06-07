@@ -339,12 +339,17 @@
     <string name="screen_editor_btn_save">သိမ်းဆည်းရန်</string>
     <string name="screen_editor_btn_shell_off">စက်ဘောင်ပုံစံကို ဖယ်ရှားရန်</string>
     <string name="screen_editor_btn_shell_on">စက်ဘောင်ပုံစံထည့်ရန်</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">ဤဖန်သားပြင်ဓာတ်ပုံကို ဖျက်လိုပါသလား။</string>
     <string name="screen_editor_delete_dialog_picture_msg">ဤပုံကို ယခုဖျက်လိုသလား။</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">ပြီးပါပြီ</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">စက်ဘောင်ပုံစံကို ဖြတ်ညှပ်ထားသော မျက်နှာပြင်ရိုက်ချက်များတွင် ထည့်မရပါ</string>
     <string name="screen_editor_shell_net_error">စက်ဘောင်ပုံစံကို ဒေါင်းလုဒ်လုပ်ရန် ကွန်ရက်ချိတ်ပါ</string>
     <string name="screen_editor_shell_res_downloading">စက်ဘောင်ပုံစံကို ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ပယ်ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_delete">မျက်နှာပြင်ရိုက်ချက်အား ဖျက်မည်</string>
     <string name="screen_save_dialog_btn_save">ပြခန်းသို့ သိမ်းပါ</string>

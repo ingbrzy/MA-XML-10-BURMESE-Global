@@ -22,13 +22,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>အက်(ပ်)လက်လွှတ်စနစ်</item>
-        <item>အချင်းချင်းချိတ်ဆက်မှု/အက်(ပ်)လက်လွှတ်စနစ်</item>
+        <item>အချင်းချင်းချိတ်ဆက်မှု/အက်(ပ်)များ</item>
         <item>အက်(ပ်)များလွှဲပြောင်းရန်၊ လက်လွှတ်၊ လွှဲပြောင်းရန်</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>ဖုန်းခေါ်မှုများ</item>
-        <item>အချင်းချင်းချိတ်ဆက်မှု/ဖုန်းခေါ်မှုများ</item>
-        <item>ဖုန်းခေါ်မှုများ</item>
+        <item>Call sync</item>
+        <item>Interconnectivity/Call sync</item>
+        <item>Call sync, cross-device calls, call handoff, calls</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>ကွန်ရက်အကူ</item>

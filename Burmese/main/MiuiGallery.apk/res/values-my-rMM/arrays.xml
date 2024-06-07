@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>ကျား</item>
-        <item>မ</item>
-    </string-array>
     <string-array name="activities_title">
         <item>နေ့ထူး</item>
         <item>ရောင်စုံ နေ့ရက်များ</item>
@@ -65,6 +61,14 @@
         <item>တောထဲသို့</item>
         <item>သဘာဝနဲ့ လွတ်လပ်</item>
     </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="group_people_title">
         <item>ကျွန်ုပ်တို့ တွေ့ဆုံပွဲများ</item>
         <item>မိတ်ဆွေများနှင့် အဖော်ပြု</item>
@@ -119,6 +123,11 @@
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ရွှေ့ရန်</item>
+        <item>ကော်ပီကူးမည်</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>ဇန်နဝါရီ</item>
         <item>ဖေဖော်ဝါရီ</item>
@@ -158,6 +167,10 @@
         <item>အတူတကွ</item>
         <item>အမှတ်တရများ</item>
         <item>တွေ့ဆုံချိန်</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>ကျား</item>
+        <item>မ</item>
     </string-array>
     <string-array name="people_travel_title">
         <item>လမ်း၏ခေါ်ဆောင်ရာ</item>

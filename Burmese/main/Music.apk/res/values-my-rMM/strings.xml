@@ -25,7 +25,7 @@
     <string name="action_item_favorite">အကြိုက်ဆုံး</string>
     <string name="action_item_hide">ကွယ်ဝှက်ပါ</string>
     <string name="action_item_hifi">နားကြပ်</string>
-    <string name="action_item_play_all">အားလုံး ရှက်ဖ်ဖယ်လုပ်မည်</string>
+    <string name="action_item_play_all">အားလုံးရောမွှေရန်</string>
     <string name="action_item_play_next">နောက်တစ်ပုဒ်တွင် ဖွင့်မည်</string>
     <string name="action_item_play_video">သီချင်းဗီဒီယို ဖွင့်မည်</string>
     <string name="action_item_podcast">ပေါ့ဒကတ်(စ်)အသေးစိတ်</string>
@@ -52,6 +52,8 @@
     <string name="afternoon">နေ့လယ်</string>
     <string name="agreement_desc">အသုံးပြုသူသဘောတူညီချက် (မဖြစ်မနေ)</string>
     <string name="alaka_required">ဤသီချင်းအား နားထောင်ရန် အခကြေးငွေပေးဆောင်ရပါမည်</string>
+    <string name="alarm_clock_recommend_desc">နေ့စဉ် သီချင်းအသစ်နှင့် နိုးထပါ</string>
+    <string name="alarm_clock_recommend_switch">အကြံပြုထားသော သီချင်းနှိုးစက်</string>
     <string name="alarm_clock_ringtones_successful">နှိုးစက်သံအား သတ်မှတ်ပြီးပါပြီ</string>
     <string name="album_cover">အယ်(လ်)ဘမ် အဖုံးပုံ</string>
     <string name="album_is_empty">အယ်လ်ဘမ်အမည် ဗလာဖြစ်၍မရပါ။</string>
@@ -76,9 +78,9 @@
     <string name="app_disable_description_title">စနစ်အက်(ပ်)ကို ပိတ်လိုသလား။</string>
     <string name="app_notify_dialog_btn_desc">ဆက်တင်</string>
     <string name="app_notify_dialog_check_desc">အသိပေးချက်ရှိတ်ဝိဂျက်ကိုဖွင့်ပြီး အမြဲတမ်းအသိပေးချက်များခွင့်မပြုရန်</string>
-    <string name="app_notify_dialog_path">Settings > Notifications &amp; status bar > App notifications > Music</string>
-    <string name="app_notify_dialog_path_10">Settings > Notifications &amp; status bar > App notifications > Music</string>
-    <string name="app_notify_dialog_path_8">Settings > Notifications &amp; status bar > App notifications > Music</string>
+    <string name="app_notify_dialog_path">ဆက်တင် > အသိပေးချက်များနှင့် အခြေအနေပြဘားတန်း > အက်(ပ်)အသိပေးချက်များ > တေးဂီတ</string>
+    <string name="app_notify_dialog_path_10">ဆက်တင် > အသိပေးချက်များနှင့် အခြေအနေပြဘားတန်း > အက်(ပ်)အသိပေးချက်များ > တေးဂီတ</string>
+    <string name="app_notify_dialog_path_8">ဆက်တင် > အသိပေးချက်များနှင့် အခြေအနေပြဘားတန်း > အက်(ပ်)အသိပေးချက်များ > တေးဂီတ</string>
     <string name="app_notify_dialog_subtitle">အသိပေးချက်ရှိတ်တွင် သီချင်းပြန်ဖွင့်ခြင်းကို ထိန်းချုပ်နိုင်ရန် Mi တေးဂီတအတွက် အသိပေးချက်များဖွင့်ပါ။</string>
     <string name="app_notify_dialog_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="app_permission_confirm">နားလည်ပါပြီ</string>
@@ -96,7 +98,7 @@
     <string name="apply_for_the_following_permissions">ဤအက်(ပ်)က အောက်ပါခွင့်ပြုချက်များ တောင်းခံသည် -</string>
     <string name="apply_permissions_greater_than_pie">၎င်းခွင့်ပြုချက်ကို ဆက်တင် > အက်(ပ်) > ခွင့်ပြုချက်များ > ခွင့်ပြုချက်များ > ဖိုင်များနှင့် မီဒီယာ > သီချင်း တွင် ပေးနိုင်သည်။</string>
     <string name="apply_permissions_greater_than_tiramisu">၎င်းခွင့်ပြုချက်ကို ဆက်တင် > အက်(ပ်) > ခွင့်ပြုချက်များ > တေးဂီတနှင့် အသံ/ဓာတ်ပုံနှင့် ဗီဒီယိုများ > တေးဂီတတွင် ပေးနိုင်သည်။</string>
-    <string name="apply_permissions_less_than_pie">You can grant this permission in Settings > Apps > Permissions > Permissions > Access and change files on internal storage > Music.</string>
+    <string name="apply_permissions_less_than_pie">ဆက်တင် > အက်(ပ်) > ခွင့်ပြုချက်များ > ခွင့်ပြုချက်များ > စက်တွင်းသိုလှောင်းခန်းတွင် ဖိုင်ဖတ်ခွင့်နှင့် သိမ်းခွင့် > တေးဂီတတွင် ၎င်းခွင့်ပြုချက်ကို ပေးနိုင်သည်။</string>
     <string name="apply_permissions_tips_content">သင့်စက်ရှိ သီချင်းများကို ရှာနိုင်ရန် ဤအက်(ပ်)အား ဖိုင်ဖတ်ခွင့်ပေးပါ။</string>
     <string name="artist">အနုပညာရှင်များ</string>
     <string name="artist_area_all">အားလုံး</string>
@@ -111,15 +113,28 @@
     <string name="artist_home_search_hint">အနုပညာရှင်များကို ရှာပါ</string>
     <string name="artist_is_empty">အနုပညာရှင်အမည် ဗလာဖြစ်၍မရပါ</string>
     <string name="artist_name">အနုပညာရှင်</string>
+    <string name="asm_account_exception">အမှားယွင်းရှိသည်</string>
     <string name="asm_batch_download_failed">ဒေါင်းလုဒ်လုပ်မရပါ</string>
     <string name="asm_buy_member_success">VIP အဖွဲ့ဝင်ခွင့်ကို အောင်မြင်စွာဝယ်ပြီးပါပြီ</string>
+    <string name="asm_check_video_playing">ဗီဒီယိုဖွင့်ထားသည်။ အဖွင့်စာရင်းတွင် အကြောင်းအရာထည့်မရပါ။</string>
+    <string name="asm_delete_all">ရှင်းရန်</string>
+    <string name="asm_delete_all_data">ဒေတာအားလုံးရှင်းပါ</string>
+    <string name="asm_delete_all_data_failed">ဒေတာရှင်းမရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="asm_delete_all_data_loading">ခေတ္တစောင့်ပါ…</string>
+    <string name="asm_delete_all_data_no_net">သင့်အထောက်အထားကို အတည်ပြုရန်နှင့် ဒေတာရှင်းရန် ကွန်ရက်ချိတ်ဆက်မှုလိုအပ်သည်။ ကွန်ရက်ချိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="asm_delete_all_data_success">အောင်မြင်စွာ ဒေတာရှင်းပြီးပါပြီ</string>
+    <string name="asm_delete_all_data_tips">"ရှေ့ဆက်ပါက သီချင်း၊ အဖွင့်စာရင်းနှင့် ဘရောက်ဇင်းမှတ်တမ်း အပါအဝင် အက်(ပ်)ဒေတာအားလုံးကို ရှင်းလိုက်ပါမည်။
+အဖွဲ့ဝင်ခံစားခွင့်များနှင့် ဝယ်ထားသောသီချင်းအားလုံးကို ရှင်းလိုက်ပါမည်။ ရှိပြီးသား အဖွဲ့ဝင်ခွင့်မှန်သမျှအတွက် ငွေပြန်မအမ်းသော်လည်း ၎င်းတို့အတွက်ငွေထပ်မဖြတ်ပါ။
+ဒေတာအားလုံးကို အပြီးရှင်းရန်ရွေးပါက အက်(ပ်)မှ အကောင့်ထွက်သွားပါမည်။ ဒေတာအားလုံးကို ယခုရှင်းလိုသလား။"</string>
+    <string name="asm_delete_data">ဒေတာရှင်းရန်</string>
+    <string name="asm_delete_data_local_and_online">အော့(ဖ်)လိုင်းနှင့် စထရင်းဝန်ဆောင်မှု ဒေတာများရှင်းပါ</string>
     <string name="asm_dialog_title_tips">VIP အဖွဲ့ဝင်ခွင့်</string>
     <string name="asm_dialog_vip_confirm_text">ဝင်ရန်</string>
     <string name="asm_dialog_vip_message">အရည်အသွေးမြင့်သီချင်းများ နားထောင်ရန်နှင့် အခြားအကြောင်းအရာများဒေါင်းလုဒ်လုပ်နိုင်ရန် VIP အဖွဲ့ဝင်ခွင့် စာရင်းသွင်းပါ။</string>
     <string name="asm_disable_song_click_tip">မူပိုင်ခွင့်ပြဿနာကြောင့် ဤသီချင်းကို မရရှိနိုင်ပါ</string>
     <string name="asm_download_failed">ဒေါင်းလုဒ်လုပ်မရပါ \"%1$s\"</string>
     <string name="asm_download_is_downloaded">အောင်မြင်စွာ သီချင်းဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
-    <string name="asm_download_is_downloaded_hq">Downloaded in HQ</string>
+    <string name="asm_download_is_downloaded_hq">HQ တွင် ဒေါင်းလုဒ်လုပ်ထားသည်</string>
     <string name="asm_download_is_downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="asm_download_list_not_supported">ဤစာရင်းမှ သီချင်းအချို့ကို ဒေါင်းလုဒ်လုပ်မရပါ</string>
     <string name="asm_download_pending_status_msg">ဒေါင်းလုဒ် ပြင်ဆင်နေသည်…</string>
@@ -128,7 +143,7 @@
     <string name="asm_fail_play_song">သီချင်းဒေါင်းလုဒ်လုပ်မရပါ</string>
     <string name="asm_google_connect_failed">ငွေချေမှု မပြီးစီးပါ။ ပလေးစတိုးသို့ အကောင့်ဝင်ထားကြောင်း သေချာပါစေ။</string>
     <string name="asm_google_no_goods">ထုတ်ကုန်အချက်အလက်မရရှိနိုင်ပါ</string>
-    <string name="asm_google_not_login">Sign in to Google Play and try again</string>
+    <string name="asm_google_not_login">ပလေးစတိုးသို့ အကောင့်ဝင်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="asm_google_pay_success">Google ပလေးအမှာ ထုတ်ထားသည်</string>
     <string name="asm_google_query_failed">ထုတ်ကုန်အချက်အလက်မရရှိနိုင်ပါ</string>
     <string name="asm_google_service_failed">Google ဝန်ဆောင်မှုများ စဖွင့်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
@@ -138,9 +153,10 @@
     <string name="asm_network_error">သင့်ကွန်ရက်လိုင်းကိုစစ်ပါ</string>
     <string name="asm_new_song_title">သီချင်းအသစ်များ</string>
     <string name="asm_no_need_download_songs">သီချင်းက ဒေါင်းလုဒ်တန်းစီစာရင်းတွင် ရောက်နေသည်</string>
-    <string name="asm_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_no_network">ကွန်ရက်ချိတ်မရပါ</string>
     <string name="asm_not_action_is_local_music">စက်တွင်းဖိုင်များတွင် ဤလုပ်ဆောင်ချက်ကို လုပ်မရပါ</string>
     <string name="asm_notify_use_mobile_download">မိုဘိုင်းဒေတာနှင့် ဒေါင်းလုဒ်လုပ်နေသည်</string>
+    <string name="asm_online_service_switch">အက်(ပ်)ဆက်တင်တွင် အွန်လိုင်းဝန်ဆောင်မှုများ ဖွင့်ပါ</string>
     <string name="asm_page_empty_search">ရလဒ်မတွေ့ပါ</string>
     <string name="asm_page_error_airplane">ချိတ်နိုင်ရန် လေယာဉ်မုဒ်ကိုပိတ်ပါ</string>
     <string name="asm_page_error_data">အမှားအယွင်းရှိသည်</string>
@@ -151,11 +167,11 @@
     <string name="asm_pay_order_generate">အမှာထုတ်နေသည်…</string>
     <string name="asm_pay_order_generate_failed">အမှာထုတ်မရပါ</string>
     <string name="asm_pay_query_overtime">ငွေချေမှုအခြေအနေတောင်းဆိုချက် အချိန်ကုန်ပါပြီ</string>
-    <string name="asm_privacy_desc">Wansheng ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
-    <string name="asm_privacy_tips_content">အွန်လိုင်းသီချင်းဝန်ဆောင်မှုများ သုံးနိုင်ရန် <a href="/link/click">Wansheng ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a>ကို သဘောတူပါ။</string>
-    <string name="asm_privacy_tips_title">Wansheng ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
+    <string name="asm_privacy_desc">ASM ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
+    <string name="asm_privacy_tips_content">အွန်လိုင်းသီချင်းဝန်ဆောင်မှုများ သုံးနိုင်ရန် <a href="/link/click">ASM ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a>ကို သဘောတူပါ။</string>
+    <string name="asm_privacy_tips_title">ASM ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="asm_pro_center">အဖွဲ့ဝင်ခွင့်</string>
-    <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
+    <string name="asm_search_result_contain_music">ပါဝင်သည် - \"%1$s\"</string>
     <string name="asm_song_err_connect">ဆာဗာချိတ်မရပါ</string>
     <string name="asm_song_err_not_exist">တောင်းဆိုထားသော အသံအရင်းအမြစ်မရှိပါ</string>
     <string name="asm_song_err_not_exist_clear">သီချင်းမရှိပါ။ စာရင်းမှဖြုတ်ထားသည်။</string>
@@ -169,7 +185,7 @@
     <string name="asm_toast_pay_failed">ငွေချေမှု မပြီးစီးပါ</string>
     <string name="asm_unknow_album">အမည်မသိအယ်လဘမ်</string>
     <string name="asm_unknow_artist">အမည်မသိအဆိုတော်</string>
-    <string name="audio_ad_countdown">Skip ad in %ss</string>
+    <string name="audio_ad_countdown">%s စက္ကန့်အတွင်း ကြော်ငြာကျော်ရန်</string>
     <string name="audio_ad_pass">ကြော်ငြာကို ကျော်ရန်</string>
     <string name="audio_picker_title">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
     <string name="auto_play_switch">အလိုအလျောက်ဖွင့် ဗီဒီယိုများ</string>
@@ -180,12 +196,12 @@
     <string name="auto_update_tip">စနစ်အက်ပ်များအား မိုဘိုင်းဒေတာဖြင့် အပ်ဒိတ်လုပ်နိုင်သည်။ သို့သော် အပိုငွေများ ကုန်ကျနိုင်ခြေရှိသည်။</string>
     <string name="autoplay_is_off">အလိုအလျောက်ဖွင့်ခြင်း ပိတ်ထားသည်</string>
     <string name="autoplay_is_on">အလိုအလျောက်ဖွင့်ခြင်း ပွင့်နေသည်</string>
-    <string name="available_playlist_name_format">New playlist %d</string>
-    <string name="avatar">Profile photo</string>
+    <string name="available_playlist_name_format">သီချင်းစာရင်းအသစ် %d</string>
+    <string name="avatar">ပရိုဖိုင်ပုံ</string>
     <string name="avoid_to_use_traffic_summary">သီချင်းနားထောင်ရန် မိုဘိုင်းလ်ကွန်ရက်ကို မသုံးပါနှင့်</string>
     <string name="avoid_to_use_traffic_title">သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာသုံးထားပါက အသိပေးပါ</string>
     <string name="back">ယခင်သို့</string>
-    <string name="back_confirm">Tap again to exit</string>
+    <string name="back_confirm">ထွက်ရန်ထပ်တို့ပါ</string>
     <string name="best_experience">အကောင်းဆုံးအတွေ့အကြုံ</string>
     <string name="billion_char">%s B</string>
     <string name="bluetooth_device">ဘလူးတုသ်အသံစက်</string>
@@ -204,9 +220,9 @@
     <string name="clause_content_second">ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို လုပ်ငန်းလုံခြုံရေးစံနှုန်းများနှင့် အညီ ကာကွယ်ပါမည်။</string>
     <string name="clause_content_third">သင့်သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေး ရုပ်သိမ်းနိုင်သည်။</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
-    <string name="click_and_watch_video_tip">သီချင်းဗီဒီယိုဖွင့်ရန် တို့နှိပ်ပါ</string>
+    <string name="click_and_watch_video_tip">သီချင်းဗီဒီယိုဖွင့်ရန် တို့ပါ</string>
     <string name="click_to_add_album_cover_and_lyric">အယ်(လ်)ဘမ် အဖုံးပုံနှင့် စာသားများ ရယူရန် တို့ပါ</string>
-    <string name="click_to_shuffle">ရှက်ဖ်ဖယ်လုပ်ရန် ထိနှိပ်ပါ</string>
+    <string name="click_to_shuffle">ရောမွှေရန် တို့ပါ</string>
     <string name="close">ပိတ်</string>
     <string name="close_music_time">"ကျန်သောအချိန်: "</string>
     <string name="columbus_ad_flag_text">ကြော်ငြာ</string>
@@ -317,6 +333,7 @@
     <string name="download_method">ဒေါင်းလုဒ်</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက် ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="download_song_quality_title">ဒေါင်းလုတ်ရယူထားသော သီချင်းများ၏ အရည်အသွေး</string>
@@ -333,13 +350,13 @@
     <string name="download_traffic_dialog_negative_button">Wi-Fi အား စောင့်ပါ</string>
     <string name="download_traffic_dialog_position_button">ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="download_traffic_dialog_position_button_serious">ဒေါင်းလုဒ်လုပ်နေဆဲ</string>
-    <string name="download_traffic_dialog_title">Data usage warning</string>
+    <string name="download_traffic_dialog_title">ဒေတာသုံးနှုန်းသတိပေးချက်</string>
     <string name="download_traffic_dialog_title_beyond">ဒေတာအသုံးပြုမှုကျော်လွန်နေပြီ</string>
     <string name="download_traffic_dialog_title_serious">မိုဘိုင်းဒေတာ လက်ကျန်နည်းနေသည်</string>
     <string name="download_while_playing_no_vip_summary">သင်အွန်လိုင်းအပေါ်တွင်နားဆင်သော သီချင်းများအား အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ ( ​အခကြေးငွေပေးရသည်များမှတစ်ပါး)</string>
     <string name="download_while_playing_summary">သင်အွန်လိုင်းနားထောင်သော သီချင်းများကို အလိုအလျောက် ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="download_while_playing_title">နားထောင်နေချိန် ဒေါင်းလုဒ်လုပ်မည်</string>
-    <string name="downloaded">Downloaded</string>
+    <string name="downloaded">ဒေါင်းလုဒ်လုပ်ထားသည်</string>
     <string name="downloading_apk">ဒေါင်းလုဒ်လုပ်နေသည်… အသိပေးချက်ရှိတ်တွင် လုပ်ဆောင်ချက်ကို ကြည့်ရှုနိုင်သည်။</string>
     <string name="downloading_pause_apk">ခေတ္တရပ်ဆိုင်းထားသည်။ အသိပေးချက်ရှိတ်တွင် ဒေါင်းလုဒ်ပြန်လုပ်နိုင်သည်။</string>
     <string name="due_date">နောက်ဆုံးရက်- %s</string>
@@ -392,6 +409,19 @@
     <string name="favorite_tracks">စိတ်ကြိုက်များ</string>
     <string name="favorites">အကြိုက်ဆုံး</string>
     <string name="feed_back">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="feed_back_ad_desc">Mi တေးဂီတသည် ကြော်ငြာမှအဓိကဝင်ငွေရသော အခမဲ့ဝန်ဆောင်မှုဖြစ်သည်။ ကျွန်ုပ်တို့၏ အင်္ဂါရပ်များနှင့် ဝန်ဆောင်မှုများ တိုးတက်ရန်၊ အပ်ပဒိတ်များထုတ်နိုင်ရန် ကြော်ငြာဝင်ငွေကို သုံးသည်။ ပိုကောင်းသော စထရင်းအတွေ့အကြုံပေးနိုင်ရန် ကြော်ငြာအရေအတွက်ကို တတ်နိုင်သမျှ လျှော့ပေးသည်။</string>
+    <string name="feed_back_ad_problem">ကြော်ငြာများလွန်းသည်</string>
+    <string name="feed_back_button_text">တုံ့ပြန်အကြံပြုချက်ပို့ရန်</string>
+    <string name="feed_back_button_toast">အောင်မြင်စွာ တုံ့ပြန်အကြံပြုချက်ပို့ပြီးပါပြီ</string>
+    <string name="feed_back_icon_problem">Mi တေးဂီတသင်္ကေတ မတွေ့ပါ</string>
+    <string name="feed_back_iconp_desc">Mi တေးဂီတ ပင်မမျက်နှာပြင်ရှော့ကတ်အား ဆက်တင် > အက်(ပ်)များ > ပင်မမျက်နှာပြင်ရှော့ကတ်များစီမံခန့်ခွဲရန်တွင် ပြသခွင့်ပေးထားကြောင်း သေချာပါစေ။</string>
+    <string name="feed_back_iconp_generate">Mi တေးဂီတအတွက် ပင်မမျက်နှာပြင်ရှော့ကတ်လုပ်ရန် အောက်တွင် တို့နိုင်သည်။</string>
+    <string name="feed_back_iconp_text">ရှော့ကတ်လုပ်ရန်</string>
+    <string name="feed_back_iconp_toast">ပင်မမျက်နှာပြင်ရှော့ကတ်ကို အောင်မြင်စွာပြုလုပ်ပြီးပါပြီ</string>
+    <string name="feed_back_other">တုံ့ပြန်အကြံပြုချက်ပို့ရန်</string>
+    <string name="feed_back_tab_disappear">\"ကြည့်ရန်\" ခလုတ် ပျောက်သွားသည်</string>
+    <string name="feed_back_tabd_desc">\"ကြည့်ရန်\"ခလုတ်ကို ယခင်ကမြင်ရပြီးမှ ပျောက်သွားပါက ကွန်ရက်ချိတ်ပြီး အက်(ပ်)ကို ပြန်စကြည့်ပါ။</string>
+    <string name="feed_back_title">အမေးအဖြေများနှင့် တုံ့ပြန်အကြံပြုချက်</string>
     <string name="file_and_media_permissions_for_display">ဖိုင်ဖတ်ခွင့် - စက်တွင်းဖိုင်များကို စကန်ဖတ်ရန်၊ ပြသရန်နှင့် ဖွင့်ရန်</string>
     <string name="file_not_found">ဖိုင် မရှိ</string>
     <string name="filter_by_MP4">MP4 ဖိုင်ပါသော ဖိုင်တွဲများကို ပြသရန်</string>
@@ -470,7 +500,7 @@
     <string name="format_not_support">ဤပုံစံကို မထောက်ပံ့ပါ.</string>
     <string name="format_unsupported_or_corrupted">ဖိုင်ပျက်စီးနေသည် သို့မဟုတ် ဖောမတ်အား မထောက်ပံ့ထားပါ</string>
     <string name="fragment_title_artist_album">အယ်လဘမ်များ</string>
-    <string name="free">Free</string>
+    <string name="free">အခမဲ့</string>
     <string name="friday">သောကြာ</string>
     <string name="friday_short">သောကြာ</string>
     <string name="friday_shortest">သောကြာ</string>
@@ -484,7 +514,7 @@
     <string name="google_download_music">%1$s ကို Google နှင့် ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="goto_local_search">စက်ထဲတွင် ရှာ​ပါ</string>
     <string name="goto_online_search">အွန်လိုင်းတွင် ရှာပါ</string>
-    <string name="handle_later">ယခုမလုပ်သေး</string>
+    <string name="handle_later">မလုပ်သေးပါ</string>
     <string name="hd_quality_audio">အဆင့်မြင့် သီချင်းအရည်အသွေး</string>
     <string name="headset_and_audio_effect_category">နားကြပ်နှင့် အော်ဒီယို အထူးပြုလုပ်ချက်များ</string>
     <string name="headset_and_audio_effect_summary">နားကြပ်နှင့် အသံထိန်းညှိစက်</string>
@@ -492,9 +522,9 @@
     <string name="hgm_failed_to_connect_hint">ကွန်ရက်ဆက်တင်ကိုစစ်ပြီး ထပ်လုပ်ကြည့်ပါ။ ပြဿနာသည် hungama ဆာဗာအမှားအယွင်းကြောင့်ဖြစ်ပါက ကျွန်ုပ်တို့ အမြန်ဆုံးပြင်ပါမည်။</string>
     <string name="hgm_has_offline">hungama မှ ပံ့ပိုးသောသီချင်း ဖွင့်မရပါ</string>
     <string name="hgm_network_request_error_toast">hungama ဆာဗာများကို ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
-    <string name="hgm_vip_btn_desc">Start free trial</string>
-    <string name="hgm_vip_high_quality">High quality downloads</string>
-    <string name="hgm_vip_no_ads">No ads or limits</string>
+    <string name="hgm_vip_btn_desc">အခမဲ့စမ်းသုံးခြင်းစရန်</string>
+    <string name="hgm_vip_high_quality">အရည်အသွေးမြင့်ဒေါင်းလုဒ်များ</string>
+    <string name="hgm_vip_no_ads">ကြော်ငြာမဲ့၊ အကန့်အသတ်မဲ့</string>
     <string name="hide_album">အယ်လ်ဘမ်အဖုံးအား ကွယ်ဝှက်ပါ</string>
     <string name="hide_lyric">သီချင်းစာသားအား ကွယ်ဝှက်ပါ</string>
     <string name="hide_or_add_songs_manually">ဖုံးထားသောသီချင်းများ ကြည့်ရန်</string>
@@ -507,7 +537,7 @@
     <string name="higher_quality_music">အဆင့်မြင့် သီချင်းအရည်အသွေး</string>
     <string name="higher_quality_music_summary">ကြီးသောဖိုင်များကို တိုက်ရိုက်ကြည့်ခြင်းနှင့်ဒေါင်းလုဒ်လုပ်ခြင်း</string>
     <string name="hint_search_songs_playlists_artists">သီချင်းများ၊ သီချင်းစာရင်းများနှင့် အဆိုတော်များကို ရှာရန်</string>
-    <string name="home_tab_home">Home</string>
+    <string name="home_tab_home">ပင်မ</string>
     <string name="home_tab_local">ကျွန်ုပ်၏သီချင်း</string>
     <string name="home_tab_more_music">အခြားသီချင်းများ</string>
     <string name="home_tab_online">အွန်လိုင်းသီချင်း</string>
@@ -520,7 +550,7 @@
     <string name="hungama_batch_download_alert_summary_toast">သီချင်းစာရင်းတစ်ခုလုံးကို ဒေါင်းလုဒ်လုပ်နိုင်ရန် စာရင်းသွင်းဝယ်ယူပါ။</string>
     <string name="hungama_download_subscription_toast">ဤသီချင်းကို ဒေါင်းလုဒ်လုပ်ရန် hungama တေးဂီတကို စာရင်းသွင်းရယူပါ</string>
     <string name="hungama_free_download_out_summary">သီချင်းများ အခမဲ့ ဒေါင်းလုဒ်လုပ်မရတော့ပါ။ သီချင်းများ အကန့်အသတ်မဲ့ ဒေါင်းလုဒ်လုပ်ရန် ရွှေအဖွဲ့ဝင်ခွင့် ရယူလိုသလား။</string>
-    <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
+    <string name="hungama_free_download_out_summary_toast">သီချင်း %d ပုဒ် ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။ ဒေါင်းလုဒ်ထပ်လုပ်ရန် စာရင်းသွင်းရယူမှု ဝယ်ပါ။</string>
     <string name="hungama_privacy_desc">hungama ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ (ရွေးနိုင်သော)</string>
     <string name="hungama_privacy_tips_content">အွန်လိုင်းအကြောင်းအရာများ ရယူလိုပါက <a href="/link/click">hungama ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a> ကို သဘောတူရပါမည်။</string>
     <string name="hungama_privacy_tips_title">hungama ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
@@ -578,7 +608,7 @@
     <string name="joox_auth_title_download_song">သီချင်းများကို ဒေါင်းလုဒ်လုပ်မည်</string>
     <string name="joox_auth_title_login_again">ဆိုင်းအင်ဝင်မည်</string>
     <string name="joox_auth_title_long_time_no_network">ကွန်ရက်နှင့် ချိတ်ဆက်မထားသည်မှာ အနည်းငယ်ကြာနေပုံ ရပါသည်</string>
-    <string name="joox_auth_title_shuffle_play">ရှက်ဖ်ဖယ်</string>
+    <string name="joox_auth_title_shuffle_play">ရောမွှေရန်</string>
     <string name="joox_auth_title_vip_content">VIP အကြောင်းအရာ</string>
     <string name="joox_auth_title_vip_expired">အဖွဲ့ဝင်သက်တမ်း ကုန်သွားပါပြီ</string>
     <string name="joox_auth_title_vip_function">VIP အင်္ဂါရပ်များ</string>
@@ -595,7 +625,7 @@
     <string name="jump_to_ytb_dialog_desc">Mi တေးဂီတမှထွက်ပြီး YouTube ဖွင့်ပါတော့မည်။ ယခု YouTube ဖွင့်လိုသလား။</string>
     <string name="jump_to_ytb_dialog_ok">အတည်ပြုရန်</string>
     <string name="jump_to_ytb_dialog_title">Mi တေးဂီတမှ ထွက်ခြင်း</string>
-    <string name="just_hit_next">Just hit next</string>
+    <string name="just_hit_next">ရှေ့သို့ကို နှိပ်ပါ</string>
     <string name="ktv_playlist">ကေတီဗီ ဖွင့်ရန်စာရင်း</string>
     <string name="language_page_confirm">အတည်ပြုသည်</string>
     <string name="language_preference">ပိုလိုလားသော ဘာသာစကား</string>
@@ -605,7 +635,7 @@
     <string name="like">ကြိုက်</string>
     <string name="list_item_play_all_tracks">အားလုံးကိုဖွင့်</string>
     <string name="listen_anywhere">နေရာမရွေးနားထောင်နိုင်သည်</string>
-    <string name="load_shuffle">လုပ်ဆောင်နေ…</string>
+    <string name="load_shuffle">တင်နေသည်…</string>
     <string name="loadercontainer_loading">ခဏစောင့်ပါ…</string>
     <string name="loading_hint">ခဏစောင့်ပါ…</string>
     <string name="loading_reached_the_bottom">မရှိတော့ပါ။</string>
@@ -628,15 +658,44 @@
     <string name="local_page_artist_more">%s၏ အခြားသီချင်းများ</string>
     <string name="local_page_playlist">သီချင်းစာရင်း</string>
     <string name="local_page_song_download_history">ဒေါင်းလုဒ်များ</string>
+    <string name="lock_screen_music_settings">သော့ခတ်မျက်နှာပြင်တေးဂီတ ဆက်တင်</string>
+    <string name="lock_screen_settings">သော့ခတ်မျက်နှာပြင်ဆက်တင်</string>
+    <string name="lock_screen_slide_up">သော့ဖွင့်ရန် အပေါ်သို့ပွတ်ဆွဲပါ</string>
+    <string name="lock_screen_switch">သော့ချမျက်နှာပြင်တေးဂီတ</string>
     <string name="login_instantly">အကောင့်ဝင်ရန်</string>
     <string name="login_mi_account_and_gain_more_rights">အခြားအင်္ဂါရပ်များ သုံးနိုင်ရန် Xiaomi အကောင့်ဖြင့် အကောင့်ဝင်ပါ။</string>
-    <string name="login_out_tip">"Can't sign out for now. You can clear all app data instead."</string>
+    <string name="login_out_tip">ယခုအကောင့်မှထွက်မရပါ။ ၎င်းအစား အက်(ပ်)ဒေတာအားလုံးကို ရှင်းနိုင်သည်။</string>
     <string name="long_press_to_select_lyric">ဖုန်းတွင်းရှိ သီချင်းစာသားဖိုင်ကို ရွေးရန် ဖိ&amp;နှိပ်ထားပါ</string>
     <string name="lots_of_songs_for_free">သီချင်းသန်းပေါင်းများစွာကို အခမဲ့နားဆင်ပါ</string>
     <string name="low_sound_quality">နိမ့်သည်</string>
     <string name="lrc_search_failed">သီချင်းစားသာ ရှာမတွေ့ပါ</string>
     <string name="lrc_searching">ရှာဖွေနေဆဲ…</string>
-    <string name="ludo_tab_guide">Check out our new Music rooms</string>
+    <string name="ludo_tab_guide">တေးဂီတ Room အသစ်များကို စမ်းကြည့်ပါ</string>
+    <string name="lyric_ai_apply_fail">သုံးမရပါ။ ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="lyric_ai_button_text">AI သီချင်းစာသား</string>
+    <string name="lyric_ai_dialog_one">•သီချင်းစာသားရှာရန် တို့နိုင်သည်။ AI အသံမှတ်မိခြင်းနည်းပညာကိုသုံးပြီး သီချင်းစာသားဖြည့်ပေးပါမည်။</string>
+    <string name="lyric_ai_dialog_three">•သီချင်းစာသားကိရိယာဘားတွင် ပြီးမြောက်မှုကို စစ်နိုင်သည်။</string>
+    <string name="lyric_ai_dialog_two">•မှတ်မိရန် မိနစ်အနည်းငယ်ကြာနိုင်သည်။ ပြီးသွားလျှင် သီချင်းစာသားကို အလိုအလျောက် ဖြည့်ပေးပါမည်။</string>
+    <string name="lyric_ai_fail_toast">ဖိုင်က မှတ်သားရန်ကြီးလွန်းသည်</string>
+    <string name="lyric_ai_identify_success">သီချင်းစာသားကို အောင်မြင်စွာမှတ်သားပြီးပါပြီ</string>
+    <string name="lyric_ai_song">လက်ရှိသီချင်း</string>
+    <string name="lyric_ai_song_list">သီချင်းများ</string>
+    <string name="lyric_ai_state_apply">သီချင်းစာသားသုံးနေသည်</string>
+    <string name="lyric_ai_state_default">သီချင်းမမှတ်မိပါ</string>
+    <string name="lyric_ai_state_fail">သီချင်းစာသား မှတ်သားမရပါ</string>
+    <string name="lyric_ai_state_identify">မှတ်သားရန်</string>
+    <string name="lyric_ai_state_identifying">ခေတ္တစောင့်ပါ…</string>
+    <string name="lyric_ai_state_use">သုံးရန်</string>
+    <string name="lyric_ai_title">AI သီချင်းစာသားမှတ်မိစနစ်</string>
+    <string name="lyric_feedback_inaccurate_timing">သီချင်းစာသားများ ဆင့်(ခ်)မဖြစ်ပါ</string>
+    <string name="lyric_feedback_lyrics_error">သီချင်းစာသားတစ်ပုဒ်လုံး မှားနေသည်</string>
+    <string name="lyric_feedback_misspelling">စာလုံးပေါင်းမှားခြင်းနှင့် စာရိုက်မှားခြင်း</string>
+    <string name="lyric_feedback_other">အခြား</string>
+    <string name="lyric_feedback_pure_music">တူရိယာသီချင်း</string>
+    <string name="lyric_feedback_report_optimization">ကျွန်ုပ်တို့ဝန်ဆောင်မှုကို အဆင့်မြှင့်ရာ၌ကူညီရန် တိုင်ကြားပါ</string>
+    <string name="lyric_feedback_submit">တင်ရန်</string>
+    <string name="lyric_feedback_submit_success">အောင်မြင်စွာတင်ပြီးပါပြီ</string>
+    <string name="lyric_feedback_title">ပြဿနာအကြောင်း ပြောပြပါ</string>
     <string name="lyric_is_empty">သီချင်းစာသားမရနိုင်</string>
     <string name="lyric_label">သီချင်းစာသား</string>
     <string name="lyric_open_other_connect">မိုဘိုင်းလ်ကွန်ရက်သုံးပြီး သီချင်းစာသားကို ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -649,12 +708,12 @@
     <string name="lyrics_guide_two">လိုချင်သောသီချင်းစာသားကို ရွေးပြီးကူးယူပါ</string>
     <string name="lyrics_popup_title">သီချင်းစာသားရှာရန် တို့ပါ</string>
     <string name="message_delete_playlist">သီချင်းစာရင်း %s အားဖျက်မည်လား?</string>
-    <string name="metered_alert">Data usage warning</string>
+    <string name="metered_alert">ဒေတာသုံးနှုန်းသတိပေးချက်</string>
     <string name="metered_alert_msg">သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာအသုံးပြုထားသည်။ မည်သို့ပင်မဆို ဖွင့်မည်လား?</string>
     <string name="metered_alert_msg_with_data">သင့်တွင် မိုဘိုင်းဒေတာ %s ကျန်သေးသည်။ သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာအား အသုံးပြုမည်လား?</string>
     <string name="metered_allow">ဖွင့်</string>
     <string name="metered_beyond_alert">ဒေတာအသုံးပြုမှုကျော်လွန်နေပြီ</string>
-    <string name="metered_disallow">ယခုမလုပ်သေး</string>
+    <string name="metered_disallow">မလုပ်သေးပါ</string>
     <string name="metered_play_and_download_summary">မိုဘိုင်းဒေတာဖြင့် သီချင်းများကို ဒေါင်းလုဒ်လုပ်ပြီး နားထောင်နေစဥ် ဒေတာသုံးစွဲမှုသတိပေးချက် မပြပါနှင့်။</string>
     <string name="metered_play_and_download_title">မိုဘိုင်းဒေတာဖြင့် သီချင်းများကို ဒေါင်းလုဒ်လုပ်ပြီး နားထောင်မည်</string>
     <string name="metered_play_toast">သီချင်းဖွင့်ရန် မိုဘိုင်းဒေတာ အသုံးပြုနေသည်</string>
@@ -685,6 +744,7 @@
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
     <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_edit">ပြင်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -774,7 +834,7 @@
     <string name="network_request_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_settings_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_traffic">ဒေတာအသုံးပြုမှု</string>
-    <string name="next_time">ယခုမလုပ်သေး</string>
+    <string name="next_time">မလုပ်သေးပါ</string>
     <string name="next_to_play">နောက်လာမည့်အရာ</string>
     <string name="night">ညနေ</string>
     <string name="no_album_info">အယ်လ်ဘမ်အချက်လက်မရှိ</string>
@@ -797,7 +857,7 @@
     <string name="noon">မွန်းတည့်</string>
     <string name="normal_quality">ကောင်း</string>
     <string name="not_login">မဝင်ရသေးပါ</string>
-    <string name="not_now">အခု မဟုတ်ပါ</string>
+    <string name="not_now">မလုပ်သေးပါ</string>
     <string name="not_selected">သီချင်းတစ်ပုဒ် ရွေးမည်</string>
     <string name="not_support_documentui">ဤစက်တွင် DocumentUI ကို မပံ့ပိုးပါ</string>
     <string name="notification_play_summary">လက်ရှိနှင့် နောက်သီချင်းအား ကြည့်ရှု့ပါ၊ အိမ်မျက်နှာပြင်တွင် စာသားများအား ပြသပါ</string>
@@ -837,7 +897,6 @@
     <string name="online_apk_install_network_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ ကွန်ရက်ဆက်တင်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="online_apk_install_tips">ဤအကြောင်းအရာ ဖန်တီးသူ၏ ပလက်အင်အား တစ်ကြိမ်မျှ ဒေါင်းလုတ်ရယူရန် လိုအပ်ပါသည်။ နောက်တစ်ကြိမ်တွင် သီချင်းများအားလုံးကို တိုက်ရိုက်ဝင်ရောက်နားဆင်နိုင်ပေလိမ့်မည်။</string>
     <string name="online_list_delete_message">ဖွင့်စာရင်းထဲရှိဒေါင်းလုဒ်လုပ်ထားသော သီချင်းအားလုံးအား အတွင်းသိုလှောင်မှုမှနေ၍ ဖျက်ပစ်လိမ့်မည်။</string>
-    <string name="online_playlist_category">သီချင်းစာရင်း</string>
     <string name="online_recommend">ဖွင့်စာရင်း</string>
     <string name="online_service_open_tip">အွန်လိုင်းဂီတဝန်ဆောင်မှု ဖွင့်ထားသည်</string>
     <string name="online_service_title">အွန်လိုင်းဝန်ဆောင်မှုများ</string>
@@ -846,18 +905,19 @@
     <string name="online_switch_message">အွန်လိုင်းဝန်ဆောင်မှုများကို ပိတ်လိုက်ခြင်းဖြင့် VIP ဝန်ဆောင်မှုနှင့် အကြံပြုချက်များကိုလည်း သက်ရောက်မှုရှိနိုင်ပါသည်။ မည်သို့ပင်မဆို ပိတ်မည်လား?</string>
     <string name="online_switch_setting">အွန်လိုင်းအကြောင်းအရာဆက်တင်များ</string>
     <string name="only_pro_can_choose_hd_sound_quality">HD အသံများကို ရွှေအဖွဲ့ဝင်များအတွက်သာ ရရှိနိုင်သည်</string>
+    <string name="open_alarm_clock_recommend_switch">အကြံပြုထားသော သီချင်းနှိုးစက်</string>
     <string name="open_online_service">ဤလုပ်ဆောင်ချက်ကို အသုံးပြုရန် အွန်လိုင်းဝန်ဆောင်မှုကို အသုံးပြုရန် လိုအပ်ပါသည်။ ယခုဖွင့်မည်လား?</string>
     <string name="open_service">ဖွင့်</string>
     <string name="operation_done_close">ပိတ်မည်</string>
     <string name="other_song_in_album">ဤအယ်လ်ဘမ်မှ အခြားသီချင်းများ</string>
-    <string name="party">Party</string>
+    <string name="party">ပါတီ</string>
     <string name="passport_access_denied">ဝင်သုံးခွင့်ကို ငြင်းပယ်ထားသည်</string>
     <string name="passport_account_crop_user_avatar">ဓာတ်ပုံ ဖြတ်ထုတ်ပါ</string>
     <string name="passport_account_empty_user_name">သင့်အမည်ပြောင်ထည့်ပါ</string>
     <string name="passport_account_error_all_space_user_name">အမည်တွင် စပေ့အက္ခရာများသာ မပါရပါ</string>
     <string name="passport_account_error_invalid_user_name">အမည်ပြောင်တွင် &lt;၊ > သို့မဟုတ် / တို့ မပါရပါ</string>
-    <string name="passport_account_error_longer_user_name">"Name can't be longer than %d characters"</string>
-    <string name="passport_account_error_shorter_user_name">Name must be longer than %d characters</string>
+    <string name="passport_account_error_longer_user_name">အမည်သည် အက္ခရာ %d လုံး မကျော်ရပါ</string>
+    <string name="passport_account_error_shorter_user_name">အမည်သည် အက္ခရာ %d လုံး ကျော်ရမည်</string>
     <string name="passport_account_error_user_name">ဤအမည်ပြောင် မှားနေသည်။ အခြားအမည် စမ်းကြည့်ပါ။</string>
     <string name="passport_account_invalid_user_avatar">ဤဓာတ်ပုံမှားနေသည်။ အခြားတစ်ခု စမ်းကြည့်ပါ။</string>
     <string name="passport_account_name">"အကောင့် - %1$s "</string>
@@ -881,7 +941,6 @@
     <string name="passport_agree">သဘောတူပါသည်</string>
     <string name="passport_area_code_title">ဧရိယာကုဒ်</string>
     <string name="passport_attention">သတိပြုရန်</string>
-    <string name="passport_auth_fail_warning">ခွင့်ပြုချိန်ကုန်ပါပြီ။ အကောင့်ပြန်ဝင်ပါ။</string>
     <string name="passport_back">နောက်သို့</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_can_not_recevie_verify_code">ကုဒ်မရထားဘူးလား။</string>
@@ -903,11 +962,9 @@
     <string name="passport_doing_query_account">အကောင့်အချက်အလက်များစစ်နေသည်…</string>
     <string name="passport_error_auth_fail">ခွင့်ပြုချိန် ကုန်သွားပါပြီ။ အကောင့်ထပ်ဝင်ပါ။</string>
     <string name="passport_error_device_id">စက်ပစ္စည်း ID မရနိုင်ပါ</string>
-    <string name="passport_error_dup_binded_email">ဤအီးမေး(လ်)လိပ်စာကို အခြား Xiaomi အကောင့်နှင့် ချိတ်ထားပြီးဖြစ်သည်။</string>
     <string name="passport_error_empty_password">စကားဝှက်ထည့်ပါ</string>
     <string name="passport_error_empty_pwd">စကားဝှက် မဖြည့်၍မရပါ</string>
     <string name="passport_error_empty_user_id">အသုံးပြုသူအမည်ထည့်ပါ</string>
-    <string name="passport_error_invalid_bind_address">သင်ထည့်သော အီးမေး(လ်)လိပ်စာ မမှန်ပါ။</string>
     <string name="passport_error_length_limit">ထည့်ထားသောစာသား အလွန်ရှည်သည်</string>
     <string name="passport_error_network">ဤကွန်ရက်သို့ မချိတ်ဆက်နိုင်ပါ။</string>
     <string name="passport_error_no_password_user">စကားဝှက် မသတ်မှတ်ရသေးပါ။ SMS ဖြင့် အကောင့်ဝင်ပါ။</string>
@@ -923,17 +980,14 @@
     <string name="passport_error_unknown">အမည်မသိ ချို့ယွင်းမှု</string>
     <string name="passport_error_user_name">သင်ထည့်သွင်းထားသော သုံးစွဲသူအမည် မမှန်ကန်ပါ</string>
     <string name="passport_error_user_password">စကားဝှက် မကိုက်ညီပါ</string>
-    <string name="passport_exceed_binded_phone_times_notice">ဤဖုန်းနံပါတ်ကို အခြား Xiaomi အကောင့်နှင့် ချိတ်ထားပြီးဖြစ်သည်။</string>
     <string name="passport_facebook_login_btn_content_description">Facebook နှင့် အကောင့်ဝင်ရန်</string>
     <string name="passport_frequency_try_later">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ</string>
     <string name="passport_get_login_type_next">နောက်တစ်ဆင့်</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">ဤနံပါတ်သို့ အတည်ပြုကုဒ်များစွာ ပို့ထားသည်။ ၂၄ နာရီစောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="passport_google_login_btn_content_description">Google နှင့် အကောင့်ဝင်ရန်</string>
     <string name="passport_help">အကူအညီ</string>
     <string name="passport_i_know">ရပါပြီ</string>
     <string name="passport_identification_expired">အတည်ပြုကုဒ် သက်တမ်းကုန်သွားသည်။ နောက်တစ်ကြိမ် ပြန်လုပ်ပါ။</string>
     <string name="passport_input_captcha_hint">ကုဒ်နံပါတ် ထည့်သွင်းပါ</string>
-    <string name="passport_input_email_address_notice">သင့်အကောင့်ကို စိစစ်ရန် ဤအီးမေး(လ်)ကို သုံးပါမည်</string>
     <string name="passport_input_password_hint">စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="passport_input_phone_number_hint">ဖုန်းနံပါတ်ထည့်ပါ</string>
     <string name="passport_input_verify_code">အတည်ပြုကုဒ်ထည့်ပါ</string>
@@ -974,39 +1028,35 @@
     <string name="passport_request_error_network">ကွန်ရက်အမှားအယွင်းရှိသည်။ ကွန်ရက်ဆက်တင်ကို ပြန်စစ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="passport_request_error_unknown">စနစ်အမှားအယွင်းရှိသည်။ နောက်ပြန်သွားပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="passport_request_gallery_permission_message">ပြခန်းသို့ ဝင်ခွင့်ပြုရန် -&lt;br />ပရိုဖိုင်ပုံသတ်မှတ်ရန်</string>
-    <string name="passport_resend_email_reach_limit_message">အတည်ပြုအီးမေး(လ်) တောင်းခံသည့် အကြိမ်ရေများလွန်းသည်။ အဝင်းမေး(လ်)စပမ်းဖိုဒါတွင် အတည်ပြုအီးမေး(လ်) ရှိမရှိ စစ်ပါ။</string>
-    <string name="passport_resend_email_reach_limit_title">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်</string>
     <string name="passport_resend_ticket">ကုဒ်ပြန်ပို့ရန်</string>
     <string name="passport_retry">ထပ်လုပ်ကြည့်ပါ</string>
-    <string name="passport_same_new_and_old_pwd">လက်ရှိစကားဝှက်နှင့် မတူရပါ</string>
     <string name="passport_send_sms_to">%1$s သို့ ကုဒ်ပို့ထားသည်</string>
     <string name="passport_send_too_many_code">ဤနံပါတ်သို့ အတည်ပြုကုဒ်များစွာ ပေးပို့ထားပါသည်။ ၂၄ နာရီ စောင့်ဆိုင်းပြီးမှ ထပ်မံကြိုးစားကြည့်ပါ။</string>
     <string name="passport_sending_vcode">ကုဒ်နံပါတ်ပို့နေသည်…</string>
-    <string name="passport_service_error">ဆာဗာအမှားအယွင်း</string>
     <string name="passport_set_password_no_phone_msg">သင့်အကောင့်ကို ကာကွယ်ရန် သင့်ဖုန်းနံပါတ်ကို ထည့်သွင်းပါ။</string>
     <string name="passport_skip_query_account">ကျော်ရန်</string>
-    <string name="passport_sns_access_token_expired_warning">ခွင့်ပြုချိန်ကုန်ပါပြီ။ ဤအကောင့်နှင့် ပြန်ချိတ်ရန် အကောင့်ပြန်ဝင်ပါ။</string>
     <string name="passport_sns_bind_limit">အားထုတ်သည့်ကြိမ်ရေ များလွန်းသည်။ အကောင့်ဝင်ရန် အခြားနည်းသုံးကြည့်ပါ။</string>
     <string name="passport_system_error">စနစ် အလုပ်များနေသည်။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ</string>
     <string name="passport_talkback_image_captcha">ရုပ်ပုံ အတည်ပြုကုဒ်</string>
     <string name="passport_talkback_switch_image_captcha">ရုပ်ပုံ အတည်ပြုကုဒ်သို့ ပြောင်းမည်</string>
     <string name="passport_talkback_switch_voice_captcha">အသံ အတည်ပြုကုဒ်သို့ ပြောင်းမည်</string>
     <string name="passport_talkback_voice_captcha">အသံ အတည်ပြုကုဒ်ကို ဖွင့်မည်</string>
+    <string name="passport_third_sns_service_unavailable">ဝန်ဆောင်မှုမရရှိနိုင်ပါ။ အက်(ပ်)ကို ထည့်ထားပြီး ဘလော့မလုပ်ထားကြောင်း သေချာပါစေ။</string>
     <string name="passport_ticket_send_by_second">%d အတွင်း ပို့ပါ</string>
     <string name="passport_to_forget_password">စကားဝှက်မေ့နေလား။</string>
     <string name="passport_to_password_login">စကားဝှက်နှင့် အကောင့်ဝင်ရန်</string>
     <string name="passport_to_verify_code_login">SMS မှ အကောင့်ဝင်ရန်</string>
     <string name="passport_unknown_error">အမည်မသိအမှားအယွင်း</string>
     <string name="passport_unknown_host_network_error">ကွန်ရက်ဆက်တင်ကိုစစ်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
-    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> အပြင် Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>၊ Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
-    <string name="passport_user_agreement_hint_default">&lt;Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a> အပြင် Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>၊ Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>၊ Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>ကျွန်ုပ်သည်&lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>၊ Xiaomi အကောင့်၏ &lt;a href=%3$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%4$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%5$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
     <string name="passport_user_agreement_hint_first_login">သင့်ဖုန်းနံပါတ်ကို ပထမအကြိမ်အသုံးပြုခြင်းဖြစ်ပါက အလိုအလျောက် အကောင့်ဖွင့်ပေးပါမည်။</string>
-    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Mobile အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>eSurfing အကောင့်အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>ကျွန်ုပ်သည် Xiaomi အကောင့်၏ &lt;a href=%1$s>အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=%2$s>ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တို့အပြင် &lt;a href=%3$s>China Unicom အတည်ပြုဝန်ဆောင်မှုများ၏ စည်းမျဉ်းစည်းကမ်းများ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
     <string name="passport_user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းပါ</string>
     <string name="passport_user_avatar_uploading">ခေတ္တစောင့်ပါ…</string>
     <string name="passport_user_id_hint">အီးမေး(လ်)/ဖုန်းနံပါတ်/Xiaomi အကောင့် ID</string>
@@ -1039,11 +1089,26 @@
     <string name="play_mode_all_loop">အားလုံးကို ထပ်ခါဖွင့်ပါ</string>
     <string name="play_mode_one_loop">လည်ပတ်မှု</string>
     <string name="play_mode_play_all">အားလုံးဖွင့်ပါ</string>
-    <string name="play_mode_shuffle_all">ရှက်ဖ်ဖယ်</string>
+    <string name="play_mode_shuffle_all">ရောမွှေရန်</string>
     <string name="play_next">နောက်တစ်ပုဒ်ဖွင့်</string>
     <string name="play_setting">ပြန်ဖွင့်ရန်</string>
     <string name="play_video_with_traffic">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="play_video_with_traffic_toast">မိုဘိုင်းဒေတာအား အသုံးပြုနေသည်။</string>
+    <string name="playerui_lyric_dialog_cancel">မတိကျပါ</string>
+    <string name="playerui_lyric_dialog_hint">ကျွန်ုပ်သည် Mi တေးဂီတအား အဆင့်မြင့်ရည်ရွယ်ချက်များအတွက် အသံဖိုင်များ ဖတ်ခွင့်ပြုသည်</string>
+    <string name="playerui_lyric_dialog_ok">တိကျသည်</string>
+    <string name="playerui_lyric_dialog_title">ဤသီချင်းစာသားများ တိကျသလား။</string>
+    <string name="playerui_lyric_edit_hint">သီချင်းစာသားပြင်ရန် ဤနေရာကိုတို့ပါ</string>
+    <string name="playerui_lyric_fun_edit">သီချင်းစာသားပြင်ရန်</string>
+    <string name="playerui_lyric_fun_font">စာသားအရွယ်</string>
+    <string name="playerui_lyric_fun_history">သီချင်းစာသားမှတ်တမ်း</string>
+    <string name="playerui_lyric_fun_research">ပြန်ရှာရန်</string>
+    <string name="playerui_lyric_searching">ရှာနေသည်…</string>
+    <string name="playerui_lyric_selected">ဤသီချင်းစာသားသုံးရန်</string>
+    <string name="playerui_song_dialog_cancel">ခွင့်မပြုရန်</string>
+    <string name="playerui_song_dialog_hint">ပိုတိကျသောသီချင်းစာသားများ လတ်တလောမရရှိနိုင်ပါ။ Mi တေးဂီတအား အဆင့်မြင့်ရည်ရွယ်ချက်များအတွက် အသံဖိုင်များ ဖတ်ခွင့်ပြုပြီး ကူညီနိုင်သည်။ ယခုဖတ်ခွင့်ပြုလိုသလား။</string>
+    <string name="playerui_song_dialog_ok">ခွင့်ပြုရန်</string>
+    <string name="playerui_song_dialog_title">အသံဖိုင်များ ဖတ်ခွင့်ပြုရန်</string>
     <string name="playlist_empty">အဖွင့်စာရင်းမတွေ့ရှိပါ</string>
     <string name="playlist_title">သီချင်းစာရင်း အမည်</string>
     <string name="playlist_title_is_empty">သီချင်းစာရင်းအမည်အား ဗလာထား၍မရပါ</string>
@@ -1067,9 +1132,11 @@
     <string name="privacy_authorize_revoking">ခွင့်ပြုချက်ရုပ်သိမ်းနေသည်…</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ (မဖြစ်မနေ)</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
-Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
-If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
+    <string name="privacy_policy_title_asm">တေးဂီတကမ္ဘာကြီး သင့်လက်ဖျားသို့ရောက်ပါပြီ</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=my_MM</string>
+    <string name="privacy_request_desc"><Data>"Mi တေးဂီတသည် သင့်အား အွန်လိုင်းစထရင်းဝန်ဆောင်မှုများပေးနိုင်ရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ အသုံးပြုပုံပြုနည်းအကြောင်းကို ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>တွင် လေ့လာနိုင်သည်။ Mi တေးဂီတ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒအပေါ် သဘောတူခွင့်ပြုချက်ကို ဆက်တင်တွင် အချိန်မရွေးရုပ်သိမ်းနိုင်သည်။
+Mi တေးဂီတကို မသုံးမီ ကျွန်ုပ်တို့၏ &lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%1$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူပါ။
+အထက်ပါဝန်ဆောင်မှုများကိုသုံးရန် သဘောမတူပါက ဤအက်(ပ်)ရှိ အင်္ဂါရပ်အချို့ကို သုံးမရသော်လည်း အခြေခံလုပ်ဆောင်ချက်များကို သုံးနိုင်ပါသည်။"</Data></string>
     <string name="privacy_request_subtitle">"Mi တေးဂီတမှ ကြိုဆိုပါသည်။ ဤအက်ပ်သည် အောက်ပါဝန်ဆောင်မှုများကို ထောက်ပံ့ပေးထားသည် -
 - စက်တွင်း အော်ဒီယိုဖွင့်စက်
 - အွန်လိုင်းပြသမှုဆိုင်ရာ ဝန်ဆောင်မှုများ"</string>
@@ -1082,10 +1149,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="pulluprefreshrecyclerview_loading_finished">အောင်မြင်စွာ လုဒ်တင်ခဲ့သည်</string>
     <string name="pulluprefreshrecyclerview_loading_running">ရယူနေ…</string>
     <string name="queue_is_empty">နားထောင်ရန်စာရင်းတွင် သီချင်း မရှိပါ။</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
-    <string name="read_and_agree_hungama_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_joox_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_mi_protocol">"&lt;Data>I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_asm_protocol"><Data>အွန်လိုင်းသီချင်းဝန်ဆောင်မှုများ သုံးနိုင်ရန် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>&lt;/font>ကို ဖတ်ရှုပြီး သဘောတူပါ။</Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>ကျွန်ုပ်သည် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>&lt;/font> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>ကျွန်ုပ်သည် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>&lt;/font> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>ကျွန်ုပ်သည် Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">အသုံးပြုသူ သဘောတူညီချက်&lt;/a>&lt;/font> နှင့် &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/a>&lt;/font>တို့ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
     <string name="read_and_agree_protocol">ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ အသုံးပြုသူသဘောတူညီချက်နှင့် ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒတို့ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
     <string name="ready_to_play">နောက်လာမည့်အရာ</string>
     <string name="recently_played">မကြာမီက ဖွင့်ထားသော</string>
@@ -1138,7 +1205,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="see_more_videos">အခြားဗီဒီယိုများ</string>
     <string name="select">ရွေးပါ</string>
     <string name="select_all">အားလုံးရွေးရန်</string>
-    <string name="select_clip_desc">Select a clip from the song</string>
+    <string name="select_clip_desc">သီချင်းမှ အပိုဒ် တစ်ပိုဒ် ရွေးပါ</string>
     <string name="select_desc_sub">ဘာသာစကား %d မျိုးအထိ ရွေးနိုင်သည်</string>
     <string name="select_device">ကိရိယာကိုရွေးပါ</string>
     <string name="select_displayed_folders">ပြသရန်ဖိုလ်ဒါရွေး</string>
@@ -1173,10 +1240,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="shortcut_get">ကြည့်ရန်</string>
     <string name="shortcut_success">အောင်မြင်စွာပြုလုပ်ပြီးပါပြီ။ ပင်မမျက်နှာပြင်တွင် ကြည့်ပါ။</string>
     <string name="show_float_first_hint">မီဒီယာပလေယာကို ချုံ့ကြည့်မည်</string>
-    <string name="shuffle_music">ရှက်ဖ်ဖယ်ပြန်ပြ</string>
-    <string name="shuffle_off_notif">ရှက်ဖ်ဖယ်ပိတ်ထား</string>
-    <string name="shuffle_on_notif">ရှက်ဖ်ဖယ်ဖွင့်ထား</string>
-    <string name="shuffle_play_toast_text">သီချင်းများကို အစီအစဉ်ရောမွေနေသည်…</string>
+    <string name="shuffle_music">ပြန်ဖွင့်ခြင်းကို ရောမွှေရန်</string>
+    <string name="shuffle_off_notif">ရောမွှေခြင်း ပိတ်ထားသည်</string>
+    <string name="shuffle_on_notif">ရောမွှေခြင်း ဖွင့်ထားသည်</string>
+    <string name="shuffle_play_toast_text">သီချင်းများကို ရောမွှေထားသည်…</string>
     <string name="similar_albums">အလားတူ အယ်လ်ဘမ်</string>
     <string name="similar_playlists">အလားတူ ဖွင့်ရန်စာရင်း</string>
     <string name="similar_podcasts">အလားတူပေါ့ဒကတ်(စ်)များ</string>
@@ -1237,7 +1304,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="start_update">ဗားရှင်းအသစ်ထည့်နေသည်…</string>
     <string name="storage_cloned_app">နှစ်ခုတွဲအက်(ပ်)များအတွက် သိုလှောင်ခန်း</string>
     <string name="storage_space_permissions_for_display">စက်သိုလှောင်ခန်းဖတ်ခွင့် - စက်တွင်းဖိုင်များကို စကန်ဖတ်ရန်၊ ပြသရန်နှင့် ဖွင့်ရန်</string>
-    <string name="streamloadingtext">Connecting to %s</string>
+    <string name="streamloadingtext">ချိတ်နေသည် %s</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
@@ -1249,7 +1316,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="tab_artist">အနုပညာရှင်များ</string>
     <string name="tab_artist_list">အနုပညာရှင်များ</string>
     <string name="tab_chart">ပုံစံကားချပ်များ</string>
-    <string name="tab_flow">Watch</string>
+    <string name="tab_flow">ကြည့်ရန်</string>
     <string name="tab_folder">ဖိုလ်ဒါများ</string>
     <string name="tab_playlist">သီချင်းစာရင်း</string>
     <string name="tab_top_results">ထိပ်တန်းရလဒ်</string>
@@ -1268,7 +1335,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="talkback_mode">စာရင်းအလိုက် လည်ပတ်ဖွင့်မည်</string>
     <string name="talkback_mode_repeat_all">စာရင်းအလိုက် လည်ပတ်မှုမုဒ်</string>
     <string name="talkback_mode_repeat_current">တစ်ပုဒ်တည်း လည်ပတ်မှုမုဒ်</string>
-    <string name="talkback_mode_repeat_shuffle">ရှက်ဖ်ဖယ်မုဒ်</string>
+    <string name="talkback_mode_repeat_shuffle">ကျပန်းဖွင့်မုဒ်</string>
     <string name="talkback_more">နောက်ထပ်</string>
     <string name="talkback_next">သီချင်းနောက်တစ်ပုဒ်</string>
     <string name="talkback_nowplaying_bar">ဖွင့်ရန် ဘားတန်း</string>
@@ -1277,9 +1344,9 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="talkback_pre">ပြီးခဲ့သော သီချင်း</string>
     <string name="talkback_search">ရှာဖွေ</string>
     <string name="talkback_show_navigation_draw">တည်နေရာလမ်းညွှန် ပြပါ</string>
-    <string name="task_card_button_exchange">Redeem</string>
-    <string name="task_card_message_received_successfully">"You've completed today's tasks. Redeem your coins now!"</string>
-    <string name="task_card_title_received_successfully">Claimed successfully</string>
+    <string name="task_card_button_exchange">ငွေလဲရန်</string>
+    <string name="task_card_message_received_successfully">ယနေ့အလုပ်တာဝန် ပြီးသွားပါပြီ။ ဒင်္ဂါးပြားများ ယခုငွေလဲပါ။</string>
+    <string name="task_card_title_received_successfully">အောင်မြင်စွာ တောင်းခံပြီးပါပြီ</string>
     <string name="telephone_permissions_for_push">ခေါ်ဆိုမှုခွင့်ပြုချက်များ - Google တွန်းပို့အသိပေးချက်ဝန်ဆောင်မှုများ ပေးရန်</string>
     <string name="terms_of_service">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
@@ -1361,7 +1428,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="toast_playlist_has_been_private">ဤသီချင်းစာရင်းသည် တစ်ကိုယ်ရေသုံးဖြစ်သည်</string>
     <string name="toast_playlist_has_been_public">ဤသီချင်းစာရင်းသည် အများသုံးဖြစ်သည်</string>
     <string name="toast_playmode_loop_playback">လက်ရှိသီချင်းစာရင်းကို ထပ်ကျော့ဖွင့်ထားသည်</string>
-    <string name="toast_playmode_shuffle_play">သီချင်းစာရင်းကို ကျပန်းအစီအစဉ်ဖြင့် ဖွင့်ထားသည်</string>
+    <string name="toast_playmode_shuffle_play">ပြန်ဖွင့်ခြင်းကို ရောမွှေထားသည်</string>
     <string name="toast_playmode_single_cycle">လက်ရှိသီချင်းကို ထပ်ကျော့ဖွင့်ထားသည်</string>
     <string name="toast_uhd_songs_for_download">ဒေါင်းလုဒ် အရည်အသွေးအား အမြင့်သို့ သတ်မှတ်လိုက်သည်</string>
     <string name="toast_uhd_songs_for_stream">နားဆင်အရည်အသွေးအား အမြင့်သို့ သတ်မှတ်လိုက်သည်</string>
@@ -1370,6 +1437,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="today">ယနေ့</string>
     <string name="today_hot_playlist">ယနေ့ထိပ်တန်းသီချင်းစာရင်း</string>
     <string name="tomorrow">မနက်ဖြန်</string>
+    <string name="tools_settings">ကိရိယာများဆက်တင်</string>
     <string name="top_chart_title">ပုံစံကားချပ်</string>
     <string name="track_play_history_after_login">ပြန်ပြမှတ်တမ်းကို ကြည့်ရန် အကောင့်ဝင်ပါ</string>
     <string name="tuesday">အင်္ဂါ</string>
@@ -1380,7 +1448,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="unknown_artist_name">အမည်မသိ အနုပညာရှင်</string>
     <string name="unlimited_downloads">အကန့်အသတ်မရှိ ဒေါင်းလုဒ်များ</string>
     <string name="unlimited_offline_songs">အကန့်အသတ်မရှိ အော့ဖ်လိုင်း သီချင်းများ</string>
-    <string name="unlimited_skips">Unlimited skips</string>
+    <string name="unlimited_skips">အကန့်အသတ်မဲ့ ကျော်သွားနိုင်သည်</string>
     <string name="update_now">ယခု အပ်ဒိတ်လုပ်မည်</string>
     <string name="upgrade_music">သီချင်းအား အပ်ဒိတ်လုပ်မည်</string>
     <string name="upgrade_music_message">ပက်ကေ့ချ်အဆင်သင့်ဖြစ်နေပါပြီ။ အသစ်မွမ်းမံရန် ပြန်စတင်ပါ။</string>
@@ -1393,10 +1461,11 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">အွန်လိုင်းသီချင်းများကို Xiaomi အကောင့် သုံးသောအခြားစက်များတွင် ဖွင့်နိုင်ရန် hungama သို့ ဆင့်(ခ်)လုပ်ထားပါ။</string>
     <string name="upload_playlist_to_hungama_toast">အွန်လိုင်းသီချင်းများကို hungama သို့ ဆင့်(ခ်)လုပ်လိုက်ပါမည်</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီချက်</string>
-    <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=my_MM</string>
+    <string name="user_experience_program_open">မူပိုင်ခွင့်အကန့်အသတ်များကြောင့် ဒေါင်းလုဒ်လုပ်ထားသော သီချင်းများကို ဖွင့်နိုင်ရန် အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် စာရင်းသွင်းရပါမည်။ ၎င်းကို ပြုလုပ်ရန် - ဆက်တင် > စကားဝှက်နှင့် လုံခြုံရေးး > ကိုယ်ရေးအချက်အလက်လုံခြုံမှု > အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် စာရင်းသွင်းရန်။</string>
     <string name="user_playlist_plaza">သီချင်းစာရင်း</string>
     <string name="user_privacy_dialog_negative_text">ဖျက်သိမ်းမည်</string>
-    <string name="user_privacy_dialog_positive_count_down_text">Withdraw (%ss)</string>
+    <string name="user_privacy_dialog_positive_count_down_text">ရုပ်သိမ်းရန် (%s စက္ကန့်)</string>
     <string name="user_privacy_dialog_positive_text">ရုပ်သိမ်းရန်</string>
     <string name="user_privacy_setting_group_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="user_privacy_setting_title">ခလုတ်ပိတ်ခြင်းဖြင့် သင်သည် Mi တေးဂီတ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ချက်ကို ရုပ်သိမ်းရာရောက်သည်။</string>
@@ -1458,10 +1527,11 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="youtube_store_dialog_desc">အကြိုက်ဆုံးသို့ထည့်ထားသော အွန်လိုင်းဗီဒီယိုများကို ဤနေရာတွင် ရှာနိုင်သည်။ ဗီဒီယိုကို ယခင်က ဖွင့်ဖူးလျှင် နောက်တစ်ကြိမ်ပြန်ကြည့်ရန် မိုဘိုင်းဒေတာသုံးစရာမလိုပါ။</string>
     <string name="youtube_store_dialog_ok">ရပါပြီ</string>
     <string name="youtube_tab_explore">ရှာဖွေရန်</string>
-    <string name="youtube_tab_playlist">Playlists</string>
+    <string name="youtube_tab_playlist">သီချင်းစာရင်း</string>
     <string name="youtube_tab_popular">လူကြိုက်များသည်</string>
     <string name="youtube_tab_radar">ရေဒါ</string>
     <string name="youtube_tab_shorts">ဇာတ်ကားတို</string>
     <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">ခေတ်ပေါ်</string>
+    <string name="ytb_turn_on_sound">အသံဖွင့်ရန် တို့ပါ</string>
 </resources>

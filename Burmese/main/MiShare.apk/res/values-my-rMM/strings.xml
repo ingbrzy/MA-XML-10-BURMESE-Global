@@ -74,7 +74,7 @@
     <string name="error_p2p_create_group_failure_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
     <string name="error_p2p_recv_connect_timeout">ချိတ်မရပါ။ စက်နှစ်လုံးစလုံးတွင် Wi-Fi ပြန်ချိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="error_p2p_recv_connect_timeout_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
-    <string name="error_permission_denied">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ဆက်တင်တွင် Mi မျှဝေခြင်း အတွက် လိုအပ်သော ခွင့်ပြုချက်အားလုံးကို ပေးပါ။</string>
+    <string name="error_permission_denied">ဤအင်္ဂါရပ်ကိုသုံးနိုင်ရန် ဆက်တင်တွင် Xiaomi မျှဝေခြင်းအတွက် လိုအပ်သော ခွင့်ပြုချက်အားလုံးပေးပါ။</string>
     <string name="error_receive_file_cannot_read">ဖိုင်လက်ခံမရပါ</string>
     <string name="error_receive_file_changed">လက်ခံမရပါ။ အမယ်ပြောင်းသွားပါသည်။</string>
     <string name="error_receive_file_file_opened">ဤအရာကို လက်ခံမရပါ။ ၎င်းကို သုံးလက်စဖြစ်နေပုံရပါသည်။</string>
@@ -93,8 +93,8 @@
     <string name="error_send_file_service_disabled">ပေးပို့မည့် ကူးပြောင်းမှုကို ပယ်ဖျက်ခဲ့သည်</string>
     <string name="error_send_transfer_error">အကြောင်းအရာများ ပို့မရပါ။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="error_send_transfer_pc_error">Transfer timed out. Update Xiaomi PC Manager to the latest version and try again.</string>
-    <string name="error_slave_wifi_in_use">Wi-Fi နှစ်ခုတွဲ ဖွင့်ထားစဉ် Mi မျှဝေခြင်း အလုပ်မလုပ်ပါ။ Wi-Fi နှစ်ခုတွဲကို ဆက်တင်များတွင် ပိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
-    <string name="error_slave_wifi_in_use_china">"Mi Share won't work when dual WLAN is on. Turn off dual WLAN in the Settings and try again."</string>
+    <string name="error_slave_wifi_in_use">Wi-Fi နှစ်ခုတွဲ ဖွင့်ထားစဉ် Xiaomi မျှဝေခြင်း အလုပ်မလုပ်ပါ။ Wi-Fi နှစ်ခုတွဲကို ဆက်တင်တွင် ပိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="error_slave_wifi_in_use_china">WLAN နှစ်ခုတွဲ ဖွင့်ထားစဉ် Xiaomi မျှဝေခြင်း အလုပ်မလုပ်ပါ။ WLAN နှစ်ခုတွဲကို ဆက်တင်တွင် ပိတ်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="error_timeout">အချိန်ကုန်သွားပါပြီ။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="error_user_refuse">ပို့မရပါ။ လွှဲပြောင်းမှုကို ပယ်ချလိုက်သည်။</string>
     <string name="error_wifi_display_in_use">လွှင့်တင်နေစဉ် ဖိုင်များကို အခြားစက်များသို့ ပို့မရပါ</string>
@@ -172,17 +172,17 @@
     <string name="go_to_settings">ဆက်တင်များ</string>
     <string name="guide_summary_1">အခြားပုဂ္ဂိုလ်က အသိပေးချက်အရိပ်တွင် ခလုတ်ကို အဖွင့်အပိတ်လုပ်နိုင်သည်</string>
     <string name="guide_summary_2">အကြောင်းအရာများပိုလိုသော စက်ကိုရွေးပြီး ၎င်း၏ သင်္ကေတကို နှိပ်ပါ</string>
-    <string name="guide_title_1">စက်နှစ်လုံးစလုံးတွင် Mi မျှဝေခြင်းကို ဖွင့်ပါ</string>
+    <string name="guide_title_1">စက်နှစ်လုံးစလုံးတွင် Xiaomi မျှဝေခြင်းကို ဖွင့်ပါ</string>
     <string name="guide_title_2">မျှဝေလိုသောစက်ကို ရွေးပါ</string>
     <string name="help">စက်များ ရှာမတွေ့ဘူးလား။</string>
-    <string name="help_content">သင်လိုအပ်သော စက်ကို ရှာမရပါက တစ်ဖက်လူအား Mi မျှဝေခြင်းကို ဖွင့်ခိုင်းပါ။</string>
+    <string name="help_content">သင်လိုအပ်သော စက်ကို ရှာမရပါက တစ်ဖက်လူအား Xiaomi မျှဝေခြင်းကို ဖွင့်ခိုင်းပါ။</string>
     <string name="hide">ဖုံးထားရန်</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">နားလည်ပါပြီ</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="location_enabled">အနီးအနားရှိစက်များကို ရှာရန် Mi Share က တည်နေရာဝန်ဆောင်မှုများ ဖွင့်ထားသည်</string>
+    <string name="location_enabled">အနီးအနားရှိစက်များကို ရှာရန် Xiaomi မျှဝေခြင်းက တည်နေရာဝန်ဆောင်မှုများ ဖွင့်ထားသည်</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_manager_and_use_guide_title">ခွင့်ပြုချက်အသေးစိတ်</string>
@@ -202,7 +202,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi မျှဝေခြင်း</string>
+    <string name="mi_drop">Xiaomi မျှဝေခြင်း</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -210,14 +210,14 @@
     <string name="mi_share_turbo_mode">အရှိန်မြှင့်လွှဲပြောင်းခြင်း</string>
     <string name="midnight">ည</string>
     <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
-    <string name="mishare_folder_in_file_explorer">ဖိုင်မန်နေဂျာ > MiShare</string>
-    <string name="mishare_service_channel_desc">Mi မျှဝေခြင်း လုပ်ဆောင်ချက်များဆိုင်ရာ အသိပေးချက်များ</string>
-    <string name="mishare_settings_summary_international">"Mi မျှဝေခြင်းသည် သင့်အား အနီးအနားရှိ အခြားစက်များသို့ ဝိုင်ယာလက်နည်းပညာသုံး၍ အိုင်တမ်များ ပေးပို့နိုင်စေပါသည်။
-ဤအင်္ဂါရပ်အား OPPO၊ vivo၊ realme နှင့် အခြားသော စမတ်ဖုန်းထုတ်လုပ်သူများက ပံ့ပိုးပေးထားခြင်း ဖြစ်ပါသည်။ ရွေးချယ်ထားသော ကုန်အမှတ်တံဆိပ်တစ်ခုခု၏ တရားဝင်ဝဘ်ဆိုက်ပေါ်တွင် အသုံးပြု၍ရနိုင်သော စက်များစာရင်းကို စစ်ဆေးကြည့်ရှုနိုင်ပါသည်။"</string>
-    <string name="mishare_state_protection">Mi မျှဝေခြင်းကို အလိုအလျောက်ဖွင့်ရန်</string>
-    <string name="mishare_state_protection_summary">ဘလူးတုနှင့် Wi-Fi ကို ပြန်ဖွင့်လျှင် Mi မျှဝေခြင်းကို အလိုအလျောက်ပြန်ဖွင့်ပါ။</string>
-    <string name="mishare_state_protection_summary_china">Turn Mi Share back on automatically when Bluetooth or WLAN are turned back on</string>
-    <string name="mishare_transefer_channel_desc">Mi မျှဝေခြင်းရှိ ပေးပို့ လက်ခံသော အရာများဆိုင်ရာ အသိပေးချက်များ</string>
+    <string name="mishare_folder_in_file_explorer">ဖိုင်မန်နေဂျာ > Xiaomi မျှဝေခြင်း</string>
+    <string name="mishare_service_channel_desc">Xiaomi မျှဝေခြင်း လုပ်ဆောင်ချက် အသိပေးချက်များ</string>
+    <string name="mishare_settings_summary_international">"Xiaomi မျှဝေခြင်းတွင် အကြောင်းအရာများကို အနီးနားရှိစက်များသို့ ကြိုးမဲ့မျှဝေနိုင်သည်။
+ဤအင်္ဂါရပ်ကို OPPO၊ vivo၊ realme နှင့် အခြားစမတ်ဖုန်းထုတ်လုပ်သူများက ပံ့ပိုးသည်။ ပံ့ပိုးသော စက်စာရင်းကို ရွေးထားသောတံဆိပ်များ၏ သက်ဆိုင်ရာတရားဝင်ဝက်ဘဆိုက်တွင် ကြည့်နိုင်သည်။"</string>
+    <string name="mishare_state_protection">Xiaomi မျှဝေခြင်းကို အလိုအလျောက်ဖွင့်ရန်</string>
+    <string name="mishare_state_protection_summary">ဘလူးတုနှင့် Wi-Fi ကို ပြန်ဖွင့်လျှင် Xiaomi မျှဝေခြင်းကို အလိုအလျောက်ပြန်ဖွင့်ပါ။</string>
+    <string name="mishare_state_protection_summary_china">ဘလူးတုနှင့် Wi-Fi ကို ပြန်ဖွင့်လျှင် Xiaomi မျှဝေခြင်းကို အလိုအလျောက်ပြန်ဖွင့်ပါ။</string>
+    <string name="mishare_transefer_channel_desc">Xiaomi မျှဝေခြင်းတွင် ပေးပို့လက်ခံသော အရာများအကြောင်း အသိပေးချက်များ</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
@@ -288,8 +288,8 @@
     <string name="nfc_check_the_touch_device">စက်များကိုချိတ်ရန် အခြားစက်များတွင်လည်း Wi-Fi နှင့် ဘလူးတုကို ဖွင့်ထားရပါမည်။ ဆက်တင် > ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း > ချိတ်ထားသောစက်များတွင် အခြားစက်များအတွက် ချိတ်ဆက်မှုကို ခွင့်ပြုထားသလားစစ်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="nfc_check_the_touch_device_china">စက်များကိုချိတ်ရန် အခြားစက်များတွင်လည်း WLAN နှင့် ဘလူးတုကို ဖွင့်ထားရပါမည်။ ဆက်တင် > ချိတ်ဆက်မှုနှင့် မျှဝေခြင်း > ချိတ်ထားသောစက်များတွင် အခြားစက်များအတွက် ချိတ်ဆက်မှုကို ခွင့်ပြုထားသလားစစ်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="nfc_connect_fail">ချိတ်မရပါ။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
-    <string name="nfc_connect_fail_lyra_secure">Mi မျှဝေခြင်းကို စက်ထိန်းချုပ်စင်တာတွင် ဖွင့်နိုင်သည်။</string>
-    <string name="nfc_connect_fail_lyra_secure_title">Mi မျှဝေခြင်းပိတ်ထားသည်</string>
+    <string name="nfc_connect_fail_lyra_secure">Xiaomi မျှဝေခြင်းကို စက်ထိန်းချုပ်စင်တာတွင် ဖွင့်နိုင်သည်။</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Xiaomi မျှဝေခြင်းပိတ်ထားသည်</string>
     <string name="nfc_connect_fail_pad">ချိတ်မရပါ</string>
     <string name="nfc_connecting">ချိတ်နေသည်…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">စက်များကိုချိတ်ရန် ဤစက်တွင် Wi-Fi နှင့် ဘလူးတုကို ဦးစွာဖွင့်ရပါမည်။ ယခုဖွင့်လိုသလား။</string>
@@ -314,15 +314,15 @@
     <string name="pc_device_model_name">ကွန်ပျူတာ</string>
     <string name="pc_redmi_device_model_name">Redmi လက်ပတော့</string>
     <string name="pc_xiaomi_device_model_name">Xiaomi လက်ပတော့</string>
-    <string name="permission_apply_purpose">ဖိုင်များလွှဲပြောင်းနိုင်ရန် Mi မျှဝေခြင်းအား အနီးအနားရှိစက်များကို ရှာပြီး ချိတ်ခွင့်ပေးပါ။</string>
-    <string name="permission_denied_hint">Mi မျှဝေခြင်းကို သုံးနိုင်ရန် လိုအပ်သောခွင့်ပြုချက်များ ပေးပါ</string>
+    <string name="permission_apply_purpose">ဖိုင်များလွှဲပြောင်းနိုင်ရန် Xiaomi မျှဝေခြင်းအား အနီးအနားရှိစက်များကို ရှာပြီး ချိတ်ခွင့်ပေးပါ။</string>
+    <string name="permission_denied_hint">Xiaomi မျှဝေခြင်း သုံးနိုင်ရန် လိုအပ်သောခွင့်ပြုချက်များပေးပါ</string>
     <string name="permission_related">ခွင့်ပြုချက်များ</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_authorize">ခွင့်ပြုချက်</string>
     <string name="progress_ratio">%1$d%%</string>
-    <string name="purpose">"Mi မျှဝေခြင်းမှ ကြိုဆိုပါသည်။ စက်တစ်ခုနှင့် တစ်ခုအကြား ဖိုင်များလွှဲပြောင်းရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။ သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းနှင့် မူဝါဒများအရ ကာကွယ်ပေးပါသည်။
-Mi မျှဝေခြင်းကို မသုံးမီ အောက်ပါခွင့်ပြုချက်များပေးရမည်ဖြစ်ပြီး လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကိုလည်း ကောက်ယူခွင့်ပြုရပါမည်။"</string>
-    <string name="purpose_v12">Mi မျှဝေခြင်းမှ ကြိုဆိုပါသည်။ စက်တစ်ခုနှင့် တစ်ခုအကြား ဖိုင်များဖလှယ်ရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
+    <string name="purpose">"Xiaomi မျှဝေခြင်းမှ ကြိုဆိုပါသည်။ စက်တစ်ခုနှင့် တစ်ခုအကြား ဖိုင်များလွှဲပြောင်းရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။ သင်၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို သက်ဆိုင်ရာ ဥပဒေများ၊ စည်းမျဉ်းစည်းကမ်းနှင့် မူဝါဒများအရ ကာကွယ်ပေးပါသည်။
+Xiaomi မျှဝေခြင်းကို မသုံးမီ အောက်ပါခွင့်ပြုချက်များပေးရမည်ဖြစ်ပြီး လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကိုလည်း ကောက်ယူခွင့်ပြုရပါမည်။"</string>
+    <string name="purpose_v12">Xiaomiမျှဝေခြင်းမှ ကြိုဆိုပါသည်။ စက်များအကြား ဖိုင်လွှဲပြောင်းရန် ဤအက်(ပ်)ကို သုံးနိုင်သည်။</string>
     <string name="queue_full">အသစ်မထည့်မီ လက်ရှိလွှဲပြောင်းမှု ပြီးအောင်စောင့်ပါ။</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
@@ -402,7 +402,7 @@ Mi မျှဝေခြင်းကို မသုံးမီ အောက်
     <string name="start_receive_much_files_from_pc">%1$s ထံမှ ဖိုင် %2$d ကျော် လက်ခံနေသည်…</string>
     <string name="sub_title_mishare_switch">ဤအင်္ဂါရပ်သည် %d မိနစ်ကြာလျှင် အလိုအလျောက်ပိတ်ပါမည်</string>
     <string name="sub_title_turbo_mode">Xiaomi ဖုန်းများနှင့် တက်ဘလက်များအကြား အလွန်မြန်သော လွှဲပြောင်းမှုများ။ လွှဲပြောင်းစဉ် ကွန်ရက်ပြုတ်သွားပါမည်။</string>
-    <string name="sub_title_withdraw_privacy_policy_consent">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်းဖြင့် Mi မျှဝေခြင်းလည်း ပိတ်ပါမည်</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်းဖြင့် Xiaomi မျှဝေခြင်းလည်း ပိတ်ပါမည်</string>
     <string name="success_receive_much_file_from_pc">%1$s ထံမှ ဖိုင် %2$d ကျော် လက်ခံထားသည်။ ကြည့်ရန်တို့ပါ။</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
@@ -461,22 +461,20 @@ Mi မျှဝေခြင်းကို မသုံးမီ အောက်
     <string name="time_picker_label_minute">မိနစ်</string>
     <string name="tips_p2p_support_use5g">အကောင်းရလဒ်များအတွက် 5 GHz Wi-Fi ကွန်ရက်သုံးပါ။</string>
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
-    <string name="tips_prompt_enable_midrop">Mi မျှဝေခြင်း</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi မျှဝေခြင်း</string>
     <string name="to_feedback">သတင်းပို့မည်</string>
-    <string name="toast_auto_close_in_minutes">Mi မျှဝေခြင်းသည် %d မိနစ်ကြာလျှင် အလိုအလျောက်ပိတ်ပါမည်</string>
+    <string name="toast_auto_close_in_minutes">%d မိနစ်အတွင်း Xiaomi မျှဝေခြင်းက အလိုအလျောက်ပိတ်ပါမည်</string>
     <string name="toast_transfering">အကြောင်းအရာများ လွှဲပြောင်းနေသည်။ နောက်မှထပ်လုပ်ကြည့်ပါ။</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="transfer_intercept_to_remote">ပို့မရပါ - %1$s</string>
-    <string name="transfer_to_pc_summary">Mi မှတ်စုစာအုပ်တွင် ထည့်သွင်းထားသော AIoT ဆော့(ဖ်)ဝဲနောက်ဆုံးဗားရှင်းကို Mi မျှဝေခြင်းနှင့် တွဲသုံး၍ ရပါသည်။ အသုံးပြုနိုင်သော လက်ပတော့ မော်ဒယ်များကို MIUI ဝက်ဘဆိုက်တွင် ကြည့်ပါ။ စာရင်းထဲတွင် သင့်လက်ပတော့ကို တွေ့သော်လည်း ၎င်းတွင် AIoT ထည့်သွင်းထားခြင်း မရှိပါက သင့်လက်ပတော့၏ BIOS နှင့် ကွန်ရက်အဒတ်ပတာဒရိုင်ဘာကို အပ်ပဒိတ်လုပ်ပြီး AIoT ကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
-    <string name="transfer_to_pc_summary_new">&lt;Data>Mi မှတ်စုစာအုပ်တွင် ထည့်သွင်းထားသော MIUI+ နောက်ဆုံးဗားရှင်းကို Mi မျှဝေခြင်းနှင့် တွဲသုံး၍ ရပါသည်။ အသုံးပြုနိုင်သော လက်ပတော့ မော်ဒယ်များကို MIUI+ ဝက်ဘဆိုက်တွင် ကြည့်ပါ (&lt;a href=%1$s>%2$s&lt;/a>)။ စာရင်းထဲတွင် သင့်လက်ပတော့ကို တွေ့သော်လည်း ၎င်းတွင် MIUI+ ထည့်သွင်းထားခြင်း မရှိပါက သင့်လက်ပတော့၏ BIOS နှင့် ကွန်ရက်အဒတ်ပတာဒရိုင်ဘာကို အပ်ပဒိတ်လုပ်ပြီး MIUI+ ကို ဒေါင်းလုဒ်လုပ်ပါ။&lt;/Data></string>
-    <string name="transfer_to_pc_summary_new_plus">&lt;Data>Xiaomi PC Manager now supports Mi Share! You can find a list of supported computer models &lt;a href=%1$s>here&lt;/a>.&lt;/Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC မန်နေဂျာတွင်လည်း Xiaomi မျှဝေခြင်းကို ပံ့ပိုးပါပြီ။ ပံ့ပိုးသော ကွန်ပျူတာမော်ဒယ်စာရင်းကို &lt;a href=%1$s>ဤနေရာ&lt;/a>တွင် ကြည့်နိုင်သည်။</Data></string>
     <string name="transfer_to_pc_title">ဖိုင်များကို ကွန်ပျူတာများသို့ ပို့ရန်</string>
-    <string name="transfer_to_phone_summary">Mi မျှဝေခြင်းအား အသိပေးချက်အရိပ်ရှိ ခလုတ်ကို သုံးပြီး ဖွင့်ပါ။ ၎င်းနောက် သင်က ဓာတ်ပုံတစ်ပုံ သို့မဟုတ် ဖိုင်တစ်ခုကို မျှဝေရန် စလိုက်လျှင် အနီးအနားရှိ စက်များကို မြင်ရပါမည်။ သင်မျှဝေသောအရာကို လက်ခံမည့်စက်အား တို့ပါ။</string>
-    <string name="transfer_to_phone_summary_new">အကြောင်းအရာများကို အလွယ်တကူ ပေးပို့လက်ခံနိုင်ရန် ထိန်းချုပ်စင်တာတွင် Mi မျှဝေခြင်းဖွင့်ပါ။ ၎င်းကိုဖွင့်ပြီးနောက် %d မိနစ် အကြာတွင် အလိုအလျောက် ပိတ်မသွားမီ အကြောင်းအရာများကို အနီးအနားရှိ စက်များနှင့် မျှဝေနိုင်သည်။</string>
+    <string name="transfer_to_phone_summary">Xiaomi မျှဝေခြင်းအား အသိပေးချက်ရှိတ်ရှိ ခလုတ်သုံးပြီး ဖွင့်ပါ။ ၎င်းနောက် သင်က ဓာတ်ပုံတစ်ပုံ သို့မဟုတ် ဖိုင်တစ်ခုကို မျှဝေရန် စလိုက်လျှင် အနီးအနားရှိ စက်များကို မြင်ရပါမည်။ သင်မျှဝေသောအရာကို လက်ခံမည့်စက်အား တို့ပါ။</string>
+    <string name="transfer_to_phone_summary_new">အကြောင်းအရာများကို အလွယ်တကူ ပေးပို့လက်ခံနိုင်ရန် ထိန်းချုပ်စင်တာတွင် Xiaomi မျှဝေခြင်းကို ဖွင့်ပါ။ ၎င်းကိုဖွင့်ပြီးနောက် %d မိနစ် အကြာတွင် အလိုအလျောက် ပိတ်မသွားမီ အကြောင်းအရာများကို အနီးအနားရှိ စက်များနှင့် မျှဝေနိုင်သည်။</string>
     <string name="transfer_to_phone_title">ဖိုင်များကို ဖုန်းများသို့ ပို့ရန်</string>
-    <string name="transfer_to_summary">Mi မျှဝေခြင်းအား အသိပေးချက်အရိပ်ရှိ ခလုတ်ကို သုံးပြီး ဖွင့်ပါ။ ၎င်းနောက် သင်က ဓာတ်ပုံတစ်ပုံ သို့မဟုတ် ဖိုင်တစ်ခုကို မျှဝေရန် စလိုက်လျှင် အနီးအနားရှိ စက်များကို မြင်ရပါမည်။ သင်မျှဝေသောအရာကို လက်ခံမည့်စက်အား တို့ပါ။</string>
-    <string name="transfer_to_summary_new">အကြောင်းအရာများကို အလွယ်တကူ ပေးပို့လက်ခံနိုင်ရန် ထိန်းချုပ်စင်တာတွင် Mi မျှဝေခြင်းဖွင့်ပါ။ ၎င်းကိုဖွင့်ပြီးနောက် %d မိနစ် အကြာတွင် အလိုအလျောက် ပိတ်မသွားမီ အကြောင်းအရာများကို အနီးအနားရှိ စက်များနှင့် မျှဝေနိုင်သည်။</string>
+    <string name="transfer_to_summary">Xiaomi မျှဝေခြင်းအား အသိပေးချက်ရှိတ်ရှိ ခလုတ်သုံးပြီး ဖွင့်ပါ။ ၎င်းနောက် သင်က ဓာတ်ပုံတစ်ပုံ သို့မဟုတ် ဖိုင်တစ်ခုကို မျှဝေရန် စလိုက်လျှင် အနီးအနားရှိ စက်များကို မြင်ရပါမည်။ သင်မျှဝေသောအရာကို လက်ခံမည့်စက်အား တို့ပါ။</string>
+    <string name="transfer_to_summary_new">အကြောင်းအရာများကို အလွယ်တကူ ပေးပို့လက်ခံနိုင်ရန် ထိန်းချုပ်စင်တာတွင် Xiaomi မျှဝေခြင်းကို ဖွင့်ပါ။ ၎င်းကိုဖွင့်ပြီးနောက် %d မိနစ် အကြာတွင် အလိုအလျောက် ပိတ်မသွားမီ အကြောင်းအရာများကို အနီးအနားရှိ စက်များနှင့် မျှဝေနိုင်သည်။</string>
     <string name="transfer_to_title">ဖိုင်များကို မိုဘိုင်းစက်များသို့ ပို့ရန်</string>
     <string name="tuesday">အင်္ဂါ</string>
     <string name="tuesday_short">အင်္ဂါ</string>
@@ -485,8 +483,8 @@ Mi မျှဝေခြင်းကို မသုံးမီ အောက်
     <string name="unrecognized_manufacture">အမည်မသိ</string>
     <string name="unrecognized_model">အမျိုးအမည်မသိ စက်ပစ္စည်း</string>
     <string name="user_instructions">သတိပြုရန်</string>
-    <string name="uwb_guide_summary_1">ဖွင့်လိုသည့် စက်ကို ရှာမတွေ့ပါက တစ်ဖက်လူအား ၎င်း၏ ထိန်းချုပ်စင်တာတွင် Mi မျှဝေခြင်းခလုတ်ကို တို့ခိုင်းပါ။</string>
-    <string name="uwb_guide_title_1">တစ်ဖက်လူအား Mi မျှဝေခြင်းကို ဖွင့်ခိုင်းပါ</string>
+    <string name="uwb_guide_summary_1">ဖွင့်လိုသည့် စက်ကို ရှာမတွေ့ပါက တစ်ဖက်လူအား ၎င်း၏ ထိန်းချုပ်စင်တာတွင် Xiaomi မျှဝေခြင်းခလုတ်ကို တို့ခိုင်းပါ။</string>
+    <string name="uwb_guide_title_1">တစ်ဖက်လူအား Xiaomi မျှဝေခြင်းကို ဖွင့်ခိုင်းပါ</string>
     <string name="uwb_guide_title_2">ဖွင့်လိုသော စက်ကို Beam နှင့် အမြန်ရှာပါ</string>
     <string name="uwb_setting_guide">ပိုမိုလေ့လာရန်</string>
     <string name="uwb_setting_guide_summary">Beam သည် ဖွင့်လိုသည့်စက်များကို ကြိုးမဲ့ မှတ်မိနိုင်ရန် UWB နည်းပညာသုံးသည်။ ဖွင့်လိုသည့်စက်ကို မှတ်မိသည်နှင့် တစ်ပြိုင်နက် နောက်ခံတွင် ၎င်း၏သင်္ကေတ ပေါ်ပါမည်။</string>
@@ -506,7 +504,7 @@ Mi မျှဝေခြင်းကို မသုံးမီ အောက်
     <string name="wifi_is_not_enabled">ဦးစွာ Wi-Fi ဖွင့်ပါ</string>
     <string name="wifi_is_not_enabled_china">Turn on WLAN first</string>
     <string name="withdraw">ရုပ်သိမ်းရန်</string>
-    <string name="withdraw_consent_message">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် Mi မျှဝေခြင်း၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ Mi မျှဝေခြင်းသည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် Mi မျှဝေခြင်း ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။</string>
+    <string name="withdraw_consent_message">ရှေ့ဆက်ခြင်းဖြင့် သင်သည် Xiaomi မျှဝေခြင်း၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ Xiaomi မျှဝေခြင်းသည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် Xiaomi မျှဝေခြင်း ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။</string>
     <string name="withdraw_consent_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="withdraw_with_time">ရုပ်သိမ်းရန် (%1$dစက္ကန့်)</string>
     <string name="xiaomi">Mi</string>

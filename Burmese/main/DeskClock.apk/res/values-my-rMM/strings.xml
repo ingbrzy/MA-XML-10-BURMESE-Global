@@ -383,6 +383,7 @@
     <string name="shutdown_alarm_alert_title">အပိတ်နှိုးစက်</string>
     <string name="shutdown_alarm_disable_summary">ဖုန်း ပါဝါပိတ်သွားသော်လည်း နှိုးစက် မပိတ်ပါ</string>
     <string name="silent_alarm_summary">အသံတိတ်</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>

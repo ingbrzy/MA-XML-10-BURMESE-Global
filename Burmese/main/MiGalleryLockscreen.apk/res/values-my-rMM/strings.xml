@@ -93,10 +93,14 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">နောက်ထပ်</string>
     <string name="miuix_appcompat_cancel_description">ပယ်ဖျက်မည်</string>
+    <string name="miuix_appcompat_cloud_state_disabled">ကလောက်နှင့် ဆင့်(ခ်)လုပ်ခြင်း ပိတ်ထားသည်</string>
+    <string name="miuix_appcompat_cloud_state_finished">ကလောက်နှင့် အောင်မြင်စွာ ဆင့်(ခ်)လုပ်ပြီးပါပြီ</string>
+    <string name="miuix_appcompat_cloud_state_syncing">ကလောက်နှင့် ဆင့်(ခ်)လုပ်နေသည်…</string>
     <string name="miuix_appcompat_confirm_description">အတည်ပြုမည်</string>
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
     <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_edit">ပြင်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -110,6 +114,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
+    <string name="miuix_search_action_mode_cancel">မလုပ်တော့ရန်</string>
+    <string name="miuix_search_history_clear">ရှာဖွေမှတ်တမ်းကို ရှင်းရန်</string>
+    <string name="miuix_search_history_default_title">ရှာဖွေမှတ်တမ်း</string>
+    <string name="miuix_search_recommendation_default_title">ဤအရာများကိုလည်း သင်စိတ်ဝင်စားနိုင်သည်</string>
+    <string name="miuix_search_recommendation_item_del_des">ဖျက်ရန်</string>
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>

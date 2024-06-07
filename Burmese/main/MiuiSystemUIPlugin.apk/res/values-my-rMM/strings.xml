@@ -159,7 +159,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">အသံတိတ်မုဒ်ကို ပိတ်လိုက်ပါပြီ။ ဖုန်းခေါ်သံများနှင့် အသိပေးချက်အသံများကို ပိတ်ထားတော့မည် မဟုတ်ပါ။</string>
     <string name="kddi_miui_toast_zen_to_standard">အသံတိတ်မုဒ်သို့ ပြောင်းထားသည်။ ဖုန်းသံများနှင့် အသိပေးချက်အသံများကို ပိတ်ထားလိုက်ပါမည်။</string>
     <string name="loading">အခြေအနေမသိပါ</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">ည</string>
     <string name="miplay_accessibility_cast">စက်ရွေးရန်</string>
     <string name="miplay_accessibility_cover">မျက်နှာဖုံး</string>
@@ -172,6 +172,8 @@
     <string name="miplay_bluetooth_share_des_text">"Xiaomi နားကြပ်အသုံးပြုသူများ - အားသွင်းဘူးဖွင့်ပါ သို့မဟုတ် ဘူးခလုတ်ကို %d စက္ကန့်ကြာ ထိပြီး ဖိထားပါ
 Xiaomi မဟုတ်သောနားကြပ် အသုံးပြုသူများ - သင့်နားကြပ်ဆက်တင်ကို ဘလူးတုဆက်တင်တွင် ပြန်သတ်မှတ်ပြီး ချိတ်ဆက်ပါ"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">အသံမျှဝေရန် နားကြပ်ထည့်ပါ</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">အသံမျှဝေခြင်း ပြီးပါပြီ</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">အသံမျှဝေရန် နားကြပ်ထည့်ပါ</string>
     <string name="miplay_bluetooth_share_subTitle_text">စက်အသံကို အခြားသူတစ်ဦးနှင့် မျှဝေရန်</string>
     <string name="miplay_bluetooth_share_title_text">အသံမျှဝေရန်</string>
     <string name="miplay_detail_divider_title">စပီကာများ</string>

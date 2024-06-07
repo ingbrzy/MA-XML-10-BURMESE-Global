@@ -29,7 +29,7 @@
     <string name="menu_label">မီနူး</string>
     <string name="menu_new_station">ပေါင်းထည့်မည်</string>
     <string name="menu_online_service">အွန်လိုင်းဝန်ဆောင်မှုများ</string>
-    <string name="menu_privacy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="menu_privacy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="menu_record_list">အသံဖမ်းယူမှုများ</string>
     <string name="menu_record_start">အသံဖမ်းယူခြင်းကို စတင်ပါ</string>
     <string name="menu_record_stop">အသံဖမ်းယူခြင်းကို ရပ်ဆိုင်းပါ</string>
@@ -57,6 +57,9 @@
     <string name="station_check_favorite">ကြိုတင်သတ်မှတ်ချက်များသို့ ပေါင်းထည့်ပါ</string>
     <string name="stations_list">အသံလွှင့်ဌာန စာရင်း</string>
     <string name="stations_list_empty">ကြိုတင်သတ်မှတ်ချက်များ မရှိပါ</string>
+    <string name="talkback_back">နောက်ပြန်သွားပါ</string>
+    <string name="talkback_close">ပိတ်ပါ</string>
+    <string name="talkback_speed">မြန်နှုန်း</string>
     <string name="toast_added_to_list">စာရင်းသို့ ပေါင်းထည့်ထားသည်</string>
     <string name="toast_added_to_presets">ကြိုတင်သတ်မှတ်ချက်များသို့ ပေါင်းထည့်ထားသည်</string>
     <string name="toast_fm_error_startfailed">အသံဖမ်းယူမှု အမှား။ အခြားအက်ပ်မှ အသံဖမ်းယူမှုအင်္ဂါရပ်ကို အသုံးပြုနေသည်။</string>
@@ -69,7 +72,6 @@
     <string name="toast_sleep_mode">%s တွင် ရေဒီယိုအား ပိတ်မည်</string>
     <string name="toast_sleep_mode_exit">အိပ်ချိန် တိုင်မာကို ပယ်ဖျက်ပြီးပြီ</string>
     <string name="turn_off_fm">FM ပိတ်ပါ</string>
-    <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">အိပ်စက်မုဒ်</string>
     <string name="using_recorder_cancel">ငြင်းဆိုမည်</string>
     <string name="using_recorder_confirm">ခွင့်ပြုမည်</string>
